@@ -43,29 +43,41 @@ This document outlines the architecture and implementation plan for Phase 2: aut
   - Series (e.g., 4000/5000 series on personnel/students are high priority)
 
 #### B. Document Parser (`policy_parser_structured.py`)
-- Convert plain text to structured format (JSON or pseudo-XML)
+- Convert plain text to structured pseudo-XML format
 - Extract key sections:
-  ```json
-  {
-    "metadata": {
-      "code": "3550",
-      "type": "Policy",
-      "title": "Food Service/Child Nutrition Program",
-      "adopted": "1996-03-26",
-      "last_reviewed": "2017-10-24",
-      "source": "RCSD Policies 3000.pdf"
-    },
-    "content": {
-      "main_text": "...",
-      "legal_references": {
-        "state": ["Education Code 49430-49436", ...],
-        "federal": ["42 USC 1751-1769"],
-        "regulations": ["7 CFR 210.1-210.31"]
-      },
-      "cross_references": ["3551", "3553"],
-      "csba_reference": "CSBA 10/16"
-    }
-  }
+  ```xml
+  <policy>
+    <metadata>
+      <code>3550</code>
+      <type>Policy</type>
+      <title>Food Service/Child Nutrition Program</title>
+      <adopted>1996-03-26</adopted>
+      <last_reviewed>2017-10-24</last_reviewed>
+      <source>RCSD Policies 3000.pdf</source>
+    </metadata>
+    <content>
+      <main_text>
+        The Board of Trustees recognizes that adequate nourishment is essential...
+      </main_text>
+      <legal_references>
+        <state_references>
+          <reference>Education Code 49430-49436</reference>
+          <reference>Education Code 49490-49494</reference>
+        </state_references>
+        <federal_references>
+          <reference>42 USC 1751-1769</reference>
+        </federal_references>
+        <code_of_regulations>
+          <reference>7 CFR 210.1-210.31</reference>
+        </code_of_regulations>
+      </legal_references>
+      <cross_references>
+        <policy_ref>3551</policy_ref>
+        <policy_ref>3553</policy_ref>
+      </cross_references>
+      <csba_reference>CSBA 10/16</csba_reference>
+    </content>
+  </policy>
   ```
 
 #### C. Prompt Builder (`compliance_prompter.py`)
@@ -91,7 +103,9 @@ This document outlines the architecture and implementation plan for Phase 2: aut
   
   Use web search to verify current Ed Code requirements if needed.
   
-  [Policy Text]
+  <policy_document>
+  [Structured XML Policy Content]
+  </policy_document>
   ```
 
 #### D. API Client (`claude_client.py`)
@@ -176,6 +190,8 @@ class ComplianceReport:
 5. **Cost Controls**: Implement spending limits and cost projections
 6. **Progressive Enhancement**: Start with highest-risk policies, stop when budget exhausted
 7. **Citation Validation**: Cross-reference found issues with CSBA advisories
+8. **XML Format**: Use pseudo-XML instead of JSON for better Claude performance
+9. **Model Flexibility**: Make the AI model configurable via environment variables
 
 ### Alternative Approach: Hybrid System
 
@@ -197,18 +213,21 @@ Assuming:
 - ~500 policies to check
 - Skip ~100 recent policies (2024+)
 - Average 2,000 tokens per policy
-- Claude API pricing: ~$3/million input tokens, $15/million output tokens
+- Claude 4 Sonnet pricing: ~$3/million input tokens, $15/million output tokens
 
 Estimated costs:
 - Input: 400 policies × 3,000 tokens = 1.2M tokens = ~$3.60
 - Output: 400 policies × 500 tokens = 200K tokens = ~$3.00
 - Total: ~$6.60 + margin for retries = ~$10-15
 
+Note: Costs may vary based on the selected model (configurable via ANTHROPIC_MODEL)
+
 ## Configuration
 
 ### Environment Variables
 ```
 ANTHROPIC_API_KEY=your-api-key-here
+ANTHROPIC_MODEL=claude-4-sonnet-20250514
 COMPLIANCE_BUDGET_USD=20.00
 COMPLIANCE_BATCH_SIZE=10
 COMPLIANCE_MAX_RETRIES=3
