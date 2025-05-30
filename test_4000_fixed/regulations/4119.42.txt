@@ -1,0 +1,231 @@
+RCSD Regulation 4119.42
+================================================================================
+Title: Exposure Control Plan For Bloodborne Pathogens
+Status: ADOPTED
+Original Adopted Date: 11/04/2009
+Last Reviewed Date: 11/04/2009
+Source: RCSD Policies 4000.pdf (Pages 153, 154, 155, 156, 157)
+================================================================================
+
+Definitions
+Occupational exposure means reasonably anticipated skin, eye, mucous membrane, or parenteral contact with blood
+or other potentially infectious materials that may result from the performance of an employee's duties. (8 CCR
+5193(b))
+Exposure incident means a specific eye, mouth, other mucous membrane, nonintact skin, or parenteral contact with
+blood or other potentially infectious materials that result from the performance of an employee's duties. (8 CCR
+5193 (b))
+Parenteral contact means piercing mucous membranes or the skin barrier through such events as needlesticks, human
+bites, cuts, and abrasions. (8 CCR 5193(b))
+A sharp is any object that can be reasonably anticipated to penetrate the skin or any other part of the body and to
+result in an exposure incident. (8 CCR 5193(b))
+A sharps injury is any injury caused by a sharp, including but not limited to cuts, abrasions or needlesticks. (8 CCR
+5193(b))
+Work practice controls are controls that reduce the likelihood of exposure by defining the manner in which a task is
+performed. (8 CCR 5193(b))
+Engineering controls are controls, such as sharps disposal containers, needleless systems, and sharps with engineered
+sharps injury protection, that isolate or remove the bloodborne pathogens hazard from the workplace. (8 CCR
+5193(b))
+Engineered sharps injury protection is a physical attribute built into a needle device or into a non-needle sharp which
+effectively reduces the risk of an exposure incident. (8 CCR 5193(b))
+Exposure Control Plan
+The district's exposure control plan shall contain at least the following components: (8 CCR 5193(c))
+1. A determination of which employees have occupational exposure to blood or other potentially infectious
+materials
+The district's exposure determination shall be made without regard to the use of personal protective
+equipment and shall include a list of:
+ 
+a. All job classifications in which all employees have occupational exposure
+ 
+b. Job classifications in which some employees have occupational exposure
+ 
+c. All tasks and procedures, or groups of closely related tasks and procedures, in which occupational
+exposure occurs and which are performed by employees listed in item #b above
+ 
+2. The schedule and method of implementing:
+ 
+a. Methods of compliance required by 8 CCR 5193(d), such as universal precautions, general and specific
+engineering and work practice controls, and personal protective equipment
+ 
+b. Hepatitis B vaccination
+ 
+c. Bloodborne pathogen post-exposure evaluation and follow-up
+ 
+d. Communication of hazards to employees, including labels, signs, information and training
+ 
+e. Recordkeeping
+ 
+Board Policy Manual
+Redwood City School District
+
+3. The district's procedure for evaluating circumstances surrounding exposure incidents
+ 
+4. An effective procedure for gathering information about each exposure incident involving a sharp, as required
+for the log of sharps injuries
+ 
+5. An effective procedure for periodically determining the frequency of use of the types and brands of sharps
+involved in exposure incidents documented in the sharps injury log
+ 
+6. An effective procedure for identifying currently available engineering controls and selecting such controls as
+appropriate for the procedures performed by employees in their work areas or departments
+ 
+7. An effective procedure for documenting instances when a licensed healthcare professional directly involved in
+a patient's care determines, in the reasonable exercise of clinical judgment, that the use of an engineering
+control would jeopardize an individual's safety or the success of a medical, dental or nursing procedure
+involving the individual
+ 
+8. An effective procedure for obtaining the active involvement of employees in reviewing and updating the
+exposure control plan with respect to the procedures performed by employees in their respective work areas
+or departments
+The exposure control plan shall be reviewed and updated at least annually and whenever necessary to: (8 CCR
+5193(c))
+1. Reflect new or modified tasks and procedures affecting occupational exposure
+ 
+2. To the extent that sharps are used in the district, reflect progress in implementing the use of needleless
+systems and sharps with engineered sharps injury protection
+ 
+3. Include new or revised employee positions with occupational exposure
+ 
+4. Review and evaluate the exposure incidents which occurred since the previous update
+ 
+5. Review and respond to information indicating that the exposure control plan is deficient in any area
+The district's exposure control plan shall be accessible to employees upon request. (8 CCR 3204(e))
+Preventive Measures
+The Superintendent or designee shall use engineering and work practice controls to eliminate or minimize employee
+exposure, and shall regularly examine and update controls to ensure their effectiveness. (8 CCR 5193(d))
+Hepatitis B Vaccination
+The hepatitis B vaccination and vaccination series shall be made available at no cost to all employees who have
+occupational exposure. The hepatitis B vaccination shall be made available after an employee with occupational
+exposure has received the required training and within 10 working days of initial assignment, unless the employee
+has previously received the complete hepatitis B vaccination series, or antibody testing has revealed that the
+employee is immune, or vaccination is contraindicated by medical reasons. (8 CCR 5193(f))
+Employees who decline to accept the vaccination shall sign the hepatitis B declination statement. (8 CCR 5193(f))
+The Superintendent or designee may exempt designated first aid providers from the pre-exposure hepatitis B
+vaccine in accordance with 8 CCR 5193 (f).
+Information and Training
+The Superintendent or designee shall ensure that all employees with occupational exposure participate in a training
+program containing the elements required by state regulations, during working hours and at no cost to the employee.
+This program shall be offered at the time of initial assignment to tasks where occupational exposure may take place,
+at least annually thereafter, and whenever a change of tasks or procedures affects the employee's exposure. (8 CCR
+5193(g))
+Designated first aid providers shall receive training that includes the specifics of reporting first-aid incidents which
+
+involve blood or body fluids which are potentially infectious. (8 CCR 5193(g))
+Reporting Incidents
+All exposure incidents shall be reported as soon as possible to the Superintendent or designee.
+Unvaccinated designated first aid providers must report any first aid incident involving the presence of blood or
+other potentially infectious material, regardless of whether an exposure incident occurred, by the end of the work
+shift. The full hepatitis B vaccination series shall be made available to such employees no later than 24 hours after
+the first aid incident. (8 CCR 5193(f))
+Sharps Injury Log
+The Superintendent or designee shall establish and maintain a log recording each exposure incident involving a sharp.
+The exposure incident shall be recorded within 14 working days of the date the incident is reported to the district. (8
+CCR 5193(c))
+The information recorded shall include the following, if known or reasonably available: (8 CCR 5193(c))
+1. Date and time of the exposure incident
+ 
+2. Type and brand of sharp involved in the exposure incident
+ 
+3. A description of the exposure incident, including:
+ 
+a. Job classification of the exposed employee
+ 
+b. Department or work area where the exposure incident occurred
+ 
+c. The procedure that the exposed employee was performing at the time of the incident
+ 
+d. How the incident occurred
+ 
+e. The body part involved in the incident
+ 
+f. If the sharp had engineered sharps injury protection, whether the protective mechanism was activated
+and whether the injury occurred before, during or after the protective mechanism was activated
+ 
+g. If the sharp had no engineered sharps injury protection, the injured employee's opinion as to whether
+and how such a mechanism could have prevented the injury
+ 
+h. The employee's opinion about whether any other engineering, administrative or work practice could
+have prevented the injury
+Post-Exposure Evaluation and Follow-up
+Following a report of an exposure incident, the Superintendent or designee shall immediately make available to the
+exposed employee, at no cost, a confidential medical evaluation, post-exposure evaluation and follow-up. The
+Superintendent or designee shall, at a minimum: (8 CCR 5193(f))
+1. Document the route(s) of exposure and the circumstances under which the exposure incident occurred
+ 
+2. Identify and document the source individual, unless that identification is infeasible or prohibited by law
+ 
+3. Provide for the collection and testing of the employee's blood for hepatitis B, hepatitis C and HIV serological
+status
+ 
+4. Provide for post-exposure prophylaxis, when medically indicated, as recommended by the U.S. Public Health
+Service
+ 
+5. Provide for counseling and evaluation of reported illnesses
+The Superintendent or designee shall provide the health care professional with a copy of 8 CCR 5193; a description
+
+Policy Reference Disclaimer:
+of the employee's duties as they relate to the exposure incident; documentation of the route(s) of exposure and
+circumstances under which exposure occurred; results of the source individual's blood testing, if available; and all
+medical records maintained by the district relevant to the appropriate treatment of the employee, including
+vaccination status. (8 CCR 5193(f))
+The district shall maintain the confidentiality of the affected employee and the exposure source during all phases of
+the post-exposure evaluation. (8 CCR 5193(f))
+Records
+Upon an employee's initial employment and at least annually thereafter, the Superintendent or designee shall inform
+employees with occupational exposure of the existence, location and availability of related records; the person
+responsible for maintaining and providing access to records; and the employee's right of access to these records. (8
+CCR 3204)
+Medical records for each employee with occupational exposure shall be kept confidential and not disclosed or
+reported without the employee's written consent to any person within or outside the workplace except as required
+by law. (8 CCR 5193(h))
+Upon request by an employee, or a designated representative with the employee's written consent, the
+Superintendent or designee shall provide access to a record in a reasonable time, place and manner, no later than 15
+days after the request is made. (8 CCR 3204(e))
+Records shall be maintained as follows: (8 CCR 3204(d), 5193(h))
+1. Medical records shall be maintained for the duration of employment plus 30 years.
+ 
+2. Training records shall be maintained for three years from the date of training.
+ 
+3. The sharps injury log shall be maintained five years from the date the exposure incident occurred.
+ 
+4. Exposure records shall be maintained for at least 30 years.
+ 
+5. Each analysis using medical or exposure records shall be maintained for at least 30 years.
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - 8 CCR 3204
+  - Access to employee exposure and medical records
+  - 8 CCR 5193
+  - Bloodborne pathogens
+  - Gov. Code 3543.2
+  - Scope of representation
+  - Lab. Code 142.3
+  - Authority of Cal/OSHA to adopt standards
+  - Lab. Code 144.7
+  - Requirement to amend standards
+  - Lab. Code 6401.7
+  - Injury and illness prevention program
+
+Federal References:
+  - 29 CFR 1910.1030
+  - Bloodborne pathogens
+
+Management Resources:
+  - CA Department of Industrial Relations Publication A Best Practices Approach for Reducing Bloodborne Pathogens Exposure,
+  - 2001
+  - CA Department of Industrial Relations Publication Exposure Control Plan for Bloodborne Pathogens, 2001
+  - CA Department of Industrial Relations Publication Frequently Asked Questions About the Bloodborne Pathogens Standard
+  - Website
+  - CSBA District and County Office of Education Legal Services
+  - 156
+  - Website
+  - California Department of Industrial Relations, Occupational Safety and
+  - Health
+  - Website
+  - U.S. Department of Labor, Occupational Safety and Health Administration
+  - Website
+  - Centers for Disease Control and Prevention
+  - Management Resources

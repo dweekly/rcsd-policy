@@ -1,85 +1,131 @@
 # RCSD Policy Compliance Analyzer
 
-This tool processes PDF documents containing Redwood City School District policies and analyzes them for compliance with California Education Code and CSBA best practices.
+⚠️ **IMPORTANT DISCLAIMER** ⚠️
+
+**This repository is NOT OFFICIAL and may contain material errors.** The extracted policies are provided for analysis purposes only and should not be considered authoritative.
+
+**For the official, authoritative, and up-to-date RCSD policies, please consult:**  
+**https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030397**
+
+---
+
+## Overview
+
+This project extracts and analyzes Redwood City School District (RCSD) policies from PDF documents to support compliance tracking and cross-referencing. It processes policy documents organized by series (0000-7000 and 9000) and extracts individual policies, regulations, and exhibits.
+
+## Current Status
+
+- ✅ **PDF Extraction**: Successfully extracts 512 documents from RCSD policy PDFs
+- ✅ **Cross-Reference Validation**: Identifies and validates policy cross-references
+- ✅ **Multi-format Support**: Handles policies, regulations, and exhibits
+- 🚧 **Compliance Analysis**: Planned feature to analyze policies against CA Education Code
+- 🚧 **CSBA Alignment**: Planned feature to evaluate alignment with CSBA best practices
 
 ## Features
 
-- **PDF Processing**: Extracts policies from PDF documents by policy number
-- **Policy Research**: Analyzes each policy for legal references and compliance areas
-- **Compliance Analysis**: Checks policies against CA Ed Code requirements
-- **CSBA Alignment**: Evaluates alignment with CSBA best practices
-- **Material Non-Compliance Detection**: Flags only significant compliance issues
-- **Comprehensive Reporting**: Generates JSON and Excel reports
+### Implemented
+- **PDF Table of Contents Parsing**: Accurately identifies document boundaries using TOC
+- **Multi-line Entry Support**: Handles TOC entries that span multiple lines
+- **Document Type Recognition**: Distinguishes between policies, regulations, exhibits, and bylaws
+- **Metadata Extraction**: Captures adoption dates, status, and source information
+- **Reference Extraction**: Parses state, federal, and cross-references
+- **Cross-Reference Validation**: Identifies missing or broken policy references
+
+### Planned
+- Compliance analysis against California Education Code
+- CSBA best practice alignment checking
+- Material non-compliance detection
+- Comprehensive reporting in JSON and Excel formats
 
 ## Installation
 
-1. Install Python 3.8 or higher
+1. Clone the repository:
+```bash
+git clone https://github.com/dweekly/rcsd-policy.git
+cd rcsd-policy
+```
+
 2. Create a virtual environment:
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
+
 3. Install dependencies:
 ```bash
-pip install -r requirements-pdf.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
 
-### Full Analysis (Parse + Research + Analyze)
+### Extract All Policies
 ```bash
-python main_pdf.py --full
+python extract_all_policies.py
 ```
 
-### Parse PDFs Only
+This will:
+- Process all PDF files in the `policies/` directory
+- Extract individual policies to `extracted_policies_all/`
+- Generate an extraction summary with statistics
+
+### Validate Cross-References
 ```bash
-python main_pdf.py --parse --pdf-dir policies/
+python check_cross_references.py
 ```
 
-### Research Policies Only (using existing parsed data)
-```bash
-python main_pdf.py --research
+This will:
+- Analyze all extracted policies for cross-references
+- Identify any missing referenced policies
+- Report gaps in policy numbering by series
+
+## Project Structure
+
+```
+rcsd-policy/
+├── policies/                    # Source PDF files (tracked with Git LFS)
+│   ├── RCSD Policies 0000.pdf
+│   ├── RCSD Policies 1000.pdf
+│   └── ...
+├── extracted_policies_all/      # Extracted policy documents
+│   ├── policies/               # Policy documents
+│   ├── regulations/            # Administrative regulations
+│   └── exhibits/               # Exhibits and forms
+├── pdf_parser.py               # PDF extraction engine
+├── extract_all_policies.py     # Batch extraction script
+├── check_cross_references.py   # Cross-reference validation
+└── README.md                   # This file
 ```
 
-### Analyze Compliance Only (using existing parsed data)
-```bash
-python main_pdf.py --analyze
-```
+## Technical Details
 
-## Output Files
+The PDF parser uses PyMuPDF (fitz) to:
+1. Extract text from PDF documents
+2. Parse table of contents to identify document boundaries
+3. Handle multi-line TOC entries (e.g., titles split across lines)
+4. Extract metadata (dates, status, references)
+5. Save individual documents with consistent formatting
 
-- `extracted_policies.json` - All extracted policies with content and metadata
-- `policy_chunks/` - Individual text files for each policy
-- `policy_research.json` - Research findings for each policy
-- `research_summary.xlsx` - Excel summary of research findings
-- `compliance_report.json` - Detailed compliance analysis
-- `material_noncompliance_summary.xlsx` - Summary of material issues only
+## Output Format
 
-## Compliance Criteria
+Each extracted document includes:
+- Header with title, status, and dates
+- Main policy/regulation content
+- Reference section with:
+  - State references (CA codes)
+  - Federal references (USC)
+  - Management resources
+  - Cross-references to other policies
 
-### Material Non-Compliance Indicators:
-- Missing required legal provisions
-- Outdated legal references (pre-2020)
-- Conflicts with current Ed Code
-- Missing mandated procedures
-- Discriminatory language
-- Lack of due process protections
-- Missing required notifications
-- Absence of required timelines
+## Known Limitations
 
-### Key Ed Code Areas Checked:
-- Student attendance (46000-46394)
-- Discipline procedures (48900-48927)
-- Anti-bullying provisions (234-234.5)
-- Special education (56000-56865)
-- Employment requirements (44830-44986)
-- Board governance (35000-35179)
-- Fiscal management (41000-42650)
-- Health and safety (32280-32289)
+- Some policies referenced by others may not exist in the source PDFs
+- The extraction relies on consistent TOC formatting
+- Manual updates to the official website are not automatically reflected
 
-## Notes
+## Contributing
 
-- The scraper uses Selenium to handle JavaScript-rendered content
-- Rate limiting is implemented to be respectful of the website
-- Only material compliance issues are flagged to focus on significant problems
-- The tool provides conservative analysis - when in doubt, it may not flag borderline issues
+This project is primarily for analysis purposes. If you notice extraction errors or have suggestions for the compliance analysis features, please open an issue.
+
+## License
+
+This project is for educational and analysis purposes only. The policies themselves remain the property of the Redwood City School District.

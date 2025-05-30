@@ -24,8 +24,8 @@ policy_chunks/
 *.xlsx
 *.log
 
-# PDFs (large files, source data)
-policies/*.pdf
+# PDFs are tracked with Git LFS
+# policies/*.pdf
 
 # OS
 .DS_Store
