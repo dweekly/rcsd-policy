@@ -13,6 +13,8 @@
 
 This project extracts and analyzes Redwood City School District (RCSD) policies from PDF documents to support compliance tracking and cross-referencing. It processes policy documents organized by series (0000-7000 and 9000) and extracts individual policies, regulations, and exhibits.
 
+**Policy Currency:** The PDF files in the `policies/` folder were downloaded from the official RCSD website on **May 30, 2025**. They may be outdated after this date. Always check the official website for the most current versions.
+
 ## Current Status
 
 - ✅ **PDF Extraction**: Successfully extracts 512 documents from RCSD policy PDFs
@@ -39,10 +41,22 @@ This project extracts and analyzes Redwood City School District (RCSD) policies 
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository with Git LFS support:
 ```bash
+# Ensure Git LFS is installed
+git lfs install
+
+# Clone the repository (this will also download the PDF files)
 git clone https://github.com/dweekly/rcsd-policy.git
 cd rcsd-policy
+```
+
+**Note:** The PDF files in the `policies/` folder are stored using Git LFS (Large File Storage). If you don't have Git LFS installed, you can install it from https://git-lfs.github.com/
+
+If you've already cloned the repository without Git LFS, you can fetch the PDF files with:
+```bash
+git lfs fetch
+git lfs checkout
 ```
 
 2. Create a virtual environment:
