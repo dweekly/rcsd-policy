@@ -23,6 +23,8 @@ extracted_policies/
 extracted_policies_*/
 extracted_*/
 policy_chunks/
+compliance_reports/
+compliance_report_*.json
 *.json
 *.xlsx
 *.log
