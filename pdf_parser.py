@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-PDF Policy Parser for RCSD Policy Compliance Analyzer
-Uses PyMuPDF (fitz) for robust PDF text extraction
+Fixed PDF Policy Parser for RCSD Policy Compliance Analyzer
+Handles multi-line TOC entries like 4319.12
 """
 
 import os
@@ -61,7 +61,7 @@ class PDFPolicyParser:
             
             # Step 1: Parse table of contents
             logger.info("  Parsing table of contents...")
-            self._parse_toc(pdf_doc)
+            self._parse_toc_improved(pdf_doc)
             
             # Step 2: Extract documents based on TOC
             logger.info(f"  Extracting {len(self.toc_entries)} documents...")
@@ -94,50 +94,76 @@ class PDFPolicyParser:
         os.makedirs(os.path.join(output_dir, 'regulations'), exist_ok=True)
         os.makedirs(os.path.join(output_dir, 'exhibits'), exist_ok=True)
     
-    def _parse_toc(self, pdf_doc: fitz.Document) -> None:
-        """Parse table of contents from first few pages"""
-        # Pattern for TOC entries
-        toc_pattern = re.compile(
-            r'^(Policy|Regulation|Exhibit(?:\s+\(PDF\))?)\s+'
-            r'(\d{4}(?:\.\d+)?(?:-E\s+PDF\(\d+\))?)\s*:\s*'
-            r'(.+?)\s+(\d+)\s*$',
-            re.MULTILINE
-        )
-        
-        # Check first 3 pages for TOC
-        for page_num in range(min(3, len(pdf_doc))):
+    def _parse_toc_improved(self, pdf_doc: fitz.Document) -> None:
+        """Parse table of contents handling multi-line entries"""
+        # Check first 10 pages for TOC (increased from 5)
+        for page_num in range(min(10, len(pdf_doc))):
             page = pdf_doc[page_num]
             text = page.get_text()
+            lines = text.split('\n')
             
-            for match in toc_pattern.finditer(text):
-                doc_type = match.group(1).replace(' (PDF)', '')
-                code = match.group(2).replace('-E PDF(1)', '-E')
-                title = match.group(3).strip().lstrip('^')  # Remove leading ^ from titles
-                page = int(match.group(4))
+            i = 0
+            while i < len(lines):
+                line = lines[i].strip()
                 
-                # Determine which series this PDF contains based on filename
-                series_match = re.search(r'(\d)000', os.path.basename(pdf_doc.name))
-                if series_match:
-                    series_prefix = series_match.group(1)
-                    # Only include policies from the matching series
-                    if code.startswith(series_prefix):
-                        # Use a unique key that combines code and type to handle same numbers
-                        key = f"{code}_{doc_type}"
-                        self.toc_entries[key] = {
-                            'type': doc_type,
-                            'code': code,
-                            'title': title,
-                            'page': page - 1  # Convert to 0-based index
-                        }
-                else:
-                    # If we can't determine series from filename, include all
-                    key = f"{code}_{doc_type}"
-                    self.toc_entries[key] = {
-                        'type': doc_type,
-                        'code': code,
-                        'title': title,
-                        'page': page - 1  # Convert to 0-based index
-                    }
+                # Check if this line starts with a document type
+                doc_type_match = re.match(r'^(Policy|Regulation|Exhibit(?:\s+\(PDF\))?|Bylaw)\s+(\d{4}(?:\.\d+)?(?:-E(?:\s+PDF\(\d+\))?)?)\s*:\s*(.+?)(?:\s+(\d+))?$', line)
+                
+                if doc_type_match:
+                    doc_type = doc_type_match.group(1).replace(' (PDF)', '')
+                    code = doc_type_match.group(2).replace('-E PDF(1)', '-E')
+                    title = doc_type_match.group(3).strip().lstrip('^')
+                    page_num_str = doc_type_match.group(4)
+                    
+                    # If no page number on this line, check next lines
+                    if not page_num_str and i + 1 < len(lines):
+                        # Check if title continues on next line(s)
+                        j = i + 1
+                        while j < len(lines) and j < i + 5:  # Check up to 5 lines ahead
+                            next_line = lines[j].strip()
+                            
+                            # Check if this line is just a page number
+                            if re.match(r'^\d+$', next_line):
+                                page_num_str = next_line
+                                break
+                            # Check if this line ends with a page number
+                            elif re.match(r'^(.+?)\s+(\d+)$', next_line):
+                                match = re.match(r'^(.+?)\s+(\d+)$', next_line)
+                                title += " " + match.group(1)
+                                page_num_str = match.group(2)
+                                break
+                            # Otherwise, it's a continuation of the title
+                            elif next_line and not re.match(r'^(Policy|Regulation|Exhibit|Bylaw)\s+\d{4}', next_line):
+                                title += " " + next_line
+                            else:
+                                break
+                            j += 1
+                    
+                    if page_num_str:
+                        page = int(page_num_str)
+                        
+                        # Determine which series this PDF contains
+                        series_match = re.search(r'(\d)000', os.path.basename(pdf_doc.name))
+                        if series_match:
+                            series_prefix = series_match.group(1)
+                            if code.startswith(series_prefix):
+                                key = f"{code}_{doc_type}"
+                                self.toc_entries[key] = {
+                                    'type': doc_type,
+                                    'code': code,
+                                    'title': title,
+                                    'page': page - 1  # Convert to 0-based
+                                }
+                        else:
+                            key = f"{code}_{doc_type}"
+                            self.toc_entries[key] = {
+                                'type': doc_type,
+                                'code': code,
+                                'title': title,
+                                'page': page - 1
+                            }
+                
+                i += 1
         
         logger.info(f"    Found {len(self.toc_entries)} entries")
     
@@ -300,35 +326,31 @@ class PDFPolicyParser:
         ]
         
         for marker in markers:
-            match = re.search(marker, text, re.IGNORECASE)
-            if match and match.start() < ref_start:
-                ref_start = match.start()
+            match = re.search(marker, text[1000:], re.IGNORECASE)  # Skip first 1000 chars
+            if match:
+                potential_start = match.start() + 1000
+                if potential_start < ref_start:
+                    ref_start = potential_start
         
         return ref_start
     
     def _clean_content(self, content: str) -> str:
-        """Clean extracted content"""
-        # Remove page headers/footers
-        content = re.sub(r'^Board\s*Policy\s*Manual\s*$', '', content, 
-                        flags=re.MULTILINE | re.IGNORECASE)
-        content = re.sub(r'^Redwood\s*City\s*School\s*District\s*$', '', content, 
-                        flags=re.MULTILINE | re.IGNORECASE)
+        """Clean and normalize content text"""
+        # Remove excessive whitespace while preserving paragraph breaks
+        content = re.sub(r'\n{3,}', '\n\n', content)
+        content = re.sub(r' {2,}', ' ', content)
         
-        # Remove standalone numbers (page numbers)
-        content = re.sub(r'^\d+$', '', content, flags=re.MULTILINE)
+        # Remove page numbers (standalone numbers on lines)
+        content = re.sub(r'^\d+\s*$', '', content, flags=re.MULTILINE)
         
-        
-        # Clean excessive whitespace
-        content = re.sub(r'\n\s*\n\s*\n+', '\n\n', content)
-        
-        # Fix common OCR/extraction issues
-        content = re.sub(r'(\d+)\s*\n\s*\.\s*\n', r'\1. ', content)  # Fix numbered lists
-        content = re.sub(r'([a-z])\s*\n\s*\.\s*\n', r'\1. ', content)  # Fix lettered lists
+        # Remove header/footer artifacts
+        content = re.sub(r'^RCSD.*?$', '', content, flags=re.MULTILINE)
+        content = re.sub(r'^Page \d+ of \d+$', '', content, flags=re.MULTILINE)
         
         return content.strip()
     
     def _extract_references(self, ref_text: str) -> Dict[str, List[str]]:
-        """Extract categorized references"""
+        """Extract and categorize references"""
         references = {
             'state': [],
             'federal': [],
@@ -336,182 +358,147 @@ class PDFPolicyParser:
             'cross_references': []
         }
         
-        # Remove policy reference disclaimer
-        ref_text = re.sub(r'Policy Reference Disclaimer.*?of the policy\.', '', 
-                         ref_text, flags=re.DOTALL | re.IGNORECASE)
+        if not ref_text:
+            return references
         
-        # Define sections with their patterns
+        # Split by reference type sections
         sections = {
-            'state': r'State\s*\n?\s*Description\s*\n(.*?)(?=Federal|Management|Cross|$)',
-            'federal': r'Federal\s*\n?\s*Description\s*\n(.*?)(?=Management|Cross|$)',
-            'management': r'Management\s+Resources\s*\n?\s*Description\s*\n(.*?)(?=Cross|$)',
-            'cross_references': r'Cross\s+References\s*\n?\s*Description\s*\n(.*?)$'
+            'state': re.search(r'State\s+(?:References|Description)(.*?)(?=Federal|Management|Cross|$)', 
+                              ref_text, re.IGNORECASE | re.DOTALL),
+            'federal': re.search(r'Federal\s+(?:References|Description)(.*?)(?=State|Management|Cross|$)', 
+                                ref_text, re.IGNORECASE | re.DOTALL),
+            'management': re.search(r'Management\s+Resources?\s*(?:Description)?(.*?)(?=State|Federal|Cross|$)', 
+                                   ref_text, re.IGNORECASE | re.DOTALL),
+            'cross_references': re.search(r'Cross\s+References?(.*?)(?=State|Federal|Management|$)', 
+                                         ref_text, re.IGNORECASE | re.DOTALL)
         }
         
-        for ref_type, pattern in sections.items():
-            match = re.search(pattern, ref_text, re.DOTALL | re.IGNORECASE)
+        for ref_type, match in sections.items():
             if match:
-                ref_content = match.group(1).strip()
-                
-                # Special handling for cross references
-                if ref_type == 'cross_references':
-                    refs_seen = set()
-                    current_code = None
-                    
-                    for line in ref_content.split('\n'):
-                        line = line.strip()
-                        if not line:
-                            continue
-                            
-                        # Check if this line is a policy code (4 digits, possibly with decimals)
-                        code_match = re.match(r'^(\d{4}(?:\.\d+)?(?:-E)?)$', line)
-                        if code_match:
-                            current_code = code_match.group(1)
-                        elif current_code and line and not line.lower().startswith('cross references'):
-                            # This is the title for the previous code
-                            ref_entry = f"{current_code} ({line})"
-                            if ref_entry not in refs_seen:
-                                references[ref_type].append(ref_entry)
-                                refs_seen.add(ref_entry)
-                            current_code = None
-                else:
-                    # For other reference types, just extract and deduplicate
-                    refs_seen = set()
-                    for line in ref_content.split('\n'):
-                        line = line.strip()
-                        # Filter out non-reference lines
-                        if (line and 
-                            not line.lower().startswith('website') and 
-                            line.lower() != 'description' and
-                            len(line) > 5 and
-                            not line.startswith('Board Policy Manual') and
-                            not line.startswith('Policy Reference Disclaimer') and
-                            not line.startswith('These references are not intended')):
-                            if line not in refs_seen:
-                                references[ref_type].append(line)
-                                refs_seen.add(line)
+                section_text = match.group(1)
+                # Extract individual references
+                refs = self._parse_reference_section(section_text, ref_type)
+                references[ref_type] = refs
         
         return references
     
+    def _parse_reference_section(self, section_text: str, ref_type: str) -> List[str]:
+        """Parse individual references from a section"""
+        refs = []
+        
+        if ref_type == 'cross_references':
+            # Pattern for cross references like "0415 (Equity)"
+            pattern = re.compile(r'(\d{4}(?:\.\d+)?)\s*\(([^)]+)\)')
+            for match in pattern.finditer(section_text):
+                refs.append(f"{match.group(1)} ({match.group(2)})")
+        else:
+            # Split by common delimiters and clean
+            lines = section_text.split('\n')
+            for line in lines:
+                line = line.strip()
+                if line and not line.lower().startswith(('description', 'references')):
+                    # Remove leading dashes or bullets
+                    line = re.sub(r'^[-•]\s*', '', line)
+                    if line:
+                        refs.append(line)
+        
+        return refs
+    
     def _save_documents(self, output_dir: str) -> None:
-        """Save documents as structured text files"""
+        """Save extracted documents to files"""
         for doc in self.documents:
-            # Determine subdirectory
-            subdir = {
-                'Policy': 'policies',
-                'Regulation': 'regulations',
-                'Exhibit': 'exhibits'
-            }.get(doc.doc_type, 'other')
+            # Determine subdirectory based on document type
+            if doc.doc_type == 'Policy' or doc.doc_type == 'Bylaw':
+                subdir = 'policies'
+            elif doc.doc_type == 'Regulation':
+                subdir = 'regulations'
+            else:
+                subdir = 'exhibits'
             
             # Create filename
             filename = f"{doc.code}.txt"
             filepath = os.path.join(output_dir, subdir, filename)
             
-            # Format content
-            content = self._format_document(doc)
+            # Format content for saving
+            content_lines = [
+                f"RCSD {doc.doc_type} {doc.code}",
+                "=" * 80,
+                f"Title: {doc.title}",
+                f"Status: {doc.status}",
+                f"Original Adopted Date: {doc.original_adopted_date or 'Not specified'}",
+                f"Last Reviewed Date: {doc.last_reviewed_date or 'Not specified'}",
+                f"Source: {doc.source_file} (Pages {', '.join(map(str, doc.page_numbers))})",
+                "=" * 80,
+                "",
+                doc.content,
+                ""
+            ]
             
-            # Save file
+            # Add references if they exist
+            if any(doc.references.values()):
+                content_lines.extend([
+                    "=" * 80,
+                    "REFERENCES",
+                    "=" * 80,
+                    ""
+                ])
+                
+                if doc.references['state']:
+                    content_lines.append("State References:")
+                    for ref in doc.references['state']:
+                        content_lines.append(f"  - {ref}")
+                    content_lines.append("")
+                
+                if doc.references['federal']:
+                    content_lines.append("Federal References:")
+                    for ref in doc.references['federal']:
+                        content_lines.append(f"  - {ref}")
+                    content_lines.append("")
+                
+                if doc.references['management']:
+                    content_lines.append("Management Resources:")
+                    for ref in doc.references['management']:
+                        content_lines.append(f"  - {ref}")
+                    content_lines.append("")
+                
+                if doc.references['cross_references']:
+                    content_lines.append("Cross References:")
+                    for ref in doc.references['cross_references']:
+                        content_lines.append(f"  - {ref}")
+                    content_lines.append("")
+            
+            # Write file
             with open(filepath, 'w', encoding='utf-8') as f:
-                f.write(content)
-    
-    def _format_document(self, doc: PolicyDocument) -> str:
-        """Format document for saving"""
-        content = f"""RCSD {doc.doc_type} {doc.code}
-================================================================================
-Title: {doc.title}
-Status: {doc.status}
-Original Adopted Date: {doc.original_adopted_date or 'Not specified'}
-Last Reviewed Date: {doc.last_reviewed_date or 'Not specified'}
-Source: {doc.source_file} (Pages {', '.join(map(str, doc.page_numbers))})
-================================================================================
-
-{doc.content}
-
-================================================================================
-REFERENCES
-================================================================================
-"""
-        
-        # Add references by category
-        ref_categories = [
-            ('State References', 'state'),
-            ('Federal References', 'federal'),
-            ('Management Resources', 'management'),
-            ('Cross References', 'cross_references')
-        ]
-        
-        for category_name, ref_key in ref_categories:
-            if doc.references.get(ref_key):
-                content += f"\n{category_name}:\n"
-                for ref in doc.references[ref_key]:
-                    content += f"  - {ref}\n"
-        
-        return content
+                f.write('\n'.join(content_lines))
     
     def _save_summary(self, output_dir: str) -> None:
-        """Save extraction summary"""
+        """Save extraction summary as JSON"""
         summary = {
             'extraction_date': datetime.now().isoformat(),
             'total_documents': len(self.documents),
-            'by_type': {
-                'policies': len([d for d in self.documents if d.doc_type == 'Policy']),
-                'regulations': len([d for d in self.documents if d.doc_type == 'Regulation']),
-                'exhibits': len([d for d in self.documents if d.doc_type == 'Exhibit'])
-            },
+            'by_type': {},
+            'by_series': {},
             'documents': [doc.to_dict() for doc in self.documents]
         }
         
-        output_file = os.path.join(output_dir, 'extraction_summary.json')
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(summary, f, indent=2, ensure_ascii=False)
+        # Count by type
+        for doc in self.documents:
+            doc_type = 'policies' if doc.doc_type in ['Policy', 'Bylaw'] else doc.doc_type.lower() + 's'
+            summary['by_type'][doc_type] = summary['by_type'].get(doc_type, 0) + 1
         
+        # Count by series
+        for doc in self.documents:
+            series = doc.code[:1] + '000'
+            summary['by_series'][series] = summary['by_series'].get(series, 0) + 1
+        
+        # Save summary
+        summary_path = os.path.join(output_dir, 'extraction_summary.json')
+        with open(summary_path, 'w', encoding='utf-8') as f:
+            json.dump(summary, f, indent=2)
+        
+        # Print summary
         logger.info(f"\nExtraction complete!")
         logger.info(f"Total documents: {summary['total_documents']}")
-        logger.info(f"  - Policies: {summary['by_type']['policies']}")
-        logger.info(f"  - Regulations: {summary['by_type']['regulations']}")
-        logger.info(f"  - Exhibits: {summary['by_type']['exhibits']}")
-        logger.info(f"\nSummary saved to: {output_file}")
-
-
-def main():
-    """CLI interface for PDF parser"""
-    import argparse
-    
-    parser = argparse.ArgumentParser(
-        description='Extract policies from RCSD PDF files',
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  python pdf_parser.py policies/RCSD_Policies_1000.pdf
-  python pdf_parser.py policies/ --output-dir extracted
-        """
-    )
-    
-    parser.add_argument('pdf_path', help='Path to PDF file or directory')
-    parser.add_argument('--output-dir', default='extracted_policies', 
-                       help='Output directory (default: extracted_policies)')
-    
-    args = parser.parse_args()
-    
-    parser = PDFPolicyParser()
-    
-    if os.path.isfile(args.pdf_path) and args.pdf_path.endswith('.pdf'):
-        # Single PDF file
-        parser.parse_pdf(args.pdf_path, args.output_dir)
-    elif os.path.isdir(args.pdf_path):
-        # Directory of PDFs
-        pdf_files = [f for f in os.listdir(args.pdf_path) if f.endswith('.pdf')]
-        logger.info(f"Found {len(pdf_files)} PDF files")
-        
-        for pdf_file in sorted(pdf_files):
-            pdf_path = os.path.join(args.pdf_path, pdf_file)
-            parser.parse_pdf(pdf_path, args.output_dir)
-    else:
-        logger.error(f"Invalid path: {args.pdf_path}")
-        return 1
-    
-    return 0
-
-
-if __name__ == "__main__":
-    exit(main())
+        for doc_type, count in summary['by_type'].items():
+            logger.info(f"  - {doc_type.capitalize()}: {count}")
+        logger.info(f"\nSummary saved to: {summary_path}")
