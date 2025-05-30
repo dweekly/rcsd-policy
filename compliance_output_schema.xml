@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compliance_report>
+    <policy_metadata>
+        <code>3550</code>
+        <title>Food Service/Child Nutrition Program</title>
+        <last_reviewed>11/04/2009</last_reviewed>
+        <years_since_review>15.6</years_since_review>
+    </policy_metadata>
+    
+    <compliance_issues>
+        <issue priority="MATERIAL" confidence="90">
+            <title>Missing Universal Meals Provisions</title>
+            <description>Policy lacks provisions for California's universal free meal program requiring all students receive free breakfast and lunch regardless of income</description>
+            
+            <legal_basis>
+                <california_code>
+                    <citation>Education Code 49501.5</citation>
+                    <text>All pupils enrolled at a school shall be offered breakfast and lunch at no cost to the pupil</text>
+                    <effective_date>2022-07-01</effective_date>
+                </california_code>
+                
+                <federal_code>
+                    <citation>42 USC 1758(b)(1)</citation>
+                    <text>Each school shall serve lunches during the school year to children eligible under this chapter</text>
+                </federal_code>
+            </legal_basis>
+            
+            <required_language>
+                <source type="STATUTE">Education Code 49501.5</source>
+                <text>The district shall provide two nutritious meals free of charge (breakfast and lunch) to all pupils during each school day, regardless of the pupil's eligibility for a federally funded free or reduced-price meal.</text>
+            </required_language>
+            
+            <sample_policies>
+                <policy district="Long Beach USD" code="BP 3550" date="2023-06">
+                    <text>In accordance with Education Code 49501.5, the district provides universal access to free, nutritious meals to support the health and academic success of all students.</text>
+                    <url>https://www.lbusd.org/Departments/Nutrition-Services</url>
+                </policy>
+                
+                <policy district="CSBA Sample" code="BP 3550" date="2024-01">
+                    <text>The Board recognizes that California provides universal access to free nutritious meals for all students regardless of family income through the state's Universal Meals Program.</text>
+                </policy>
+            </sample_policies>
+        </issue>
+        
+        <issue priority="MATERIAL" confidence="85">
+            <title>Missing Free Drinking Water Requirements</title>
+            <description>Policy does not address mandatory provision of free, fresh drinking water during meal times</description>
+            
+            <legal_basis>
+                <california_code>
+                    <citation>Education Code 38086</citation>
+                    <text>A school district shall provide access to free, fresh drinking water during meal times in the food service areas of the schools under its jurisdiction</text>
+                    <effective_date>2011-01-01</effective_date>
+                </california_code>
+                
+                <federal_code>
+                    <citation>42 USC 1758(a)(2)(A)</citation>
+                    <text>Schools participating in the school lunch program shall make available to children free of charge, as nutritionally appropriate, potable water for consumption in the place where meals are served during meal service</text>
+                    <effective_date>2010-12-13</effective_date>
+                </federal_code>
+            </legal_basis>
+            
+            <required_language>
+                <source type="STATUTE">Education Code 38086</source>
+                <text>The district shall provide access to free, fresh drinking water during meal times in food service areas</text>
+            </required_language>
+            
+            <sample_policies>
+                <policy district="Fresno USD" code="BP 3550" date="2023-08">
+                    <text>Students shall have access to free, potable water during meal service in food service areas, and shall be allowed to bring and carry water bottles throughout the school day.</text>
+                </policy>
+            </sample_policies>
+        </issue>
+        
+        <issue priority="MATERIAL" confidence="90">
+            <title>Missing Local Wellness Policy Requirements</title>
+            <description>Policy lacks comprehensive wellness policy components required by federal law</description>
+            
+            <legal_basis>
+                <california_code>
+                    <citation>Education Code 49431.5</citation>
+                    <text>Each school district shall establish a local wellness policy that includes goals for nutrition education, physical activity, and other school-based activities</text>
+                </california_code>
+                
+                <federal_code>
+                    <citation>42 USC 1758b</citation>
+                    <text>Each local educational agency shall establish a local school wellness policy that includes specific goals for nutrition promotion and education, physical activity, and other school-based activities</text>
+                    <implementation_reg>7 CFR 210.31</implementation_reg>
+                </federal_code>
+            </legal_basis>
+            
+            <required_components>
+                <component>Goals for nutrition education and promotion</component>
+                <component>Goals for physical activity</component>
+                <component>Nutrition guidelines for all foods available on campus</component>
+                <component>Implementation and monitoring procedures</component>
+                <component>Community involvement in development and review</component>
+                <component>Triennial assessment and public reporting</component>
+            </required_components>
+            
+            <sample_policies>
+                <policy district="CSBA Sample" code="BP 5030" date="2024-01">
+                    <note>Wellness policy is typically separate policy (5030) but must be referenced in nutrition policy</note>
+                    <text>The Board adopts this policy to comply with federal and state requirements for local wellness policies, as detailed in Board Policy 5030</text>
+                </policy>
+            </sample_policies>
+        </issue>
+        
+        <issue priority="MINOR" confidence="95">
+            <title>Outdated Regulatory Citations</title>
+            <description>References to 5 CCR sections may be outdated or renumbered</description>
+            <recommendation>Update all regulatory citations to current numbering</recommendation>
+        </issue>
+    </compliance_issues>
+    
+    <recommended_actions>
+        <action priority="1">
+            <description>Add universal meals language per Ed Code 49501.5</description>
+            <location>New section after opening paragraph</location>
+        </action>
+        
+        <action priority="2">
+            <description>Add free drinking water provisions per Ed Code 38086</description>
+            <location>New section in policy body</location>
+        </action>
+        
+        <action priority="3">
+            <description>Reference wellness policy requirements or incorporate into this policy</description>
+            <location>New section or cross-reference to BP 5030</location>
+        </action>
+        
+        <action priority="4">
+            <description>Update all legal references to current codes</description>
+            <location>References section</location>
+        </action>
+    </recommended_actions>
+</compliance_report>
