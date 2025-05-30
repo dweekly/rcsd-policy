@@ -20,7 +20,7 @@ This project extracts and analyzes Redwood City School District (RCSD) policies 
 - ✅ **PDF Extraction**: Successfully extracts 512 documents from RCSD policy PDFs
 - ✅ **Cross-Reference Validation**: Identifies and validates policy cross-references
 - ✅ **Multi-format Support**: Handles policies, regulations, and exhibits
-- 🚧 **Compliance Analysis**: Planned feature to analyze policies against CA Education Code
+- 🚧 **Compliance Analysis**: In planning - will analyze policies against CA Education Code using Claude AI
 - 🚧 **CSBA Alignment**: Planned feature to evaluate alignment with CSBA best practices
 
 ## Features
@@ -70,6 +70,15 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+4. Configure environment for compliance checking (optional):
+```bash
+# Copy the example environment file
+cp .env.example .env
+
+# Edit .env and add your Anthropic API key
+# Get your API key from: https://console.anthropic.com/
+```
+
 ## Usage
 
 ### Extract All Policies
@@ -91,6 +100,19 @@ This will:
 - Analyze all extracted policies for cross-references
 - Identify any missing referenced policies
 - Report gaps in policy numbering by series
+
+### Run Compliance Analysis (Coming Soon)
+```bash
+python compliance_check.py
+```
+
+This will:
+- Analyze policies for compliance with current CA Education Code
+- Prioritize older policies (>10 years) for review
+- Use Claude AI to identify material compliance issues
+- Generate detailed compliance reports
+
+See `COMPLIANCE_PLAN.md` for detailed architecture and implementation plan.
 
 ## Project Structure
 
