@@ -48,6 +48,10 @@ class PDFPolicyParser:
         """Parse a PDF file and extract all policies"""
         logger.info(f"\nProcessing: {pdf_path}")
         
+        # Clear previous state for this PDF
+        self.documents = []
+        self.toc_entries = {}
+        
         # Create output directories
         self._create_output_dirs(output_dir)
         
@@ -61,7 +65,8 @@ class PDFPolicyParser:
             
             # Step 2: Extract documents based on TOC
             logger.info(f"  Extracting {len(self.toc_entries)} documents...")
-            for code, toc_entry in sorted(self.toc_entries.items()):
+            for key, toc_entry in sorted(self.toc_entries.items()):
+                code = toc_entry['code']
                 doc = self._extract_document(pdf_doc, code, toc_entry, os.path.basename(pdf_path))
                 if doc:
                     self.documents.append(doc)
@@ -110,16 +115,31 @@ class PDFPolicyParser:
                 title = match.group(3).strip().lstrip('^')  # Remove leading ^ from titles
                 page = int(match.group(4))
                 
-                # Only include 1000 series for this PDF
-                if code.startswith('1'):
-                    self.toc_entries[code] = {
+                # Determine which series this PDF contains based on filename
+                series_match = re.search(r'(\d)000', os.path.basename(pdf_doc.name))
+                if series_match:
+                    series_prefix = series_match.group(1)
+                    # Only include policies from the matching series
+                    if code.startswith(series_prefix):
+                        # Use a unique key that combines code and type to handle same numbers
+                        key = f"{code}_{doc_type}"
+                        self.toc_entries[key] = {
+                            'type': doc_type,
+                            'code': code,
+                            'title': title,
+                            'page': page - 1  # Convert to 0-based index
+                        }
+                else:
+                    # If we can't determine series from filename, include all
+                    key = f"{code}_{doc_type}"
+                    self.toc_entries[key] = {
                         'type': doc_type,
                         'code': code,
                         'title': title,
                         'page': page - 1  # Convert to 0-based index
                     }
         
-        logger.info(f"    Found {len(self.toc_entries)} entries in 1000 series")
+        logger.info(f"    Found {len(self.toc_entries)} entries")
     
     def _extract_document(self, pdf_doc: fitz.Document, code: str, 
                          toc_entry: Dict, source_file: str) -> Optional[PolicyDocument]:

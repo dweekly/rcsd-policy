@@ -18,6 +18,7 @@ ENV/
 # Project specific
 extracted_policies/
 extracted_policies_*/
+extracted_*/
 policy_chunks/
 *.json
 *.xlsx
