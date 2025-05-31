@@ -158,6 +158,27 @@ Each extracted document includes:
 - The extraction relies on consistent TOC formatting
 - Manual updates to the official website are not automatically reflected
 
+## Development
+
+### Code Quality
+
+This project uses `ruff` for linting and formatting Python code:
+
+```bash
+# Run linter with auto-fix
+ruff check --fix .
+
+# Format code
+ruff format .
+```
+
+Configuration is in `pyproject.toml`. The linter enforces:
+- PEP 8 style guidelines
+- Modern Python practices (Python 3.9+)
+- Import sorting
+- Common bug prevention
+- Consistent formatting
+
 ## Contributing
 
 This project is primarily for analysis purposes. If you notice extraction errors or have suggestions for the compliance analysis features, please open an issue.

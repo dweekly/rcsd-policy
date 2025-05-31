@@ -86,14 +86,14 @@ python pdf_parser.py policies/ --output-dir extracted_policies
 
 ### Critical: TODO.md Usage
 **IMPORTANT**: Always maintain and update the `TODO.md` file as your primary memory and state preservation mechanism between sessions. This file serves as:
-- Your scratchpad for remembering tasks and context
-- A priority-ordered task list
+- Your priority-ordered task list for PENDING and IN-PROGRESS items only
 - A place to note temporary changes that need reverting
 - Session notes for important observations
+- **DO NOT** keep completed tasks in TODO.md - remove them once done
 
 **Before starting work**: Read TODO.md to understand current state and priorities
-**During work**: Update TODO.md with new tasks, completed items, and observations
-**Before ending session**: Ensure TODO.md reflects all pending work and context
+**During work**: Update TODO.md with new tasks, mark items as in-progress, and REMOVE completed items
+**Before ending session**: Ensure TODO.md reflects only pending work and current context
 
 ### Important Context
 - This is a compliance analysis tool for educational policies
