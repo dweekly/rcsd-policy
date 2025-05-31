@@ -1,0 +1,162 @@
+RCSD Regulation 3514.1
+================================================================================
+Title: Hazardous Substances
+Status: ADOPTED
+Original Adopted Date: 11/04/2009
+Last Reviewed Date: 11/04/2009
+Source: RCSD Policies 3000.pdf (Pages 179, 180, 181, 182)
+================================================================================
+
+The disposal of chemicals may be accomplished in accordance with removal and disposal systems established by the
+County Office of Education or by permission of the County Superintendent of Schools. (Education Code 49411)
+Hazard Communication Program
+The written hazard communication program shall be available upon request to all employees and their designated
+representatives. (8 CCR 5194)
+The following materials are exempted from the hazard communication program and this district regulation:
+hazardous wastes; tobacco products; wood and wood products; manufactured articles; food, drugs and cosmetics
+intended for personal consumption by employees while in the workplace; and substances used in compliance with
+regulations issued by the Department of Pesticide Regulation pursuant to Food and Agricultural Code 12981.
+1. Container Labeling
+Except for consumer products, pesticides, and food, drug and additive products which are already labeled in
+compliance with federal law, no container of hazardous substance shall be accepted by schools or the district
+unless labeled by the supplier with the following information:
+ 
+a. Identity of the hazardous substance(s)
+ 
+b. Hazard warning statements
+ 
+c. Name and address of the chemical manufacturer or importer
+Whenever hazardous substances are transferred from their original containers to other containers, the
+secondary containers shall likewise be labeled with the identity and hazard warning statement.
+ 
+2. Material Safety Data Sheets
+Upon receiving a hazardous substance or mixture, the Superintendent or designee shall ensure that the
+manufacturer has also furnished a Material Safety Data Sheet (MSDS) as required by law. If the MSDS is
+missing or obviously incomplete, the Superintendent or designee shall request a new MSDS from the
+manufacturer and shall notify the California Occupational Safety and Health Division (Cal/OSHA) if a complete
+MSDS is not received.
+The Superintendent or designee shall employ a computerized or fax-on-demand program to ensure that up-to-
+date copies of the MSDS for all hazardous substances are available to all affected employees during working
+hours.
+ 
+3. Employee Information and Training
+Employees shall receive inservice training on hazardous substances in their work area at the time of their initial
+assignment and whenever a new hazard is introduced into their work area. This training shall include but is not
+limited to: (8 CCR 5194)
+ 
+a. An overview of the requirements of California's Hazard Communication Regulation (8 CCR 5194),
+including employee rights described therein
+ 
+b. The location, availability and content of the district's written hazard communication program
+ 
+c. Information as to any operations in the employees' work area where hazardous substances are present
+ 
+d. The physical and health effects of the hazardous substances in the work area
+ 
+e. Techniques and methods of observation that may determine the presence or release of hazardous
+substances in the work area
+Board Policy Manual
+Redwood City School District
+
+Policy Reference Disclaimer:
+ 
+f. Methods by which employees can lessen or prevent exposure to these hazardous substances, such as
+appropriate work practices, use of personal protective equipment and engineering controls
+ 
+g. Steps the district has taken to lessen or prevent exposure to these substances
+ 
+h. Instruction on how to read labels and review the MSDS for appropriate information
+ 
+i. Emergency and first aid procedures to follow if exposed to the hazardous substance(s)
+In addition, employees shall receive training on how to operate the computers or fax machines that
+provide access to MSDS files
+ 
+4. List of Hazardous Substances
+For specific information about the hazardous substances known to be present in the district and schools,
+employees may consult the MSDS.
+ 
+5. Hazardous Nonroutine Tasks
+When employees are required to perform hazardous nonroutine tasks, they shall first receive information
+about the specific hazards to which they may be exposed during this activity and the protective/safety
+measures which must be used. They shall also receive information about emergency procedures and the
+measures the district has taken to lessen the hazards, including ventilation, respirators, and the presence of
+another employee.
+ 
+6. Hazardous Substances in Unlabeled Pipes
+Before starting to work on unlabeled pipes, employees shall contact their supervisors for information as to the
+hazardous substance(s) contained in the pipes, the potential hazards, and safety precautions which must be
+taken.
+ 
+7. Informing Contractors
+To ensure that outside contractors and their employees work safely in district buildings and schools, the
+Superintendent or designee shall inform these contractors of hazardous substances which are present on the site and
+precautions that employees may take to lessen the possibility of exposure. It shall be the contractor's responsibility
+to disseminate this information to his/her employees and subcontractors.
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - 22 CCR 67450.40-67450.49
+  - School hazardous waste collection, consolidation, and accumulation facilities
+  - 8 CCR 3203
+  - Injury and illness prevention program
+  - 8 CCR 3204
+  - Access to employee exposure and medical records
+  - 8 CCR 337-339
+  - Hazardous substances list
+  - 8 CCR 5139-5230
+  - Control of hazardous substances
+  - 8 CCR 5154.1-5154.2
+  - Ventilation
+  - 8 CCR 5161
+  - Definitions
+  - 8 CCR 5162
+  - Emergency eyewash and shower equipment
+  - 8 CCR 5163
+  - Control of spills
+  - 8 CCR 5164
+  - Storage of hazardous substances
+  - 8 CCR 5191
+  - Chemical hygiene plan
+  - 180
+  - 8 CCR 5194
+  - Hazard communication
+  - Ed. Code 32060-32066
+  - Toxic art supplies
+  - Ed. Code 49340-49341
+  - Hazardous substances education
+  - Ed. Code 49401.5
+  - Legislative intent; consultation services
+  - Ed. Code 49411
+  - Chemical listing; compounds used in school programs; determination of
+  - shelf life; disposal
+  - F&A Code 12981
+  - Regulations re pesticides and worker safety
+  - H&S Code 108100-108515
+  - California Hazardous Substances Act
+  - H&S Code 25163
+  - Transportation of hazardous wastes; registration; exemptions; inspection
+  - Lab. Code 6360-6363
+  - Hazardous Substances Information and Training Act
+  - Lab. Code 6380-6386
+  - List of hazardous substances
+  - State
+
+Management Resources:
+  - California Department of Education Publication
+  - Science Safety Handbook for California Public Schools, 2014
+  - OEHHA Publication
+  - Art and Craft Materials in Schools: Guidelines for Purchasing and Safe Use,
+  - September 17, 2016
+  - Website
+  - CSBA District and County Office of Education Legal Services
+  - Website
+  - California Office of Environmental Health Hazard Assessment
+  - Website
+  - Department of Industrial Relations, Cal/OSHA
+  - Website
+  - CSBA
+  - Website
+  - California Department of Education

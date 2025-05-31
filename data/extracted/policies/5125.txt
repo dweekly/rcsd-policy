@@ -1,0 +1,160 @@
+RCSD Policy 5125
+================================================================================
+Title: Student Records
+Status: ADOPTED
+Original Adopted Date: 01/13/2010
+Last Reviewed Date: 06/27/2018
+Source: RCSD Policies 5000.pdf (Pages 102, 103, 104, 105, 106, 107)
+================================================================================
+
+The Board of Education recognizes the importance of keeping accurate, comprehensive student records as required
+by law. Procedures for maintaining the confidentiality of student records shall be consistent with state and federal
+law.
+The Superintendent or designee shall establish regulations governing the identification, collection, retention, and
+security of student records, as well as timely access for authorized persons. These regulations shall ensure the rights
+of authorized persons to have timely access to student records while maintaining the confidentiality of student
+records consistent with state and federal law.
+The Superintendent or designee shall designate a certificated employee to serve as custodian of records, with
+responsibility for student records at the district level. At each school, the principal or a certificated designee shall act
+as custodian of records for students enrolled at that school. The custodian of records shall be responsible for
+implementing Board policy and administrative regulation regarding student records. (5 CCR 431)
+All appropriate personnel shall receive training regarding district policies and procedures for gathering and handling
+sensitive student information.
+The district shall not collect or solicit social security numbers or the last four digits of social security numbers of
+students or their parents/guardians, unless otherwise required to do so by state or federal law. (Education Code
+49076.7)
+No information or documents regarding the citizenship or immigration status of students or their family members
+shall be collected, except as required by state or federal law or as required to administer a state or federally
+supported educational program. The Superintendent or designee shall not disclose student records to a person,
+agency, or organization for immigration enforcement purposes without parental consent, a court order, or judicial
+subpoena. If a district employee receives such a request, they will immediately report the request to the
+Superintendent. The Superintendent shall report the request to the Board in a timely manner that ensures the
+confidentiality and privacy of any potentially identifying information. (Education Code 234.7)
+The Superintendent or designee shall not compile a list, registry, or database based on students' national origin,
+ethnicity, or religious belief, practice, or affiliation, nor shall they disclose student information to federal government
+authorities for the purpose of compiling such a list, registry, or database for purposes of immigration enforcement.
+Such information may only be compiled or exchanged with other local, state, or federal agencies if the information is
+aggregated and is not personally identifiable. (Government Code 8310.3)
+Student Records from Social Media
+The Superintendent or designee may gather and maintain information from the social media of any district student,
+provided that the district first notifies students and parents/guardians about the proposed program, offers an
+opportunity for public comment at a regularly scheduled Board meeting, and gathers only information that directly
+pertains to school safety or student safety. (Education Code 49073.6)
+Contract for Digital Storage, Management, and Retrieval of Student Records
+The Superintendent or designee may enter into a contract with a third party for the digital storage, management, and
+retrieval of student records and/or to authorize a third party provider of digital software to access, store, and use
+student records, provided that the contract meets the requirements of Education Code 49073.1 and other applicable
+state and federal laws.
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - 5 CCR 16020-16027
+  - Destruction of records of school districts
+  - 5 CCR 430-438
+  - Individual student records
+  - Bus. and Prof. Code 22580-22582
+  - Privacy rights for California minors in the digital world
+  - Board Policy Manual
+  - Redwood City School District
+  - 102
+  - Bus. and Prof. Code 22584-22585
+  - K-12 Pupil Online Personal Information Protection Act
+  - Bus. and Prof. Code 22586-22587
+  - Early Learning Personal Information Protection Act
+  - Code of Civil Procedure 1985.3
+  - Subpoena duces tecum
+  - Ed. Code 17604
+  - Delegation of powers to agents
+  - Ed. Code 220.3
+  - Prohibition for employee or contractor to disclose information related to
+  - student’s sexual orientation, gender identity, or gender expression
+  - Ed. Code 234.7
+  - Student protections relating to immigration and citizenship status
+  - Ed. Code 35266
+  - Reporting of cyberattacks
+  - Ed. Code 48201
+  - Transfer student's record for acts that resulted in suspension or expulsion
+  - Ed. Code 48853.5
+  - Foster youth; placement, immunizations
+  - Ed. Code 48902
+  - Notification of law enforcement of specified violations
+  - Ed. Code 48904-48904.3
+  - Withholding grades, diplomas, or transcripts
+  - Ed. Code 48918
+  - Rules governing expulsion procedures
+  - Ed. Code 48980
+  - Parent/Guardian notifications
+  - Ed. Code 48985
+  - Notices to parents in language other than English
+  - Ed. Code 49060-49079
+  - Student records
+  - Ed. Code 49091.14
+  - Parental review of curriculum
+  - Ed. Code 51745
+  - Independent study
+  - Ed. Code 56041.5
+  - Rights of students with disabilities
+  - Ed. Code 56050
+  - Surrogate parents
+  - Ed. Code 56055
+  - Foster parents
+  - Ed. Code 60900-60901
+  - California Longitudinal Pupil Achievement Data System
+  - Ed. Code 69432.9
+  - Cal Grant program; notification of grade point average
+  - Ed. Code 69475
+  - Conditional repeal of Cal Grant program
+  - Fam. Code 3025
+  - Access to records by noncustodial parents
+  - Fam. Code 6323.5
+  - Ex parte orders
+  - Fam. Code 6552
+  - Caregiver's authorization affidavit
+  - Gov. Code 7920.000-7930.215
+  - California Public Records Act
+  - H&S Code 120440
+  - Immunizations; disclosure of information
+  - Pen. Code 245
+  - Assault with deadly weapon
+  - W&I Code 16010
+  - Health and education records of a minor
+  - W&I Code 681
+  - Truancy petitions
+  - W&I Code 701
+  - Juvenile court law
+  - State
+
+Federal References:
+  - 15 USC 6501-6506
+  - Children’s Online Privacy Protection Act
+  - 16 CFR Part 312
+  - Children's Online Privacy Protection Rule
+  - 20 USC 1232g
+  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h
+  - Protection of Pupil Rights Amendment
+  - 26 USC 152
+  - Definition of dependent child
+  - 34 CFR 300.501
+  - Opportunity to examine records for parents of student with disability
+  - 103
+  - 34 CFR 99.1-99.8
+  - Family Educational Rights and Privacy Act
+  - 42 USC 11434a
+  - McKinney-Vento Homeless Assistance Act; definitions
+  - Federal
+
+Management Resources:
+  - CA Office of the Attorney General Publication
+  - Promoting a Safe and Secure Learning Environment for All: Guidance and
+  - Model Policies to Assist California's K-12 Schools in Responding to
+  - Immigration Issues, December 2024
+  - CSBA Publication
+  - Understanding Artificial Intelligence in K-12 Education: What Governance
+  - Teams Should Know, September 2023
+  - CSBA Publication
+  - Legal Guidance on Providing All Children Equal Access to Education,
+  - Regardless of Immigration Status, February 2017

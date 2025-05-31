@@ -1,0 +1,185 @@
+RCSD Regulation 4157
+================================================================================
+Title: Employee Safety
+Status: ADOPTED
+Original Adopted Date: 11/04/2009
+Last Reviewed Date: 11/04/2009
+Source: RCSD Policies 4000.pdf (Pages 208, 209, 210, 211)
+================================================================================
+
+The Superintendent or designee shall provide safety devices, safeguards, methods and processes for staff that are
+reasonably adequate to render the employment and place of employment safe.
+Injury and Illness Prevention Program
+The district's injury and illness prevention program shall cover all district employees and all other workers whom the
+district controls or directs and directly supervises on the job to the extent that workers are exposed to hazards
+specific to their worksite and job assignment. The obligation of contractors or other employers who control or direct
+and supervise their own employees on the job shall not be affected by the district's injury prevention program. (Labor
+Code 6401.7)
+The district's injury and illness prevention program shall include: (Labor Code 6401.7; 8 CCR 3203)
+1. The name/position of the person(s) with authority and responsibility for implementing the program.
+ 
+2. A system for ensuring that employees comply with safe and healthful work practices, which may include but
+not be limited to:
+ 
+a. Recognition of employees who follow safe and healthful work practices
+ 
+b. Training and retraining programs
+ 
+c. Disciplinary actions
+ 
+3. A system for communicating with employees in a form readily understandable by all employees on matters
+related to occupational health and safety, including provisions designed to encourage employees to report
+hazards at the worksite without fear of reprisal. This system may include but not be limited to:
+ 
+a. Meetings
+ 
+b. Training programs
+ 
+c. Posting
+ 
+d. Written communications
+ 
+e. A system of anonymous notification by employees about hazards
+ 
+4. Procedures for identifying and evaluating workplace hazards, including scheduled periodic inspections to
+identify unsafe conditions and work practices. Such inspections shall be made:
+ 
+a. Whenever introducing into the workplace new substances, processes, procedures or equipment that
+represent a new occupational safety or health hazard
+ 
+b. Whenever the district is made aware of a new or previously unrecognized hazard
+ 
+5. A procedure for investigating occupational injury or illness.
+ 
+6. Methods and/or procedures for correcting unsafe or unhealthful conditions, work practices and work
+procedures in a timely manner based on the severity of the hazard when observed or discovered.
+When an imminent hazard exists which cannot be immediately abated without endangering employee(s)
+and/or property, these procedures shall call for the removal of all exposed staff from the area except those
+necessary to correct the hazardous condition. Employees needed to correct the condition shall be provided
+necessary safeguards.
+ 
+7. Training and instruction:
+Board Policy Manual
+Redwood City School District
+
+Policy Reference Disclaimer:
+ 
+a. To all new employees
+ 
+b. To all employees given new job assignments for which training has not previously been received
+ 
+c. Whenever new substances, processes, procedures or equipment are introduced into the workplace and
+represent a new hazard
+ 
+d. Whenever the district is made aware of a new or previously unrecognized hazard
+ 
+e. To familiarize supervisors with the safety and health hazards to which employees under their immediate
+direction and control may be exposed
+Records of the steps taken to implement and maintain the injury and illness prevention program shall be kept in
+accordance with 8 CCR 3203.
+Hearing Protection
+When information indicates that any employee's exposure to noise may equal or exceed an eight-hour average
+sound level of 85 decibels, the Superintendent or designee shall implement a hearing conservation program in
+accordance with state and federal regulations. (8 CCR 5097, 29 CFR 1910.95)
+Eye Safety Devices
+Eye safety devices shall be worn by employees whenever they are engaged in or observing an activity involving
+hazards or hazardous substances likely to cause injury to the eyes. (Education Code 32030)
+Such activities include, but are not limited to, the following: (Education Code 32031)
+1. Working with hot molten metal
+ 
+2. Milling, sawing, turning, shaping, cutting, grinding and stamping of any solid materials
+ 
+3. Heat treating, tempering, or kiln firing of any metal or other materials
+ 
+4. Gas or electric arc welding
+ 
+5. Repair or servicing of any vehicles, machinery or equipment
+ 
+6. Working with hot liquids or solids or with chemicals which are flammable, toxic, corrosive to living tissues,
+irritating, strongly sensitizing, radioactive, or which generate pressure through heat, decomposition, or other
+means
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - 17 CCR 2508
+  - Reporting of communicable diseases
+  - 8 CCR 14000-14316
+  - Occupational injury or illness reports and records
+  - 8 CCR 3203
+  - Injury and illness prevention program
+  - 8 CCR 3204
+  - Access to employee exposure and medical records
+  - 8 CCR 3400
+  - Medical services and first aid
+  - 8 CCR 5095-5100
+  - Control of noise exposure
+  - 8 CCR 5193
+  - Bloodborne pathogens
+  - Ed. Code 32030-32034
+  - Eye safety
+  - Ed. Code 32225-32226
+  - Communications devices in classrooms
+  - 209
+  - Ed. Code 32280-32289.5
+  - School safety plans
+  - Ed. Code 44984
+  - Required rules for industrial accident and illness leave
+  - Gov. Code 3543.2
+  - Scope of representation
+  - Lab. Code 1139
+  - Worker's rights in emergencies
+  - Lab. Code 132a
+  - Workers' compensation; nondiscrimination
+  - Lab. Code 3300
+  - Definition of employer
+  - Lab. Code 6305
+  - Occupational safety and health standards; special order
+  - Lab. Code 6310
+  - Retaliation for filing complaint prohibited
+  - Lab. Code 6325
+  - Prohibition of entry into place of employment
+  - Lab. Code 6400-6413.5
+  - Responsibilities and duties of employers and employees
+  - Lab. Code 6401.7
+  - Injury and illness prevention program
+  - Lab. Code 6401.9
+  - Workplace violence prevention plans
+  - State
+
+Federal References:
+  - 17 CFR 2508
+  - Reporting of communicable diseases
+  - 29 CFR 1910.1030
+  - Bloodborne pathogens
+  - 29 CFR 1910.95
+  - Noise standards
+  - 29 CFR 651-678
+  - Occupational safety and health
+  - 8 CFR 14000-14316
+  - Occupational injury or illness reports and records
+  - 8 CFR 3204
+  - Access to employee exposure and medical records
+  - 8 CFR 5193
+  - Bloodborne pathogens
+
+Management Resources:
+  - CA Department of Industrial Relations Publication Guide to Developing Your Workplace Injury and Illness Prevention Program,
+  - rev. August 2005
+  - Website
+  - CSBA District and County Office of Education Legal Services
+  - Website
+  - National Institute for Occupational Safety and Health
+  - Website
+  - U.S. Department of Labor, Occupational Safety and Health Administration
+  - Website
+  - California Department of Industrial Relations, Occupational Safety and
+  - Health
+  - Website
+  - National Hearing Conservation Association
+  - Website
+  - Centers for Disease Control and Prevention
+  - Website
+  - CSBA

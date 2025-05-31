@@ -1,0 +1,123 @@
+RCSD Policy 0420.43
+================================================================================
+Title: Charter School Revocation
+Status: ADOPTED
+Original Adopted Date: 05/23/2018
+Last Reviewed Date: 05/23/2018
+Source: RCSD Policies 0000.pdf (Pages 64, 65, 66)
+================================================================================
+
+The Board of Education expects any charter school it authorizes to provide a sound educational program that
+promotes student learning and to carry out its operations in a manner that complies with law and the terms of its
+charter.
+The Board may revoke a charter before the date it is due to expire whenever the Board makes a written factual
+finding, supported by substantial evidence, that the charter school has done any of the following: (Education Code
+47607)
+1. Committed a material violation of any of the conditions, standards, or procedures set forth in the charter
+ 
+2. Failed to meet or pursue any of the student outcomes identified in the charter
+ 
+3. Failed to meet generally accepted accounting principles or engaged in fiscal mismanagement
+ 
+4. Violated any provision of law
+The Board shall also consider revocation of a charter whenever the California Collaborative for Educational
+Excellence (CCEE), after providing advice and assistance to the charter school pursuant to Education Code 47607.3,
+submits to the Board either of the following findings: (Education Code 47607.3)
+1. That the charter school has failed or is unable to implement the recommendations of the CCEE
+ 
+2. That the inadequate performance of the charter school, as based on an evaluation rubric adopted by the State
+Board of Education (SBE), is so persistent or acute as to require revocation of the charter
+In determining whether to revoke a charter, the Board shall consider increases in student academic achievement for
+all "numerically significant" groups of students served by the charter school, as defined in Education Code 52052, as
+the most important factor. (Education Code 47607, 47607.3)
+At least 72 hours prior to any Board meeting at which the Board will consider issuing a Notice of Violation, the Board
+shall provide the charter school with notice and all relevant documents related to the proposed action. (5 CCR
+11968.5.2)
+If the Board takes action to issue a Notice of Violation, it shall deliver the Notice of Violation to the charter school's
+governing body. The Notice of Violation shall identify: (Education Code 47607; 5 CCR 11965, 11968.5.2)
+1. The charter school's alleged violation(s).
+ 
+2. All evidence relied upon by the Board in determining that the charter school committed the alleged violation(s),
+including the date and duration of the alleged violation(s). The Notice shall show that each alleged violation is
+both material and uncured and that it occurred within a reasonable period of time before the Notice of
+Violation is issued.
+ 
+3. The period of time that the Board has concluded is a reasonable period of time for the charter school to
+remedy or refute the identified violation(s). In identifying this time period, the Board shall consider the amount
+of time reasonably necessary to remedy each identified violation, which may include the charter school's
+estimation as to the anticipated remediation time.
+By the end of the remedy period identified in the Notice of Violation, the charter school's governing body may
+submit to the Board a detailed written response and supporting evidence addressing each identified violation,
+including the refutation, remedial action taken, or proposed remedial action. (5 CCR 11968.5.2)
+Within 60 calendar days of the conclusion of the remedy period, the Board shall evaluate any response and
+supporting evidence provided by the charter school's governing body and shall take one of the following actions: (5
+CCR 11968.5.2)
+1. Discontinue revocation of the charter and provide timely written notice of such action to the charter school's
+governing body
+ 
+Board Policy Manual
+Redwood City School District
+
+Policy Reference Disclaimer:
+2. If there is substantial evidence that the charter school has failed to remedy a violation identified in the Notice
+of Violation or to refute a violation to the Board's satisfaction, continue revocation of the charter by issuing a
+Notice of Intent to Revoke to the charter school's governing body
+If the Board issues a Notice of Intent to Revoke, it shall hold a public hearing concerning the revocation on the date
+specified in the notice, which shall be no later than 30 days after providing the notice. Within 30 calendar days after
+the public hearing, or within 60 calendar days if extended by written mutual agreement of the Board and the charter
+school, the Board shall issue a final decision to revoke or decline to revoke the charter. (Education Code 47607; 5
+CCR 11968.5.2)
+If the Board fails to meet the timelines specified above for issuing a Notice of Intent to Revoke or a final decision, the
+revocation process shall be deemed terminated.
+Within 10 calendar days of the Board's final decision, the Superintendent or designee shall provide a copy of the final
+decision to the California Department of Education (CDE) and the County Board of Education. (Education Code
+47604.32; 5 CCR 11968.5.2)
+Severe and Imminent Threat
+The procedures specified above shall not be applicable when the Board determines, in writing, that any violation
+under Education Code 47607 constitutes a severe and imminent threat to the health or safety of students. In such
+circumstances, the Board may immediately revoke the school's charter by approving and delivering a Notice of
+Revocation by Determination of a Severe and Imminent Threat to Pupil Health or Safety to the charter school's
+governing body, the County Board, and the CDE. (Education Code 47607; 5 CCR 11968.5.3)
+Appeals
+If the Board revokes a charter, the charter school may, within 30 days of the Board's final decision, appeal the
+revocation to the County Board. Either the charter school or the district may subsequently appeal the County
+Board's decision to the SBE. However, a revocation based upon the findings of the CCEE pursuant to Education
+Code 47607.3 may not be appealed. (Education Code 47607, 47607.3; 5 CCR 11968.5.3-11968.5.5)
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - 5 CCR 11960-11969.10
+  - Charter schools
+  - 5 CCR 11968.5.1-11968.5.5
+  - Charter revocations
+  - Ed. Code 47600-47616.7
+  - Charter Schools Act of 1992
+  - Ed. Code 47607
+  - Charter renewals and revocations
+  - Ed. Code 52052
+  - Accountability; numerically significant student subgroups
+
+Management Resources:
+  - Court Decision
+  - Today's Fresh Start, Inc. v. Los Angeles County Office of Education (2013)
+  - 57 Cal.4th 197
+  - CSBA Publication
+  - Charter Schools: A Guide for Governance Teams, rev. June 2021
+  - CSBA Publication
+  - The Role of the Charter School Authorizer, Online Course
+  - Website
+  - CSBA District and County Office of Education Legal Services
+  - Website
+  - National Association of Charter School Authorizers
+  - Website
+  - California Charter Schools Association
+  - Website
+  - California Department of Education, Charter Schools
+  - Website
+  - CSBA
+  - Website
+  - U.S. Department of Education
+  - 65

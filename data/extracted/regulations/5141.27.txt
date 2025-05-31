@@ -1,0 +1,169 @@
+RCSD Regulation 5141.27
+================================================================================
+Title: Food Allergies/Special Dietary Needs
+Status: ADOPTED
+Original Adopted Date: 01/13/2010
+Last Reviewed Date: 01/13/2010
+Source: RCSD Policies 5000.pdf (Pages 252, 253, 254, 255)
+================================================================================
+
+Definitions
+Special dietary needs include food intolerances, allergies, and other medical needs that may require avoidance of
+specific foods.
+Food allergies are abnormal responses of the body's immune system to certain foods or ingredients.
+Anaphylaxis is a potentially life-threatening hypersensitivity to a substance and may be caused by a food allergy.
+Symptoms may include shortness of breath, wheezing, difficulty breathing, difficulty talking or swallowing, hives,
+itching, swelling, shock, or asthma. (Education Code 49414)
+In severe cases, anaphylaxis may result in lowered blood pressure, loss of consciousness, or even death. Symptoms
+typically appear immediately after exposure to a certain food or substance but in rare cases may occur after a few
+hours.
+Epinephrine auto-injector is a disposable drug delivery system with a spring-activated concealed needle that is
+designed for emergency administration of epinephrine to persons suffering a potentially fatal reaction to anaphylaxis.
+(Education Code 49414)
+Notification by Parent/Guardian
+If their child has a known food allergy, the parents/guardians shall notify the Superintendent or designee, in writing,
+and provide written medical documentation, signed by a physician, that describes the nature of the student's
+condition, instructions, and necessary medications. If the food allergy requires food substitutions or modifications in
+school meals, the written statement shall also describe the specific foods to be restricted and the foods that should
+be substituted.
+Prevention
+To minimize students' exposure to foods to which they are allergic, the Superintendent or designee shall, at a
+minimum, implement the following preventive measures:
+1. Notification to District Staff
+When notified by the parent/guardian that a student has a food allergy, the Superintendent or designee shall
+inform the student's principal, teacher(s), bus driver, school nurse, coach, substitute teacher, and/or any other
+personnel responsible for supervising the student.
+The principal or designee shall notify substitute staff of any students with known food allergies and the
+school's response plan.
+ 
+2. Food Services
+The district's food services program shall make food substitutions in breakfasts, lunches, and after-school
+snacks when students are considered to have a disability under Section 504 of the federal Rehabilitation Act of
+1973 that restricts their diet and when a physician has signed a statement of need that includes recommended
+alternate foods. (7 CFR 210.10, 220.8)
+Substitutions may be made on a case-by-case basis for students who do not have a disability under Section
+504 but who cannot consume the regular breakfast, lunch, or after-school snack because of medical or other
+special dietary needs, when supported by a statement of need signed by a recognized medical authority. (7
+CFR 210.10, 220.8, 225.16)
+The district's food services staff shall check food labels or specifications to ensure that foods do not contain
+traces of substances to which the student is allergic.
+Under no circumstances shall food services staff prescribe nutritional requirements or revise a diet order
+prescribed by a physician.
+Board Policy Manual
+Redwood City School District
+
+Policy Reference Disclaimer:
+Food substitutions shall not result in any additional cost to the student.
+ 
+3. Class Parties/School Activities
+Without identifying the student, the principal or teacher may notify parents/guardians of other students in the
+class that a student is allergic to a specific food and may request that the food not be provided at class parties
+or other school events.
+Whenever the ingredients in any food served at class parties or other school activities are unknown, the
+student shall be encouraged to avoid the food.
+ 
+4. Sanitation and Cleaning
+To avoid spreading allergens, cafeteria tables and classroom surfaces shall be cleaned with a fresh cloth or
+disposable paper towels and cleaning products known to effectively remove food proteins, excluding waterless
+cleaners or instant hand sanitizers that do not involve a wet-wash step. Cross-contact from a sponge or cloth
+used to clean allergen-containing tabletops shall be avoided.
+Staff shall use and promote hand-washing using soap and water before and after food handling.
+Students shall be notified that exchanging meals or utensils is prohibited.
+ 
+5. Professional Development
+Schoolwide professional development shall be provided to appropriate staff on the identification and
+management of food allergies, including avoidance measures, typical symptoms, the proper use of epinephrine
+auto-injectors, documentation and storage of medication, and emergency drills.
+ 
+6. Supervision of Students
+Staff who are trained and knowledgeable about symptoms of anaphylaxis and actions to take in an emergency
+shall provide supervision in the classroom and cafeteria and on the playground whenever students known to
+have a food allergy are on school grounds.
+ 
+7. Health Education
+The district's health education curriculum may include instruction on food allergies in order to assist food-allergic
+students in taking responsibility for monitoring their diet and to teach other students about the dangers of sharing
+foods or utensils with others.
+Emergency Response
+Epinephrine auto-injectors or other medicine provided for use in the event of an anaphylactic shock reaction shall be
+stored and used in accordance with law and BP/AR 5141.21 - Administering Medication and Monitoring Health
+Conditions.
+In addition, staff shall call 911 and seek immediate medical attention for a student experiencing an anaphylactic
+shock reaction.
+As soon as possible, school staff shall contact the student's parents/guardians or other person identified as an
+emergency contact.
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - 5 CCR 15562
+  - Reimbursement for meals; substitutions
+  - 5 CCR 600-611
+  - Administering medication to students
+  - 253
+  - Ed. Code 234.1
+  - Student protections relating to discrimination, harassment, intimidation, and
+  - bullying
+  - Ed. Code 49407
+  - Liability for treatment
+  - Ed. Code 49408
+  - Student emergency information
+  - Ed. Code 49414
+  - Emergency epinephrine auto-injectors
+  - Ed. Code 49423
+  - Administration of prescribed medication for student
+  - State
+
+Federal References:
+  - 20 USC 1232g
+  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1400-1482
+  - Individuals with Disabilities Education Act
+  - 29 USC 701-795a
+  - Rehabilitation Act
+  - 29 USC 794
+  - Rehabilitation Act of 1973; Section 504
+  - 42 USC 12101-12213
+  - Americans with Disabilities Act
+  - 42 USC 1751-1769j
+  - School Lunch Program
+  - 42 USC 1771-1791
+  - Child nutrition
+  - 42 USC 1773
+  - School Breakfast Program
+  - 7 CFR 210.1-210.33
+  - National School Lunch Program
+  - 7 CFR 220.1-220.21
+  - National School Breakfast Program
+  - 7 CFR 225.16
+  - Meal programs; individual substitutions
+
+Management Resources:
+  - California Department of Education Publication
+  - Training Standards for the Administration of Epinephrine Auto-Injectors,
+  - December 2004
+  - Food Allergy Research and Education Publication School Guidelines for Managing Students with Food Allergies
+  - National School Boards Association Publication
+  - Legal and Practical Issues Relating to Accommodating Students with Peanut
+  - Allergies, Inquiry and Analysis, April 2009
+  - U.S DOE, Office for Civil Rights Publication
+  - Dear Colleague Ltr & Questions & Answers on ADA Amendments Act of
+  - 2008 for Students with Disabilities Attending Public Elem & Secondary
+  - Schools, 2012
+  - U.S. Department of Agriculture Publication
+  - Accommodating Children with Special Dietary Needs in the School Nutrition
+  - Programs: Guidance for School Food Service Staff, 2001
+  - Website
+  - CSBA District and County Office of Education Legal Services
+  - Website
+  - U.S. Department of Agriculture
+  - Website
+  - Food Allergy Research and Education
+  - Website
+  - National School Boards Association
+  - Website
+  - California Department of Education, Health Services and School Nursing
+  - Website
+  - U.S. Department of Education, Office for Civil Rights

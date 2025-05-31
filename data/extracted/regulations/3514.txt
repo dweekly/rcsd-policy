@@ -1,0 +1,164 @@
+RCSD Regulation 3514
+================================================================================
+Title: Environmental Safety
+Status: ADOPTED
+Original Adopted Date: 11/04/2009
+Last Reviewed Date: 11/04/2009
+Source: RCSD Policies 3000.pdf (Pages 172, 173, 174, 175, 176)
+================================================================================
+
+Air Quality
+The Superintendent or designee shall ensure that the following measures are taken in order to reduce indoor air
+contaminants:
+1. Heating, ventilating and air conditioning systems shall be operated, inspected and maintained in accordance
+with 8 CCR 5142-5143. School buildings shall be inspected annually to ensure they have adequate ventilation
+systems, which are properly maintained so as to preclude the buildup of mold, mildew, and other air
+contaminants. Filters shall be changed as needed.
+ 
+2. Indoor painting of school buildings shall be limited to those times when school is not in session.
+ 
+3. Low-emission cleaning products shall be used whenever possible, and custodial duties that require polluting
+products shall be performed after classes are dismissed.
+ 
+4. Paints, adhesives and solvents shall be used and stored in well-ventilated areas; these items shall be purchased
+in small quantities to avoid storage exposure.
+ 
+5. Exterior wall and foundation cracks and openings shall be sealed as soon as possible, to control exposure to
+radon.
+ 
+6. Water-damaged ceiling tiles, carpet, and other building materials shall be removed as soon as practicable.
+ 
+7. Plain water or soap and water shall be used as cleaning agents; aerosols, including air fresheners, shall be
+avoided.
+ 
+8. Pest control measures shall involve the use of integrated pest management (IPM) procedures.
+The following steps shall be taken to minimize potential exposure to lead:
+1. Painted surfaces shall be kept intact whenever possible. To minimize lead dust during maintenance operations,
+a tarp or plastic shall be placed under paint removal operations to collect old paint debris, paint shall be
+dampened before removing it with a scraper, nearby surfaces shall be cleaned with a wet mop or cloth after
+the job is completed, a High Efficiency Particulate Air (HEPA) attachment may be used on power sanders, and
+clean-up may be conducted with HEPA vacuums to remove lead dust. An open flame shall not be used to
+remove old paint.
+ 
+2. Soil with high lead content may be covered with grass, other plantings, concrete or asphalt. Children's access
+to bare soil shall be limited.
+ 
+3. Lead exposure hazards shall be evaluated before any renovation or remodeling is begun, and children shall not
+be allowed in or near buildings in which these activities may create lead dust. Contractors and workers shall
+comply with state and federal standards related to the handling and disposal of lead debris and the clean-up
+and containment dust within the construction area.
+ 
+4. The Superintendent or designee may provide parents/guardians and students with information about the
+prevention of lead poisoning.
+ 
+5. Remedial action to abate existing lead hazards shall be taken only by personnel qualified in accordance with
+law. (Education Code 32243)
+Asbestos Testing and Abatement
+Maintenance staff shall be trained in the location, identification, proper cleaning and ongoing maintenance of
+asbestos-containing materials and in the removal and decontamination of small amounts of such materials when
+needed to repair pipes or perform similar duties. Extensive asbestos abatement work shall be completed by state-
+certified asbestos abatement contractors in compliance with state and federal standards.
+Board Policy Manual
+Redwood City School District
+
+Policy Reference Disclaimer:
+The district's complete, updated management plan for material containing asbestos in school buildings shall be
+available for inspection in district and school offices during normal business hours. Parent, teacher and employee
+organizations shall annually be informed of the availability of this plan. (40 CFR 763.93)
+Other Environmental Safety Precautions
+Principals or their designees shall enforce school rules designed to:
+1. Prevent the accumulation of flammable, noxious or otherwise dangerous materials unless adequate safeguards
+are provided
+ 
+2. Keep all school facilities free of debris
+ 
+3. Keep walkways at all times open to pedestrian traffic and clear of obstructions
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - 13 CCR 2025
+  - Retrofitting of diesel school buses
+  - 13 CCR 2480
+  - Vehicle idling; limitations
+  - 17 CCR 35001-36100
+  - Lead abatement services
+  - 22 CCR 64670-64672.6
+  - Lead and copper in drinking water
+  - 22 CCR 64673-64674
+  - Water System Requirements
+  - 22 CCR 64675-64679
+  - Monitoring for Lead and Copper
+  - 24 CCR 915.1-915.7
+  - California Building Standards Code; carbon monoxide devices
+  - 5 CCR 14010
+  - Procedure for site acquisition
+  - 8 CCR 1528-1537
+  - Construction safety orders; exposure to hazards
+  - 8 CCR 337-339
+  - Hazardous substances list
+  - 8 CCR 340-340.2
+  - Occupational safety and health; rights of employees
+  - 8 CCR 5139-5223
+  - Control of hazardous substances
+  - Ed. Code 17002
+  - State School Building Lease-Purchase Law, including definition of good
+  - repair
+  - Ed. Code 17070.75
+  - Facilities inspection
+  - Ed. Code 17582
+  - District deferred maintenance fund
+  - Ed. Code 17590
+  - Asbestos abatement fund
+  - Ed. Code 17608-17614
+  - Healthy Schools Act of 2000
+  - Ed. Code 32080-32081
+  - Carbon monoxide devices
+  - Ed. Code 32240-32245
+  - Lead-Safe Schools Protection Act
+  - Ed. Code 48980.3
+  - Notification of pesticide use
+  - Ed. Code 49410-49410.7
+  - Asbestos materials containment or removal
+  - F&A Code 11401-12408
+  - Pest control operations and agricultural chemicals
+  - F&A Code 13180-13188
+  - Healthy Schools Act of 2000
+  - Gov. Code 3543.2
+  - Scope of representation
+  - H&S Code 105400-105430
+  - Indoor environmental quality
+  - H&S Code 113700-114437
+  - California Retail Food Code; sanitation and safety requirements
+  - H&S Code 116277
+  - Lead testing of potable water at schools and requirements to remedy
+  - 173
+
+Federal References:
+  - 15 USC 2601-2629
+  - Control of toxic substances
+  - 15 USC 2641-2656
+  - Asbestos Hazard Emergency Response Act
+  - 40 CFR 141.1-141.723
+  - Drinking water standards
+  - 40 CFR 745.61-745.339
+  - Lead-based paint standards
+  - 40 CFR 763.120-763.123
+  - Asbestos worker protections
+  - 40 CFR 763.80-763.99
+  - Asbestos-containing materials in schools
+  - 42 USC 1758
+  - Food safety and inspections
+  - 7 USC 136-136y
+  - Use of pesticides
+
+Management Resources:
+  - CA DHS Publication
+  - Report to the Legislature: Lead Hazards in California's Public Elementary
+  - Schools and Child Care Facilities, April 1998
+  - CA EPA: Air Resources Board Publication
+  - Facts about Truck and Bus Regulation School Bus Provisions, rev. March 22,
+  - 2011
+  - CA

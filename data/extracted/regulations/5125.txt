@@ -1,0 +1,619 @@
+RCSD Regulation 5125
+================================================================================
+Title: Student Records
+Status: ADOPTED
+Original Adopted Date: 02/15/2017
+Last Reviewed Date: 06/27/2018
+Source: RCSD Policies 5000.pdf (Pages 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122)
+================================================================================
+
+Definitions
+Student means any individual who is or has been in attendance at the district and for whom the district maintains
+student records. (34 CFR 99.3)
+Attendance includes, but is not limited to, attendance in person or by paper correspondence, videoconference,
+satellite, Internet, or other electronic information and telecommunication technologies for students who are not
+physically present in the classroom, and the period during which a person is working under a work-study program.
+(34 CFR 99.3)
+Student records are any items of information (in handwriting, print, tape, film, computer, or other medium) gathered
+within or outside the district that are directly related to an identifiable student and maintained by the district,
+required to be maintained by an employee in the performance of their duties, or maintained by a party acting for the
+district. Any information maintained for the purpose of second-party review is considered a student record. Student
+records include the student's health record. (Education Code 49061, 49062; 5 CCR 430; 34 CFR 99.3)
+Student records do not include: (Education Code 49061, 49062; 5 CCR 430; 34 CFR 99.3)
+1. Directory information.
+ 
+2. Informal notes compiled by a school officer or employee which remain in the sole possession of the maker, are
+used only as a personal memory aid, and are not accessible or revealed to any other person except a substitute
+employee.
+ 
+3. Records of the law enforcement unit of the district, subject to 34 CFR 99.8.
+ 
+4. Records created or received by the district after an individual is no longer a student and that are not directly
+related to the individual's attendance as a student.
+ 
+5. Grades on peer-graded papers before they are collected and recorded by a teacher.
+Mandatory permanent student records are those records that are maintained in perpetuity and which schools have
+been directed to compile by state law, regulation, or administrative directive. (5 CCR 430)
+Mandatory interim student records are those records that the schools are directed to compile and maintain for
+specified periods of time and are then destroyed in accordance with state law, regulation, or administrative directive.
+(5 CCR 430)
+Permitted student records are those records having clear importance only to the current educational process of the
+student. (5 CCR 430)
+Disclosure means to permit access to, or the release, transfer, or other communication of, personally identifiable
+information contained in student records to any party, except the party that provided or created the record, by any
+means including oral, written, or electronic.
+Access means a personal inspection and review of a record or an accurate copy of a record, or receipt of an accurate
+copy of a record or an oral description or communication of a record, and a request to release a copy of any record.
+(Education Code 49061)
+Personally identifiable information includes, but is not limited to: (34 CFR 99.3)
+1. The student's name.
+ 
+2. The name of the student's parent/guardian or other family members.
+ 
+3. The address of the student or student's family.
+ 
+4. A personal identifier, such as the student's social security number, student number, or biometric record (e.g.,
+fingerprints, retina and iris patterns, voiceprints, DNA sequence, facial characteristics, and handwriting).
+Board Policy Manual
+Redwood City School District
+
+5. Other indirect identifiers, such as the student's date of birth, place of birth, and mother's maiden name.
+ 
+6. Other information that, alone or in combination, is linked or linkable to a specific student that would allow a
+reasonable person in the school community, who does not have personal knowledge of the relevant
+circumstances, to identify the student with reasonable certainty.
+ 
+7. Information requested by a person who the district reasonably believes knows the identity of the student to
+whom the student record relates.
+Adult student is a person who is or was enrolled in school and who is at least 18 years of age.
+Parent/guardian means a natural parent, an adopted parent, legal guardian, surrogate parent, or foster parent.
+(Education Code 49061, 56050, 56055)
+Legitimate educational interest is an interest held by any school official, employee, contractor, or consultant whose
+duties, responsibilities, or contractual obligations to the district, whether routine or as a result of special
+circumstances, require them to have access to student records.
+School officials and employees are officials or employees whose duties and responsibilities to the district, whether
+routine or as a result of special circumstances, require that they have access to student records.
+Contractor or consultant is anyone with a formal written agreement or contract with the district regarding the
+provision of services or functions outsourced to them by the district. Contractor or consultant shall not include a
+volunteer or other party. (Education Code 49076)
+Custodian of records is the employee responsible for the security of student records maintained by the district and for
+devising procedures for assuring that access to such records is limited to authorized persons. (5 CCR 433)
+County placing agency means the county social service department or county probation department. (Education Code
+49061)
+Persons Granted Absolute Access
+In accordance with law, absolute access to any student records shall be granted to:
+1. Parents/guardians of students younger than age 18 years, including the parent who is not the student's
+custodial parent (Education Code 49069; Family Code 3025)
+ 
+2. An adult student, or a student under the age of 18 years who attends a postsecondary institution, in which
+case the student alone shall exercise rights related to their student records and grant consent for the release of
+records (34 CFR 99.3, 99.5)
+ 
+3. Parents/guardians of an adult student with disabilities who is age 18 years or older and has been declared
+incompetent under state law (Education Code 56041.5)
+Access for Limited Purpose/Legitimate Educational Interest
+The following persons or agencies shall have access to those particular records that are relevant to their legitimate
+educational interest or other legally authorized purpose:
+1. Parents/guardians of a student age 18 or older who is a dependent child as defined under 26
+ 
+2. Students who are age 16 or older or who have completed the 10th grade
+ 
+3. School officials and employees, consistent with the definition provided in the section "Definitions" above
+ 
+4. Members of a school attendance review board (SARB) who are authorized representatives of the district and
+any volunteer aide age 18 or older who has been investigated, selected, and trained by the SARB to provide
+follow-up services to a referred
+ 
+5. Officials and employees of other public schools, school systems, or postsecondary institutions where the
+student intends or is directed to enroll, including local, county, or state correctional facilities where educational
+programs leading to high school graduation are provided, or where the student is already enrolled, as long as
+
+the disclosure is for purposes related to the student's enrollment or transfer
+Unless the annual parent/guardian notification issued pursuant to Education Code 48980 includes a statement
+that the district may disclose students' personally identifiable information to officials of another school, school
+system, or postsecondary institution where the student seeks or intends to enroll, the Superintendent or
+designee shall, when such a disclosure is made, make a reasonable attempt to notify the parent/guardian or
+adult student at their last known address, provide a copy of the record that is disclosed, and give the
+parent/guardian or adult student an opportunity for a hearing to challenge the record. (34 CFR 99.34)
+ 
+6. The Student Aid Commission, for the purpose of providing the grade point average (GPA) of all district
+students in grade 12, and subsequently providing verification of high school graduation or its equivalent of all
+students who graduated in the prior academic year, for us in the Cal Grant postsecondary financial aid
+program. However, such information shall not be submitted when students opt out or are permitted by the
+rules of the Student Aid Commission to provide test scores in lieu of the GPA. (Education Code 69432.9,
+69432.92)
+No later than October 15 each year, the Superintendent or designee shall notify each student in grade 12, and
+their parents/guardians if the student is under age 18 years, that the student's GPA will be forwarded to the
+Student Aid Commission unless they opt out within a period of time specified in the notice, which shall not be
+less than 30 days.
+Students' social security numbers shall not be included in the submitted information unless the Student Aid
+Commission deems it necessary to complete the financial aid application and the Superintendent or designee
+obtains permission from the student's parent/guardian, or from the adult student, to submit the social security
+number. (Education Code 69432.9)
+ 
+7. Federal, state, and local officials, as needed for an audit, evaluation, or compliance activity related to a state or
+federally funded education program and in accordance with a written agreement developed pursuant to 34
+CFR 99.35. (Education Code 49076; 34 CFR 99.3,99.31, 99.35)
+ 
+8. Any county placing agency acting as an authorized representative of a state or local educational agency which
+is required to audit or evaluate a state or federally supported education program pursuant to item #7 above.
+(Education Code 49076)
+ 
+9. Any person, agency, or organization authorized in compliance with a court order or lawfully issued subpoena.
+(Education Code 49077; 5 CCR 435; 34 CFR 99.31)
+Unless otherwise instructed by the court, the Superintendent or designee shall, prior to disclosing a record
+pursuant to a court order or subpoena, give the parent/guardian or adult student at least three days' notice of
+the name of the requesting agency and the specific record requested, if lawfully possible within the
+requirements of the judicial order. (Education Code 49077; 5 CCR 435; 34 CFR 99.31)
+ 
+10. Any district attorney who is participating in or conducting a truancy mediation program or participating in the
+presentation of evidence in a truancy petition. (Education Code 49076)
+ 
+11. A district attorney's office for consideration against a parent/guardian for failure to comply with compulsory
+education laws. (Education Code 49076)
+ 
+12. Any probation officer, district attorney, or counsel of record for a minor student for the purposes of
+conducting a criminal investigation or an investigation in regards to declaring the minor student a ward of the
+court or involving a violation of a condition of probation, subject to evidentiary rules specified in Welfare and
+Institutions Code 701.
+When disclosing records for these purposes, the Superintendent or designee shall obtain written certification
+from the recipient of the records that the information will not be disclosed to another party without prior
+written consent of the student's parent/guardian or the holder of the student's educational rights, unless
+specifically authorized by state or federal law. (Education Code 49076)
+ 
+13. Any judge or probation officer for the purpose of conducting a truancy mediation program for a student or for
+the purpose of presenting evidence in a truancy petition pursuant to Welfare and Institutions Code 681.
+(Education Code 49076)
+
+In such cases, the judge or probation officer shall certify in writing to the Superintendent or designee that the
+information will be used only for truancy purposes. Upon releasing student information to a judge or probation
+officer, the Superintendent or designee shall inform, or provide written notification to, the student's
+parent/guardian within 24 hours.
+ 
+14. Foster family agency with jurisdiction over a currently enrolled or former student; short-term residential
+treatment program staff responsible for the education or case management of a student; or a caregiver who
+has direct responsibility for the care of a student, including a certified or licensed foster parent, an approved
+relative or nonrelated extended family member, or a resource family, as defined. (Education Code 49076
+Such individuals shall have access to the student's current or most recent records of grades, transcripts,
+attendance, discipline, online communication on platforms established by schools for students and
+parents/guardians, and any individualized education program or Section 504 plan developed and maintained by
+the district. (Education Code 49069.3)
+ 
+15. A student age 14 years or older who is both a homeless student and an unaccompanied minor as defined in 42
+USC 11434a. (Education Code 49076)
+ 
+16. An individual who completes items 1-4 of the caregiver's authorization affidavit pursuant to Family Code 6552
+and signs the affidavit for the purpose of enrolling a minor in school. (Education Code 49076)
+ 
+17. A caseworker or other representative of a state or local child welfare agency or tribal organization that has
+legal responsibility for the care and protection of a student, provided that the information is directly related to
+providing assistance to address the student's educational needs. (Education Code 49076; 20 USC 1232(g)
+ 
+18. Appropriate law enforcement authorities, in circumstances where Education Code 48902 requires that the
+district provide special education and disciplinary records of a student with disabilities who is suspended or
+expelled for committing an act violating Penal Code 245. (Education Code 48902, 49076)
+When disclosing such records, the Superintendent or designee shall obtain written certification by the recipient
+of the records as described in item #12 above.
+ 
+19. Designated peace officers or law enforcement agencies in cases where the district is authorized by law to
+assist law enforcement in investigations of suspected criminal conduct or kidnapping and a written parental
+consent, lawfully issued subpoena, or court order is submitted to the district, or information is provided to it
+indicating that an emergency exists in which the student's information is necessary to protect the health or
+safety of the student or other individuals. (Education Code 49076.5; 34 CFR 99.1-99.67)
+In such cases, the Superintendent or designee shall provide information about the identity and location of the
+student as it relates to the transfer of that student's records to another public school district or California private
+school. (Education Code 49076.5)
+When disclosing records for the above purposes, the Superintendent or designee shall obtain the necessary
+documentation to verify that the person, agency, or organization is a person, agency, or organization that is
+permitted to receive such records.
+Any person, agency, or organization granted access is prohibited from releasing information to another person,
+agency, or organization without written permission from the parent/guardian or adult student unless specifically
+allowed by state law or the federal Family Educational Rights and Privacy Act. (Education Code 49076)
+In addition, the parent/guardian or adult student may provide written consent for access to be granted to persons,
+agencies, or organizations not afforded access rights by law. The written consent shall specify the records to be
+released and the party or parties to whom they may be released. (Education Code 49075)
+Only a parent/guardian having legal custody of the student may consent to the release of records to others. Either
+parent/guardian may grant consent if both parents/guardians notify the district, in writing, that such an agreement
+has been made. (Education Code 49061)
+Discretionary Access
+At their discretion, the Superintendent or designee may release information from a student's records to the
+following:
+
+1. Appropriate persons, including parents/guardians of a student, in an emergency if the health and safety of the
+student or other persons are at stake.
+When releasing information to any such appropriate person, the Superintendent or designee shall record
+information about the threat to the health or safety of the student or any other person that formed the basis
+for the disclosure and the person(s) to whom the disclosure was made. (Education Code 49076; 34 CFR 99.32)
+Unless it would further endanger the health or safety of the student or other persons, the Superintendent or
+designee shall inform the parent/guardian or adult student within one week of the disclosure that the
+disclosure was made, of the articulable and significant threat to the health or safety of the student or other
+individuals that formed the basis for the disclosure, and of the parties to whom the disclosure was made.
+ 
+2. Accrediting associations. (Education Code 49076; 34 CFR 99.31)
+ 
+3. Under the conditions specified in Education Code 49076 and 34 CFR 99.31, organizations conducting studies
+on behalf of educational institutions or agencies for the purpose of developing, validating, or administering
+predictive tests, administering student aid programs, or improving instruction, provided that: (Education Code
+49076; 34 CFR 99.31)
+ 
+a. The study is conducted in a manner that does not permit personal identification of parents/guardians
+and students by individuals other than representatives of the organization who have legitimate interests
+in the information.
+ 
+b. The information is destroyed when no longer needed for the purposes for which the study is conducted.
+ 
+c. The district enters into a written agreement with the organization that complies with 34 CFR 99.31.
+ 
+4. Officials and employees of private schools or school systems where the student is enrolled or intends to enroll,
+subject to the rights of parents/guardians as provided in Education Code 49068 and in compliance with 34
+CFR 99.34.
+ 
+5. Local health departments operating countywide or regional immunization information and reminder systems
+and the California Department of Public Health, unless the parent/guardian has requested that no disclosures
+of this type be made.
+ 
+6. Contractors and consultants having a legitimate educational interest based on services or functions which have
+been outsourced to them through a formal written agreement or contract by the district, excluding volunteers
+or other parties. (Education Code 49076)
+ 
+7. Agencies or organizations in connection with the student's application for or receipt of financial aid, provided
+that information permitting the personal identification of a student or their parents/guardians for these
+purposes is disclosed only as may be necessary to determine the eligibility of the student for financial aid,
+determine the amount of financial aid, determine the conditions which will be imposed regarding the financial
+aid, or enforce the terms or conditions of the financial aid. (Education Code 49076; 34 CFR 99.31, 99.36)
+ 
+8. County elections officials for the purpose of identifying students eligible to register to vote or offering such
+students an opportunity to register, subject to the provisions of 34 CFR 99.37 and under the condition that
+any information provided on this basis shall not be used for any other purpose or transferred to any other
+person or agency. (Education Code 49076; 34 CFR 99.31, 99.37)
+When disclosing records for the above purposes, the Superintendent or designee shall obtain the necessary
+documentation to verify that the person, agency, or organization is a person, agency, or organization that is
+permitted to receive such records.
+De-identification of Records
+When authorized by law for any program audit, educational research, or other purposes, the Superintendent or
+designee may release information from a student record without prior consent of the parent/guardian or adult
+student after the removal of all personally identifiable information. Prior to releasing such information, the
+Superintendent or designee shall make a reasonable determination that the student's identity is not personally
+identifiable, whether through single or multiple releases and taking into account other reasonably available
+information. (Education Code 49074, 49076; 34 CFR 99.31)
+
+Process for Providing Access to Records
+Student records shall be maintained in a central file at the school attended by the student or, when records are
+maintained at different locations, a notation shall be placed in the central file indicating where other records may be
+found. Parents/guardians shall be notified of the location of student records if not centrally located. (Education Code
+49069; 5 CCR 433)
+The custodian of records shall be responsible for the security of student records and shall ensure that access is
+limited to authorized persons. (5 CCR 433)
+The custodian of records shall develop reasonable methods, including physical, technological, and administrative
+controls, to ensure that school officials and employees obtain access to only those student records in which they
+have legitimate educational interests. (34 CFR 99.31)
+To inspect, review, or obtain copies of student records, authorized persons shall submit a request to the custodian of
+records. Prior to granting the request, the custodian of records shall authenticate the individual's identity. For any
+individual granted access based on a legitimate educational interest, the request shall specify the interest involved.
+When required by law, the parent/guardian shall provide written, signed, and dated consent before the district
+discloses the student record. Such consent may be given through electronic means in those cases where it can be
+authenticated. The district's consent form shall specify the records that may be disclosed, state the purpose of the
+disclosure, and identify the party or class of parties to whom the disclosure may be made. Upon request by the
+parent/guardian, the district shall provide them a copy of the records disclosed. (34 CFR 99.30)
+If the parent/guardian refuses to provide written consent for the release of student information, the Superintendent
+or designee shall not release the information, unless it is otherwise subject to release based on a court order or a
+lawful subpoena.
+Within five business days following the date of request, a parent/guardian or other authorized person shall be
+granted access to inspect, review, and obtain copies of student records during regular school hours. (Education Code
+49069)
+Qualified certificated personnel shall be available to interpret records when requested. (Education Code 49069)
+The custodian of records or the Superintendent or designee shall prevent the alteration, damage, or loss of records
+during inspection. (5 CCR 435)
+Access Log
+A log shall be maintained for each student's record that lists all persons, agencies, or organizations requesting or
+receiving information from the records and the legitimate educational interest of the requester. (Education Code
+49064)
+In every instance of inspection by persons who do not have assigned educational responsibility, the custodian of
+records shall make an entry in the log indicating the record inspected, the name of the person granted access, the
+reason access was granted, and the time and circumstances of inspection. (5 CCR 435)
+The log may include record of access by: (Education Code 49064)
+1. Parents/guardians or adult students.
+ 
+2. Students who are 16 years of age or older or who have completed the 10th grade.
+ 
+3. Parties obtaining district-approved directory information.
+ 
+4. Parties who provide written parental consent, in which case the consent notice shall be filed with the record
+pursuant to Education Code 49075.
+ 
+5. School officials and employees who have a legitimate educational interest.
+ 
+6. Law enforcement personnel seeking to enforce immigration laws.
+The log shall be accessible only to the parent/guardian, adult student, dependent adult student, student who is age
+16 years or older or who has completed the 10th grade, custodian of records, and certain state or federal officials.
+
+(Education Code 49064; 5 CCR 432)
+Duplication of Student Records
+To provide copies of any student record, the district shall charge a reasonable fee not to exceed the actual cost of
+providing the copies. No charge shall be made for providing up to two transcripts or up to two verifications of
+various records for any former student. No charge shall be made to locate or retrieve any student record. (Education
+Code 49065)
+Changes to Student Records
+Only a parent/guardian having legal custody of a student or an adult student may challenge the content of a record
+or offer a written response to a record. (Education Code 49061)
+No additions except routine updating shall be made to a student's record after high school graduation or permanent
+departure without prior consent of the parent/guardian or adult student. (5 CCR 437)
+A student's legal name or gender as entered on the mandatory student record required pursuant to 5 CCR 432 shall
+only be changed with proper documentation. However, at the written request of a student or, if appropriate, their
+parents/guardians, the district shall use the student's preferred name and pronouns consistent with their gender
+identity on all other district-related documents.
+Retention and Destruction of Student Records
+All anecdotal information and assessment reports maintained as student records shall be dated and signed by the
+individual who originated the data. (5 CCR 431)
+The following mandatory permanent student records shall be kept indefinitely: (5 CCR 432, 437)
+1. Legal name of student
+ 
+2. Date and place of birth and method of verifying birth date
+ 
+3. Sex of student
+ 
+4. Name and address of parent/guardian of minor student
+ 
+a. Address of minor student if different from the above
+ 
+b. Annual verification of parent/guardian's name and address and student's residence
+ 
+5. Entrance and departure dates of each school year and for any summer session or other extra session
+ 
+6. Subjects taken during each year, half-year, summer session, or quarter, and marks or credits given
+ 
+7. Verification of or exemption from required immunizations
+ 
+8. Date of high school graduation or equivalent
+Mandatory interim student records, unless forwarded to another district, shall be maintained subject to destruction
+during the third school year after the school year in which they originated, following a determination that their
+usefulness has ceased or the student has left the district. These records include: (Education Code 48918, 51747; 5
+CCR 432, 437, 16027)
+1. Expulsion orders and the causes therefor.
+ 
+2. A log identifying persons or agencies who request or receive information from the student record.
+ 
+3. Health information, including verification or waiver of the health screening for school entry.
+ 
+4. Information on participation in special education programs, including required tests, case studies,
+authorizations, and evidence of eligibility for admission or discharge.
+ 
+
+5. Language training records.
+ 
+6. Progress slips/notices required by Education Code 49066 and 49067.
+ 
+7. Parental restrictions/stipulations regarding access to directory information.
+ 
+8. Parent/guardian or adult student rejoinders to challenged records and to disciplinary action.
+ 
+9. Parent/guardian authorization or denial of student participation in specific programs.
+ 
+10. Results of standardized tests administered within the past three years.
+ 
+11. Written findings resulting from an evaluation conducted after a specified number of missed assignments to
+determine whether it is in a student's best interest to remain in independent study.
+Permitted student records may be destroyed six months after the student completes or withdraws from the
+educational program, including: (5 CCR 432, 437)
+1. Objective counselor and/or teacher ratings
+ 
+2. Standardized test results older than three years
+ 
+3. Routine disciplinary data
+ 
+4. Verified reports of relevant behavioral patterns
+ 
+5. All disciplinary notices
+ 
+6. Supplementary attendance records
+Records shall be destroyed in a way that assures they will not be available to possible public inspection in the
+process of destruction. (5 CCR 437)
+Transfer of Student Records
+When a student transfers into this district from any other school district or a private school, the Superintendent or
+designee shall inform the student's parent/guardian of their rights regarding student records, including the right to
+review, challenge, and receive a copy of student records. (Education Code 49068; 5 CCR 438)
+When a student transfers into this district from another district, the Superintendent or designee shall request that
+the student's previous district provide any records, either maintained by that district in the ordinary course of
+business or received from a law enforcement agency, regarding acts committed by the transferring student that
+resulted in their suspension or expulsion. (Education Code 48201)
+When a student transfers from this district to another school district or to a private school, the Superintendent or
+designee shall forward a copy of the student's mandatory permanent record within 10 school days of the district's
+receipt of the request for the student's records. The original record or a copy shall be retained permanently by this
+district. If the transfer is to another California public school, the student's entire mandatory interim record shall also
+be forwarded. If the transfer is out of state or to a private school, the mandatory interim record may be forwarded.
+Permitted student records may be forwarded to any other district or private school. (Education Code 48918, 49068;
+5 CCR 438)
+Upon receiving a request from a county placing agency to transfer a student in foster care out of a district school,
+the Superintendent or designee shall transfer the student's records to the next educational placement within two
+business days. (Education Code 49069.5)
+All student records shall be updated before they are transferred. (5 CCR 438)
+Student records shall not be withheld from the requesting district because of any charges or fees owed by the
+student or parent/guardian. (5 CCR 438)
+If the district is withholding grades, diploma, or transcripts from the student because of their damage or loss of
+school property, this information shall be sent to the requesting district along with the student's records.
+
+Notification of Parents/Guardians
+Upon any student's initial enrollment, and at the beginning of each school year thereafter, the Superintendent or
+designee shall notify parents/guardians and eligible students, in writing, of their rights related to student records. If
+15 percent or more of the students enrolled in the district speak a single primary language other than English, then
+the district shall provide these notices to that language. Otherwise, the district shall provide these notices in the
+student's home language insofar as practicable. The district shall effectively notify parents/guardians or eligible
+students with disabilities. (Education Code 49063, 48985; 34 CFR 99.7)
+The notice shall include:
+1. The types of student records kept by the district and the information contained therein.
+ 
+2. The title(s) of the official(s) responsible for maintaining each type of record.
+ 
+3. The location of the log identifying those who request information from the records.
+ 
+4. District criteria for defining school officials and employees and for determining legitimate educational interest.
+ 
+5. District policies for reviewing and expunging student records.
+ 
+6. The right to inspect and review student records and the procedures for doing so.
+ 
+7. The right to challenge and the procedures for challenging the content of a student record that the
+parent/guardian or student believes to be inaccurate, misleading, or otherwise in violation of the student's
+privacy rights.
+ 
+8. The cost, if any, charged for duplicating copies of records.
+ 
+9. The categories of information defined as directory information pursuant to Education Code 49073.
+ 
+10. The right to consent to disclosures of personally identifiable information contained in the student's records
+except when disclosure without consent is authorized by law.
+ 
+11. Availability of the curriculum prospectus developed pursuant to Education Code 49091.14 containing the
+titles, descriptions, and instructional aims of every course offered by the school.
+ 
+12. Any other rights and requirements set forth in Education Code 49060-49078, and the right of
+parents/guardians to file a complaint with the U.S. Department of Education concerning an alleged failure by
+the district to comply with 20 USC 1232g.
+ 
+13. A statement that the district forwards education records to other agencies or institutions that request the
+records and in which the student seeks or intends to enroll or is already enrolled as long as the disclosure is for
+purposes related to the student's enrollment.
+In addition, the annual parental notification shall include a statement that a student's citizenship status, immigration
+status, place of birth, or any other information indicating national origin will not be released without parental consent
+or a court order.
+Student Records from Social Media
+For the purpose of gathering and maintaining records of students' social media activity, the Superintendent or
+designee shall: (Education Code 49073.6)
+1. Gather or maintain only information that pertains directly to school safety or student safety.
+ 
+2. Provide a student with access to any information that the district obtained from their social media activity and
+an opportunity to correct or delete such information.
+ 
+3. Destroy information gathered from social media and maintained in student records within one year after a
+student turns 18 years of age or within one year after the student is no longer enrolled in the district,
+whichever occurs first.
+ 
+
+Policy Reference Disclaimer:
+4. Notify each parent/guardian that the student's information is being gathered from social media and that any
+information maintained in the student's records shall be destroyed as provided in item #3 above. The
+notification shall also include, but is not limited to, an explanation of the process by which a student or their
+parent/guardian may access the student's records for examination of the information gathered or maintained
+and the process by which removal of the information may be requested or corrections to the information may
+be made. The notification may be provided as part of the annual parental notification required pursuant to
+Education Code 48980.
+ 
+5. If the district contracts with a third party to gather information on a student from social media, ensure that the
+contract:
+ 
+a. Prohibits the third party from using the information for purposes other than those specified in the
+contract or from selling or sharing the information with any person or entity other than the district, the
+student, or their parent/guardian.
+ 
+b. Requires the third party to destroy the information immediately upon satisfying the terms of the
+contract, or when the district notifies the third party that the student has turned 18 years of age or is no
+longer enrolled in the district, whichever occurs first.
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - 5 CCR 16020-16027
+  - Destruction of records of school districts
+  - 5 CCR 430-438
+  - Individual student records
+  - Bus. and Prof. Code 22580-22582
+  - Privacy rights for California minors in the digital world
+  - Bus. and Prof. Code 22584-22585
+  - K-12 Pupil Online Personal Information Protection Act
+  - Bus. and Prof. Code 22586-22587
+  - Early Learning Personal Information Protection Act
+  - Code of Civil Procedure 1985.3
+  - Subpoena duces tecum
+  - Ed. Code 17604
+  - Delegation of powers to agents
+  - Ed. Code 220.3
+  - Prohibition for employee or contractor to disclose information related to
+  - student’s sexual orientation, gender identity, or gender expression
+  - Ed. Code 234.7
+  - Student protections relating to immigration and citizenship status
+  - Ed. Code 35266
+  - Reporting of cyberattacks
+  - Ed. Code 48201
+  - Transfer student's record for acts that resulted in suspension or expulsion
+  - Ed. Code 48853.5
+  - Foster youth; placement, immunizations
+  - Ed. Code 48902
+  - Notification of law enforcement of specified violations
+  - Ed. Code 48904-48904.3
+  - Withholding grades, diplomas, or transcripts
+  - Ed. Code 48918
+  - Rules governing expulsion procedures
+  - Ed. Code 48980
+  - Parent/Guardian notifications
+  - Ed. Code 48985
+  - Notices to parents in language other than English
+  - Ed. Code 49060-49079
+  - Student records
+  - Ed. Code 49091.14
+  - Parental review of curriculum
+  - Ed. Code 51745
+  - Independent study
+  - Ed. Code 56041.5
+  - Rights of students with disabilities
+  - Ed. Code 56050
+  - Surrogate parents
+  - Ed. Code 56055
+  - Foster parents
+  - Ed. Code 60900-60901
+  - California Longitudinal Pupil Achievement Data System
+  - 117
+  - Ed. Code 69432.9
+  - Cal Grant program; notification of grade point average
+  - Ed. Code 69475
+  - Conditional repeal of Cal Grant program
+  - Fam. Code 3025
+  - Access to records by noncustodial parents
+  - Fam. Code 6323.5
+  - Ex parte orders
+  - Fam. Code 6552
+  - Caregiver's authorization affidavit
+  - Gov. Code 7920.000-7930.215
+  - California Public Records Act
+  - H&S Code 120440
+  - Immunizations; disclosure of information
+  - Pen. Code 245
+  - Assault with deadly weapon
+  - W&I Code 16010
+  - Health and education records of a minor
+  - W&I Code 681
+  - Truancy petitions
+  - W&I Code 701
+  - Juvenile court law
+  - State
+
+Federal References:
+  - 15 USC 6501-6506
+  - Children’s Online Privacy Protection Act
+  - 16 CFR Part 312
+  - Children's Online Privacy Protection Rule
+  - 20 USC 1232g
+  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h
+  - Protection of Pupil Rights Amendment
+  - 26 USC 152
+  - Definition of dependent child
+  - 34 CFR 300.501
+  - Opportunity to examine records for parents of student with disability
+  - 34 CFR 99.1-99.8
+  - Family Educational Rights and Privacy Act
+  - 42 USC 11434a
+  - McKinney-Vento Homeless Assistance Act; definitions
+
+Management Resources:
+  - CA Office of the Attorney General Publication
+  - Promoting a Safe and Secure Learning Environment for All: Guidance and
+  - Model Policies to Assist California's K-12 Schools in Responding to
+  - Immigration Issues, December 2024
+  - CSBA Publication
+  - Understanding Artificial Intelligence in K-12 Education: What Governance
+  - Teams Should Know, September 2023
+  - CSBA Publication
+  - Legal Guidance on Providing All Children Equal Access to Education,
+  - Regardless of Immigration Status, February 2017

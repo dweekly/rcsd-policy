@@ -1,0 +1,140 @@
+RCSD Regulation 0440
+================================================================================
+Title: District Technology Plan
+Status: ADOPTED
+Original Adopted Date: 11/04/2009
+Last Reviewed Date: 02/15/2017
+Source: RCSD Policies 0000.pdf (Pages 78, 79, 80, 81)
+================================================================================
+
+The district's technology plan shall address, at a minimum, the following components:
+1. Background Information: A guide to the district's use of technology for the next three years, including:
+ 
+a. Specific starting and ending dates of the plan
+ 
+b. An overview of the district's location and demographics
+ 
+c. A description of how stakeholders from the district and community were involved in the planning
+process
+ 
+d. A description of the relevant research behind the strategies and/or methods in the plan and how the
+research supports the plan's curricular and professional development goals
+ 
+2. Curriculum: Clear goals and realistic strategies for using telecommunications and information technology to
+improve educational services, including:
+ 
+a. A description of teachers' and students' current access to instructional technology and current use of
+digital tools, including district policies or practices to ensure equitable technology access for all students
+ 
+b. Goals and an implementation plan, including annual activities, for:
+ 
+i. How technology will be used to improve teaching and learning, how these goals align with district
+curricular goals and other plans, how the district budget and local control and accountability plan
+support these goals, and whether future funding proposals or partnerships may be needed for
+successful implementation
+ 
+ii. How and when students will acquire the technology skills and information literacy skills needed for
+college and career readiness
+ 
+iii. Internet safety and the appropriate and ethical use of technology in the classroom
+ 
+3. Professional Development: A professional development strategy to ensure that staff understands how to use
+new technologies to improve education services, including:
+ 
+a. A summary of teachers' and administrators' current technology proficiency and integration skills and
+needs for professional development
+ 
+b. Goals and an implementation plan, including annual activities, for providing professional development
+opportunities based on district needs assessment data and the curriculum component of the technology
+plan
+ 
+4. Infrastructure, Hardware, Technical Support, Software, and Asset Management: An assessment of the
+telecommunication services, hardware, software, asset management, and other services that will be needed to
+improve education services, including:
+ 
+a. A description of existing hardware, Internet access, electronic learning resources, technical support, and
+asset management in the district
+ 
+b. A description of technology hardware, electronic learning resources, networking and
+telecommunications infrastructure, physical plant modifications, technical support, and asset
+management needed by district teachers, students, and administrators to support the activities in the
+curriculum and professional development components of the plan
+ 
+5. Monitoring and Evaluation: An evaluation process that enables the school to monitor progress toward the
+specific goals and mid-course corrections in response to new developments and opportunities as they arise,
+including:
+Board Policy Manual
+Redwood City School District
+
+Policy Reference Disclaimer:
+ 
+a. The process for evaluating the plan's overall progress and impact on teaching and learning
+ 
+b. The schedule for evaluating the effect of plan implementation and a description of the process and
+frequency of communicating evaluation results to technology plan stakeholders
+ 
+6. Noninstructional Uses of Technology: A description of how technology will be used to improve district
+governance, district and school site administration, support services, and communications
+ 
+7. Cost: An estimate of the cost for each year of the plan and each of its major components
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - Bus. and Prof. Code 22584-22585
+  - K-12 Pupil Online Personal Information Protection Act
+  - Ed. Code 10550-10555
+  - Telecommunications standards
+  - Ed. Code 11800
+  - K-12 High Speed Network grant program
+  - Ed. Code 49060-49085
+  - Student records
+  - Ed. Code 51006
+  - Computer education and resources
+  - Ed. Code 51007
+  - Programs to strengthen technological skills
+  - Ed. Code 51865
+  - California distance learning policy
+  - Ed. Code 60010
+  - Instructional materials; definition
+  - Pen. Code 502
+  - Computer crimes; remedies
+
+Federal References:
+  - 16 CFR Part 312
+  - Children's Online Privacy Protection Rule
+  - 20 USC 1232g
+  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h
+  - Privacy rights
+  - 20 USC 7101-7122
+  - Student Support and Academic Enrichment Grants
+  - 34 CFR Part 99
+  - Family Educational Rights and Privacy
+  - 47 CFR 54.500-54.523
+  - Universal service support for schools
+  - 47 USC 254
+  - Universal service discounts (E-rate)
+
+Management Resources:
+  - California Department of Education Publication
+  - Empowering Learning: A Blueprint for California Education Technology
+  - 2014-2017, April 2014
+  - California Department of Education Publication
+  - California K-12 Education Technology Plan Template, Criteria, and Guiding
+  - Questions, November 2015
+  - Court Decision
+  - McMahon v. Albany Unified School District (2002) 104 Cal.App.4th 1275
+  - Website
+  - CSBA District and County Office of Education Legal Services
+  - Website
+  - Technology Information Center for Administrative Leadership
+  - Website
+  - California Department of Education, Education Technology Office
+  - Website
+  - California Educational Technology Professionals Association
+  - Website
+  - Computer-Using Educators
+  - Website

@@ -1,0 +1,158 @@
+RCSD Exhibit 6163.4-E
+================================================================================
+Title: Student Use Of Technology
+Status: ADOPTED
+Original Adopted Date: 02/15/2017
+Last Reviewed Date: Not specified
+Source: RCSD Policies 6000.pdf (Pages 196, 197, 198, 199, 200, 201, 202)
+================================================================================
+
+Original Adopted Date: 02/15/2017
+See PDF on the next page.
+Board Policy Manual
+Redwood City School District
+
+ACCEPTABLE USE AGREEMENT AND RELEASE OF DISTRICT FROM LIABILITY
+(STUDENTS)
+The Redwood City School District authorizes students to use technology owned or otherwise provided
+by the district as necessary for instructional purposes. The use of district technology is a privilege
+permitted at the district's discretion and is subject to the conditions and restrictions set forth in
+applicable Board policies, administrative regulations, and this Acceptable Use Agreement. The district
+reserves the right to suspend access at any time, without notice, for any reason.
+The district expects all students to use technology responsibly in order to avoid potential problems and
+liability. The district may place reasonable restrictions on the sites, material, and/or information that
+students may access through the system.
+Each student who is authorized to use district technology and his/her parent/guardian shall sign this
+Acceptable Use Agreement as an indication that they have read and understand the agreement.
+Definitions
+District technology includes, but is not limited to, computers, the district's computer network including
+servers and wireless computer networking technology (wi-fi), the Internet, email, USB drives, wireless
+access points (routers), tablet computers, smartphones and smart devices, telephones, cellular
+telephones, personal digital assistants, pagers, MP3 players, wearable technology, any wireless
+communication device including emergency radios, and/or future technological innovations, whether
+accessed on or off site or through district-owned or personally owned equipment or devices.
+Student Obligations and Responsibilities
+Students are expected to use district technology safely, responsibly, and for educational purposes only.
+The student in whose name district technology is issued is responsible for its proper use at all times.
+Students shall not share their assigned online services account information, passwords, or other
+information used for identification and authorization purposes, and shall use the system only under the
+account to which they have been assigned.
+Students are prohibited from using district technology for improper purposes, including, but not
+limited to, use of district technology to:
+1. Access, post, display, or otherwise use material that is discriminatory, libelous, defamatory, obscene,
+sexually explicit, or disruptive
+2. Bully, harass, intimidate, or threaten other students, staff, or other individuals ("cyberbullying")
+3. Disclose, use, or disseminate personal identification information (such as name, address, telephone
+number, Social Security number, or other personal information) of another student, staff member, or
+other person with the intent to threaten, intimidate, harass, or ridicule that person
+4. Infringe on copyright, license, trademark, patent, or other intellectual property rights
+5. Intentionally disrupt or harm district technology or other district operations (such as destroying
+district equipment, placing a virus on district computers, adding or removing a computer program
+without permission from a teacher or other district personnel, changing settings on shared computers)
+
+6. Install unauthorized software
+7. "Hack" into the system to manipulate data of the district or other users
+8. Engage in or promote any practice that is unethical or violates any law or Board policy,
+administrative regulation, or district practice
+Privacy
+Since the use of district technology is intended for educational purposes, students shall not have any
+expectation of privacy in any use of district technology.
+The district reserves the right to monitor and record all use of district technology, including, but not
+limited to, access to the Internet or social media, communications sent or received from district
+technology, or other uses. Such monitoring/recording may occur at any time without prior notice for
+any legal purposes including, but not limited to, record retention and distribution and/or investigation
+of improper, illegal, or prohibited activity. Students should be aware that, in most instances, their use
+of district technology (such as web searches and emails) cannot be erased or deleted.
+All passwords created for or used on any district technology are the sole property of the district. The
+creation or use of a password by a student on district technology does not create a reasonable
+expectation of privacy.
+Personally Owned Devices
+If a student uses a personally owned device to access district technology, he/she shall abide by all
+applicable Board policies, administrative regulations, and this Acceptable Use Agreement. Any such
+use of a personally owned device may subject the contents of the device and any communications sent
+or received on the device to disclosure pursuant to a lawful subpoena or public records request.
+Reporting
+If a student becomes aware of any security problem (such as any compromise of the confidentiality of
+any login or account information) or misuse of district technology, he/she shall immediately report
+such information to the teacher or other district personnel.
+Consequences for Violation
+Violations of the law, Board policy, or this agreement may result in revocation of a student's access to
+district technology and/or discipline, up to and including suspension or expulsion. In addition,
+violations of the law, Board policy, or this agreement may be reported to law enforcement agencies as
+appropriate.
+Student Acknowledgment
+I have received, read, understand, and agree to abide by this Acceptable Use Agreement and other
+applicable laws and district policies and regulations governing the use of district technology. I
+understand that there is no expectation of privacy when using district technology. I further understand
+that any violation may result in loss of user privileges, disciplinary action, and/or appropriate legal
+action.
+
+Name: ______________________________________ Grade: _______________________
+(Please print)
+School: ___________________________________________________________________
+Signature: _____________________________________ Date: _______________________
+Parent or Legal Guardian Acknowledgment
+If the student is under 18 years of age, a parent/guardian must also read and sign the agreement.
+As the parent/guardian of the above-named student, I have read, understand, and agree that my child
+shall comply with the terms of the Acceptable Use Agreement. By signing this Agreement, I give
+permission for my child to use district technology and/or to access the school's computer network and
+the Internet. I understand that, despite the district's best efforts, it is impossible for the school to restrict
+access to all offensive and controversial materials. I agree to release from liability, indemnify, and hold
+harmless the school, district, and district personnel against all claims, damages, and costs that may
+result from my child's use of district technology or the failure of any technology protection measures
+used by the district. Further, I accept full responsibility for supervision of my child's use of his/her
+access account if and when such access is not in the school setting.
+Name: ____________________________________ Date ______________
+(Please print)
+Signature: _________________________________________________________________
+
+Policy Reference Disclaimer:
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - Civ. Code 3120-3123
+  - Digital equity bill of rights
+  - Ed. Code 49073.6
+  - Student records; social media
+  - Ed. Code 51006
+  - Computer education and resources
+  - Ed. Code 51007
+  - Programs to strengthen technological skills
+  - Ed. Code 60044
+  - Prohibited instructional materials
+  - Pen. Code 313
+  - Harmful matter
+  - Pen. Code 502
+  - Computer crimes; remedies
+  - Pen. Code 632
+  - Eavesdropping on or recording confidential communications
+  - Pen. Code 653.2
+  - Electronic communication devices; threats to safety
+
+Federal References:
+  - 15 USC 6501-6506
+  - Children's Online Privacy Protection Act
+  - 16 CFR 312.1-312.12
+  - Children's Online Privacy Protection Act
+  - 20 USC 7101-7122
+  - Student Support and Academic Enrichment Grants
+  - 20 USC 7131
+  - Internet Safety
+  - 47 CFR 54.520
+  - Internet safety policy and technology protection measures; E-rate
+  - discounts
+  - 47 USC 254
+  - Universal service discounts (E-rate)
+
+Management Resources:
+  - California Department of Education
+  - Publication
+  - Artificial Intelligence: Learning With AI Learning About AI
+  - Court Decision
+  - New Jersey v. T.L.O. (1985) 469 U.S. 325
+  - CSBA Publication
+  - Cyberbullying: Policy Considerations for Boards, Policy Brief, July
+  - 2007

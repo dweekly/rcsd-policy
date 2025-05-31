@@ -1,0 +1,86 @@
+RCSD Policy 0440
+================================================================================
+Title: District Technology Plan
+Status: ADOPTED
+Original Adopted Date: 11/04/2009
+Last Reviewed Date: 02/15/2017
+Source: RCSD Policies 0000.pdf (Pages 75, 76, 77)
+================================================================================
+
+The Board of Education recognizes that technological resources can enhance student achievement by increasing
+student access to information, supporting teacher effectiveness, and facilitating the administration of student
+assessments. Effective use of technology can also increase the efficiency of the district's noninstructional operations
+and governance.
+The Superintendent or designee shall develop, for Board approval, a comprehensive three-year technology plan
+based on an assessment of current uses of technology in the district and an identification of future needs. The
+Superintendent or designee may appoint an advisory committee consisting of a variety of staff and community
+stakeholders to assist with the development of the technology plan.
+The plan shall be integrated into the district's vision and goals for student learning and shall contain research-based
+strategies and methods for the effective use of technology. When required for state or federal grant programs in
+which the district participates, the plan shall also address all components required for receipt of such grants.
+The Superintendent or designee shall ensure that any use of technological resources in the district protects the
+private and confidential information of students and employees in accordance with law.
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - Bus. and Prof. Code 22584-22585
+  - K-12 Pupil Online Personal Information Protection Act
+  - Ed. Code 10550-10555
+  - Telecommunications standards
+  - Ed. Code 11800
+  - K-12 High Speed Network grant program
+  - Ed. Code 49060-49085
+  - Student records
+  - Ed. Code 51006
+  - Computer education and resources
+  - Ed. Code 51007
+  - Programs to strengthen technological skills
+  - Ed. Code 51865
+  - California distance learning policy
+  - Ed. Code 60010
+  - Instructional materials; definition
+  - Pen. Code 502
+  - Computer crimes; remedies
+
+Federal References:
+  - 16 CFR Part 312
+  - Children's Online Privacy Protection Rule
+  - 20 USC 1232g
+  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h
+  - Privacy rights
+  - 20 USC 7101-7122
+  - Student Support and Academic Enrichment Grants
+  - 34 CFR Part 99
+  - Family Educational Rights and Privacy
+  - 47 CFR 54.500-54.523
+  - Universal service support for schools
+  - 47 USC 254
+  - Universal service discounts (E-rate)
+
+Management Resources:
+  - California Department of Education Publication
+  - Empowering Learning: A Blueprint for California Education Technology
+  - 2014-2017, April 2014
+  - California Department of Education Publication
+  - California K-12 Education Technology Plan Template, Criteria, and Guiding
+  - Questions, November 2015
+  - Court Decision
+  - McMahon v. Albany Unified School District (2002) 104 Cal.App.4th 1275
+  - Board Policy Manual
+  - Redwood City School District
+  - 75
+  - Website
+  - CSBA District and County Office of Education Legal Services
+  - Website
+  - Technology Information Center for Administrative Leadership
+  - Website
+  - California Department of Education, Education Technology Office
+  - Website
+  - California Educational Technology Professionals Association
+  - Website
+  - Computer-Using Educators
+  - Website

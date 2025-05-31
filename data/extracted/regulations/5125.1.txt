@@ -1,0 +1,113 @@
+RCSD Regulation 5125.1
+================================================================================
+Title: Release Of Directory Information
+Status: ADOPTED
+Original Adopted Date: 11/20/2019
+Last Reviewed Date: 11/20/2019
+Source: RCSD Policies 5000.pdf (Pages 125, 126, 127)
+================================================================================
+
+Definition
+Directory information means information contained in a student record that would not generally be considered
+harmful or an invasion of privacy if disclosed. Such student information includes: (Education Code 49061; 20 USC
+1232g; 34 CFR 99.3)
+1. Name
+ 
+2. Address
+ 
+3. Telephone number
+ 
+4. Email address
+ 
+5. Date of birth
+ 
+6. Major field of study
+ 
+7. Participation record in officially recognized activities and sports
+ 
+8. Weight and height of athletic team members
+ 
+9. Dates of attendance
+ 
+10. Degrees and awards received
+ 
+11. Most recent previous school attended
+Directory information does not include a student's social security number or student identification number. However,
+for purposes of accessing or communicating in electronic systems, directory information may include a student
+identification number, user identification, or other personal identifier used by the student provided that the identifier
+cannot be used to gain access to education records except when used in conjunction with a personal identification
+number, password, or other factor known or possessed only by the authorized user. (34 CFR 99.3)
+Directory information also does not include a student's citizenship status, immigration status, place of birth, or any
+other information indicating national origin.
+Notification to Parents/Guardians
+At the beginning of each school year, all parents/guardians shall be notified as to the categories of directory
+information the district plans to release and the recipients of the information. The notification shall also inform
+parents/guardians of their right to refuse to let the district designate any or all types of information as directory how
+to refuse release, and the period of time within which a parent/guardian must notify the district in writing that
+he/she does not want a certain category of information designated as directory information. (Education Code
+49063, 49073; 20 USC 1232g; 34 CFR 99.37)
+In addition, the annual parental notification shall include a statement that directory information does not include
+citizenship status, immigration status, place of birth, or any other information indicating national origin and that the
+district will not release such information without parental consent or a court order.
+The Superintendent or designee shall notify parents/guardians that they may request that the district not release the
+name, address, and telephone number of their child to military recruiters, employers, or institutions of higher
+education without prior written consent. (20 USC 7908)
+Parent/Guardian Consent
+No directory information of a student identified as a homeless child or youth as defined in 42 USC 11434a shall be
+Board Policy Manual
+Redwood City School District
+
+Policy Reference Disclaimer:
+released, unless the parent/guardian, or the student if he/she is 18 years or older, has provided written consent that
+directory information may be released. For any other student, directory information shall not be released if his/her
+parent/guardian notifies the district in writing that such information not be disclosed without the parent/guardian's
+prior consent. (Education Code 49073; 20 USC 1232g, 7908)
+For a former student, the district shall continue to honor any valid request to opt out of the disclosure of directory
+information made while the student was in attendance at the district, unless the opt-out request has been rescinded. 
+(34 CFR 99.37)
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - Ed. Code 234.7
+  - Student protections relating to immigration and citizenship status
+  - Ed. Code 49061
+  - Definitions; directory information
+  - Ed. Code 49063
+  - Notification of parents of their rights
+  - Ed. Code 49073
+  - Release of directory information
+  - Ed. Code 49073.5
+  - Directory information; military representatives; telephone numbers
+  - Ed. Code 49603
+  - On campus access to employers and military services
+
+Federal References:
+  - 10 USC 503
+  - Military recruiter access to directory information
+  - 20 USC 1232g
+  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 7908
+  - Armed forces recruiter access to students and student recruiting
+  - information
+  - 34 CFR 99.1-99.67
+  - Family Educational Rights and Privacy
+  - 42 USC 11434a
+  - McKinney-Vento Homeless Assistance Act; definitions
+
+Management Resources:
+  - CA Office of the Attorney General Publication
+  - Promoting a Safe and Secure Learning Environment for All: Guidance and
+  - Model Policies to Assist California's K-12 Schools in Responding to
+  - Immigration Issues, December 2024
+  - U.S. Department of Education Publication
+  - Access to High School Students and Information on Students by Military
+  - Recruiters, 2002
+  - Website
+  - CSBA District and County Office of Education Legal Services
+  - Website
+  - California Attorney General's Office
+  - Website
+  - U.S. Department of Education, Office of the Chief Privacy Officer

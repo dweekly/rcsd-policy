@@ -1,0 +1,159 @@
+RCSD Regulation 3514.2
+================================================================================
+Title: Integrated Pest Management
+Status: ADOPTED
+Original Adopted Date: 11/04/2009
+Last Reviewed Date: 11/04/2009
+Source: RCSD Policies 3000.pdf (Pages 183, 184, 185, 186)
+================================================================================
+
+Definition
+Integrated Pest Management (IPM) means a strategy that focuses on long-term prevention or suppression of pest
+problems through a combination of techniques such as monitoring for pest presence and establishing treatment
+threshold levels, using nonchemical practices to make the habitat less conducive to pest development, improving
+sanitation, and employing mechanical and physical controls. Pesticides that pose the least possible hazard and are
+effective in a manner that minimizes risks to people, property, and the environment are used only after careful
+monitoring indicates they are needed according to pre-established guidelines and treatment thresholds. (Food and
+Agricultural Code 13181)
+Procedures
+The Superintendent or designee shall designate a staff person to develop, implement, and coordinate an IPM
+program that incorporates effective, least toxic pest management practices. The district's program shall include the
+following elements:
+1. Carefully monitoring and identifying the pest population levels and identifying practices that could affect pest
+populations. Strategies for managing the pest shall be influenced by the pest species and whether that species
+poses a threat to people, property, or the environment.
+ 
+2. Setting action threshold levels to determine when pest populations or vegetation at a specific location might
+cause unacceptable health or economic hazard that would indicate corrective action should be taken.
+ 
+3. Modifying or eliminating pest habitats to deter pest populations and minimize pest infestations.
+ 
+4. Considering a full range of possible alternative treatments. Such alternative treatments may include taking no
+action or controlling the pest by physical, horticultural, or biological methods. Cost or staffing considerations
+alone will not be adequate justification for use of chemical control agents.
+ 
+5. Selecting nonchemical pest management methods over chemical methods whenever such methods are
+effective in providing the desired control or, when it is determined that chemical methods must be used, giving
+preference to those chemicals that pose the least hazard to people and the environment.
+ 
+6. Ensuring that persons applying pesticides follow label precautions and are trained in the principles and
+practices of IPM.
+ 
+7. Limiting pesticide purchases to amounts needed for the year. Pesticides shall be stored at a secure location
+that is not accessible to students and unauthorized staff. They shall be stored and disposed of in accordance
+with state regulations and label directions registered with the U.S. Environmental Protection Agency (EPA) as
+well as any disposal requirements indicated on the product label.
+Prohibited Pesticides
+The IPM Coordinator shall not use a pesticide on a school site if that pesticide has been granted a conditional or
+interim registration or an experimental use permit by the California Department of Pesticide Regulation (DPR) or if
+the pesticide is subject to an experimental registration issued by the EPA and either of the following conditions
+exists: (Education Code 17610.1)
+1. The pesticide contains a new active ingredient.
+ 
+2. The pesticide is for new use.
+In addition, the IPM Coordinator shall not use a pesticide on a school site if DPR cancels or suspends registration or
+requires that the pesticide be phased out from use. (Education Code 17610.1)
+Notifications
+The IPM Coordinator shall annually notify staff and parents/guardians of students enrolled at a school site, in writing,
+Board Policy Manual
+Redwood City School District
+
+Policy Reference Disclaimer:
+regarding pesticide products expected to be applied at the school facility in the upcoming year. The notification shall
+include at least the following: (Education Code 17612)
+1. The Internet address (http://www.schoolipm.info) used to access information on pesticides and pesticide use
+reduction developed by the DPR pursuant to Food and Agricultural Code 13184.
+ 
+2. The name of each pesticide product expected to be applied in the upcoming year and the active ingredient(s) in
+it.
+ 
+3. An opportunity for interested persons to register to receive notification of individual pesticide application at
+the school site. The IPM Coordinator shall notify such registered persons of individual pesticide applications at
+least 72 hours prior to the application. The notice shall include the product name, the active ingredient(s) in the
+product, and the intended date of application.
+ 
+4. Other information deemed necessary by the Superintendent or IPM Coordinator.
+If a pesticide product not included in the annual notification is subsequently intended for use at a school site, the IPM
+Coordinator shall provide written notification of its intended use to staff and parents/guardians of students enrolled
+at the school, at least 72 hours prior to the application. (Education Code 17612)
+Whenever the IPM Coordinator deems that the immediate use of a pesticide is necessary to protect the health and
+safety of students, staff, or other persons at the school site, he/she shall make every effort to provide the required
+notifications prior to the application of the pesticide. (Education Code 17612)
+Posting of Warning Signs
+The IPM Coordinator shall post a warning sign at each area of the school site where pesticides will be applied that
+shall be visible to all persons entering the treated area. The sign shall be posted at least 24 hours prior to the
+application and until 72 hours after the application. The warning sign shall display the following information:
+(Education Code 17612)
+1. The term "Warning/Pesticide Treated Area"
+ 
+2. The product name, manufacturer's name, and the EPA's product registration number
+ 
+3. Intended areas and dates of application
+ 
+4. Reason for the pesticide application
+When advance posting is not possible due to an emergency condition requiring immediate use of a pesticide, the
+warning sign shall be posted immediately upon application and shall remain posted until 72 hours after the
+application. (Education Code 17609, 17612)
+Records
+Each school site shall maintain records of all pesticide use at the school for four years, and shall make the information
+available to the public, upon request, in accordance with the California Public Records Act. Such records may be
+maintained by retaining a copy of the warning sign posted for each pesticide application with a recording on that
+copy of the amount of the pesticide used. (Education Code 17611)
+
+================================================================================
+REFERENCES
+================================================================================
+
+State References:
+  - 3 CCR 6690-6692
+  - Pesticide use near school sites
+  - 5 CCR 11522
+  - Parental consent for exemption based on high school proficiency certificate
+  - 5 CCR 5590
+  - Temporary athletic team coach
+  - 8 CCR 340-340.2
+  - Occupational safety and health; rights of employees
+  - Ed. Code 17366
+  - Legislative intent (fitness of buildings for occupancy
+  - 184
+  - Ed. Code 17608-17614
+  - Healthy Schools Act of 2000
+  - Ed. Code 48980
+  - Parent/Guardian notifications
+  - Ed. Code 48980.3
+  - Notification of pesticide use
+  - Ed. Code 8593.2
+  - Licensed pest control operators; training requirements
+  - F&A Code 11401-12408
+  - Pest control operations and agricultural chemicals
+  - F&A Code 13180-13188
+  - Healthy Schools Act of 2000
+  - Gov. Code 3543.2
+  - Scope of representation
+  - Gov. Code 7920.000-7930.170
+  - California Public Records Act
+  - State
+
+Federal References:
+  - 7 USC 136-136y
+  - Use of pesticides
+
+Management Resources:
+  - California Dept. of Pesticide Reg. Publication
+  - California School IPM Model Program Guidebook
+  - California Dept. of Pesticide Reg. Publication
+  - Healthy Schools Act Requirements for Public K-12 Schools
+  - California Dept. of Pesticide Reg. Publication
+  - School District Integrated Pest Management Plan Template
+  - U.S. ENVIRONMENTAL PROTECTION AGENCY
+  - Pest Control in the School Environment: Implementing Integrated Pest
+  - Management (IPM), May 2017
+  - Website
+  - CSBA District and County Office of Education Legal Services
+  - Website
+  - California Department of Pesticide Regulation, School IPM
+  - Website
+  - U.S. Environmental Protection Agency, Integrated Pest Management at
+  - Schools
+  - Website
+  - California Department of Education
