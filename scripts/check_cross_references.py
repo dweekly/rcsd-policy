@@ -60,7 +60,7 @@ def find_policy_references(text):
     return references
 
 
-def get_all_extracted_codes(base_dir="extracted_policies_all"):
+def get_all_extracted_codes(base_dir="data/extracted"):
     """Get all policy codes that were successfully extracted"""
     extracted_codes = set()
 
@@ -80,7 +80,7 @@ def get_all_extracted_codes(base_dir="extracted_policies_all"):
     return extracted_codes
 
 
-def check_missing_references(base_dir="extracted_policies_all"):
+def check_missing_references(base_dir="data/extracted"):
     """Check for cross-referenced policies that weren't extracted"""
 
     # Get all extracted codes

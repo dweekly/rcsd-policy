@@ -9,7 +9,7 @@ import time
 from datetime import datetime
 from pathlib import Path
 
-from compliance_check_structured import (
+from compliance_check_comprehensive import (
     check_compliance_structured,
     generate_update_report,
     parse_compliance_report,
@@ -63,7 +63,7 @@ def calculate_policy_priority(code, title, last_reviewed):
     return priority
 
 
-def get_policies_to_check(base_dir="extracted_policies_all"):
+def get_policies_to_check(base_dir="data/extracted"):
     """Get all policies sorted by priority"""
     policies = []
 
@@ -130,7 +130,7 @@ def get_policies_to_check(base_dir="extracted_policies_all"):
     return policies
 
 
-def batch_check_compliance(max_policies=None, output_dir="compliance_reports"):
+def batch_check_compliance(max_policies=None, output_dir="data/analysis/compliance"):
     """Run compliance checks on multiple policies"""
 
     # Create output directory
@@ -282,7 +282,7 @@ def main():
     )
     parser.add_argument("--max", type=int, help="Maximum number of policies to check")
     parser.add_argument(
-        "--output", default="compliance_reports", help="Output directory"
+        "--output", default="data/analysis/compliance", help="Output directory"
     )
 
     args = parser.parse_args()

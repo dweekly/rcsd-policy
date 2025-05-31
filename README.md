@@ -94,17 +94,17 @@ cp .env.example .env
 
 ### Extract All Policies
 ```bash
-python extract_all_policies.py
+python scripts/extract_all_policies.py
 ```
 
 This will:
-- Process all PDF files in the `policies/` directory
-- Extract individual policies to `extracted_policies_all/`
+- Process all PDF files in the `data/source/pdfs/` directory
+- Extract individual policies to `data/extracted/`
 - Generate an extraction summary with statistics
 
 ### Validate Cross-References
 ```bash
-python check_cross_references.py
+python scripts/check_cross_references.py
 ```
 
 This will:
@@ -114,12 +114,12 @@ This will:
 
 ### Run Compliance Analysis
 ```bash
-python compliance_check_comprehensive.py --policy path/to/policy.txt
+python scripts/compliance_check_comprehensive.py --policy data/extracted/policies/1234.txt
 ```
 
 Or for batch analysis:
 ```bash
-python compliance_check_batch.py --max 100
+python scripts/compliance_check_batch.py --max 100
 ```
 
 This will:
@@ -128,89 +128,96 @@ This will:
 - Use Claude AI to provide specific legal citations and required language
 - Generate detailed compliance reports in JSON and text formats
 
-**Results**: See `COMPLIANCE_SUMMARY.md` for the complete analysis of all 512 RCSD documents.
+**Results**: See `data/analysis/compliance/COMPLIANCE_SUMMARY.md` for the complete analysis of all 512 RCSD documents.
 
 ## Project Structure
 
 ```
 rcsd-policy/
-├── policies/                       # Source PDF files (tracked with Git LFS)
-│   ├── RCSD Policies 0000.pdf     # Board Bylaws
-│   ├── RCSD Policies 1000.pdf     # Community Relations
-│   ├── RCSD Policies 2000.pdf     # Administration
-│   ├── RCSD Policies 3000.pdf     # Business and Non-instructional Operations
-│   ├── RCSD Policies 4000.pdf     # Personnel
-│   ├── RCSD Policies 5000.pdf     # Students
-│   ├── RCSD Policies 6000.pdf     # Instruction
-│   ├── RCSD Policies 7000.pdf     # Facilities
-│   └── RCSD Policies 9000.pdf     # Board Bylaws (continued)
+├── data/                           # All data files (input and output)
+│   ├── source/                     # Original source files
+│   │   └── pdfs/                   # PDF source files (tracked with Git LFS)
+│   │       ├── RCSD Policies 0000.pdf     # Board Bylaws
+│   │       ├── RCSD Policies 1000.pdf     # Community Relations
+│   │       ├── RCSD Policies 2000.pdf     # Administration
+│   │       ├── RCSD Policies 3000.pdf     # Business and Non-instructional Operations
+│   │       ├── RCSD Policies 4000.pdf     # Personnel
+│   │       ├── RCSD Policies 5000.pdf     # Students
+│   │       ├── RCSD Policies 6000.pdf     # Instruction
+│   │       ├── RCSD Policies 7000.pdf     # Facilities
+│   │       └── RCSD Policies 9000.pdf     # Board Bylaws (continued)
+│   │
+│   ├── extracted/                  # Extracted text documents (512 total)
+│   │   ├── policies/               # Policy documents (308 files)
+│   │   ├── regulations/            # Administrative regulations (192 files)
+│   │   └── exhibits/               # Exhibits and forms (12 files)
+│   │
+│   ├── analysis/                   # Analysis results
+│   │   └── compliance/             # Compliance check results
+│   │       ├── COMPLIANCE_SUMMARY.md      # Executive summary for board
+│   │       ├── json_data/          # Individual compliance reports (356 files)
+│   │       └── material_issues/    # Material issues summaries (293 files)
+│   │
+│   └── cache/                      # API response cache for compliance checks
 │
-├── extracted_policies_all/         # All extracted documents
-│   ├── policies/                   # Policy documents (308 files)
-│   ├── regulations/                # Administrative regulations (192 files)
-│   └── exhibits/                   # Exhibits and forms (12 files)
+├── scripts/                        # All Python scripts
+│   ├── pdf_parser.py               # Core PDF extraction engine using PyMuPDF
+│   ├── extract_all_policies.py     # Batch extraction tool for all PDFs
+│   ├── check_cross_references.py   # Validates cross-references, finds missing policies
+│   ├── compliance_checker.py       # Core compliance module with caching support
+│   ├── compliance_check_comprehensive.py # Main compliance analysis using Claude AI
+│   ├── compliance_check_batch.py   # Batch processing with priority-based ordering
+│   ├── policy_researcher.py        # Research and analysis utilities
+│   └── main.py                     # Main entry point for the application
 │
-├── compliance_reports/             # Compliance analysis results
-│   ├── json_data/                  # Individual compliance reports (356 files)
-│   ├── material_issues/            # Material issues summaries (293 files)
-│   ├── full_analysis_*.json        # Complete analysis data
-│   └── COMPLIANCE_SUMMARY.md       # Executive summary for board
+├── docs/                           # Documentation
+│   ├── AGENTS.md                   # Guidelines for AI assistants working on this repo
+│   ├── ARCHITECTURE.md             # System design and technical architecture
+│   ├── COMPLIANCE_PLAN.md          # Detailed compliance checking implementation plan
+│   ├── COMPLIANCE_USAGE.md         # How to use the compliance checking tools
+│   ├── CROSS_REFERENCE_ANALYSIS.md # Analysis of missing cross-referenced policies
+│   ├── EMPTY_POLICIES_SUMMARY.md   # Documentation of policies with no content
+│   └── PUBLICATION_README.md       # Summary for public consumption
 │
-├── data/                           # Data files
-│   └── cache/                      # API response cache
-│
-├── Core Scripts:
-│   ├── pdf_parser.py               # PDF extraction engine
-│   ├── extract_all_policies.py     # Batch extraction script
-│   ├── check_cross_references.py   # Cross-reference validation
-│   ├── compliance_checker.py       # Core compliance module
-│   └── compliance_check_comprehensive.py # Main compliance analysis tool
-│
-├── Documentation:
-│   ├── README.md                   # Project overview (this file)
-│   ├── PUBLICATION_README.md       # Summary for publication
-│   ├── COMPLIANCE_SUMMARY.md       # Detailed compliance findings
-│   ├── TODO.md                     # Known issues and future enhancements
-│   ├── AGENTS.md                   # AI assistant guidelines
-│   ├── ARCHITECTURE.md             # System design
-│   ├── CROSS_REFERENCE_ANALYSIS.md # Missing policy analysis
-│   └── EMPTY_POLICIES_SUMMARY.md   # Empty policies documentation
+├── schemas/                        # Data schemas
+│   └── compliance_output_schema.xml # XML schema for compliance report format
 │
 └── Configuration:
-    ├── .env.example                # Example environment configuration
+    ├── README.md                   # Project overview (this file)
+    ├── TODO.md                     # Known issues and future enhancements
+    ├── requirements.txt            # Python dependencies
+    ├── pyproject.toml              # Python project configuration (ruff settings)
     ├── .gitignore                  # Git ignore rules
-    ├── pyproject.toml              # Python project configuration
-    └── requirements.txt            # Python dependencies
+    ├── .gitattributes              # Git LFS configuration for PDFs
+    └── .env.example                # Example environment configuration
 ```
 
 ### Script → Output Mapping
 
 | Script | Purpose | Output Location |
 |--------|---------|-----------------|
-| `extract_all_policies.py` | Extract all policies from PDFs | `extracted_policies_all/` |
-| `pdf_parser.py` | Core extraction module | Used by other scripts |
-| `check_cross_references.py` | Find missing referenced policies | Console output + `CROSS_REFERENCE_ANALYSIS.md` |
-| `compliance_check_comprehensive.py` | Analyze policy compliance | `compliance_reports/json_data/` + `compliance_reports/material_issues/` |
-| `compliance_check_batch.py` | Batch compliance checking | Same as above + summary reports |
-| Other compliance scripts | Various compliance analyses | `compliance_reports/` subdirectories |
+| `scripts/extract_all_policies.py` | Extract all policies from PDFs | `data/extracted/` |
+| `scripts/pdf_parser.py` | Core extraction module | Used by other scripts |
+| `scripts/check_cross_references.py` | Find missing referenced policies | Console output + `docs/CROSS_REFERENCE_ANALYSIS.md` |
+| `scripts/compliance_check_comprehensive.py` | Analyze policy compliance | `data/analysis/compliance/` |
+| `scripts/compliance_check_batch.py` | Batch compliance checking | Same as above + summary reports |
 
 ### Key Directories
 
 **Source Data:**
-- `policies/` - Original PDF files from RCSD website (May 30, 2025)
+- `data/source/pdfs/` - Original PDF files from RCSD website (May 30, 2025)
 
 **Extracted Data:**
-- `extracted_policies_all/` - Primary source for all extracted documents
-- `extracted_XXXX/` - Legacy series-specific extractions (being phased out)
+- `data/extracted/` - All extracted documents organized by type
 
 **Analysis Output:**
-- `compliance_reports/` - All compliance analysis results
-- `compliance_cache/` - Cached API responses to avoid redundant calls
+- `data/analysis/compliance/` - All compliance analysis results
+- `data/cache/` - Cached API responses to avoid redundant calls
 
 **Which Script to Use:**
-- **For extraction:** Use `extract_all_policies.py`
-- **For compliance:** Use `compliance_check_comprehensive.py` (most complete)
-- **For cross-references:** Use `check_cross_references.py`
+- **For extraction:** Use `scripts/extract_all_policies.py`
+- **For compliance:** Use `scripts/compliance_check_comprehensive.py` (most complete)
+- **For cross-references:** Use `scripts/check_cross_references.py`
 
 ## Technical Details
 

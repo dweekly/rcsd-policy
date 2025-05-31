@@ -19,7 +19,7 @@ load_dotenv()
 
 
 class ComplianceChecker:
-    def __init__(self, cache_dir="compliance_cache", output_dir="compliance_reports"):
+    def __init__(self, cache_dir="data/cache", output_dir="data/analysis/compliance"):
         self.cache_dir = Path(cache_dir)
         self.output_dir = Path(output_dir)
         self.cache_dir.mkdir(exist_ok=True)
@@ -117,7 +117,7 @@ class ComplianceChecker:
         return list(cross_refs)
 
     def find_related_policies(
-        self, policy_code, cross_refs, base_dir="extracted_policies_all"
+        self, policy_code, cross_refs, base_dir="data/extracted"
     ):
         """Find related policies based on cross-references and numbering patterns"""
         related = {}
@@ -547,7 +547,7 @@ For each compliance issue:
         # Get all policy files
         all_files = []
         for subdir in ["policies", "regulations"]:
-            dir_path = Path("extracted_policies_all") / subdir
+            dir_path = Path("data/extracted") / subdir
             if dir_path.exists():
                 all_files.extend(list(dir_path.glob("*.txt")))
 

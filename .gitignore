@@ -18,14 +18,20 @@ ENV/
 *.swo
 *~
 
-# Project specific
-extracted_policies/
-extracted_policies_*/
+# Project specific - data files
+data/cache/
+data/analysis/compliance/json_data/
+data/analysis/compliance/material_issues/
+data/analysis/compliance/*.json
+data/analysis/compliance/*.txt
+
+# Keep the compliance summary report
+!data/analysis/compliance/COMPLIANCE_SUMMARY.md
+
+# Temporary extracted directories
 extracted_*/
-policy_chunks/
-compliance_reports/
-compliance_report_*.json
-*.json
+
+# Excel and log files
 *.xlsx
 *.log
 

@@ -24,22 +24,48 @@ This project is a PDF-based policy extraction and analysis system for the Redwoo
 
 ## Key Components
 
-### Main Parser: `pdf_parser.py`
-- Uses PyMuPDF for text extraction
-- Implements TOC parsing for document location
-- Extracts policies with full metadata (title, dates, references)
-- Validates policy boundaries using status lines and reference sections
+### Key Scripts and Files
+
+**Scripts Directory (`scripts/`)**
+- `pdf_parser.py` - Core PDF extraction engine using PyMuPDF
+- `extract_all_policies.py` - Batch extraction tool for processing all PDFs
+- `check_cross_references.py` - Validates policy cross-references and finds missing documents
+- `compliance_check_comprehensive.py` - Main compliance analysis tool using Claude AI
+- `compliance_check_batch.py` - Batch compliance checking with priority-based processing
+- `compliance_checker.py` - Core compliance checking module with caching
+- `policy_researcher.py` - Research tools for policy analysis
+- `main.py` - Main entry point for the application
+
+**Documentation (`docs/`)**
+- `AGENTS.md` - This file - AI assistant guidelines
+- `ARCHITECTURE.md` - System design and technical architecture
+- `COMPLIANCE_PLAN.md` - Detailed plan for compliance checking implementation
+- `COMPLIANCE_USAGE.md` - How to use the compliance checking tools
+- `CROSS_REFERENCE_ANALYSIS.md` - Analysis of missing cross-referenced policies
+- `EMPTY_POLICIES_SUMMARY.md` - Documentation of policies with no content
+- `PUBLICATION_README.md` - Summary for public consumption
 
 ### Directory Structure
 ```
 rcsd-policy/
-├── policies/              # Source PDF files
-├── extracted_policies/    # Extracted policy text files
-│   ├── policies/         # Policy documents
-│   ├── regulations/      # Regulation documents
-│   └── exhibits/         # Exhibit documents
-├── pdf_parser.py         # Main extraction script
-└── requirements.txt      # Python dependencies
+├── data/                          # All data files
+│   ├── source/                    # Source documents
+│   │   └── pdfs/                  # PDF files (tracked with Git LFS)
+│   ├── extracted/                 # Extracted text documents
+│   │   ├── policies/              # Policy documents
+│   │   ├── regulations/           # Administrative regulations
+│   │   └── exhibits/              # Exhibits and forms
+│   ├── analysis/                  # Analysis results
+│   │   └── compliance/            # Compliance check results
+│   │       ├── COMPLIANCE_SUMMARY.md  # Executive summary
+│   │       ├── json_data/         # Individual compliance data
+│   │       └── material_issues/   # Material compliance issues
+│   └── cache/                     # API response cache
+├── scripts/                       # All Python scripts
+├── docs/                          # Documentation
+├── schemas/                       # Data schemas
+│   └── compliance_output_schema.xml  # Compliance report format
+└── Configuration files
 ```
 
 ## Working with This Repository
@@ -55,16 +81,22 @@ rcsd-policy/
 # ALWAYS START WITH:
 cd /Users/dew/dev/rcsd-policy && source venv/bin/activate
 
-# Single PDF
-python pdf_parser.py "policies/RCSD Policies 1000.pdf"
+# Extract all policies
+python scripts/extract_all_policies.py
 
-# All PDFs in directory
-python pdf_parser.py policies/ --output-dir extracted_policies
+# Check cross-references
+python scripts/check_cross_references.py
+
+# Run compliance analysis on a single policy
+python scripts/compliance_check_comprehensive.py --policy data/extracted/policies/1234.txt
+
+# Run batch compliance analysis
+python scripts/compliance_check_batch.py --max 100
 ```
 
 ### Common Mistakes to Avoid
 1. **Forgetting to activate venv** - Always run `source venv/bin/activate` before any Python commands
-2. **Not quoting file paths with spaces** - Use quotes: `"policies/RCSD Policies 1000.pdf"`
+2. **Not quoting file paths with spaces** - Use quotes: `"data/source/pdfs/RCSD Policies 1000.pdf"`
 3. **Calling anything "final"** - Nothing is ever final in software development!
 4. **Assuming duplicates** - Cross-references often link to both policies AND regulations with similar names
 5. **Using chmod +x on Python scripts** - NEVER use chmod +x on Python scripts. Always run with `python script.py`
@@ -112,20 +144,32 @@ python pdf_parser.py policies/ --output-dir extracted_policies
 5. Keep TODO.md updated as your primary state preservation tool
 
 ### Current State
-- Successfully extracts policies from 1000 series
-- 27 documents extracted including policies, regulations, and exhibits
-- Ready for expansion to other number series and compliance analysis features
+- Successfully extracts policies from all series (0000-9000)
+- 512 documents extracted including 308 policies, 192 regulations, and 12 exhibits
+- Completed comprehensive compliance analysis identifying 292 material issues
+- Repository reorganized with clear data/scripts/docs structure
+
+### Recently Completed
+1. ✅ Extracted all 512 documents from 9 PDF files
+2. ✅ Validated cross-references and identified missing policies
+3. ✅ Built comprehensive compliance analysis system
+4. ✅ Generated executive summary with board recommendations
+5. ✅ Reorganized repository structure for clarity
 
 ### Next Steps Typically Include
-1. Processing remaining PDF series (2000, 3000, etc.)
-2. Implementing cross-reference validation
-3. Building compliance analysis features
-4. Creating summary reports and dashboards
+1. Re-running extraction after directory reorganization
+2. Implementing CSBA best practice alignment
+3. Adding Excel report generation
+4. Creating visualization dashboard
 
 ## Git Workflow
 - Repository initialized and pushed to GitHub (github.com/dweekly/rcsd-policy)
 - Use meaningful commit messages describing policy-related changes
 - PDFs are tracked with Git LFS (Large File Storage)
+- **CRITICAL**: Always use `git mv` when relocating ANY tracked file
+  - NEVER use cp/rm or manual move operations for tracked files
+  - This is especially important for LFS-tracked files (PDFs)
+  - Using `git mv` preserves file history and ensures proper LFS handling
 - **IMPORTANT**: Before committing, check for temporary test files:
   - Exclude: test_*.py, *_test.py, scratch_*.py, temp_*.py
   - Exclude: proposed_updates_*.md, one-off analysis scripts
@@ -133,5 +177,6 @@ python pdf_parser.py policies/ --output-dir extracted_policies
 
 ## Dependencies
 - PyMuPDF (fitz): PDF text extraction
-- Standard library only for other functionality
-- No web scraping libraries needed anymore
+- Anthropic: Claude AI API for compliance analysis
+- python-dotenv: Environment variable management
+- Standard library for other functionality

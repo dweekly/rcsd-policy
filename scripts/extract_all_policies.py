@@ -16,7 +16,7 @@ def extract_all_policies():
     """Extract policies from all PDFs and merge intelligently"""
 
     # Extract each PDF to its own directory
-    pdf_files = sorted([f for f in os.listdir("policies") if f.endswith(".pdf")])
+    pdf_files = sorted([f for f in os.listdir("data/source/pdfs") if f.endswith(".pdf")])
 
     for pdf_file in pdf_files:
         # Determine series from filename
@@ -30,7 +30,7 @@ def extract_all_policies():
         print(f"{'=' * 60}")
 
         parser = PDFPolicyParser()
-        pdf_path = os.path.join("policies", pdf_file)
+        pdf_path = os.path.join("data/source/pdfs", pdf_file)
         parser.parse_pdf(pdf_path, output_dir)
 
     # Now merge all extracted policies intelligently
@@ -45,7 +45,7 @@ def merge_all_policies():
     """Merge policies from all series directories into final output"""
 
     # Create final output directory
-    final_dir = "extracted_policies_all"
+    final_dir = "data/extracted"
     os.makedirs(final_dir, exist_ok=True)
     os.makedirs(os.path.join(final_dir, "policies"), exist_ok=True)
     os.makedirs(os.path.join(final_dir, "regulations"), exist_ok=True)
