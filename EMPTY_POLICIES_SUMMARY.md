@@ -16,10 +16,12 @@ Examples:
 - **Policy 5131.9** - Academic Honesty
 - **Regulation 4112.1** - Contracts
 
-### Category 2: Completely Empty (2 total)
-These contain only the header with no content whatsoever:
-- **Policy 6164.6** - Identification And Education Under Section [title appears truncated]
-- **Regulation 6164.6** - Identification And Education Under Section [title appears truncated]
+### Category 2: Parser Extraction Failures (2 total)
+These appear empty but actually contain content in the source PDF that our parser failed to extract:
+- **Policy 6164.6** - Identification And Education Under Section 504 
+  - Parser bug: Title truncated and content not extracted (verified content exists on page 231)
+- **Regulation 6164.6** - Identification And Education Under Section 504
+  - Likely same parser bug affecting both policy and regulation
 
 ## Implications
 
