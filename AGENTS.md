@@ -120,9 +120,13 @@ python pdf_parser.py policies/ --output-dir extracted_policies
 4. Creating summary reports and dashboards
 
 ## Git Workflow
-- Repository initialized but not yet pushed to remote
+- Repository initialized and pushed to GitHub (github.com/dweekly/rcsd-policy)
 - Use meaningful commit messages describing policy-related changes
-- Keep PDFs out of version control (already in .gitignore)
+- PDFs are tracked with Git LFS (Large File Storage)
+- **IMPORTANT**: Before committing, check for temporary test files:
+  - Exclude: test_*.py, *_test.py, scratch_*.py, temp_*.py
+  - Exclude: proposed_updates_*.md, one-off analysis scripts
+  - These patterns are in .gitignore but double-check before commits
 
 ## Dependencies
 - PyMuPDF (fitz): PDF text extraction
