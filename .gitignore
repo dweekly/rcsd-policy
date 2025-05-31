@@ -29,6 +29,15 @@ compliance_report_*.json
 *.xlsx
 *.log
 
+# Temporary test files
+test_*.py
+*_test.py
+test_*.md
+proposed_updates_*.md
+final_test_*.py
+scratch_*.py
+temp_*.py
+
 # PDFs are tracked with Git LFS
 # policies/*.pdf
 
