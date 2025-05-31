@@ -79,7 +79,7 @@ def merge_all_policies():
             # Only include if it's from the right series (first digit matches)
             if code[0] == series[0]:
                 # Determine subdirectory
-                if doc_type == "policy":
+                if doc_type == "policy" or doc_type == "bylaw":
                     subdir = "policies"
                 elif doc_type == "regulation":
                     subdir = "regulations"
@@ -103,7 +103,7 @@ def merge_all_policies():
         "extraction_date": datetime.now().isoformat(),
         "total_documents": len(all_documents),
         "by_type": {
-            "policies": len([d for d in all_documents if d["doc_type"] == "Policy"]),
+            "policies": len([d for d in all_documents if d["doc_type"] in ["Policy", "Bylaw"]]),
             "regulations": len(
                 [d for d in all_documents if d["doc_type"] == "Regulation"]
             ),
