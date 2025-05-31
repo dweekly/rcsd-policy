@@ -67,6 +67,9 @@ python pdf_parser.py policies/ --output-dir extracted_policies
 2. **Not quoting file paths with spaces** - Use quotes: `"policies/RCSD Policies 1000.pdf"`
 3. **Calling anything "final"** - Nothing is ever final in software development!
 4. **Assuming duplicates** - Cross-references often link to both policies AND regulations with similar names
+5. **Using chmod +x on Python scripts** - NEVER use chmod +x on Python scripts. Always run with `python script.py`
+   - Python scripts should NOT have executable bits set in git
+   - This is standard Python practice and avoids platform-specific issues
 
 ### Key Technical Decisions
 

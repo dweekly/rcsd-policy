@@ -17,27 +17,38 @@ This project extracts and analyzes Redwood City School District (RCSD) policies 
 
 ## Current Status
 
-- ✅ **PDF Extraction**: Successfully extracts 512 documents from RCSD policy PDFs
-- ✅ **Cross-Reference Validation**: Identifies and validates policy cross-references
+- ✅ **PDF Extraction**: Successfully extracted 512 documents from RCSD policy PDFs
+- ✅ **Cross-Reference Validation**: Identified and validated policy cross-references
 - ✅ **Multi-format Support**: Handles policies, regulations, and exhibits
-- 🚧 **Compliance Analysis**: In planning - will analyze policies against CA Education Code using Claude AI
-- 🚧 **CSBA Alignment**: Planned feature to evaluate alignment with CSBA best practices
+- ✅ **Compliance Analysis**: Completed - analyzed all 512 documents against CA Education Code
+- 🚧 **CSBA Alignment**: Future feature to evaluate alignment with CSBA best practices
+
+### Compliance Analysis Results
+- **292 material compliance issues** identified across all documents
+- **97 documents (61%)** require updates to meet legal requirements
+- **61 documents (39%)** are fully compliant
+- See `COMPLIANCE_SUMMARY.md` for detailed findings and board recommendations
 
 ## Features
 
-### Implemented
+### Implemented Features
 - **PDF Table of Contents Parsing**: Accurately identifies document boundaries using TOC
 - **Multi-line Entry Support**: Handles TOC entries that span multiple lines
 - **Document Type Recognition**: Distinguishes between policies, regulations, exhibits, and bylaws
 - **Metadata Extraction**: Captures adoption dates, status, and source information
 - **Reference Extraction**: Parses state, federal, and cross-references
 - **Cross-Reference Validation**: Identifies missing or broken policy references
+- **Compliance Analysis**: Analyzes policies against California Education Code requirements
+- **Material Non-Compliance Detection**: Identifies issues requiring board action
+- **Comprehensive Reporting**: Generates detailed reports in JSON and text formats
+- **Batch Processing**: Efficiently processes hundreds of documents
 
-### Planned
-- Compliance analysis against California Education Code
+### Future Enhancements
 - CSBA best practice alignment checking
-- Material non-compliance detection
-- Comprehensive reporting in JSON and Excel formats
+- Excel report generation
+- Policy change tracking over time
+- Interactive visualization dashboard
+- See `TODO.md` for complete roadmap
 
 ## Installation
 
@@ -101,36 +112,105 @@ This will:
 - Identify any missing referenced policies
 - Report gaps in policy numbering by series
 
-### Run Compliance Analysis (Coming Soon)
+### Run Compliance Analysis
 ```bash
-python compliance_check.py
+python compliance_check_comprehensive.py --policy path/to/policy.txt
+```
+
+Or for batch analysis:
+```bash
+python compliance_check_batch.py --max 100
 ```
 
 This will:
 - Analyze policies for compliance with current CA Education Code
-- Prioritize older policies (>10 years) for review
-- Use Claude AI to identify material compliance issues
-- Generate detailed compliance reports
+- Identify material compliance issues requiring board action
+- Use Claude AI to provide specific legal citations and required language
+- Generate detailed compliance reports in JSON and text formats
 
-See `COMPLIANCE_PLAN.md` for detailed architecture and implementation plan.
+**Results**: See `COMPLIANCE_SUMMARY.md` for the complete analysis of all 512 RCSD documents.
 
 ## Project Structure
 
 ```
 rcsd-policy/
-├── policies/                    # Source PDF files (tracked with Git LFS)
-│   ├── RCSD Policies 0000.pdf
-│   ├── RCSD Policies 1000.pdf
-│   └── ...
-├── extracted_policies_all/      # Extracted policy documents
-│   ├── policies/               # Policy documents
-│   ├── regulations/            # Administrative regulations
-│   └── exhibits/               # Exhibits and forms
-├── pdf_parser.py               # PDF extraction engine
-├── extract_all_policies.py     # Batch extraction script
-├── check_cross_references.py   # Cross-reference validation
-└── README.md                   # This file
+├── policies/                       # Source PDF files (tracked with Git LFS)
+│   ├── RCSD Policies 0000.pdf     # Board Bylaws
+│   ├── RCSD Policies 1000.pdf     # Community Relations
+│   ├── RCSD Policies 2000.pdf     # Administration
+│   ├── RCSD Policies 3000.pdf     # Business and Non-instructional Operations
+│   ├── RCSD Policies 4000.pdf     # Personnel
+│   ├── RCSD Policies 5000.pdf     # Students
+│   ├── RCSD Policies 6000.pdf     # Instruction
+│   ├── RCSD Policies 7000.pdf     # Facilities
+│   └── RCSD Policies 9000.pdf     # Board Bylaws (continued)
+│
+├── extracted_policies_all/         # All extracted documents
+│   ├── policies/                   # Policy documents (308 files)
+│   ├── regulations/                # Administrative regulations (192 files)
+│   └── exhibits/                   # Exhibits and forms (12 files)
+│
+├── compliance_reports/             # Compliance analysis results
+│   ├── json_data/                  # Individual compliance reports (356 files)
+│   ├── material_issues/            # Material issues summaries (293 files)
+│   ├── full_analysis_*.json        # Complete analysis data
+│   └── COMPLIANCE_SUMMARY.md       # Executive summary for board
+│
+├── data/                           # Data files
+│   └── cache/                      # API response cache
+│
+├── Core Scripts:
+│   ├── pdf_parser.py               # PDF extraction engine
+│   ├── extract_all_policies.py     # Batch extraction script
+│   ├── check_cross_references.py   # Cross-reference validation
+│   ├── compliance_checker.py       # Core compliance module
+│   └── compliance_check_comprehensive.py # Main compliance analysis tool
+│
+├── Documentation:
+│   ├── README.md                   # Project overview (this file)
+│   ├── PUBLICATION_README.md       # Summary for publication
+│   ├── COMPLIANCE_SUMMARY.md       # Detailed compliance findings
+│   ├── TODO.md                     # Known issues and future enhancements
+│   ├── AGENTS.md                   # AI assistant guidelines
+│   ├── ARCHITECTURE.md             # System design
+│   ├── CROSS_REFERENCE_ANALYSIS.md # Missing policy analysis
+│   └── EMPTY_POLICIES_SUMMARY.md   # Empty policies documentation
+│
+└── Configuration:
+    ├── .env.example                # Example environment configuration
+    ├── .gitignore                  # Git ignore rules
+    ├── pyproject.toml              # Python project configuration
+    └── requirements.txt            # Python dependencies
 ```
+
+### Script → Output Mapping
+
+| Script | Purpose | Output Location |
+|--------|---------|-----------------|
+| `extract_all_policies.py` | Extract all policies from PDFs | `extracted_policies_all/` |
+| `pdf_parser.py` | Core extraction module | Used by other scripts |
+| `check_cross_references.py` | Find missing referenced policies | Console output + `CROSS_REFERENCE_ANALYSIS.md` |
+| `compliance_check_comprehensive.py` | Analyze policy compliance | `compliance_reports/json_data/` + `compliance_reports/material_issues/` |
+| `compliance_check_batch.py` | Batch compliance checking | Same as above + summary reports |
+| Other compliance scripts | Various compliance analyses | `compliance_reports/` subdirectories |
+
+### Key Directories
+
+**Source Data:**
+- `policies/` - Original PDF files from RCSD website (May 30, 2025)
+
+**Extracted Data:**
+- `extracted_policies_all/` - Primary source for all extracted documents
+- `extracted_XXXX/` - Legacy series-specific extractions (being phased out)
+
+**Analysis Output:**
+- `compliance_reports/` - All compliance analysis results
+- `compliance_cache/` - Cached API responses to avoid redundant calls
+
+**Which Script to Use:**
+- **For extraction:** Use `extract_all_policies.py`
+- **For compliance:** Use `compliance_check_comprehensive.py` (most complete)
+- **For cross-references:** Use `check_cross_references.py`
 
 ## Technical Details
 

@@ -1,75 +1,91 @@
-# TODO List - RCSD Policy Compliance Analyzer
+# TODO
 
-## Active Tasks
+## Known Issues - High Priority
 
-### High Priority
-- [ ] Fix Policy 4119.11 (Sex Discrimination) which contains only disclaimer text
+### Fix Empty Policy Content
+- [ ] Policy 4119.11 (Sex Discrimination) contains only disclaimer text
+- Critical policy area with no actual content
+- Solution: Extract from different source or flag for manual review
 
-### Medium Priority
-- [ ] Create summary statistics for all extracted policies
-- [ ] Build compliance analysis features
-- [ ] Implement policy change tracking (compare versions over time)
-- [ ] Add error handling for malformed PDFs
+### Fix Erroneous Cross-References  
+- [ ] Exhibit 5145.6-E references 14 non-existent policies
+- [ ] Policy 6177 references outdated Title 5 sections
+- [ ] AR 4118 references non-existent Ed Code sections
 
-### Low Priority
-- [ ] Create visualization dashboard for policy relationships
-- [ ] Add full-text search capability across all policies
-- [ ] Generate compliance reports in various formats (PDF, Excel, etc.)
-- [ ] Add comprehensive unit tests for pdf_parser.py
-- [ ] Add logging configuration options (currently hardcoded)
-- [ ] Consider chunking very large PDFs for memory efficiency
-- [ ] Add progress bars for long-running extractions
+## Planned Features - Medium Priority
 
-## Known Issues
+### Summary Statistics Dashboard
+- [ ] Generate comprehensive statistics for all 512 extracted policies
+- [ ] Create visual dashboard showing compliance status by series
+- [ ] Export statistics in multiple formats (CSV, Excel, PDF)
 
-### Empty Policy
-- **Issue**: Only 1 policy contains no substantive content - Policy 4119.11 (Sex Discrimination and Sex-Based Harassment)
-- **Note**: This policy contains only disclaimer text and legal references, despite being reviewed in 2022
-- **Context**: The corresponding AR 4119.11 contains comprehensive procedures, but the policy lacks Board position statements
-- **Impact**: High compliance risk for a critical area (Title IX/sex discrimination)
+### Policy Change Tracking
+- [ ] Compare versions of policies over time
+- [ ] Highlight what changed between versions
+- [ ] Track when policies were last updated
+- [ ] Alert when policies haven't been reviewed in X years
 
-### Cross-Reference Extraction
-- **Issue**: Cross-references embedded in policy text aren't always extracted
-- **Impact**: Related policies might not be identified for context
-- **Workaround**: System uses both explicit cross-references and numbering patterns
+### Enhanced Error Handling
+- [ ] Better handling of malformed PDFs
+- [ ] Recovery from partial extraction failures
+- [ ] Detailed error reporting for debugging
 
-### Cross-Reference False Positives
-- **Issue**: Cross-reference finder incorrectly identifies legal citations (like "20 U.S.C. § 6318") as policy references
-- **Example**: Policy 6020 references federal code section 6318, not a policy 6318
-- **Fix needed**: Improve regex to distinguish between policy references and legal citations
+## Future Enhancements - Low Priority
+
+### Visualization Dashboard
+- [ ] Interactive web dashboard for policy relationships
+- [ ] Network graph showing policy cross-references
+- [ ] Compliance status heat map
+- [ ] Timeline of policy updates
+
+### Full-Text Search
+- [ ] Search across all policies, regulations, and exhibits
+- [ ] Advanced search with filters (date, type, series)
+- [ ] Search result highlighting
+- [ ] Export search results
+
+### Multi-Format Report Generation
+- [ ] Generate compliance reports in PDF format
+- [ ] Create Excel workbooks with multiple sheets
+- [ ] Produce Word documents for easy editing
+- [ ] Generate presentation slides for board meetings
+
+### Testing Infrastructure
+- [ ] Comprehensive unit tests for pdf_parser.py
+- [ ] Integration tests for compliance checking
+- [ ] Performance benchmarks
+- [ ] Regression test suite
+
+### Configuration Management
+- [ ] Configurable logging levels
+- [ ] External configuration files
+- [ ] Environment-specific settings
+- [ ] User preferences
+
+### Performance Optimizations
+- [ ] Chunk large PDFs for memory efficiency
+- [ ] Parallel processing for extraction
+- [ ] Caching improvements
+- [ ] Database backend for large-scale analysis
+
+### User Experience
+- [ ] Progress bars for long-running operations
+- [ ] Better command-line interface
+- [ ] Web interface option
+- [ ] Batch operation scheduling
 
 ## Technical Debt
-- [ ] Add comprehensive unit tests for pdf_parser.py
-- [ ] Add logging configuration options (currently hardcoded)
-- [ ] Consider chunking very large PDFs for memory efficiency
-- [ ] Add progress bars for long-running extractions
 
-## Notes and Observations
+- [ ] Consolidate multiple compliance checking scripts into one
+- [ ] Standardize code style across all modules
+- [ ] Improve documentation for developers
+- [ ] Add type hints throughout codebase
+- [ ] Implement proper logging framework
 
-### PDF Structure Patterns
-- Each PDF contains policies from a specific number series (0000, 1000, 2000, etc.)
-- TOC typically appears in first 3-10 pages
-- Policy boundaries marked by "Status:" lines and reference sections
-- Some policies have decimal codes (e.g., 1312.4) and exhibit suffixes (e.g., 1313-E)
-- Page numbers ending in "504" etc. can be confused with titles - fixed with improved regex
+## Infrastructure Improvements
 
-### Extraction Statistics
-- Total documents extracted: 512
-  - Bylaws: 28
-  - Exhibits: 12
-  - Policies: 280
-  - Regulations: 192
-- Only 1 document contains no actual policy content (Policy 4119.11)
-
-### Cross-Reference Analysis
-- 60 documents (12%) contain cross-references
-- 106 unique policy codes are referenced
-- 33 referenced policies (31%) are missing from corpus
-- Exhibit 5145.6-E references many non-existent policies and needs updating
-
-## Session Notes
-*Current context and important observations*
-
-- Fixed EMPTY_POLICIES_SUMMARY.md - only 1 policy is truly empty (4119.11), not 15
-- Cross-reference analysis revealed 33 missing policies, but some may be false positives from legal citations
-- Need to improve cross-reference detection to avoid confusing legal citations with policy references
+- [ ] Docker containerization
+- [ ] CI/CD pipeline setup
+- [ ] Automated testing on commits
+- [ ] Cloud deployment options
+- [ ] API endpoint development
