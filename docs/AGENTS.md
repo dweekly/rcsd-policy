@@ -21,20 +21,23 @@ This project is a PDF-based policy extraction and analysis system for the Redwoo
 2. **Second Attempt**: Tried PyPDF2 - cleaner but still had issues
 3. **Final Solution**: PyMuPDF (fitz) - provides robust, clean text extraction
 4. **Key Innovation**: TOC-based navigation to accurately locate and extract individual policies
+5. **Critical Fixes (May 2025)**:
+   - Fixed 3000-character truncation bug that was cutting off policy content
+   - Fixed cross-reference extraction to handle column format and multi-page sections
+   - Added proper handling of "Bylaw" document type (28 Board Bylaws were being skipped)
+   - Improved page break artifact removal for cleaner text extraction
 
 ## Key Components
 
 ### Key Scripts and Files
 
 **Scripts Directory (`scripts/`)**
-- `pdf_parser.py` - Core PDF extraction engine using PyMuPDF
-- `extract_all_policies.py` - Batch extraction tool for processing all PDFs
+- `pdf_parser.py` - PDF extraction engine with full text and cross-reference parsing
+- `compliance_checker.py` - Compliance analysis using Claude AI with caching and cross-reference support
 - `check_cross_references.py` - Validates policy cross-references and finds missing documents
-- `compliance_check_comprehensive.py` - Main compliance analysis tool using Claude AI
-- `compliance_check_batch.py` - Batch compliance checking with priority-based processing
-- `compliance_checker.py` - Core compliance checking module with caching
 - `policy_researcher.py` - Research tools for policy analysis
-- `main.py` - Main entry point for the application
+- `run_compliance_check_resumable.py` - Batch compliance checking with resume capability
+- `run_compliance_check_batched.py` - Batch compliance checking in 20-document chunks
 
 **Documentation (`docs/`)**
 - `AGENTS.md` - This file - AI assistant guidelines
@@ -142,6 +145,12 @@ python scripts/compliance_check_batch.py --max 100
 3. Preserve the structured metadata format in extracted files
 4. Validate cross-references exist when implementing analysis features
 5. Keep TODO.md updated as your primary state preservation tool
+
+### Critical Git Usage
+- **ALWAYS use `git mv`** when moving tracked files (especially PDFs with Git LFS)
+- **NEVER use cp/rm** for tracked files - this breaks history and LFS tracking
+- Example: `git mv old/path/file.pdf new/path/file.pdf`
+- This is essential for maintaining file history and proper LFS functionality
 
 ### Current State
 - Successfully extracts policies from all series (0000-9000)

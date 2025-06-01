@@ -94,7 +94,7 @@ cp .env.example .env
 
 ### Extract All Policies
 ```bash
-python scripts/extract_all_policies.py
+python scripts/pdf_parser.py
 ```
 
 This will:
@@ -114,12 +114,14 @@ This will:
 
 ### Run Compliance Analysis
 ```bash
-python scripts/compliance_check_comprehensive.py --policy data/extracted/policies/1234.txt
-```
+# For a single policy
+python scripts/compliance_checker.py --policy data/extracted/policies/1234.txt
 
-Or for batch analysis:
-```bash
-python scripts/compliance_check_batch.py --max 100
+# For batch analysis with resume capability
+python scripts/run_compliance_check_resumable.py
+
+# For batch analysis in smaller chunks
+python scripts/run_compliance_check_batched.py
 ```
 
 This will:
@@ -161,14 +163,12 @@ rcsd-policy/
 │   └── cache/                      # API response cache for compliance checks
 │
 ├── scripts/                        # All Python scripts
-│   ├── pdf_parser.py               # Core PDF extraction engine using PyMuPDF
-│   ├── extract_all_policies.py     # Batch extraction tool for all PDFs
+│   ├── pdf_parser.py               # PDF extraction engine with full text and cross-reference support
+│   ├── compliance_checker.py       # Compliance analysis using Claude AI with caching
 │   ├── check_cross_references.py   # Validates cross-references, finds missing policies
-│   ├── compliance_checker.py       # Core compliance module with caching support
-│   ├── compliance_check_comprehensive.py # Main compliance analysis using Claude AI
-│   ├── compliance_check_batch.py   # Batch processing with priority-based ordering
 │   ├── policy_researcher.py        # Research and analysis utilities
-│   └── main.py                     # Main entry point for the application
+│   ├── run_compliance_check_batched.py    # Batch compliance checking (20 docs at a time)
+│   └── run_compliance_check_resumable.py  # Resumable compliance checking
 │
 ├── docs/                           # Documentation
 │   ├── AGENTS.md                   # Guidelines for AI assistants working on this repo
@@ -196,11 +196,11 @@ rcsd-policy/
 
 | Script | Purpose | Output Location |
 |--------|---------|-----------------|
-| `scripts/extract_all_policies.py` | Extract all policies from PDFs | `data/extracted/` |
-| `scripts/pdf_parser.py` | Core extraction module | Used by other scripts |
+| `scripts/pdf_parser.py` | Extract all policies from PDFs | `data/extracted/` |
+| `scripts/compliance_checker.py` | Analyze policy compliance | `data/analysis/compliance/` |
 | `scripts/check_cross_references.py` | Find missing referenced policies | Console output + `docs/CROSS_REFERENCE_ANALYSIS.md` |
-| `scripts/compliance_check_comprehensive.py` | Analyze policy compliance | `data/analysis/compliance/` |
-| `scripts/compliance_check_batch.py` | Batch compliance checking | Same as above + summary reports |
+| `scripts/run_compliance_check_resumable.py` | Batch compliance with resume | `data/analysis/compliance/` |
+| `scripts/run_compliance_check_batched.py` | Batch compliance in chunks | `data/analysis/compliance/` |
 
 ### Key Directories
 
@@ -215,8 +215,8 @@ rcsd-policy/
 - `data/cache/` - Cached API responses to avoid redundant calls
 
 **Which Script to Use:**
-- **For extraction:** Use `scripts/extract_all_policies.py`
-- **For compliance:** Use `scripts/compliance_check_comprehensive.py` (most complete)
+- **For extraction:** Use `scripts/pdf_parser.py`
+- **For compliance:** Use `scripts/run_compliance_check_resumable.py` (handles interruptions)
 - **For cross-references:** Use `scripts/check_cross_references.py`
 
 ## Technical Details
