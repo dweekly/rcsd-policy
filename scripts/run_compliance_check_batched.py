@@ -8,7 +8,7 @@ import os
 import json
 import time
 from pathlib import Path
-from compliance_check_comprehensive import ComplianceChecker
+from compliance_checker import ComplianceChecker
 
 def get_completed_documents():
     """Get set of documents that have already been processed"""

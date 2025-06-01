@@ -1,471 +1,622 @@
+#!/usr/bin/env python3
+"""
+RCSD Policy Compliance Checker
+- Uses Anthropic Claude API to analyze policies for California legal compliance
+- Implements caching to avoid redundant API calls
+- Extracts and follows cross-references between policies
+- Generates detailed compliance reports with material issues identified
+"""
+
+import hashlib
 import json
+import os
 import re
+import time
+import xml.etree.ElementTree as ET
 from datetime import datetime
-from typing import Dict, List, Tuple
+from pathlib import Path
 
-import pandas as pd
+from anthropic import Anthropic
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
-class PolicyComplianceChecker:
-    def __init__(self):
-        # Key California Ed Code requirements by policy area
-        self.ed_code_requirements = {
-            # Student policies
-            "attendance": {
-                "codes": ["46000-46394", "48200-48273"],
-                "key_requirements": [
-                    "Compulsory attendance ages 6-18",
-                    "Truancy definitions and procedures",
-                    "Chronic absenteeism tracking",
-                    "SARB process requirements",
-                ],
-            },
-            "discipline": {
-                "codes": ["48900-48927", "49000-49079"],
-                "key_requirements": [
-                    "Grounds for suspension/expulsion clearly defined",
-                    "Due process procedures",
-                    "Alternative means of correction",
-                    "Manifestation determination for special education",
-                ],
-            },
-            "bullying": {
-                "codes": ["234-234.5", "32261", "48900(r)"],
-                "key_requirements": [
-                    "Prohibition of discrimination and harassment",
-                    "Cyberbullying provisions",
-                    "Reporting and investigation procedures",
-                    "Annual notification requirements",
-                ],
-            },
-            "special_education": {
-                "codes": ["56000-56865"],
-                "key_requirements": [
-                    "Child find obligations",
-                    "IEP process and timelines",
-                    "FAPE provisions",
-                    "Least restrictive environment",
-                ],
-            },
-            # Personnel policies
-            "employment": {
-                "codes": ["44830-44986", "45100-45450"],
-                "key_requirements": [
-                    "Credential requirements",
-                    "Background check procedures",
-                    "Mandated reporter training",
-                    "Professional development requirements",
-                ],
-            },
-            "evaluation": {
-                "codes": ["44660-44665"],
-                "key_requirements": [
-                    "Evaluation criteria and procedures",
-                    "Timeline requirements",
-                    "Improvement plans",
-                    "Due process rights",
-                ],
-            },
-            # Governance policies
-            "board_governance": {
-                "codes": ["35000-35179"],
-                "key_requirements": [
-                    "Board meeting procedures",
-                    "Brown Act compliance",
-                    "Conflict of interest",
-                    "Board member training requirements",
-                ],
-            },
-            "fiscal": {
-                "codes": ["41000-42650"],
-                "key_requirements": [
-                    "Budget adoption procedures",
-                    "Fiscal accountability",
-                    "Audit requirements",
-                    "Reserve requirements",
-                ],
-            },
-            # Health and safety
-            "wellness": {
-                "codes": ["49430-49436"],
-                "key_requirements": [
-                    "Wellness policy requirements",
-                    "Nutrition standards",
-                    "Physical education requirements",
-                    "Health education mandates",
-                ],
-            },
-            "safety": {
-                "codes": ["32280-32289"],
-                "key_requirements": [
-                    "Comprehensive safety plan",
-                    "Emergency procedures",
-                    "Annual review and update",
-                    "Stakeholder involvement",
-                ],
-            },
-        }
+class ComplianceChecker:
+    def __init__(self, cache_dir="data/cache", output_dir="data/analysis/compliance"):
+        self.cache_dir = Path(cache_dir)
+        self.output_dir = Path(output_dir)
+        self.cache_dir.mkdir(exist_ok=True)
+        self.output_dir.mkdir(exist_ok=True)
 
-        # CSBA best practices indicators
-        self.csba_best_practices = {
-            "policy_structure": [
-                "Clear purpose statement",
-                "Legal references cited",
-                "Cross-references to related policies",
-                "Implementation procedures defined",
-            ],
-            "equity_focus": [
-                "Equity considerations addressed",
-                "Disparate impact analysis",
-                "Inclusive language",
-                "Cultural responsiveness",
-            ],
-            "stakeholder_engagement": [
-                "Parent/community input processes",
-                "Student voice incorporated",
-                "Staff consultation procedures",
-                "Communication plans",
-            ],
-            "accountability": [
-                "Monitoring procedures",
-                "Data collection requirements",
-                "Reporting timelines",
-                "Review cycles specified",
-            ],
-        }
+        # Create subdirectories for organization
+        (self.output_dir / "material_issues").mkdir(exist_ok=True)
+        (self.output_dir / "full_reports").mkdir(exist_ok=True)
+        (self.output_dir / "json_data").mkdir(exist_ok=True)
 
-        # Material non-compliance indicators
-        self.material_noncompliance_indicators = [
-            "Missing required legal provisions",
-            "Outdated legal references (pre-2020)",
-            "Conflicts with current Ed Code",
-            "Missing mandated procedures",
-            "Discriminatory language or provisions",
-            "Lack of due process protections",
-            "Missing required notifications",
-            "Absence of required timelines",
-        ]
+        self.api_key = os.getenv("ANTHROPIC_API_KEY")
+        self.model = os.getenv("ANTHROPIC_MODEL", "claude-4-sonnet-20250514")
 
-    def identify_policy_category(
-        self, policy_title: str, policy_content: str
-    ) -> List[str]:
-        """Identify which Ed Code categories apply to this policy"""
-        categories = []
-        title_lower = policy_title.lower()
-        content_lower = policy_content.lower()
+        if not self.api_key:
+            raise ValueError("ANTHROPIC_API_KEY not found in environment")
 
-        # Check for category keywords
-        category_keywords = {
-            "attendance": ["attendance", "truancy", "absent", "tardy"],
-            "discipline": ["discipline", "suspension", "expulsion", "behavior"],
-            "bullying": ["bullying", "harassment", "discrimination", "hazing"],
-            "special_education": ["special education", "iep", "idea", "disability"],
-            "employment": ["employment", "hiring", "personnel", "staff"],
-            "evaluation": ["evaluation", "assessment", "performance review"],
-            "board_governance": ["board", "governance", "meeting", "trustee"],
-            "fiscal": ["budget", "fiscal", "financial", "audit"],
-            "wellness": ["wellness", "nutrition", "health", "physical education"],
-            "safety": ["safety", "emergency", "crisis", "security"],
-        }
+        self.client = Anthropic(api_key=self.api_key)
 
-        for category, keywords in category_keywords.items():
-            if any(
-                keyword in title_lower or keyword in content_lower
-                for keyword in keywords
-            ):
-                categories.append(category)
+        # Track all issues for final summary
+        self.all_material_issues = []
+        self.api_calls_made = 0
+        self.api_calls_cached = 0
 
-        return categories
+    def get_cache_key(self, policy_code, policy_xml, last_reviewed):
+        """Generate cache key for API responses"""
+        # Include version to invalidate cache when we fix parsing issues
+        version = "v4"  # Increment this when fixing parsing bugs
+        content = f"{version}:{policy_code}:{last_reviewed}:{policy_xml}"
+        return hashlib.md5(content.encode()).hexdigest()
 
-    def check_ed_code_compliance(
-        self, policy_content: str, categories: List[str]
-    ) -> Dict:
-        """Check compliance with Ed Code requirements"""
-        compliance_issues = []
-        applicable_codes = []
+    def get_cached_response(self, cache_key):
+        """Check if we have a cached API response"""
+        cache_file = self.cache_dir / f"{cache_key}.json"
+        if cache_file.exists():
+            with open(cache_file) as f:
+                data = json.load(f)
+                # Check if cache is still valid (30 days)
+                cached_date = datetime.fromisoformat(data["cached_date"])
+                if (datetime.now() - cached_date).days < 30:
+                    self.api_calls_cached += 1
+                    return data["response"]
+        return None
 
-        for category in categories:
-            if category in self.ed_code_requirements:
-                cat_requirements = self.ed_code_requirements[category]
-                applicable_codes.extend(cat_requirements["codes"])
+    def save_cache(self, cache_key, response):
+        """Save API response to cache"""
+        cache_file = self.cache_dir / f"{cache_key}.json"
+        with open(cache_file, "w") as f:
+            json.dump(
+                {"cached_date": datetime.now().isoformat(), "response": response}, f
+            )
 
-                # Check for key requirements
-                for requirement in cat_requirements["key_requirements"]:
-                    # Simple keyword-based check (would be more sophisticated in production)
-                    req_keywords = requirement.lower().split()
-                    if not any(
-                        keyword in policy_content.lower()
-                        for keyword in req_keywords[:3]
-                    ):
-                        compliance_issues.append(
+    def extract_cross_references(self, file_path):
+        """Extract actual cross-references from policy text"""
+        cross_refs = set()
+
+        try:
+            with open(file_path) as f:
+                content = f.read()
+
+            # Extract the policy code from the filename to avoid self-references
+            own_code = Path(file_path).stem
+            
+            # First, look for the structured Cross References section at the end
+            cross_refs_match = re.search(
+                r"Cross References\s*\n(?:Description\s*\n)?(.*?)(?:Board Policy Manual|$)",
+                content,
+                re.DOTALL | re.IGNORECASE
+            )
+            
+            if cross_refs_match:
+                refs_text = cross_refs_match.group(1)
+                # Extract policy numbers from the Cross References section
+                # Pattern matches lines that start with a policy number
+                policy_pattern = r"^(\d{4}(?:\.\d+)?)\s+"
+                matches = re.findall(policy_pattern, refs_text, re.MULTILINE)
+                cross_refs.update(matches)
+            
+            # Also check for inline references in the main text
+            # Get main text (before REFERENCES section)
+            main_text_match = re.search(r"^(.*?)(?:\n={50,}\nREFERENCES|$)", content, re.DOTALL)
+            main_text = main_text_match.group(1) if main_text_match else content
+            
+            # More flexible patterns that catch various reference styles
+            inline_patterns = [
+                # Board Policy references
+                r"(?:Board )?(?:Policy|BP)\s+(\d{4}(?:\.\d+)?)",
+                # Administrative Regulation references  
+                r"(?:Administrative )?(?:Regulation|AR)\s+(\d{4}(?:\.\d+)?(?:/\d{4}(?:\.\d+)?)*)",
+                # Bylaw references
+                r"(?:Bylaw)\s+(\d{4}(?:\.\d+)?)",
+            ]
+
+            for pattern in inline_patterns:
+                matches = re.findall(pattern, main_text, re.IGNORECASE)
+                # Handle multiple references separated by slashes
+                for match in matches:
+                    if '/' in match:
+                        # Split multiple references like "4119.12/4219.12/4319.12"
+                        for ref in match.split('/'):
+                            cross_refs.add(ref.strip())
+                    else:
+                        cross_refs.add(match)
+            
+            # Remove self-reference
+            cross_refs.discard(own_code)
+
+        except Exception as e:
+            print(f"Error extracting cross-references: {e}")
+
+        return sorted(list(cross_refs))
+
+    def find_related_policies(
+        self, policy_code, cross_refs, base_dir="data/extracted"
+    ):
+        """Find related policies based on cross-references and numbering patterns"""
+        related = {}
+
+        # Start with explicitly cross-referenced policies
+        check_codes = set(cross_refs)
+
+        # Add sequential policies (e.g., 5131.1, 5131.2 if checking 5131)
+        base_code = policy_code.split(".")[0]
+        for i in range(1, 6):
+            check_codes.add(f"{base_code}.{i}")
+
+        # Check parent policy if this is a sub-policy
+        if "." in policy_code:
+            check_codes.add(base_code)
+
+        # Common related series patterns
+        series = int(base_code[0]) * 1000 if base_code[0].isdigit() else 0
+        if series == 5000:  # Student policies often relate
+            check_codes.update(["0410", "1312.3", "5145.3", "5145.7"])
+        elif series == 3000:  # Business policies
+            if "35" in base_code:  # Food/nutrition
+                check_codes.update(["5030", "3550", "3551", "3552", "3553"])
+        elif series == 0:  # Philosophy/goals
+            if base_code == "0450":  # Safety
+                check_codes.update(["3515", "3516", "5131.4", "5141.4"])
+
+        # Check for each potentially related policy
+        for code in check_codes:
+            if code == policy_code:  # Skip self
+                continue
+
+            for subdir in ["policies", "regulations"]:
+                file_path = os.path.join(base_dir, subdir, f"{code}.txt")
+                if os.path.exists(file_path):
+                    try:
+                        with open(file_path) as f:
+                            header = f.read(500)
+
+                        title_match = re.search(r"Title:\s*(.+?)(?:\n|$)", header)
+                        title = title_match.group(1) if title_match else "Unknown"
+
+                        related[code] = {
+                            "title": title,
+                            "type": subdir[:-1].capitalize(),
+                            "file_path": file_path,
+                        }
+                    except:
+                        pass
+
+        return related
+
+    def parse_policy_to_xml(self, file_path):
+        """Convert policy to XML and extract metadata"""
+        with open(file_path, encoding="utf-8") as f:
+            content = f.read()
+
+        # Extract metadata
+        code_match = re.search(
+            r"RCSD (?:Policy|Regulation|Bylaw)\s+(\d+(?:\.\d+)?)", content
+        )
+        code = code_match.group(1) if code_match else "Unknown"
+
+        # Document type
+        if "RCSD Policy" in content[:100]:
+            doc_type = "Policy"
+        elif "RCSD Regulation" in content[:100]:
+            doc_type = "Regulation"
+        elif "RCSD Bylaw" in content[:100]:
+            doc_type = "Bylaw"
+        else:
+            doc_type = "Unknown"
+
+        # Title
+        title_match = re.search(r"Title:\s*(.+?)(?:\n|$)", content)
+        title = title_match.group(1).strip() if title_match else "Unknown Title"
+
+        # Dates
+        adopted_match = re.search(
+            r"Original Adopted Date:\s*(\d{1,2}/\d{1,2}/\d{2,4})", content
+        )
+        adopted = adopted_match.group(1) if adopted_match else None
+
+        reviewed_match = re.search(
+            r"Last Reviewed Date:\s*(\d{1,2}/\d{1,2}/\d{2,4})", content
+        )
+        reviewed = reviewed_match.group(1) if reviewed_match else adopted
+
+        # Main content
+        main_text_match = re.search(
+            r"={50,}\n\n(.+?)(?=\n={50,}\nREFERENCES)", content, re.DOTALL
+        )
+        if not main_text_match:
+            main_text_match = re.search(r"={50,}\n\n(.+?)$", content, re.DOTALL)
+        main_text = main_text_match.group(1).strip() if main_text_match else content
+        
+        # Clean up page break artifacts and formatting issues
+        main_text = re.sub(r'\nBoard Policy Manual\n.*?\n', '\n', main_text)
+        main_text = re.sub(r'\nRedwood City School District\n.*?\n', '\n', main_text)
+        main_text = re.sub(r'\nPolicy Reference Disclaimer:?\n', '\n', main_text)
+        main_text = re.sub(r'\n\d+\n', '\n', main_text)  # Remove standalone page numbers
+        
+        # Ensure we keep the full text, not truncated
+        # Only truncate for extremely long policies (>20k chars)
+        if len(main_text) > 20000:
+            main_text = main_text[:20000] + "\n[TRUNCATED - POLICY EXCEEDS 20000 CHARACTERS]"
+
+        # Build XML
+        xml = f"""<policy>
+    <metadata>
+        <code>{code}</code>
+        <type>{doc_type}</type>
+        <title>{title}</title>
+        <adopted>{adopted or "Unknown"}</adopted>
+        <last_reviewed>{reviewed or adopted or "Unknown"}</last_reviewed>
+    </metadata>
+    <content>{main_text}</content>
+</policy>"""
+
+        return xml, code, title, reviewed
+
+    def check_compliance(
+        self, policy_xml, code, title, last_reviewed, related_policies
+    ):
+        """Check compliance with caching"""
+        cache_key = self.get_cache_key(code, policy_xml, last_reviewed)
+
+        # Check cache first
+        cached_response = self.get_cached_response(cache_key)
+        if cached_response:
+            print("  Using cached response")
+            return cached_response
+
+        # Build context about related policies
+        related_context = "Related policies in the district:\n"
+        for rel_code, rel_info in related_policies.items():
+            related_context += f"- {rel_info['type']} {rel_code}: {rel_info['title']}\n"
+
+        prompt = f"""You are reviewing a California school district policy for compliance.
+
+IMPORTANT: School districts organize requirements across multiple related policies. Only flag issues as MATERIAL if the requirement MUST be in this specific policy by law.
+
+Policy: {code} - {title}
+Last Updated: {last_reviewed}
+
+{related_context}
+
+For each compliance issue:
+1. Consider if this requirement belongs in THIS policy or a related one
+2. Only flag as MATERIAL if legally required in this specific policy
+3. Include confidence level and specific legal citations
+
+<compliance_report>
+    <compliance_issues>
+        <issue priority="MATERIAL|MINOR" confidence="[0-100]">
+            <title>[Issue Title]</title>
+            <description>[Why this specific policy needs this]</description>
+            <typical_location>[This Policy or Usually in Policy XXXX]</typical_location>
+            
+            <legal_basis>
+                <california_code>
+                    <citation>[Ed Code/Gov Code Section]</citation>
+                    <text>[Relevant excerpt]</text>
+                    <requires_in_specific_policy>[true/false]</requires_in_specific_policy>
+                </california_code>
+            </legal_basis>
+            
+            <required_language>
+                <text>[Specific language that must be added]</text>
+            </required_language>
+            
+            <recommended_action>
+                <option type="ADD_LANGUAGE|CROSS_REFERENCE|VERIFY_EXISTS">[Action]</option>
+            </recommended_action>
+        </issue>
+    </compliance_issues>
+</compliance_report>
+
+<policy_document>
+{policy_xml}
+</policy_document>"""
+
+        print("  Calling API...")
+        self.api_calls_made += 1
+
+        response = self.client.messages.create(
+            model=self.model,
+            max_tokens=4000,
+            temperature=0,
+            messages=[{"role": "user", "content": prompt}],
+        )
+
+        result = response.content[0].text
+
+        # Cache the response
+        self.save_cache(cache_key, result)
+
+        return result
+
+    def parse_compliance_xml(self, xml_response):
+        """Parse XML response into structured data"""
+        try:
+            # Extract XML
+            xml_match = re.search(
+                r"<compliance_report>.*</compliance_report>", xml_response, re.DOTALL
+            )
+            if not xml_match:
+                return {"error": "No XML found", "raw": xml_response}
+
+            root = ET.fromstring(xml_match.group(0))
+
+            issues = []
+            for issue in root.findall(".//issue"):
+                issue_data = {
+                    "priority": issue.get("priority"),
+                    "confidence": int(issue.get("confidence", 0)),
+                    "title": issue.find("title").text
+                    if issue.find("title") is not None
+                    else "",
+                    "description": issue.find("description").text
+                    if issue.find("description") is not None
+                    else "",
+                    "typical_location": issue.find("typical_location").text
+                    if issue.find("typical_location") is not None
+                    else "",
+                    "legal_citations": [],
+                    "required_language": "",
+                    "recommended_actions": [],
+                }
+
+                # Legal citations
+                for ca_code in issue.findall(".//california_code"):
+                    citation = ca_code.find("citation")
+                    text = ca_code.find("text")
+                    if citation is not None:
+                        issue_data["legal_citations"].append(
                             {
-                                "category": category,
-                                "requirement": requirement,
-                                "severity": "potential_issue",
+                                "citation": citation.text,
+                                "text": text.text if text is not None else "",
                             }
                         )
 
-        # Check for outdated references
-        old_code_pattern = r"(Education Code|Ed\.? Code|EC).*?(20[0-1]\d|199\d)"
-        old_refs = re.findall(old_code_pattern, policy_content)
-        if old_refs:
-            compliance_issues.append(
+                # Required language
+                req_lang = issue.find(".//required_language/text")
+                if req_lang is not None:
+                    issue_data["required_language"] = req_lang.text
+
+                # Recommended actions
+                for action in issue.findall(".//recommended_action/option"):
+                    issue_data["recommended_actions"].append(
+                        {"type": action.get("type"), "description": action.text}
+                    )
+
+                issues.append(issue_data)
+
+            return {"issues": issues}
+
+        except Exception as e:
+            return {"error": f"Parse error: {e!s}", "raw": xml_response}
+
+    def save_results(self, policy_data, compliance_data):
+        """Save comprehensive results in multiple formats"""
+        code = policy_data["code"]
+
+        # Save full JSON data
+        json_file = self.output_dir / "json_data" / f"{code}.json"
+        with open(json_file, "w") as f:
+            json.dump(
                 {
-                    "category": "general",
-                    "requirement": "Updated legal references",
-                    "severity": "material",
-                    "details": f"Found outdated references: {old_refs}",
-                }
+                    "policy": policy_data,
+                    "compliance": compliance_data,
+                    "check_date": datetime.now().isoformat(),
+                },
+                f,
+                indent=2,
             )
 
-        # Check for missing legal references
-        if not re.search(r"(Education Code|Ed\.? Code|EC)", policy_content):
-            compliance_issues.append(
-                {
-                    "category": "general",
-                    "requirement": "Legal references",
-                    "severity": "material",
-                    "details": "No Education Code references found",
-                }
-            )
-
-        return {
-            "applicable_codes": applicable_codes,
-            "compliance_issues": compliance_issues,
-        }
-
-    def check_csba_best_practices(self, policy_content: str) -> Dict:
-        """Check alignment with CSBA best practices"""
-        best_practice_gaps = []
-
-        # Check policy structure
-        if not re.search(r"(Purpose|Intent|Philosophy)", policy_content, re.IGNORECASE):
-            best_practice_gaps.append(
-                {"area": "policy_structure", "gap": "Missing clear purpose statement"}
-            )
-
-        if not re.search(
-            r"(Legal Reference|Legal|Ref\.?:|Authority)", policy_content, re.IGNORECASE
-        ):
-            best_practice_gaps.append(
-                {"area": "policy_structure", "gap": "Missing legal references section"}
-            )
-
-        # Check for equity considerations
-        equity_keywords = [
-            "equity",
-            "equitable",
-            "inclusive",
-            "all students",
-            "regardless of",
+        # Extract material issues
+        material_issues = [
+            i
+            for i in compliance_data.get("issues", [])
+            if i.get("priority") == "MATERIAL"
         ]
-        if not any(keyword in policy_content.lower() for keyword in equity_keywords):
-            best_practice_gaps.append(
-                {
-                    "area": "equity_focus",
-                    "gap": "Limited equity language or considerations",
-                }
+
+        if material_issues:
+            # Track for summary
+            self.all_material_issues.append(
+                {"policy": policy_data, "issues": material_issues}
             )
 
-        # Check for monitoring/accountability
-        monitoring_keywords = [
-            "monitor",
-            "review",
-            "evaluate",
-            "report",
-            "data",
-            "measure",
-        ]
-        if not any(
-            keyword in policy_content.lower() for keyword in monitoring_keywords
-        ):
-            best_practice_gaps.append(
-                {
-                    "area": "accountability",
-                    "gap": "Missing monitoring or evaluation procedures",
-                }
-            )
-
-        return {"best_practice_gaps": best_practice_gaps}
-
-    def determine_material_noncompliance(
-        self, compliance_issues: List[Dict], best_practice_gaps: List[Dict]
-    ) -> Tuple[bool, List[str]]:
-        """Determine if issues constitute material non-compliance"""
-        material_issues = []
-
-        # Check compliance issues
-        for issue in compliance_issues:
-            if issue["severity"] == "material":
-                material_issues.append(
-                    f"Ed Code: {issue['requirement']} - {issue.get('details', '')}"
+            # Save material issues report
+            material_file = self.output_dir / "material_issues" / f"{code}_material.txt"
+            with open(material_file, "w") as f:
+                f.write("MATERIAL COMPLIANCE ISSUES\n")
+                f.write(f"Policy {code}: {policy_data['title']}\n")
+                f.write(
+                    f"Last Reviewed: {policy_data.get('last_reviewed', 'Unknown')}\n"
                 )
+                f.write("=" * 80 + "\n\n")
 
-        # Material non-compliance if:
-        # 1. Any material severity issues
-        # 2. Multiple potential issues in same category
-        # 3. Missing multiple key requirements
+                for issue in material_issues:
+                    f.write(f"{issue['title']} (Confidence: {issue['confidence']}%)\n")
+                    f.write(f"{issue['description']}\n\n")
 
-        category_issues = {}
-        for issue in compliance_issues:
-            cat = issue["category"]
-            if cat not in category_issues:
-                category_issues[cat] = 0
-            category_issues[cat] += 1
+                    if issue.get("legal_citations"):
+                        f.write("Legal Basis:\n")
+                        for cite in issue["legal_citations"]:
+                            f.write(f"- {cite['citation']}: {cite['text']}\n")
+                        f.write("\n")
 
-        for cat, count in category_issues.items():
-            if count >= 3:
-                material_issues.append(
-                    f"Multiple compliance gaps in {cat} requirements"
-                )
+                    if issue.get("required_language"):
+                        f.write("Required Language:\n")
+                        f.write(f"{issue['required_language']}\n\n")
 
-        is_material = len(material_issues) > 0
+                    f.write("-" * 40 + "\n\n")
 
-        return is_material, material_issues
+    def process_policy(self, file_path):
+        """Process a single policy with full context"""
+        print(f"\nProcessing: {file_path}")
 
-    def analyze_policy(self, policy: Dict) -> Dict:
-        """Analyze a single policy for compliance"""
-        policy_title = policy.get("title", "")
-        policy_content = policy.get("content", "")
-        policy_code = policy.get("code", "")
+        # Parse policy
+        policy_xml, code, title, last_reviewed = self.parse_policy_to_xml(file_path)
 
-        # Identify applicable categories
-        categories = self.identify_policy_category(policy_title, policy_content)
-
-        # Check Ed Code compliance
-        ed_code_results = self.check_ed_code_compliance(policy_content, categories)
-
-        # Check CSBA best practices
-        csba_results = self.check_csba_best_practices(policy_content)
-
-        # Determine material non-compliance
-        is_material, material_issues = self.determine_material_noncompliance(
-            ed_code_results["compliance_issues"], csba_results["best_practice_gaps"]
-        )
-
-        return {
-            "policy_code": policy_code,
-            "policy_title": policy_title,
-            "categories": categories,
-            "ed_code_compliance": ed_code_results,
-            "csba_alignment": csba_results,
-            "material_noncompliance": is_material,
-            "material_issues": material_issues,
-            "analysis_date": datetime.now().isoformat(),
-        }
-
-    def analyze_all_policies(
-        self, policies_file: str = "rcsd_policies.json"
-    ) -> List[Dict]:
-        """Analyze all policies from scraped data"""
-        try:
-            with open(policies_file, encoding="utf-8") as f:
-                policies = json.load(f)
-        except FileNotFoundError:
-            print(f"Policies file {policies_file} not found")
-            return []
-
-        results = []
-        material_noncompliance_policies = []
-
-        print(f"Analyzing {len(policies)} policies for compliance...")
-
-        for i, policy in enumerate(policies):
-            print(
-                f"Analyzing policy {i + 1}/{len(policies)}: {policy.get('title', 'Unknown')}"
-            )
-
-            analysis = self.analyze_policy(policy)
-            results.append(analysis)
-
-            if analysis["material_noncompliance"]:
-                material_noncompliance_policies.append(analysis)
-
+        # Extract cross-references
+        cross_refs = self.extract_cross_references(file_path)
         print(
-            f"\nAnalysis complete. Found {len(material_noncompliance_policies)} policies with material non-compliance issues."
+            f"  Found {len(cross_refs)} cross-references: {', '.join(sorted(cross_refs))}"
         )
 
-        return results, material_noncompliance_policies
+        # Find related policies
+        related = self.find_related_policies(code, cross_refs)
+        print(f"  Found {len(related)} related policies")
 
-    def generate_compliance_report(
-        self,
-        results: List[Dict],
-        material_issues: List[Dict],
-        output_file: str = "compliance_report.json",
-    ):
-        """Generate compliance report"""
-        report = {
-            "report_date": datetime.now().isoformat(),
-            "total_policies_analyzed": len(results),
-            "material_noncompliance_count": len(material_issues),
-            "summary": {
-                "policies_by_category": {},
-                "common_issues": {},
-                "material_noncompliance_policies": [],
-            },
-            "detailed_results": results,
-            "material_noncompliance_details": material_issues,
+        # Check compliance
+        response = self.check_compliance(
+            policy_xml, code, title, last_reviewed, related
+        )
+
+        # Parse response
+        compliance_data = self.parse_compliance_xml(response)
+
+        # Save results
+        policy_data = {
+            "code": code,
+            "title": title,
+            "type": "Policy" if "/policies/" in file_path else "Regulation",
+            "last_reviewed": last_reviewed,
+            "file_path": file_path,
+            "cross_references": cross_refs,
+            "related_policies": list(related.keys()),
         }
 
-        # Summarize by category
-        for result in results:
-            for cat in result["categories"]:
-                if cat not in report["summary"]["policies_by_category"]:
-                    report["summary"]["policies_by_category"][cat] = 0
-                report["summary"]["policies_by_category"][cat] += 1
+        self.save_results(policy_data, compliance_data)
 
-        # List material non-compliance policies
-        for issue in material_issues:
-            report["summary"]["material_noncompliance_policies"].append(
-                {
-                    "code": issue["policy_code"],
-                    "title": issue["policy_title"],
-                    "issues": issue["material_issues"],
-                }
+        # Report material issues
+        material_count = len(
+            [
+                i
+                for i in compliance_data.get("issues", [])
+                if i.get("priority") == "MATERIAL"
+            ]
+        )
+        print(f"  Material issues found: {material_count}")
+
+        return material_count
+
+    def generate_summary(self):
+        """Generate executive summary of all findings"""
+        summary_file = self.output_dir / "EXECUTIVE_SUMMARY.md"
+
+        with open(summary_file, "w") as f:
+            f.write("# RCSD Policy Compliance Check - Executive Summary\n\n")
+            f.write(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+
+            f.write("## Statistics\n\n")
+            f.write(f"- Total API calls made: {self.api_calls_made}\n")
+            f.write(f"- Cached responses used: {self.api_calls_cached}\n")
+            f.write(
+                f"- Policies with material issues: {len(self.all_material_issues)}\n"
             )
 
-        # Save report
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(report, f, indent=2)
+            total_issues = sum(len(p["issues"]) for p in self.all_material_issues)
+            f.write(f"- Total material issues found: {total_issues}\n\n")
 
-        # Also create Excel summary
-        self.create_excel_summary(material_issues)
+            if self.all_material_issues:
+                f.write("## Policies Requiring Immediate Attention\n\n")
 
-        return report
-
-    def create_excel_summary(
-        self,
-        material_issues: List[Dict],
-        filename: str = "material_noncompliance_summary.xlsx",
-    ):
-        """Create Excel summary of material non-compliance issues"""
-        if not material_issues:
-            print("No material non-compliance issues to report")
-            return
-
-        # Prepare data for Excel
-        summary_data = []
-        for issue in material_issues:
-            for material_issue in issue["material_issues"]:
-                summary_data.append(
-                    {
-                        "Policy Code": issue["policy_code"],
-                        "Policy Title": issue["policy_title"],
-                        "Issue": material_issue,
-                        "Categories": ", ".join(issue["categories"]),
-                    }
+                # Sort by number of issues
+                sorted_policies = sorted(
+                    self.all_material_issues,
+                    key=lambda x: len(x["issues"]),
+                    reverse=True,
                 )
 
-        df = pd.DataFrame(summary_data)
-        df.to_excel(filename, index=False)
-        print(f"Created Excel summary: {filename}")
+                for policy_issues in sorted_policies[:20]:  # Top 20
+                    policy = policy_issues["policy"]
+                    issues = policy_issues["issues"]
+
+                    f.write(f"### {policy['code']} - {policy['title']}\n")
+                    f.write(
+                        f"- Last reviewed: {policy.get('last_reviewed', 'Unknown')}\n"
+                    )
+                    f.write(f"- Material issues: {len(issues)}\n")
+                    f.write("- Issues:\n")
+
+                    for issue in issues:
+                        f.write(
+                            f"  - {issue['title']} ({issue['confidence']}% confidence)\n"
+                        )
+
+                    f.write("\n")
+
+                # Group by issue type
+                f.write("## Common Compliance Gaps\n\n")
+                issue_types = {}
+                for policy_issues in self.all_material_issues:
+                    for issue in policy_issues["issues"]:
+                        title = issue["title"]
+                        if title not in issue_types:
+                            issue_types[title] = []
+                        issue_types[title].append(policy_issues["policy"]["code"])
+
+                for issue_title, policies in sorted(
+                    issue_types.items(), key=lambda x: len(x[1]), reverse=True
+                )[:10]:
+                    f.write(f"- **{issue_title}** ({len(policies)} policies)\n")
+                    f.write(
+                        f"  - Affected policies: {', '.join(sorted(policies)[:10])}"
+                    )
+                    if len(policies) > 10:
+                        f.write(f" and {len(policies) - 10} more")
+                    f.write("\n")
+
+    def run_batch(self, max_policies=None):
+        """Run compliance check on all policies"""
+        print("Starting comprehensive compliance check...\n")
+
+        # Get all policy files
+        all_files = []
+        for subdir in ["policies", "regulations"]:
+            dir_path = Path("data/extracted") / subdir
+            if dir_path.exists():
+                all_files.extend(list(dir_path.glob("*.txt")))
+
+        if max_policies:
+            all_files = all_files[:max_policies]
+
+        print(f"Found {len(all_files)} policies/regulations to check\n")
+
+        # Process each
+        for i, file_path in enumerate(all_files):
+            print(f"[{i + 1}/{len(all_files)}]", end="")
+            self.process_policy(str(file_path))
+            time.sleep(1)  # Rate limiting
+
+        # Generate summary
+        print("\n\nGenerating executive summary...")
+        self.generate_summary()
+
+        print("\nCompliance check complete!")
+        print(f"Results saved to: {self.output_dir}/")
+        print(f"Executive summary: {self.output_dir}/EXECUTIVE_SUMMARY.md")
+
+
+def main():
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--max", type=int, help="Maximum policies to check")
+    parser.add_argument("--policy", help="Check single policy file")
+
+    args = parser.parse_args()
+
+    checker = ComplianceChecker()
+
+    if args.policy:
+        checker.process_policy(args.policy)
+    else:
+        checker.run_batch(max_policies=args.max)
 
 
 if __name__ == "__main__":
-    checker = PolicyComplianceChecker()
-    results, material_issues = checker.analyze_all_policies()
-
-    if results:
-        report = checker.generate_compliance_report(results, material_issues)
-        print("\nCompliance report generated: compliance_report.json")
-        print("Material non-compliance summary: material_noncompliance_summary.xlsx")
+    main()
