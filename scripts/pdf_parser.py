@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
-Final Fixed PDF Policy Parser for RCSD Policy Compliance Analyzer
-Correctly handles titles ending with numbers like "Section 504"
+PDF Policy Parser for RCSD Policy Compliance Analyzer
+- Handles full policy text without truncation
+- Properly finds disclaimer text regardless of position
+- Correctly parses cross-references in column format
+- Extracts all document types: Policies, Regulations, Exhibits, and Bylaws
 """
 
 import json
@@ -25,7 +28,7 @@ class PolicyDocument:
 
     code: str
     title: str
-    doc_type: str  # 'Policy', 'Regulation', 'Exhibit'
+    doc_type: str  # 'Policy', 'Regulation', 'Exhibit', 'Bylaw'
     status: str
     original_adopted_date: Optional[str]
     last_reviewed_date: Optional[str]
@@ -222,7 +225,7 @@ class PDFPolicyParser:
             if end_page is None:
                 end_page = len(pdf_doc)
 
-            # Extract text from relevant pages
+            # Extract text from relevant pages - NO LIMIT on number of pages
             full_text = ""
             pages = []
 
@@ -260,6 +263,7 @@ class PDFPolicyParser:
             r"^Policy\s+\d{4}.*?Status:",
             r"^Regulation\s+\d{4}.*?Status:",
             r"^Exhibit.*?\d{4}.*?Status:",
+            r"^Bylaw\s+\d{4}.*?Status:",
         ]
 
         for pattern in patterns:
@@ -300,7 +304,7 @@ class PDFPolicyParser:
         )
         main_content = self._clean_content(main_content)
 
-        # Extract references
+        # Extract references - pass full remaining text
         ref_text = full_text[ref_start:] if ref_start < len(full_text) else ""
         references = self._extract_references(ref_text)
 
@@ -323,18 +327,19 @@ class PDFPolicyParser:
         dates = {"original": None, "reviewed": None}
 
         date_pattern = re.compile(
-            r"(Original\s+Adopted\s+Date:|Last\s+Reviewed\s+Date:)\s*"
+            r"(Original\s+Adopted\s+Date:|Last\s+Reviewed\s+Date:|Last\s+Revised\s+Date:)\s*"
             r"(\d{1,2}/\d{1,2}/\d{4})",
             re.IGNORECASE,
         )
 
-        for match in date_pattern.finditer(text[:1000]):  # Check first 1000 chars
+        for match in date_pattern.finditer(text[:2000]):  # Check first 2000 chars
             date_type = match.group(1).lower()
             date_value = match.group(2)
 
             if "original" in date_type:
                 dates["original"] = date_value
-            elif "reviewed" in date_type:
+            elif "reviewed" in date_type or "revised" in date_type:
+                # Use the most recent of reviewed/revised
                 dates["reviewed"] = date_value
 
         return dates
@@ -343,48 +348,60 @@ class PDFPolicyParser:
         """Find where the main content starts"""
         content_start = 0
 
-        # Skip the header disclaimer if present
-        header_disclaimer = re.search(r"^Policy Reference Disclaimer:\s*\n", text)
-        if header_disclaimer:
-            content_start = header_disclaimer.end()
-
         # Try different patterns to find end of header
         patterns = [
             # Handle dates with | separator or newline
             r"Last\s+Reviewed\s+Date:\s*\d{1,2}/\d{1,2}/\d{4}\s*(?:\||\n)",
+            r"Last\s+Revised\s+Date:\s*\d{1,2}/\d{1,2}/\d{4}\s*(?:\||\n)",
             r"Original\s+Adopted\s+Date:\s*\d{1,2}/\d{1,2}/\d{4}\s*\|\s*Last\s+Reviewed\s+Date:\s*\d{1,2}/\d{1,2}/\d{4}\s*\n",
             r"Status:\s*\w+\s*\n",
             rf"{doc_type}\s+{re.escape(code)}.*?\n\n",
         ]
 
         for pattern in patterns:
-            match = re.search(pattern, text[content_start:2000], re.IGNORECASE)
+            match = re.search(pattern, text[content_start:3000], re.IGNORECASE)
             if match and (match.end() + content_start) > content_start:
                 content_start = match.end() + content_start
 
         return content_start
 
     def _find_references_start(self, text: str) -> int:
-        """Find where references section starts"""
+        """Find where references section starts - search entire document"""
         ref_start = len(text)
 
-        # Look for reference section markers - but skip the header disclaimer
-        markers = [
-            # More specific pattern to avoid matching header
-            r"These references are not intended to be part of the policy itself",
-            r"State\s+Description",
-            r"Federal\s+Description",
-            r"Management\s+Resources\s+Description",
-        ]
-
-        for marker in markers:
-            match = re.search(
-                marker, text[1000:], re.IGNORECASE
-            )  # Skip first 1000 chars
-            if match:
-                potential_start = match.start() + 1000
-                if potential_start < ref_start:
-                    ref_start = potential_start
+        # Look for the policy disclaimer text - it marks the start of references
+        disclaimer_match = re.search(
+            r"Policy Reference Disclaimer:\s*These references are not intended to be part of the policy itself",
+            text,
+            re.IGNORECASE
+        )
+        
+        if disclaimer_match:
+            ref_start = disclaimer_match.start()
+        else:
+            # Fallback: look for reference section headers
+            markers = [
+                r"\nState\s+Description",
+                r"\nFederal\s+Description",
+                r"\nManagement\s+Resources\s+Description",
+                r"\nCross\s+References\s+Description",
+            ]
+            
+            for marker in markers:
+                match = re.search(marker, text, re.IGNORECASE)
+                if match and match.start() < ref_start:
+                    # Back up to find the disclaimer if it exists
+                    # Look back up to 500 chars for the disclaimer
+                    search_start = max(0, match.start() - 500)
+                    disclaimer_before = re.search(
+                        r"Policy Reference Disclaimer:",
+                        text[search_start:match.start()],
+                        re.IGNORECASE
+                    )
+                    if disclaimer_before:
+                        ref_start = search_start + disclaimer_before.start()
+                    else:
+                        ref_start = match.start()
 
         return ref_start
 
@@ -400,11 +417,16 @@ class PDFPolicyParser:
         # Remove header/footer artifacts
         content = re.sub(r"^RCSD.*?$", "", content, flags=re.MULTILINE)
         content = re.sub(r"^Page \d+ of \d+$", "", content, flags=re.MULTILINE)
+        
+        # Remove "Board Policy Manual" and "Policy Reference Disclaimer:" lines
+        content = re.sub(r"^Board Policy Manual\s*$", "", content, flags=re.MULTILINE)
+        content = re.sub(r"^Redwood City School District\s*$", "", content, flags=re.MULTILINE)
+        content = re.sub(r"^Policy Reference Disclaimer:\s*$", "", content, flags=re.MULTILINE)
 
         return content.strip()
 
     def _extract_references(self, ref_text: str) -> Dict[str, List[str]]:
-        """Extract and categorize references"""
+        """Extract and categorize references from the full reference text"""
         references = {
             "state": [],
             "federal": [],
@@ -415,25 +437,33 @@ class PDFPolicyParser:
         if not ref_text:
             return references
 
-        # Split by reference type sections
+        # Remove the disclaimer paragraph to clean up the text
+        ref_text = re.sub(
+            r"Policy Reference Disclaimer:.*?of the policy\.\s*",
+            "",
+            ref_text,
+            flags=re.DOTALL | re.IGNORECASE
+        )
+
+        # Split by reference type sections - look for column headers
         sections = {
             "state": re.search(
-                r"State\s+(?:References|Description)(.*?)(?=Federal|Management|Cross|$)",
+                r"State\s+Description(.*?)(?=Federal\s+Description|Management\s+Resources|Cross\s+References|$)",
                 ref_text,
                 re.IGNORECASE | re.DOTALL,
             ),
             "federal": re.search(
-                r"Federal\s+(?:References|Description)(.*?)(?=State|Management|Cross|$)",
+                r"Federal\s+Description(.*?)(?=State\s+Description|Management\s+Resources|Cross\s+References|$)",
                 ref_text,
                 re.IGNORECASE | re.DOTALL,
             ),
             "management": re.search(
-                r"Management\s+Resources?\s*(?:Description)?(.*?)(?=State|Federal|Cross|$)",
+                r"Management\s+Resources\s+Description(.*?)(?=State\s+Description|Federal\s+Description|Cross\s+References|$)",
                 ref_text,
                 re.IGNORECASE | re.DOTALL,
             ),
             "cross_references": re.search(
-                r"Cross\s+References?(.*?)(?=State|Federal|Management|$)",
+                r"Cross\s+References\s+Description(.*?)$",
                 ref_text,
                 re.IGNORECASE | re.DOTALL,
             ),
@@ -453,20 +483,68 @@ class PDFPolicyParser:
         refs = []
 
         if ref_type == "cross_references":
-            # Pattern for cross references like "0415 (Equity)"
-            pattern = re.compile(r"(\d{4}(?:\.\d+)?)\s*\(([^)]+)\)")
-            for match in pattern.finditer(section_text):
-                refs.append(f"{match.group(1)} ({match.group(2)})")
-        else:
-            # Split by common delimiters and clean
+            # Parse cross references in column format
+            # Pattern: policy number at start of line, followed by description
             lines = section_text.split("\n")
+            
+            for i, line in enumerate(lines):
+                line = line.strip()
+                if not line:
+                    continue
+                    
+                # Skip page numbers and headers
+                if re.match(r"^\d+$", line) or line.lower() in ["cross references", "description"]:
+                    continue
+                    
+                # Check if line starts with a policy number
+                policy_match = re.match(r"^(\d{4}(?:\.\d+)?)\s+(.+)$", line)
+                if policy_match:
+                    policy_num = policy_match.group(1)
+                    description = policy_match.group(2).strip()
+                    
+                    # Check if description continues on next line (happens with long titles)
+                    if i + 1 < len(lines):
+                        next_line = lines[i + 1].strip()
+                        # If next line doesn't start with a policy number and isn't empty
+                        if next_line and not re.match(r"^\d{4}(?:\.\d+)?", next_line) and not re.match(r"^\d+$", next_line):
+                            description += " " + next_line
+                    
+                    refs.append(f"{policy_num} - {description}")
+                elif line and not re.match(r"^\d{4}(?:\.\d+)?", line):
+                    # This might be a standalone policy number on previous line
+                    if i > 0:
+                        prev_line = lines[i - 1].strip()
+                        if re.match(r"^\d{4}(?:\.\d+)?$", prev_line):
+                            refs.append(f"{prev_line} - {line}")
+                    
+        else:
+            # For state/federal/management resources
+            lines = section_text.split("\n")
+            current_ref = ""
+            
             for line in lines:
                 line = line.strip()
-                if line and not line.lower().startswith(("description", "references")):
-                    # Remove leading dashes or bullets
-                    line = re.sub(r"^[-•]\s*", "", line)
-                    if line:
-                        refs.append(line)
+                if not line:
+                    continue
+                    
+                # Skip header rows
+                if line.lower() in ["state", "federal", "management resources", "description"]:
+                    continue
+                    
+                # Check if this looks like a code/statute reference at start of line
+                if re.match(r"^[\w\s\.\-]+\d+", line):
+                    # Save previous reference if exists
+                    if current_ref:
+                        refs.append(current_ref)
+                    current_ref = line
+                else:
+                    # This is a continuation/description
+                    if current_ref:
+                        current_ref += " - " + line
+                    
+            # Don't forget the last reference
+            if current_ref:
+                refs.append(current_ref)
 
         return refs
 
@@ -574,8 +652,8 @@ def main():
     parser = PDFPolicyParser()
 
     # Process all PDF files in the policies directory
-    pdf_dir = "policies"
-    output_dir = "extracted_policies_reparsed"
+    pdf_dir = "data/source/pdfs"
+    output_dir = "data/extracted"
 
     if not os.path.exists(pdf_dir):
         logger.error(f"PDF directory '{pdf_dir}' not found!")
