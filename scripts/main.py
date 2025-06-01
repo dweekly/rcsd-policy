@@ -38,7 +38,7 @@ Examples:
     )
     parser.add_argument(
         "--output-dir",
-        default="extracted_policies",
+        default="data/extracted",
         help="Output directory for extracted policies",
     )
     parser.add_argument(
