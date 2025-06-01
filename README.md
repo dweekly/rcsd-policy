@@ -166,7 +166,6 @@ rcsd-policy/
 │   ├── pdf_parser.py               # PDF extraction engine with full text and cross-reference support
 │   ├── compliance_checker.py       # Compliance analysis using Claude AI with caching
 │   ├── check_cross_references.py   # Validates cross-references, finds missing policies
-│   ├── policy_researcher.py        # Research and analysis utilities
 │   ├── run_compliance_check_batched.py    # Batch compliance checking (20 docs at a time)
 │   └── run_compliance_check_resumable.py  # Resumable compliance checking
 │

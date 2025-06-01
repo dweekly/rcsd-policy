@@ -35,7 +35,6 @@ This project is a PDF-based policy extraction and analysis system for the Redwoo
 - `pdf_parser.py` - PDF extraction engine with full text and cross-reference parsing
 - `compliance_checker.py` - Compliance analysis using Claude AI with caching and cross-reference support
 - `check_cross_references.py` - Validates policy cross-references and finds missing documents
-- `policy_researcher.py` - Research tools for policy analysis
 - `run_compliance_check_resumable.py` - Batch compliance checking with resume capability
 - `run_compliance_check_batched.py` - Batch compliance checking in 20-document chunks
 
