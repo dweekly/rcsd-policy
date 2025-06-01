@@ -37,45 +37,42 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35010
-  - Control of district; prescription and enforcement of rules
-  - Ed. Code 35024
-  - Executive committee
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 54952
-  - Legislative body; definition
-  - Gov. Code 54952.2
-  - Meeting; defined
-  - Gov. Code 54954
-  - Time and place of regular meetings
-  - Gov. Code 54954.3
-  - Opportunity for public to address legislative body
-  - Gov. Code 54957
-  - Complaints against employees; right to open session
+  - Ed. Code 35010 - Control of district; prescription and enforcement of rules
+  - Ed. Code 35024 - Executive committee
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 54952 - Legislative body; definition
+  - Gov. Code 54952.2 - Meeting; defined
+  - Gov. Code 54954 - Time and place of regular meetings
+  - Gov. Code 54954.3 - Opportunity for public to address legislative body
+  - Gov. Code 54957 - Complaints against employees; right to open session
 
 Management Resources:
-  - Attorney General Opinion
-  - 79 Ops.Cal.Atty.Gen. 69 (1996)
-  - Attorney General Opinion
-  - 80 Ops.Cal.Atty.Gen. 308 (1997)
-  - Board Policy Manual
-  - Redwood City School District
-  - 22
-  - Attorney General Opinion
-  - 81 Ops.Cal.Atty.Gen. 156 (1998)
-  - Court Decision
-  - Frazer v. Dixon Unified School District (1993) 18 Cal.App.4th 781
-  - CSBA Publication
-  - The Brown Act: School Boards and Open Meeting Laws, rev. 2023
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National School Boards Association
-  - Website
-  - CSBA
-  - Management Resources
+  - 79 Ops.Cal.Atty.Gen. 69 (1996) - Attorney General Opinion
+  - 80 Ops.Cal.Atty.Gen. 308 (1997) - Board Policy Manual - Redwood City School District
+  - 22 - Attorney General Opinion
+  - 81 Ops.Cal.Atty.Gen. 156 (1998) - Court Decision - Frazer v. Dixon Unified School District (1993) 18 Cal.App.4th 781 - CSBA Publication - The Brown Act: School Boards and Open Meeting Laws, rev. 2023 - Website - CSBA District and County Office of Education Legal Services - Website - National School Boards Association - Website - CSBA
+
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 2230 - Representative And Deliberative Groups
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 9121 - President
+  - 9140 - Board Representatives
+  - 9223 - Filling Vacancies
+  - 9310 - Board Policies
+  - 9320 - Meetings And Notices
+  - 9322 - Agenda/Meeting Materials
+  - 9323 - Meeting Conduct

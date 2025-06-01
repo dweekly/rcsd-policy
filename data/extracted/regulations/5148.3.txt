@@ -55,8 +55,7 @@ disabilities, including, but not limited to, contact information for the distric
  
 3. Referrals to providers of adult education and instruction in English as a second language as necessary to
 improve parents/guardians' academic skills
-Board Policy Manual
-Redwood City School District
+
 
 4. Staff development for teachers in participating classrooms that includes, but is not limited to:
  
@@ -162,7 +161,7 @@ When necessary due to a reduction in state reimbursements, families shall be dis
 followed by children age 4 years whose families have the highest income in relation to family size.
 At each age level, if two or more families have the same income ranking, the child with disabilities shall be
 
-Policy Reference Disclaimer:
+
 disenrolled last. If there are no families that have a child with disabilities, the child who has received services
 the longest shall be disenrolled first.
  
@@ -174,104 +173,117 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 22 CCR 101151-101191
-  - Licensing and application procedures
-  - 22 CCR 101151-101239.2
-  - General requirements; licensed child care centers
-  - 22 CCR 101212-101231
-  - Continuing requirements
-  - 22 CCR 101237-101239.2
-  - Facilities and equipment
-  - 5 CCR 14001-14036
-  - School housing
-  - 5 CCR 17700-17833
-  - California State Preschool Program
-  - 5 CCR 17701-17711
-  - General program requirements
-  - 5 CCR 17745
-  - Admission requirements; residency
-  - 5 CCR 17746-17748
-  - Enrollment priorities
-  - 5 CCR 18295
-  - Waiver of qualifications for site supervisor
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - 5 CCR 4690-4694
-  - Complaints regarding health and safety issues in license-exempt preschool
-  - programs
+  - 22 CCR 101151-101191 - Licensing and application procedures
+  - 22 CCR 101151-101239.2 - General requirements; licensed child care centers
+  - 22 CCR 101212-101231 - Continuing requirements
+  - 22 CCR 101237-101239.2 - Facilities and equipment
+  - 5 CCR 14001-14036 - School housing
+  - 5 CCR 17700-17833 - California State Preschool Program
+  - 5 CCR 17701-17711 - General program requirements
+  - 5 CCR 17745 - Admission requirements; residency
+  - 5 CCR 17746-17748 - Enrollment priorities
+  - 5 CCR 18295 - Waiver of qualifications for site supervisor
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - 5 CCR 4690-4694 - Complaints regarding health and safety issues in license-exempt preschool - programs
   - 5 CCR 80067-80067.3
-  - Prekindergarten-3 Early Childhood Education Specialist Instruction
-  - Credential
-  - 5 CCR 80105-80125
-  - Commission on Teacher Credentialing; child care and development permits
-  - Ed. Code 17375
-  - California Preschool, Transitional Kindergarten, and Full-Day Kindergarten
-  - Facilities Grant Program
-  - Ed. Code 44065
-  - Issuance of and functions requiring credentials
-  - Ed. Code 44256
-  - Authorization for teaching credentials
-  - Ed. Code 48000-48003
-  - Kindergartens
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 60910
-  - Data for students enrolled in California State Preschool Program
-  - Ed. Code 69617
-  - Golden State Teacher Grant Program
-  - Ed. Code 8200-8340
-  - California State Preschool Program
-  - Ed. Code 8489-8489.1
-  - Expulsion and suspension procedures
-  - H&S Code 120325-120380
-  - Immunization against communicable diseases
-  - H&S Code 1596.70-1596.895
-  - California Child Day Care Act
-  - H&S Code 1596.90-1597.21
-  - Day care centers
-  - W&I Code 10207-10215
-  - General provisions
-  - W&I Code 10207-10492.2
-  - Child Care and Development Services Act
-  - W&I Code 10217-10224.5
-  - Resource and referral programs
-  - W&I Code 10225-10234
-  - Alternative payment programs
-  - W&I Code 10235-10238
-  - Migrant child care and development programs
-  - W&I Code 10240-10243
-  - General child care and development programs
-  - 499
-  - W&I Code 10250-10252
-  - Family child care home education networks
-  - W&I Code 10260-10263
-  - Child care and development services for children with special needs
-  - W&I Code 10480-10487
-  - Local planning councils
-  - State
+  - Prekindergarten-3 Early Childhood Education Specialist Instruction - Credential
+  - 5 CCR 80105-80125 - Commission on Teacher Credentialing; child care and development permits
+  - Ed. Code 17375 - California Preschool, Transitional Kindergarten, and Full-Day Kindergarten - Facilities Grant Program
+  - Ed. Code 44065 - Issuance of and functions requiring credentials
+  - Ed. Code 44256 - Authorization for teaching credentials
+  - Ed. Code 48000-48003 - Kindergartens
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 60910 - Data for students enrolled in California State Preschool Program
+  - Ed. Code 69617 - Golden State Teacher Grant Program
+  - Ed. Code 8200-8340 - California State Preschool Program
+  - Ed. Code 8489-8489.1 - Expulsion and suspension procedures - H&S Code 120325-120380 - Immunization against communicable diseases - H&S Code 1596.70-1596.895 - California Child Day Care Act - H&S Code 1596.90-1597.21 - Day care centers - W&I Code 10207-10215 - General provisions - W&I Code 10207-10492.2 - Child Care and Development Services Act - W&I Code 10217-10224.5 - Resource and referral programs - W&I Code 10225-10234 - Alternative payment programs - W&I Code 10235-10238 - Migrant child care and development programs - W&I Code 10240-10243 - General child care and development programs
+  - 499 - W&I Code 10250-10252 - Family child care home education networks - W&I Code 10260-10263 - Child care and development services for children with special needs - W&I Code 10480-10487 - Local planning councils
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 20 USC 6311-6322
-  - Title I, relative to preschool
-  - 20 USC 6391-6399
-  - Education of migratory children
-  - 42 USC 9831-9852c
-  - Head Start programs
-  - 42 USC 9857-9858r
-  - Child Care and Development Block Grant
-  - 45 CFR 1301.1-1305.2
-  - Head Start
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 20 USC 6311-6322 - Title I, relative to preschool
+  - 20 USC 6391-6399 - Education of migratory children
+  - 42 USC 9831-9852c - Head Start programs
+  - 42 USC 9857-9858r - Child Care and Development Block Grant
+  - 45 CFR 1301.1-1305.2 - Head Start
 
 Management Resources:
-  - CA Commission on Teacher Credentialing
-  - Publication
-  - Approval of Regulations Authorizing the New PK-3 Early Childhood
-  - Education Specialist Instruction Credential, Coded Correspondence 24-03,
-  - March 2024
-  - California Department of Education Publication
-  - Assessment and Reporting of Family Fees for Fiscal Year (FY) 2024-25,
-  - Early Education Division Management Bulletin 24-06, June 2024
-  - California Department of Education Publication
-  - California
+  - Approval of Regulations Authorizing the New PK-3 Early Childhood - Education Specialist Instruction Credential, Coded Correspondence 24-03,
+  - March 2024 - California Department of Education Publication - Assessment and Reporting of Family Fees for Fiscal Year (FY) 2024-25,
+  - Early Education Division Management Bulletin 24-06, June 2024 - California Department of Education Publication - California State Preschool Program Neighborhood School Eligibility Criteria - to Enroll Three- and Four-Year-Old Children, Early Education Division
+  - Management Bulletin 24-01, January 2024 - California Department of Education Publication - Preschool/Transitional Kindergarten Learning Foundations, Early Education
+  - Division Management Bulletin 24-07, August 2024 - California Department of Education Publication - Data Collection for California State Preschool Programs Operated by a - Local Educational Agency, Early Education Division Management Bulletin
+  - 24-08, August 2024 - California Department of Education Publication - Early Childhood Division Federal Program Monitoring Instrument - California Department of Education Publication - California State Preschool Program and Children with Disabilities - (Exceptional Needs), Early Education Division Management Bulletin 23-02,
+  - February 2023 - California Department of Education Publication - Part-day California State Preschool Program as an Extended Learning and - Care Option, Early Education Division Management Bulletin 23-05, April
+  - 2023 - California Department of Education Publication - Suspension and Expulsion in the California State Preschool Program, Early
+  - Education Division Management Bulletin 23-08, September 2023 - California Department of Education Publication - Preschool English Learners: Principles and Practices to Promote Language, - Literacy, and Learning, 2nd ed., 2009 - California Department of Education Publication - Implementation of the Classroom Assessment Scoring System (CLASS) and - CLASS Environment and Removal of the Environment Rating Scale for the - California State Preschool Program (CSPP), Early Education Division
+  - Management Bulletin 23-10, December 2023 - California Department of Education Publication - California Preschool Learning Foundations - California Department of Education Publication - First Class: A Guide for Early Primary Education, 1999 - CSBA Publication - The Importance of Early Childhood Education Programs, September 2019 - CSBA Publication - The Preschool Landscape in California and Strategies for Expansion, January
+  - 2020 - U.S. Department of Education Publication - Policy Statement on Expulsion and Suspension Policies in Early Childhood - Settings, 2016
+  - 500 - Website - Universal PreKindergarten, California’s Great Start - Website - California Office of Administrative Law - Website - California County Superintendents Educational Services Association - Website - CSBA District and County Office of Education Legal Services - Website - California Commission on Teacher Credentialing - Website - National Institute for Early Education Research - Website - California Association for the Education of Young Children - Website - California Head Start Association - Website - California Preschool Instructional Network - Website - Child Development Policy Institute - Website
+  - First 5 California - Website - California Department of Social Services - Website - Cities Counties and Schools Partnership - Website - CSBA - Website - California Department of Education - Website - U.S. Department of Education
+
+Cross References:
+  - 0415 - Equity
+  - 0415 - Equity
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3541 - Transportation Routes And Services
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.4 - Health Examinations
+  - 4112.5 - Criminal Record Check
+  - 4112.6 - Personnel Files
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5030 - Student Wellness
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.6 - School Health Services
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.6 - Parent/Guardian Notifications
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program

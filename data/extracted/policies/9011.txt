@@ -38,48 +38,47 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35010
-  - Control of district; prescription and enforcement of rules
-  - Ed. Code 35146
-  - Closed sessions regarding suspensions
-  - Evid. Code 1040
-  - Privilege for official information
-  - Gov. Code 1098
-  - Disclosure of confidential information
-  - Gov. Code 3549.1
-  - Meeting and negotiating in public educational employment
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 54956.8
-  - Open meeting laws
-  - Gov. Code 54956.9
-  - Closed meeting for pending litigation
-  - Gov. Code 54957
-  - Complaints against employees; right to open session
-  - Gov. Code 54957.1
-  - Subsequent public report and rollcall vote; employee matters in closed
-  - session
-  - Gov. Code 54957.5
-  - Public records
-  - Gov. Code 54957.6
-  - Closed session; representatives with employee organization
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 35010 - Control of district; prescription and enforcement of rules
+  - Ed. Code 35146 - Closed sessions regarding suspensions
+  - Evid. Code 1040 - Privilege for official information
+  - Gov. Code 1098 - Disclosure of confidential information
+  - Gov. Code 3549.1 - Meeting and negotiating in public educational employment
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 54956.8 - Open meeting laws
+  - Gov. Code 54956.9 - Closed meeting for pending litigation
+  - Gov. Code 54957 - Complaints against employees; right to open session
+  - Gov. Code 54957.1 - Subsequent public report and rollcall vote; employee matters in closed - session
+  - Gov. Code 54957.5 - Public records
+  - Gov. Code 54957.6 - Closed session; representatives with employee organization - Board Policy Manual - Redwood City School District
   - 11
-  - Gov. Code 54957.7
-  - Reasons for closed session
-  - Gov. Code 54963
-  - Unauthorized disclosure of confidential information
-  - Gov. Code 7920.000-7930.170
-  - California Public Records Act
-  - State
+  - Gov. Code 54957.7 - Reasons for closed session
+  - Gov. Code 54963 - Unauthorized disclosure of confidential information
+  - Gov. Code 7920.000-7930.170 - California Public Records Act
 
 Management Resources:
-  - Attorney General Opinion
-  - 80 Ops.Cal.Atty.Gen. 231 (1997)
-  - CSBA Publication
-  - Professional Governance Standards
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+  - 80 Ops.Cal.Atty.Gen. 231 (1997) - CSBA Publication - Professional Governance Standards - Website - CSBA District and County Office of Education Legal Services - Website - CSBA
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1100 - Communication With The Public
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2120 - Superintendent Recruitment And Selection
+  - 2121 - Superintendent's Contract
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.5 - Criminal Record Check
+  - 4112.6 - Personnel Files
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9010 - Public Statements
+  - 9200 - Limits Of Board Member Authority
+  - 9230 - Orientation

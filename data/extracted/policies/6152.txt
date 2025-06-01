@@ -33,31 +33,28 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 4600-4687
-  - Uniform complaint procedures and Williams complaints
-  - Ed. Code 35020
-  - Duties of employees fixed by governing board
-  - Ed. Code 35160
-  - Authority of governing boards
+  - 5 CCR 4600-4687 - Uniform complaint procedures and Williams complaints
+  - Ed. Code 35020 - Duties of employees fixed by governing board
+  - Ed. Code 35160 - Authority of governing boards
   - Ed. Code 51224.7
   - California Mathematics Placement Act of 2015
-  - Ed. Code 51228.1
-  - Assignment to courses without educational content; grades 9-12
-  - Ed. Code 51228.2
-  - Assignment to courses previously completed; grades 9-12
-  - Ed. Code 51228.3
-  - Uniform complaint procedures; noncompliance with assignment limitations
+  - Ed. Code 51228.1 - Assignment to courses without educational content; grades 9-12
+  - Ed. Code 51228.2 - Assignment to courses previously completed; grades 9-12
+  - Ed. Code 51228.3 - Uniform complaint procedures; noncompliance with assignment limitations
   - for grades 9-12
-  - Ed. Code 51705-51879.9
-  - Authorized classes and courses of instruction
-  - H&S Code 1374.58
-  - Coverage for registered domestic partners; health service plans and health
-  - insurers
+  - Ed. Code 51705-51879.9 - Authorized classes and courses of instruction - H&S Code 1374.58 - Coverage for registered domestic partners; health service plans and health - insurers
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Association for the Education of Young Children
-  - Website
-  - California Department of Education, Curriculum and Instruction Resources
+Cross References:
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 6151 - Class Size
+  - 6151 - Class Size
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6162.5 - Student Assessment
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

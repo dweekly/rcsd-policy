@@ -49,8 +49,7 @@ course, as authorized by Education Code 51749.5, shall not be considered funds o
 46300.6, 51747.3)
 Eligibility for Independent Study
 To participate in independent study, a student shall be enrolled in a district school. (Education Code 51748)
-Board Policy Manual
-Redwood City School District
+
 
 The Superintendent or designee may approve the participation of a student who demonstrates the motivation, commitment,
 organizational skills, and academic skills necessary to work independently provided that experienced certificated staff are
@@ -103,8 +102,7 @@ regularly supervised by another administrator
  
 3. Facilitating the completion of written independent study agreements
 
-Policy Reference Disclaimer:
- 
+
 4. Ensuring a smooth transition for students into and out of the independent study mode of instruction
  
 5. Approving all credits earned through independent study
@@ -150,85 +148,96 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11700-11705
-  - Independent study
-  - Ed. Code 147610-47615
-  - Charter School Operation
-  - Ed. Code 17289
-  - Exemption for facilities
-  - Ed. Code 41020
-  - Requirement for annual audit
-  - Ed. Code 41422
-  - Emergency conditions and apportionments
-  - Ed. Code 42238
-  - Revenue limits
-  - Ed. Code 42238.05
-  - Local control funding formula; average daily attendance
+  - 5 CCR 11700-11705 - Independent study
+  - Ed. Code 147610-47615 - Charter School Operation
+  - Ed. Code 17289 - Exemption for facilities
+  - Ed. Code 41020 - Requirement for annual audit
+  - Ed. Code 41422 - Emergency conditions and apportionments
+  - Ed. Code 42238 - Revenue limits
+  - Ed. Code 42238.05 - Local control funding formula; average daily attendance
   - 143
-  - Ed. Code 44865
-  - Qualifications for independent study teachers
-  - Ed. Code 46100
-  - Length of school day
-  - Ed. Code 46200-46208
-  - Incentives for longer instructional day and year
-  - Ed. Code 46300-46307.1
-  - Methods of computing average daily attendance
-  - Ed. Code 46390-46393
-  - Emergency average daily attendance
-  - Ed. Code 46600
-  - Interdistrict attendance computation
-  - Ed. Code 47612.5
-  - Charter schools operations; general requirements
-  - Ed. Code 48204
-  - Residency requirements for school attendance
-  - Ed. Code 48206.3
-  - Home or hospital instruction; students with temporary disabilities
-  - Ed. Code 48220
-  - Classes of children exempted
-  - Ed. Code 48340
-  - Improvement of pupil attendance
-  - Ed. Code 48915
-  - Expulsion; particular circumstances
-  - Ed. Code 48916.1
-  - Educational program requirements for expelled students
-  - Ed. Code 48917
-  - Suspension of expulsion order
-  - Ed. Code 49010
-  - Educational activity; definition
-  - Ed. Code 49011
-  - Student fees; definition
-  - Ed. Code 49501.5
-  - School Meals
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 51744-51749.6
-  - Independent study
-  - Ed. Code 52060
-  - Local control and accountability plan
-  - Ed. Code 52523
-  - Adult education as supplement to high school curriculum; criteria
-  - Ed. Code 56026
-  - Individual with exceptional needs; definition
-  - Ed. Code 58500-58512
-  - Alternative schools and programs of choice
-  - Fam. Code 6550-6552
-  - Caregivers
-  - State
+  - Ed. Code 44865 - Qualifications for independent study teachers
+  - Ed. Code 46100 - Length of school day
+  - Ed. Code 46200-46208 - Incentives for longer instructional day and year
+  - Ed. Code 46300-46307.1 - Methods of computing average daily attendance
+  - Ed. Code 46390-46393 - Emergency average daily attendance
+  - Ed. Code 46600 - Interdistrict attendance computation
+  - Ed. Code 47612.5 - Charter schools operations; general requirements
+  - Ed. Code 48204 - Residency requirements for school attendance
+  - Ed. Code 48206.3 - Home or hospital instruction; students with temporary disabilities
+  - Ed. Code 48220 - Classes of children exempted
+  - Ed. Code 48340 - Improvement of pupil attendance
+  - Ed. Code 48915 - Expulsion; particular circumstances
+  - Ed. Code 48916.1 - Educational program requirements for expelled students
+  - Ed. Code 48917 - Suspension of expulsion order
+  - Ed. Code 49010 - Educational activity; definition
+  - Ed. Code 49011 - Student fees; definition
+  - Ed. Code 49501.5 - School Meals
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 51744-51749.6 - Independent study
+  - Ed. Code 52060 - Local control and accountability plan
+  - Ed. Code 52523 - Adult education as supplement to high school curriculum; criteria
+  - Ed. Code 56026 - Individual with exceptional needs; definition
+  - Ed. Code 58500-58512 - Alternative schools and programs of choice
+  - Fam. Code 6550-6552 - Caregivers
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
 
 Management Resources:
-  - California Department of Education Publication
-  - Legal Requirements for Independent Study
-  - California Department of Education Publication
-  - Conducting Individualized Determinations of Need
-  - California Department of Education Publication
-  - California Digital Learning Integration and Standards Guidance, May 2021
-  - California Department of Education Publication
-  - Elements of Exemplary Independent Study
-  - Court Decision
-  - Modesto City Schools v. Education Audits Appeal Panel (2004) 123
-  - Cal.App.4th 1365
-  - Education Audit Appeals Panel Publication
-  - Guide for Annual Audits of K-12 Local Education Agencies and
+  - Cal.App.4th 1365 - Education Audit Appeals Panel Publication
+  - Guide for Annual Audits of K-12 Local Education Agencies and State - Compliance Reporting - Website - CSBA District and County Office of Education Legal Services - Website - California Consortium for Independent Study - Website - California Department of Education, Independent Study - Website - Education Audit Appeals Panel
+  - 144
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3516.5 - Emergency Schedules
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.6 - Parent/Guardian Notifications
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5147 - Dropout Prevention
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6111 - School Calendar
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6152 - Class Assignment
+  - 6162.5 - Student Assessment
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6172 - Gifted And Talented Student Program
+  - 6183 - Home And Hospital Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

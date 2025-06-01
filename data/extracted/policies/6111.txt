@@ -27,29 +27,47 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 37200
-  - School calendar
-  - Ed. Code 37220-37223
-  - Holidays
-  - Ed. Code 37618
-  - School calendar
-  - Ed. Code 37670-37672
-  - Continuous school programs: year-round schools
-  - Ed. Code 37700-37711
-  - Four-day week
-  - Ed. Code 41420
-  - Apportionment withholding; schools not maintained for 175 days
-  - Ed. Code 42238.02
-  - Local Control Funding Formula
-  - Ed. Code 46200-46208
-  - Incentives for longer instructional day and year
-  - Ed. Code 46300
-  - Method of computing average daily attendance
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Elec. Code 12283
-  - School closures; election days
+  - Ed. Code 37200 - School calendar
+  - Ed. Code 37220-37223 - Holidays
+  - Ed. Code 37618 - School calendar
+  - Ed. Code 37670-37672 - Continuous school programs: year-round schools
+  - Ed. Code 37700-37711 - Four-day week
+  - Ed. Code 41420 - Apportionment withholding; schools not maintained for 175 days
+  - Ed. Code 42238.02 - Local Control Funding Formula
+  - Ed. Code 46200-46208 - Incentives for longer instructional day and year
+  - Ed. Code 46300 - Method of computing average daily attendance
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Elec. Code 12283 - School closures; election days
 
-Management Resources:
-  - Court Decision
-  - Butt v.
+Cross References:
+  - 0200 - Goals For The School District
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1431 - Waivers
+  - 3516.5 - Emergency Schedules
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4231 - Staff Development
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 4331 - Staff Development
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5145.6 - Parent/Guardian Notifications
+  - 6115 - Ceremonies And Observances
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6145.8 - Assemblies And Special Events
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6177 - Summer Learning Programs
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

@@ -20,120 +20,122 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 3 CCR 6724
-  - Training of employees handling pesticides
-  - 5 CCR 4600-4687
-  - Uniform complaint procedures and Williams complaints
-  - CA Constitution Article 9, Section 5
-  - Common school system
-  - Ed. Code 17453.1
-  - District sale or lease of Internet appliances or personal computers to
-  - parents of students
-  - Ed. Code 17551
-  - Property fabricated by students
-  - Ed. Code 19910-19911
-  - Offenses against libraries
-  - Ed. Code 32033
-  - Eye protective devices
-  - Ed. Code 32221
-  - Insurance for athletic team member
-  - Ed. Code 32390
-  - Voluntary program for fingerprinting students
-  - Ed. Code 35330-35332
-  - Field trips
-  - Ed. Code 35335
-  - School camp programs
-  - Ed. Code 38080-38086.1
-  - Cafeteria establishment and use
-  - Ed. Code 38120
-  - Use of school band equipment on excursions to foreign countries
-  - Ed. Code 39801.5
-  - Transportation for adults
-  - Ed. Code 39807.5
-  - Payment of transportation costs by parents
-  - Ed. Code 39837
-  - Transportation to summer employment program
-  - Ed. Code 42238.02
-  - Local Control Funding Formula
-  - Ed. Code 46120
-  - Expanded learning opportunities
-  - Ed. Code 48050
-  - Residents of adjoining states
-  - Ed. Code 48052
-  - Tuition for foreign residents
-  - Ed. Code 48904
-  - Liability of parent or guardian; withholding of grades, diplomas, transcripts
-  - Ed. Code 49010-49013
-  - Student fees
-  - Ed. Code 49014
-  - Public School Fair Debt Collection Act
-  - Ed. Code 49065
-  - Reasonable charge for transcripts
-  - Ed. Code 49066
-  - Grades; effect of physical education class apparel
-  - Ed. Code 49091.14
-  - Parental review of curriculum
-  - Ed. Code 49501.5
-  - California Universal Meals Program
-  - Board Policy Manual
-  - Redwood City School District
+  - 3 CCR 6724 - Training of employees handling pesticides
+  - 5 CCR 4600-4687 - Uniform complaint procedures and Williams complaints
+  - CA Constitution Article 9, Section 5 - Common school system
+  - Ed. Code 17453.1 - District sale or lease of Internet appliances or personal computers to - parents of students
+  - Ed. Code 17551 - Property fabricated by students
+  - Ed. Code 19910-19911 - Offenses against libraries
+  - Ed. Code 32033 - Eye protective devices
+  - Ed. Code 32221 - Insurance for athletic team member
+  - Ed. Code 32390 - Voluntary program for fingerprinting students
+  - Ed. Code 35330-35332 - Field trips
+  - Ed. Code 35335 - School camp programs
+  - Ed. Code 38080-38086.1 - Cafeteria establishment and use
+  - Ed. Code 38120 - Use of school band equipment on excursions to foreign countries
+  - Ed. Code 39801.5 - Transportation for adults
+  - Ed. Code 39807.5 - Payment of transportation costs by parents
+  - Ed. Code 39837 - Transportation to summer employment program
+  - Ed. Code 42238.02 - Local Control Funding Formula
+  - Ed. Code 46120 - Expanded learning opportunities
+  - Ed. Code 48050 - Residents of adjoining states
+  - Ed. Code 48052 - Tuition for foreign residents
+  - Ed. Code 48904 - Liability of parent or guardian; withholding of grades, diplomas, transcripts
+  - Ed. Code 49010-49013 - Student fees
+  - Ed. Code 49014 - Public School Fair Debt Collection Act
+  - Ed. Code 49065 - Reasonable charge for transcripts
+  - Ed. Code 49066 - Grades; effect of physical education class apparel
+  - Ed. Code 49091.14 - Parental review of curriculum
+  - Ed. Code 49501.5 - California Universal Meals Program - Board Policy Manual - Redwood City School District
   - 30
   - Ed. Code 49557.5
   - Child Hunger Prevention and Fair Treatment Act of 2017
-  - Ed. Code 51810-51815
-  - Community service classes
-  - Ed. Code 52612
-  - Tuition for adult classes
-  - Ed. Code 52613
-  - Nonimmigrant foreign nationals
-  - Ed. Code 56504
-  - School records; students with disabilities
-  - Ed. Code 60410
-  - Books for adult classes
-  - Ed. Code 8211
-  - Priority for full-day programs
-  - Ed. Code 8213
-  - Income eligible; definition
-  - Ed. Code 8252-8254
-  - Early childhood education family fees
-  - Ed. Code 8263
-  - Eligibility and priorities for subsidized child development services
+  - Ed. Code 51810-51815 - Community service classes
+  - Ed. Code 52612 - Tuition for adult classes
+  - Ed. Code 52613 - Nonimmigrant foreign nationals
+  - Ed. Code 56504 - School records; students with disabilities
+  - Ed. Code 60410 - Books for adult classes
+  - Ed. Code 8211 - Priority for full-day programs
+  - Ed. Code 8213 - Income eligible; definition
+  - Ed. Code 8252-8254 - Early childhood education family fees
+  - Ed. Code 8263 - Eligibility and priorities for subsidized child development services
   - Ed. Code 8420-8428
-  - 21st Century High School After School Safety and Enrichment Program for
-  - Teens
-  - Ed. Code 8760-8774
-  - Outdoor science, conservation, and forestry programs
-  - Gov. Code 7922.530
-  - Request for a Public Record
-  - State
+  - 21st Century High School After School Safety and Enrichment Program for - Teens
+  - Ed. Code 8760-8774 - Outdoor science, conservation, and forestry programs
+  - Gov. Code 7922.530 - Request for a Public Record
 
 Federal References:
-  - 8 USC 1184
-  - Foreign students
+  - 8 USC 1184 - Foreign students
 
 Management Resources:
-  - California Department of Education Publication
-  - Summer School, Third Parties, and Tuition Fees, Fiscal Management
-  - Advisory 22-01, September 1, 2022
-  - California Department of Education Publication
-  - Pupil Fees, Deposits, and Other Charges, Fiscal Management Advisory 20-
-  - 01, July 23, 2020
-  - Court Decision
-  - CTA v. Glendale School District Board of Education (1980) 109 Cal. App. 3d
-  - 738
-  - Court Decision
-  - Driving School Assn of CA v. San Mateo Union HSD (1992) 11 Cal. App. 4th
-  - 1513
-  - Court Decision
-  - Hartzell v. Connell (1984) 35 Cal. 3d 899
-  - Court Decision
-  - Steffes v. California Interscholastic Federation (1986) 176 Cal. App. 3d 739
-  - Court Decision
-  - Arcadia Unified School District v. California Department of Education (1992)
-  - 2 Cal. 4th 251
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+  - Advisory 22-01, September 1, 2022 - California Department of Education Publication - Pupil Fees, Deposits, and Other Charges, Fiscal Management Advisory 20-
+  - 01, July 23, 2020 - Court Decision - CTA v. Glendale School District Board of Education (1980) 109 Cal. App. 3d
+  - 738 - Court Decision - Driving School Assn of CA v. San Mateo Union HSD (1992) 11 Cal. App. 4th
+  - 1513 - Court Decision - Hartzell v. Connell (1984) 35 Cal. 3d 899 - Court Decision - Steffes v. California Interscholastic Federation (1986) 176 Cal. App. 3d 739 - Court Decision - Arcadia Unified School District v. California Department of Education (1992)
+  - 2 Cal. 4th 251 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1321 - Solicitation Of Funds From And By Students
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3250 - Transportation Fees
+  - 3250 - Transportation Fees
+  - 3290 - Gifts, Grants And Bequests
+  - 3452 - Student Activity Funds
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3554 - Other Food Sales
+  - 3554 - Other Food Sales
+  - 4112.9 - Employee Notifications
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5143 - Insurance
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6142.5 - Environmental Education
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6161.2 - Damaged Or Lost Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6177 - Summer Learning Programs
+  - 9323.2 - Actions By The Board

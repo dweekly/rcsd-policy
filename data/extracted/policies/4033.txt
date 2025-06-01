@@ -39,10 +39,9 @@ another location that is in close proximity to the employee's work area, and sha
  
 2. Is safe, clean, and free of hazardous materials, as defined in Labor Code 6382
  
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 3. Contains a place to sit and a surface to place a breast pump and personal items
  
 4. Has access to electricity or alternative devices, including, but not limited to, extension cords or charging stations, needed 
@@ -68,45 +67,46 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 11035-11051
-  - Unlawful sex discrimination; pregnancy, childbirth, and related medical
-  - conditions
-  - 29 USC 218c
-  - Fair Labor Standards Act; protections for employees
-  - Civ. Code 43.3
-  - Right of mothers to breastfeed in any public or private location
-  - Ed. Code 200-270
-  - Prohibition of discrimination
-  - Gov. Code 12925-12954
-  - Unlawful discriminatory employment practices
-  - Gov. Code 12945
-  - Unlawful discrimination based on pregnancy, childbirth, or related medical
-  - conditions
-  - Lab. Code 1030-1034
-  - Lactation accommodation
-  - Lab. Code 1030-1034
-  - Lactation Accommodation
-  - Lab. Code 6382
-  - Procedure for listing hazardous substances
+  - 2 CCR 11035-11051 - Unlawful sex discrimination; pregnancy, childbirth, and related medical - conditions
+  - 29 USC 218c - Fair Labor Standards Act; protections for employees
+  - Civ. Code 43.3 - Right of mothers to breastfeed in any public or private location
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Gov. Code 12925-12954 - Unlawful discriminatory employment practices
+  - Gov. Code 12945 - Unlawful discrimination based on pregnancy, childbirth, or related medical - conditions
+  - Lab. Code 1030-1034 - Lactation accommodation
+  - Lab. Code 1030-1034 - Lactation Accommodation
+  - Lab. Code 6382 - Procedure for listing hazardous substances
 
 Federal References:
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 29 CFR 1636
-  - Implementation of the Pregnant Workers Fairness Act
+  - 29 CFR 1636 - Implementation of the Pregnant Workers Fairness Act
   - 27
-  - 29 USC 218d
-  - Fair Labor Standards Act; Providing Urgent Maternal Protections for
-  - Nursing Mothers (PUMP) Act
-  - 34 CFR 106.1-106.82
-  - Discrimination on the basis of sex; effectuating Title IX
-  - 42 USC 2000gg-2000gg-6
-  - Pregnant Workers Fairness Act
-  - Federal
+  - 29 USC 218d - Fair Labor Standards Act; Providing Urgent Maternal Protections for - Nursing Mothers (PUMP) Act
+  - 34 CFR 106.1-106.82 - Discrimination on the basis of sex; effectuating Title IX
+  - 42 USC 2000gg-2000gg-6 - Pregnant Workers Fairness Act
 
 Management Resources:
-  - CA Department of Industrial Relations Publication Rest Periods/Lactation Accommodation, Frequently Asked Questions
-  - California Civil Rights Department Decision
-  - Department of Fair Employment and Housing v. Acosta Tacos (Chavez),
-  - FEHC Precedential Decision 09-03P, 2009
-  - California Department of Public Health PublicationLactation Accommodation for Employers
+  - FEHC Precedential Decision 09-03P, 2009 - California Department of Public Health PublicationLactation Accommodation for Employers - Federal Register - Nondiscrimination on the Basis of Sex in Education Programs or Activities - Receiving Federal Financial Assistance, April 29, 2024, Vol. 89, No. 83,
+  - pages 33474-33896 - Federal Register - Reasonable Break Time for Nursing Mothers, December 21, 2010, Vol. 78,
+  - No. 244, pages 80073-80079 - Office of the Surgeon General Publication - The Surgeon General's Call to Action to Support Breastfeeding, 2011 - U.S. DoL, Wage and Hour Div., Publication - Education FAQs - U.S. DoL, Wage and Hour Div., Publication - Frequently Asked Questions - Pumping Breast Milk at Work - U.S. DoL, Wage and Hour Div., Publication - Fact Sheet #73: FLSA Protections for Employees to Pump Breast Milk at - Work, rev. January 2023 - U.S. HHS Office on Women's Health Publication - The Business Case for Breastfeeding: Steps for Creating a Breastfeeding - Friendly Worksite, Toolkit, 2008 - Website - CSBA District and County Office of Education Legal Services - Website - Equal Employment Opportunity Commission - Website - California Department of Industrial Relations, Division of Labor and - Standards Enforcement - Website - California Department of Public Health - Website - California Women, Infants and Children Program - Website - Centers for Disease Control and Prevention - Website - Health Resources and Services Administration - Website - Office of the Surgeon General - Website - U.S. Department of Labor, Wage and Hour Division, FLSA Protections to - Pump at Work
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4032 - Reasonable Accommodation
+  - 4112.9 - Employee Notifications
+  - 4113.4 - Temporary Modified/Light-Duty Assignment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4161.8 - Family Care And Medical Leave
+  - 4213.4 - Temporary Modified/Light-Duty Assignment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4261.8 - Family Care And Medical Leave
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4361.8 - Family Care And Medical Leave

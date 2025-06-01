@@ -37,8 +37,7 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 51002
-  - Common state curriculum
+  - Ed. Code 51002 - Common state curriculum
   - Ed. Code 51210
   - Course of study for grades 1-6
   - Ed. Code 51220
@@ -47,18 +46,37 @@ State References:
   - Algebra in course of study for grades 7-12
   - Ed. Code 51224.7
   - California Mathematics Placement Act of 2015
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 51284
-  - Financial literacy
-  - Ed. Code 60605
-  - State-adopted content and performance standards in core curricular areas
-  - Ed. Code 60605.8
-  - Common Core standards
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 51284 - Financial literacy
+  - Ed. Code 60605 - State-adopted content and performance standards in core curricular areas
+  - Ed. Code 60605.8 - Common Core standards
 
 Management Resources:
-  - California Department of Education Publication
-  - 2023 Mathematics Framework for California Public Schools: Kindergarten
-  - Through Grade Twelve, June 2023
-  - California Department of Education Publication
-  - California Common Core
+  - 2023 Mathematics Framework for California Public Schools: Kindergarten - Through Grade Twelve, June 2023 - California Department of Education Publication - California Common Core State Standards: Mathematics, rev. January 2013 - Board Policy Manual - Redwood City School District
+  - 79 - Common Core State Standards Initiative - Publication - Appendix A: Designing High School Mathematics Courses Based on the - Common Core State Standards - CSBA Publication - Governing to the Core; Pathway Options for High School Mathematics - Governance Briefs, May 2014 - Website - CSBA District and County Office of Education Legal Services - Website - Common Core State Standards Initiative - Website - CSBA - Website - California Department of Education
+
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4331 - Staff Development
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6011 - Academic Standards
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.93 - Science Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6163.1 - Library Media Centers
+  - 6172 - Gifted And Talented Student Program
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6190 - Evaluation Of The Instructional Program

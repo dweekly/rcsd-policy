@@ -54,8 +54,7 @@ c. Designation of the principal for the overall control and supervision of activ
 emergency, including authorization to use his/her discretion in situations which do not permit execution
 of prearranged plans
  
-Board Policy Manual
-Redwood City School District
+
 
 d. Identification of at least one person at each site who holds a valid certificate in first aid and
 cardiopulmonary resuscitation
@@ -114,7 +113,7 @@ The Superintendent or designee shall assemble key information that would be need
 information may include, but is not limited to, a list of individuals and organizations who should be contacted for
 assistance in an emergency, current layouts and blueprints of school buildings, aerial photos of the campus, maps of
 
-Policy Reference Disclaimer:
+
 evacuation routes and alternate routes, a roster of employees with their work locations, student photographs and
 their emergency contact information, a clearly labeled set of keys, location of first aid supplies, and procedures and
 locations for turning off fire alarms, sprinklers, utilities, and other systems. Such information shall be stored in a box
@@ -126,21 +125,101 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 19 CCR 2400-2450
-  - Standardized Emergency
+  - 19 CCR 2400-2450 - Standardized Emergency Management System
+  - 5 CCR 550 - Fire drills
+  - 5 CCR 560 - Civil defense and disaster preparedness plans
+  - CA Constitution Article 20, Section 3 - Oath or affirmation
+  - Civ. Code 1714.5 - Release from liability for disaster service workers and shelters
+  - Ed. Code 32001 - Fire alarms and drills
+  - Ed. Code 32040 - Duty to equip school with first aid kit
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 32290 - Safety devices
+  - Ed. Code 39834 - Operating overloaded bus
+  - Ed. Code 46390-46392 - Emergency average daily attendance in case of disaster
+  - Ed. Code 49505 - Natural disaster; meals for homeless students; reimbursement
+  - Gov. Code 11549 - Cybersecurity assessment
+  - Gov. Code 11549.3 - Office of Information Security
+  - Gov. Code 3100-3109 - Oath or affirmation of allegiance
+  - Gov. Code 8586.5 - California Cybersecurity Integration Center
+  - Gov. Code 8607 - Standardized Emergency Management System
+  - Public Utilities Code 2872 - Automatic dialing
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
+  - 42 USC 12101-12213 - Americans with Disabilities Act
 
 Management Resources:
-  - Cal OES Publication
-  - California Emergency Management for Schools: A Guide for Districts and
-  - Sites
-  - Cal OES Publication
-  - School Emergency Response: Using SEMS at Districts and Sites, June 1998
-  - Cal OES Publication
+  - 2013 - Website - California Public Utilities Commission
+  - 216 - Website - California Office of Emergency Services: School Emergency Planning & - Safety - Website - California Department of Education, Comprehensive School Safety Plans - Website - California Cybersecurity Integration Center - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Crisis Preparedness - Website - Centers for Disease Control and Prevention - Website - U.S. Department of Education, Emergency Planning - Website - U.S. Department of Homeland Security - Website - Federal Emergency Management Agency - Website - California Governor's Office of Emergency Services - Website - California Seismic Safety Commission - Website - American Red Cross - Website - California Attorney General's Office - Website - CSBA
+
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1313 - Civility
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3000 - Concepts And Roles
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.2 - Integrated Pest Management
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516.1 - Fire Drills And Fires
+  - 3516.2 - Bomb Threats
+  - 3516.3 - Earthquake Emergency Procedure System
+  - 3516.5 - Emergency Schedules
+  - 3517 - Facilities Inspection
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3543 - Transportation Safety And Emergencies
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4119.41 - Employees With Infectious Disease
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5142 - Safety
+  - 5142 - Safety
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6164.2 - Guidance/Counseling Services
+  - 9320 - Meetings And Notices

@@ -58,8 +58,7 @@ which arose more than two years before the date of the filing of the notice of c
 disclosed by the employee when it could be reasonably assumed that the employee would have disclosed the facts to the
 district. (Education Code 45113)
 Initiation and Notification of Charges
-Board Policy Manual
-Redwood City School District
+
 
 The Superintendent or designee shall provide notice to the employee of a recommendation for discipline, which includes the
 charges and materials upon which the recommendation is based. The notification shall identify an impartial district official
@@ -111,81 +110,99 @@ after the entry of judgment in the criminal proceedings. However, the compulsory
 notice, within 10 days after the entry of judgment in the proceedings, that the employee will be dismissed within 30 days
 from the date of service of the notice unless the employee demands a hearing on the dismissal.
 
-Policy Reference Disclaimer:
-
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 1, Section 1
-  - Inalienable rights
-  - Ed. Code 35161
-  - Board delegation of any powers or duties
-  - Ed. Code 44009
-  - Conviction of specified crimes
-  - Ed. Code 44010
-  - Sex offense; definitions
-  - Ed. Code 44011
-  - Controlled substance offense
-  - Ed. Code 44940
-  - Compulsory leave of absence for certificated persons
-  - Ed. Code 44940.5
-  - Procedures when employees are placed on compulsory leave of absence
-  - Ed. Code 45101
-  - Definitions; disciplinary action and cause
-  - Ed. Code 45109
-  - Fixing of duties
-  - Ed. Code 45113
-  - Notification of charges; classified employees
-  - Ed. Code 45116
-  - Notice of disciplinary action
-  - Ed. Code 45123
-  - Employment after conviction of controlled substance offense
-  - Ed. Code 45302
-  - Demotion and removal from permanent classified service
-  - Ed. Code 45303
-  - Additional cause for suspension or dismissal of employee charged with
-  - mandatory or optional leave of absence offense
-  - Ed. Code 45304
-  - Compulsory leave of absence for classified persons
-  - Gov. Code 12954
-  - Employment discrimination; cannabis use
-  - Veh. Code 1808.8
-  - School bus drivers; dismissal for safety-related cause
+  - CA Constitution Article 1, Section 1 - Inalienable rights
+  - Ed. Code 35161 - Board delegation of any powers or duties
+  - Ed. Code 44009 - Conviction of specified crimes
+  - Ed. Code 44010 - Sex offense; definitions
+  - Ed. Code 44011 - Controlled substance offense
+  - Ed. Code 44940 - Compulsory leave of absence for certificated persons
+  - Ed. Code 44940.5 - Procedures when employees are placed on compulsory leave of absence
+  - Ed. Code 45101 - Definitions; disciplinary action and cause
+  - Ed. Code 45109 - Fixing of duties
+  - Ed. Code 45113 - Notification of charges; classified employees
+  - Ed. Code 45116 - Notice of disciplinary action
+  - Ed. Code 45123 - Employment after conviction of controlled substance offense
+  - Ed. Code 45302 - Demotion and removal from permanent classified service
+  - Ed. Code 45303 - Additional cause for suspension or dismissal of employee charged with - mandatory or optional leave of absence offense
+  - Ed. Code 45304 - Compulsory leave of absence for classified persons
+  - Gov. Code 12954 - Employment discrimination; cannabis use
+  - Veh. Code 1808.8 - School bus drivers; dismissal for safety-related cause
 
 Federal References:
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
-  - U.S. Constitution, First Amendment
-  - Free exercise, free speech, and establishment clauses
+  - 42 USC 12101-12213 - Americans with Disabilities Act - U.S. Constitution, First Amendment - Free exercise, free speech, and establishment clauses
 
 Management Resources:
-  - Court Decision
-  - Visalia Unified School District v. Public Employment Relations Board (2024)
-  - 98 Cal.App.5th 844
-  - Court Decision
-  - Kennedy v. Bremerton (2022) 142 S.Ct. 2407
-  - Court Decision
-  - California School Employees v. Livingston Union School District (2007) 149
-  - Cal. App. 4th 391
-  - Court Decision
-  - CSEA v. Foothill Community College District (1975) 52 Cal. App. 3rd 150
-  - Court Decision
-  - Skelly v. California Personnel Board (1975) 15 Cal.3d 194
-  - U.S. Department of Education Publication
-  - Guidance on Constitutionally Protected Prayer and Religious Expression in
-  - Public Elementary and Secondary Schools, May 2023
-  - Website
-  - Office of the Attorney General
-  - Website
-  - Office of Administrative Hearings
-  - Website
-  - Department of General Services, About Teacher Dismissal Case Type
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education
+  - 98 Cal.App.5th 844 - Court Decision - Kennedy v. Bremerton (2022) 142 S.Ct. 2407 - Court Decision - California School Employees v. Livingston Union School District (2007) 149
+  - Cal. App. 4th 391 - Court Decision - CSEA v. Foothill Community College District (1975) 52 Cal. App. 3rd 150 - Court Decision - Skelly v. California Personnel Board (1975) 15 Cal.3d 194 - U.S. Department of Education Publication - Guidance on Constitutionally Protected Prayer and Religious Expression in - Public Elementary and Secondary Schools, May 2023 - Website - Office of the Attorney General - Website - Office of Administrative Hearings - Website - Department of General Services, About Teacher Dismissal Case Type - Website - CSBA District and County Office of Education Legal Services - Website - CSBA - Website - U.S. Department of Education
   - 263
+
+Cross References:
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3512 - Equipment
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516.2 - Bomb Threats
+  - 3542 - School Bus Drivers
+  - 4000 - Concepts And Roles
+  - 4020 - Drug And Alcohol-Free Workplace
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4040 - Employee Use Of Technology
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4112.5 - Criminal Record Check
+  - 4112.6 - Personnel Files
+  - 4119.1 - Civil And Legal Rights
+  - 4119.21 - Professional Standards
+  - 4119.22 - Dress And Grooming
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4119.24 - Maintaining Appropriate Adult-Student Interactions
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4136 - Nonschool Employment
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4154 - Health And Welfare Benefits
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4159 - Employee Assistance Programs
+  - 4161 - Leaves
+  - 4200 - Classified Personnel
+  - 4200 - Classified Personnel
+  - 4216 - Probationary/Permanent Status
+  - 4219.1 - Civil And Legal Rights
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4219.21 - Professional Standards
+  - 4219.22 - Dress And Grooming
+  - 4219.24 - Maintaining Appropriate Adult-Student Interactions
+  - 4236 - Nonschool Employment
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 4261 - Leaves
+  - 4319.1 - Civil And Legal Rights
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4319.21 - Professional Standards
+  - 4319.22 - Dress And Grooming
+  - 4319.24 - Maintaining Appropriate Adult-Student Interactions
+  - 4336 - Nonschool Employment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 6162.54 - Test Integrity/Test Preparation
+  - 9000 - Role Of The Board

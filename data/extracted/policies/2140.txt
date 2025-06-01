@@ -38,19 +38,18 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Gov. Code 54957
-  - Closed session personnel matters
-  - Gov. Code 7928.400
-  - Public Records Act; employment contracts
+  - Gov. Code 54957 - Closed session personnel matters
+  - Gov. Code 7928.400 - Public Records Act; employment contracts
 
-Management Resources:
-  - Court Decision
-  - Duval v. Board of Trustees (2001) 93 Cal.App.4th 902
-  - Court Decision
-  - Versaci v. Superior Court (2005) 127 Cal.App.4th 805
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Association of California School Administrators
-  - Website
-  - CSBA
+Cross References:
+  - 0200 - Goals For The School District
+  - 2000 - Concepts And Roles
+  - 2110 - Superintendent Responsibilities And Duties
+  - 2111 - Superintendent Governance Standards
+  - 2121 - Superintendent's Contract
+  - 6000 - Concepts And Roles
+  - 6162.5 - Student Assessment
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9121 - President
+  - 9400 - Board Self-Evaluation

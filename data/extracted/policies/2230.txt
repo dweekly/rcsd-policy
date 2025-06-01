@@ -25,11 +25,22 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 45100.5
-  - Senior classified
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 45100.5 - Senior classified management positions
+  - Ed. Code 45256.5 - Designation of certain senior classified management positions
+  - Gov. Code 3540.1 - Public employment; definitions
+  - Gov. Code 54952 - Legislative body; definition
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 2000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3350 - Travel Expenses
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 9130 - Board Committees

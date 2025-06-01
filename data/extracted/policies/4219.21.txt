@@ -57,10 +57,9 @@ employee usage of district technological resources at any time without the emplo
 13. Causing damage to or engaging in theft of property belonging to students, staff, or the district
  
 14. Wearing inappropriate attire
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 Reports of Misconduct
 An employee who observes or has evidence of another employee's inappropriate conduct shall immediately report
 such conduct to the principal or Superintendent or designee. An employee who has knowledge of or suspects child
@@ -85,22 +84,88 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 80303
-  - Reports of change in employment status; alleged misconduct
-  - 5 CCR 80331-80338
-  - Rules of conduct for professional educators
-  - Ed. Code 200-270
-  - Prohibition of discrimination
-  - Ed. Code 44050
-  - Employee code of conduct; interaction with students
-  - Ed. Code 44242.5
-  - Reports and review of alleged misconduct
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Pen. Code 11164-11174.4
-  - Child Abuse and Neglect Reporting Act
+  - 5 CCR 80303 - Reports of change in employment status; alleged misconduct
+  - 5 CCR 80331-80338 - Rules of conduct for professional educators
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 44050 - Employee code of conduct; interaction with students
+  - Ed. Code 44242.5 - Reports and review of alleged misconduct
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Pen. Code 11164-11174.4 - Child Abuse and Neglect Reporting Act
 
 Management Resources:
-  - Commission on Teacher Credentialing Publication California Professional Standards for Educational Leaders, February 2014
-  - Commission on Teacher Credentialing Publication California Standards for the Teaching Profession (CSTP), October 2009
-  - Council of Chief
+  - 287 - Website - CSBA - WestEd Publication - Moving Leadership Standards into Everyday Work: Descriptions of Practice,
+  - 2003
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1313 - Civility
+  - 2111 - Superintendent Governance Standards
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4020 - Drug And Alcohol-Free Workplace
+  - 4040 - Employee Use Of Technology
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4117.7 - Employment Status Reports
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.1 - Civil And Legal Rights
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.22 - Dress And Grooming
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4132 - Publication Or Creation Of Materials
+  - 4136 - Nonschool Employment
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.1 - Civil And Legal Rights
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.22 - Dress And Grooming
+  - 4231 - Staff Development
+  - 4236 - Nonschool Employment
+  - 4319.1 - Civil And Legal Rights
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.22 - Dress And Grooming
+  - 4331 - Staff Development
+  - 4336 - Nonschool Employment
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5137 - Positive School Climate
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 6162.54 - Test Integrity/Test Preparation
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials

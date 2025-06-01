@@ -30,20 +30,96 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 17029.5
-  - Contract funding; board liability
-  - Ed. Code 17565-17592.5
-  - Board duties;
+  - Ed. Code 17029.5 - Contract funding; board liability
+  - Ed. Code 17565-17592.5 - Board duties; management and control of school property
+  - Ed. Code 32350 - Liability on equipment loaned to district
+  - Ed. Code 35162 - Power to sue, be sued, hold and convey property
+  - Ed. Code 35200-35214 - Liabilities
+  - Ed. Code 35208 - Liability insurance
+  - Ed. Code 35211 - Driver training civil liability insurance
+  - Ed. Code 35213 - Reimbursement for loss or damage of personal property
+  - Ed. Code 35214 - Liability insurance (self-insurance or a combination of self-insurance and - insurance through an insurance company)
+  - Ed. Code 35331 - Provision for medical or hospital service for pupils (on field trips)
+  - Ed. Code 39837 - Transportation to summer employment program
+  - Ed. Code 41021 - Requirement for employee's indemnity bond
+  - Ed. Code 44873 - Qualifications for physician (liability coverage)
+  - Ed. Code 49470-49474 - District medical services and insurance
+  - Gov. Code 820.9 - Members of local public boards not vicariously liable
+  - Gov. Code 831.7 - Hazardous recreational activities
+  - Gov. Code 989-991.2 - Local public entity insurance
+  - Lab. Code 3200-4856 - Workers' compensation - Board Policy Manual - Redwood City School District
+  - 232
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Public Agency Risk Management Association
-  - Website
-  - California Department of Industrial Relations, Division of Occupational
-  - Safety and Health
-  - Website
-  - California Association of Joint Powers Authorities
-  - Website
-  - California Association of School Business Officials
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 3000 - Concepts And Roles
+  - 3314.2 - Revolving Funds
+  - 3320 - Claims And Actions Against The District
+  - 3320 - Claims And Actions Against The District
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3440 - Inventories
+  - 3452 - Student Activity Funds
+  - 3512 - Equipment
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3541.1 - Transportation For School-Related Trips
+  - 3543 - Transportation Safety And Emergencies
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4113.4 - Temporary Modified/Light-Duty Assignment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4154 - Health And Welfare Benefits
+  - 4156.3 - Employee Property Reimbursement
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4157.1 - Work-Related Injuries
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4213.4 - Temporary Modified/Light-Duty Assignment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5143 - Insurance
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School
+  - 7160 - Charter School Facilities
+  - 7160 - Charter School Facilities
+  - 9260 - Legal Protection

@@ -37,38 +37,27 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 17029.5
-  - Contract funding; board liability
-  - Ed. Code 35208
-  - Liability insurance
-  - Ed. Code 35214
-  - Liability insurance (self-insurance or a combination of self-insurance and
-  - insurance through an insurance company)
-  - Gov. Code 1090-1098
-  - Prohibitions applicable to specified officers
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 815.3
-  - Intentional torts
-  - Gov. Code 820-823
-  - Tort claims act
-  - Gov. Code 825-825.6
-  - Indemnification of elected officials
-  - Gov. Code 87100-89503
-  - Conflicts of interest
+  - Ed. Code 17029.5 - Contract funding; board liability
+  - Ed. Code 35208 - Liability insurance
+  - Ed. Code 35214 - Liability insurance (self-insurance or a combination of self-insurance and - insurance through an insurance company)
+  - Gov. Code 1090-1098 - Prohibitions applicable to specified officers
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 815.3 - Intentional torts
+  - Gov. Code 820-823 - Tort claims act
+  - Gov. Code 825-825.6 - Indemnification of elected officials
+  - Gov. Code 87100-89503 - Conflicts of interest
 
 Federal References:
-  - 18 USC 16
-  - Crime of violence; definition
-  - 20 USC 7941-7948
-  - Teacher liability protection
-  - Board Policy Manual
-  - Redwood City School District
+  - 18 USC 16 - Crime of violence; definition
+  - 20 USC 7941-7948 - Teacher liability protection - Board Policy Manual - Redwood City School District
   - 44
 
-Management Resources:
-  - Court Decision
-  - Caldwell v. Montoya (Paramount Unified School District) 10 Cal 4th 972
-  - (1995)
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4119.1 - Civil And Legal Rights
+  - 4219.1 - Civil And Legal Rights
+  - 4319.1 - Civil And Legal Rights
+  - 9000 - Role Of The Board
+  - 9124 - Attorney
+  - 9323.2 - Actions By The Board

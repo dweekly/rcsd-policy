@@ -36,48 +36,52 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 13 CCR 1216
-  - Transportation of property
-  - Civ. Code 54.1
-  - Access to public places
-  - Civ. Code 54.2
-  - Guide, signal, or service dogs; right to accompany
-  - Ed. Code 233.5
-  - Teaching of principles
-  - Ed. Code 39839
-  - Transportation of guide dogs, signal dogs, service dogs
-  - Ed. Code 51202
-  - Instruction in personal and public health and safety
-  - Ed. Code 51540
-  - Humane treatment of animals
-  - Gov. Code 810-996.6
-  - Government Claims Act
-  - Gov. Code 815
-  - Liability for injuries generally; immunity of public entity
-  - Gov. Code 835
-  - Conditions of liability
-  - Veh. Code 21113
-  - Public grounds
+  - 13 CCR 1216 - Transportation of property
+  - Civ. Code 54.1 - Access to public places
+  - Civ. Code 54.2 - Guide, signal, or service dogs; right to accompany
+  - Ed. Code 233.5 - Teaching of principles
+  - Ed. Code 39839 - Transportation of guide dogs, signal dogs, service dogs
+  - Ed. Code 51202 - Instruction in personal and public health and safety
+  - Ed. Code 51540 - Humane treatment of animals
+  - Gov. Code 810-996.6 - Government Claims Act
+  - Gov. Code 815 - Liability for injuries generally; immunity of public entity
+  - Gov. Code 835 - Conditions of liability
+  - Veh. Code 21113 - Public grounds
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 28 CFR 35.104
-  - Definitions, auxiliary aids and services
-  - Board Policy Manual
-  - Redwood City School District
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 28 CFR 35.104 - Definitions, auxiliary aids and services - Board Policy Manual - Redwood City School District
   - 185
-  - 28 CFR 35.136
-  - Service animals
+  - 28 CFR 35.136 - Service animals
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - Federal
 
 Management Resources:
-  - Court Decision
-  - Sullivan v. Vallejo City USD (1990) 731 F.Supp. 947
-  - CSBA Publication
-  - Indoor Air Quality: Governing Board Actions for Creating Healthy School
-  - Environments, Policy Brief, July 2008
-  - CSBA Publication
-  - Asthma Management in the Schools, Policy Brief, March 2008
+  - 56164-56236 - Website - CSBA District and County Office of Education Legal Services - Website - Humane Society of the United States - Website - American Society for the Prevention of Cruelty to Animals - Website - CSBA - Website - U.S. Department of Education, Office for Civil Rights
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 3320 - Claims And Actions Against The District
+  - 3320 - Claims And Actions Against The District
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3541.2 - Transportation For Students With Disabilities
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5142 - Safety
+  - 5142 - Safety
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504

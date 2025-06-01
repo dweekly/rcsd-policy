@@ -28,24 +28,36 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 8 CCR 11701-11707
-  - Prohibited and dangerous occupations for minors
-  - Bus. Code 17510-17510.95
-  - Charitable solicitations
-  - Ed. Code 51520
-  - Prohibited solicitations on school premises
-  - Ed. Code 51521
-  - Unlawful solicitations of contribution or purchase of personal property for
-  - benefit of public school or student body; exception
-  - Pen. Code 319-329
-  - Raffles
-  - Rev. & Tax Code 6361
-  - Sales tax exemption for certain sales
+  - 8 CCR 11701-11707 - Prohibited and dangerous occupations for minors
+  - Bus. Code 17510-17510.95 - Charitable solicitations
+  - Ed. Code 51520 - Prohibited solicitations on school premises
+  - Ed. Code 51521 - Unlawful solicitations of contribution or purchase of personal property for - benefit of public school or student body; exception
+  - Pen. Code 319-329 - Raffles - Rev. & Tax Code 6361 - Sales tax exemption for certain sales
 
-Management Resources:
-  - CSBA Publication
-  - Healthy Food Policy Resource Guide, 2003
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Office of the Attorney General
+Cross References:
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1260 - Educational Foundation
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3290 - Gifts, Grants And Bequests
+  - 3312 - Contracts
+  - 3452 - Student Activity Funds
+  - 3554 - Other Food Sales
+  - 3554 - Other Food Sales
+  - 4135 - Soliciting And Selling
+  - 4136 - Nonschool Employment
+  - 4236 - Nonschool Employment
+  - 4336 - Nonschool Employment
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 6116 - Classroom Interruptions
+  - 6116 - Classroom Interruptions
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips

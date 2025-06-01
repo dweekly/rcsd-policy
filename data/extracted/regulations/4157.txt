@@ -59,11 +59,9 @@ necessary to correct the hazardous condition. Employees needed to correct the co
 necessary safeguards.
  
 7. Training and instruction:
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
- 
+
+
 a. To all new employees
  
 b. To all employees given new job assignments for which training has not previously been received
@@ -104,82 +102,73 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 17 CCR 2508
-  - Reporting of communicable diseases
-  - 8 CCR 14000-14316
-  - Occupational injury or illness reports and records
-  - 8 CCR 3203
-  - Injury and illness prevention program
-  - 8 CCR 3204
-  - Access to employee exposure and medical records
-  - 8 CCR 3400
-  - Medical services and first aid
-  - 8 CCR 5095-5100
-  - Control of noise exposure
-  - 8 CCR 5193
-  - Bloodborne pathogens
-  - Ed. Code 32030-32034
-  - Eye safety
-  - Ed. Code 32225-32226
-  - Communications devices in classrooms
+  - 17 CCR 2508 - Reporting of communicable diseases
+  - 8 CCR 14000-14316 - Occupational injury or illness reports and records
+  - 8 CCR 3203 - Injury and illness prevention program
+  - 8 CCR 3204 - Access to employee exposure and medical records
+  - 8 CCR 3400 - Medical services and first aid
+  - 8 CCR 5095-5100 - Control of noise exposure
+  - 8 CCR 5193 - Bloodborne pathogens
+  - Ed. Code 32030-32034 - Eye safety
+  - Ed. Code 32225-32226 - Communications devices in classrooms
   - 209
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 44984
-  - Required rules for industrial accident and illness leave
-  - Gov. Code 3543.2
-  - Scope of representation
-  - Lab. Code 1139
-  - Worker's rights in emergencies
-  - Lab. Code 132a
-  - Workers' compensation; nondiscrimination
-  - Lab. Code 3300
-  - Definition of employer
-  - Lab. Code 6305
-  - Occupational safety and health standards; special order
-  - Lab. Code 6310
-  - Retaliation for filing complaint prohibited
-  - Lab. Code 6325
-  - Prohibition of entry into place of employment
-  - Lab. Code 6400-6413.5
-  - Responsibilities and duties of employers and employees
-  - Lab. Code 6401.7
-  - Injury and illness prevention program
-  - Lab. Code 6401.9
-  - Workplace violence prevention plans
-  - State
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 44984 - Required rules for industrial accident and illness leave
+  - Gov. Code 3543.2 - Scope of representation
+  - Lab. Code 1139 - Worker's rights in emergencies
+  - Lab. Code 132a - Workers' compensation; nondiscrimination
+  - Lab. Code 3300 - Definition of employer
+  - Lab. Code 6305 - Occupational safety and health standards; special order
+  - Lab. Code 6310 - Retaliation for filing complaint prohibited
+  - Lab. Code 6325 - Prohibition of entry into place of employment
+  - Lab. Code 6400-6413.5 - Responsibilities and duties of employers and employees
+  - Lab. Code 6401.7 - Injury and illness prevention program
+  - Lab. Code 6401.9 - Workplace violence prevention plans
 
 Federal References:
-  - 17 CFR 2508
-  - Reporting of communicable diseases
-  - 29 CFR 1910.1030
-  - Bloodborne pathogens
-  - 29 CFR 1910.95
-  - Noise standards
-  - 29 CFR 651-678
-  - Occupational safety and health
-  - 8 CFR 14000-14316
-  - Occupational injury or illness reports and records
-  - 8 CFR 3204
-  - Access to employee exposure and medical records
-  - 8 CFR 5193
-  - Bloodborne pathogens
+  - 17 CFR 2508 - Reporting of communicable diseases
+  - 29 CFR 1910.1030 - Bloodborne pathogens
+  - 29 CFR 1910.95 - Noise standards
+  - 29 CFR 651-678 - Occupational safety and health
+  - 8 CFR 14000-14316 - Occupational injury or illness reports and records
+  - 8 CFR 3204 - Access to employee exposure and medical records
+  - 8 CFR 5193 - Bloodborne pathogens
 
 Management Resources:
-  - CA Department of Industrial Relations Publication Guide to Developing Your Workplace Injury and Illness Prevention Program,
-  - rev. August 2005
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Institute for Occupational Safety and Health
-  - Website
-  - U.S. Department of Labor, Occupational Safety and Health Administration
-  - Website
-  - California Department of Industrial Relations, Occupational Safety and
-  - Health
-  - Website
-  - National Hearing Conservation Association
-  - Website
-  - Centers for Disease Control and Prevention
-  - Website
-  - CSBA
+  - rev. August 2005 - Website - CSBA District and County Office of Education Legal Services - Website - National Institute for Occupational Safety and Health - Website - U.S. Department of Labor, Occupational Safety and Health Administration - Website - California Department of Industrial Relations, Occupational Safety and - Health - Website - National Hearing Conservation Association - Website - Centers for Disease Control and Prevention - Website - CSBA
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.5 - Emergency Schedules
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4112.9 - Employee Notifications
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.41 - Employees With Infectious Disease
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.43 - Universal Precautions
+  - 4119.43 - Universal Precautions
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4156.2 - Awards And Recognition
+  - 4157.1 - Work-Related Injuries
+  - 4157.2 - Ergonomics
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.6 - School Health Services
+  - 6142.93 - Science Instruction

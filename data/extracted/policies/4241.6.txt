@@ -31,26 +31,38 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35204
-  - Contract with attorney in private practice
-  - Ed. Code 35205
-  - Contract for legal services
-  - Ed. Code 37200
-  - School calendar
-  - Gov. Code 3140-3142
-  - Public Employee Health Protection Act
-  - Gov. Code 3540-3549.3
-  - Educational Employment Relations Act
-  - Gov. Code 3543.5-3543.6
-  - Unfair labor practices
-  - Gov. Code 3548.3548.8
-  - Impasse procedures
+  - Ed. Code 35204 - Contract with attorney in private practice
+  - Ed. Code 35205 - Contract for legal services
+  - Ed. Code 37200 - School calendar
+  - Gov. Code 3140-3142 - Public Employee Health Protection Act
+  - Gov. Code 3540-3549.3 - Educational Employment Relations Act
+  - Gov. Code 3543.5-3543.6 - Unfair labor practices
+  - Gov. Code 3548.3548.8 - Impasse procedures
 
-Management Resources:
-  - Public Employment Relations Board Decision
-  - Fresno Unified School District, 1982, PERB Dec. No. 208, 6 PERC 13110
-  - Public Employment Relations Board Decision
-  - Konocti Unified School District, 1982, PERB Dec. No. 217, 6 PERC 13152
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3512 - Equipment
+  - 3541 - Transportation Routes And Services
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4121 - Temporary/Substitute Personnel
+  - 4154 - Health And Welfare Benefits
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 6111 - School Calendar
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 9000 - Role Of The Board
+  - 9320 - Meetings And Notices

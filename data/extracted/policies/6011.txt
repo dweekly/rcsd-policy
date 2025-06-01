@@ -31,53 +31,81 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 44662
-  - Evaluation of certificated employees
-  - Ed. Code 51003
-  - Statewide academic standards
-  - Ed. Code 60605-60605.9
-  - Adoption of statewide academically rigorous content and performance
-  - standards
+  - Ed. Code 44662 - Evaluation of certificated employees
+  - Ed. Code 51003 - Statewide academic standards
+  - Ed. Code 60605-60605.9 - Adoption of statewide academically rigorous content and performance - standards
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
 
 Management Resources:
-  - California Department of Education Publication
-  - Visual and Performing Arts Content Standards for California Public Schools,
-  - Prekindergarten Through Grade Twelve, January 2001
-  - California Department of Education Publication
-  - Health Education Content Standards for California Public Schools:
-  - Kindergarten Through Grade Twelve, 2008
-  - California Department of Education Publication
-  - California Preschool Learning Foundations, Vol. 1, 2008
-  - California Department of Education Publication
-  - History-Social Science Content Standards for California Public Schools,
-  - Kindergarten Through Grade Twelve, October 1998
-  - California Department of Education Publication
-  - World Language Content Standards for California Public Schools,
-  - Kindergarten Through Grade Twelve, adopted January 7, 2009
-  - California Department of Education Publication
-  - Physical Education Model Content Standards for California Public Schools,
-  - Kindergarten Through Grade 12, January 2005
-  - California Department of Education Publication
-  - Model School Library Standards for California Public Schools, Kindergarten
-  - Through Grade Twelve, September 2010
-  - Board Policy Manual
-  - Redwood City School District
-  - 10
-  - California Department of Education Publication
-  - Next Generation Science Standards for California Public Schools,
-  - Kindergarten Through Grade Twelve, September 2013
-  - California Department of Education Publication
-  - California Preschool Learning Foundations, Vol. 2, 2010
-  - California Department of Education Publication
-  - California Preschool Learning Foundations, Vol. 3, 2012
-  - California Department of Education Publication
-  - English-Language Development Standards for California Public Schools,
-  - Kindergarten Through Grade Twelve, November 2012
-  - California Department of Education Publication
-  - California Career Technical Education Model Curriculum Standards, January
-  - 2013
-  - California Department of Education Publication
-  - California Common Core
+  - Kindergarten Through Grade 12, January 2005 - California Department of Education Publication - Model School Library Standards for California Public Schools, Kindergarten - Through Grade Twelve, September 2010 - Board Policy Manual - Redwood City School District
+  - 10 - California Department of Education Publication - Next Generation Science Standards for California Public Schools, - Kindergarten Through Grade Twelve, September 2013 - California Department of Education Publication - California Preschool Learning Foundations, Vol. 2, 2010 - California Department of Education Publication - California Preschool Learning Foundations, Vol. 3, 2012 - California Department of Education Publication - English-Language Development Standards for California Public Schools, - Kindergarten Through Grade Twelve, November 2012 - California Department of Education Publication - California Career Technical Education Model Curriculum Standards, January
+  - 2013 - California Department of Education Publication - California Common Core State Standards: English Language Arts and - Literacy in History/Social Studies, Science, and Technical Subjects, rev.
+  - March 2013 - California Department of Education Publication - California Common Core State Standards: Mathematics, rev. January 2013 - CSBA Publication - Common Core Standards, Fact Sheet, August 2010 - Website - CSBA District and County Office of Education Legal Services - Website - Common Core State Standards Initiative - Website - National Governors Association Center for Best Practices - Website - Council of Chief State School Officers - Website - CSBA - Website - U.S. Department of Education - Website - California Department of Education
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0520.1 - Comprehensive And Targeted School Improvement
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4331 - Staff Development
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.3 - Civic Education
+  - 6142.5 - Environmental Education
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6154 - Homework/Makeup Work
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6162.54 - Test Integrity/Test Preparation
+  - 6163.1 - Library Media Centers
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6177 - Summer Learning Programs
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 6190 - Evaluation Of The Instructional Program
+  - 9000 - Role Of The Board

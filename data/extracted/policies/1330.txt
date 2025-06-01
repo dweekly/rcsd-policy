@@ -41,64 +41,62 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 14037-14042
-  - Proportionate direct costs for use of school facilities and grounds
-  - Bus. Code 25608
-  - Alcohol on school property; use in connection with instruction
-  - Ed. Code 10900-10914.5
-  - Community recreation programs
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 37220
-  - School holidays
-  - Ed. Code 38130-38138
-  - Civic Center Act; use of school property for public purposes
-  - Ed. Code 51860
-  - Time and facilities for bicycle and scooter safety instruction
-  - Elec. Code 12283
-  - Polling places: schools
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - M&V Code 1800
-  - Definitions
+  - 5 CCR 14037-14042 - Proportionate direct costs for use of school facilities and grounds
+  - Bus. Code 25608 - Alcohol on school property; use in connection with instruction
+  - Ed. Code 10900-10914.5 - Community recreation programs
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 37220 - School holidays
+  - Ed. Code 38130-38138 - Civic Center Act; use of school property for public purposes
+  - Ed. Code 51860 - Time and facilities for bicycle and scooter safety instruction
+  - Elec. Code 12283 - Polling places: schools
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act - M&V Code 1800 - Definitions
 
 Federal References:
-  - 20 USC 7905
-  - Equal access to public school facilities
-  - Board Policy Manual
-  - Redwood City School District
+  - 20 USC 7905 - Equal access to public school facilities - Board Policy Manual - Redwood City School District
   - 125
-  - 40 CFR 141.1-141.723
-  - Drinking water standards
-  - Federal
+  - 40 CFR 141.1-141.723 - Drinking water standards
 
 Management Resources:
-  - Attorney General Opinion
-  - 79 Ops.Cal.Atty.Gen. 248 (1996)
-  - Attorney General Opinion
-  - 82 Ops.Cal.Atty.Gen. 90 (1999)
-  - Court Decision
-  - Ellis v. Board of Education (1945) 27 Cal.2d 322
-  - Court Decision
-  - Good News Club v. Milford Central School, (2001) 533 U.S. 98
-  - Court Decision
-  - Lamb's Chapel v. Center Moriches Union Free School District, (1993) 508
-  - U.S. 384
-  - Court Decision
-  - ACLU v. Board of Education of Los Angeles (1961) 55 Cal .2d 167
-  - Court Decision
-  - Cole v. Richardson (1972) 405 U.S. 676
-  - Court Decision
-  - Connell v. Higgenbotham (1971) 403 U.S. 207
-  - CSBA Publication
-  - Building Healthy Communities: A School Leader's Guide to Collaboration
-  - and Community Engagement, 2009
-  - CSBA Publication
-  - Maximizing Opportunities for Physical Activity Through Joint Use of
-  - Facilities, Policy Brief, February 2010
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+  - 79 Ops.Cal.Atty.Gen. 248 (1996) - Attorney General Opinion
+  - 82 Ops.Cal.Atty.Gen. 90 (1999) - Court Decision - Ellis v. Board of Education (1945) 27 Cal.2d 322 - Court Decision - Good News Club v. Milford Central School, (2001) 533 U.S. 98 - Court Decision - Lamb's Chapel v. Center Moriches Union Free School District, (1993) 508
+  - U.S. 384 - Court Decision - ACLU v. Board of Education of Los Angeles (1961) 55 Cal .2d 167 - Court Decision - Cole v. Richardson (1972) 405 U.S. 676 - Court Decision - Connell v. Higgenbotham (1971) 403 U.S. 207 - CSBA Publication - Building Healthy Communities: A School Leader's Guide to Collaboration - and Community Engagement, 2009 - CSBA Publication - Maximizing Opportunities for Physical Activity Through Joint Use of - Facilities, Policy Brief, February 2010 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1000 - Concepts And Roles
+  - 1160 - Political Processes
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6111 - School Calendar
+  - 6115 - Ceremonies And Observances
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 7160 - Charter School Facilities
+  - 7160 - Charter School Facilities
+  - 9320 - Meetings And Notices

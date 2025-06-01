@@ -43,66 +43,70 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 10060
-  - Criteria for high school physical education programs
-  - 5 CCR 30008
-  - Definition of high school grade point average for student aid eligibility
-  - Ed. Code 48070
-  - Promotion and retention
-  - Ed. Code 48205
-  - Excused absences
-  - Ed. Code 48800-48802
-  - Enrollment of gifted students in community college
-  - Ed. Code 48904-48904.3
-  - Withholding grades, diplomas, or transcripts
-  - Ed. Code 49066
-  - Grades; finalization; physical education class
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 10060 - Criteria for high school physical education programs
+  - 5 CCR 30008 - Definition of high school grade point average for student aid eligibility
+  - Ed. Code 48070 - Promotion and retention
+  - Ed. Code 48205 - Excused absences
+  - Ed. Code 48800-48802 - Enrollment of gifted students in community college
+  - Ed. Code 48904-48904.3 - Withholding grades, diplomas, or transcripts
+  - Ed. Code 49066 - Grades; finalization; physical education class - Board Policy Manual - Redwood City School District
   - 90
-  - Ed. Code 49067
-  - Mandated regulations regarding student's achievement
-  - Ed. Code 49069.5
-  - Students in foster care; grades and credits
-  - Ed. Code 51242
-  - Exemption from physical education based on participation in interscholastic
-  - athletics
-  - Ed. Code 69432.9
-  - Cal Grant program; notification of grade point average
-  - Ed. Code 76000-76002
-  - Enrollment in community college
-  - State
+  - Ed. Code 49067 - Mandated regulations regarding student's achievement
+  - Ed. Code 49069.5 - Students in foster care; grades and credits
+  - Ed. Code 51242 - Exemption from physical education based on participation in interscholastic - athletics
+  - Ed. Code 69432.9 - Cal Grant program; notification of grade point average
+  - Ed. Code 76000-76002 - Enrollment in community college
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
 
 Management Resources:
-  - Court Decision
-  - Johnson v. Santa Monica-Malibu Unified School District Board of Education
-  - (1986) 179 Cal.App.3d 593
-  - Court Decision
-  - Las Virgenes Educators Association v. Las Virgenes Unified School District
-  - (2001) 86 Cal.App.4th 1
-  - Court Decision
-  - Owasso Independent School District v. Falvo (2002) 534 U.S. 426
-  - Court Decision
-  - Swany v. San Ramon Valley Unified School District (1989) 720 F.Supp. 764
-  - CSBA Publication
-  - Research-Supported Strategies to Improve the Accuracy and Fairness of
-  - Grades, Governance Brief, July 2016
-  - U.S. DOE Office for Civil Rights Correspondence
-  - Report Cards and Transcripts for Students with Disabilities, October 17,
-  - 2008
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Student Aid Commission
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education, Office for Civil Rights
-  - Website
-  - California Department of Education
+  - 2008 - Website - CSBA District and County Office of Education Legal Services - Website - California Student Aid Commission - Website - CSBA - Website - U.S. Department of Education, Office for Civil Rights - Website - California Department of Education
+
+Cross References:
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5125.3 - Challenging Student Records
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5127 - Graduation Ceremonies And Activities
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6152 - Class Assignment
+  - 6154 - Homework/Makeup Work
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6162.5 - Student Assessment
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6172 - Gifted And Talented Student Program
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

@@ -36,45 +36,50 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 17604
-  - Delegation of powers to agents
-  - Ed. Code 17605
-  - Delegation of authority to purchase supplies and equipment
-  - Ed. Code 32370-32376
-  - Recycling paper
-  - Ed. Code 32435
-  - Prohibited use of public funds; alcoholic beverages
-  - Ed. Code 35010
-  - Control of district; prescription and enforcement of rules
-  - Ed. Code 35035
-  - Powers and duties of the superintendent; transfer authority
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35250
-  - Duty to keep certain records and reports
-  - Ed. Code 38083
-  - Purchase of perishable foodstuffs and seasonal commodities
-  - Ed. Code 41010
-  - California School Accounting Manual
-  - Ed. Code 41014
-  - Requirement of budgetary accounting
-  - Gov. Code 4330-4334
-  - California made materials
-  - Pub. Cont. Code 20111
-  - Contracts over $50,000; contracts for construction; award to lowest
-  - responsible bidder
-  - Pub. Cont. Code 3410
-  - U.S. produce and processed foods
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 17604 - Delegation of powers to agents
+  - Ed. Code 17605 - Delegation of authority to purchase supplies and equipment
+  - Ed. Code 32370-32376 - Recycling paper
+  - Ed. Code 32435 - Prohibited use of public funds; alcoholic beverages
+  - Ed. Code 35010 - Control of district; prescription and enforcement of rules
+  - Ed. Code 35035 - Powers and duties of the superintendent; transfer authority
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35250 - Duty to keep certain records and reports
+  - Ed. Code 38083 - Purchase of perishable foodstuffs and seasonal commodities
+  - Ed. Code 41010 - California School Accounting Manual
+  - Ed. Code 41014 - Requirement of budgetary accounting
+  - Gov. Code 4330-4334 - California made materials
+  - Pub. Cont. Code 20111 - Contracts over $50,000; contracts for construction; award to lowest - responsible bidder
+  - Pub. Cont. Code 3410 - U.S. produce and processed foods - Board Policy Manual - Redwood City School District
   - 56
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA, Financial Services
-  - Website
-  - California Department of Education
-  - Website
-  - California Association of School Business Officials
+Cross References:
+  - 3000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3110 - Transfer Of Funds
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3312 - Contracts
+  - 3314.2 - Revolving Funds
+  - 3350 - Travel Expenses
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3440 - Inventories
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3512 - Equipment
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 4136 - Nonschool Employment
+  - 4156.2 - Awards And Recognition
+  - 4236 - Nonschool Employment
+  - 4336 - Nonschool Employment
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 9270 - Conflict Of Interest

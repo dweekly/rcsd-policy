@@ -9,44 +9,25 @@ Source: RCSD Policies 1000.pdf (Pages 38)
 
 Any Board of Education member, employee, parent/guardian, student or community member may submit the name
 of an individual or organization to the Superintendent or designee for Board recognition.
-These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
-for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
-of the policy.
-State
-Description
-CA Constitution Article 16, Section 6
-Gifts of public funds
-Ed. Code 35160
-Authority of governing boards
-Ed. Code 35160.1
-Broad authority of school districts
-Ed. Code 44015
-Awards to employees and students
-Management Resources
-Description
-Website
-CSBA District and County Office of Education Legal Services
-Cross References
-Description
 
-Concepts And Roles
+================================================================================
+REFERENCES
+================================================================================
 
-Volunteer Assistance
+State References:
+  - CA Constitution Article 16, Section 6 - Gifts of public funds
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 44015 - Awards to employees and students
 
-Volunteer Assistance
-
-Relations Between Private Industry And The Schools
-
-Gifts, Grants And Bequests
-
-Energy And Water Management
-
-Energy And Water Management
-4156.2
-Awards And Recognition
-
-Awards For Achievement
-
-Awards For Achievement
-Board Policy Manual
-Redwood City School District
+Cross References:
+  - 1000 - Concepts And Roles
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3290 - Gifts, Grants And Bequests
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 4156.2 - Awards And Recognition
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement

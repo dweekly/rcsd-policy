@@ -34,67 +34,59 @@ REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 16, Section 8.5(e)
-  - Allocations to State School Fund
-  - Ed. Code 1240
-  - County superintendent of schools; duties
-  - Ed. Code 17002
-  - State School Building Lease-Purchase Law, including definition of good
-  - repair
-  - Ed. Code 17014
-  - Plan for building maintenance
-  - Ed. Code 17032.5
-  - Portable classroom maintenance
-  - Ed. Code 17070.15
-  - School Facilities Act; definitions
-  - Ed. Code 17089
-  - Portable classroom maintenance
-  - Ed. Code 33126
-  - School accountability report card
-  - Ed. Code 33126.1
-  - School Accountability Report Card model template
-  - Ed. Code 33126.15
-  - School Accountability Report Card template
-  - Ed. Code 33126.2
-  - Secretary of Education school accountability report card study
-  - Ed. Code 35256
-  - School Accountability Report Card
-  - Ed. Code 35256.1
-  - Information required in the School Accountability Report Card
-  - Ed. Code 35258
-  - Internet access to the School Accountability Report Card
-  - Ed. Code 41409
-  - Calculation of statewide averages
-  - Ed. Code 41409.3
-  - Salary information required in the School Accountability Report Card
-  - Board Policy Manual
-  - Redwood City School District
+  - CA Constitution Article 16, Section 8.5(e) - Allocations to State School Fund
+  - Ed. Code 1240 - County superintendent of schools; duties
+  - Ed. Code 17002 - State School Building Lease-Purchase Law, including definition of good - repair
+  - Ed. Code 17014 - Plan for building maintenance
+  - Ed. Code 17032.5 - Portable classroom maintenance
+  - Ed. Code 17070.15 - School Facilities Act; definitions
+  - Ed. Code 17089 - Portable classroom maintenance
+  - Ed. Code 33126 - School accountability report card
+  - Ed. Code 33126.1 - School Accountability Report Card model template
+  - Ed. Code 33126.15 - School Accountability Report Card template
+  - Ed. Code 33126.2 - Secretary of Education school accountability report card study
+  - Ed. Code 35256 - School Accountability Report Card
+  - Ed. Code 35256.1 - Information required in the School Accountability Report Card
+  - Ed. Code 35258 - Internet access to the School Accountability Report Card
+  - Ed. Code 41409 - Calculation of statewide averages
+  - Ed. Code 41409.3 - Salary information required in the School Accountability Report Card - Board Policy Manual - Redwood City School District
   - 110
   - Ed. Code 46112
   - Minimum school day for grades 1 through 3
   - Ed. Code 46113
   - Minimum school day for grades 4 through 8
-  - Ed. Code 46117
-  - Minimum kindergarten school day
-  - Ed. Code 46141
-  - Minimum school day (high school)
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 52052
-  - Accountability; numerically significant student subgroups
-  - Ed. Code 60119
-  - Textbook sufficiency
-  - Ed. Code 60600-60618
-  - General provisions
-  - Ed. Code 60640-60648.5
-  - California Assessment of Student Performance and Progress
-  - Ed. Code 60800
-  - Physical fitness testing
-  - State
+  - Ed. Code 46117 - Minimum kindergarten school day
+  - Ed. Code 46141 - Minimum school day (high school)
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 60119 - Textbook sufficiency
+  - Ed. Code 60600-60618 - General provisions
+  - Ed. Code 60640-60648.5 - California Assessment of Student Performance and Progress
+  - Ed. Code 60800 - Physical fitness testing
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
 
 Management Resources:
-  - California Department of Education Publication
-  - Adjusted Cohort Graduation Rate
+  - the Elementary and Secondary Education Act of 1965, as Amended by the - Every Student Succeeds Act, September 2019 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, School Accountability Report Card - Website - U.S. Department of Education
+
+Cross References:
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 3517 - Facilities Inspection
+  - 5145.6 - Parent/Guardian Notifications
+  - 6000 - Concepts And Roles
+  - 6162.5 - Student Assessment
+  - 6190 - Evaluation Of The Instructional Program
+  - 9000 - Role Of The Board

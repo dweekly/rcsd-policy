@@ -47,8 +47,7 @@ The compliance coordinator shall ensure that the U.S. Department of Agriculture'
 rights poster or a substitute poster approved by the USDA's Food and Nutrition Service is displayed in areas visible to 
 the district's nutrition program participants, such as food service areas and school offices. 
 The compliance coordinator shall notify the public, all program applicants, participants, and potentially eligible 
-Board Policy Manual
-Redwood City School District
+
 
 persons of their rights and responsibilities and steps necessary to participate in the nutrition programs, including 
 program requirements and program availability. Applicants, participants, and the public also shall be advised of their 
@@ -94,7 +93,7 @@ following: (5 CCR 15581)
  
 1. A statement that the district has violated a law or regulation relating to its child nutrition program
 
-Policy Reference Disclaimer:
+
 2. The facts on which the statement is based 
 3. The name of the district or the school against which the allegations are made 4. The 
 complainant's contact information 
@@ -111,58 +110,68 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 15580-15584
-  - Child nutrition programs complaint procedures
-  - 5 CCR 3080
-  - Applicability of uniform complaint procedures to complaints regarding
-  - students with disabilities
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - 5 CCR 4900-4965
-  - Nondiscrimination in elementary and secondary educational programs
-  - receiving state or
+  - 5 CCR 15580-15584 - Child nutrition programs complaint procedures
+  - 5 CCR 3080 - Applicability of uniform complaint procedures to complaints regarding - students with disabilities
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - 5 CCR 4900-4965 - Nondiscrimination in elementary and secondary educational programs - receiving state or federal financial assistance
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 42238.01 - Definitions for purposes of funding
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 49490-49590 - Child nutrition programs
+  - Pen. Code 422.6 - Crimes; harassment
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 28 CFR 35.101-35.190
-  - Americans with Disabilities Act
-  - 28 CFR 36.303
-  - Nondiscrimination on the basis of disability, public accommodations,
-  - auxiliary aids, and services
+  - 28 CFR 35.101-35.190 - Americans with Disabilities Act
+  - 28 CFR 36.303 - Nondiscrimination on the basis of disability, public accommodations, - auxiliary aids, and services
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 100.1-100.13
-  - Nondiscrimination in federal programs; effectuating Title VI
+  - 34 CFR 100.1-100.13 - Nondiscrimination in federal programs; effectuating Title VI
   - 34 CFR 104.1-104.39
   - Section 504 of the Rehabilitation Act of 1973
-  - 34 CFR 106.1-106.61
-  - Discrimination on the basis of sex; effectuating Title IX
-  - 34 CFR 106.9
-  - Severability
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
-  - 42 USC 2000d-2000d-7
-  - Title VI, Civil Rights Act of 1964
-  - 42 USC 2000e-2000e-17
-  - Title VII, Civil Rights Act of 1964, as amended
+  - 34 CFR 106.1-106.61 - Discrimination on the basis of sex; effectuating Title IX
+  - 34 CFR 106.9 - Severability
+  - 42 USC 12101-12213 - Americans with Disabilities Act
+  - 42 USC 2000d-2000d-7 - Title VI, Civil Rights Act of 1964
+  - 42 USC 2000e-2000e-17 - Title VII, Civil Rights Act of 1964, as amended
   - 293
-  - 7 CFR 210.19
-  - National School Lunch Program; additional responsibilities
-  - 7 CFR 210.23
-  - National School Lunch Program; district responsibilities
-  - 7 CFR 215.14
-  - Special Milk Program; nondiscrimination
-  - 7 CFR 215.7
-  - Special Milk Program; requirements for participation
-  - 7 CFR 220.13
-  - School Breakfast Program; special responsibilities of
+  - 7 CFR 210.19 - National School Lunch Program; additional responsibilities
+  - 7 CFR 210.23 - National School Lunch Program; district responsibilities
+  - 7 CFR 215.14 - Special Milk Program; nondiscrimination
+  - 7 CFR 215.7 - Special Milk Program; requirements for participation
+  - 7 CFR 220.13 - School Breakfast Program; special responsibilities of state agencies
+  - 7 CFR 220.7 - School Breakfast Program; requirements for participation
+  - 7 CFR 225.11 - Summer Food Service Program; corrective action procedures
+  - 7 CFR 225.3 - Summer Food Service Program; administration
+  - 7 CFR 225.7 - Summer Food Service Program; program monitoring
+  - 7 CFR 226.6 - Child and Adult Care Food Program; state agency administrative - responsibilities
+  - 7 CFR 250.15 - Out-of-condition donated foods, food recalls, and complaints
 
-Management Resources:
-  - California Department of Education Publication
-  - Civil Rights and Complaint Procedures, U.S. Department of Agriculture Child
-  - Nutrition Programs, June 2018
-  - U. S. Department of Agriculture Publication
-  - USDA Nondiscrimination
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1100 - Communication With The Public
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3312 - Contracts
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 4231 - Staff Development
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5030 - Student Wellness
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.6 - Parent/Guardian Notifications
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504

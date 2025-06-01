@@ -54,10 +54,9 @@ student information when using email, chat rooms, and other forms of direct elec
 To reinforce these measures, the Superintendent or designee shall implement rules and procedures designed to
 restrict students' access to harmful or inappropriate matter on the Internet and to ensure that students do not
 engage in unauthorized or unlawful online activities.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 Harmful matter includes matter, taken as a whole, which to the average person, applying contemporary statewide
 standards, appeals to the prurient interest and is matter which depicts or describes, in a patently offensive way,
 sexual conduct and which lacks serious literary, artistic, political, or scientific value for minors. (Penal Code 313)
@@ -85,44 +84,68 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Civ. Code 3120-3123
-  - Digital equity bill of rights
-  - Ed. Code 49073.6
-  - Student records; social media
-  - Ed. Code 51006
-  - Computer education and resources
-  - Ed. Code 51007
-  - Programs to strengthen technological skills
-  - Ed. Code 60044
-  - Prohibited instructional materials
-  - Pen. Code 313
-  - Harmful matter
-  - Pen. Code 502
-  - Computer crimes; remedies
-  - Pen. Code 632
-  - Eavesdropping on or recording confidential communications
-  - Pen. Code 653.2
-  - Electronic communication devices; threats to safety
+  - Civ. Code 3120-3123 - Digital equity bill of rights
+  - Ed. Code 49073.6 - Student records; social media
+  - Ed. Code 51006 - Computer education and resources
+  - Ed. Code 51007 - Programs to strengthen technological skills
+  - Ed. Code 60044 - Prohibited instructional materials
+  - Pen. Code 313 - Harmful matter
+  - Pen. Code 502 - Computer crimes; remedies
+  - Pen. Code 632 - Eavesdropping on or recording confidential communications
+  - Pen. Code 653.2 - Electronic communication devices; threats to safety
 
 Federal References:
-  - 15 USC 6501-6506
-  - Children's Online Privacy Protection Act
-  - 16 CFR 312.1-312.12
-  - Children's Online Privacy Protection Act
-  - 20 USC 7101-7122
-  - Student Support and Academic Enrichment Grants
-  - 20 USC 7131
-  - Internet Safety
-  - 47 CFR 54.520
-  - Internet safety policy and technology protection measures; E-rate discounts
-  - 47 USC 254
-  - Universal service discounts (E-rate)
+  - 15 USC 6501-6506 - Children's Online Privacy Protection Act
+  - 16 CFR 312.1-312.12 - Children's Online Privacy Protection Act
+  - 20 USC 7101-7122 - Student Support and Academic Enrichment Grants
+  - 20 USC 7131 - Internet Safety
+  - 47 CFR 54.520 - Internet safety policy and technology protection measures; E-rate discounts
+  - 47 USC 254 - Universal service discounts (E-rate)
 
 Management Resources:
-  - California Department of Education Publication
-  - Artificial Intelligence: Learning With AI Learning About AI
-  - Court Decision
-  - New Jersey v. T.L.O. (1985) 469 U.S. 325
-  - CSBA Publication
-  - Cyberbullying: Policy Considerations for Boards, Policy Brief, July 2007
-  - 189
+  - 189 - Federal Trade Commission Publication - How to Protect Kids' Privacy Online: A Guide for Teachers, December 2000 - U.S. Department of Education Publication
+  - 2024 National Education Technology Plan - USDOE Office of Educational Technology - Publication - Artificial Intelligence and the Future of Teaching and Learning: Insights and - Recommendations, May 2023 - Website - California Governor’s Office of Emergency Services - Website - CSBA District and County Office of Education Legal Services - Website - California Coalition for Children's Internet Safety - Website - Center for Safe and Responsible Internet Use - Website - Federal Trade Commission, Children's Online Privacy Protection - Website - American Library Association - Website - Federal Communications Commission - Website - California Department of Education - Website - U.S. Department of Education - Website - CSBA
+
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3512 - Equipment
+  - 4040 - Employee Use Of Technology
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.8 - Mobile Communication Devices
+  - 5131.9 - Academic Honesty
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.12 - Search And Seizure
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6154 - Homework/Makeup Work
+  - 6162.5 - Student Assessment
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.8 - Research
+  - 6162.8 - Research
+  - 6163.1 - Library Media Centers

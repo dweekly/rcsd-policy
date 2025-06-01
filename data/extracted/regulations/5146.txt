@@ -47,74 +47,84 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 22 CCR 101151-101239.2
-  - General requirements; licensed child care centers
-  - 22 CCR 101351-101439.1
-  - Infant care centers
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - 5 CCR 4950
-  - Nondiscrimination; marital and parental status
-  - Civ. Code 51
-  - Unruh Civil Rights Act
-  - Board Policy Manual
-  - Redwood City School District
+  - 22 CCR 101151-101239.2 - General requirements; licensed child care centers
+  - 22 CCR 101351-101439.1 - Infant care centers
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - 5 CCR 4950 - Nondiscrimination; marital and parental status
+  - Civ. Code 51 - Unruh Civil Rights Act - Board Policy Manual - Redwood City School District
   - 471
-  - Ed. Code 221.51
-  - Nondiscrimination; married, pregnant, and parenting students
-  - Ed. Code 222
-  - Reasonable accommodations; lactating students
-  - Ed. Code 222.5
-  - Pregnant and parenting students; notification of rights
-  - Ed. Code 230
-  - Sex discrimination
-  - Ed. Code 46015
-  - Parental leave
-  - Ed. Code 48050
-  - Residents of adjoining states
-  - Ed. Code 48205
-  - Excused absences
-  - Ed. Code 48206.3
-  - Temporary disability; definition
-  - Ed. Code 48220
-  - Compulsory education requirement
-  - Ed. Code 48410
-  - Persons exempted from continuation classes
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 49553
-  - Nutrition supplements for pregnant/lactating students
-  - Ed. Code 51220.5
-  - Parenting skills and education
-  - Ed. Code 51745
-  - Independent study
-  - Ed. Code 52610.5
-  - Enrollment of pregnant and parenting students in adult education
-  - Ed. Code 8200-8490
-  - Child Care and Development Services Act
-  - Fam. Code 7002
-  - H&S Code 104460
-  - Tobacco prevention services for pregnant and parenting students
-  - State
+  - Ed. Code 221.51 - Nondiscrimination; married, pregnant, and parenting students
+  - Ed. Code 222 - Reasonable accommodations; lactating students
+  - Ed. Code 222.5 - Pregnant and parenting students; notification of rights
+  - Ed. Code 230 - Sex discrimination
+  - Ed. Code 46015 - Parental leave
+  - Ed. Code 48050 - Residents of adjoining states
+  - Ed. Code 48205 - Excused absences
+  - Ed. Code 48206.3 - Temporary disability; definition
+  - Ed. Code 48220 - Compulsory education requirement
+  - Ed. Code 48410 - Persons exempted from continuation classes
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 49553 - Nutrition supplements for pregnant/lactating students
+  - Ed. Code 51220.5 - Parenting skills and education
+  - Ed. Code 51745 - Independent study
+  - Ed. Code 52610.5 - Enrollment of pregnant and parenting students in adult education
+  - Ed. Code 8200-8490 - Child Care and Development Services Act
+  - Fam. Code 7002 - Description of emancipated minor - H&S Code 104460 - Tobacco prevention services for pregnant and parenting students
 
 Federal References:
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 34 CFR 106.1-106.82
-  - Discrimination on the basis of sex; effectuating Title IX
-  - 34 CFR 106.40
-  - Marital or parental status
-  - 42 USC 1786
-  - Special supplemental nutrition program for women, infants, and children
-  - 7 CFR 246.1-246.28
-  - Special supplemental nutrition program for women, infants, and children
+  - 34 CFR 106.1-106.82 - Discrimination on the basis of sex; effectuating Title IX
+  - 34 CFR 106.40 - Marital or parental status
+  - 42 USC 1786 - Special supplemental nutrition program for women, infants, and children
+  - 7 CFR 246.1-246.28 - Special supplemental nutrition program for women, infants, and children
 
 Management Resources:
-  - Attorney General Opinion
-  - 87 Ops.Cal.Atty.Gen. 168 (2004)
-  - California Women's Law Center Publication
-  - Pregnant Students and Confidential Medical Services, 2013
-  - California Women's Law Center Publication
-  - The Civil Rights of Pregnant and Parenting Teens in California Schools, 2002
-  - Court Decision
-  - American Academy of Pediatrics et al v. Lungren et al (1997) 16 Cal.4th 307
+  - 87 Ops.Cal.Atty.Gen. 168 (2004) - California Women's Law Center Publication - Pregnant Students and Confidential Medical Services, 2013 - California Women's Law Center Publication - The Civil Rights of Pregnant and Parenting Teens in California Schools, 2002 - Court Decision - American Academy of Pediatrics et al v. Lungren et al (1997) 16 Cal.4th 307 - Federal Register - Nondiscrimination on the Basis of Sex in Education Programs or Activities - Receiving Federal Financial Assistance, April 29, 2024, Vol. 89, No. 83,
+  - pages 33474-33896 - U.S. Department of Education Publication - Supporting the Academic Success of Pregnant and Parenting Students under
+  - Title IX of the Education Amendments of 1972, rev. June 2013 - Website - CSBA District and County Office of Education Legal Services - Website - California Women's Law Center - Website - U.S. Department of Agriculture, Women, Infants, and Children Program - Website - U.S. Department of Education - Website - California Department of Education
+  - 472
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 5030 - Student Wellness
+  - 5112.1 - Exemptions From Attendance
+  - 5112.1 - Exemptions From Attendance
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5141.6 - School Health Services
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5147 - Dropout Prevention
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

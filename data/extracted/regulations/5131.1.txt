@@ -55,10 +55,9 @@ evidence of student misconduct. Two weeks after this review, the Superintendent 
 that do not show incidents of misconduct.
 Tapes retained as part of an individual student's disciplinary record shall be maintained in accordance with law and
 Board policy governing the access, review and release of student records. Tapes retained as part of an expulsion
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 record are nonprivileged, disclosable public records pursuant to Education Code 48918.
 Videotapes may be viewed by persons other than the Superintendent or designee under the following conditions:
 1. When student misconduct is revealed as a result of a school bus videotape or reported to the Superintendent
@@ -84,45 +83,55 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 13 CCR 1200-1294
-  - Motor carrier safety
-  - 5 CCR 14103
-  - Authority of the driver
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 39800-39860
-  - Transportation services
-  - Ed. Code 39839
-  - Transportation of guide dogs, signal dogs, service dogs
-  - Ed. Code 44808
-  - Duty to supervise conduct of students
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Ed. Code 48918
-  - Rules governing expulsion procedures
-  - Ed. Code 49060-49079
-  - Student records
-  - Ed. Code 49073-49079
-  - Privacy of student records
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
+  - 13 CCR 1200-1294 - Motor carrier safety
+  - 5 CCR 14103 - Authority of the driver
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 39800-39860 - Transportation services
+  - Ed. Code 39839 - Transportation of guide dogs, signal dogs, service dogs
+  - Ed. Code 44808 - Duty to supervise conduct of students
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48918 - Rules governing expulsion procedures
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 49073-49079 - Privacy of student records
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
 
 Management Resources:
-  - National Institute of Justice Publication
-  - The Appropriate and Effective Use of Security Technologies in U.S. Schools:
-  - A Guide for Schools and Law Enforcement Agencies, 1999
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Office of School Transportation
-  - Website
-  - U.S. Department of Education, Office of the Chief Privacy Officer
-  - Website
-  - CSBA
   - 147
+
+Cross References:
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3542 - School Bus Drivers
+  - 3543 - Transportation Safety And Emergencies
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5131 - Conduct
+  - 5131.41 - Use Of Seclusion And Restraint
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School

@@ -45,7 +45,9 @@ class ComplianceChecker:
 
     def get_cache_key(self, policy_code, policy_xml, last_reviewed):
         """Generate cache key for API responses"""
-        content = f"{policy_code}:{last_reviewed}:{policy_xml}"
+        # Include version to invalidate cache when we fix parsing issues
+        version = "v4"  # Increment this when fixing parsing bugs
+        content = f"{version}:{policy_code}:{last_reviewed}:{policy_xml}"
         return hashlib.md5(content.encode()).hexdigest()
 
     def get_cached_response(self, cache_key):
@@ -77,44 +79,57 @@ class ComplianceChecker:
             with open(file_path) as f:
                 content = f.read()
 
-            # Look for cross-references section
-            refs_section = re.search(
-                r"Cross References:|Policy References:|Policy Reference:",
+            # Extract the policy code from the filename to avoid self-references
+            own_code = Path(file_path).stem
+            
+            # First, look for the structured Cross References section at the end
+            cross_refs_match = re.search(
+                r"Cross References\s*\n(?:Description\s*\n)?(.*?)(?:Board Policy Manual|$)",
                 content,
-                re.IGNORECASE,
+                re.DOTALL | re.IGNORECASE
             )
-            if refs_section:
-                # Get text after cross-references header
-                refs_text = content[refs_section.end() :]
-
-                # Extract policy/regulation numbers
-                # Patterns: "Policy 1234", "BP 1234", "AR 1234", "Regulation 1234"
-                patterns = [
-                    r"(?:Policy|BP)\s+(\d{4}(?:\.\d+)?)",
-                    r"(?:Regulation|AR)\s+(\d{4}(?:\.\d+)?)",
-                    r"(?:Bylaw)\s+(\d{4}(?:\.\d+)?)",
-                ]
-
-                for pattern in patterns:
-                    matches = re.findall(
-                        pattern, refs_text[:2000]
-                    )  # Limit search length
-                    cross_refs.update(matches)
-
+            
+            if cross_refs_match:
+                refs_text = cross_refs_match.group(1)
+                # Extract policy numbers from the Cross References section
+                # Pattern matches lines that start with a policy number
+                policy_pattern = r"^(\d{4}(?:\.\d+)?)\s+"
+                matches = re.findall(policy_pattern, refs_text, re.MULTILINE)
+                cross_refs.update(matches)
+            
             # Also check for inline references in the main text
-            main_patterns = [
-                r"(?:pursuant to |per |see )(?:Board )?(?:Policy|BP)\s+(\d{4}(?:\.\d+)?)",
-                r"(?:pursuant to |per |see )(?:Administrative )?(?:Regulation|AR)\s+(\d{4}(?:\.\d+)?)",
+            # Get main text (before REFERENCES section)
+            main_text_match = re.search(r"^(.*?)(?:\n={50,}\nREFERENCES|$)", content, re.DOTALL)
+            main_text = main_text_match.group(1) if main_text_match else content
+            
+            # More flexible patterns that catch various reference styles
+            inline_patterns = [
+                # Board Policy references
+                r"(?:Board )?(?:Policy|BP)\s+(\d{4}(?:\.\d+)?)",
+                # Administrative Regulation references  
+                r"(?:Administrative )?(?:Regulation|AR)\s+(\d{4}(?:\.\d+)?(?:/\d{4}(?:\.\d+)?)*)",
+                # Bylaw references
+                r"(?:Bylaw)\s+(\d{4}(?:\.\d+)?)",
             ]
 
-            for pattern in main_patterns:
-                matches = re.findall(pattern, content, re.IGNORECASE)
-                cross_refs.update(matches)
+            for pattern in inline_patterns:
+                matches = re.findall(pattern, main_text, re.IGNORECASE)
+                # Handle multiple references separated by slashes
+                for match in matches:
+                    if '/' in match:
+                        # Split multiple references like "4119.12/4219.12/4319.12"
+                        for ref in match.split('/'):
+                            cross_refs.add(ref.strip())
+                    else:
+                        cross_refs.add(match)
+            
+            # Remove self-reference
+            cross_refs.discard(own_code)
 
         except Exception as e:
             print(f"Error extracting cross-references: {e}")
 
-        return list(cross_refs)
+        return sorted(list(cross_refs))
 
     def find_related_policies(
         self, policy_code, cross_refs, base_dir="data/extracted"
@@ -213,6 +228,17 @@ class ComplianceChecker:
         if not main_text_match:
             main_text_match = re.search(r"={50,}\n\n(.+?)$", content, re.DOTALL)
         main_text = main_text_match.group(1).strip() if main_text_match else content
+        
+        # Clean up page break artifacts and formatting issues
+        main_text = re.sub(r'\nBoard Policy Manual\n.*?\n', '\n', main_text)
+        main_text = re.sub(r'\nRedwood City School District\n.*?\n', '\n', main_text)
+        main_text = re.sub(r'\nPolicy Reference Disclaimer:?\n', '\n', main_text)
+        main_text = re.sub(r'\n\d+\n', '\n', main_text)  # Remove standalone page numbers
+        
+        # Ensure we keep the full text, not truncated
+        # Only truncate for extremely long policies (>20k chars)
+        if len(main_text) > 20000:
+            main_text = main_text[:20000] + "\n[TRUNCATED - POLICY EXCEEDS 20000 CHARACTERS]"
 
         # Build XML
         xml = f"""<policy>
@@ -223,7 +249,7 @@ class ComplianceChecker:
         <adopted>{adopted or "Unknown"}</adopted>
         <last_reviewed>{reviewed or adopted or "Unknown"}</last_reviewed>
     </metadata>
-    <content>{main_text[:3000]}...</content>
+    <content>{main_text}</content>
 </policy>"""
 
         return xml, code, title, reviewed

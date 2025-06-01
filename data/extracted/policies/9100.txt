@@ -47,23 +47,24 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35143
-  - Annual organizational meetings; date and notice
-  - Ed. Code 35145
-  - Public meetings
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 35143 - Annual organizational meetings; date and notice
+  - Ed. Code 35145 - Public meetings - Board Policy Manual - Redwood City School District
   - 13
-  - Ed. Code 5017
-  - Term of office
-  - Gov. Code 54953
-  - Meetings to be open and public; attendance
-  - State
+  - Ed. Code 5017 - Term of office
+  - Gov. Code 54953 - Meetings to be open and public; attendance
 
 Management Resources:
-  - Attorney General Opinion
-  - 59 Ops.Cal.Atty.Gen. 619 (1976)
-  - Attorney General Opinion
-  - 68 Ops.Cal.Atty.Gen. 65 (1985)
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - 59 Ops.Cal.Atty.Gen. 619 (1976) - Attorney General Opinion
+  - 68 Ops.Cal.Atty.Gen. 65 (1985) - Website - CSBA District and County Office of Education Legal Services
+
+Cross References:
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9121 - President
+  - 9123 - Clerk
+  - 9140 - Board Representatives
+  - 9223 - Filling Vacancies
+  - 9224 - Oath Or Affirmation
+  - 9230 - Orientation
+  - 9320 - Meetings And Notices
+  - 9323 - Meeting Conduct

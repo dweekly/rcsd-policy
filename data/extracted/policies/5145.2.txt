@@ -38,55 +38,59 @@ REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 1, Section 2
-  - Freedom of speech and expression
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 51520
-  - Prohibited solicitations on school premises
+  - CA Constitution Article 1, Section 2 - Freedom of speech and expression
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 51520 - Prohibited solicitations on school premises
 
 Federal References:
-  - 20 USC 4071-4074
-  - Equal Access Act
-  - U.S. Constitution, First Amendment
-  - Free exercise, free speech, and establishment clauses
+  - 20 USC 4071-4074 - Equal Access Act - U.S. Constitution, First Amendment - Free exercise, free speech, and establishment clauses
 
 Management Resources:
-  - Court Decision
-  - Beussink v. Woodland R-IV School District (1998) 30 F.Supp. 2d 1175
-  - Court Decision
-  - Bright v. Los Angeles Unified School District (1976) 18 Cal. 3d 350
-  - Court Decision
-  - Emmett v. Kirkland School District No. 415 (2000) 92 F.Supp. 2d 1088
-  - Board Policy Manual
-  - Redwood City School District
-  - 387
-  - Court Decision
-  - J.S. v. Bethlehem Area School District (2000) 757 A.2d 412 (Pa. Commw.
-  - 2000)
-  - Court Decision
-  - Lavine v. Blaine School District (2001, 9th Cir.) 257 F.3d 981
-  - Court Decision
-  - Leeb v. DeLong (1988) 198 Cal.App.3d 47
-  - Court Decision
-  - Lovell v. Poway Unified School District (1996) 90 F.3d 367
-  - Court Decision
-  - Muller v. Jefferson Lighthouse School (1996) 98 F.3d 1530
-  - Court Decision
-  - Smith v. Novato Unified School District (2007) 150 Cal.App.4th 1439
-  - Court Decision
-  - Hazelwood School District v. Kuhlmeier (1988) 108 S. Ct. 562
-  - Court Decision
-  - Tinker v. Des Moines Independent Community School District (1969) 393
-  - U.S. 503
-  - Court Decision
-  - Bethel School District No. 403 v. Fraser (1986) 478 U.S. 675
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Management Resources
+  - Emmett v. Kirkland School District No. 415 (2000) 92 F.Supp. 2d 1088 - Board Policy Manual - Redwood City School District
+  - 387 - Court Decision - J.S. v. Bethlehem Area School District (2000) 757 A.2d 412 (Pa. Commw.
+  - 2000) - Court Decision - Lavine v. Blaine School District (2001, 9th Cir.) 257 F.3d 981 - Court Decision - Leeb v. DeLong (1988) 198 Cal.App.3d 47 - Court Decision - Lovell v. Poway Unified School District (1996) 90 F.3d 367 - Court Decision - Muller v. Jefferson Lighthouse School (1996) 98 F.3d 1530 - Court Decision - Smith v. Novato Unified School District (2007) 150 Cal.App.4th 1439 - Court Decision - Hazelwood School District v. Kuhlmeier (1988) 108 S. Ct. 562 - Court Decision - Tinker v. Des Moines Independent Community School District (1969) 393
+  - U.S. 503 - Court Decision
+  - Bethel School District No. 403 v. Fraser (1986) 478 U.S. 675 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 1100 - Communication With The Public
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1313 - Civility
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 5127 - Graduation Ceremonies And Activities
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5131.8 - Mobile Communication Devices
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5136 - Gangs
+  - 5136 - Gangs
+  - 5137 - Positive School Climate
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.8 - Refusal To Harm Or Destroy Animals
+  - 5145.8 - Refusal To Harm Or Destroy Animals
+  - 5145.9 - Hate-Motivated Behavior
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.3 - Civic Education
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.8 - Assemblies And Special Events

@@ -48,10 +48,9 @@ partnering with an external entity, agency, or individual with demonstrated expe
 1. Conduct a new needs assessment that focuses on systemic factors and conduct a root cause
 analysis that iden4ﬁes gaps between current condi4ons and desired condi4ons in student
 performance and progress
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 2. Use the results of the analysis along with stakeholder feedback to develop a new improvement
 plan that includes:
 a. A prioritized set of evidence-based interventions and strategies
@@ -63,19 +62,22 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 52052
-  - Numerically significant student subgroups
-  - Ed. Code 52059.5
-  - Statewide system of support
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
+  - Ed. Code 52052 - Numerically significant student subgroups
+  - Ed. Code 52059.5 - Statewide system of support
+  - Ed. Code 52060-52077 - Local control and accountability plan
 
 Federal References:
-  - 20 USC 6311-6322
-  - Improving basic programs for disadvantaged students
-  - 20 USC 6313
-  - Eligibility of schools and school attendance areas; funding allocation
+  - 20 USC 6311-6322 - Improving basic programs for disadvantaged students
+  - 20 USC 6313 - Eligibility of schools and school attendance areas; funding allocation
 
-Management Resources:
-  - California Department of Education Publication
-  - California ESSA Consolidated
+Cross References:
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0520 - Intervention In Underperforming Schools
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 6011 - Academic Standards
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs

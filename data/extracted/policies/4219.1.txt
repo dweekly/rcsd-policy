@@ -50,10 +50,9 @@ The protection against liability shall not apply when: (20 USC 6736)
 indifference to the harmed person's rights or safety.
 2. The employee caused harm by operating a motor vehicle or other vehicle requiring license or insurance.
 3. The employee was not properly licensed, if required, by state law for such activities.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 4. The employee was found by a court to have violated a federal or state civil rights law.
 5. The employee was under the influence of alcohol or any drug at the time of the misconduct.
 6. The misconduct constituted a crime of violence pursuant to 18 USC 16 or an act of terrorism for which the
@@ -66,74 +65,62 @@ REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 1, Section 1
-  - Inalienable rights
-  - Ed. Code 200-270
-  - Prohibition of discrimination
-  - Ed. Code 44040
-  - Discrimination based on employee's appearance before certain boards or
-  - committees
-  - Ed. Code 44110-44114
-  - Reporting by school employees of improper governmental activity
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 49091.24
-  - Teacher rights to refuse evaluation/survey of personal life
-  - Ed. Code 7050-7058
-  - Political activities of school officers and employees
-  - Gov. Code 12650-12656
-  - False claims actions
-  - Gov. Code 12940-12953
-  - Discrimination prohibited; unlawful practices
-  - Gov. Code 3540.1
-  - Public employment; definitions
-  - Gov. Code 3543.5
-  - Interference with employee's rights prohibited
-  - Gov. Code 815.3
-  - Intentional torts
-  - Gov. Code 820-823
-  - Tort claims act
-  - Gov. Code 825.6
-  - Indemnification of public entity
-  - Lab. Code 1102.5-1106
-  - Whistleblower protections
+  - CA Constitution Article 1, Section 1 - Inalienable rights
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 44040 - Discrimination based on employee's appearance before certain boards or - committees
+  - Ed. Code 44110-44114 - Reporting by school employees of improper governmental activity
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 49091.24 - Teacher rights to refuse evaluation/survey of personal life
+  - Ed. Code 7050-7058 - Political activities of school officers and employees
+  - Gov. Code 12650-12656 - False claims actions
+  - Gov. Code 12940-12953 - Discrimination prohibited; unlawful practices
+  - Gov. Code 3540.1 - Public employment; definitions
+  - Gov. Code 3543.5 - Interference with employee's rights prohibited
+  - Gov. Code 815.3 - Intentional torts
+  - Gov. Code 820-823 - Tort claims act
+  - Gov. Code 825.6 - Indemnification of public entity
+  - Lab. Code 1102.5-1106 - Whistleblower protections
 
 Federal References:
-  - 18 USC 16
-  - Crime of violence; definition
+  - 18 USC 16 - Crime of violence; definition
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 20 USC 7941-7948
-  - Teacher liability protection
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
-  - 42 USC 2000d-2000d-7
-  - Title VI, Civil Rights Act of 1964
-  - 42 USC 2000e-2000e-17
-  - Title VII, Civil Rights Act of 1964, as amended
-  - U.S. Constitution, First Amendment
-  - Free exercise, free speech, and establishment clauses
+  - 20 USC 7941-7948 - Teacher liability protection
+  - 42 USC 12101-12213 - Americans with Disabilities Act
+  - 42 USC 2000d-2000d-7 - Title VI, Civil Rights Act of 1964
+  - 42 USC 2000e-2000e-17 - Title VII, Civil Rights Act of 1964, as amended - U.S. Constitution, First Amendment - Free exercise, free speech, and establishment clauses
 
 Management Resources:
-  - Court Decision
-  - Kennedy v. Bremerton (2022) 142 S.Ct. 2407
-  - Court Decision
-  - New Jersey v. T.L.O. (1985) 469 U.S. 325
-  - Court Decision
-  - Garcetti v. Ceballos (2006) 547 U.S. 410
-  - 267
-  - Court Decision
-  - Hartnett v. Crosier (2012) 205 Cal.App.4th 685
-  - Court Decision
-  - Johnson v. Poway Unified School District (2011) 658 F.3d 954
-  - Court Decision
-  - O'Conner v. Ortega (1987) 480 U.S. 709
-  - Court Decision
-  - Ohton v. CSU San Diego (2007) 56 Cal.Rptr.3d 111
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Office of the Attorney General
-  - Management Resources
+  - 267 - Court Decision - Hartnett v. Crosier (2012) 205 Cal.App.4th 685 - Court Decision - Johnson v. Poway Unified School District (2011) 658 F.3d 954 - Court Decision - O'Conner v. Ortega (1987) 480 U.S. 709 - Court Decision - Ohton v. CSU San Diego (2007) 56 Cal.Rptr.3d 111 - Website - CSBA District and County Office of Education Legal Services - Website - California Office of the Attorney General
+
+Cross References:
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3320 - Claims And Actions Against The District
+  - 3320 - Claims And Actions Against The District
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4040 - Employee Use Of Technology
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4132 - Publication Or Creation Of Materials
+  - 4136 - Nonschool Employment
+  - 4140 - Bargaining Units
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.21 - Professional Standards
+  - 4236 - Nonschool Employment
+  - 4319.21 - Professional Standards
+  - 4336 - Nonschool Employment
+  - 9260 - Legal Protection

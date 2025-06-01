@@ -13,32 +13,34 @@ commit other acts of academic dishonesty.
 Students, parents/guardians, staff and administrators shall be responsible for creating and maintaining a positive
 school climate that encourages honesty. Students found to have committed an act of academic dishonesty shall be
 subject to district and school-site discipline rules.
-These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
-for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
-of the policy.
-State
-Description
-Ed. Code 35291-35291.5
-Rules
-Ed. Code 56341.1
-Assistive technology devices for a student with a disability
 
 ================================================================================
 REFERENCES
 ================================================================================
 
+State References:
+  - Ed. Code 35291-35291.5 - Rules
+  - Ed. Code 56341.1 - Assistive technology devices for a student with a disability
+
 Federal References:
-  - 20 USC 1401
-  - Assistive technology device; definition
+  - 20 USC 1401 - Assistive technology device; definition
 
 Management Resources:
-  - Metropolitan Ed. Research Consortium PublicationBalancing the Benefits and Risks of AI Large Language Models in K12 Public
-  - Schools, 2023
-  - USDOE Office of Educational Technology
-  - Publication
-  - Artificial Intelligence and the Future of Teaching and Learning: Insights and
-  - Recommendations, May 2023
-  - Website
-  - Metropolitan Educational Research Consortium
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - Metropolitan Ed. Research Consortium PublicationBalancing the Benefits and Risks of AI Large Language Models in K12 Public - Schools, 2023 - USDOE Office of Educational Technology - Publication - Artificial Intelligence and the Future of Teaching and Learning: Insights and - Recommendations, May 2023 - Website - Metropolitan Educational Research Consortium - Website - CSBA District and County Office of Education Legal Services
+
+Cross References:
+  - 4040 - Employee Use Of Technology
+  - 5131 - Conduct
+  - 5131.8 - Mobile Communication Devices
+  - 5137 - Positive School Climate
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 6000 - Concepts And Roles
+  - 6141 - Curriculum Development And Evaluation
+  - 6154 - Homework/Makeup Work
+  - 6162.5 - Student Assessment
+  - 6162.54 - Test Integrity/Test Preparation
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology

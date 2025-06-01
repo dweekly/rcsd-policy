@@ -32,38 +32,74 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 33126
-  - School accountability report card
-  - Ed. Code 35291
-  - Rules
-  - Ed. Code 48070.5
-  - Promotion and retention of students
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 49091.10-49091.19
-  - Parental review of curriculum and instruction
-  - Ed. Code 49602
-  - Counseling and confidentiality of student information
-  - Ed. Code 51100-51102
-  - Parent/guardian rights
-  - Ed. Code 51513
-  - Personal beliefs
-  - Ed. Code 60510
-  - Disposal of surplus instructional materials
+  - Ed. Code 33126 - School accountability report card
+  - Ed. Code 35291 - Rules
+  - Ed. Code 48070.5 - Promotion and retention of students
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 49091.10-49091.19 - Parental review of curriculum and instruction
+  - Ed. Code 49602 - Counseling and confidentiality of student information
+  - Ed. Code 51100-51102 - Parent/guardian rights
+  - Ed. Code 51513 - Personal beliefs
+  - Ed. Code 60510 - Disposal of surplus instructional materials
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1232h
-  - Privacy rights
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h - Privacy rights
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Board Policy Manual
-  - Redwood City School District
-  - 6
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1100 - Communication With The Public
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5021 - Noncustodial Parents
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5117 - Interdistrict Attendance
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5125.3 - Challenging Student Records
+  - 5131 - Conduct
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6154 - Homework/Makeup Work
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 9200 - Limits Of Board Member Authority

@@ -48,45 +48,51 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Civ. Code 1714.1
-  - Liability of parent or guardian for act of willful misconduct by a minor
-  - Ed. Code 19910
-  - Libraries; malicious cutting, tearing, defacing, breaking or injuring
-  - Board Policy Manual
-  - Redwood City School District
+  - Civ. Code 1714.1 - Liability of parent or guardian for act of willful misconduct by a minor
+  - Ed. Code 19910 - Libraries; malicious cutting, tearing, defacing, breaking or injuring - Board Policy Manual - Redwood City School District
   - 202
-  - Ed. Code 19911
-  - Libraries; willful detention of property
-  - Ed. Code 44810
-  - Willful interference with classroom conduct
-  - Ed. Code 48904
-  - Liability of parent or guardian; withholding of grades, diplomas, transcripts
-  - Ed. Code 49014
-  - Public School Fair Debt Collection Act
-  - Gov. Code 53069.5
-  - Reward for information
-  - Gov. Code 53069.6
-  - Actions to recover damages
-  - Gov. Code 54951
-  - Local agency; definition
-  - Pen. Code 484
-  - Theft defined
-  - Pen. Code 594
-  - Vandalism
-  - Pen. Code 594.1
-  - Aerosol paint and etching cream
-  - Pen. Code 640.5
-  - Graffiti; facilities or vehicles of governmental entity
-  - Pen. Code 640.6
-  - Graffiti
-  - State
+  - Ed. Code 19911 - Libraries; willful detention of property
+  - Ed. Code 44810 - Willful interference with classroom conduct
+  - Ed. Code 48904 - Liability of parent or guardian; withholding of grades, diplomas, transcripts
+  - Ed. Code 49014 - Public School Fair Debt Collection Act
+  - Gov. Code 53069.5 - Reward for information
+  - Gov. Code 53069.6 - Actions to recover damages
+  - Gov. Code 54951 - Local agency; definition
+  - Pen. Code 484 - Theft defined
+  - Pen. Code 594 - Vandalism
+  - Pen. Code 594.1 - Aerosol paint and etching cream
+  - Pen. Code 640.5 - Graffiti; facilities or vehicles of governmental entity
+  - Pen. Code 640.6 - Graffiti
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Judicial Council of California
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1313 - Civility
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3512 - Equipment
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4156.3 - Employee Property Reimbursement
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5131 - Conduct
+  - 5136 - Gangs
+  - 5136 - Gangs
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 6161.2 - Damaged Or Lost Instructional Materials
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth

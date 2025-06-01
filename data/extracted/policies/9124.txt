@@ -31,29 +31,31 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35041
-  - Administrative adviser
-  - Ed. Code 35041.5
-  - Legal counsel
-  - Ed. Code 35161
-  - Board delegation of any powers or duties
-  - Ed. Code 35200-35214
-  - Liabilities
-  - Ed. Code 35204
-  - Contract with attorney in private practice
-  - Ed. Code 35205
-  - Contract for legal services
-  - Gov. Code 26520
-  - Legal services to school districts
-  - Gov. Code 26529
-  - District Attorney
-  - Gov. Code 53060
-  - Special services and advice
-  - Gov. Code 814-895.8
-  - Liability of public entities and public employees
-  - Gov. Code 995-996.6
-  - Defense of public employees
+  - Ed. Code 35041 - Administrative adviser
+  - Ed. Code 35041.5 - Legal counsel
+  - Ed. Code 35161 - Board delegation of any powers or duties
+  - Ed. Code 35200-35214 - Liabilities
+  - Ed. Code 35204 - Contract with attorney in private practice
+  - Ed. Code 35205 - Contract for legal services
+  - Gov. Code 26520 - Legal services to school districts
+  - Gov. Code 26529 - District Attorney
+  - Gov. Code 53060 - Special services and advice
+  - Gov. Code 814-895.8 - Liability of public entities and public employees
+  - Gov. Code 995-996.6 - Defense of public employees
 
 Management Resources:
-  - CSBA Publication
-  - The Brown Act: School Boards and Open Meeting Laws, rev. 2023
+  - 20
+
+Cross References:
+  - 1160 - Political Processes
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2121 - Superintendent's Contract
+  - 3312 - Contracts
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 9000 - Role Of The Board
+  - 9200 - Limits Of Board Member Authority
+  - 9260 - Legal Protection

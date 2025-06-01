@@ -54,10 +54,9 @@ discipline, which may include suspension or expulsion when the behavior is sever
 Education Code 48900.4. Any employee who permits or engages in prohibited discrimination, including
 discriminatory harassment, intimidation, retaliation, or bullying, shall be subject to disciplinary action, up to and
 including dismissal.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 Record-Keeping
 The Superintendent or designee shall maintain a record of all reported cases of unlawful discrimination, including
 discriminatory harassment, intimidation, or bullying, to enable the district to monitor, address, and prevent repetitive
@@ -68,62 +67,170 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 432
-  - Student records
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - 5 CCR 4900-4965
-  - Nondiscrimination in elementary and secondary educational programs
-  - receiving state or
+  - 5 CCR 432 - Student records
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - 5 CCR 4900-4965 - Nondiscrimination in elementary and secondary educational programs - receiving state or federal financial assistance
+  - Civ. Code 1714.1 - Liability of parent or guardian for act of willful misconduct by a minor
+  - Ed. Code 17585 - School modernization project; all-gender restroom
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 33353 - California Interscholastic Federation; standardized incident form
+  - Ed. Code 35292.5 - School restrooms; all-gender restrooms
+  - Ed. Code 48900.3 - Suspension or expulsion for act of hate violence
+  - Ed. Code 48900.4 - Suspension or expulsion for harassment, threats, or intimidation
+  - Ed. Code 48900.5 - Suspension; other means of correction
+  - Ed. Code 48904 - Liability of parent/guardian for willful student misconduct
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 49020-49023 - Athletic programs
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 51204.5 - Social sciences instruction; contributions of specified groups
+  - Ed. Code 51500 - Prohibited instruction or activity
+  - Ed. Code 51501 - Nondiscriminatory subject matter
+  - Ed. Code 60010 - Instructional materials; definition
+  - Ed. Code 60040-60052 - Requirements for instructional materials
+  - Gov. Code 11135 - Prohibition of discrimination
+  - Pen. Code 422.55 - Definition of hate crime
+  - Pen. Code 422.6 - Crimes; harassment
 
 Federal References:
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 28 CFR 35.107
-  - Nondiscrimination on basis of disability; complaints
+  - 28 CFR 35.107 - Nondiscrimination on basis of disability; complaints
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 100.3
-  - Prohibition of discrimination on basis of race, color or national origin
+  - 34 CFR 100.3 - Prohibition of discrimination on basis of race, color or national origin
   - 34 CFR 104.7
-  - Section 504; Designation of responsible employee and adoption of
-  - grievances procedures
-  - 34 CFR 104.8
-  - Notice of Nondiscrimination on the Basis of Handicap
+  - Section 504; Designation of responsible employee and adoption of - grievances procedures
+  - 34 CFR 104.8 - Notice of Nondiscrimination on the Basis of Handicap
   - 394
-  - 34 CFR 106.1-106.82
-  - Discrimination on the basis of sex; effectuating Title IX
-  - 34 CFR 106.30
-  - Discrimination on the basis of sex; definitions
-  - 34 CFR 110.25
-  - Prohibition of discrimination based on age
-  - 34 CFR 99.31
-  - Disclosure of personally identifiable information
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
+  - 34 CFR 106.1-106.82 - Discrimination on the basis of sex; effectuating Title IX
+  - 34 CFR 106.30 - Discrimination on the basis of sex; definitions
+  - 34 CFR 110.25 - Prohibition of discrimination based on age
+  - 34 CFR 99.31 - Disclosure of personally identifiable information
+  - 42 USC 12101-12213 - Americans with Disabilities Act
   - 42 USC 2000d-2000e-17
   - Title VI and Title VII Civil Rights Act of 1964, as amended
   - 42 USC 2000h-2-2000h-6
   - Title IX of the Civil Rights Act of 1964
   - 42 USC 6101-6107
   - Age Discrimination Act of 1975
-  - Federal
 
 Management Resources:
-  - CA Office of the Attorney General Publication
-  - Guidance to School Officials re: Legal Requirements for Providing Inclusive
-  - Curricula and Books, January 2024
-  - CA Office of the Attorney General Publication
-  - Promoting a Safe and Secure Learning Environment for All: Guidance and
-  - Model Policies to Assist California's K-12 Schools in Responding to
-  - Immigration Issues, December 2024
-  - California Department of Education Publication
-  - California Longitudinal Pupil Achievement Data System (CALPADS) Update
-  - FLASH #158: Guidance for Changing a Student’s Gender in CALPADS, July
-  - 2019
-  - Court Decision
-  - Donovan v. Poway Unified School District (2008) 167 Cal.App.4th 567
-  - Court Decision
-  - Flores v. Morgan Hill Unified School District (2003, 9th Cir.) 324 F.3d 1130
-  - CSBA Publication
-  - Reference:
+  - 2019 - Court Decision - Donovan v. Poway Unified School District (2008) 167 Cal.App.4th 567 - Court Decision - Flores v. Morgan Hill Unified School District (2003, 9th Cir.) 324 F.3d 1130 - CSBA Publication - Reference: State Roles, Responsibilities, and Process for Instructional - Materials Adoption, February 2024 - CSBA Publication - Fact Sheet: Instructional Materials Adoption: Local governing board - responsibilities, February 2024 - CSBA Publication - Instructional Materials Adoptions: State and local governing board - processes, roles, and responsibilities, February 2024 - CSBA Publication - Legal Guidance on Rights of Transgender and Gender Nonconforming - Students in Schools, October 2022 - Federal Register - Nondiscrimination on the Basis of Sex in Education Programs or Activities - Receiving Federal Financial Assistance, April 29, 2024, Vol. 89, No. 83,
+  - pages 33474-33896 - U.S DOE, Office for Civil Rights Publication - Resolution Agreement Between the Arcadia USD, US Dept of Ed, OCR, & - the US DOJ, CRD (2013) OCR 09-12-1020, DOJ 169-12C-70 - U.S. Department of Education Publication - Guidance on Constitutionally Protected Prayer and Religious Expression in - Public Elementary and Secondary Schools, May 2023 - U.S. Dept. of Health & Human Services Publication - Guidance to Federal Financial Assistance Recipients Regarding Title VI - Prohibition Against National Origin Discrimination Affecting Limited English - Proficient Persons, August 2013 - U.S. DOE & U.S. DOJ Civil Rights Divisions Pub - Resource on Confronting Racial Discrimination in Student Discipline, May
+  - 2023 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter: Protecting Students from Discrimination, such as - Harassment, Based on Race, Color, or National Origin, Including Shared - Ancestry or Ethnic Characteristics, May 2024 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter: Discrimination, Including Harassment, Based on - Shared Ancestry or Ethnic Characteristics, November 2023 - U.S. DOE, Office for Civil Rights Publication
+  - Enforcement of Title IX of the Education Amendments of 1972 With - Respect to Discrimination Based on Sexual Orientation and Gender Identity - in Light of Bostock v. Clayton County, June 2021
+  - 395 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter: Addressing Discrimination Against Jewish Students,
+  - May 2023 - U.S. DOE, Office for Civil Rights Publication - U.S. Department of Education Toolkit: Creating Inclusive and - Nondiscriminatory School Environments for LGBTQI+ Students, June 2023 - U.S. DOE, Office for Civil Rights Publication - Questions and Answers on the Title IX Regulations on Sexual Harassment,
+  - June 2022 - U.S. DOE, Office for Civil Rights Publication - Fact Sheet: Supporting Students with Disabilities and Avoiding the
+  - Discriminatory Use of Student Discipline under Section 504 of the
+  - Rehabilitation Act of 1973 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter: Race and School Programming, August 2023 - Website - CSBA District and County Office of Education Legal Services - Website - First Amendment Center - Website - California Interscholastic Federation - Website - California Office of the Attorney General - Website - California Safe Schools Coalition - Website - CSBA - Website - California Department of Education - Website - U.S. Department of Education, Office for Civil Rights
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1313 - Civility
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.6 - Personnel Files
+  - 4112.9 - Employee Notifications
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.21 - Professional Standards
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 5000 - Concepts And Roles
+  - 5030 - Student Wellness
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5125.3 - Challenging Student Records
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.12 - Search And Seizure
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6164.2 - Guidance/Counseling Services
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth

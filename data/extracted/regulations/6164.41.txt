@@ -54,10 +54,9 @@ different amount of services than students with disabilities in public schools. 
 The district shall evaluate all identified parentally-placed private school children with disabilities for purposes of considering
 them for equitable services. This evaluation shall be conducted in accordance with the timelines and procedures for
 evaluating public school students with disabilities pursuant to 34 CFR 300.300-300.311 and as specified in BP/AR 6164.4 -
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 Identification and Evaluation of Individuals for Special Education, including obtaining parent/guardian consent and providing
 the parent/guardian with a copy of the procedural safeguards notice. (34 CFR 300.131, 300.504)
 If the child resides in the district and is eligible for an individualized education program (IEP), the district shall make a free
@@ -97,31 +96,32 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 51744-51749.6
-  - Independent study
-  - Ed. Code 56000
-  - Special education; legislative findings and declarations
-  - Ed. Code 56020-56035
-  - Definitions
-  - Ed. Code 56170-56177
-  - Children enrolled in private schools
-  - Ed. Code 56195.8
-  - Adoption of policies
-  - Ed. Code 56300-56385
-  - Identification and referral; assessment, instructional planning
-  - Ed. Code 56500-56509
-  - Procedural safeguards
-  - Ed. Code 56600-56606
-  - Evaluation, audits and information
+  - Ed. Code 51744-51749.6 - Independent study
+  - Ed. Code 56000 - Special education; legislative findings and declarations
+  - Ed. Code 56020-56035 - Definitions
+  - Ed. Code 56170-56177 - Children enrolled in private schools
+  - Ed. Code 56195.8 - Adoption of policies
+  - Ed. Code 56300-56385 - Identification and referral; assessment, instructional planning
+  - Ed. Code 56500-56509 - Procedural safeguards
+  - Ed. Code 56600-56606 - Evaluation, audits and information
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
   - 223
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 20 USC 1412
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 20 USC 1412 - State eligibility
+  - 29 USC 794
+  - Rehabilitation Act of 1973; Section 504
+  - 34 CFR 300.1-300.818 - Assistance to states for the education of students with disabilities
+  - 34 CFR 300.130-300.144 - Children with disabilities enrolled by their parents in private schools
 
 Management Resources:
-  - Court Decision
-  - Agostini v. Felton (1997) 521 U.S. 203, 117 S.Ct. 1997
+  - 46539-46845 - U.S. Department Of Education Publication
+  - Long COVID under Section 504 and the IDEA: A Resource to Support - Children, Students, Educators, Schools, Service Providers, and Families, July
+  - 2021 - U.S. Department Of Education Publication - Return to School Roadmap: Child Find Under Part B of the Individuals with - Disabilities Education Act, August 2021 - U.S. Department of Education Publication - A Response to Intervention (RTI) Process Cannot Be Used to Delay-Deny an - Evaluation for Eligibility under the Individuals with Disabilities Education Act - (IDEA): Memorandum 11-07, January 2011 - U.S. Department of Education Publication - Questions and Answers on Serving Children with Disabilities Placed by Their - Parents in Private Schools, April 2011 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Special Education - Website - U.S. Department of Education, Office of Special Education Programs
+
+Cross References:
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education

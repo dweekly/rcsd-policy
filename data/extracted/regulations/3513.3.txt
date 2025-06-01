@@ -34,58 +34,53 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Bus. Code 22950.5
-  - Stop Tobacco Access to Kids Enforcement Act - Definitions
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Ed. Code 48901
-  - Smoking or use of tobacco prohibited
-  - H&S Code 104350-104495
-  - Tobacco-use prevention education
-  - H&S Code 104495
-  - Prohibition of smoking and tobacco waste on playgrounds
-  - H&S Code 104559
-  - Tobacco use prohibition
-  - H&S Code 119405
-  - Unlawful to sell or furnish electronic cigarettes to minors
-  - H&S Code 39002
-  - Control of air pollution from nonvehicular sources
-  - Lab. Code 3300
-  - Definition of employer
-  - Lab. Code 6304
-  - Safe and healthful workplace
-  - Lab. Code 6404.5
-  - Occupational safety and health; use of tobacco products
+  - Bus. Code 22950.5 - Stop Tobacco Access to Kids Enforcement Act - Definitions
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48901 - Smoking or use of tobacco prohibited - H&S Code 104350-104495 - Tobacco-use prevention education - H&S Code 104495 - Prohibition of smoking and tobacco waste on playgrounds - H&S Code 104559 - Tobacco use prohibition - H&S Code 119405 - Unlawful to sell or furnish electronic cigarettes to minors - H&S Code 39002 - Control of air pollution from nonvehicular sources
+  - Lab. Code 3300 - Definition of employer
+  - Lab. Code 6304 - Safe and healthful workplace
+  - Lab. Code 6404.5 - Occupational safety and health; use of tobacco products
 
 Federal References:
-  - 20 USC 6083
-  - Nonsmoking policy for children's services
-  - 20 USC 7111-7122
-  - Student support and academic enrichment grants
-  - 21 CFR 1140.1-1140.34
-  - Unlawful sale of cigarettes and smokeless tobacco to minors
-  - Board Policy Manual
-  - Redwood City School District
+  - 20 USC 6083 - Nonsmoking policy for children's services
+  - 20 USC 7111-7122 - Student support and academic enrichment grants
+  - 21 CFR 1140.1-1140.34 - Unlawful sale of cigarettes and smokeless tobacco to minors - Board Policy Manual - Redwood City School District
   - 162
 
-Management Resources:
-  - PERB Ruling
-  - CSEA #506 and Associated Teachers of Metropolitan Riverside v. Riverside
-  - Unified School District (1989) PERB Order #750 (13 PERC 20147)
-  - PERB Ruling
-  - Eureka Teachers Assn. v. Eureka City School District (1992) PERB Order
-  - #955 (16 PERC 23168)
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Tobacco-Free School District
-  - Certification
-  - Website
-  - Occupational Safety and Health Standards Board
-  - Website
-  - California Department of Public Health, Tobacco Control
-  - Website
-  - California Department of Education, Alcohol, Tobacco and Other Drug
-  - Prevention
-  - Website
-  - U.S. Environmental Protection Agency
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4112.9 - Employee Notifications
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4159 - Employee Assistance Programs
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.21 - Professional Standards
+  - 4319.21 - Professional Standards
+  - 5030 - Student Wellness
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.6 - Parent/Guardian Notifications
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study

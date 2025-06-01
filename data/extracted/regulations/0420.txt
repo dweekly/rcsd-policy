@@ -51,11 +51,9 @@ to measure student achievement. (Education Code 64001)
 The SPSA shall, at a minimum: (Education Code 64001)
 1. Address how funds provided to the school through categorical programs will be used to improve the academic
 performance of all students to the level of the performance goals established by the API
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
- 
+
+
 2. Identify the school's means of evaluating progress toward accomplishing those goals
  
 3. Identify how state and federal law governing these programs will be implemented
@@ -92,52 +90,68 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11308
-  - English learner advisory committees
-  - 5 CCR 3930-3937
-  - Compliance plans
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - Ed. Code 33133
-  - Information guide for school site councils
-  - Ed. Code 35147
-  - Open meeting laws exceptions
-  - Ed. Code 52-53
-  - Designation of schools
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 52176
-  - English learner advisory committees
-  - Ed. Code 56000-56865
-  - Special education programs
-  - Ed. Code 64000
-  - Categorical programs included in consolidated application
-  - Ed. Code 64001
-  - School plan for student achievement; consolidated application programs
-  - Ed. Code 65000-65001
-  - School site councils
+  - 5 CCR 11308 - English learner advisory committees
+  - 5 CCR 3930-3937 - Compliance plans
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - Ed. Code 33133 - Information guide for school site councils
+  - Ed. Code 35147 - Open meeting laws exceptions
+  - Ed. Code 52-53 - Designation of schools
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 52176 - English learner advisory committees
+  - Ed. Code 56000-56865 - Special education programs
+  - Ed. Code 64000 - Categorical programs included in consolidated application
+  - Ed. Code 64001 - School plan for student achievement; consolidated application programs
+  - Ed. Code 65000-65001 - School site councils
   - 34
 
 Federal References:
-  - 20 USC 6303
-  - School improvement
-  - 20 USC 6311
+  - 20 USC 6303 - School improvement
+  - 20 USC 6311 - State plan
+  - 20 USC 6314 - Schoolwide programs; schoolwide program plan
+  - 20 USC 6421-6472 - Programs for neglected, delinquent, and at-risk children and youth
+  - 20 USC 6601-6651 - Teacher and Principal Training and Recruitment program
+  - 20 USC 6801-7014 - Limited English proficient and immigrant students
+  - 20 USC 7101-7122 - Student Support and Academic Enrichment Grants
+  - 20 USC 7341-7355c - Rural Education Initiative
 
 Management Resources:
-  - California Department of Education Publication
-  - A Guide for Developing the Single Plan for Student Achievement, February
-  - 2014
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California School Nutrition Association
-  - Website
-  - WestEd
-  - Website
-  - U.S. Department of Education
-  - Website
-  - California Department of Education
-  - WestEd Publication
-  - California Healthy Kids Survey
-  - WestEd Publication
-  - California School Climate Survey
+  - 2014 - Website - CSBA District and County Office of Education Legal Services - Website - California School Nutrition Association - Website - WestEd - Website - U.S. Department of Education - Website - California Department of Education - WestEd Publication - California Healthy Kids Survey - WestEd Publication - California School Climate Survey
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0400 - Comprehensive Plans
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0510 - School Accountability Report Card
+  - 0520 - Intervention In Underperforming Schools
+  - 0520.1 - Comprehensive And Targeted School Improvement
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1321 - Solicitation Of Funds From And By Students
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1431 - Waivers
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6162.5 - Student Assessment
+  - 6163.1 - Library Media Centers
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6190 - Evaluation Of The Instructional Program

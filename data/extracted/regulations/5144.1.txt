@@ -56,8 +56,7 @@ cigarettes, miniature cigars, clove cigarettes, smokeless tobacco, snuff, chew p
 not prohibit a student from using or possessing their own prescription products. (Education Code 48900(h))
  
 9. Committed an obscene act or engaged in habitual profanity or vulgarity. (Education Code 48900(i))
-Board Policy Manual
-Redwood City School District
+
 
 10. Unlawfully possessed or unlawfully offered, arranged, or negotiated to sell any drug paraphernalia, as defined in Health
 and Safety Code 11014.5. (Education Code 48900(j))
@@ -630,7 +629,7 @@ readmittance into the regular program. This notice shall indicate the Board's de
 which the Board has chosen. The student shall enroll in that program unless the parent/guardian chooses to enroll the
 student in another school district. (Education Code 48916)
 
-Policy Reference Disclaimer:
+
 No student shall be denied readmission into the district based solely on the student's arrest, adjudication by a juvenile court,
 formal or informal supervision by a probation officer, detention in a juvenile facility, enrollment in a juvenile court school, or
 other such contact with the juvenile justice system. (Education Code 48645.5)
@@ -646,169 +645,158 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Civ. Code 47
-  - Privileged communication
-  - Civ. Code 48.8
-  - Defamation liability
-  - Code of Civil Procedure 1985-1997
-  - Production of evidence; means of production
-  - Ed. Code 17292.5
-  - Program for expelled students; facilities
-  - Ed. Code 1981-1983
-  - Enrollment of students in community school
-  - Ed. Code 212.5
-  - Sexual harassment
-  - Ed. Code 233
-  - Hate violence
+  - Civ. Code 47 - Privileged communication
+  - Civ. Code 48.8 - Defamation liability
+  - Code of Civil Procedure 1985-1997 - Production of evidence; means of production
+  - Ed. Code 17292.5 - Program for expelled students; facilities
+  - Ed. Code 1981-1983 - Enrollment of students in community school
+  - Ed. Code 212.5 - Sexual harassment
+  - Ed. Code 233 - Hate violence
   - Ed. Code 32260-32262
   - Interagency School Safety Demonstration Act of 1985
-  - Ed. Code 35145
-  - Open board meetings
-  - Ed. Code 35146
-  - Closed sessions regarding suspensions
-  - Ed. Code 35291
-  - Rules for government and discipline of schools
-  - Ed. Code 35291.5
-  - Rules and procedures on school discipline
-  - Ed. Code 48645.5
-  - Former juvenile court school students; enrollment
-  - Ed. Code 48660-48666
-  - Community day schools
-  - Ed. Code 48853-48853.5
-  - Foster youth
-  - Ed. Code 48900-48927
-  - Suspension and expulsion
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 49073-49079
-  - Privacy of student records
-  - Ed. Code 52052
-  - Numerically significant student subgroups
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 64000-64001
-  - Consolidated application
-  - Ed. Code 8489-8489.1
-  - Prohibition against expulsion of preschool student
-  - Gov. Code 11455.20
-  - Informal hearing procedures
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - H&S Code 11014.5
-  - Drug paraphernalia
-  - H&S Code 11053-11059
-  - Controlled substances; standards and schedules
-  - Lab. Code 230.7
-  - Employee time off to appear in school on behalf of a child
+  - Ed. Code 35145 - Open board meetings
+  - Ed. Code 35146 - Closed sessions regarding suspensions
+  - Ed. Code 35291 - Rules for government and discipline of schools
+  - Ed. Code 35291.5 - Rules and procedures on school discipline
+  - Ed. Code 48645.5 - Former juvenile court school students; enrollment
+  - Ed. Code 48660-48666 - Community day schools
+  - Ed. Code 48853-48853.5 - Foster youth
+  - Ed. Code 48900-48927 - Suspension and expulsion
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 49073-49079 - Privacy of student records
+  - Ed. Code 52052 - Numerically significant student subgroups
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 64000-64001 - Consolidated application
+  - Ed. Code 8489-8489.1 - Prohibition against expulsion of preschool student
+  - Gov. Code 11455.20 - Informal hearing procedures
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act - H&S Code 11014.5 - Drug paraphernalia - H&S Code 11053-11059 - Controlled substances; standards and schedules
+  - Lab. Code 230.7 - Employee time off to appear in school on behalf of a child
   - 365
-  - Pen. Code 240
-  - Assault defined
-  - Pen. Code 241.2
-  - Assault fines
-  - Pen. Code 242
-  - Battery defined
-  - Pen. Code 243.2
-  - Battery on school property
-  - Pen. Code 243.4
-  - Sexual battery
-  - Pen. Code 245
-  - Assault with deadly weapon
-  - Pen. Code 245.6
-  - Hazing
-  - Pen. Code 261
-  - Rape defined
-  - Pen. Code 266c
-  - Unlawful sexual intercourse
-  - Pen. Code 286
-  - Sodomy defined
-  - Pen. Code 287
-  - Oral Copulation
+  - Pen. Code 240 - Assault defined
+  - Pen. Code 241.2 - Assault fines
+  - Pen. Code 242 - Battery defined
+  - Pen. Code 243.2 - Battery on school property
+  - Pen. Code 243.4 - Sexual battery
+  - Pen. Code 245 - Assault with deadly weapon
+  - Pen. Code 245.6 - Hazing
+  - Pen. Code 261 - Rape defined
+  - Pen. Code 266c - Unlawful sexual intercourse
+  - Pen. Code 286 - Sodomy defined
+  - Pen. Code 287 - Oral Copulation
   - Pen. Code 288
   - Lewd or lascivious acts with child under age 14
-  - Pen. Code 289
-  - Penetration of genital or anal openings
-  - Pen. Code 31
-  - Principal of a crime; defined
-  - Pen. Code 417.27
-  - Laser pointers
-  - Pen. Code 422.55
-  - Definition of hate crime
-  - Pen. Code 422.6
-  - Crimes; harassment
-  - Pen. Code 422.7
-  - Aggravating factors for punishment
-  - Pen. Code 422.75
-  - Enhanced penalties for hate crimes
-  - Pen. Code 626.10
-  - Dirks, daggers, knives, razors, or stun guns
-  - Pen. Code 626.2
-  - Entry upon campus after written notice of suspension or dismissal without
-  - permission
+  - Pen. Code 289 - Penetration of genital or anal openings
+  - Pen. Code 31 - Principal of a crime; defined
+  - Pen. Code 417.27 - Laser pointers
+  - Pen. Code 422.55 - Definition of hate crime
+  - Pen. Code 422.6 - Crimes; harassment
+  - Pen. Code 422.7 - Aggravating factors for punishment
+  - Pen. Code 422.75 - Enhanced penalties for hate crimes
+  - Pen. Code 626.10 - Dirks, daggers, knives, razors, or stun guns
+  - Pen. Code 626.2 - Entry upon campus after written notice of suspension or dismissal without - permission
   - Pen. Code 626.9
   - Gun-Free School Zone Act of 1995
-  - Pen. Code 868.5
-  - Supporting person; attendance during testimony of witness
-  - W&I Code 224.1
-  - Indian child; definition
-  - W&I Code 729.6
-  - Counseling
-  - State
+  - Pen. Code 868.5 - Supporting person; attendance during testimony of witness - W&I Code 224.1 - Indian child; definition - W&I Code 729.6 - Counseling
 
 Federal References:
-  - 18 USC 921
-  - Definitions; firearms and ammunition
-  - 20 USC 1415(K)
-  - Students with disabilities; placement in alternative educational setting
-  - 20 USC 7961
-  - Gun-Free Schools Act
-  - 42 USC 11431-11435
-  - Education of homeless children and youths
+  - 18 USC 921 - Definitions; firearms and ammunition
+  - 20 USC 1415(K) - Students with disabilities; placement in alternative educational setting
+  - 20 USC 7961 - Gun-Free Schools Act
+  - 42 USC 11431-11435 - Education of homeless children and youths
 
 Management Resources:
-  - Attorney General Opinion
-  - 80 Ops.Cal.Atty.Gen. 348 (1997)
-  - Attorney General Opinion
-  - 80 Ops.Cal.Atty.Gen. 85 (1997)
-  - Attorney General Opinion
-  - 80 Ops.Cal.Atty.Gen. 91 (1997)
-  - Attorney General Opinion
-  - 84 Ops.Cal.Atty.Gen. 146 (2001)
-  - Court Decision
-  - Board of Education of Sacramento City Unified School District v.
-  - Sacramento County Board of Education and Kenneth H. (2001) 85
+  - 80 Ops.Cal.Atty.Gen. 348 (1997) - Attorney General Opinion
+  - 80 Ops.Cal.Atty.Gen. 85 (1997) - Attorney General Opinion
+  - 80 Ops.Cal.Atty.Gen. 91 (1997) - Attorney General Opinion
+  - 84 Ops.Cal.Atty.Gen. 146 (2001) - Court Decision - Board of Education of Sacramento City Unified School District v. - Sacramento County Board of Education and Kenneth H. (2001) 85
   - Cal.App.4th 1321
-  - 366
-  - Court Decision
-  - Fremont Union High School District v. Santa Clara County Board (1991) 235
-  - Cal. App. 3d 1182
-  - Court Decision
-  - Garcia v. Los Angeles Board of Education (1981) 123 Cal. App. 3d 807
-  - Court Decision
-  - John A. v. San Bernardino School District (1982) 33 Cal. 3d 301
-  - Court Decision
-  - T.H. v. San Diego Unified School District (2004) 122 Cal. App. 4th 1267
-  - Court Decision
-  - Woodbury v. Dempsey (2003) 108 Cal. App. 4th 421
-  - U.S. DOE & U.S. DOJ Civil Rights Divisions Pub
-  - Resource on Confronting Racial Discrimination in Student Discipline, May
-  - 2023
-  - U.S. DOE Publication
-  - School Climate and Student Discipline Resources
-  - U.S. DOE Publication
-  - Guiding Principles for Creating Safe, Inclusive, Supportive, and Fair School
-  - Climates, March 2023
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Education, Office of Safe and Healthy Students
-  - Website
-  - California Attorney General's Office
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education, Office for Civil Rights
-  - Management Resources
+  - 366 - Court Decision - Fremont Union High School District v. Santa Clara County Board (1991) 235
+  - Cal. App. 3d 1182 - Court Decision - Garcia v. Los Angeles Board of Education (1981) 123 Cal. App. 3d 807 - Court Decision - John A. v. San Bernardino School District (1982) 33 Cal. 3d 301 - Court Decision - T.H. v. San Diego Unified School District (2004) 122 Cal. App. 4th 1267 - Court Decision - Woodbury v. Dempsey (2003) 108 Cal. App. 4th 421 - U.S. DOE & U.S. DOJ Civil Rights Divisions Pub - Resource on Confronting Racial Discrimination in Student Discipline, May
+  - 2023 - U.S. DOE Publication - School Climate and Student Discipline Resources - U.S. DOE Publication - Guiding Principles for Creating Safe, Inclusive, Supportive, and Fair School - Climates, March 2023 - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Education, Office of Safe and Healthy Students - Website - California Attorney General's Office - Website - California Department of Education - Website - CSBA - Website - U.S. Department of Education, Office for Civil Rights
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3516.2 - Bomb Threats
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 5000 - Concepts And Roles
+  - 5112.1 - Exemptions From Attendance
+  - 5112.1 - Exemptions From Attendance
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5117 - Interdistrict Attendance
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5131 - Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.12 - Search And Seizure
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.8 - Assemblies And Special Events
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6154 - Homework/Makeup Work
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6161.2 - Damaged Or Lost Instructional Materials
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 9000 - Role Of The Board
+  - 9322 - Agenda/Meeting Materials

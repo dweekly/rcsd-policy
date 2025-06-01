@@ -41,8 +41,7 @@ Jury duty in the manner provided for by law (Education Code 48205)
  
  6. Illness or medical appointment of a child to whom the student is the custodial parent (Education Code 
 48205)
-Board Policy Manual
-Redwood City School District
+
 
  7. Upon advance written request by the parent/guardian and the approval of the principal or designee, 
 justifiable personal reasons including, but not limited to: (Education Code 48205)
@@ -236,81 +235,85 @@ absence if missed assignments and tests that can reasonably be provided are sati
 reasonable period of time (Education Code 48980)
  
  Such notice shall include the full text of Education Code 48205. (Education Code 48980)
- 
-
-Policy Reference Disclaimer:
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 306
-  - Explanation of absence
-  - 5 CCR 420-424
-  - Record of verification of absence due to illness and other causes
-  - Ed. Code 1740
-  - Employment of personnel to supervise attendance
-  - Ed. Code 37201
-  - School month
-  - Ed. Code 37223
-  - Weekend classes
-  - Ed. Code 41601
-  - Reports of average daily attendance
-  - Ed. Code 42238-42250.1
-  - Apportionments
-  - Ed. Code 46000
-  - Attendance records
-  - Ed. Code 46010-46015
-  - Absences
-  - Ed. Code 46110-46120
-  - Attendance in kindergarten and elementary schools
-  - Ed. Code 46140-46148
-  - Attendance in junior high and high schools
+  - 5 CCR 306 - Explanation of absence
+  - 5 CCR 420-424 - Record of verification of absence due to illness and other causes
+  - Ed. Code 1740 - Employment of personnel to supervise attendance
+  - Ed. Code 37201 - School month
+  - Ed. Code 37223 - Weekend classes
+  - Ed. Code 41601 - Reports of average daily attendance
+  - Ed. Code 42238-42250.1 - Apportionments
+  - Ed. Code 46000 - Attendance records
+  - Ed. Code 46010-46015 - Absences
+  - Ed. Code 46110-46120 - Attendance in kindergarten and elementary schools
+  - Ed. Code 46140-46148 - Attendance in junior high and high schools
   - Ed. Code 48200-48208
   - Children ages 6-18; compulsory full-time attendance
-  - Ed. Code 48210-48216
-  - Exclusions from attendance
-  - Ed. Code 48225.5
-  - Work permit; excused absence; entertainment or allied industries;
-  - participation in not-for-profit performing arts organization
-  - Ed. Code 48240-48246
-  - Supervisors of attendance
-  - Ed. Code 48260-48273
-  - Truants
-  - Ed. Code 48292
-  - Filing complaint against parent
-  - Ed. Code 48320-48324
-  - School attendance review boards
-  - Ed. Code 48340-48341
-  - Improvement of student attendance
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 49067
-  - Unexcused absences as cause of failing grade
-  - Ed. Code 49701
-  - Provisions of the Interstate Compact on Educational Opportunities for
-  - Military Children
-  - Elec. Code 12302
-  - Student participation on precinct boards
-  - Fam. Code 6920-6930
-  - Consent by minor for medical treatment
-  - W&I Code 11253.5
-  - Compulsory school attendance; eligibility for aid
-  - W&I Code 601-601.5
-  - Habitually truant minors
+  - Ed. Code 48210-48216 - Exclusions from attendance
+  - Ed. Code 48225.5 - Work permit; excused absence; entertainment or allied industries; - participation in not-for-profit performing arts organization
+  - Ed. Code 48240-48246 - Supervisors of attendance
+  - Ed. Code 48260-48273 - Truants
+  - Ed. Code 48292 - Filing complaint against parent
+  - Ed. Code 48320-48324 - School attendance review boards
+  - Ed. Code 48340-48341 - Improvement of student attendance
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 49067 - Unexcused absences as cause of failing grade
+  - Ed. Code 49701 - Provisions of the Interstate Compact on Educational Opportunities for - Military Children
+  - Elec. Code 12302 - Student participation on precinct boards
+  - Fam. Code 6920-6930 - Consent by minor for medical treatment - W&I Code 11253.5 - Compulsory school attendance; eligibility for aid - W&I Code 601-601.5 - Habitually truant minors
 
 Management Resources:
-  - Attorney General Opinion
-  - 66 Ops.Cal.Atty.Gen. 244 (1983)
-  - Attorney General Opinion
-  - 87 Ops.Cal.Atty.Gen. 168 (2004)
-  - Court Decision
-  - American Academy of Pediatrics et al v. Lungren et al (1997) 16 Cal.4th 307
-  - CSBA Publication
-  - Seize the Data: Using Chronic Absence Data to Drive Student Engagement,
-  - March 2024
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+  - 66 Ops.Cal.Atty.Gen. 244 (1983) - Attorney General Opinion
+  - 87 Ops.Cal.Atty.Gen. 168 (2004) - Court Decision - American Academy of Pediatrics et al v. Lungren et al (1997) 16 Cal.4th 307 - CSBA Publication - Seize the Data: Using Chronic Absence Data to Drive Student Engagement,
+  - March 2024 - Website - CSBA District and County Office of Education Legal Services - Website - CSBA
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4119.41 - Employees With Infectious Disease
+  - 5000 - Concepts And Roles
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5112.1 - Exemptions From Attendance
+  - 5112.1 - Exemptions From Attendance
+  - 5112.2 - Exclusions From Attendance
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5131 - Conduct
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.33 - Head Lice
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.6 - Parent/Guardian Notifications
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5147 - Dropout Prevention
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6111 - School Calendar
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6154 - Homework/Makeup Work
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6164.2 - Guidance/Counseling Services
+  - 6177 - Summer Learning Programs
+  - 6183 - Home And Hospital Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

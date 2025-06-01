@@ -51,10 +51,9 @@ The Board strongly encourages any student who is using alcohol or drugs to discu
 parent/guardian or with any staff member. Students who disclose their use of alcohol or other drugs when seeking
 help from an intervention or recovery program shall not be disciplined for such use.
 Enforcement/Discipline
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 The Superintendent or designee shall take appropriate action to eliminate possession, use or sale of alcohol and
 other drugs and related paraphernalia on school grounds or at school-sponsored activities.
 Students possessing, using or selling alcohol or other drugs or related paraphernalia shall be subject to disciplinary
@@ -68,104 +67,82 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Bus. Code 25608
-  - Alcohol on school property; use in connection with instruction
-  - Ed. Code 32282
-  - School safety plans
-  - Ed. Code 44049
-  - Known or suspected alcohol or drug abuse by student
-  - Ed. Code 44645
-  - In-service training anabolic steroids
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Ed. Code 48900.5
-  - Suspension, limitation on imposition; exception
-  - Ed. Code 48901
-  - Smoking or use of tobacco prohibited
-  - Ed. Code 48901.5
-  - Prohibition of electronic signaling devices
-  - Ed. Code 48902
-  - Notification of law enforcement authorities; civil or criminal immunity
-  - Ed. Code 48909
-  - Narcotics or other hallucinogenic drugs
-  - Ed. Code 48915
-  - Expulsion; particular circumstances
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 48985.5
-  - Fentanyl and synthetic drugs danger notification
-  - Ed. Code 49414.35
-  - Opioid antagonist use by students
-  - Ed. Code 49414.4
-  - Alternatives to law enforcement referrals for opioid misuse
-  - Ed. Code 49414.6
-  - Opioid antagonist possession
-  - Ed. Code 49428.16
-  - County Working Group on Fentanyl Education in Schools
-  - Ed. Code 49602
-  - Counseling and confidentiality of student information
-  - Ed. Code 51202
-  - Instruction in personal and public health and safety
-  - Ed. Code 51203
-  - Instruction on alcohol, narcotics and restricted dangerous drugs
+  - Bus. Code 25608 - Alcohol on school property; use in connection with instruction
+  - Ed. Code 32282 - School safety plans
+  - Ed. Code 44049 - Known or suspected alcohol or drug abuse by student
+  - Ed. Code 44645 - In-service training anabolic steroids
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48900.5 - Suspension, limitation on imposition; exception
+  - Ed. Code 48901 - Smoking or use of tobacco prohibited
+  - Ed. Code 48901.5 - Prohibition of electronic signaling devices
+  - Ed. Code 48902 - Notification of law enforcement authorities; civil or criminal immunity
+  - Ed. Code 48909 - Narcotics or other hallucinogenic drugs
+  - Ed. Code 48915 - Expulsion; particular circumstances
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 48985.5 - Fentanyl and synthetic drugs danger notification
+  - Ed. Code 49414.35 - Opioid antagonist use by students
+  - Ed. Code 49414.4 - Alternatives to law enforcement referrals for opioid misuse
+  - Ed. Code 49414.6 - Opioid antagonist possession
+  - Ed. Code 49428.16 - County Working Group on Fentanyl Education in Schools
+  - Ed. Code 49602 - Counseling and confidentiality of student information
+  - Ed. Code 51202 - Instruction in personal and public health and safety
+  - Ed. Code 51203 - Instruction on alcohol, narcotics and restricted dangerous drugs
   - Ed. Code 51210
   - Course of study for grades 1-6
-  - Ed. Code 51220
-  - Areas of study; grades 7 to 12
-  - Ed. Code 51225.38
-  - Health education; fentanyl instruction
-  - Ed. Code 51260-51269
-  - Drug education
-  - Ed. Code 60041
-  - Instructional materials
-  - Ed. Code 60110-60115
-  - Instructional materials on alcohol and drug education
-  - H&S Code 11032
-  - Narcotics, restricted dangerous drugs and marijuana
-  - H&S Code 11053-11059
-  - Controlled substances; standards and schedules
-  - H&S Code 11353.6
-  - Juvenile Drug Trafficking and Schoolyard Act
-  - H&S Code 11357
-  - Unauthorized possession of marijuana; possession in school or on school
-  - grounds
-  - H&S Code 11361.5
-  - Destruction of arrest or conviction records
-  - 169
-  - H&S Code 11372.7
-  - Drug program fund; uses
-  - H&S Code 11802
-  - Joint school-community alcohol abuse primary education and prevention
-  - program
-  - H&S Code 11999-11999.3
-  - Alcohol and drug program funding; no unlawful use
-  - H&S Code 124175-124200
-  - Adolescent family life program
-  - Pen. Code 13860-13864
-  - Suppression of drug abuse in schools
+  - Ed. Code 51220 - Areas of study; grades 7 to 12
+  - Ed. Code 51225.38 - Health education; fentanyl instruction
+  - Ed. Code 51260-51269 - Drug education
+  - Ed. Code 60041 - Instructional materials
+  - Ed. Code 60110-60115 - Instructional materials on alcohol and drug education - H&S Code 11032 - Narcotics, restricted dangerous drugs and marijuana - H&S Code 11053-11059 - Controlled substances; standards and schedules - H&S Code 11353.6 - Juvenile Drug Trafficking and Schoolyard Act - H&S Code 11357 - Unauthorized possession of marijuana; possession in school or on school - grounds - H&S Code 11361.5 - Destruction of arrest or conviction records
+  - 169 - H&S Code 11372.7 - Drug program fund; uses - H&S Code 11802 - Joint school-community alcohol abuse primary education and prevention - program - H&S Code 11999-11999.3 - Alcohol and drug program funding; no unlawful use - H&S Code 124175-124200 - Adolescent family life program
+  - Pen. Code 13860-13864 - Suppression of drug abuse in schools
   - Veh. Code 13202.5
-  - Drug and alcohol related offenses by persons under age of 21, but aged 13
-  - or over
-  - W&I Code 828
-  - Disclosure of information regarding minors
-  - W&I Code 828.1
-  - Disclosure of criminal records; protection of vulnerable staff and students
-  - State
+  - Drug and alcohol related offenses by persons under age of 21, but aged 13 - or over - W&I Code 828 - Disclosure of information regarding minors - W&I Code 828.1 - Disclosure of criminal records; protection of vulnerable staff and students
 
 Federal References:
-  - 20 USC 5812
-  - National education goals
-  - 20 USC 7101-7122
-  - Student Support and Academic Enrichment Grants
+  - 20 USC 5812 - National education goals
+  - 20 USC 7101-7122 - Student Support and Academic Enrichment Grants
 
-Management Resources:
-  - Website
-  - U.S. Department of Education, Student Support and Academic Enrichment
-  - Program
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Alcohol, Tobacco and Other Drug
-  - Prevention
-  - Website
-  - California Healthy Kids Resource Center
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3290 - Gifts, Grants And Bequests
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5030 - Student Wellness
+  - 5131 - Conduct
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5137 - Positive School Climate
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.6 - School Health Services
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.12 - Search And Seizure
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5147 - Dropout Prevention
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6164.2 - Guidance/Counseling Services
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

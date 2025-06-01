@@ -24,21 +24,12 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35178
-  - Resignation with deferred effective date
-  - Ed. Code 5090-5095
-  - Vacancies on the board
-  - Gov. Code 1770
-  - Vacancy of office
-  - Gov. Code 87300-87313
-  - Conflict of interest code
-  - Gov. Code 87500
-  - Statement of economic interests
+  - Ed. Code 35178 - Resignation with deferred effective date
+  - Ed. Code 5090-5095 - Vacancies on the board
+  - Gov. Code 1770 - Vacancy of office
+  - Gov. Code 87300-87313 - Conflict of interest code
+  - Gov. Code 87500 - Statement of economic interests
 
-Management Resources:
-  - CSBA Publication
-  - Filling a Board Vacancy, rev. 2022
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+Cross References:
+  - 9223 - Filling Vacancies
+  - 9270 - Conflict Of Interest

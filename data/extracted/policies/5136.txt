@@ -27,27 +27,38 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 35183
-  - Gang-related apparel
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 51264
-  - Educational in-service training; CDE guidelines
-  - Ed. Code 51265
-  - Gang violence and drug and alcohol abuse prevention in-service training
-  - Ed. Code 51266-51266.5
-  - Model gang and substance abuse prevention curriculum
-  - Pen. Code 13826-13826.7
-  - Gang violence suppression
-  - Pen. Code 186.22
-  - Participation in criminal street gang
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 35183 - Gang-related apparel
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 51264 - Educational in-service training; CDE guidelines
+  - Ed. Code 51265 - Gang violence and drug and alcohol abuse prevention in-service training
+  - Ed. Code 51266-51266.5 - Model gang and substance abuse prevention curriculum
+  - Pen. Code 13826-13826.7 - Gang violence suppression
+  - Pen. Code 186.22 - Participation in criminal street gang
 
 Federal References:
-  - 20 USC 7101-7122
-  - Student Support and Academic Enrichment Grants
+  - 20 USC 7101-7122 - Student Support and Academic Enrichment Grants
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.9 - Hate-Motivated Behavior
+  - 5147 - Dropout Prevention
+  - 6164.2 - Guidance/Counseling Services
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

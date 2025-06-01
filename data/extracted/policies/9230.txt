@@ -28,26 +28,30 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 33360
-  - Department of Education and statewide association of school district
-  - boards; annual workshops
-  - Ed. Code 33362-33363
-  - Reimbursement of expenses; board member or member-elect
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 54952.1
-  - Member of a legislative body of a local agency
-  - Gov. Code 54952.2
-  - Meeting; defined
-  - Gov. Code 54952.7
-  - Copies of chapter to members of legislative body
+  - Ed. Code 33360 - Department of Education and statewide association of school district - boards; annual workshops
+  - Ed. Code 33362-33363 - Reimbursement of expenses; board member or member-elect
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 54952.1 - Member of a legislative body of a local agency
+  - Gov. Code 54952.2 - Meeting; defined
+  - Gov. Code 54952.7 - Copies of chapter to members of legislative body
 
-Management Resources:
-  - CSBA Publication
-  - Professional Governance Standards for School Boards
-  - CSBA Publication
-  - The Brown Act: School Boards and Open Meeting Laws, rev. 2023
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+Cross References:
+  - 0200 - Goals For The School District
+  - 0400 - Comprehensive Plans
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1112 - Media Relations
+  - 1160 - Political Processes
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9010 - Public Statements
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9100 - Organization
+  - 9121 - President
+  - 9200 - Limits Of Board Member Authority
+  - 9220 - Governing Board Elections
+  - 9223 - Filling Vacancies
+  - 9270 - Conflict Of Interest
+  - 9320 - Meetings And Notices
+  - 9323 - Meeting Conduct
+  - 9400 - Board Self-Evaluation

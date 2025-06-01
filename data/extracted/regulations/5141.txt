@@ -48,49 +48,57 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 8 CCR 5193
-  - Bloodborne pathogens
-  - Civ. Code 1714.21
-  - Defibrillators; CPR; immunity from civil liability
-  - Ed. Code 32040-32044
-  - First aid equipment: field trips
-  - Ed. Code 49300-49307
-  - School safety patrols
-  - Ed. Code 49407
-  - Liability for treatment
-  - Board Policy Manual
-  - Redwood City School District
+  - 8 CCR 5193 - Bloodborne pathogens
+  - Civ. Code 1714.21 - Defibrillators; CPR; immunity from civil liability
+  - Ed. Code 32040-32044 - First aid equipment: field trips
+  - Ed. Code 49300-49307 - School safety patrols
+  - Ed. Code 49407 - Liability for treatment - Board Policy Manual - Redwood City School District
   - 214
-  - Ed. Code 49408
-  - Student emergency information
-  - Ed. Code 49409
-  - Athletic events; physicians and surgeons; emergency medical care; immunity
-  - Ed. Code 49417
-  - Automated external defibrillators
-  - Ed. Code 49470
-  - Medical and hospital services for athletic program
-  - Ed. Code 49471
-  - Medical and hospital services not provided or available
-  - Ed. Code 49472
-  - Medical and hospital services for pupils
-  - Ed. Code 49474
-  - Ambulance services
-  - Ed. Code 51202
-  - Instruction in personal and public health and safety
-  - Fam. Code 6550-6552
-  - Caregivers
-  - H&S Code 1797.196
-  - Automated external defibrillators; immunity from civil liability
-  - H&S Code 1797.200
-  - Emergency medical services agency
-  - H&S Code 1799.102
-  - Personal liability immunity
-  - State
+  - Ed. Code 49408 - Student emergency information
+  - Ed. Code 49409 - Athletic events; physicians and surgeons; emergency medical care; immunity
+  - Ed. Code 49417 - Automated external defibrillators
+  - Ed. Code 49470 - Medical and hospital services for athletic program
+  - Ed. Code 49471 - Medical and hospital services not provided or available
+  - Ed. Code 49472 - Medical and hospital services for pupils
+  - Ed. Code 49474 - Ambulance services
+  - Ed. Code 51202 - Instruction in personal and public health and safety
+  - Fam. Code 6550-6552 - Caregivers - H&S Code 1797.196 - Automated external defibrillators; immunity from civil liability - H&S Code 1797.200 - Emergency medical services agency - H&S Code 1799.102 - Personal liability immunity
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - American Heart Association
-  - Website
-  - American Red
+Cross References:
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4119.43 - Universal Precautions
+  - 4119.43 - Universal Precautions
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4231 - Staff Development
+  - 5021 - Noncustodial Parents
+  - 5030 - Student Wellness
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.6 - School Health Services
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5143 - Insurance
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School

@@ -56,10 +56,9 @@ at the option of the organization, other travel services with substantially simi
  
 7. A statement as to whether any owner or principal of the organization has had entered against him or her any
 judgment, including a stipulated judgment, order, made a plea of nolo contendere or been convicted of any
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 criminal violation in connection with the sale of any travel services for a period of 10 years predating the
 contract
 District staff shall inform all vendors representing educational travel organizations that they may not arrange a travel
@@ -70,17 +69,14 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Bus. Code 17540
-  - Travel promoters
-  - Bus. Code 17550-17550.30
-  - Sellers of travel
-  - Bus. Code 17552-17556.5
-  - Educational travel organizations
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
+  - Bus. Code 17540 - Travel promoters
+  - Bus. Code 17550-17550.30 - Sellers of travel
+  - Bus. Code 17552-17556.5 - Educational travel organizations
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 3541.1 - Transportation For School-Related Trips
+  - 4135 - Soliciting And Selling
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips

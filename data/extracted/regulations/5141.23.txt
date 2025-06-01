@@ -55,61 +55,55 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 600-611
-  - Administering medication to students
-  - Ed. Code 49407
-  - Liability for treatment
-  - Ed. Code 49408
-  - Student emergency information
-  - Ed. Code 49414.5
-  - Providing school personnel with voluntary emergency training
-  - Ed. Code 49423
-  - Administration of prescribed medication for student
-  - Ed. Code 49423.5
-  - Specialized health care services
-  - Ed. Code 49426
-  - School nurses
-  - Ed. Code 49480
-  - Continuing medication regimen; notice
-  - Ed. Code 51880-51921
-  - Comprehensive health education
+  - 5 CCR 600-611 - Administering medication to students
+  - Ed. Code 49407 - Liability for treatment
+  - Ed. Code 49408 - Student emergency information
+  - Ed. Code 49414.5 - Providing school personnel with voluntary emergency training
+  - Ed. Code 49423 - Administration of prescribed medication for student
+  - Ed. Code 49423.5 - Specialized health care services
+  - Ed. Code 49426 - School nurses
+  - Ed. Code 49480 - Continuing medication regimen; notice
+  - Ed. Code 51880-51921 - Comprehensive health education
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 42 USC 280g
-  - Children's asthma treatment grant program
+  - 42 USC 280g - Children's asthma treatment grant program
 
-Management Resources:
-  - CSBA Publication
-  - Indoor Air Quality: Governing Board Actions for Creating Healthy School
-  - Environments, Policy Brief, July 2008
-  - CSBA Publication
-  - Asthma Management in the Schools, Policy Brief, March 2008
-  - U.S. Department of Education Publication
-  - Joint Guidance on the Application of FERPA and HIPAA to Student Health
-  - Records, November 2008
-  - U.S. Environmental Protection Agency Publication Indoor Air Quality Tools for Schools
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Health and Human Services, National Heart, Lung, and
-  - Blood Institute
-  - Website
-  - U.S. Environmental Protection Agency (EPA)
-  - Website
-  - Centers for Disease Control and Prevention
-  - Website
-  - American School Health Association
-  - Website
-  - California School Nurses Organization
-  - Website
-  - American Lung Association
-  - Website
-  - California Department of Public Health
-  - Website
-  - CSBA
+Cross References:
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4231 - Staff Development
+  - 5030 - Student Wellness
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.24 - Specialized Health Care Services
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.6 - School Health Services
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504

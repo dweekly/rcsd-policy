@@ -36,19 +36,22 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 51513
-  - Personal beliefs
+  - Ed. Code 51513 - Personal beliefs
 
 Federal References:
-  - 20 USC 1232h
-  - Privacy rights
+  - 20 USC 1232h - Privacy rights
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Education, Office of the Chief Privacy Officer
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5145.6 - Parent/Guardian Notifications
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology

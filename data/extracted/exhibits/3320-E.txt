@@ -8,8 +8,6 @@ Source: RCSD Policies 3000.pdf (Pages 88, 89, 90, 91, 92, 93, 94, 95, 96)
 ================================================================================
 
 See PDF on the next page.
-Board Policy Manual
-Redwood City School District
 
 
 EXHIBIT 
@@ -353,65 +351,43 @@ Signature
  
  
  
-Typed Title of Officer 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-Policy Reference Disclaimer:
+Typed Title of Officer
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - Code of Civil Procedure 340.1
-  - Action for recovery of damages suffered as result of childhood
-  - sexual assault
-  - Code of Civil Procedure 340.11
-  - Action for recovery of damages suffered as a result of childhood
+  - Code of Civil Procedure 340.1 - Action for recovery of damages suffered as result of childhood - sexual assault
+  - Code of Civil Procedure 340.11 - Action for recovery of damages suffered as a result of childhood
   - sexual assault that occurred before January 1, 2024
-  - Code of Civil Procedure 85-86
-  - Limited civil cases; amount in controversy
-  - Ed. Code 35200
-  - Liability for debts and contracts
-  - Ed. Code 35202
-  - Claims against districts; applicability of Government Code
-  - Gov. Code 53051
-  - Information filed with secretary of state and county clerk
-  - Gov. Code 6500-6536
-  - Joint powers agreements
-  - Gov. Code 800
-  - Cost in civil actions
-  - Gov. Code 810-996.6
-  - Government Claims Act
-  - Pen. Code 72
-  - Fraudulent claims
+  - Code of Civil Procedure 85-86 - Limited civil cases; amount in controversy
+  - Ed. Code 35200 - Liability for debts and contracts
+  - Ed. Code 35202 - Claims against districts; applicability of Government Code
+  - Gov. Code 53051 - Information filed with secretary of state and county clerk
+  - Gov. Code 6500-6536 - Joint powers agreements
+  - Gov. Code 800 - Cost in civil actions
+  - Gov. Code 810-996.6 - Government Claims Act
+  - Pen. Code 72 - Fraudulent claims
 
 Management Resources:
-  - Court Decision
-  - Hovd v. Hayward Unified School District (1977) 74 Cal.App.3d
-  - 470
-  - Court Decision
-  - Stockett v. Association of California Water Agencies Joint Powers
-  - Insurance Authority (2004) 34 Cal.4th 441
-  - Court Decision
-  - City of Stockton v. Superior Court (2007) 42 Cal. 4th 730
-  - Court Decision
-  - Connelly v. County of Fresno (2006) 146 Cal.App.4th 29
-  - Court Decision
-  - CSEA v. Azusa Unified School District (1984) 152 Cal.App.3d 580
-  - Court Decision
-  - CSEA v. South Orange Community College District (2004) 124
-  - Cal.App.4th 574
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Secretary of
+  - 470 - Court Decision - Stockett v. Association of California Water Agencies Joint Powers - Insurance Authority (2004) 34 Cal.4th 441 - Court Decision - City of Stockton v. Superior Court (2007) 42 Cal. 4th 730 - Court Decision - Connelly v. County of Fresno (2006) 146 Cal.App.4th 29 - Court Decision - CSEA v. Azusa Unified School District (1984) 152 Cal.App.3d 580 - Court Decision - CSEA v. South Orange Community College District (2004) 124
+  - Cal.App.4th 574 - Website - CSBA District and County Office of Education Legal Services - Website - California Secretary of State's Office - Website - Fiscal Crisis and Management Assistance Team
+
+Cross References:
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4119.1 - Civil And Legal Rights
+  - 4157.1 - Work-Related Injuries
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4219.1 - Civil And Legal Rights
+  - 4319.1 - Civil And Legal Rights
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5143 - Insurance
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School
+  - 9322 - Agenda/Meeting Materials

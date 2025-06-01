@@ -47,8 +47,7 @@ in loco parentis to the employee when the employee was a child. However, for FML
 parents. (Government Code 12945.2; 2 CCR 11087; 29 USC 2611; 29 CFR 825.122)
 Serious health condition means an illness, injury (including, but not limited to, on-the-job injuries), impairment, or physical or mental 
 condition of the employee or an eligible family member of the employee that involves either inpatient care or continuing treatment, 
-Board Policy Manual
-Redwood City School District
+
 
 including treatment for substance abuse, as follows: (Government Code 12945.2; 2 CCR 11087, 11097; 29 USC 2611, 2612; 29 
 CFR 825.113-825.115)
@@ -585,8 +584,7 @@ notice, notification shall be provided of the amount of leave counted against th
 the employee and at least once in every 30-day period if leave was taken in that period. (29 CFR 825.300)
  
 
-Policy Reference Disclaimer:
- 
+
 6. 
  
 If the district requires paid leave to be used during an otherwise unpaid family care and medical leave, the notice shall so 
@@ -607,45 +605,47 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 11035-11051
-  - Unlawful sex discrimination; pregnancy, childbirth, and related medical
-  - conditions
-  - 2 CCR 11087-11098
-  - California Family Rights Act
-  - Ed. Code 44965
-  - Granting of leaves of absence for pregnancy and childbirth
-  - Fam. Code 297-297.5
-  - Rights, protections, benefits under the law; registered domestic partners
-  - Fam. Code 300
-  - Definition of marriage
-  - Gov. Code 12926
-  - Definitions
-  - Gov. Code 12940
-  - Unlawful discriminatory employment practices
-  - Gov. Code 12945
-  - Unlawful discrimination based on pregnancy, childbirth, or related medical
-  - conditions
-  - Gov. Code 12945.1-12945.21
-  - California Family Rights Act
-  - Gov. Code 12945.6
-  - Reproductive loss leave
-  - Gov. Code 12946
-  - Fair Employment and Housing Act: discrimination prohibited
+  - 2 CCR 11035-11051 - Unlawful sex discrimination; pregnancy, childbirth, and related medical - conditions
+  - 2 CCR 11087-11098 - California Family Rights Act
+  - Ed. Code 44965 - Granting of leaves of absence for pregnancy and childbirth
+  - Fam. Code 297-297.5 - Rights, protections, benefits under the law; registered domestic partners
+  - Fam. Code 300 - Definition of marriage
+  - Gov. Code 12926 - Definitions
+  - Gov. Code 12940 - Unlawful discriminatory employment practices
+  - Gov. Code 12945 - Unlawful discrimination based on pregnancy, childbirth, or related medical - conditions
+  - Gov. Code 12945.1-12945.21 - California Family Rights Act
+  - Gov. Code 12945.6 - Reproductive loss leave
+  - Gov. Code 12946 - Fair Employment and Housing Act: discrimination prohibited
 
 Federal References:
-  - 1 USC 7
-  - Definition of marriage and spouse
+  - 1 USC 7 - Definition of marriage and spouse
   - 29 CFR 825.100-825.702
   - Family and Medical Leave Act of 1993
-  - 29 USC 2601-2654
-  - Family Care and Medical Leave Act
+  - 29 USC 2601-2654 - Family Care and Medical Leave Act
   - 42 USC 2000ff-2000ff-11
   - Genetic Information Nondiscrimination Act of 2008
 
 Management Resources:
-  - Court Decision
-  - Faust v. California Portland Cement Company (2007) 150 Cal.App.4th 864
-  - Court Decision
-  - Tellis v. Alaska Airlines (9th Cir., 2005) 414 F.3d 1045
-  - Court Decision
-  - United
+  - 247 - U.S. Department of Labor Publication - Military Family Leave Provisions of the FMLA Frequently Asked Questions - and Answers - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Labor, FMLA - Website - California Civil Rights Department
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 2121 - Superintendent's Contract
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4032 - Reasonable Accommodation
+  - 4033 - Lactation Accommodation
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.4 - Health Examinations
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4112.9 - Employee Notifications
+  - 4113.4 - Temporary Modified/Light-Duty Assignment
+  - 4154 - Health And Welfare Benefits
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4161 - Leaves
+  - 4213.4 - Temporary Modified/Light-Duty Assignment
+  - 4261 - Leaves

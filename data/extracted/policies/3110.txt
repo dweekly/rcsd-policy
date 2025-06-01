@@ -30,42 +30,34 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 16095
-  - Transfer of district funds to district state school building fund
-  - Ed. Code 41301
-  - Section A state school fund allocation schedule
-  - Ed. Code 42125
-  - Designated and unappropriated fund balances
-  - Ed. Code 42238-42251
-  - Apportionments to districts
-  - Ed. Code 42238.01-42238.07
-  - Local control funding formula
-  - Ed. Code 42600
-  - District budget limitation on expenditure
-  - Ed. Code 42601
-  - Transfers between funds to permit payment of obligations at close of year
-  - Ed. Code 42603
-  - Transfer of monies held in any fund or account to another fund; repayment
-  - Ed. Code 42840-42843
-  - Special reserve fund
-  - Ed. Code 5200-5208
-  - Districts governed by boards of education
-  - Ed. Code 52616.4
-  - Expenditures from adult education fund
-  - Ed. Code 78
-  - Definition; governing board
+  - Ed. Code 16095 - Transfer of district funds to district state school building fund
+  - Ed. Code 41301 - Section A state school fund allocation schedule
+  - Ed. Code 42125 - Designated and unappropriated fund balances
+  - Ed. Code 42238-42251 - Apportionments to districts
+  - Ed. Code 42238.01-42238.07 - Local control funding formula
+  - Ed. Code 42600 - District budget limitation on expenditure
+  - Ed. Code 42601 - Transfers between funds to permit payment of obligations at close of year
+  - Ed. Code 42603 - Transfer of monies held in any fund or account to another fund; repayment
+  - Ed. Code 42840-42843 - Special reserve fund
+  - Ed. Code 5200-5208 - Districts governed by boards of education
+  - Ed. Code 52616.4 - Expenditures from adult education fund
+  - Ed. Code 78 - Definition; governing board
 
 Management Resources:
-  - California Department of Education Publication
-  - California School Accounting Manual
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Website
-  - Fiscal Crisis and Management Assistance Team
-  - Board Policy Manual
-  - Redwood City School District
   - 16
+
+Cross References:
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 3000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3300 - Expenditures And Purchases
+  - 3350 - Travel Expenses
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3470 - Debt Issuance And Management
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund

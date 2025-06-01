@@ -27,51 +27,38 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 3 CCR 6724
-  - Training of employees handling pesticides
-  - Ed. Code 10900-10914.5
-  - Community recreation programs
-  - Ed. Code 10913
-  - Fees for uses of school buses for community recreation purposes
-  - Ed. Code 35330
-  - Field trips and excursions; student fees
-  - Ed. Code 39800-39860
-  - Transportation services
-  - Ed. Code 39801.5
-  - Transportation for adults
-  - Ed. Code 39807.5
-  - Payment of transportation costs by parents
-  - Ed. Code 39809.5
-  - Excess fees; adjustments
-  - Ed. Code 39837
-  - Transportation to summer employment program
-  - Ed. Code 41850
-  - Transportation to regional occupational center or program
-  - Ed. Code 42238.02
-  - Local Control Funding Formula
-  - Ed. Code 49014
-  - Public School Fair Debt Collection Act
-  - Ed. Code 49557-49558
-  - Applications for free and reduced-price meals
-  - Ed. Code 56026
-  - Individual with exceptional needs; definition
+  - 3 CCR 6724 - Training of employees handling pesticides
+  - Ed. Code 10900-10914.5 - Community recreation programs
+  - Ed. Code 10913 - Fees for uses of school buses for community recreation purposes
+  - Ed. Code 35330 - Field trips and excursions; student fees
+  - Ed. Code 39800-39860 - Transportation services
+  - Ed. Code 39801.5 - Transportation for adults
+  - Ed. Code 39807.5 - Payment of transportation costs by parents
+  - Ed. Code 39809.5 - Excess fees; adjustments
+  - Ed. Code 39837 - Transportation to summer employment program
+  - Ed. Code 41850 - Transportation to regional occupational center or program
+  - Ed. Code 42238.02 - Local Control Funding Formula
+  - Ed. Code 49014 - Public School Fair Debt Collection Act
+  - Ed. Code 49557-49558 - Applications for free and reduced-price meals
+  - Ed. Code 56026 - Individual with exceptional needs; definition
 
 Management Resources:
-  - California Department of Education Publication
-  - Pupil Fees, Deposits, and Other Charges, Fiscal Management Advisory 20-
-  - 01, July 23, 2020
-  - Court Decision
-  - Hartzell v. Connell, 35 Cal.3d 899 (1984)
-  - Court Decision
-  - Arcadia Unified School District v. California Department of Education (1992)
-  - 2 Cal. 4th 251
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Board Policy Manual
-  - Redwood City School District
-  - 26
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Management Resources
+  - 01, July 23, 2020 - Court Decision - Hartzell v. Connell, 35 Cal.3d 899 (1984) - Court Decision - Arcadia Unified School District v. California Department of Education (1992)
+  - 2 Cal. 4th 251 - Website - CSBA District and County Office of Education Legal Services - Board Policy Manual - Redwood City School District
+  - 26 - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3541.2 - Transportation For Students With Disabilities
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth

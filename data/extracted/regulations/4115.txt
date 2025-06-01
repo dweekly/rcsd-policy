@@ -54,10 +54,9 @@ responsibilities. (Education Code 44662)
 Evaluation Results
 Certificated instructional employees shall receive a written copy of their evaluation no later than 30 days before the
 last scheduled school day of the school year in which the evaluation takes place. Before the last scheduled school
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 day of the school year, the employee and the evaluator shall meet to discuss the evaluation. (Education Code 44663)
 Noninstructional certificated staff members employed on a 12-month basis shall receive a copy of their evaluation
 no later than June 30 of the year in which the evaluation takes place. Before July 30, the employee and the
@@ -82,24 +81,35 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 33039
-  - State guidelines for teacher evaluation procedures
-  - Ed. Code 35171
-  - Availability of rules and regulations for evaluation of performance
-  - Ed. Code 44660-44665
-  - Evaluation and assessment of performance of certificated employees
-  - Gov. Code 3543.2
-  - Scope of representation
+  - Ed. Code 33039 - State guidelines for teacher evaluation procedures
+  - Ed. Code 35171 - Availability of rules and regulations for evaluation of performance
+  - Ed. Code 44660-44665 - Evaluation and assessment of performance of certificated employees
+  - Gov. Code 3543.2 - Scope of representation
 
-Management Resources:
-  - Commission on Teacher Credentialing Publication California Standards for the Teaching Profession (CSTP), October 2009
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Board for Professional Teaching Standards
-  - Website
-  - Commission on Teacher Credentialing
-  - Website
-  - CSBA
-  - Website
-  - California Department of Education
+Cross References:
+  - 4000 - Concepts And Roles
+  - 4100 - Certificated Personnel
+  - 4112.21 - Interns
+  - 4112.21 - Interns
+  - 4112.6 - Personnel Files
+  - 4112.8 - Employment Of Relatives
+  - 4112.9 - Employee Notifications
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4116 - Probationary/Permanent Status
+  - 4116 - Probationary/Permanent Status
+  - 4117.7 - Employment Status Reports
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4140 - Bargaining Units
+  - 4159 - Employee Assistance Programs
+  - 4219.21 - Professional Standards
+  - 4319.21 - Professional Standards
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6162.5 - Student Assessment
+  - 9000 - Role Of The Board

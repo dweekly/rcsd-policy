@@ -47,25 +47,117 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 44681-44689
-  - Administrator training and evaluation
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
+  - Ed. Code 44681-44689 - Administrator training and evaluation
+  - Ed. Code 52060-52077 - Local control and accountability plan
 
 Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Association of California School Administrators
-  - Website
-  - Commission on Teacher Credentialing
-  - Website
-  - WestEd
-  - Website
-  - California Department of Education
-  - Board Policy Manual
-  - Redwood City School District
-  - 354
-  - WestEd Publication
-  - California Professional Standards for Educational Leaders, 2001
-  - Management Resources
+  - 354 - WestEd Publication - California Professional Standards for Educational Leaders, 2001
+
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3350 - Travel Expenses
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.2 - Bomb Threats
+  - 3516.3 - Earthquake Emergency Procedure System
+  - 3542 - School Bus Drivers
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4000 - Concepts And Roles
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4040 - Employee Use Of Technology
+  - 4112.23 - Special Education Staff
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4119.21 - Professional Standards
+  - 4119.41 - Employees With Infectious Disease
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4161 - Leaves
+  - 4219.21 - Professional Standards
+  - 4261 - Leaves
+  - 4319.21 - Professional Standards
+  - 5137 - Positive School Climate
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5145.12 - Search And Seizure
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6111 - School Calendar
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.1 - Library Media Centers
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program

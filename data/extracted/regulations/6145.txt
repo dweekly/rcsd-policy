@@ -46,44 +46,93 @@ shall possess an Activity Supervisor Clearance Certificate from the Commission o
 have cleared a Department of Justice and Federal Bureau of Investigation criminal background check prior to
 beginning his/her duties, in accordance with BP 4127/4227/4327 - Temporary Athletic Team Coaches. (Education
 Code 49024)
+These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
+for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
+of the policy.
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 3 CCR 6724
-  - Training of employees handling pesticides
-  - 5 CCR 350
-  - Fees not permitted
-  - 5 CCR 4900-4965
-  - Nondiscrimination in elementary and secondary educational programs
-  - receiving state or
+  - 3 CCR 6724 - Training of employees handling pesticides
+  - 5 CCR 350 - Fees not permitted
+  - 5 CCR 4900-4965 - Nondiscrimination in elementary and secondary educational programs - receiving state or federal financial assistance
+  - CA Constitution Article 9, Section 5 - Common school system
+  - Ed. Code 35145 - Public meetings
+  - Ed. Code 35160.5 - Intradistrict open enrollment
+  - Ed. Code 35179 - Interscholastic athletics; associations or consortia
+  - Ed. Code 35181 - Governing board authority to set policy on responsibilities of students
+  - Ed. Code 48850 - Academic achievement of students in foster care and homeless children
+  - Ed. Code 48930-48938 - Student organizations
+  - Ed. Code 49010-49013 - Student fees
+  - Ed. Code 49024 - Activity Supervisor Clearance Certificate
+  - Ed. Code 49700-49703 - Education of children of military families
 
 Federal References:
   - 42 USC 2000h-2-2000h-6
   - Title IX of the Civil Rights Act of 1964
 
 Management Resources:
-  - California Department of Education Publication
-  - Pupil Fees, Deposits, and Other Charges, Fiscal Management Advisory 12-
-  - 02, April 24, 2013
-  - California Task Force Report to the Legislature
-  - Compact on Educational Opportunity for Military Children: Preliminary Final
-  - Report, March 2009
-  - Commission on Teacher Credentialing Publication Information on Assembly Bill 346 Concerning the Activity Supervisor
-  - Clearance Certificate (ASCC), Coded Correspondence 10-11, July 20, 2010
-  - Court Decision
-  - Hartzell v. Connell (1984) 35 Cal. 3d 899
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Association of Directors of Activities
-  - Website
-  - California Interscholastic Federation
-  - Website
-  - Commission on Teacher Credentialing
-  - Website
-  - CSBA
-  - Website
-  - California Department of Education
+  - 02, April 24, 2013 - California Task Force Report to the Legislature - Compact on Educational Opportunity for Military Children: Preliminary Final - Report, March 2009
+  - Commission on Teacher Credentialing Publication Information on Assembly Bill 346 Concerning the Activity Supervisor - Clearance Certificate (ASCC), Coded Correspondence 10-11, July 20, 2010 - Court Decision - Hartzell v. Connell (1984) 35 Cal. 3d 899 - Website - CSBA District and County Office of Education Legal Services - Website - California Association of Directors of Activities - Website - California Interscholastic Federation - Website - Commission on Teacher Credentialing - Website - CSBA - Website - California Department of Education
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1260 - Educational Foundation
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3452 - Student Activity Funds
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3554 - Other Food Sales
+  - 3554 - Other Food Sales
+  - 4112.5 - Criminal Record Check
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5131 - Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5137 - Positive School Climate
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6142.3 - Civic Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 9310 - Board Policies

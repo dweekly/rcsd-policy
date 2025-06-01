@@ -53,10 +53,9 @@ attestations from the entity that: (Education Code 39879)
  
 4. The entity has on file all the reports and documents required pursuant to Education Code 39877 for the
 duration of the contract, including, but not limited to, updated, revised, or modified reports and documents,
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 and that the reports and documents shall be available for inspection by the district
  
 Any vehicle used to provide student transportation for compensation shall meet both of the following requirements: 
@@ -90,81 +89,74 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 13 CCR 2025
-  - Retrofitting of diesel school buses
-  - 5 CCR 14100-14103
-  - Use of school buses and school pupil activity buses
-  - 5 CCR 15240-15343
-  - Allowances for student transportation
-  - 5 CCR 15253-15272
-  - District records related to transportation
-  - Ed. Code 35330
-  - Field trips and excursions; student fees
-  - Ed. Code 35350
-  - Authority to transport pupils
-  - Ed. Code 39800
-  - Powers of governing board to provide transportation to and from school
-  - Ed. Code 39800-39860
-  - Transportation services
-  - Ed. Code 39801
-  - Contract with County Superintendent of Schools to provide transportation
-  - Ed. Code 39802-39803
-  - Bids and contracts for transportation services
-  - Ed. Code 39806
-  - Payments to parents in lieu of transportation
-  - Ed. Code 39807
-  - Food and lodging payments in lieu of transportation
-  - Ed. Code 39807.5
-  - Payment of transportation costs by parents
+  - 13 CCR 2025 - Retrofitting of diesel school buses
+  - 5 CCR 14100-14103 - Use of school buses and school pupil activity buses
+  - 5 CCR 15240-15343 - Allowances for student transportation
+  - 5 CCR 15253-15272 - District records related to transportation
+  - Ed. Code 35330 - Field trips and excursions; student fees
+  - Ed. Code 35350 - Authority to transport pupils
+  - Ed. Code 39800 - Powers of governing board to provide transportation to and from school
+  - Ed. Code 39800-39860 - Transportation services
+  - Ed. Code 39801 - Contract with County Superintendent of Schools to provide transportation
+  - Ed. Code 39802-39803 - Bids and contracts for transportation services
+  - Ed. Code 39806 - Payments to parents in lieu of transportation
+  - Ed. Code 39807 - Food and lodging payments in lieu of transportation
+  - Ed. Code 39807.5 - Payment of transportation costs by parents
   - 241
-  - Ed. Code 39808
-  - Transportation for private school students
-  - Ed. Code 39877-39878
-  - School bus driver requirements
-  - Ed. Code 39879
-  - Private transportation provider requirements
-  - Ed. Code 41850-41851.1
-  - Allowances for transportation
-  - Ed. Code 41860-41862
-  - Supplemental allowances for transportation
-  - Ed. Code 42238.02
-  - Local Control Funding Formula
-  - Ed. Code 45125.1
-  - Criminal records summary; employees of contracting entity
-  - Ed. Code 52311
-  - Regional occupational centers; transportation
-  - Ed. Code 56026
-  - Student with a disability; definition
-  - Gov. Code 3540-3549.3
-  - Educational Employment Relations Act
-  - Pen. Code 637.7
-  - Electronic tracking devices
-  - Veh. Code 2807
-  - School bus inspection
-  - Veh. Code 4854
-  - Alternatives to conventional license plates
-  - State
+  - Ed. Code 39808 - Transportation for private school students
+  - Ed. Code 39877-39878 - School bus driver requirements
+  - Ed. Code 39879 - Private transportation provider requirements
+  - Ed. Code 41850-41851.1 - Allowances for transportation
+  - Ed. Code 41860-41862 - Supplemental allowances for transportation
+  - Ed. Code 42238.02 - Local Control Funding Formula
+  - Ed. Code 45125.1 - Criminal records summary; employees of contracting entity
+  - Ed. Code 52311 - Regional occupational centers; transportation
+  - Ed. Code 56026 - Student with a disability; definition
+  - Gov. Code 3540-3549.3 - Educational Employment Relations Act
+  - Pen. Code 637.7 - Electronic tracking devices
+  - Veh. Code 2807 - School bus inspection
+  - Veh. Code 4854 - Alternatives to conventional license plates
 
 Management Resources:
-  - Court Decision
-  - Arcadia Unified School District v. California Department of Education (1992)
-  - 2 Cal. 4th 251
-  - Public Utilities Commission Order
-  - Order Instituting Rulemaking on Regulations Relating to Passenger Carriers,
-  - Ridesharing, and New Online-Enabled Transportation Services, September
-  - 2013
-  - Website
-  - Department of Motor Vehicles
-  - Website
-  - Public Utilities Commission
-  - Website
-  - Bureau of Automotive Repair
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Air Resources Board Zero Emission School Bus and Infrastructure
-  - Program
-  - Website
-  - California Energy Commission
-  - Website
-  - CSBA
+  - 2 Cal. 4th 251 - Public Utilities Commission Order - Order Instituting Rulemaking on Regulations Relating to Passenger Carriers, - Ridesharing, and New Online-Enabled Transportation Services, September
+  - 2013 - Website - Department of Motor Vehicles - Website - Public Utilities Commission - Website - Bureau of Automotive Repair - Website - CSBA District and County Office of Education Legal Services - Website - California Air Resources Board Zero Emission School Bus and Infrastructure - Program - Website - California Energy Commission - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 3000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3250 - Transportation Fees
+  - 3250 - Transportation Fees
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3312 - Contracts
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3512 - Equipment
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3541 - Transportation Routes And Services
+  - 3541.1 - Transportation For School-Related Trips
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3542 - School Bus Drivers
+  - 3543 - Transportation Safety And Emergencies
+  - 4112.4 - Health Examinations
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4231 - Staff Development
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5117 - Interdistrict Attendance
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth

@@ -56,8 +56,7 @@ teacher on occasions when a delay to request permission would preclude their mos
 Prohibited Uses:
 1. Copying more than one work or two excerpts from a single author during one class term.
  
-Board Policy Manual
-Redwood City School District
+
 
 2. Copying more than three works from a collective work or periodical volume during one class term.
  
@@ -223,58 +222,53 @@ be made to secure software from copying.
  
 3. Illegal copies of copyrighted programs shall not be made or used on school equipment.
 
-Policy Reference Disclaimer:
-
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35182
-  - Marketing or licensing noneducational mainframe electronic data-
-  - processing software
+  - Ed. Code 35182 - Marketing or licensing noneducational mainframe electronic data- - processing software
 
 Federal References:
-  - 17 USC 101-122
-  - Subject matter and scope of copyright
-  - 17 USC 102
-  - Definitions
-  - 17 USC 106
-  - Copyright protection
-  - 17 USC 107
-  - Fair use of copyrighted works
-  - 17 USC 110
-  - Limitations on exclusive rights: Exemption of certain performances and
-  - displays
-  - 17 USC 504
-  - Penalties for copyright infringement
+  - 17 USC 101-122 - Subject matter and scope of copyright
+  - 17 USC 102 - Definitions
+  - 17 USC 106 - Copyright protection
+  - 17 USC 107 - Fair use of copyrighted works
+  - 17 USC 110 - Limitations on exclusive rights: Exemption of certain performances and - displays
+  - 17 USC 504 - Penalties for copyright infringement
 
 Management Resources:
-  - Court Decision
-  - Cambridge University Press et al. v. Becker et al. (N.D. Ga. 2012) 863
-  - F.Supp.2d 1190
-  - Court Decision
-  - Campbell v. Acuff-Rose Music, Inc. (1994) 510 U.S. 569
-  - Court Decision
-  - Marcus v. Rowley (9th Cir., 1982) 695 F.2d 1171
-  - National School Boards Association Publication
-  - Copyright Law: Do Schools Need a License to Show a Movie?, School Law
-  - Review, July 2010
-  - U.S. Copyright Office Publication
-  - Circular 21: Reproduction of Copyrighted Works by Educators and
-  - Librarians, rev. 2009
-  - U.S. Copyright Office Publication
-  - Circular 22: How to Investigate the Copyright Status of a Work, rev. 2013
-  - U.S. Copyright Office Publication
-  - Circular 23: The Copyright Card Catalog and the Online Files of the
-  - Copyright Office, rev. 2012
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - University of California, Copyright Education
-  - Website
-  - U.S. Copyright Office
-  - Website
-  - Copyright Society of the USA
-  - Website
-  - National School Boards Association
+  - F.Supp.2d 1190 - Court Decision - Campbell v. Acuff-Rose Music, Inc. (1994) 510 U.S. 569 - Court Decision - Marcus v. Rowley (9th Cir., 1982) 695 F.2d 1171 - National School Boards Association Publication - Copyright Law: Do Schools Need a License to Show a Movie?, School Law - Review, July 2010 - U.S. Copyright Office Publication
+  - Circular 21: Reproduction of Copyrighted Works by Educators and - Librarians, rev. 2009 - U.S. Copyright Office Publication
+  - Circular 22: How to Investigate the Copyright Status of a Work, rev. 2013 - U.S. Copyright Office Publication
+  - Circular 23: The Copyright Card Catalog and the Online Files of the - Copyright Office, rev. 2012 - Website - CSBA District and County Office of Education Legal Services - Website - University of California, Copyright Education - Website - U.S. Copyright Office - Website - Copyright Society of the USA - Website - National School Boards Association
+
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 3300 - Expenditures And Purchases
+  - 3312 - Contracts
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4040 - Employee Use Of Technology
+  - 4119.21 - Professional Standards
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4132 - Publication Or Creation Of Materials
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 5131.9 - Academic Honesty
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.6 - Visual And Performing Arts Education
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology

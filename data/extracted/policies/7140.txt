@@ -29,52 +29,31 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 24 CCR 101
-  - California Building Standards Code
-  - 5 CCR 14001
-  - Minimum standards for school facilities
-  - 5 CCR 14030-14036
-  - Standards, planning, and approval of school facilities
-  - 5 CCR 2
-  - Definitions
-  - Bus. Code 5500-5502
-  - Architecture
-  - Bus. Code 5550-5558
-  - Architects; licensure
-  - Bus. Code 6700-6706.3
-  - Professional Engineers Act
-  - Bus. Code 6750-6767
-  - Engineers; licensure
-  - CA Constitution Article 22
-  - Architectural and engineering services
-  - Ed. Code 17070.10-17079.30
-  - Leroy F. Greene School Facilities Act
-  - Ed. Code 17250.10-17250.55
-  - Design-build contracts
-  - Ed. Code 17250.60-17250.69
-  - Alternative design-build contracts
-  - Ed. Code 17251-17256
-  - CDE powers concerning buildings and building sites
-  - Ed. Code 17260-17268
-  - Plans and specifications for school facilities
-  - Ed. Code 17280-17317
-  - Building approvals
-  - Ed. Code 17371
-  - Limitation on liability of governing board
-  - Gov. Code 14837
-  - Definition of small business
-  - Gov. Code 4525-4529.5
-  - Contracts with private architects, engineering, land surveying, and
-  - construction project
+  - 24 CCR 101 - California Building Standards Code
+  - 5 CCR 14001 - Minimum standards for school facilities
+  - 5 CCR 14030-14036 - Standards, planning, and approval of school facilities
+  - 5 CCR 2 - Definitions
+  - Bus. Code 5500-5502 - Architecture
+  - Bus. Code 5550-5558 - Architects; licensure
+  - Bus. Code 6700-6706.3 - Professional Engineers Act
+  - Bus. Code 6750-6767 - Engineers; licensure
+  - CA Constitution Article 22 - Architectural and engineering services
+  - Ed. Code 17070.10-17079.30 - Leroy F. Greene School Facilities Act
+  - Ed. Code 17250.10-17250.55 - Design-build contracts
+  - Ed. Code 17250.60-17250.69 - Alternative design-build contracts
+  - Ed. Code 17251-17256 - CDE powers concerning buildings and building sites
+  - Ed. Code 17260-17268 - Plans and specifications for school facilities
+  - Ed. Code 17280-17317 - Building approvals
+  - Ed. Code 17371 - Limitation on liability of governing board
+  - Gov. Code 14837 - Definition of small business
+  - Gov. Code 4525-4529.5 - Contracts with private architects, engineering, land surveying, and - construction project management firms
+  - Gov. Code 87100 - Public officials; financial interest
+  - Pub. Cont. Code 20110-20118.44 - School district contracts - Board Policy Manual - Redwood City School District - 3
 
-Management Resources:
-  - California Department of Education Publication
-  - Plan Submission Requirements for Modernization Projects, Form SFPD 4.08
-  - California Department of Education Publication
-  - Plan Submission Requirements for New Construction, Form SFPD 4.07
-  - Office of Public School Construction Publication
-  - School Facility Program Handbook, January 2019
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Department of General Services, Division of the
+Cross References:
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3312 - Contracts
+  - 9270 - Conflict Of Interest

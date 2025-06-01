@@ -46,68 +46,71 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32210
-  - Willful disturbance of public school or meeting
-  - Ed. Code 32211
-  - Threatened disruption or interference with classes
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 44810
-  - Willful interference with classroom conduct
-  - Ed. Code 44811
-  - Disruption of classwork or extracurricular activities
-  - Ed. Code 48902
-  - Mandatory notification of law enforcement authorities
-  - Pen. Code 12556
-  - Imitation firearms
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 32210 - Willful disturbance of public school or meeting
+  - Ed. Code 32211 - Threatened disruption or interference with classes
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 44810 - Willful interference with classroom conduct
+  - Ed. Code 44811 - Disruption of classwork or extracurricular activities
+  - Ed. Code 48902 - Mandatory notification of law enforcement authorities
+  - Pen. Code 12556 - Imitation firearms - Board Policy Manual - Redwood City School District
   - 197
-  - Pen. Code 243.5
-  - Assault or battery on school property
-  - Pen. Code 30310
-  - Prohibition against ammunition on school grounds
-  - Pen. Code 415.5
-  - Disturbance of peace of school
-  - Pen. Code 626-626.11
-  - Weapons on school grounds and other school crimes
-  - Pen. Code 626.7
-  - Failure to leave campus or facility; wrongful return; penalties; notice;
-  - exceptions
-  - Pen. Code 626.8
-  - Disruptions
-  - Pen. Code 626.81
-  - Misdemeanor for registered sex offender to come onto school grounds
-  - Pen. Code 626.85
-  - Misdemeanor for specified drug offender presence on school grounds
+  - Pen. Code 243.5 - Assault or battery on school property
+  - Pen. Code 30310 - Prohibition against ammunition on school grounds
+  - Pen. Code 415.5 - Disturbance of peace of school
+  - Pen. Code 626-626.11 - Weapons on school grounds and other school crimes
+  - Pen. Code 626.7 - Failure to leave campus or facility; wrongful return; penalties; notice; - exceptions
+  - Pen. Code 626.8 - Disruptions
+  - Pen. Code 626.81 - Misdemeanor for registered sex offender to come onto school grounds
+  - Pen. Code 626.85 - Misdemeanor for specified drug offender presence on school grounds
   - Pen. Code 626.9
   - Gun-Free School Zone Act of 1995
-  - Pen. Code 627-627.10
-  - Access to school premises
-  - Pen. Code 653b
-  - Loitering about schools or public places
-  - State
+  - Pen. Code 627-627.10 - Access to school premises
+  - Pen. Code 653b - Loitering about schools or public places
 
 Federal References:
-  - 20 USC 7961
-  - Gun-Free Schools Act
+  - 20 USC 7961 - Gun-Free Schools Act
 
 Management Resources:
-  - Attorney General Opinion
-  - 79 Ops.Cal.Atty.Gen. 58 (1996)
-  - Court Decision
-  - In Re Jimi A. (1989) 209 Cal.App.3d 482
-  - Court Decision
-  - In Re Joseph F. (2000) 85 Cal.App.4th 975
-  - Court Decision
-  - In Re Oscar R. (1984) 161 Cal.App.3d 770
-  - Court Decision
-  - Reeves v. Rocklin Unified School District (2003) 109 Cal.App.4th 652
-  - U.S. Department of Education Publication
-  - Guide for Developing High-Quality School Emergency Operations Plans,
-  - 2013
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Education - Education for Homeless Children and
-  - Youths Grants for
+  - 79 Ops.Cal.Atty.Gen. 58 (1996) - Court Decision - In Re Jimi A. (1989) 209 Cal.App.3d 482 - Court Decision - In Re Joseph F. (2000) 85 Cal.App.4th 975 - Court Decision - In Re Oscar R. (1984) 161 Cal.App.3d 770 - Court Decision - Reeves v. Rocklin Unified School District (2003) 109 Cal.App.4th 652 - U.S. Department of Education Publication - Guide for Developing High-Quality School Emergency Operations Plans,
+  - 2013 - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Education - Education for Homeless Children and - Youths Grants for State and Local Activities - Website - California Department of Education, Safe Schools - Website - CSBA
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1112 - Media Relations
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1313 - Civility
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.5 - Sex Offender Notification
+  - 3515.5 - Sex Offender Notification
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3543 - Transportation Safety And Emergencies
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 6116 - Classroom Interruptions
+  - 6116 - Classroom Interruptions
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access

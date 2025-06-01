@@ -34,39 +34,30 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35250
-  - Duty to keep certain records
-  - Ed. Code 38091
-  - Cafeteria revolving accounts
-  - Ed. Code 41020
-  - Requirement for annual audit
-  - Ed. Code 41021
-  - Requirement for employee's indemnity bond
-  - Ed. Code 41365
-  - Charter school revolving loan fund
-  - Ed. Code 42238
-  - Revenue limits
-  - Ed. Code 42238.01-42238.07
-  - Local control funding formula
-  - Ed. Code 42630-42652
-  - Orders, requisitions, and warrants
-  - Ed. Code 42810
-  - Revolving cash funds; use; administrators
-  - Ed. Code 42820-42821
-  - Prepayment revolving cash fund
-  - Ed. Code 45167
-  - Error in salary
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35250 - Duty to keep certain records
+  - Ed. Code 38091 - Cafeteria revolving accounts
+  - Ed. Code 41020 - Requirement for annual audit
+  - Ed. Code 41021 - Requirement for employee's indemnity bond
+  - Ed. Code 41365 - Charter school revolving loan fund
+  - Ed. Code 42238 - Revenue limits
+  - Ed. Code 42238.01-42238.07 - Local control funding formula
+  - Ed. Code 42630-42652 - Orders, requisitions, and warrants
+  - Ed. Code 42810 - Revolving cash funds; use; administrators
+  - Ed. Code 42820-42821 - Prepayment revolving cash fund
+  - Ed. Code 45167 - Error in salary
 
 Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Board Policy Manual
-  - Redwood City School District
-  - 80
-  - Website
-  - California Department of Education, Finance and Grants
-  - Website
-  - Fiscal Crisis and Management Assistance Team
-  - Management Resources
+  - 80 - Website - California Department of Education, Finance and Grants - Website - Fiscal Crisis and Management Assistance Team
+
+Cross References:
+  - 3300 - Expenditures And Purchases
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3451 - Petty Cash Funds
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund

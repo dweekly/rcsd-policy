@@ -60,8 +60,7 @@ and activities with other federal, state, and local programs, including public p
 conduct other activities, such as parent resource centers, that encourage and support parents/guardians
 in fully participating in their children's education
  
-Board Policy Manual
-Redwood City School District
+
 
 e. Ensure that information related to school and parent/guardian programs, meetings, and other activities is
 sent to the parents/guardians of participating students in a format and, to the extent practicable, in a
@@ -394,8 +393,7 @@ newsletters, the district's web site, and other written or electronic communicat
 d. To the extent practicable, provide notices and information to parents/guardians in a format and language
 they can understand
 
-Policy Reference Disclaimer:
- 
+
 e. Develop mechanisms to encourage parent/guardian input on district and school issues
  
 f. Identify barriers to parent/guardian participation in school activities, including parents/guardians who
@@ -426,42 +424,115 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 18275
-  - Child care and development programs; parent involvement and education
-  - Ed. Code 11500-11505
-  - Programs to encourage parent involvement
-  - Ed. Code 48985
-  - Notices to parents in language other than English
+  - 5 CCR 18275 - Child care and development programs; parent involvement and education
+  - Ed. Code 11500-11505 - Programs to encourage parent involvement
+  - Ed. Code 48985 - Notices to parents in language other than English
   - Ed. Code 51101
   - Parents Rights Act of 2002
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 54444.1-54444.2
-  - Parent advisory councils; services to migrant children
-  - Ed. Code 56190-56194
-  - Community advisory committee; special education
-  - Ed. Code 64001
-  - School plan for student achievement; consolidated application programs
-  - Lab. Code 230.8
-  - Time off to visit child's school
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 54444.1-54444.2 - Parent advisory councils; services to migrant children
+  - Ed. Code 56190-56194 - Community advisory committee; special education
+  - Ed. Code 64001 - School plan for student achievement; consolidated application programs
+  - Lab. Code 230.8 - Time off to visit child's school
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
+  - 20 USC 6312 - Local educational agency plan
+  - 20 USC 6314 - Schoolwide programs
+  - 20 USC 6318 - Parent and family engagement
+  - 20 USC 6631 - Teacher and school leader incentive program; purposes and definitions
+  - 28 CFR 35.104 - Definitions, auxiliary aids and services
+  - 28 CFR 35.160 - Effective communications for individuals with disabilities
+  - 30
 
 Management Resources:
-  - California Department of Education Publication
-  - Family Engagement Framework: A Tool for California School Districts, 2014
-  - California Department of Education Publication
-  - Title I School-Level Parental Involvement Policy
-  - U.S. Department of Education Publication
-  - Parental Involvement: Title I, Part A, Non-Regulatory Guidance, April 23,
-  - 2004
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Family, School, Community
-  - Partnerships
-  - Website
-  - California Parent Center
-  - Website
-  - California
+  - 2004 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Family, School, Community - Partnerships - Website - California Parent Center - Website - California State Parent Teacher Association - Website - CSBA - Website - National PTA - Website - Parent Information and Resource Centers - Website - Parents as Teachers National Center - Website - U.S. Department of Education
+
+Cross References:
+  - 0100 - Philosophy
+  - 0400 - Comprehensive Plans
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1260 - Educational Foundation
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 2230 - Representative And Deliberative Groups
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5030 - Student Wellness
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6154 - Homework/Makeup Work
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6177 - Summer Learning Programs
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 9200 - Limits Of Board Member Authority
+  - 9310 - Board Policies

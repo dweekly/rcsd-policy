@@ -41,108 +41,128 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - Ed. Code 39807.5
-  - Payment of transportation costs by parents/guardians; waiver for foster
-  - youth
-  - Ed. Code 42238.01-42238.07
-  - Local control funding formula
-  - Ed. Code 42920-42926
-  - Foster children educational services
-  - Ed. Code 48645-48647
-  - Juvenile court schools
-  - Ed. Code 48850-48859
-  - Education of foster youth and homeless students
-  - Ed. Code 48915.5
-  - Recommended expulsion; foster youth with disabilities
-  - Ed. Code 48918.1
-  - Notice of recommended expulsion
-  - Ed. Code 49061
-  - Definitions; directory information
-  - Ed. Code 49069.5
-  - Students in foster care; grades and credits
-  - Ed. Code 49076
-  - Access to student records
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - Ed. Code 39807.5 - Payment of transportation costs by parents/guardians; waiver for foster - youth
+  - Ed. Code 42238.01-42238.07 - Local control funding formula
+  - Ed. Code 42920-42926 - Foster children educational services
+  - Ed. Code 48645-48647 - Juvenile court schools
+  - Ed. Code 48850-48859 - Education of foster youth and homeless students
+  - Ed. Code 48915.5 - Recommended expulsion; foster youth with disabilities
+  - Ed. Code 48918.1 - Notice of recommended expulsion
+  - Ed. Code 49061 - Definitions; directory information
+  - Ed. Code 49069.5 - Students in foster care; grades and credits
+  - Ed. Code 49076 - Access to student records - Board Policy Manual - Redwood City School District
   - 282
-  - Ed. Code 51225.1
-  - Exemption from district graduation requirements
-  - Ed. Code 51225.2
-  - Course credits
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 56055
-  - Rights of foster parents pertaining to foster youth's education
-  - H&S Code 120341
-  - Foster youth; school placement and immunization records
-  - H&S Code 1522.41
-  - Training and certification of group home administrators
-  - W&I Code 16000-16014
-  - Foster care placement
-  - W&I Code 300
-  - Minors subject to jurisdiction
-  - W&I Code 309
-  - Investigation and release of child
-  - W&I Code 317
-  - Appointment of legal counsel
-  - W&I Code 361
-  - Limitations on parental control
-  - W&I Code 366.27
-  - Educational decision by relative providing living arrangements
-  - W&I Code 602
-  - Minors violating law; ward of court
-  - W&I Code 726
-  - Limitations on parental control
-  - W&I Code 727
-  - Order of care; ward of court
-  - State
+  - Ed. Code 51225.1 - Exemption from district graduation requirements
+  - Ed. Code 51225.2 - Course credits
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 56055 - Rights of foster parents pertaining to foster youth's education - H&S Code 120341 - Foster youth; school placement and immunization records - H&S Code 1522.41 - Training and certification of group home administrators - W&I Code 16000-16014 - Foster care placement - W&I Code 300 - Minors subject to jurisdiction - W&I Code 309 - Investigation and release of child - W&I Code 317 - Appointment of legal counsel - W&I Code 361 - Limitations on parental control - W&I Code 366.27 - Educational decision by relative providing living arrangements - W&I Code 602 - Minors violating law; ward of court - W&I Code 726 - Limitations on parental control - W&I Code 727 - Order of care; ward of court
 
 Federal References:
-  - 20 USC 1415
-  - Procedural safeguards
-  - 20 USC 6311
+  - 20 USC 1415 - Procedural safeguards
+  - 20 USC 6311 - State plan
+  - 29 USC 794
+  - Rehabilitation Act of 1973; Section 504
+  - 42 USC 11431-11435 - McKinney-Vento Homeless Assistance Act
+  - 42 USC 670-679b - Federal assistance for foster care programs
 
 Management Resources:
-  - Alliance for Children's Rights Publication
-  - Foster Youth Education Toolkit, December 2016
-  - California Child Welfare Council Publication
-  - Partial Credit Model Policy and Practice Recommendations, September
-  - 2013
-  - California Foster Youth Education Task Force Pub California Foster Youth Education Law Fact Sheets, January 2021
-  - Cities, Counties and Schools Partnership Pub.
-  - Our Children: Emancipating Foster Youth, A Community Action Guide
-  - CSBA Publication
-  - Our Foster Youth: What School Boards Can Do, May 2016
-  - CSBA Publication
-  - Foster Youth: Supports for Success, Governance Brief, May 2016
-  - U.S. Department of Education Publication
-  - Ensuring Educational Stability for Children in Foster Care, Non-Regulatory
-  - Guidance, June 2016
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Alliance for Children's Rights
-  - Website
-  - Foster Ed
-  - Website
-  - National Center for Youth Law
-  - Website
-  - California Department of Education, Foster Youth Services
-  - Website
-  - California Department of Social Services, Foster Youth Ombudsman Office
-  - Website
-  - California Foster Youth Education Task Force
-  - Website
-  - California Youth Connection
-  - 283
-  - Website
-  - Cities Counties and Schools Partnership
-  - Website
-  - CSBA
-  - Website
-  - California Child Welfare Council
-  - Management Resources
+  - 2013 - California Foster Youth Education Task Force Pub California Foster Youth Education Law Fact Sheets, January 2021 - Cities, Counties and Schools Partnership Pub. - Our Children: Emancipating Foster Youth, A Community Action Guide - CSBA Publication - Our Foster Youth: What School Boards Can Do, May 2016 - CSBA Publication - Foster Youth: Supports for Success, Governance Brief, May 2016 - U.S. Department of Education Publication - Ensuring Educational Stability for Children in Foster Care, Non-Regulatory - Guidance, June 2016 - Website - CSBA District and County Office of Education Legal Services - Website - Alliance for Children's Rights - Website - Foster Ed - Website - National Center for Youth Law - Website - California Department of Education, Foster Youth Services - Website - California Department of Social Services, Foster Youth Ombudsman Office - Website - California Foster Youth Education Task Force - Website - California Youth Connection
+  - 283 - Website - Cities Counties and Schools Partnership - Website - CSBA - Website - California Child Welfare Council
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3250 - Transportation Fees
+  - 3250 - Transportation Fees
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5117 - Interdistrict Attendance
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.6 - School Health Services
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.9 - Hate-Motivated Behavior
+  - 5147 - Dropout Prevention
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6172 - Gifted And Talented Student Program
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6177 - Summer Learning Programs
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 6190 - Evaluation Of The Instructional Program
+  - 9320 - Meetings And Notices

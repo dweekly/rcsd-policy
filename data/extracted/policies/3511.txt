@@ -51,33 +51,58 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 23 CCR 2200
-  - Discharge permit fees
-  - 23 CCR 490-495
-  - Model Water Efficient Landscape Ordinance
-  - Ed. Code 17213.1
-  - School sites
-  - Ed. Code 17280
-  - Construction of school buildings
-  - Board Policy Manual
-  - Redwood City School District
+  - 23 CCR 2200 - Discharge permit fees
+  - 23 CCR 490-495 - Model Water Efficient Landscape Ordinance
+  - Ed. Code 17213.1 - School sites
+  - Ed. Code 17280 - Construction of school buildings - Board Policy Manual - Redwood City School District
   - 143
-  - Ed. Code 35275
-  - Coordination of new facilities with recreation and park authorities
-  - Ed. Code 46392
-  - Emergencies
-  - Gov. Code 53097
-  - Compliance with city or county ordinances
-  - Pub. Res. Code 25410-25422
-  - Energy conservation assistance
-  - Wat. Code 13383
-  - Compliance with the
+  - Ed. Code 35275 - Coordination of new facilities with recreation and park authorities
+  - Ed. Code 46392 - Emergencies
+  - Gov. Code 53097 - Compliance with city or county ordinances
+  - Pub. Res. Code 25410-25422 - Energy conservation assistance
+  - Wat. Code 13383 - Compliance with the federal Water Pollution Control Act
+  - Wat. Code 13383.5 - Storm water discharge monitoring requirements
+  - Wat. Code 189.3 - Recommendations for best design and use practices
 
 Federal References:
-  - 33 USC 1342
-  - National pollutant discharge elimination system
-  - 40 CFR 122.1-122.64
-  - National pollutant discharge elimination system
+  - 33 USC 1342 - National pollutant discharge elimination system
+  - 40 CFR 122.1-122.64 - National pollutant discharge elimination system
 
 Management Resources:
-  - CA
+  - Management Advisory 90-01, rev. February 10, 2005 - California Department of Education Publication - A Blueprint for Environmental Literacy: Educating Every Student In, About, - and For the Environment, 2015 - U.S. Environmental Protection Agency Publication National Management Measures to Control Nonpoint Source Pollution from - Urban Areas, 2005 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Water Resources - Website - California Division of State Architect - Website - Green School Yards America - Website - Alliance to Save Energy - Website - California State Water Resources Control Board - Website - California Stormwater Quality Association - Website - Collaborative for High Performance Schools - Website - California Energy Commission - Website - U.S. Environmental Protection Agency - Website - CSBA - Website - California Department of Education, School Facilities
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1100 - Communication With The Public
+  - 1150 - Commendations And Awards
+  - 1150 - Commendations And Awards
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3300 - Expenditures And Purchases
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3512 - Equipment
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3514.2 - Integrated Pest Management
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.5 - Emergency Schedules
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 4231 - Staff Development
+  - 5141.7 - Sun Safety
+  - 6142.5 - Environmental Education
+  - 6142.93 - Science Instruction

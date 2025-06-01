@@ -58,8 +58,7 @@ and that pose a security risk; abatement of hazardous materials previously undis
 immediate threat to pupils or staff; or structural damage creating a hazardous or uninhabitable condition,
 or any other condition deemed appropriate. (Education Code 17592.72)
  
-Board Policy Manual
-Redwood City School District
+
 
 b. A school restroom has not been cleaned, maintained, or kept open in accordance with Education Code
 35292.5.
@@ -113,7 +112,7 @@ the Superintendent or designee in a timely manner, but not to exceed 10 working 
 anonymously. (Education Code 35186; 5 CCR 4680)
 Investigation and Response
 
-Policy Reference Disclaimer:
+
 The principal or the preschool administrator or a designee of the Superintendent shall make all reasonable efforts to
 investigate any problem within their authority.
 Investigation of a complaint regarding preschool health or safety issues shall begin within 10 calendar days of receipt
@@ -151,53 +150,62 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - 5 CCR 4600-4687
-  - Uniform complaint procedures and Williams complaints
-  - 5 CCR 4690-4694
-  - Health and safety complaints in license-exempt preschool programs
-  - Ed. Code 1240
-  - County superintendent of schools; duties
-  - Ed. Code 17592.72
-  - School Facility Emergency Repair Account; urgent or emergency repairs
-  - Ed. Code 200-270
-  - Prohibition of discrimination
-  - Ed. Code 234.1
-  - Student protections relating to discrimination, harassment, intimidation, and
-  - bullying
-  - Ed. Code 33126
-  - School accountability report card
-  - Ed. Code 35186
-  - Williams uniform complaint procedures
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - 5 CCR 4600-4687 - Uniform complaint procedures and Williams complaints
+  - 5 CCR 4690-4694 - Health and safety complaints in license-exempt preschool programs
+  - Ed. Code 1240 - County superintendent of schools; duties
+  - Ed. Code 17592.72 - School Facility Emergency Repair Account; urgent or emergency repairs
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 234.1 - Student protections relating to discrimination, harassment, intimidation, and - bullying
+  - Ed. Code 33126 - School accountability report card
+  - Ed. Code 35186 - Williams uniform complaint procedures
   - 104
-  - Ed. Code 35292.5-35292.6
-  - Restrooms; maintenance and cleanliness
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 51501
-  - Nondiscriminatory subject matter
-  - Ed. Code 60010
-  - Instructional materials; definition
-  - Ed. Code 60040-60052
-  - Requirements for instructional materials
-  - Ed. Code 60119
-  - Hearing on sufficiency of instructional materials
-  - Ed. Code 60150
-  - Penalty for insufficiency of textbooks and instructional materials
-  - State
+  - Ed. Code 35292.5-35292.6 - Restrooms; maintenance and cleanliness
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 51501 - Nondiscriminatory subject matter
+  - Ed. Code 60010 - Instructional materials; definition
+  - Ed. Code 60040-60052 - Requirements for instructional materials
+  - Ed. Code 60119 - Hearing on sufficiency of instructional materials
+  - Ed. Code 60150 - Penalty for insufficiency of textbooks and instructional materials
 
 Federal References:
-  - 20 USC 6314
-  - Title I schoolwide program
+  - 20 USC 6314 - Title I schoolwide program
 
-Management Resources:
-  - CA Office of the Attorney General Publication
-  - Guidance to School Officials re: Legal Requirements for Providing Inclusive
-  - Curricula and Books, Legal Alert, January 2024
-  - CSBA Publication
-  - Instructional Materials Adoptions:
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1100 - Communication With The Public
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.2 - Integrated Pest Management
+  - 3517 - Facilities Inspection
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 6142.92 - Mathematics Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6161.2 - Damaged Or Lost Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 9000 - Role Of The Board
+  - 9200 - Limits Of Board Member Authority
+  - 9322 - Agenda/Meeting Materials

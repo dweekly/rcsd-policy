@@ -42,53 +42,53 @@ REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 1, Section 31
-  - Nondiscrimination on the basis of race, sex, color, ethnicity, or national
-  - origin
-  - Ed. Code 41020
-  - Requirement for annual audit
-  - Ed. Code 46600-46611
-  - Interdistrict attendance agreements
-  - Ed. Code 48204
-  - Residency requirements for school attendance
-  - Ed. Code 48300-48317
-  - Student attendance alternatives; school district of choice program
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Ed. Code 48915
-  - Expulsion; particular circumstances
-  - Ed. Code 48915.1
-  - Expelled individuals; enrollment in another district
-  - Ed. Code 48918
-  - Rules governing expulsion procedures
-  - Board Policy Manual
-  - Redwood City School District
+  - CA Constitution Article 1, Section 31 - Nondiscrimination on the basis of race, sex, color, ethnicity, or national - origin
+  - Ed. Code 41020 - Requirement for annual audit
+  - Ed. Code 46600-46611 - Interdistrict attendance agreements
+  - Ed. Code 48204 - Residency requirements for school attendance
+  - Ed. Code 48300-48317 - Student attendance alternatives; school district of choice program
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48915 - Expulsion; particular circumstances
+  - Ed. Code 48915.1 - Expelled individuals; enrollment in another district
+  - Ed. Code 48918 - Rules governing expulsion procedures - Board Policy Manual - Redwood City School District
   - 87
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 52317
-  - Regional Occupational Center/Program; enrollment of students; interdistrict
-  - attendance
-  - Ed. Code 8151
-  - Apprentices; exemption from interdistrict attendance agreement
-  - State
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 52317 - Regional Occupational Center/Program; enrollment of students; interdistrict - attendance
+  - Ed. Code 8151 - Apprentices; exemption from interdistrict attendance agreement
 
 Management Resources:
-  - Attorney General Opinion
-  - 84 Ops.Cal.Atty.Gen. 198 (2001)
-  - Attorney General Opinion
-  - 87 Ops.Cal.Atty.Gen. 132 (2004)
-  - Court Decision
-  - Walnut Valley Unified School District v. the Superior Court of Los Angeles
-  - County (2011) 192 Cal.App.4th 234
-  - Court Decision
-  - Crawford v. Huntington Beach Union High School District (2002) 98
-  - Cal.App.4th 1275
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+  - 84 Ops.Cal.Atty.Gen. 198 (2001) - Attorney General Opinion
+  - 87 Ops.Cal.Atty.Gen. 132 (2004) - Court Decision - Walnut Valley Unified School District v. the Superior Court of Los Angeles - County (2011) 192 Cal.App.4th 234 - Court Decision - Crawford v. Huntington Beach Union High School District (2002) 98
+  - Cal.App.4th 1275 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5112.2 - Exclusions From Attendance
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5116 - School Attendance Boundaries
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.6 - Parent/Guardian Notifications
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 7160 - Charter School Facilities
+  - 7160 - Charter School Facilities
+  - 9000 - Role Of The Board

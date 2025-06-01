@@ -21,29 +21,18 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35010
-  - Control of district; prescription and enforcement of rules
-  - Ed. Code 35012
-  - Board members; number, election and terms
-  - Ed. Code 35107
-  - School district employees
-  - Ed. Code 5000-5033
-  - Election of school district board members
-  - Elec. Code 10400-10418
-  - Consolidation of elections
-  - Elec. Code 1302
-  - Local elections; school district election
-  - Elec. Code 14050-14057
-  - California Voter Participation Rights Act
-  - Gov. Code 1302
-  - Continuance in office until qualification of successor
-  - Gov. Code 1303
-  - Exercising functions of office without having qualified
-  - Gov. Code 1360
-  - Necessity of taking constitutional oath
+  - Ed. Code 35010 - Control of district; prescription and enforcement of rules
+  - Ed. Code 35012 - Board members; number, election and terms
+  - Ed. Code 35107 - School district employees
+  - Ed. Code 5000-5033 - Election of school district board members
+  - Elec. Code 10400-10418 - Consolidation of elections
+  - Elec. Code 1302 - Local elections; school district election
+  - Elec. Code 14050-14057 - California Voter Participation Rights Act
+  - Gov. Code 1302 - Continuance in office until qualification of successor
+  - Gov. Code 1303 - Exercising functions of office without having qualified
+  - Gov. Code 1360 - Necessity of taking constitutional oath
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+Cross References:
+  - 9220 - Governing Board Elections
+  - 9223 - Filling Vacancies
+  - 9224 - Oath Or Affirmation

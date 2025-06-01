@@ -32,22 +32,16 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32255-32255.6
-  - Student's right to refrain from harmful or destructive use of animals
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 48980-48985
-  - Parent/Guardian notifications
-  - Ed. Code 51540
-  - Humane treatment of animals
+  - Ed. Code 32255-32255.6 - Student's right to refrain from harmful or destructive use of animals
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 48980-48985 - Parent/Guardian notifications
+  - Ed. Code 51540 - Humane treatment of animals
 
 Management Resources:
-  - California Department of Education Publication
-  - California Next Generation Science Standards, 2013
-  - California Department of Education Publication
-  - Science Framework for California Public Schools: Kindergarten Through
-  - Grade 12, 2016
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
+  - Grade 12, 2016 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education
+
+Cross References:
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.6 - Parent/Guardian Notifications
+  - 6142.93 - Science Instruction

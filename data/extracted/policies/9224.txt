@@ -13,33 +13,24 @@ The oath may be administered and certified by a Board member, secretary or assis
 Superintendent, deputy or assistant superintendent, principal, or County Superintendent of Schools or any other
 person authorized in Education Code 60.
 The executed oath shall be filed with the County Clerk. (Government Code 1363)
-These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
-for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
-of the policy.
-State
-Description
-CA Constitution Article 20, Section 3
-Oath of office
-Ed. Code 60
-Persons authorized to administer and certify oaths
-Gov. Code 1225
-Right to administer and certify oaths
-Gov. Code 1303
-Exercising functions of office without having qualified
-Gov. Code 1360-1369
-Oath of office
-Gov. Code 3100-3109
-Oath or affirmation of allegiance
 
 ================================================================================
 REFERENCES
 ================================================================================
 
+State References:
+  - CA Constitution Article 20, Section 3 - Oath of office
+  - Ed. Code 60 - Persons authorized to administer and certify oaths
+  - Gov. Code 1225 - Right to administer and certify oaths
+  - Gov. Code 1303 - Exercising functions of office without having qualified
+  - Gov. Code 1360-1369 - Oath of office
+  - Gov. Code 3100-3109 - Oath or affirmation of allegiance
+
 Management Resources:
-  - Court Decision
-  - Chilton v. Contra Costa Community College District (1976) 55 Cal. App. 3d
-  - 544
-  - Court Decision
-  - Vogel v. County of Los Angeles (1967) 68 Cal. 2d 18, 22
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - 544 - Court Decision - Vogel v. County of Los Angeles (1967) 68 Cal. 2d 18, 22 - Website - CSBA District and County Office of Education Legal Services
+
+Cross References:
+  - 9100 - Organization
+  - 9110 - Terms Of Office
+  - 9220 - Governing Board Elections
+  - 9223 - Filling Vacancies

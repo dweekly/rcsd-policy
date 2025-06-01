@@ -40,84 +40,117 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 14030
-  - Preliminary procedure, planning and approval of school facilities
-  - 5 CCR 14103
-  - Authority of the driver
-  - 5 CCR 202
-  - Exclusion of students with a contagious disease
-  - 5 CCR 350
-  - Fees not permitted
-  - 5 CCR 5552
-  - Playground supervision
-  - 5 CCR 5570
-  - When school shall be open and teachers present
-  - 5 CCR 570-576
-  - School safety patrols
-  - Ed. Code 17280-17317
-  - Field Act; approval of plans and supervision of construction
-  - Ed. Code 17365-17374
-  - Field Act; fitness for occupancy; liability of board members
-  - Ed. Code 215.5
-  - Student identification cards; safety information
-  - Ed. Code 32001
-  - Fire alarms and drills
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 14030 - Preliminary procedure, planning and approval of school facilities
+  - 5 CCR 14103 - Authority of the driver
+  - 5 CCR 202 - Exclusion of students with a contagious disease
+  - 5 CCR 350 - Fees not permitted
+  - 5 CCR 5552 - Playground supervision
+  - 5 CCR 5570 - When school shall be open and teachers present
+  - 5 CCR 570-576 - School safety patrols
+  - Ed. Code 17280-17317 - Field Act; approval of plans and supervision of construction
+  - Ed. Code 17365-17374 - Field Act; fitness for occupancy; liability of board members
+  - Ed. Code 215.5 - Student identification cards; safety information
+  - Ed. Code 32001 - Fire alarms and drills - Board Policy Manual - Redwood City School District
   - 311
-  - Ed. Code 32020
-  - School gates; entrances for emergency vehicles
-  - Ed. Code 32030-32034
-  - Eye safety
-  - Ed. Code 32040
-  - Duty to equip school with first aid kit
-  - Ed. Code 32225-32226
-  - Communications devices in classrooms
-  - Ed. Code 32240-32245
-  - Lead-Safe Schools Protection Act
-  - Ed. Code 32250-32254
-  - CDE School Safety and Security Resource Unit
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 35179.6
-  - School-sponsored on-campus event in or around swimming pool
-  - Ed. Code 38134
-  - Use of school property
-  - Ed. Code 44807
-  - Teachers' duty concerning conduct of students
-  - Ed. Code 44808
-  - Exemption from liability when students are not on school property
-  - Ed. Code 44808.5
-  - Permission for high school students to leave school grounds; notice
-  - Ed. Code 45450-45451
+  - Ed. Code 32020 - School gates; entrances for emergency vehicles
+  - Ed. Code 32030-32034 - Eye safety
+  - Ed. Code 32040 - Duty to equip school with first aid kit
+  - Ed. Code 32225-32226 - Communications devices in classrooms
+  - Ed. Code 32240-32245 - Lead-Safe Schools Protection Act
+  - Ed. Code 32250-32254 - CDE School Safety and Security Resource Unit
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 35179.6 - School-sponsored on-campus event in or around swimming pool
+  - Ed. Code 38134 - Use of school property
+  - Ed. Code 44807 - Teachers' duty concerning conduct of students
+  - Ed. Code 44808 - Exemption from liability when students are not on school property
+  - Ed. Code 44808.5 - Permission for high school students to leave school grounds; notice
+  - Ed. Code 45450-45451 - Crossing guards
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 49300-49307 - School safety patrols
+  - Ed. Code 49330-49335 - Injurious objects
+  - Ed. Code 49341 - Hazardous materials in school science laboratories
+  - Ed. Code 49390-49395 - Homicide threats
+  - Ed. Code 51202 - Instruction in personal and public health and safety
+  - Ed. Code 51860 - Time and facilities for bicycle and scooter safety instruction
+  - Ed. Code 8482-8484.65 - After School Education and Safety Program
+  - Gov. Code 810-996.6 - California Tort Claims Act - H&S Code 115725-115735 - Playground safety - H&S Code 115775-115800 - Wooden playground equipment - H&S Code 116046
+  - Issuance of best practices guidelines for K-12 pool safety
+  - Pen. Code 245.6 - Hazing
+  - Pub. Res. Code 5411 - Purchase of playground equipment usable by persons with disabilities
+  - Streets and Highways Code 894 - Statewide safety and training programs; electric bicycles
+  - Veh. Code 21100 - Rules and regulations; crossing guards
+  - Veh. Code 21212 - Use of helmets
+  - Veh. Code 42200 - Fines and forfeitures; disposition by cities
+  - Veh. Code 42201 - Fines and forfeitures; disposition by counties
+  - Vehicle Code 21201 - Rules for operation of bicycle on roadway
 
 Federal References:
-  - 6 USC 665k
-  - Federal Clearinghouse on School Safety Evidence-Based Practices
+  - 6 USC 665k - Federal Clearinghouse on School Safety Evidence-Based Practices
 
 Management Resources:
-  - American Society for Testing and Materials Pub.
-  - ASTM F1 1487-21, Standard Consumer Safety Performance Specification
-  - for Playground Equipment for Public Use
-  - California Department of Education Publication
-  - Science Safety Handbook for California Public Schools, 2014
-  - 312
-  - Court Decision
-  - Knight v. Jewett (1992) 3 Cal.4th 296
-  - Court Decision
-  - Lane v. City of Sacramento (2010) 183 Cal. App. 4th. 1337
-  - Court Decision
-  - J.H. v. Los Angeles Unified School District (2010) 183 Cal.App.4th 123
-  - Court Decision
-  - Kahn v. East Side Union High School District (2003) 31 Cal.4th 990
-  - Court Decision
-  - Dailey v. Los Angeles Unified School District (1970) 2 Cal 3d 741
-  - Court Decision
-  - Hoyem v. Manhattan Beach City School District (1978) 22 Cal. 3d 508
-  - Court Decision
-  - Wiener v. Southcoast Childcare Centers (2004) 32 Cal.4th 1138
-  - U.S. Consumer Product Safety Comm Publication Public Playground Safety Handbook, 2010
-  - Website
-  - U.S. Department of Homeland Security, Fusion Centers
-  - Website
-  - California
+  - ASTM F1 1487-21, Standard Consumer Safety Performance Specification - for Playground Equipment for Public Use - California Department of Education Publication - Science Safety Handbook for California Public Schools, 2014
+  - 312 - Court Decision - Knight v. Jewett (1992) 3 Cal.4th 296 - Court Decision - Lane v. City of Sacramento (2010) 183 Cal. App. 4th. 1337 - Court Decision - J.H. v. Los Angeles Unified School District (2010) 183 Cal.App.4th 123 - Court Decision - Kahn v. East Side Union High School District (2003) 31 Cal.4th 990 - Court Decision - Dailey v. Los Angeles Unified School District (1970) 2 Cal 3d 741 - Court Decision - Hoyem v. Manhattan Beach City School District (1978) 22 Cal. 3d 508 - Court Decision - Wiener v. Southcoast Childcare Centers (2004) 32 Cal.4th 1138 - U.S. Consumer Product Safety Comm Publication Public Playground Safety Handbook, 2010 - Website - U.S. Department of Homeland Security, Fusion Centers - Website - California State Threat Assessment System - Website - CSBA District and County Office of Education Legal Services - Website - National Recreation and Park Association, Certified Playground Safety - Inspector Certification - Website - U.S. Department of Education, Safe Schools - Website - American Society for Testing and Materials - Website - U.S. Consumer Product Safety Commission - Website - California Department of Education, Safe Schools - Website - U.S. Environmental Protection Agency - Website - California Department of Public Health - Website - Centers for Disease Control and Prevention - Website - CSBA
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3452 - Student Activity Funds
+  - 3512 - Equipment
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.5 - Sex Offender Notification
+  - 3515.5 - Sex Offender Notification
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.5 - Emergency Schedules
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5021 - Noncustodial Parents
+  - 5131 - Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.7 - Sun Safety
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5143 - Insurance
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.93 - Science Instruction
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School

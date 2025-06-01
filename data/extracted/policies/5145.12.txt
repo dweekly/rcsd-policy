@@ -26,76 +26,61 @@ REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 1, Section 28
-  - Right to Safe Schools
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 48900-48927
-  - Suspension and expulsion
-  - Ed. Code 49050-49051
-  - Searches by school employees
-  - Ed. Code 49330-49335
-  - Injurious objects
-  - Pen. Code 1546-1546.1
-  - Production of or access to electronic communication information
-  - Pen. Code 626.10
-  - Dirks, daggers, knives or razor
+  - CA Constitution Article 1, Section 28 - Right to Safe Schools
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 48900-48927 - Suspension and expulsion
+  - Ed. Code 49050-49051 - Searches by school employees
+  - Ed. Code 49330-49335 - Injurious objects
+  - Pen. Code 1546-1546.1 - Production of or access to electronic communication information
+  - Pen. Code 626.10 - Dirks, daggers, knives or razor
   - Pen. Code 626.9
   - Gun-Free School Zone Act of 1995
 
 Management Resources:
-  - Attorney General Opinion
-  - 83 Ops.Cal.Atty.Gen. 257 (2000)
-  - Attorney General Opinion
-  - 75 Ops.Cal.Atty.Gen. 155 (1992)
-  - Court Decision
-  - In re William G (1985) 40 Cal. 3d 550
-  - Court Decision
-  - In re Latasha W. (1998), 60 Cal. App. 4th 1524
-  - Court Decision
-  - In Re William V. (2003) 111 Cal.App.4th 1464
-  - Court Decision
-  - Klump v. Nazareth Area School District (E.D. Pa. 2006) 425 F. Supp. 2d 622,
-  - 640
-  - Court Decision
-  - In re Cody S., 121 Cal. App. 4th 86, 92 (2004)
-  - Court Decision
-  - In re Sean A. (2010) 191 Cal. App. 4th 182
-  - Court Decision
-  - In G.C. v. Owensboro Public Schools (6th Cir. 2013) 711 F.3d 623
-  - Court Decision
-  - Redding v. Safford Unified School District (2009) 557 U.S. 364
-  - Board Policy Manual
-  - Redwood City School District
-  - 377
-  - Court Decision
-  - Zamora v. Pomeroy (10th Cir. 1981) 639 F.2d 662
-  - Court Decision
-  - B.C. v. Plumas (9th Cir. 1999) 192 F.3d 1260
-  - Court Decision
-  - Horton v. Goose Creek Independent School District (5th Cir. 1982) 690 F.2d
-  - 470
-  - Court Decision
-  - Jennings v. Joshua Independent School District (5th Cir. 1992) 948 F.2d 194
-  - Court Decision
-  - New Jersey v. T.L.O. (1985) 469 U.S. 325
-  - Court Decision
-  - O'Conner v. Ortega (1987) 480 U.S. 709
-  - National Institute of Justice Publication
-  - The Appropriate and Effective Use of Security Technologies in U.S. Schools:
-  - A Guide for Schools and Law Enforcement Agencies, 1999
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Institute of Justice
-  - Website
-  - California Department of Education, Safe Schools
-  - Website
-  - California Attorney General's Office
-  - Website
-  - CSBA
-  - Management Resources
+  - 83 Ops.Cal.Atty.Gen. 257 (2000) - Attorney General Opinion
+  - 75 Ops.Cal.Atty.Gen. 155 (1992) - Court Decision - In re William G (1985) 40 Cal. 3d 550 - Court Decision - In re Latasha W. (1998), 60 Cal. App. 4th 1524 - Court Decision - In Re William V. (2003) 111 Cal.App.4th 1464 - Court Decision - Klump v. Nazareth Area School District (E.D. Pa. 2006) 425 F. Supp. 2d 622,
+  - 640 - Court Decision - In re Cody S., 121 Cal. App. 4th 86, 92 (2004) - Court Decision - In re Sean A. (2010) 191 Cal. App. 4th 182 - Court Decision - In G.C. v. Owensboro Public Schools (6th Cir. 2013) 711 F.3d 623 - Court Decision - Redding v. Safford Unified School District (2009) 557 U.S. 364 - Board Policy Manual - Redwood City School District
+  - 377 - Court Decision - Zamora v. Pomeroy (10th Cir. 1981) 639 F.2d 662 - Court Decision - B.C. v. Plumas (9th Cir. 1999) 192 F.3d 1260 - Court Decision - Horton v. Goose Creek Independent School District (5th Cir. 1982) 690 F.2d
+  - 470 - Court Decision - Jennings v. Joshua Independent School District (5th Cir. 1992) 948 F.2d 194 - Court Decision - New Jersey v. T.L.O. (1985) 469 U.S. 325 - Court Decision - O'Conner v. Ortega (1987) 480 U.S. 709 - National Institute of Justice Publication - The Appropriate and Effective Use of Security Technologies in U.S. Schools: - A Guide for Schools and Law Enforcement Agencies, 1999 - Website - CSBA District and County Office of Education Legal Services - Website - National Institute of Justice - Website - California Department of Education, Safe Schools - Website - California Attorney General's Office - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.8 - Mobile Communication Devices
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.9 - Hate-Motivated Behavior
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology

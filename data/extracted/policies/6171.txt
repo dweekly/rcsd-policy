@@ -51,10 +51,9 @@ across non-Title I schools.
 instructional materials.
  
 5. The Superintendent or designee shall maintain records of the quantity and quality of instructional materials and
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 equipment at each school.
 At the beginning of each school year, the Superintendent or designee shall measure comparability in accordance with
 the above criteria and maintain records documenting the district's compliance. If any instances of non comparability
@@ -70,45 +69,75 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 11503
-  - Parent involvement programs in Title I schools
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 54420-54425
-  - State Compensatory Education
-  - Ed. Code 64001
-  - School plan for student achievement; consolidated application programs
+  - Ed. Code 11503 - Parent involvement programs in Title I schools
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 54420-54425 - State Compensatory Education
+  - Ed. Code 64001 - School plan for student achievement; consolidated application programs
 
 Federal References:
-  - 20 USC 6301
-  - Highly qualified teachers
-  - 20 USC 6311-6322
-  - Improving basic programs for disadvantaged students
-  - 20 USC 6312
-  - Local educational agency plan
-  - 20 USC 6313
-  - Eligibility of schools and school attendance areas; funding allocation
-  - 20 USC 6314
-  - Title I schoolwide program
-  - 20 USC 6315
-  - Targeted assistance schools
-  - 20 USC 6318
-  - Parent and family engagement
-  - 20 USC 6320
-  - Participation of private school students
-  - 20 USC 6321
-  - Fiscal requirements/comparability of services
-  - 20 USC 6333-6335
-  - Grants to local educational agencies
-  - 20 USC 6391-6399
-  - Education of migratory children
-  - 20 USC 7881
-  - Participation of private school students
-  - 34 CFR 200.1-200.73
-  - Improving basic programs for disadvantaged students
+  - 20 USC 6301 - Highly qualified teachers
+  - 20 USC 6311-6322 - Improving basic programs for disadvantaged students
+  - 20 USC 6312 - Local educational agency plan
+  - 20 USC 6313 - Eligibility of schools and school attendance areas; funding allocation
+  - 20 USC 6314 - Title I schoolwide program
+  - 20 USC 6315 - Targeted assistance schools
+  - 20 USC 6318 - Parent and family engagement
+  - 20 USC 6320 - Participation of private school students
+  - 20 USC 6321 - Fiscal requirements/comparability of services
+  - 20 USC 6333-6335 - Grants to local educational agencies
+  - 20 USC 6391-6399 - Education of migratory children
+  - 20 USC 7881 - Participation of private school students
+  - 34 CFR 200.1-200.73 - Improving basic programs for disadvantaged students
 
 Management Resources:
-  - California Department of Education Publication
-  - Frequently Asked Questions About Title I Schoolwide Programs
-  - California Department of Education Publication
-  - Local Control and Accountability Plan
+  - and Secondary Education Act of 1965 (ESEA) - U.S. Department of Education Publication - Designing Schoolwide Programs, Non-Regulatory Guidance, March 22, 2006 - U.S. Department of Education Publication - Title I Services to Eligible Private School Students, October 17, 2003 - U.S. Department of Education Publication - Title I Fiscal Issues, Non-Regulatory Guidance, February 2008 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education
+  - 248 - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0400 - Comprehensive Plans
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0520.1 - Comprehensive And Targeted School Improvement
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3512 - Equipment
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5141.6 - School Health Services
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6111 - School Calendar
+  - 6141 - Curriculum Development And Evaluation
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6177 - Summer Learning Programs
+  - 6190 - Evaluation Of The Instructional Program

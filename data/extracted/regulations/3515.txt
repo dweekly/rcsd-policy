@@ -45,74 +45,87 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 24 CCR 1010.2
-  - Door operations
-  - 24 CCR 1010.2.8.2
-  - Lockable doors from the inside
-  - CA Constitution Article 1, Section 28
-  - Right to Safe Schools
-  - Ed. Code 17070.10-17079.30
-  - Leroy F. Greene School Facilities Act
-  - Ed. Code 17583
-  - Classroom security locks; modernization projects
-  - Ed. Code 32020
-  - School gates; entrances for emergency vehicles
-  - Board Policy Manual
-  - Redwood City School District
+  - 24 CCR 1010.2 - Door operations
+  - 24 CCR 1010.2.8.2 - Lockable doors from the inside
+  - CA Constitution Article 1, Section 28 - Right to Safe Schools
+  - Ed. Code 17070.10-17079.30 - Leroy F. Greene School Facilities Act
+  - Ed. Code 17583 - Classroom security locks; modernization projects
+  - Ed. Code 32020 - School gates; entrances for emergency vehicles - Board Policy Manual - Redwood City School District
   - 190
-  - Ed. Code 32211
-  - Threatened disruption or interference with classes
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 35266
-  - Reporting of cyber attacks
-  - Ed. Code 38000-38005
-  - Security departments
-  - Ed. Code 49050-49051
-  - Searches by school employees
-  - Ed. Code 49060-49079
-  - Student records
-  - Ed. Code 49390-49395
-  - Homicide threats
-  - Gov. Code 11549.3
-  - Independent security assessment
-  - Pen. Code 469
-  - Unauthorized making, duplicating or possession of key to public building
-  - Pen. Code 626-626.11
-  - Weapons on school grounds and other school crimes
-  - State
+  - Ed. Code 32211 - Threatened disruption or interference with classes
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 35266 - Reporting of cyber attacks
+  - Ed. Code 38000-38005 - Security departments
+  - Ed. Code 49050-49051 - Searches by school employees
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 49390-49395 - Homicide threats
+  - Gov. Code 11549.3 - Independent security assessment
+  - Pen. Code 469 - Unauthorized making, duplicating or possession of key to public building
+  - Pen. Code 626-626.11 - Weapons on school grounds and other school crimes
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 34 CFR 99.3
-  - Definition of education records
-  - 6 USC 665k
-  - Federal Clearinghouse on School Safety Evidence-Based Practices
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 34 CFR 99.3 - Definition of education records
+  - 6 USC 665k - Federal Clearinghouse on School Safety Evidence-Based Practices
 
 Management Resources:
-  - Attorney General Opinion
-  - 75 Ops.Cal.Atty.Gen. 155 (1992)
-  - Attorney General Opinion
-  - 83 Ops.Cal.Atty.Gen. 257 (2000)
-  - California Department of Education Publication
-  - Safe Schools: A Planning Guide for Action Workbook, 2002
-  - Court Decision
-  - Brannum v. Overton County School Board (2008) 516 F. 3d 489
-  - Court Decision
-  - New Jersey v. T.L.O. (1985) 469 U.S. 325
-  - National Institute of Justice Publication
-  - The Appropriate and Effective Use of Security Technologies in U.S. Schools:
-  - A Guide for Schools and Law Enforcement Agencies, 1999
-  - US DOE Publication
-  - FAQs on Photos and Videos under FERPA
-  - Website
-  - California Military Department
-  - Website
-  - U.S. Department of Homeland Security, Fusion Centers
-  - Website
-  - California
+  - 75 Ops.Cal.Atty.Gen. 155 (1992) - Attorney General Opinion
+  - 83 Ops.Cal.Atty.Gen. 257 (2000) - California Department of Education Publication - Safe Schools: A Planning Guide for Action Workbook, 2002 - Court Decision - Brannum v. Overton County School Board (2008) 516 F. 3d 489 - Court Decision - New Jersey v. T.L.O. (1985) 469 U.S. 325 - National Institute of Justice Publication - The Appropriate and Effective Use of Security Technologies in U.S. Schools: - A Guide for Schools and Law Enforcement Agencies, 1999 - US DOE Publication - FAQs on Photos and Videos under FERPA - Website - California Military Department - Website - U.S. Department of Homeland Security, Fusion Centers - Website - California State Threat Assessment System - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Education, Protecting Student Privacy - Website - National Institute of Justice - Website - National School Safety Center - Website - California Department of Education, Safe Schools - Website - CSBA
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 3000 - Concepts And Roles
+  - 3440 - Inventories
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.5 - Sex Offender Notification
+  - 3515.5 - Sex Offender Notification
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.2 - Bomb Threats
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4112.6 - Personnel Files
+  - 4119.1 - Civil And Legal Rights
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4219.1 - Civil And Legal Rights
+  - 4231 - Staff Development
+  - 4319.1 - Civil And Legal Rights
+  - 4331 - Staff Development
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.12 - Search And Seizure
+  - 5145.9 - Hate-Motivated Behavior
+  - 6164.2 - Guidance/Counseling Services
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

@@ -43,40 +43,58 @@ REFERENCES
 State References:
   - 5 CCR 16023
   - Class 1 - Permanent records
-  - 5 CCR 3946
-  - Control, safeguards, disposal of equipment purchased with consolidated
-  - application funds
-  - 5 CCR 4424
-  - Comparability of services
-  - Ed. Code 17540-17542
-  - Sale or lease of personal property by one district to another
-  - Ed. Code 17545-17555
-  - Sale of personal property
-  - Ed. Code 17605
-  - Delegation of authority to purchase supplies and equipment
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 3946 - Control, safeguards, disposal of equipment purchased with consolidated - application funds
+  - 5 CCR 4424 - Comparability of services
+  - Ed. Code 17540-17542 - Sale or lease of personal property by one district to another
+  - Ed. Code 17545-17555 - Sale of personal property
+  - Ed. Code 17605 - Delegation of authority to purchase supplies and equipment
+  - Ed. Code 35160 - Authority of governing boards - Board Policy Manual - Redwood City School District
   - 153
-  - Ed. Code 35168
-  - Inventory of equipment
-  - Ed. Code 64000-64001
-  - Consolidated application process
-  - State
+  - Ed. Code 35168 - Inventory of equipment
+  - Ed. Code 64000-64001 - Consolidated application process
 
 Federal References:
-  - 2 CFR 200.0-200.521
-  - Federal uniform grant guidance
-  - 20 USC 6321
-  - Fiscal requirements/comparability of services
+  - 2 CFR 200.0-200.521 - Federal uniform grant guidance
+  - 20 USC 6321 - Fiscal requirements/comparability of services
 
-Management Resources:
-  - California Department of Education Publication
-  - California School Accounting Manual
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - Office of Management and Budget
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 3000 - Concepts And Roles
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3300 - Expenditures And Purchases
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3440 - Inventories
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 4040 - Employee Use Of Technology
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4156.3 - Employee Property Reimbursement
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 6000 - Concepts And Roles
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs

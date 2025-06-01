@@ -52,10 +52,9 @@ designee shall make resources available to assist them in reaching a reading lev
 grade-level material. Staff at all grade levels and in every subject shall take responsibility for supporting and
 expanding students' literacy skills.
 Supplementary Reading Instruction for Grades K-4
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 When state funding is available, the Board may offer students in grades K-4 increased instructional opportunities
 before or after school and/or outside the regular school session to assist those students who are experiencing
 difficulty learning to read and to increase the reading skills and reading enjoyment of all students.
@@ -65,50 +64,54 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11980-11985
-  - Mathematics and Reading Professional Development Program (AB 466
-  - trainings)
-  - 5 CCR 11991-11991.2
-  - Reading First achievement index
-  - Ed. Code 41505-41508
-  - Pupil Retention Block Grant
-  - Ed. Code 41530-41532
-  - Professional Development Block Grant
-  - Ed. Code 44735
-  - Teaching as a Priority Block Grant
-  - Ed. Code 44755-44757.5
-  - Teacher Reading Instruction Development Program, K-3
+  - 5 CCR 11980-11985 - Mathematics and Reading Professional Development Program (AB 466 - trainings)
+  - 5 CCR 11991-11991.2 - Reading First achievement index
+  - Ed. Code 41505-41508 - Pupil Retention Block Grant
+  - Ed. Code 41530-41532 - Professional Development Block Grant
+  - Ed. Code 44735 - Teaching as a Priority Block Grant
+  - Ed. Code 44755-44757.5 - Teacher Reading Instruction Development Program, K-3
   - Ed. Code 51210
   - Course of study for grades 1-6
   - Ed. Code 51220
   - Course of study for grades 7-12
-  - Ed. Code 60119
-  - Sufficiency of textbooks and instructional materials; hearing and resolution
-  - Ed. Code 60200.4
-  - Fundamental skills
-  - Ed. Code 60207
-  - Curriculum frameworks
-  - Ed. Code 60350-60352
-  - Core reading program instructional materials
-  - Ed. Code 60605
-  - State-adopted content and performance standards in core curricular areas
-  - Ed. Code 60605.8
-  - Common Core standards
-  - Ed. Code 99220-99221
-  - California Reading Professional Development Institutes
-  - Ed. Code 99230-99242
-  - Mathematics and Reading Professional Development Program (AB 466
-  - trainings)
+  - Ed. Code 60119 - Sufficiency of textbooks and instructional materials; hearing and resolution
+  - Ed. Code 60200.4 - Fundamental skills
+  - Ed. Code 60207 - Curriculum frameworks
+  - Ed. Code 60350-60352 - Core reading program instructional materials
+  - Ed. Code 60605 - State-adopted content and performance standards in core curricular areas
+  - Ed. Code 60605.8 - Common Core standards
+  - Ed. Code 99220-99221 - California Reading Professional Development Institutes
+  - Ed. Code 99230-99242 - Mathematics and Reading Professional Development Program (AB 466 - trainings)
 
 Federal References:
-  - 20 USC 6381-6381k
-  - Even Start Family Literacy Program
-  - 20 USC 6383
-  - Improving literacy through school libraries
+  - 20 USC 6381-6381k - Even Start Family Literacy Program
+  - 20 USC 6383 - Improving literacy through school libraries
 
 Management Resources:
-  - California Department of Education Publication
-  - English Language Arts/English Language Development Framework for
-  - California Public Schools: Kindergarten through Grade Twelve, 2014
-  - California Department of Education Publication
-  - Common Core
+  - 2023 Mathematics Framework for California Public Schools: Kindergarten - Through Grade Twelve, June 2023 - California Department of Education Publication - Recommended Literature: Kindergarten Through Grade Twelve - California Department of Education Publication - California Common Core State Standards: English Language Arts and - Literacy in History/Social Studies, Science, and Technical Subjects, rev.
+  - March 2013 - CSBA Publication - Governing to the Core; Pathway Options for High School Mathematics - Governance Briefs, May 2014 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Reading/Language Arts - Website - CSBA
+  - 77
+
+Cross References:
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6011 - Academic Standards
+  - 6141 - Curriculum Development And Evaluation
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6163.1 - Library Media Centers
+  - 6172 - Gifted And Talented Student Program
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6177 - Summer Learning Programs
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6190 - Evaluation Of The Instructional Program

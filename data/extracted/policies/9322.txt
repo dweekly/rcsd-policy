@@ -49,8 +49,7 @@ placed on the agenda.
 The Board president and Superintendent shall also decide whether an agenda item is appropriate for
 discussion in open or closed session, and whether the item should be an action item subject to Board vote or
 an information item that does not require immediate action.
-Board Policy Manual
-Redwood City School District
+
 
 In order to promote efficient meetings, the Board may bundle a number of items and act upon them together
 by a single vote through the use of a consent agenda. Consent items shall be items of a routine nature and
@@ -97,7 +96,7 @@ available for public inspection at the meeting. Any documents prepared by anothe
 available for public inspection after the meeting. These requirements shall not apply to a document that is
 exempt from public disclosure under the Public Records Act. (Government Code 54957.5)
 
-Policy Reference Disclaimer:
+
 The Superintendent or designee shall mail a copy of the agenda or a copy of all the documents constituting
 the agenda packet to any person who requests the items. The materials shall be mailed at the time the
 agenda is posted or upon distribution of the agenda to a majority of the Board, whichever occurs first. 
@@ -121,76 +120,67 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35144
-  - Special meeting
-  - Ed. Code 35145
-  - Public meetings
-  - Ed. Code 35145.5
-  - Agenda; public participation and regulations
-  - Ed. Code 49061
-  - Definitions; directory information
-  - Ed. Code 49073.2
-  - Privacy of student and parent/guardian personal information; minutes of
-  - board meeting
-  - Gov. Code 53635.7
-  - Separate item of business for borrowing of $100,000 or more
-  - Gov. Code 54953
-  - Meetings; Americans with Disabilities Act accessibility
-  - Gov. Code 54954.1
-  - Request for copy of agenda or agenda packet by member of public
-  - Gov. Code 54954.2
-  - Agenda posting requirements; board actions
-  - Gov. Code 54954.3
-  - Opportunity for public to address legislative body
-  - Gov. Code 54954.5
-  - Closed session item descriptions
-  - Gov. Code 54956.5
-  - Emergency meetings
-  - Gov. Code 54956.9
-  - Meetings
-  - Gov. Code 54957.5
-  - Public records
-  - Gov. Code 54960.2
-  - Challenging board actions; cease and desist
-  - Gov. Code 7920.000-7930.170
-  - California Public Records Act
-  - Gov. Code 95000-95004
-  - California Early Intervention Services Act
+  - Ed. Code 35144 - Special meeting
+  - Ed. Code 35145 - Public meetings
+  - Ed. Code 35145.5 - Agenda; public participation and regulations
+  - Ed. Code 49061 - Definitions; directory information
+  - Ed. Code 49073.2 - Privacy of student and parent/guardian personal information; minutes of - board meeting
+  - Gov. Code 53635.7 - Separate item of business for borrowing of $100,000 or more
+  - Gov. Code 54953 - Meetings; Americans with Disabilities Act accessibility
+  - Gov. Code 54954.1 - Request for copy of agenda or agenda packet by member of public
+  - Gov. Code 54954.2 - Agenda posting requirements; board actions
+  - Gov. Code 54954.3 - Opportunity for public to address legislative body
+  - Gov. Code 54954.5 - Closed session item descriptions
+  - Gov. Code 54956.5 - Emergency meetings
+  - Gov. Code 54956.9 - Meetings
+  - Gov. Code 54957.5 - Public records
+  - Gov. Code 54960.2 - Challenging board actions; cease and desist
+  - Gov. Code 7920.000-7930.170 - California Public Records Act
+  - Gov. Code 95000-95004 - California Early Intervention Services Act
 
 Federal References:
-  - 28 CFR 35.160
-  - Effective communications for individuals with disabilities
+  - 28 CFR 35.160 - Effective communications for individuals with disabilities
   - 72
-  - 28 CFR 36.303
-  - Nondiscrimination on the basis of disability, public accommodations,
-  - auxiliary aids, and services
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
-  - Federal
+  - 28 CFR 36.303 - Nondiscrimination on the basis of disability, public accommodations, - auxiliary aids, and services
+  - 42 USC 12101-12213 - Americans with Disabilities Act
 
 Management Resources:
-  - Attorney General Opinion
-  - 99 Ops. Cal. Atty. Gen. 11 (2016)
-  - Attorney General Opinion
-  - 78 Ops.Cal.Atty.Gen. 327 (1995)
-  - Attorney General Publication
-  - The Brown Act: Open Meetings for Legislative Bodies, rev. 2003
-  - Court Decision
-  - Sierra Watch v. County of Placer (2022) 69 Cal.App.5th 86
-  - Court Decision
-  - Fowler v. City of Lafayette (2020) 45 Cal.App.5th 68
-  - Court Decision
-  - Caldwell v. Roseville Joint Union High School District (2007) U.S. Dist. LEXIS
-  - 66318
-  - Court Decision
-  - Mooney v. Garcia (2012) 207 Cal.App.4th 229
-  - CSBA Publication
-  - The Brown Act: School Boards and Open Meeting Laws, rev. 2023
-  - CSBA Publication
-  - Call to Order: A Blueprint for Great Board Meetings
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Attorney General's Office
-  - Website
-  - CSBA
+  - 99 Ops. Cal. Atty. Gen. 11 (2016) - Attorney General Opinion
+  - 78 Ops.Cal.Atty.Gen. 327 (1995) - Attorney General Publication - The Brown Act: Open Meetings for Legislative Bodies, rev. 2003 - Court Decision - Sierra Watch v. County of Placer (2022) 69 Cal.App.5th 86 - Court Decision - Fowler v. City of Lafayette (2020) 45 Cal.App.5th 68 - Court Decision - Caldwell v. Roseville Joint Union High School District (2007) U.S. Dist. LEXIS
+  - 66318 - Court Decision - Mooney v. Garcia (2012) 207 Cal.App.4th 229 - CSBA Publication - The Brown Act: School Boards and Open Meeting Laws, rev. 2023 - CSBA Publication - Call to Order: A Blueprint for Great Board Meetings - Website - CSBA District and County Office of Education Legal Services - Website - California Attorney General's Office - Website - CSBA
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3312 - Contracts
+  - 3320 - Claims And Actions Against The District
+  - 3320 - Claims And Actions Against The District
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 9121 - President
+  - 9122 - Secretary
+  - 9130 - Board Committees
+  - 9200 - Limits Of Board Member Authority
+  - 9310 - Board Policies
+  - 9320 - Meetings And Notices
+  - 9323 - Meeting Conduct
+  - 9323.2 - Actions By The Board
+  - 9324 - Minutes And Recordings

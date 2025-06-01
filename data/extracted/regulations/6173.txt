@@ -55,8 +55,7 @@ health and substance abuse services, housing services, and other appropriate ser
  
 5. Parents/guardians are informed of the educational and related opportunities available to their children and are
 provided with meaningful opportunities to participate in the education of their children.
-Board Policy Manual
-Redwood City School District
+
 
 6. Notice of the educational rights of homeless children is disseminated in locations frequented by
 parents/guardians of homeless children and youth and by unaccompanied youth, including schools, family
@@ -207,62 +206,112 @@ Any complaint that the district has not complied with requirements regarding the
 specified in Education Code 51225.1 or 51225.2, may be filed in accordance with the district's procedures in AR 1312.3 -
 Uniform Complaint Procedures.
 
-Policy Reference Disclaimer:
-
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - Ed. Code 39807.5
-  - Payment of transportation costs by parents
-  - Ed. Code 48850
-  - Academic achievement of students in foster care and homeless children
-  - Ed. Code 48850-48859
-  - Education of foster youth and homeless students
-  - Ed. Code 48851
-  - Identification of homeless children and youths and unaccompanied youths;
-  - housing questionnaire
-  - Ed. Code 48851.3
-  - Homeless education program policies; liaison responsibilities
-  - Ed. Code 48851.5
-  - Local educational agency liaison for homeless children and youths
-  - Ed. Code 48852.3
-  - Monitoring for compliance with chapter
-  - Ed. Code 48852.5
-  - Notice of educational rights of homeless students
-  - Ed. Code 48852.6
-  - Information regarding homelessness
-  - Ed. Code 48852.7
-  - Education of homeless students; immediate enrollment
-  - Ed. Code 48859
-  - Definitions
-  - Ed. Code 48915.5
-  - Recommended expulsion; foster youth with disabilities
-  - Ed. Code 48918.1
-  - Notice of recommended expulsion
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 51225.1-51225.3
-  - Graduation requirements
-  - Ed. Code 52052
-  - Accountability; numerically significant student subgroups
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - Ed. Code 39807.5 - Payment of transportation costs by parents
+  - Ed. Code 48850 - Academic achievement of students in foster care and homeless children
+  - Ed. Code 48850-48859 - Education of foster youth and homeless students
+  - Ed. Code 48851 - Identification of homeless children and youths and unaccompanied youths; - housing questionnaire
+  - Ed. Code 48851.3 - Homeless education program policies; liaison responsibilities
+  - Ed. Code 48851.5 - Local educational agency liaison for homeless children and youths
+  - Ed. Code 48852.3 - Monitoring for compliance with chapter
+  - Ed. Code 48852.5 - Notice of educational rights of homeless students
+  - Ed. Code 48852.6 - Information regarding homelessness
+  - Ed. Code 48852.7 - Education of homeless students; immediate enrollment
+  - Ed. Code 48859 - Definitions
+  - Ed. Code 48915.5 - Recommended expulsion; foster youth with disabilities
+  - Ed. Code 48918.1 - Notice of recommended expulsion
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 51225.1-51225.3 - Graduation requirements
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 52060-52077 - Local control and accountability plan
 
 Federal References:
-  - 20 USC 1087vv
-  - Free Application for Federal Student Aid; definitions
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 20 USC 6311
+  - 20 USC 1087vv - Free Application for Federal Student Aid; definitions
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 20 USC 6311 - State plan
+  - 42 USC 11431-11435 - McKinney-Vento Homeless Assistance Act
+  - 42 USC 12705 - Cranston-Gonzalez National Affordable Housing Act; state and local - strategies
 
 Management Resources:
-  - California Child Welfare Council Publication
-  - Partial Credit Model Policy and Practice Recommendations, September
-  - 2013
-  - California Department of Education Publication
+  - 2013 - California Department of Education Publication - Federal Program Monitoring Instrument - California Department of Education Publication - Homeless Education Dispute Resolution Process, March 2020 - National Center for Homeless Education - Publication - Homeless Liaison Toolkit, 2020 - U.S. Department of Education Guidance - Education for Homeless Children and Youths Program, Non-Regulatory - Guidance, August 2018 - Website - CSBA District and County Office of Education Legal Services - Website - California State University - Website - University of California
+  - 270 - Website - California Department of Education, Homeless Children and Youth - Education - Website - National Center for Homeless Education at SERVE - Website - National Homelessness Law Center - Website - U.S. Department of Education - Education for Homeless Children and - Youths Grants for State and Local Activities - Website - California Community Colleges - Website - California Interscholastic Federation - Website - California Child Welfare Council
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3250 - Transportation Fees
+  - 3250 - Transportation Fees
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3541 - Transportation Routes And Services
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 4112.9 - Employee Notifications
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.6 - School Health Services
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6011 - Academic Standards
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6177 - Summer Learning Programs
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6190 - Evaluation Of The Instructional Program

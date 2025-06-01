@@ -53,10 +53,9 @@ the parents/guardians of the assigned school.
  
 4. For students whose parents/guardians accept the offer, the transfer shall be made as quickly as possible. If the
 parents/guardians decline the assigned school, the student may remain in the current school.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 The transfer shall remain in effect as long as the student's school of origin is identified as "persistently dangerous."
 The Superintendent or designee may choose to make the transfer permanent based on the educational needs of the
 student, parent/guardian preferences, and other factors affecting the student's ability to succeed if returned to the
@@ -104,53 +103,60 @@ process available, if any, when a change of attendance is denied.
 5. A district application form for requesting a change of attendance.
  
 6. The explanation of attendance options under California law as provided by the CDE.
+These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
+for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
+of the policy.
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11992-11994
-  - Definition of persistently dangerous schools
-  - Ed. Code 200
-  - Equal rights and opportunities in state educational institutions
-  - Ed. Code 35160.5
-  - District policies; rules and regulations
-  - Ed. Code 35291-35291.5
-  - Rules
-  - Ed. Code 35351
-  - Assignment of students to particular schools
-  - Ed. Code 46600-46611
-  - Interdistrict attendance agreements
-  - Ed. Code 48200
-  - Compulsory attendance
-  - Ed. Code 48204
-  - Residency requirements for school attendance
-  - Ed. Code 48300-48316
-  - Student attendance alternatives; school district of choice program
-  - Ed. Code 48980
-  - Parent/Guardian notifications
+  - 5 CCR 11992-11994 - Definition of persistently dangerous schools
+  - Ed. Code 200 - Equal rights and opportunities in state educational institutions
+  - Ed. Code 35160.5 - District policies; rules and regulations
+  - Ed. Code 35291-35291.5 - Rules
+  - Ed. Code 35351 - Assignment of students to particular schools
+  - Ed. Code 46600-46611 - Interdistrict attendance agreements
+  - Ed. Code 48200 - Compulsory attendance
+  - Ed. Code 48204 - Residency requirements for school attendance
+  - Ed. Code 48300-48316 - Student attendance alternatives; school district of choice program
+  - Ed. Code 48980 - Parent/Guardian notifications
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
+  - 20 USC 6313 - Eligibility of schools and school attendance areas; funding allocation
+  - 20 USC 7912 - Transfers from persistently dangerous schools
 
 Management Resources:
-  - Attorney General Opinion
-  - 85 Ops.Cal.Atty.Gen. 95 (2002)
-  - California Department of Education Publication
-  - Every Student Succeeds Act - Update #8, July 14, 2017
-  - California Department of Education Publication
-  - Public School Choice FAQs
-  - Court Decision
-  - Crawford v. Huntington Beach Union High School District (2002) 98
-  - Cal.App.4th 1275
-  - U.S. Department of Education Publication
-  - Unsafe School Choice Option, May 2004
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education
+  - 85 Ops.Cal.Atty.Gen. 95 (2002) - California Department of Education Publication - Every Student Succeeds Act - Update #8, July 14, 2017 - California Department of Education Publication - Public School Choice FAQs - Court Decision - Crawford v. Huntington Beach Union High School District (2002) 98
+  - Cal.App.4th 1275 - U.S. Department of Education Publication - Unsafe School Choice Option, May 2004 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0520.1 - Comprehensive And Targeted School Improvement
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5116 - School Attendance Boundaries
+  - 5117 - Interdistrict Attendance
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5145.6 - Parent/Guardian Notifications
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 9000 - Role Of The Board
+  - 9310 - Board Policies

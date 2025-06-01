@@ -22,32 +22,51 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 33308.1
-  - Guidelines on procedure for filing child abuse complaints
-  - Ed. Code 35146
-  - Closed sessions
-  - Ed. Code 44031
-  - Personnel file contents and inspection
-  - Ed. Code 44811
-  - Disruption of classwork or extracurricular activities
-  - Ed. Code 44932-44949
-  - Resignation, dismissal and leaves of absence (rights of employee;
-  - procedures to follow)
-  - Ed. Code 48987
-  - Child abuse guidelines
-  - Gov. Code 54957
-  - Closed session; complaints re employees
-  - Gov. Code 54957.6
-  - Closed sessions regarding employee matters
-  - Pen. Code 11164-11174.3
-  - Child Abuse and Neglect Reporting Act
-  - Pen. Code 273
-  - Cruelty or unjustifiable punishment of child
-  - W&I Code 300
-  - Minors subject to jurisdiction of juvenile court
+  - Ed. Code 33308.1 - Guidelines on procedure for filing child abuse complaints
+  - Ed. Code 35146 - Closed sessions
+  - Ed. Code 44031 - Personnel file contents and inspection
+  - Ed. Code 44811 - Disruption of classwork or extracurricular activities
+  - Ed. Code 44932-44949 - Resignation, dismissal and leaves of absence (rights of employee; - procedures to follow)
+  - Ed. Code 48987 - Child abuse guidelines
+  - Gov. Code 54957 - Closed session; complaints re employees
+  - Gov. Code 54957.6 - Closed sessions regarding employee matters
+  - Pen. Code 11164-11174.3 - Child Abuse and Neglect Reporting Act
+  - Pen. Code 273 - Cruelty or unjustifiable punishment of child - W&I Code 300 - Minors subject to jurisdiction of juvenile court
 
-Management Resources:
-  - Court Decision
-  - Baca v. Moreno Valley Unified School District (1996) 936 F. Supp. 719
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 1100 - Communication With The Public
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3555 - Nutrition Program Compliance
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4112.6 - Personnel Files
+  - 4117.7 - Employment Status Reports
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.1 - Civil And Legal Rights
+  - 4119.21 - Professional Standards
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.1 - Civil And Legal Rights
+  - 4219.21 - Professional Standards
+  - 4319.1 - Civil And Legal Rights
+  - 4319.21 - Professional Standards
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5145.12 - Search And Seizure
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 9000 - Role Of The Board
+  - 9130 - Board Committees
+  - 9200 - Limits Of Board Member Authority
+  - 9322 - Agenda/Meeting Materials
+  - 9323 - Meeting Conduct

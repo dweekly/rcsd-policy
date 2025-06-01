@@ -49,71 +49,50 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 17 CCR 2950-2951
-  - Hearing tests
-  - 5 CCR 3027
-  - Hearing and vision screening for special education
-  - Board Policy Manual
-  - Redwood City School District
+  - 17 CCR 2950-2951 - Hearing tests
+  - 5 CCR 3027 - Hearing and vision screening for special education - Board Policy Manual - Redwood City School District
   - 259
-  - 5 CCR 3028
-  - Audiological screening
-  - 5 CCR 590-596
-  - Vision screening
-  - Ed. Code 44871-44879
-  - Employment qualifications
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 49400-49414.5
-  - Student health; general powers of school boards
-  - Ed. Code 49422
-  - Supervision of health and physical development
-  - Ed. Code 49450-49458
-  - Physical examinations of students
-  - Ed. Code 49460-49466
-  - Development of standardized health assessments
-  - Gov. Code 17581.5
-  - Specific costs mandated by the state
-  - H&S Code 120325-120380
-  - Immunization against communicable diseases
-  - H&S Code 121475-121520
-  - Tuberculosis tests for students
-  - H&S Code 124025-124110
-  - Child Health and Disability Prevention Program
-  - H&S Code 1685-1686
-  - Audiometrists
-  - State
+  - 5 CCR 3028 - Audiological screening
+  - 5 CCR 590-596 - Vision screening
+  - Ed. Code 44871-44879 - Employment qualifications
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 49400-49414.5 - Student health; general powers of school boards
+  - Ed. Code 49422 - Supervision of health and physical development
+  - Ed. Code 49450-49458 - Physical examinations of students
+  - Ed. Code 49460-49466 - Development of standardized health assessments
+  - Gov. Code 17581.5 - Specific costs mandated by the state - H&S Code 120325-120380 - Immunization against communicable diseases - H&S Code 121475-121520 - Tuberculosis tests for students - H&S Code 124025-124110 - Child Health and Disability Prevention Program - H&S Code 1685-1686 - Audiometrists
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1232h
-  - Privacy rights
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h - Privacy rights
 
-Management Resources:
-  - CA Department of Health Care Services
-  - Publication
-  - Manual for the School Audiometrist
-  - California Department of Education Publication
-  - Standards for Scoliosis Screening in California Public Schools, 2007
-  - California Department of Education Publication
-  - A Guide for Vision Testing in California Public Schools, 2005
-  - CSBA Publication
-  - Expanding Access to School Health Services: Policy Considerations for
-  - Governing Boards, November 2008
-  - CSBA Publication
-  - Promoting Oral Health for California's Students: New Roles, New
-  - Opportunities for Schools, November 2008
-  - U.S. Department of Education Publication
-  - Joint Guidance on the Application of FERPA and HIPAA to Student Health
-  - Records, November 2008
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Type 2 Diabetes Information
-  - Website
-  - California Department of Education, Health Services and School Nursing
-  - Website
-  - California Department of Health Care Services
-  - Website
-  - CSBA
+Cross References:
+  - 4231 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5030 - Student Wellness
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5112.2 - Exclusions From Attendance
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.33 - Head Lice
+  - 5141.6 - School Health Services
+  - 5143 - Insurance
+  - 5145.6 - Parent/Guardian Notifications
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6170.1 - Transitional Kindergarten

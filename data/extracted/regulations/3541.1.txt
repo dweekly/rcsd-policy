@@ -51,46 +51,35 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35330
-  - Field trips and excursions; student fees
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 35330 - Field trips and excursions; student fees - Board Policy Manual - Redwood City School District
   - 250
-  - Ed. Code 35332
-  - Transportation by chartered airline
-  - Ed. Code 39830
-  - School bus
-  - Ed. Code 39830.1
-  - School pupil activity bus
-  - Ed. Code 39860
-  - Transportation to school activities
-  - Ed. Code 44808
-  - Liability when students are not on school property
-  - H&S Code 118947-118949
-  - Prohibition against smoking in motor vehicle with minor
-  - Pub. Util. Code 5384.2
-  - District not liable for charter-party carrier
-  - Veh. Code 12814.6
-  - Teen driver's act
-  - Veh. Code 27315
-  - Mandatory use of seat belts in private passenger vehicles
-  - Veh. Code 27360-27360.5
-  - Child passenger restraint systems
-  - Veh. Code 27363
-  - Child passenger restraint systems; exemptions
-  - Veh. Code 545
-  - School bus; definition
-  - State
+  - Ed. Code 35332 - Transportation by chartered airline
+  - Ed. Code 39830 - School bus
+  - Ed. Code 39830.1 - School pupil activity bus
+  - Ed. Code 39860 - Transportation to school activities
+  - Ed. Code 44808 - Liability when students are not on school property - H&S Code 118947-118949 - Prohibition against smoking in motor vehicle with minor
+  - Pub. Util. Code 5384.2 - District not liable for charter-party carrier
+  - Veh. Code 12814.6 - Teen driver's act
+  - Veh. Code 27315 - Mandatory use of seat belts in private passenger vehicles
+  - Veh. Code 27360-27360.5 - Child passenger restraint systems
+  - Veh. Code 27363 - Child passenger restraint systems; exemptions
+  - Veh. Code 545 - School bus; definition
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Office of Traffic Safety
-  - Website
-  - U.S. Department of Transportation, National Highway Traffic Safety
-  - Administration
-  - Website
-  - California Department of Motor Vehicles
-  - Website
-  - California Highway Patrol
+Cross References:
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 3312.2 - Educational Travel Program Contracts
+  - 3312.2 - Educational Travel Program Contracts
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 3542 - School Bus Drivers
+  - 3543 - Transportation Safety And Emergencies
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips

@@ -55,10 +55,9 @@ In addition, the IPM Coordinator shall not use a pesticide on a school site if D
 requires that the pesticide be phased out from use. (Education Code 17610.1)
 Notifications
 The IPM Coordinator shall annually notify staff and parents/guardians of students enrolled at a school site, in writing,
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 regarding pesticide products expected to be applied at the school facility in the upcoming year. The notification shall
 include at least the following: (Education Code 17612)
 1. The Internet address (http://www.schoolipm.info) used to access information on pesticides and pesticide use
@@ -105,55 +104,47 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 3 CCR 6690-6692
-  - Pesticide use near school sites
-  - 5 CCR 11522
-  - Parental consent for exemption based on high school proficiency certificate
-  - 5 CCR 5590
-  - Temporary athletic team coach
-  - 8 CCR 340-340.2
-  - Occupational safety and health; rights of employees
-  - Ed. Code 17366
-  - Legislative intent (fitness of buildings for occupancy
+  - 3 CCR 6690-6692 - Pesticide use near school sites
+  - 5 CCR 11522 - Parental consent for exemption based on high school proficiency certificate
+  - 5 CCR 5590 - Temporary athletic team coach
+  - 8 CCR 340-340.2 - Occupational safety and health; rights of employees
+  - Ed. Code 17366 - Legislative intent (fitness of buildings for occupancy
   - 184
   - Ed. Code 17608-17614
   - Healthy Schools Act of 2000
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 48980.3
-  - Notification of pesticide use
-  - Ed. Code 8593.2
-  - Licensed pest control operators; training requirements
-  - F&A Code 11401-12408
-  - Pest control operations and agricultural chemicals
-  - F&A Code 13180-13188
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 48980.3 - Notification of pesticide use
+  - Ed. Code 8593.2 - Licensed pest control operators; training requirements - F&A Code 11401-12408 - Pest control operations and agricultural chemicals - F&A Code 13180-13188
   - Healthy Schools Act of 2000
-  - Gov. Code 3543.2
-  - Scope of representation
-  - Gov. Code 7920.000-7930.170
-  - California Public Records Act
-  - State
+  - Gov. Code 3543.2 - Scope of representation
+  - Gov. Code 7920.000-7930.170 - California Public Records Act
 
 Federal References:
-  - 7 USC 136-136y
-  - Use of pesticides
+  - 7 USC 136-136y - Use of pesticides
 
 Management Resources:
-  - California Dept. of Pesticide Reg. Publication
-  - California School IPM Model Program Guidebook
-  - California Dept. of Pesticide Reg. Publication
-  - Healthy Schools Act Requirements for Public K-12 Schools
-  - California Dept. of Pesticide Reg. Publication
-  - School District Integrated Pest Management Plan Template
-  - U.S. ENVIRONMENTAL PROTECTION AGENCY
-  - Pest Control in the School Environment: Implementing Integrated Pest
-  - Management (IPM), May 2017
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Pesticide Regulation, School IPM
-  - Website
-  - U.S. Environmental Protection Agency, Integrated Pest Management at
-  - Schools
-  - Website
-  - California Department of Education
+  - Healthy Schools Act Requirements for Public K-12 Schools - California Dept. of Pesticide Reg. Publication - School District Integrated Pest Management Plan Template - U.S. ENVIRONMENTAL PROTECTION AGENCY - Pest Control in the School Environment: Implementing Integrated Pest - Management (IPM), May 2017 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Pesticide Regulation, School IPM - Website - U.S. Environmental Protection Agency, Integrated Pest Management at - Schools - Website - California Department of Education
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3000 - Concepts And Roles
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3517 - Facilities Inspection
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.9 - Employee Notifications
+  - 4231 - Staff Development
+  - 5145.6 - Parent/Guardian Notifications

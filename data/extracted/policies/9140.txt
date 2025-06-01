@@ -27,17 +27,31 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35020-35046
-  - Officers and agents
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 4000-4014
-  - County committees on school district organization
-  - Gov. Code 54952.2
-  - Meeting; defined
+  - Ed. Code 35020-35046 - Officers and agents
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 4000-4014 - County committees on school district organization
+  - Gov. Code 54952.2 - Meeting; defined
 
-Management Resources:
-  - California Department of Education Publication
-  - California Department of Education District Organization Handbook, 2010
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1260 - Educational Foundation
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 4156.2 - Awards And Recognition
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9010 - Public Statements
+  - 9100 - Organization
+  - 9130 - Board Committees
+  - 9200 - Limits Of Board Member Authority
+  - 9270 - Conflict Of Interest
+  - 9320 - Meetings And Notices

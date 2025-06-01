@@ -51,71 +51,127 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 17260-17268
-  - Plans and specifications for school facilities
-  - Ed. Code 17264
-  - New construction; accommodation of before- and after-school programs
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 17260-17268 - Plans and specifications for school facilities
+  - Ed. Code 17264 - New construction; accommodation of before- and after-school programs - Board Policy Manual - Redwood City School District
   - 478
-  - Ed. Code 35021.3
-  - After-school physical recreation instructors
-  - Ed. Code 41422
-  - Emergency conditions
-  - Ed. Code 45125
-  - Criminal record check
-  - Ed. Code 45330
-  - Paraprofessionals; instructional aides
-  - Ed. Code 45340-45349
-  - Paraprofessionals; instructional aides
-  - Ed. Code 46120
-  - Expanded learning opportunities
-  - Ed. Code 48850
-  - Intersession program; priority access to student experiencing homelessness
-  - Ed. Code 48853.5
-  - Intersession program; priority access to foster youth
-  - Ed. Code 49024
-  - Activity Supervisor Clearance Certificate
-  - Ed. Code 49430-49434
-  - Nutrition standards
-  - Ed. Code 49540-49546
-  - Child care food program
-  - Ed. Code 49553
-  - Free or reduced-price meals
-  - Ed. Code 69430-69460
-  - Cal Grant program
-  - Ed. Code 8263
-  - Eligibility and priorities for subsidized child development services
-  - Ed. Code 8273.1
-  - Family fees; exemptions
-  - Ed. Code 8281.5
-  - California Prekindergarten Planning and Implementation Grant Program
-  - Ed. Code 8295-8305
-  - Child development program; personnel qualifications
-  - Ed. Code 8350-8359.1
-  - Programs for CalWORKS recipients
-  - Ed. Code 8360-8370
-  - Personnel qualifications
+  - Ed. Code 35021.3 - After-school physical recreation instructors
+  - Ed. Code 41422 - Emergency conditions
+  - Ed. Code 45125 - Criminal record check
+  - Ed. Code 45330 - Paraprofessionals; instructional aides
+  - Ed. Code 45340-45349 - Paraprofessionals; instructional aides
+  - Ed. Code 46120 - Expanded learning opportunities
+  - Ed. Code 48850 - Intersession program; priority access to student experiencing homelessness
+  - Ed. Code 48853.5 - Intersession program; priority access to foster youth
+  - Ed. Code 49024 - Activity Supervisor Clearance Certificate
+  - Ed. Code 49430-49434 - Nutrition standards
+  - Ed. Code 49540-49546 - Child care food program
+  - Ed. Code 49553 - Free or reduced-price meals
+  - Ed. Code 69430-69460 - Cal Grant program
+  - Ed. Code 8263 - Eligibility and priorities for subsidized child development services
+  - Ed. Code 8273.1 - Family fees; exemptions
+  - Ed. Code 8281.5 - California Prekindergarten Planning and Implementation Grant Program
+  - Ed. Code 8295-8305 - Child development program; personnel qualifications
+  - Ed. Code 8350-8359.1 - Programs for CalWORKS recipients
+  - Ed. Code 8360-8370 - Personnel qualifications
   - Ed. Code 8420-8428
-  - 21st Century High School After School Safety and Enrichment Program for
-  - Teens
-  - Ed. Code 8482-8484.65
-  - After School Education and Safety Program
+  - 21st Century High School After School Safety and Enrichment Program for - Teens
+  - Ed. Code 8482-8484.65 - After School Education and Safety Program
   - Ed. Code 8484.7-8484.9
   - 21st Century Community Learning Centers
-  - Ed. Code 8490-8490.7
-  - Distinguished After School Health Recognition Program
-  - W&I Code 10207-10492.2
-  - Child Care and Development Services Act
-  - W&I Code 10273
+  - Ed. Code 8490-8490.7 - Distinguished After School Health Recognition Program - W&I Code 10207-10492.2 - Child Care and Development Services Act - W&I Code 10273
   - Preferred placement for otherwise eligible children ages 11 or 12
-  - State
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
+  - 20 USC 6314 - Title I schoolwide program
+  - 20 USC 7171-7176
+  - 21st Century Community Learning Centers
+  - 42 USC 11434a - Education for homeless children and youths
+  - 42 USC 1766-1766a - Child and Adult Care Food Program
+  - 7 CFR 226.17 - Child care center nutrition standards
 
 Management Resources:
-  - California Department of Education Publication
-  - Expanded Learning Funding Opportunities
-  - California Department of Education Publication
-  - Expanded Learning Programs
+  - 479 - California Department of Education Publication - After School Education and Safety, 21st Century Community Learning - Centers, 21st Century High School After School Safety Enrichment for - Teens Grant Programs, Frequently Asked Questions, November 2022 - California Department of Education Publication - Expanded Learning Opportunities Program FAQs, May 2024 - California Department of Education Publication
+  - Quality Standards and 2014CQI, December 2023 - California Department of Education Publication
+  - 2014Guidance for a Quality Improvement Process, March 2024 - California Department of Education Publication - California After School Physical Activity Guidelines, 2009 - U.S. Department of Education Publication
+  - Nita M. Lowey 21st Century Community Learning Centers Program, Title IV,
+  - Part B of the Elementary and Secondary Act of 1965, Nonregulatory - Guidance, September 2024 - Website - California Afterschool Network - Website - California Child and Adult Care Food Program - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Expanded Learning - Website - U.S. Department of Agriculture - Website - California School-Age Consortium - Website - Partnership for Children and Youth - Website - California Healthy Kids Survey - Website - Commission on Teacher Credentialing - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3554 - Other Food Sales
+  - 3554 - Other Food Sales
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.4 - Health Examinations
+  - 4112.5 - Criminal Record Check
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5030 - Student Wellness
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5137 - Positive School Climate
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.9 - Hate-Motivated Behavior
+  - 5147 - Dropout Prevention
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6154 - Homework/Makeup Work
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6177 - Summer Learning Programs
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction

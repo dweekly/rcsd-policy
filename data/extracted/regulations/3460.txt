@@ -53,8 +53,7 @@ deadlines established by law.
 To conduct the audit, the Board shall select a certified public accountant, or public accountant licensed by the State
 Board of Accountancy, from among those deemed qualified by the State Controller. (Education Code 41020,
 41020.5)
-Board Policy Manual
-Redwood City School District
+
 
 The Board shall not select any public accounting firm to provide audit services if the lead audit partner or
 coordinating audit partner having primary responsibility for the audit, or the audit partner responsible for reviewing
@@ -112,7 +111,7 @@ county auditor. The Superintendent or designee shall provide the Board, the coun
 Superintendent, and the public with related repayment schedules and evidence of the district's ability to repay the
 obligation. Within 15 days, the County Superintendent and county auditor may comment publicly to the Board
 
-Policy Reference Disclaimer:
+
 regarding the district's capability to repay the debt. (Education Code 17150)
 Accrued Benefits and Claims Report
 The Superintendent or designee shall plan for the implementation of the Governmental Accounting Standards Board
@@ -132,89 +131,89 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 1859.104
-  - Leroy F. Greene School Facilities Program; reporting requirements
-  - 5 CCR 15060
-  - Standardized account code structure
-  - 5 CCR 15070
-  - Submission of reports using standardized account code structure
-  - 5 CCR 15440-15451
-  - Criteria and standards for school district budgets
-  - 5 CCR 15453-15464
-  - Criteria and standards for school district interim reports
-  - 5 CCR 19810-19826.1
-  - Audits
-  - Ed. Code 1240
-  - County superintendent of schools; duties
-  - Ed. Code 14500-14508
-  - Financial and compliance audits
-  - Ed. Code 17070.10-17079.30
-  - Leroy F. Greene School Facilities Act
-  - Ed. Code 17150-17150.1
-  - Public disclosure of non-voter-approved debt
-  - Ed. Code 17170-17199.6
-  - California School Finance Authority
-  - Ed. Code 33127
-  - Standards and criteria for local budgets and expenditures
-  - Ed. Code 33128
-  - Standards and criteria; inclusions
-  - Ed. Code 33129
-  - Standards and criteria; use by local agencies
-  - Ed. Code 35035
-  - Powers and duties of the superintendent; transfer authority
-  - Ed. Code 41010-41024
-  - Accounting system and audits
-  - Ed. Code 41320-41322
-  - Emergency apportionments
-  - Ed. Code 41325-41329
-  - Conditions on emergency apportionments
-  - Ed. Code 41344
-  - Repayment of apportionment significant audit exceptions
-  - Ed. Code 41344.1
-  - Appeals of audit findings
-  - Ed. Code 41455
-  - Examination of financial problems of local districts
-  - Ed. Code 42100-42105
-  - Requirement to prepare and file annual statement
-  - Ed. Code 42122-42129
-  - Budget requirements
-  - Ed. Code 42130-42134
-  - Financial reports and certifications
-  - Ed. Code 42140-42142
-  - Public disclosure of fiscal obligations
-  - Ed. Code 42637
-  - County superintendent review of district's financial and budgetary
-  - conditions
+  - 2 CCR 1859.104 - Leroy F. Greene School Facilities Program; reporting requirements
+  - 5 CCR 15060 - Standardized account code structure
+  - 5 CCR 15070 - Submission of reports using standardized account code structure
+  - 5 CCR 15440-15451 - Criteria and standards for school district budgets
+  - 5 CCR 15453-15464 - Criteria and standards for school district interim reports
+  - 5 CCR 19810-19826.1 - Audits
+  - Ed. Code 1240 - County superintendent of schools; duties
+  - Ed. Code 14500-14508 - Financial and compliance audits
+  - Ed. Code 17070.10-17079.30 - Leroy F. Greene School Facilities Act
+  - Ed. Code 17150-17150.1 - Public disclosure of non-voter-approved debt
+  - Ed. Code 17170-17199.6 - California School Finance Authority
+  - Ed. Code 33127 - Standards and criteria for local budgets and expenditures
+  - Ed. Code 33128 - Standards and criteria; inclusions
+  - Ed. Code 33129 - Standards and criteria; use by local agencies
+  - Ed. Code 35035 - Powers and duties of the superintendent; transfer authority
+  - Ed. Code 41010-41024 - Accounting system and audits
+  - Ed. Code 41320-41322 - Emergency apportionments
+  - Ed. Code 41325-41329 - Conditions on emergency apportionments
+  - Ed. Code 41344 - Repayment of apportionment significant audit exceptions
+  - Ed. Code 41344.1 - Appeals of audit findings
+  - Ed. Code 41455 - Examination of financial problems of local districts
+  - Ed. Code 42100-42105 - Requirement to prepare and file annual statement
+  - Ed. Code 42122-42129 - Budget requirements
+  - Ed. Code 42130-42134 - Financial reports and certifications
+  - Ed. Code 42140-42142 - Public disclosure of fiscal obligations
+  - Ed. Code 42637 - County superintendent review of district's financial and budgetary - conditions
   - 130
-  - Ed. Code 42652
-  - Revocation or suspension of warrant authority
-  - Ed. Code 48300-48316
-  - Student attendance alternatives; school district of choice program
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Gov. Code 16429.1
-  - Local agency investment fund
-  - Gov. Code 3540.2
-  - Meeting and negotiating in public educational employment
-  - Gov. Code 53646
-  - Treasurer reports and statements of investment policy
-  - Gov. Code 7900-7914
-  - Appropriations limit
-  - State
+  - Ed. Code 42652 - Revocation or suspension of warrant authority
+  - Ed. Code 48300-48316 - Student attendance alternatives; school district of choice program
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Gov. Code 16429.1 - Local agency investment fund
+  - Gov. Code 3540.2 - Meeting and negotiating in public educational employment
+  - Gov. Code 53646 - Treasurer reports and statements of investment policy
+  - Gov. Code 7900-7914 - Appropriations limit
 
 Federal References:
-  - 2 CFR 200.0-200.521
-  - Federal uniform grant guidance
-  - 31 USC 7501-7507
-  - Single audits of federal program funds
+  - 2 CFR 200.0-200.521 - Federal uniform grant guidance
+  - 31 USC 7501-7507 - Single audits of federal program funds
 
 Management Resources:
-  - California Department of Education
-  - Communication
-  - New Financial Reporting Requirements for Postemployment Benefits Other
-  - than Pensions, February 26, 2007
-  - California Department of Education
-  - Communication
-  - Audit Resolution Process: Repayment Plans, December 8, 2000
-  - Education Audit Appeals Panel Publication
-  - Guide for Annual Audits of K-12 Local Educational Agencies and
+  - Guide for Annual Audits of K-12 Local Educational Agencies and State - Compliance Reporting - Fiscal Crisis & Management Assistance Team Pub. Indicators of Risk or Potential Insolvency For K-12 Local Education - Agencies - Fiscal Crisis & Management Assistance Team Pub. Fiscal Oversight Guide for AB 1200, AB 2756, AB 1840 and Related - Legislation, September 2021 - Governmental Accounting Standards Board - Statement
+  - Statement 87, Leases, June 2017 - Governmental Accounting Standards Board - Statement
+  - Statement 34, Basic Financial Statements and Management's Discussion and - Analysis - For State and Local Governments, June 1999 - Governmental Accounting Standards Board - Statement
+  - Statement 75, Accounting and Financial Reporting for Post-employment - Benefits Other Than Pensions, June 2015 - Governmental Accounting Standards Board - Statement
+  - Statement 54, Fund Balance Reporting and Governmental Fund Type - Definitions, February 2009 - Office of Attorney General Publication - Guidance Regarding Laws Governing School Closures and Best Practices for - Implementation in California, April 2023 - U.S. Gov. Accountability Office & PCIE Publication Government Auditing Standards, 2011 - U.S. Gov. Accountability Office & PCIE Publication Financial Audit Manual, revised 2008 - Website - CSBA District and County Office of Education Legal Services - Website - Governmental Accounting Standards Board - Website - California Department of Education, Finance and Grants - Website - California State Controller - Website - U.S. Government Accountability Office - Website - Education Audit Appeals Panel - Website - California County Superintendents - Website - Fiscal Crisis and Management Assistance Team - Website - Office of Management and Budget - Website - School Services of California, Inc.
+  - 131 - Website - CSBA - Website - California Association of School Business Officials
+
+Cross References:
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3110 - Transfer Of Funds
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3290 - Gifts, Grants And Bequests
+  - 3300 - Expenditures And Purchases
+  - 3312 - Contracts
+  - 3314.2 - Revolving Funds
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3451 - Petty Cash Funds
+  - 3452 - Student Activity Funds
+  - 3470 - Debt Issuance And Management
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4154 - Health And Welfare Benefits
+  - 4331 - Staff Development
+  - 5117 - Interdistrict Attendance
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 9000 - Role Of The Board
+  - 9130 - Board Committees
+  - 9140 - Board Representatives
+  - 9322 - Agenda/Meeting Materials

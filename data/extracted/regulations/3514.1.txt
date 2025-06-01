@@ -55,11 +55,9 @@ d. The physical and health effects of the hazardous substances in the work area
  
 e. Techniques and methods of observation that may determine the presence or release of hazardous
 substances in the work area
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
- 
+
+
 f. Methods by which employees can lessen or prevent exposure to these hazardous substances, such as
 appropriate work practices, use of personal protective equipment and engineering controls
  
@@ -98,65 +96,55 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 22 CCR 67450.40-67450.49
-  - School hazardous waste collection, consolidation, and accumulation facilities
-  - 8 CCR 3203
-  - Injury and illness prevention program
-  - 8 CCR 3204
-  - Access to employee exposure and medical records
-  - 8 CCR 337-339
-  - Hazardous substances list
-  - 8 CCR 5139-5230
-  - Control of hazardous substances
-  - 8 CCR 5154.1-5154.2
-  - Ventilation
-  - 8 CCR 5161
-  - Definitions
-  - 8 CCR 5162
-  - Emergency eyewash and shower equipment
-  - 8 CCR 5163
-  - Control of spills
-  - 8 CCR 5164
-  - Storage of hazardous substances
-  - 8 CCR 5191
-  - Chemical hygiene plan
+  - 22 CCR 67450.40-67450.49 - School hazardous waste collection, consolidation, and accumulation facilities
+  - 8 CCR 3203 - Injury and illness prevention program
+  - 8 CCR 3204 - Access to employee exposure and medical records
+  - 8 CCR 337-339 - Hazardous substances list
+  - 8 CCR 5139-5230 - Control of hazardous substances
+  - 8 CCR 5154.1-5154.2 - Ventilation
+  - 8 CCR 5161 - Definitions
+  - 8 CCR 5162 - Emergency eyewash and shower equipment
+  - 8 CCR 5163 - Control of spills
+  - 8 CCR 5164 - Storage of hazardous substances
+  - 8 CCR 5191 - Chemical hygiene plan
   - 180
-  - 8 CCR 5194
-  - Hazard communication
-  - Ed. Code 32060-32066
-  - Toxic art supplies
-  - Ed. Code 49340-49341
-  - Hazardous substances education
-  - Ed. Code 49401.5
-  - Legislative intent; consultation services
-  - Ed. Code 49411
-  - Chemical listing; compounds used in school programs; determination of
-  - shelf life; disposal
-  - F&A Code 12981
-  - Regulations re pesticides and worker safety
-  - H&S Code 108100-108515
-  - California Hazardous Substances Act
-  - H&S Code 25163
-  - Transportation of hazardous wastes; registration; exemptions; inspection
-  - Lab. Code 6360-6363
-  - Hazardous Substances Information and Training Act
-  - Lab. Code 6380-6386
-  - List of hazardous substances
-  - State
+  - 8 CCR 5194 - Hazard communication
+  - Ed. Code 32060-32066 - Toxic art supplies
+  - Ed. Code 49340-49341 - Hazardous substances education
+  - Ed. Code 49401.5 - Legislative intent; consultation services
+  - Ed. Code 49411 - Chemical listing; compounds used in school programs; determination of - shelf life; disposal - F&A Code 12981 - Regulations re pesticides and worker safety - H&S Code 108100-108515 - California Hazardous Substances Act - H&S Code 25163 - Transportation of hazardous wastes; registration; exemptions; inspection
+  - Lab. Code 6360-6363 - Hazardous Substances Information and Training Act
+  - Lab. Code 6380-6386 - List of hazardous substances
 
 Management Resources:
-  - California Department of Education Publication
-  - Science Safety Handbook for California Public Schools, 2014
-  - OEHHA Publication
-  - Art and Craft Materials in Schools: Guidelines for Purchasing and Safe Use,
-  - September 17, 2016
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Office of Environmental Health Hazard Assessment
-  - Website
-  - Department of Industrial Relations, Cal/OSHA
-  - Website
-  - CSBA
-  - Website
-  - California Department of Education
+  - September 17, 2016 - Website - CSBA District and County Office of Education Legal Services - Website - California Office of Environmental Health Hazard Assessment - Website - Department of Industrial Relations, Cal/OSHA - Website - CSBA - Website - California Department of Education
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.2 - Integrated Pest Management
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4112.6 - Personnel Files
+  - 4112.9 - Employee Notifications
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5142 - Safety
+  - 5142 - Safety
+  - 6142.93 - Science Instruction

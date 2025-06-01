@@ -44,31 +44,36 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 3 CCR 6147
-  - Pesticides exempted from registration requirements
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 51520
-  - Prohibited solicitations on school premises
-  - Gov. Code 1126
-  - Incompatible activities of employees
-  - Gov. Code 1127
-  - Incompatible activities; off duty work
-  - Board Policy Manual
-  - Redwood City School District
+  - 3 CCR 6147 - Pesticides exempted from registration requirements
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 51520 - Prohibited solicitations on school premises
+  - Gov. Code 1126 - Incompatible activities of employees
+  - Gov. Code 1127 - Incompatible activities; off duty work - Board Policy Manual - Redwood City School District
   - 358
-  - Gov. Code 1128
-  - Incompatible activities; attorney
-  - State
+  - Gov. Code 1128 - Incompatible activities; attorney
 
 Management Resources:
-  - Attorney General Opinion
-  - 70 Ops.Cal.Atty.Gen. 157 (1987)
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Fair Political Practices Commission
-  - Website
-  - CSBA
+  - 70 Ops.Cal.Atty.Gen. 157 (1987) - Website - CSBA District and County Office of Education Legal Services - Website - Fair Political Practices Commission - Website - CSBA
+
+Cross References:
+  - 1321 - Solicitation Of Funds From And By Students
+  - 3300 - Expenditures And Purchases
+  - 4040 - Employee Use Of Technology
+  - 4112.9 - Employee Notifications
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.1 - Civil And Legal Rights
+  - 4119.21 - Professional Standards
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4132 - Publication Or Creation Of Materials
+  - 4135 - Soliciting And Selling
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.1 - Civil And Legal Rights
+  - 4219.21 - Professional Standards
+  - 4319.1 - Civil And Legal Rights
+  - 4319.21 - Professional Standards
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 9270 - Conflict Of Interest

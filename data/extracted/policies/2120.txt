@@ -56,72 +56,49 @@ The Board shall deliberate in closed session to affirm the selection of the cand
 open session. (Government Code 54957)
 The Board shall conduct these proceedings in accordance with legal and ethical obligations regarding confidentiality
 and equal opportunity.
-Board Policy Manual
-Redwood City School District
-
-Policy Reference Disclaimer:
-As necessary, the Board may appoint an interim superintendent to manage the district during the selection process.
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 11006-11086
-  - Discrimination in employment
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 35026
-  - Employment of district superintendent by certain district
-  - Ed. Code 35028
-  - Qualifications for employment
-  - Ed. Code 35029
-  - Waiver of credential requirements
-  - Ed. Code 35031
-  - Term of employment
-  - Ed. Code 44420-44440
-  - Revocation and suspension of credentials
-  - Gov. Code 11135
-  - Prohibition of discrimination
-  - Gov. Code 12900-12996
-  - Fair Employment and Housing Act
-  - Gov. Code 53260-53264
-  - Employment contracts
-  - Gov. Code 54954
-  - Time and place of regular meetings
-  - Gov. Code 54957
-  - Closed session personnel matters
-  - Gov. Code 54957.1
-  - Closed session; public report of action taken
+  - 2 CCR 11006-11086 - Discrimination in employment
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 35026 - Employment of district superintendent by certain district
+  - Ed. Code 35028 - Qualifications for employment
+  - Ed. Code 35029 - Waiver of credential requirements
+  - Ed. Code 35031 - Term of employment
+  - Ed. Code 44420-44440 - Revocation and suspension of credentials
+  - Gov. Code 11135 - Prohibition of discrimination
+  - Gov. Code 12900-12996 - Fair Employment and Housing Act
+  - Gov. Code 53260-53264 - Employment contracts
+  - Gov. Code 54954 - Time and place of regular meetings
+  - Gov. Code 54957 - Closed session personnel matters
+  - Gov. Code 54957.1 - Closed session; public report of action taken
 
 Federal References:
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 28 CFR 35.101-35.190
-  - Americans with Disabilities Act
+  - 28 CFR 35.101-35.190 - Americans with Disabilities Act
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 100.6
-  - Title VI; Compliance information
-  - 34 CFR 106.9
-  - Severability
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
-  - 42 USC 2000d-2000d-7
-  - Title VI, Civil Rights Act of 1964
-  - 42 USC 2000e-2000e-17
-  - Title VII, Civil Rights Act of 1964, as amended
+  - 34 CFR 100.6 - Title VI; Compliance information
+  - 34 CFR 106.9 - Severability
+  - 42 USC 12101-12213 - Americans with Disabilities Act
+  - 42 USC 2000d-2000d-7 - Title VI, Civil Rights Act of 1964
+  - 42 USC 2000e-2000e-17 - Title VII, Civil Rights Act of 1964, as amended
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Association of California School Administrators
-  - Website
-  - California Civil Rights Department
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education, Office for Civil Rights
-  - Website
-  - Equal Employment Opportunity Commission
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 1000 - Concepts And Roles
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 2000 - Concepts And Roles
+  - 2110 - Superintendent Responsibilities And Duties
+  - 2111 - Superintendent Governance Standards
+  - 2121 - Superintendent's Contract
+  - 4032 - Reasonable Accommodation
+  - 4112.5 - Criminal Record Check
+  - 9000 - Role Of The Board
+  - 9011 - Disclosure Of Confidential/Privileged Information

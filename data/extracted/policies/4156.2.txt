@@ -24,21 +24,23 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 35161
-  - Board delegation of any powers or duties
-  - Ed. Code 44015
-  - Awards to employees
-  - Ed. Code 45460
-  - Classified School Employee Week
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 35161 - Board delegation of any powers or duties
+  - Ed. Code 44015 - Awards to employees
+  - Ed. Code 45460 - Classified School Employee Week
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
-  - Website
-  - Fiscal Crisis and Management Assistance Team
+Cross References:
+  - 1150 - Commendations And Awards
+  - 1150 - Commendations And Awards
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3300 - Expenditures And Purchases
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 6115 - Ceremonies And Observances
+  - 9140 - Board Representatives

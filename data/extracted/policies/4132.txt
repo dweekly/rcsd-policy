@@ -27,34 +27,34 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32360
-  - Copyrights; use of funds
-  - Ed. Code 32361
-  - Copyrights; use of employee work time
-  - Ed. Code 35170
-  - Authority to secure copyrights
-  - Ed. Code 35182
-  - Marketing or licensing noneducational mainframe electronic data-
-  - processing software
-  - Ed. Code 60076
-  - Royalties or other compensation
-  - Lab. Code 2870-2872
-  - Inventions made by an employee
+  - Ed. Code 32360 - Copyrights; use of funds
+  - Ed. Code 32361 - Copyrights; use of employee work time
+  - Ed. Code 35170 - Authority to secure copyrights
+  - Ed. Code 35182 - Marketing or licensing noneducational mainframe electronic data- - processing software
+  - Ed. Code 60076 - Royalties or other compensation
+  - Lab. Code 2870-2872 - Inventions made by an employee
 
 Federal References:
-  - 17 USC 101-122
-  - Subject matter and scope of copyright
-  - 17 USC 201
-  - Copyright ownership and transfer
+  - 17 USC 101-122 - Subject matter and scope of copyright
+  - 17 USC 201 - Copyright ownership and transfer
 
-Management Resources:
-  - Court Decision
-  - Community for Creative Non-Violence v. Reid (1989) 490 U.S. 730
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Copyright Clearance Center
-  - Website
-  - Copyright Society of the USA
-  - Website
-  - U.S. Copyright Office
+Cross References:
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 3312 - Contracts
+  - 4040 - Employee Use Of Technology
+  - 4119.1 - Civil And Legal Rights
+  - 4119.21 - Professional Standards
+  - 4136 - Nonschool Employment
+  - 4219.1 - Civil And Legal Rights
+  - 4219.21 - Professional Standards
+  - 4236 - Nonschool Employment
+  - 4319.1 - Civil And Legal Rights
+  - 4319.21 - Professional Standards
+  - 4336 - Nonschool Employment
+  - 6161.11 - Supplementary Instructional Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.1 - Library Media Centers

@@ -44,59 +44,48 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 17 CCR 2500-2511
-  - Communicable disease reporting requirements
-  - 2 CCR 7293.5-7294.2
-  - Discrimination based on disability
-  - 5 CCR 5502-5504
-  - Medical certification
-  - Civ. Code 56-56.37
-  - Confidentiality of medical information
-  - Ed. Code 44839
-  - Medical certificate; periodic medical examination
-  - Ed. Code 44839.5
-  - Requirements for employment of retirant
-  - Ed. Code 49406
-  - TB risk assessment
-  - Board Policy Manual
-  - Redwood City School District
+  - 17 CCR 2500-2511 - Communicable disease reporting requirements
+  - 2 CCR 7293.5-7294.2 - Discrimination based on disability
+  - 5 CCR 5502-5504 - Medical certification
+  - Civ. Code 56-56.37 - Confidentiality of medical information
+  - Ed. Code 44839 - Medical certificate; periodic medical examination
+  - Ed. Code 44839.5 - Requirements for employment of retirant
+  - Ed. Code 49406 - TB risk assessment - Board Policy Manual - Redwood City School District
   - 148
-  - Gov. Code 12900-12996
-  - Fair Employment and Housing Act
-  - H&S Code 120975-121023
-  - Mandated blood testing and confidentiality to protect public health
-  - State
+  - Gov. Code 12900-12996 - Fair Employment and Housing Act - H&S Code 120975-121023 - Mandated blood testing and confidentiality to protect public health
 
 Federal References:
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
+  - 42 USC 12101-12213 - Americans with Disabilities Act
 
 Management Resources:
-  - California Department of Public Health PublicationCalifornia HIV/AIDS Laws, 2009, January 2010
-  - Court Decision
-  - School Board of Nassau County, Florida v. Arline (1987) 408 U.S. 273
-  - Court Decision
-  - Chevron USA v. Echazabal (2002) 536 U.S. 73, 122 S.Ct. 2045
-  - CSBA Publication
-  - H1N1 Influenza (Swine Flu), Fact Sheet, April 2009
-  - CSBA Publication
-  - Pandemic Influenza, Fact Sheet, September 2007
-  - EEO Commission Publication
-  - Enforcement Guidance: Reasonable Accommodation and Undue Hardship
-  - under the Americans with Disabilities Act, October 2002
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Health and Human Services
-  - Website
-  - California School Nurses Organization
-  - Website
-  - Centers for Disease Control and Prevention
-  - Website
-  - CSBA
-  - Website
-  - Equal Employment Opportunity Commission
-  - Website
-  - California Department of Public Health
+  - H1N1 Influenza (Swine Flu), Fact Sheet, April 2009 - CSBA Publication - Pandemic Influenza, Fact Sheet, September 2007 - EEO Commission Publication - Enforcement Guidance: Reasonable Accommodation and Undue Hardship - under the Americans with Disabilities Act, October 2002 - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Health and Human Services - Website - California School Nurses Organization - Website - Centers for Disease Control and Prevention - Website - CSBA - Website - Equal Employment Opportunity Commission - Website - California Department of Public Health
+
+Cross References:
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4032 - Reasonable Accommodation
+  - 4112.4 - Health Examinations
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.43 - Universal Precautions
+  - 4119.43 - Universal Precautions
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5112.2 - Exclusions From Attendance
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.6 - School Health Services

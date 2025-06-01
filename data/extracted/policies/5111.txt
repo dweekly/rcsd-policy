@@ -48,76 +48,68 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 17 CCR 6000-6075
-  - School attendance immunization requirements
-  - 22 CCR 1089-1
-  - Notification of unemployment insurance benefits
-  - 5 CCR 200
-  - Promotion from kindergarten to first grade
-  - Civ. Code 51
-  - Unruh Civil Rights Act
-  - Code of Civil Procedure 1002.7
-  - Provision in enrollment agreement waiving legal rights, remedy, forum,
-  - proceeding or procedure; criminal sexual assault or sexual battery
-  - Board Policy Manual
-  - Redwood City School District
+  - 17 CCR 6000-6075 - School attendance immunization requirements
+  - 22 CCR 1089-1 - Notification of unemployment insurance benefits
+  - 5 CCR 200 - Promotion from kindergarten to first grade
+  - Civ. Code 51 - Unruh Civil Rights Act
+  - Code of Civil Procedure 1002.7 - Provision in enrollment agreement waiving legal rights, remedy, forum, - proceeding or procedure; criminal sexual assault or sexual battery - Board Policy Manual - Redwood City School District
   - 30
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 46300
-  - Computation of average daily attendance; inclusion of kindergarten and
-  - transitional kindergarten
-  - Ed. Code 46600
-  - Agreements for admission of students desiring interdistrict attendance
-  - Ed. Code 48000
-  - Minimum age of admission (kindergarten)
-  - Ed. Code 48002
-  - Evidence of minimum age required to enter kindergarten or first grade
-  - Ed. Code 48010
-  - Minimum age of admission to first grade
-  - Ed. Code 48011
-  - Admission from kindergarten or other school; minimum age
-  - Ed. Code 48050-48054
-  - Nonresidents
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 46300 - Computation of average daily attendance; inclusion of kindergarten and - transitional kindergarten
+  - Ed. Code 46600 - Agreements for admission of students desiring interdistrict attendance
+  - Ed. Code 48000 - Minimum age of admission (kindergarten)
+  - Ed. Code 48002 - Evidence of minimum age required to enter kindergarten or first grade
+  - Ed. Code 48010 - Minimum age of admission to first grade
+  - Ed. Code 48011 - Admission from kindergarten or other school; minimum age
+  - Ed. Code 48050-48054 - Nonresidents
   - Ed. Code 48200
   - Children between ages of 6 and 18 years (compulsory full-time education)
-  - Ed. Code 48350-48361
-  - Open Enrollment Act
-  - Ed. Code 48645.5
-  - Former juvenile court school students; enrollment
-  - Ed. Code 48850-48859
-  - Education of foster youth and homeless students
-  - Ed. Code 49076
-  - Access to records by persons without written consent or under judicial
-  - order
-  - Ed. Code 49076.7
-  - Student records; data privacy; social security numbers
-  - Ed. Code 49408
-  - Student emergency information
-  - Ed. Code 49700-49703
-  - Education of children of military families
-  - H&S Code 120325-120380
-  - Immunization against communicable diseases
-  - H&S Code 121475-121520
-  - Tuberculosis tests for students
-  - State
+  - Ed. Code 48350-48361 - Open Enrollment Act
+  - Ed. Code 48645.5 - Former juvenile court school students; enrollment
+  - Ed. Code 48850-48859 - Education of foster youth and homeless students
+  - Ed. Code 49076 - Access to records by persons without written consent or under judicial - order
+  - Ed. Code 49076.7 - Student records; data privacy; social security numbers
+  - Ed. Code 49408 - Student emergency information
+  - Ed. Code 49700-49703 - Education of children of military families - H&S Code 120325-120380 - Immunization against communicable diseases - H&S Code 121475-121520 - Tuberculosis tests for students
 
 Federal References:
-  - 42 USC 11431-11435
-  - McKinney-Vento Homeless Assistance Act
-  - 5 USC 552a
-  - Records maintained on individuals
+  - 42 USC 11431-11435 - McKinney-Vento Homeless Assistance Act
+  - 5 USC 552a - Records maintained on individuals
 
 Management Resources:
-  - CA Office of the Attorney General Publication
-  - Promoting a Safe and Secure Learning Environment for All: Guidance and
-  - Model Policies to Assist California's K-12 Schools in Responding to
-  - Immigration Issues, December 2024
-  - Court Decision
-  - Plyler v. Doe, 457 U.S. 202 (1982)
-  - CSBA Publication
-  - Legal Guidance on Providing All Children Equal Access to Education,
-  - Regardless of Immigration Status, February 2017
-  - U.S. DOJ & DOE Civil Rights Joint Publication
-  - Information on the Rights of All Children to Enroll in School: Questions and
-  - Answers for
+  - May 8, 2014 - U.S. DOJ & DOE Civil Rights Joint Publication - Dear Colleague Letter: School Enrollment Procedures, May 8, 2014 - Website - CSBA District and County Office of Education Legal Services - Website - California Office of the Attorney General - Website - U.S. Department of Justice - Website - CSBA - Website - U.S. Department of Education, Office for Civil Rights - Website - California Department of Education
+  - 31
+
+Cross References:
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5112.1 - Exemptions From Attendance
+  - 5112.1 - Exemptions From Attendance
+  - 5112.2 - Exclusions From Attendance
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5117 - Interdistrict Attendance
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5145.12 - Search And Seizure
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6170.1 - Transitional Kindergarten
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth

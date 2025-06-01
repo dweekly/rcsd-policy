@@ -42,147 +42,138 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11800-11801
-  - District health education plan
-  - Ed. Code 35183.5
-  - Sun protection
-  - Ed. Code 49413
-  - First aid and cardiopulmonary resuscitation training
-  - Ed. Code 49430-49434
-  - Pupil Nutrition, Health, and Achievement Act of 2001
-  - Ed. Code 49490-49494
-  - School breakfast and lunch programs
-  - Ed. Code 49500-49505
-  - School meals
-  - Ed. Code 51202
-  - Instruction in personal and public health and safety
-  - Ed. Code 51203
-  - Instruction on alcohol, narcotics and dangerous drugs
+  - 5 CCR 11800-11801 - District health education plan
+  - Ed. Code 35183.5 - Sun protection
+  - Ed. Code 49413 - First aid and cardiopulmonary resuscitation training
+  - Ed. Code 49430-49434 - Pupil Nutrition, Health, and Achievement Act of 2001
+  - Ed. Code 49490-49494 - School breakfast and lunch programs
+  - Ed. Code 49500-49505 - School meals
+  - Ed. Code 51202 - Instruction in personal and public health and safety
+  - Ed. Code 51203 - Instruction on alcohol, narcotics and dangerous drugs
   - Ed. Code 51210
   - Course of study for grades 1-6
-  - Ed. Code 51210.8
-  - Health education curriculum
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 51210.8 - Health education curriculum - Board Policy Manual - Redwood City School District
   - 64
-  - Ed. Code 51220.5
-  - Parenting skills; areas of instruction
-  - Ed. Code 51225.36
-  - Instruction in sexual harassment and violence; districts that require health
-  - education for graduation
-  - Ed. Code 51225.6
-  - Instruction in cardiopulmonary resuscitation; districts that require health
-  - education for graduation
-  - Ed. Code 51260-51269
-  - Drug education
-  - Ed. Code 51513
-  - Personal beliefs
-  - Ed. Code 51880-51881.5
-  - Health education; legislative findings and intent
-  - Ed. Code 51890-51891
-  - Comprehensive health education programs and community participation;
-  - definitions
-  - Ed. Code 51900.6
-  - Sexual abuse and sexual assault awareness and prevention instruction
-  - Ed. Code 51913
-  - District health education plan
-  - Ed. Code 51920
-  - Inservice training; health education
-  - Ed. Code 51925-51929
-  - Mandatory mental health education and in-service training
-  - Ed. Code 51930-51939
-  - California Healthy Youth Act
-  - Ed. Code 67386
-  - Student safety; affirmative consent standard
-  - Ed. Code 8850.5
-  - Family relationships and parenting education
-  - State
+  - Ed. Code 51220.5 - Parenting skills; areas of instruction
+  - Ed. Code 51225.36 - Instruction in sexual harassment and violence; districts that require health - education for graduation
+  - Ed. Code 51225.6 - Instruction in cardiopulmonary resuscitation; districts that require health - education for graduation
+  - Ed. Code 51260-51269 - Drug education
+  - Ed. Code 51513 - Personal beliefs
+  - Ed. Code 51880-51881.5 - Health education; legislative findings and intent
+  - Ed. Code 51890-51891 - Comprehensive health education programs and community participation; - definitions
+  - Ed. Code 51900.6 - Sexual abuse and sexual assault awareness and prevention instruction
+  - Ed. Code 51913 - District health education plan
+  - Ed. Code 51920 - Inservice training; health education
+  - Ed. Code 51925-51929 - Mandatory mental health education and in-service training
+  - Ed. Code 51930-51939 - California Healthy Youth Act
+  - Ed. Code 67386 - Student safety; affirmative consent standard
+  - Ed. Code 8850.5 - Family relationships and parenting education
 
 Federal References:
-  - 42 USC 1751-1769j
-  - School Lunch Program
-  - 42 USC 1758b
-  - Local wellness policy
-  - 42 USC 1771-1793
-  - Child Nutrition Act
+  - 42 USC 1751-1769j - School Lunch Program
+  - 42 USC 1758b - Local wellness policy
+  - 42 USC 1771-1793 - Child Nutrition Act
 
 Management Resources:
-  - California Department of Education Publication
-  - Health Education Framework for California Public Schools: Kindergarten
-  - Through Grade Twelve, 2019
-  - California Department of Education Publication
-  - Health Education Content Standards for California Public Schools:
-  - Kindergarten Through Grade Twelve, 2008
-  - CSBA Publication
-  - Integrating Oral Health into School Health Programs and Policies, May 2010
-  - CSBA Publication
-  - Promoting Healthy Relationships for Adolescents: Board Policy
-  - Considerations, August 2014
-  - CSBA Publication
-  - Integrating Physical Activity into the School Day, April 2016
-  - CSBA Publication
-  - Preventing Catastrophic Health Illness, Governance Brief, July 2018
-  - CSBA Publication
-  - The Impact of Marijuana Legalization on K-12: The Effect of Marijuana on
-  - the Brain, November 2018
-  - CSBA Publication
-  - Why Schools Hold the Promise for Adolescent Mental Health, Governance
-  - Brief, May 2019
-  - CSBA Publication
-  - Sun Safety in Schools, Policy Brief, July 2006
-  - CSBA Publication
-  - Asthma Management in the Schools, Policy Brief, March 2008
-  - CSBA Publication
-  - Student Wellness: A Healthy Food and Physical Activity Policy Resource
-  - Guide, April 2006
-  - CSBA Publication
-  - Monitoring for Success: A Guide for Assessing and Strengthening Student
-  - Wellness Policies, rev. 2012
-  - CSBA Publication
-  - Promoting Oral Health for California's Students: New Roles, New
-  - Opportunities for Schools, Policy Brief, November 2008
-  - 65
-  - Human Rights Campaign Foundation Publication
-  - California LGBTQ Youth Report, January 2019
-  - Society of Health & Physical Educators Publication National Health Education Standards: Achieving Excellence, rev. November
-  - 2012
-  - US Department of Health and Human Services
-  - Pub.
-  - Social Media and Youth Mental Health: The U.S. Surgeon General’s
-  - Advisory, 2023
-  - US Dept of Health and Human Services
-  - Publication
-  - Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General’s
-  - Advisory on the Health Effects of Social Connection and the Community,
-  - 2023
-  - Website
-  - SHAPE America, Society of Health and Physical Educators
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Human Rights Campaign Foundation
-  - Website
-  - U.S. Department of Health and Human Services
-  - Website
-  - American School Health Association
-  - Website
-  - California Association of School Health Educators
-  - Website
-  - California Department of Education, Health Education
-  - Website
-  - California Subject Matter Project, Physical Education-Health Project
-  - Website
-  - Center for Injury Prevention Policy and Practice
-  - Website
-  - National Center for Health Education
-  - Website
-  - National Hearing Conservation Association
-  - Website
-  - Centers for Disease Control and Prevention
-  - Website
-  - CSBA
-  - Website
-  - California Department of Public Health
-  - Website
-  - California Healthy Kids Resource Center
-  - Management Resources
+  - The Impact of Marijuana Legalization on K-12: The Effect of Marijuana on - the Brain, November 2018 - CSBA Publication - Why Schools Hold the Promise for Adolescent Mental Health, Governance - Brief, May 2019 - CSBA Publication - Sun Safety in Schools, Policy Brief, July 2006 - CSBA Publication - Asthma Management in the Schools, Policy Brief, March 2008 - CSBA Publication - Student Wellness: A Healthy Food and Physical Activity Policy Resource - Guide, April 2006 - CSBA Publication - Monitoring for Success: A Guide for Assessing and Strengthening Student - Wellness Policies, rev. 2012 - CSBA Publication - Promoting Oral Health for California's Students: New Roles, New - Opportunities for Schools, Policy Brief, November 2008
+  - 65 - Human Rights Campaign Foundation Publication - California LGBTQ Youth Report, January 2019 - Society of Health & Physical Educators Publication National Health Education Standards: Achieving Excellence, rev. November
+  - 2012 - US Department of Health and Human Services - Pub. - Social Media and Youth Mental Health: The U.S. Surgeon General’s - Advisory, 2023 - US Dept of Health and Human Services - Publication - Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General’s - Advisory on the Health Effects of Social Connection and the Community,
+  - 2023 - Website - SHAPE America, Society of Health and Physical Educators - Website - CSBA District and County Office of Education Legal Services - Website - Human Rights Campaign Foundation - Website - U.S. Department of Health and Human Services - Website - American School Health Association - Website - California Association of School Health Educators - Website - California Department of Education, Health Education - Website - California Subject Matter Project, Physical Education-Health Project - Website - Center for Injury Prevention Policy and Practice - Website - National Center for Health Education - Website - National Hearing Conservation Association - Website - Centers for Disease Control and Prevention - Website - CSBA - Website - California Department of Public Health - Website - California Healthy Kids Resource Center
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3543 - Transportation Safety And Emergencies
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3554 - Other Food Sales
+  - 3554 - Other Food Sales
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5030 - Student Wellness
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.5 - Mental Health
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.6 - School Health Services
+  - 5141.7 - Sun Safety
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.5 - Environmental Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145.8 - Assemblies And Special Events
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.8 - Research
+  - 6162.8 - Research
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6164.2 - Guidance/Counseling Services
+  - 6172 - Gifted And Talented Student Program
+  - 6190 - Evaluation Of The Instructional Program

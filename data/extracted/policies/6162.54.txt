@@ -57,19 +57,26 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 1200-1225
-  - California High School Exit Examination
-  - 5 CCR 1220
-  - Cheating on the high school exit examination
-  - 5 CCR 850-876
-  - California Assessment of Student Performance and Progress
-  - Ed. Code 60611
-  - Inappropriate test preparation
-  - Ed. Code 60640-60648.5
-  - California Assessment of Student Performance and Progress
-  - Gov. Code 54957
-  - Complaints against employees; right to open session
+  - 5 CCR 1200-1225 - California High School Exit Examination
+  - 5 CCR 1220 - Cheating on the high school exit examination
+  - 5 CCR 850-876 - California Assessment of Student Performance and Progress
+  - Ed. Code 60611 - Inappropriate test preparation
+  - Ed. Code 60640-60648.5 - California Assessment of Student Performance and Progress
+  - Gov. Code 54957 - Complaints against employees; right to open session
 
-Management Resources:
-  - California Department of Education Publication
-  - Guidelines on Academic Preparation for
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.21 - Professional Standards
+  - 4319.21 - Professional Standards
+  - 5131 - Conduct
+  - 5131.9 - Academic Honesty
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 6011 - Academic Standards
+  - 6162.5 - Student Assessment

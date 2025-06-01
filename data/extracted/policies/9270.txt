@@ -53,8 +53,7 @@ effect on the public generally, on the Board member, designated employee, or oth
 their immediate family, or any financial interest described in 2 CCR 18700. (Government Code 87100, 87101,
 87103; 2 CCR 18700-18709)
 A Board member, designated employee, or other person in a designated position makes a governmental decision
-Board Policy Manual
-Redwood City School District
+
 
 when they, acting within the authority of their office or position, authorizes or directs any action on a matter, votes
 or provides information or opinion on it, contacts or appears before a district official for the purpose of affecting the
@@ -103,7 +102,7 @@ governmental agency or authority, bona fide public or private educational instit
 and Taxation Code 203, or nonprofit organization exempt from taxation under section 501(c)(3) of the Internal
 Revenue Code.
 
-Policy Reference Disclaimer:
+
 Gifts of travel exempted from the gift limitation, as described in items #1 and 2 above, shall nevertheless be
 reportable on the recipient's Statement of Economic Interest/Form 700 as required by law.
 A gift of travel does not include travel provided by the district for Board members and designated employees. 
@@ -125,130 +124,114 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 18110-18997
-  - Regulations of the Fair Political Practices Commission
-  - 2 CCR 18438.1-18438.8
-  - Campaign contribution-based conflicts of interest
-  - 2 CCR 18700-18760
-  - Conflicts of Interest
-  - 2 CCR 18722-18740
-  - Disclosure of interests
-  - 2 CCR 18753-18756
-  - Conflict of interest codes
-  - 2 CCR 18940.2
-  - Gift limit amount
-  - Ed. Code 1006
-  - Prohibition against school district employees serving on county board of
-  - education
-  - Ed. Code 35107
-  - School district employees
-  - Ed. Code 35230-35240
-  - Corrupt practices
-  - Ed. Code 35233
-  - Prohibitions applicable to members of governing boards
-  - Ed. Code 41000-41003
-  - Moneys received by school districts
-  - Ed. Code 41015
-  - Investments
-  - Fam. Code 297.5
-  - Rights, protections, and benefits of registered domestic partners
-  - Gov. Code 1090-1099
-  - Prohibitions applicable to specified officers
-  - Gov. Code 1125-1129
-  - Incompatible activities
-  - Gov. Code 53234-53235.2
-  - Ethics training
-  - Gov. Code 81000-91014
-  - Political Reform Act
-  - Gov. Code 82011
-  - Code reviewing body
-  - Gov. Code 82019
-  - Definition; designated employee
-  - Gov. Code 82028
-  - Definition; gift
-  - Gov. Code 82030
-  - Definition; income
-  - Gov. Code 82033
-  - Definition; interest in real property
-  - Gov. Code 82034
-  - Definition; investment
+  - 2 CCR 18110-18997 - Regulations of the Fair Political Practices Commission
+  - 2 CCR 18438.1-18438.8 - Campaign contribution-based conflicts of interest
+  - 2 CCR 18700-18760 - Conflicts of Interest
+  - 2 CCR 18722-18740 - Disclosure of interests
+  - 2 CCR 18753-18756 - Conflict of interest codes
+  - 2 CCR 18940.2 - Gift limit amount
+  - Ed. Code 1006 - Prohibition against school district employees serving on county board of - education
+  - Ed. Code 35107 - School district employees
+  - Ed. Code 35230-35240 - Corrupt practices
+  - Ed. Code 35233 - Prohibitions applicable to members of governing boards
+  - Ed. Code 41000-41003 - Moneys received by school districts
+  - Ed. Code 41015 - Investments
+  - Fam. Code 297.5 - Rights, protections, and benefits of registered domestic partners
+  - Gov. Code 1090-1099 - Prohibitions applicable to specified officers
+  - Gov. Code 1125-1129 - Incompatible activities
+  - Gov. Code 53234-53235.2 - Ethics training
+  - Gov. Code 81000-91014 - Political Reform Act
+  - Gov. Code 82011 - Code reviewing body
+  - Gov. Code 82019 - Definition; designated employee
+  - Gov. Code 82028 - Definition; gift
+  - Gov. Code 82030 - Definition; income
+  - Gov. Code 82033 - Definition; interest in real property
+  - Gov. Code 82034 - Definition; investment
   - 48
-  - Gov. Code 84308
-  - Campaign disclosure
-  - Gov. Code 87100-87505
-  - Political Reform Act; conflict of interest
-  - Gov. Code 89501-89503
-  - Honoraria and gifts
-  - Gov. Code 89506
-  - Ethics; travel
-  - Gov. Code 91000-91014
-  - Enforcement
-  - Pen. Code 85-88
-  - Bribes
-  - Pub. Cont. Code 6102
-  - Bribery of public official; voidable contract
-  - Rev. & Tax Code 203
-  - Taxable and exempt property - colleges
-  - State
+  - Gov. Code 84308 - Campaign disclosure
+  - Gov. Code 87100-87505 - Political Reform Act; conflict of interest
+  - Gov. Code 89501-89503 - Honoraria and gifts
+  - Gov. Code 89506 - Ethics; travel
+  - Gov. Code 91000-91014 - Enforcement
+  - Pen. Code 85-88 - Bribes
+  - Pub. Cont. Code 6102 - Bribery of public official; voidable contract - Rev. & Tax Code 203 - Taxable and exempt property - colleges
 
 Management Resources:
-  - Attorney General Opinion
-  - 105 Ops.Cal.Atty.Gen.69 (2022)
-  - Attorney General Opinion
-  - 63 Ops.Cal.Atty.Gen. 868 (1980)
-  - Attorney General Opinion
-  - 65 Ops.Cal.Atty.Gen. 606 (1982)
-  - Attorney General Opinion
-  - 68 Ops.Cal.Atty.Gen. 171 (1985)
-  - Attorney General Opinion
-  - 69 Ops.Cal.Atty.Gen. 255 (1986)
-  - Attorney General Opinion
-  - 80 Ops.Cal.Atty.Gen. 320 (1997)
-  - Attorney General Opinion
-  - 81 Ops.Cal.Atty.Gen. 327 (1998)
-  - Attorney General Opinion
-  - 82 Ops.Cal.Atty.Gen. 83 (1999)
-  - Attorney General Opinion
-  - 85 Ops.Cal.Atty.Gen. 60 (2002)
-  - Attorney General Opinion
-  - 86 Ops.Cal.Atty.Gen. 138(2003)
-  - Attorney General Opinion
-  - 89 Ops.Cal.Atty.Gen. 217 (2006)
-  - Attorney General Opinion
-  - 92 Ops.Cal.Atty.Gen. 19 (2009)
-  - Attorney General Opinion
-  - 92 Ops.Cal.Atty.Gen. 26 (2009)
-  - Court Decision
-  - Davis v. Fresno Unified School District (2015) 237 Cal.App.4th 261
-  - Court Decision
-  - Klistoff v. Superior Court (2007) 157 Cal.App.4th 469
-  - Court Decision
-  - Kunec v. Brea Redevelopment Agency (1997) 55 Cal.App.4th 511
-  - Court Decision
-  - McGee v. Balfour Beatty Construction, LLC, et al. (2016) 247 Cal. App. 4th
-  - 235
-  - Court Decision
-  - Thorpe v. Long Beach Community College District (2000) 83 Cal.App.4th
-  - 655
-  - CSBA Publication
-  - Conflict of Interest: Overview of Key Issues for Governing Board Members,
-  - Fact Sheet, July 2010
-  - Fair Political Practices Commission Publication
-  - Advice Letter: A-96-314 (December 18, 1996)
-  - Fair Political Practices Commission Publication
-  - Can I Vote? A Basic Overview of Public Officials' Obligations Under the
-  - Conflict-of-Interest Rules, 2005
-  - Institute For Local Government Publication
-  - Understanding the Basics of Public Service Ethics: Personal Financial Gain
-  - Laws, 2009
-  - Institute for Local Government Publication
-  - Understanding the Basics of Public Service Ethics: Transparency Laws, 2009
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Institute for Local Government
-  - Website
-  - Fair Political Practices Commission
-  - Website
-  - CSBA
+  - 105 Ops.Cal.Atty.Gen.69 (2022) - Attorney General Opinion
+  - 63 Ops.Cal.Atty.Gen. 868 (1980) - Attorney General Opinion
+  - 65 Ops.Cal.Atty.Gen. 606 (1982) - Attorney General Opinion
+  - 68 Ops.Cal.Atty.Gen. 171 (1985) - Attorney General Opinion
+  - 69 Ops.Cal.Atty.Gen. 255 (1986) - Attorney General Opinion
+  - 80 Ops.Cal.Atty.Gen. 320 (1997) - Attorney General Opinion
+  - 81 Ops.Cal.Atty.Gen. 327 (1998) - Attorney General Opinion
+  - 82 Ops.Cal.Atty.Gen. 83 (1999) - Attorney General Opinion
+  - 85 Ops.Cal.Atty.Gen. 60 (2002) - Attorney General Opinion
+  - 86 Ops.Cal.Atty.Gen. 138(2003) - Attorney General Opinion
+  - 89 Ops.Cal.Atty.Gen. 217 (2006) - Attorney General Opinion
+  - 92 Ops.Cal.Atty.Gen. 19 (2009) - Attorney General Opinion
+  - 92 Ops.Cal.Atty.Gen. 26 (2009) - Court Decision - Davis v. Fresno Unified School District (2015) 237 Cal.App.4th 261 - Court Decision - Klistoff v. Superior Court (2007) 157 Cal.App.4th 469 - Court Decision - Kunec v. Brea Redevelopment Agency (1997) 55 Cal.App.4th 511 - Court Decision - McGee v. Balfour Beatty Construction, LLC, et al. (2016) 247 Cal. App. 4th
+  - 235 - Court Decision - Thorpe v. Long Beach Community College District (2000) 83 Cal.App.4th
+  - 655 - CSBA Publication - Conflict of Interest: Overview of Key Issues for Governing Board Members, - Fact Sheet, July 2010 - Fair Political Practices Commission Publication - Advice Letter: A-96-314 (December 18, 1996) - Fair Political Practices Commission Publication - Can I Vote? A Basic Overview of Public Officials' Obligations Under the - Conflict-of-Interest Rules, 2005 - Institute For Local Government Publication - Understanding the Basics of Public Service Ethics: Personal Financial Gain - Laws, 2009 - Institute for Local Government Publication - Understanding the Basics of Public Service Ethics: Transparency Laws, 2009 - Website - CSBA District and County Office of Education Legal Services - Website - Institute for Local Government - Website - Fair Political Practices Commission - Website - CSBA
   - 49
+
+Cross References:
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3300 - Expenditures And Purchases
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3470 - Debt Issuance And Management
+  - 4112.8 - Employment Of Relatives
+  - 4117.2 - Resignation
+  - 4136 - Nonschool Employment
+  - 4236 - Nonschool Employment
+  - 4336 - Nonschool Employment
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 7140 - Architectural And Engineering Services
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9140 - Board Representatives
+  - 9200 - Limits Of Board Member Authority
+  - 9220 - Governing Board Elections
+  - 9222 - Resignation
+  - 9230 - Orientation
+  - 9320 - Meetings And Notices
+  - 9323 - Meeting Conduct
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3300 - Expenditures And Purchases
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3470 - Debt Issuance And Management
+  - 4112.8 - Employment Of Relatives
+  - 4117.2 - Resignation
+  - 4136 - Nonschool Employment
+  - 4236 - Nonschool Employment
+  - 4336 - Nonschool Employment
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 7140 - Architectural And Engineering Services
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9140 - Board Representatives
+  - 9200 - Limits Of Board Member Authority
+  - 9220 - Governing Board Elections
+  - 9222 - Resignation
+  - 9230 - Orientation
+  - 9320 - Meetings And Notices
+  - 9323 - Meeting Conduct

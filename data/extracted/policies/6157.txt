@@ -57,6 +57,4 @@ REFERENCES
 ================================================================================
 
 Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
   - 131

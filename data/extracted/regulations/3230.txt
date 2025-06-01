@@ -51,8 +51,7 @@ determined inadequate after solicitation of a number of sources. (2 CFR 200.320)
 6. Time and materials type contracts may be used only aBer a determinaAon that no other contract is suitable and if the
 contract includes a ceiling price that the contractor exceeds at its own risk. Time and materials type contract means a
 contract for which the cost is the sum of the actual cost of materials and direct labor hours charged at ﬁxed hourly
-Board Policy Manual
-Redwood City School District
+
 
 rates that reflect wages, general administrative expenses, and profit. (200.328)
 For any purchase of $25,000 or more, the Superintendent or designee shall verify that any vendor which is used to procure
@@ -103,7 +102,7 @@ incurred. The district may also request reimbursement as an alternative to recei
 The Superintendent or designee shall maintain source documentation supporting the expenditure of federal funds, such as
 invoices, time sheets, payroll stubs, or other appropriate documentation.
 
-Policy Reference Disclaimer:
+
 Personnel
 All district employees who are paid in full or in part with federal funds shall document the amount of time they spend on
 grant activities. Such records shall be incorporated into the official records of the district and shall be subject to a system of
@@ -135,40 +134,56 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 42122-42129
-  - Budget requirements
-  - Ed. Code 64001
-  - School plan for student achievement; consolidated application programs
+  - Ed. Code 42122-42129 - Budget requirements
+  - Ed. Code 64001 - School plan for student achievement; consolidated application programs
 
 Federal References:
-  - 2 CFR 180.220
-  - Amount of contract subject to suspension and debarment rules
-  - 2 CFR 200.0-200.521
-  - Federal uniform grant guidance
-  - 2 CFR 200.1-200.99
-  - Definitions
-  - 2 CFR 200.100-200.113
-  - General provisions
-  - 2 CFR 200.317-200.326
-  - Procurement standards
-  - 2 CFR 200.327-200.329
-  - Monitoring and reporting
-  - 2 CFR 200.333-200.337
-  - Record retention
-  - 2 CFR 200.400-200.475
-  - Cost principles
-  - 2 CFR 200.500-200.521
-  - Audit requirements
-  - 34 CFR 76.730-76.731
-  - Records related to federal grant programs
-  - 48 CFR 2.101
-  - Federal acquisition regulation; definitions
+  - 2 CFR 180.220 - Amount of contract subject to suspension and debarment rules
+  - 2 CFR 200.0-200.521 - Federal uniform grant guidance
+  - 2 CFR 200.1-200.99 - Definitions
+  - 2 CFR 200.100-200.113 - General provisions
+  - 2 CFR 200.317-200.326 - Procurement standards
+  - 2 CFR 200.327-200.329 - Monitoring and reporting
+  - 2 CFR 200.333-200.337 - Record retention
+  - 2 CFR 200.400-200.475 - Cost principles
+  - 2 CFR 200.500-200.521 - Audit requirements
+  - 34 CFR 76.730-76.731 - Records related to federal grant programs
+  - 48 CFR 2.101 - Federal acquisition regulation; definitions
   - 23
 
 Management Resources:
-  - California Department of Education Publication
-  - California Department of Education Audit Guide
-  - California Department of Education Publication
-  - California School Accounting Manual
-  - Education Audit Appeals Panel Publication
-  - Guide for Annual Audits of K-12 Local Education Agencies and
+  - Guide for Annual Audits of K-12 Local Education Agencies and State - Compliance Reporting - U.S. Department of Education Publication
+  - Questions and Answers Regarding 2 CFR Part 200 - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Government Accountability Office - Website - Office of Management and Budget, Uniform Guidance - Website - California State Controller - Website - System for Award Management (SAM) - Website - Education Audit Appeals Panel - Website - U.S. Department of Education - Website - California Department of Education
+
+Cross References:
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3300 - Expenditures And Purchases
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3312 - Contracts
+  - 3350 - Travel Expenses
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3440 - Inventories
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3512 - Equipment
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 6190 - Evaluation Of The Instructional Program
+  - 9270 - Conflict Of Interest

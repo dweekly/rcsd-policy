@@ -55,8 +55,7 @@ When disclosing to a member of the public any record that contains personal info
 to, an employee's home address, home telephone number, social security number, personal cell phone number, or
 birth date, the Superintendent or designee shall ensure that such personal information is redacted from that record.
 Confidential Public Records
-Board Policy Manual
-Redwood City School District
+
 
 Unless otherwise authorized or required by law, information regarding an individual's citizenship or immigration
 status or religious beliefs, practices, or affiliation shall not be disclosed to federal government authorities. (Education
@@ -169,8 +168,7 @@ own equipment on district premises to photograph or otherwise copy or reproduce 
 the means of copy or reproduction:
 1. Do not require the equipment to make physical contact with the record
 
-Policy Reference Disclaimer:
- 
+
 2. Will not result in damage to the record
  
 3. Will not result in unauthorized access to the district's computer systems or secured networks by using
@@ -215,121 +213,134 @@ deemed satisfied.
 Provisions of the Public Records Act shall not be construed so as to delay access for purposes of inspecting records
 open to the public. Any notification denying a request for public records shall state the name and title of each
 person responsible for the denial.
+These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
+for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
+of the policy.
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 430-438
-  - Individual student records
-  - CA Constitution Article 1, Section 3
-  - Right of access to governmental information
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 35145
-  - Public meetings
-  - Ed. Code 35170
-  - Authority to secure copyrights
-  - Ed. Code 35250
-  - Duty to keep certain records and reports
-  - Ed. Code 35266
-  - Cybersecurity
-  - Ed. Code 41020
-  - Requirement for annual audit
-  - Ed. Code 42103
-  - Budget notification
-  - Ed. Code 44031
-  - Personnel file contents and inspection
-  - Ed. Code 44839
-  - Medical certificates; periodic medical examination
-  - Ed. Code 49060-49079
-  - Student records
-  - Ed. Code 49091.10
-  - Parental review of curriculum and instruction
-  - Gov. Code 11549.3
-  - Office of Information Security
-  - Gov. Code 3547
-  - Proposals relating to representation
-  - Gov. Code 53262
-  - Employment contracts
-  - Gov. Code 54957.2
-  - Minute book record of closed sessions
-  - Gov. Code 54957.5
-  - Agendas and other writings distributed for discussion or consideration
-  - Gov. Code 6205-6210
-  - Address confidentiality; victims of domestic violence, sexual assault,
-  - stalking, human trafficking, child abduction, and elder and dependent adult
-  - abuse
-  - Gov. Code 6215-6216
-  - Address confidentiality; reproductive health care providers, employees,
-  - volunteers, patients, and other individuals who face threats or violence
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
-  - Gov. Code 81008
-  - Political Reform Act, public records; inspection and reproduction
-  - Gov. Code 8310.3
-  - California Religious Freedom Act
-  - Gov. Code 8550-8669.7
-  - California Emergency Services Act
-  - Gov. Code 8586.5
-  - Office of Emergency Services; California Cybersecurity Information Center
+  - 5 CCR 430-438 - Individual student records
+  - CA Constitution Article 1, Section 3 - Right of access to governmental information
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 35145 - Public meetings
+  - Ed. Code 35170 - Authority to secure copyrights
+  - Ed. Code 35250 - Duty to keep certain records and reports
+  - Ed. Code 35266 - Cybersecurity
+  - Ed. Code 41020 - Requirement for annual audit
+  - Ed. Code 42103 - Budget notification
+  - Ed. Code 44031 - Personnel file contents and inspection
+  - Ed. Code 44839 - Medical certificates; periodic medical examination
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 49091.10 - Parental review of curriculum and instruction
+  - Gov. Code 11549.3 - Office of Information Security
+  - Gov. Code 3547 - Proposals relating to representation
+  - Gov. Code 53262 - Employment contracts
+  - Gov. Code 54957.2 - Minute book record of closed sessions
+  - Gov. Code 54957.5 - Agendas and other writings distributed for discussion or consideration
+  - Gov. Code 6205-6210 - Address confidentiality; victims of domestic violence, sexual assault, - stalking, human trafficking, child abduction, and elder and dependent adult - abuse
+  - Gov. Code 6215-6216 - Address confidentiality; reproductive health care providers, employees, - volunteers, patients, and other individuals who face threats or violence
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
+  - Gov. Code 81008 - Political Reform Act, public records; inspection and reproduction
+  - Gov. Code 8310.3 - California Religious Freedom Act
+  - Gov. Code 8550-8669.7 - California Emergency Services Act
+  - Gov. Code 8586.5 - Office of Emergency Services; California Cybersecurity Information Center
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 34 CFR 99.1-99.8
-  - Family Educational Rights and Privacy Act
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 34 CFR 99.1-99.8 - Family Educational Rights and Privacy Act
 
 Management Resources:
-  - Attorney General Opinion
-  - 64 Ops.Cal.Atty.Gen. 186 (1981)
-  - Attorney General Opinion
-  - 71 Ops.Cal.Atty.Gen. 235 (1988)
-  - CA Office of the Attorney General Publication
-  - Promoting a Safe & Secure Learning Environment for All: Guidance & Model
+  - 64 Ops.Cal.Atty.Gen. 186 (1981) - Attorney General Opinion
+  - 71 Ops.Cal.Atty.Gen. 235 (1988) - CA Office of the Attorney General Publication - Promoting a Safe & Secure Learning Environment for All: Guidance & Model
   - Policies to Assist CA K-12 Schools in Responding to Immigration Issues,
-  - December 2024
-  - CA Office of the Attorney General Publication
-  - Summary of the California Public Records Act, August 2004
-  - CA Office of the Attorney General Publication
-  - California Department of Justice Guidelines for Access to Public Records,
+  - December 2024 - CA Office of the Attorney General Publication - Summary of the California Public Records Act, August 2004 - CA Office of the Attorney General Publication - California Department of Justice Guidelines for Access to Public Records,
   - October 2017
-  - 140
-  - Court Decision
-  - National Lawyers Guild, San Francisco Bay Area Chapter v. City of Hayward
-  - (2020) 9 Cal.5th 488
-  - Court Decision
-  - Sacramento County Employees' Retirement System v. Superior Court (2011)
-  - 195 Cal. App. 4th 440
-  - Court Decision
-  - Fairley v. Superior Court (1998) 66 Cal.App. 4th 1414
-  - Court Decision
-  - International Federation of Professional and Technical Engineers v. The
-  - Superior Court of Alameda County (2007) 42 Cal.4th 319
-  - Court Decision
-  - Kleitman v. Superior Court (1999) 74 Cal.App. 4th 324
-  - Court Decision
-  - Los Angeles County Board of Supervisors v. Superior Court (2016) 2 Cal.5th
-  - 282
-  - Court Decision
-  - Los Angeles Times v. Alameda Corridor Transportation Authority (2001) 88
-  - Cal.App.4th 1381
-  - Court Decision
-  - North County Parents Organization for Children with Special Needs v.
-  - Department of Education (1994) 23 Cal.App. 4th 144
-  - Court Decision
-  - City of San Jose v. Superior Court (2017) 2 Cal.5th 608
-  - CSBA Publication
-  - Legal Alert: Tips for Governing Boards in Response to Public Records Act
-  - Ruling on Electronic Communications, March 2017
-  - League of California Cities Publication
-  - The People's Business: A Guide to the California Public Records Act, rev.
-  - April 2017
-  - Website
-  - California Office of Emergency Services
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - League of California Cities
-  - Website
+  - 140 - Court Decision - National Lawyers Guild, San Francisco Bay Area Chapter v. City of Hayward - (2020) 9 Cal.5th 488 - Court Decision - Sacramento County Employees' Retirement System v. Superior Court (2011)
+  - 195 Cal. App. 4th 440 - Court Decision - Fairley v. Superior Court (1998) 66 Cal.App. 4th 1414 - Court Decision - International Federation of Professional and Technical Engineers v. The - Superior Court of Alameda County (2007) 42 Cal.4th 319 - Court Decision - Kleitman v. Superior Court (1999) 74 Cal.App. 4th 324 - Court Decision - Los Angeles County Board of Supervisors v. Superior Court (2016) 2 Cal.5th
+  - 282 - Court Decision - Los Angeles Times v. Alameda Corridor Transportation Authority (2001) 88
+  - Cal.App.4th 1381 - Court Decision - North County Parents Organization for Children with Special Needs v. - Department of Education (1994) 23 Cal.App. 4th 144 - Court Decision - City of San Jose v. Superior Court (2017) 2 Cal.5th 608 - CSBA Publication - Legal Alert: Tips for Governing Boards in Response to Public Records Act - Ruling on Electronic Communications, March 2017 - League of California Cities Publication - The People's Business: A Guide to the California Public Records Act, rev.
+  - April 2017 - Website - California Office of Emergency Services - Website - CSBA District and County Office of Education Legal Services - Website - League of California Cities - Website - State Bar of California - Website - California Office of the Attorney General - Website - CSBA
+
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 2121 - Superintendent's Contract
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3312 - Contracts
+  - 3320 - Claims And Actions Against The District
+  - 3320 - Claims And Actions Against The District
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3514.2 - Integrated Pest Management
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3543 - Transportation Safety And Emergencies
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4040 - Employee Use Of Technology
+  - 4112.5 - Criminal Record Check
+  - 4112.6 - Personnel Files
+  - 4117.5 - Termination Agreements
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4140 - Bargaining Units
+  - 4154 - Health And Welfare Benefits
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5125.3 - Challenging Student Records
+  - 5141.6 - School Health Services
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6163.1 - Library Media Centers
+  - 9010 - Public Statements
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9124 - Attorney
+  - 9200 - Limits Of Board Member Authority
+  - 9223 - Filling Vacancies
+  - 9270 - Conflict Of Interest
+  - 9310 - Board Policies
+  - 9320 - Meetings And Notices
+  - 9322 - Agenda/Meeting Materials
+  - 9324 - Minutes And Recordings

@@ -48,8 +48,7 @@ b.
  
 With the consent of the Board for an additional period not to exceed a total absence of 90 days or, in the 
 case of illness or other urgent necessity and upon a proper showing thereof, for more than 90 days
-Board Policy Manual
-Redwood City School District
+
 
  c. For federal military deployment, not to exceed an absence of a total of six months, as a member of the 
 armed forces of the United States or the California National Guard
@@ -181,8 +180,7 @@ The date of the occurrence of the vacancy or the date of the filing of, and the 
 The full name of the provisional appointee to the Board and the date of the provisional appointee's appointment
  
 
-Policy Reference Disclaimer:
- 
+
 4. 
  
 A statement notifying the voters that unless a petition calling for a special election pursuant to Education Code 
@@ -213,61 +211,45 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35107
-  - School district employees
-  - Ed. Code 35178
-  - Resignation with deferred effective date
-  - Ed. Code 5000-5033
-  - Election of school district board members
-  - Ed. Code 5090-5095
-  - Vacancies on the board
-  - Ed. Code 5200-5208
-  - Districts governed by boards of education
-  - Ed. Code 5300-5304
-  - General provisions; conduct of elections
-  - Ed. Code 5320-5329
-  - Order and call of elections
-  - Ed. Code 5340-5345
-  - Consolidation of elections
-  - Ed. Code 5360-5363
-  - Election notice
-  - Ed. Code 5420-5426
-  - Cost of elections
-  - Ed. Code 5440-5442
-  - Miscellaneous provisions
-  - Elec. Code 10600-10604
-  - School district elections
-  - Elec. Code 11000-11386
-  - Candidates for recall
-  - Gov. Code 1064
-  - Absence from state
-  - Gov. Code 1770
-  - Vacancy of office
+  - Ed. Code 35107 - School district employees
+  - Ed. Code 35178 - Resignation with deferred effective date
+  - Ed. Code 5000-5033 - Election of school district board members
+  - Ed. Code 5090-5095 - Vacancies on the board
+  - Ed. Code 5200-5208 - Districts governed by boards of education
+  - Ed. Code 5300-5304 - General provisions; conduct of elections
+  - Ed. Code 5320-5329 - Order and call of elections
+  - Ed. Code 5340-5345 - Consolidation of elections
+  - Ed. Code 5360-5363 - Election notice
+  - Ed. Code 5420-5426 - Cost of elections
+  - Ed. Code 5440-5442 - Miscellaneous provisions
+  - Elec. Code 10600-10604 - School district elections
+  - Elec. Code 11000-11386 - Candidates for recall
+  - Gov. Code 1064 - Absence from state
+  - Gov. Code 1770 - Vacancy of office
   - 39
-  - Gov. Code 3000-3003
-  - Forfeiture of office
-  - Gov. Code 3060-3075
-  - Removal other than by impeachment
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 6061
-  - Manner of notice as prescribed in designated section
-  - Pen. Code 88
-  - Crimes against legislative power
-  - State
+  - Gov. Code 3000-3003 - Forfeiture of office
+  - Gov. Code 3060-3075 - Removal other than by impeachment
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 6061 - Manner of notice as prescribed in designated section
+  - Pen. Code 88 - Crimes against legislative power
 
 Federal References:
-  - 18 USC 704
-  - Military medals or decorations
+  - 18 USC 704 - Military medals or decorations
 
 Management Resources:
-  - Attorney General Opinion
-  - 105 Ops.Cal.Atty.Gen. 182 (2022)
-  - Attorney General Opinion
-  - 58 Ops.Cal.Atty.Gen. 888 (1975)
-  - CSBA Publication
-  - Filling a Board Vacancy, rev. 2022
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California
+  - 105 Ops.Cal.Atty.Gen. 182 (2022) - Attorney General Opinion
+  - 58 Ops.Cal.Atty.Gen. 888 (1975) - CSBA Publication - Filling a Board Vacancy, rev. 2022 - Website - CSBA District and County Office of Education Legal Services - Website - California State Attorney General's Office, Quo Warranto Applications - Website - CSBA
+
+Cross References:
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 9100 - Organization
+  - 9110 - Terms Of Office
+  - 9130 - Board Committees
+  - 9220 - Governing Board Elections
+  - 9222 - Resignation
+  - 9224 - Oath Or Affirmation
+  - 9230 - Orientation
+  - 9323.2 - Actions By The Board

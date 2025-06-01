@@ -55,8 +55,7 @@ school.
 3. The method by which student progress in meeting those student outcomes is to be measured. To the extent
 practicable, the method for measuring student outcomes for state priorities shall be consistent with the way
 information is reported on a school accountability report card.
-Board Policy Manual
-Redwood City School District
+
 
 4. The governance structure of the school, including, but not limited to, the process to be followed by the school
 to ensure parent/guardian involvement.
@@ -173,7 +172,7 @@ independent study of the charter school.
 2. The charter school provides its primary educational services in, and a majority of the students it serves are
 residents of, the county in which the school is authorized.
 
-Policy Reference Disclaimer:
+
 The approval or denial of a charter petition shall not be controlled by collective bargaining agreements nor subject to
 review or regulation by the Public Employment Relations Board. (Education Code 47611.5)
 
@@ -182,87 +181,68 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11960-11969.10
-  - Charter schools
-  - Corp. Code 5110-6910
-  - Nonprofit public benefit corporations
-  - Ed. Code 1240
-  - County superintendent of schools; duties
-  - Ed. Code 17078.52-17078.66
-  - Charter schools facility funding; state bond proceeds
-  - Ed. Code 17280-17317
-  - Field Act; approval of plans and supervision of construction
-  - Ed. Code 17365-17374
-  - Field Act; fitness for occupancy; liability of board members
-  - Ed. Code 200
-  - Equal rights and opportunities in state educational institutions
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 33126
-  - School accountability report card
-  - Ed. Code 41365
-  - Charter school revolving loan fund
-  - Ed. Code 42131
-  - Interim certification
-  - Ed. Code 42238.02-42238.52
-  - Funding for charter districts
-  - Ed. Code 44237
-  - Criminal record summary
-  - Ed. Code 44830.1
-  - Certificated employees; conviction of a violent or serious felony
-  - Ed. Code 45122.1
-  - Classified employees; conviction of a violent or serious felony
-  - Ed. Code 46201
-  - Instructional minutes
+  - 5 CCR 11960-11969.10 - Charter schools
+  - Corp. Code 5110-6910 - Nonprofit public benefit corporations
+  - Ed. Code 1240 - County superintendent of schools; duties
+  - Ed. Code 17078.52-17078.66 - Charter schools facility funding; state bond proceeds
+  - Ed. Code 17280-17317 - Field Act; approval of plans and supervision of construction
+  - Ed. Code 17365-17374 - Field Act; fitness for occupancy; liability of board members
+  - Ed. Code 200 - Equal rights and opportunities in state educational institutions
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 33126 - School accountability report card
+  - Ed. Code 41365 - Charter school revolving loan fund
+  - Ed. Code 42131 - Interim certification
+  - Ed. Code 42238.02-42238.52 - Funding for charter districts
+  - Ed. Code 44237 - Criminal record summary
+  - Ed. Code 44830.1 - Certificated employees; conviction of a violent or serious felony
+  - Ed. Code 45122.1 - Classified employees; conviction of a violent or serious felony
+  - Ed. Code 46201 - Instructional minutes
   - Ed. Code 47600-47616.7
   - Charter Schools Act of 1992
-  - Ed. Code 47640-47647
-  - Special education funding for charter schools
-  - Ed. Code 47650-47655
-  - Funding of charter schools
-  - Ed. Code 49011
-  - Student fees; definition
-  - Ed. Code 51744-51749.6
-  - Independent study
-  - Ed. Code 51745
-  - Independent study
-  - Ed. Code 52052
-  - Accountability; numerically significant student subgroups
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 56026
-  - Special education
-  - Ed. Code 56145-56146
-  - Special education services in charter schools
-  - Gov. Code 1090-1099
-  - Prohibitions applicable to specified officers
-  - Gov. Code 3540-3549.3
-  - Educational Employment Relations Act
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
-  - Gov. Code 81000-91014
-  - Political Reform Act
-  - W&I Code 224.1
-  - Indian child; definition
+  - Ed. Code 47640-47647 - Special education funding for charter schools
+  - Ed. Code 47650-47655 - Funding of charter schools
+  - Ed. Code 49011 - Student fees; definition
+  - Ed. Code 51744-51749.6 - Independent study
+  - Ed. Code 51745 - Independent study
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 56026 - Special education
+  - Ed. Code 56145-56146 - Special education services in charter schools
+  - Gov. Code 1090-1099 - Prohibitions applicable to specified officers
+  - Gov. Code 3540-3549.3 - Educational Employment Relations Act
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
+  - Gov. Code 81000-91014 - Political Reform Act - W&I Code 224.1 - Indian child; definition
 
 Federal References:
-  - 20 USC 7221-7221j
-  - Charter schools
+  - 20 USC 7221-7221j - Charter schools
   - 44
 
 Management Resources:
-  - Attorney General Opinion
-  - 101 Ops.Cal.Atty.Gen. 92 (2018)
-  - Attorney General Opinion
-  - 78 Ops.Cal.Atty.Gen. 297 (1995)
-  - Attorney General Opinion
-  - 89 Ops.Cal.Atty.Gen. 166 (2006)
-  - Attorney General Opinion
-  - 80 Ops.Cal.Atty.Gen. 52 (1997)
-  - California Charter Authorizing Professionals Pub. Memorandum of Understanding (MOU) Resource, September 2022
-  - Court Decision
-  - Napa Unified School District v. California
+  - 101 Ops.Cal.Atty.Gen. 92 (2018) - Attorney General Opinion
+  - 78 Ops.Cal.Atty.Gen. 297 (1995) - Attorney General Opinion
+  - 89 Ops.Cal.Atty.Gen. 166 (2006) - Attorney General Opinion
+  - 80 Ops.Cal.Atty.Gen. 52 (1997) - California Charter Authorizing Professionals Pub. Memorandum of Understanding (MOU) Resource, September 2022 - Court Decision - Napa Unified School District v. California State Board of Education, Case
+  - No. 34-2022-80004051 - Court Decision - CSBA’S Education Legal Alliance v. California State Board of Education,
+  - Case No. 34-2018-80002834 - Court Decision - Ridgecrest Charter School v. Sierra Sands Unified School District (2005) 130
+  - Cal.App.4th 986 - CSBA Publication - Uncharted Waters: Recommendations for Prioritizing Student Achievement - and Effective Governance in California's Charter Schools, September 2018 - CSBA Publication - Charter Schools: A Guide for Governance Teams, rev. February 2016 - CSBA Publication - Charter Schools and Board Member Responsibilities, Education Insights - Legal Update Webcast, March 2016 - CSBA Publication - Charter Schools in Focus, Issue 1: Managing the Petition Review Process, - Governance Brief, November 2016 - U.S. Department of Education Publication - Charter Schools Program: Title V, Part B of the ESEA, Nonregulatory - Guidance, January 2014 - U.S. Department of Education Publication - Dear Colleague Letter: Guidance Regarding the Oversight of Charter - Schools Program and Regulatory Requirements, August 2016 - Website - CSBA District and County Office of Education Legal Services - Website - National Association of Charter School Authorizers - Website - California Charter Schools Association - Website - California Department of Education, Charter Schools - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0420.42 - Charter School Renewal
+  - 0420.43 - Charter School Revocation
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0510 - School Accountability Report Card
+  - 2230 - Representative And Deliberative Groups
+  - 4116 - Probationary/Permanent Status
+  - 4116 - Probationary/Permanent Status
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 7160 - Charter School Facilities
+  - 7160 - Charter School Facilities
+  - 9320 - Meetings And Notices

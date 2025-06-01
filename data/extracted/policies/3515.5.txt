@@ -36,54 +36,43 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32211
-  - Threatened disruption or interference with classes
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 48981
-  - Parental notifications
-  - Ed. Code 48985
-  - Translation of notifications
-  - Pen. Code 290
-  - Registration of sex offenders
-  - Pen. Code 290.024
-  - Internet identifiers; definition
-  - Pen. Code 290.4
-  - Information regarding sex offenders
-  - Pen. Code 290.45
-  - Sex offenders; authority of peace officers to provide information
-  - Pen. Code 290.46
-  - Making information about certain sex offenders available via the Internet
-  - Pen. Code 290.9
-  - Addresses of persons who violate duty to register
-  - Pen. Code 290.95
-  - Disclosure by person required to register as sex offender
-  - Pen. Code 3003
-  - Parole; geographic placement
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 32211 - Threatened disruption or interference with classes
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 48981 - Parental notifications
+  - Ed. Code 48985 - Translation of notifications
+  - Pen. Code 290 - Registration of sex offenders
+  - Pen. Code 290.024 - Internet identifiers; definition
+  - Pen. Code 290.4 - Information regarding sex offenders
+  - Pen. Code 290.45 - Sex offenders; authority of peace officers to provide information
+  - Pen. Code 290.46 - Making information about certain sex offenders available via the Internet
+  - Pen. Code 290.9 - Addresses of persons who violate duty to register
+  - Pen. Code 290.95 - Disclosure by person required to register as sex offender
+  - Pen. Code 3003 - Parole; geographic placement - Board Policy Manual - Redwood City School District
   - 205
-  - Pen. Code 626.8
-  - Disruptions
-  - Pen. Code 626.81
-  - Sex offender; permission to volunteer at school
-  - Pen. Code 830.32
-  - School district and community college police
-  - State
+  - Pen. Code 626.8 - Disruptions
+  - Pen. Code 626.81 - Sex offender; permission to volunteer at school
+  - Pen. Code 830.32 - School district and community college police
 
 Federal References:
-  - 42 USC 14071
-  - Jacob Wetterling Crimes Against Children and Sexually Violent Offender
-  - Registration Program Act
+  - 42 USC 14071 - Jacob Wetterling Crimes Against Children and Sexually Violent Offender - Registration Program Act
 
 Management Resources:
-  - Attorney General Opinion
-  - 82 Ops.Cal.Atty.Gen. 20 (1999)
-  - Website
-  - U.S. Department of Justice, Sex Offender Registration and Notification Act
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Justice, Megan's Law
+  - 82 Ops.Cal.Atty.Gen. 20 (1999) - Website - U.S. Department of Justice, Sex Offender Registration and Notification Act - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Justice, Megan's Law
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 4231 - Staff Development
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5145.6 - Parent/Guardian Notifications

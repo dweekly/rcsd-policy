@@ -58,10 +58,9 @@ Maintenance staff shall be trained in the location, identification, proper clean
 asbestos-containing materials and in the removal and decontamination of small amounts of such materials when
 needed to repair pipes or perform similar duties. Extensive asbestos abatement work shall be completed by state-
 certified asbestos abatement contractors in compliance with state and federal standards.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 The district's complete, updated management plan for material containing asbestos in school buildings shall be
 available for inspection in district and school offices during normal business hours. Parent, teacher and employee
 organizations shall annually be informed of the availability of this plan. (40 CFR 763.93)
@@ -79,86 +78,102 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 13 CCR 2025
-  - Retrofitting of diesel school buses
-  - 13 CCR 2480
-  - Vehicle idling; limitations
-  - 17 CCR 35001-36100
-  - Lead abatement services
-  - 22 CCR 64670-64672.6
-  - Lead and copper in drinking water
-  - 22 CCR 64673-64674
-  - Water System Requirements
-  - 22 CCR 64675-64679
-  - Monitoring for Lead and Copper
-  - 24 CCR 915.1-915.7
-  - California Building Standards Code; carbon monoxide devices
-  - 5 CCR 14010
-  - Procedure for site acquisition
-  - 8 CCR 1528-1537
-  - Construction safety orders; exposure to hazards
-  - 8 CCR 337-339
-  - Hazardous substances list
-  - 8 CCR 340-340.2
-  - Occupational safety and health; rights of employees
-  - 8 CCR 5139-5223
-  - Control of hazardous substances
-  - Ed. Code 17002
-  - State School Building Lease-Purchase Law, including definition of good
-  - repair
-  - Ed. Code 17070.75
-  - Facilities inspection
-  - Ed. Code 17582
-  - District deferred maintenance fund
-  - Ed. Code 17590
-  - Asbestos abatement fund
+  - 13 CCR 2025 - Retrofitting of diesel school buses
+  - 13 CCR 2480 - Vehicle idling; limitations
+  - 17 CCR 35001-36100 - Lead abatement services
+  - 22 CCR 64670-64672.6 - Lead and copper in drinking water
+  - 22 CCR 64673-64674 - Water System Requirements
+  - 22 CCR 64675-64679 - Monitoring for Lead and Copper
+  - 24 CCR 915.1-915.7 - California Building Standards Code; carbon monoxide devices
+  - 5 CCR 14010 - Procedure for site acquisition
+  - 8 CCR 1528-1537 - Construction safety orders; exposure to hazards
+  - 8 CCR 337-339 - Hazardous substances list
+  - 8 CCR 340-340.2 - Occupational safety and health; rights of employees
+  - 8 CCR 5139-5223 - Control of hazardous substances
+  - Ed. Code 17002 - State School Building Lease-Purchase Law, including definition of good - repair
+  - Ed. Code 17070.75 - Facilities inspection
+  - Ed. Code 17582 - District deferred maintenance fund
+  - Ed. Code 17590 - Asbestos abatement fund
   - Ed. Code 17608-17614
   - Healthy Schools Act of 2000
-  - Ed. Code 32080-32081
-  - Carbon monoxide devices
-  - Ed. Code 32240-32245
-  - Lead-Safe Schools Protection Act
-  - Ed. Code 48980.3
-  - Notification of pesticide use
-  - Ed. Code 49410-49410.7
-  - Asbestos materials containment or removal
-  - F&A Code 11401-12408
-  - Pest control operations and agricultural chemicals
-  - F&A Code 13180-13188
+  - Ed. Code 32080-32081 - Carbon monoxide devices
+  - Ed. Code 32240-32245 - Lead-Safe Schools Protection Act
+  - Ed. Code 48980.3 - Notification of pesticide use
+  - Ed. Code 49410-49410.7 - Asbestos materials containment or removal - F&A Code 11401-12408 - Pest control operations and agricultural chemicals - F&A Code 13180-13188
   - Healthy Schools Act of 2000
-  - Gov. Code 3543.2
-  - Scope of representation
-  - H&S Code 105400-105430
-  - Indoor environmental quality
-  - H&S Code 113700-114437
-  - California Retail Food Code; sanitation and safety requirements
-  - H&S Code 116277
-  - Lead testing of potable water at schools and requirements to remedy
+  - Gov. Code 3543.2 - Scope of representation - H&S Code 105400-105430 - Indoor environmental quality - H&S Code 113700-114437 - California Retail Food Code; sanitation and safety requirements - H&S Code 116277 - Lead testing of potable water at schools and requirements to remedy
   - 173
 
 Federal References:
-  - 15 USC 2601-2629
-  - Control of toxic substances
-  - 15 USC 2641-2656
-  - Asbestos Hazard Emergency Response Act
-  - 40 CFR 141.1-141.723
-  - Drinking water standards
-  - 40 CFR 745.61-745.339
-  - Lead-based paint standards
-  - 40 CFR 763.120-763.123
-  - Asbestos worker protections
-  - 40 CFR 763.80-763.99
-  - Asbestos-containing materials in schools
-  - 42 USC 1758
-  - Food safety and inspections
-  - 7 USC 136-136y
-  - Use of pesticides
+  - 15 USC 2601-2629 - Control of toxic substances
+  - 15 USC 2641-2656 - Asbestos Hazard Emergency Response Act
+  - 40 CFR 141.1-141.723 - Drinking water standards
+  - 40 CFR 745.61-745.339 - Lead-based paint standards
+  - 40 CFR 763.120-763.123 - Asbestos worker protections
+  - 40 CFR 763.80-763.99 - Asbestos-containing materials in schools
+  - 42 USC 1758 - Food safety and inspections
+  - 7 USC 136-136y - Use of pesticides
 
 Management Resources:
-  - CA DHS Publication
-  - Report to the Legislature: Lead Hazards in California's Public Elementary
-  - Schools and Child Care Facilities, April 1998
-  - CA EPA: Air Resources Board Publication
-  - Facts about Truck and Bus Regulation School Bus Provisions, rev. March 22,
-  - 2011
-  - CA
+  - 2011 - CA State Water Res. Control Board Pub. - FAQ about Lead Testing of Drinking Water in CA Schools; Updated for
+  - Assembly Bill 746/Health and Safety Code 116277, December 15, 2017 - California Department of Education Publication - School Site Selection and Approval Guide, 2000 - California Department of Education Publication - Indoor Air Quality, A Guide for Educators, 1995 - CSBA Publication - Food Safety Requirements, Fact Sheet, October 2007 - CSBA Publication - Sun Safety in Schools, Policy Brief, July 2006 - CSBA Publication - Indoor Air Quality: Governing Board Actions for Creating Healthy School - Environments, Policy Brief, July 2008 - CSBA Publication - Asthma Management in the Schools, Policy Brief, March 2008 - Division of the State Architect Publication
+  - K-12 Occupancy Classification and Load Factors, IR A-26, rev. April 18,
+  - 2012 - U.S. EPA Publication - A Citizen's Guide to Radon: The Guide to Protecting Yourself and Your - Family from Radon, 2016 - U.S. EPA Publication - Mold Remediation in Schools and Commercial Buildings, September 2008 - U.S. EPA Publication - Healthy School Environments Assessment Tool, rev. 2015 - U.S. EPA Publication - How to Manage Asbestos in School Buildings: AHERA Designated Person's - Self-Study Guide, 1996 - U.S. EPA Publication - Indoor Air Quality Tools for Schools, rev. 2009 - U.S. EPA Publication - The ABCs of Asbestos in Schools, rev. August 2003 - Website - CSBA District and County Office of Education Legal Services - Website - National Center for Environmental Health - Website - California State Water Resources Control Board - Website - Centers for Disease Control and Prevention - Website - Consumer Product Safety Commission - Website - AirNow - Website - California Building Standards - Website - California Department of Education, Health and Safety - Website - California Department of Pesticide Regulation
+  - 174 - Website - California Air Resources Board Zero Emission School Bus and Infrastructure - Program - Website - U.S. Department of Labor, Occupational Safety and Health Administration - Website - U.S. Environmental Protection Agency - Website - American Association of School Administrators - Website - California Department of Public Health - Website - CSBA
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0400 - Comprehensive Plans
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3000 - Concepts And Roles
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3514.2 - Integrated Pest Management
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.3 - Earthquake Emergency Procedure System
+  - 3516.5 - Emergency Schedules
+  - 3517 - Facilities Inspection
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 3541.1 - Transportation For School-Related Trips
+  - 3542 - School Bus Drivers
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.9 - Employee Notifications
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.6 - School Health Services
+  - 5141.7 - Sun Safety
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5145.6 - Parent/Guardian Notifications
+  - 6142.5 - Environmental Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School

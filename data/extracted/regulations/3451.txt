@@ -22,17 +22,14 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35250
-  - Duty to keep certain records
-  - Ed. Code 41020
-  - Requirement for annual audit
-  - Ed. Code 42800-42810
-  - Revolving funds
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35250 - Duty to keep certain records
+  - Ed. Code 41020 - Requirement for annual audit
+  - Ed. Code 42800-42810 - Revolving funds
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Association of School Business Officials
+Cross References:
+  - 3314.2 - Revolving Funds
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability

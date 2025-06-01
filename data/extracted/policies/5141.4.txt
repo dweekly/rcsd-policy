@@ -48,10 +48,9 @@ EDUCATION CODE
 51220.5 Parenting skills education
 51900.6 Sexual abuse and sexual assault awareness and prevention instruction CODE OF CIVIL PROCEDURE
 340.1 Damages suffered as a result of childhood sexual abuse PENAL CODE
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 152.3 Duty to report murder, rape, or lewd or lascivious act
 273a Willfully causing unjustifiable pain or mental suffering of child; endangering life or health
 286. Crime of sodomy
@@ -78,81 +77,76 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 3200-3205
-  - Special education compliance complaints
-  - Code of Civil Procedure 340.1
-  - Damages suffered as result of childhood sexual abuse
-  - Ed. Code 215.5
-  - Student identification cards; inclusion of safety hotlines
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 33133.5
-  - Posters of telephone number for students to report child abuse or neglect
-  - Ed. Code 33195
-  - Heritage schools; mandated reporters
-  - Ed. Code 33308.1
-  - Guidelines on procedure for filing child abuse complaints
-  - Ed. Code 44252
-  - Teacher credentialing
-  - Ed. Code 44691
-  - Staff development in the detection of child abuse and neglect
-  - Ed. Code 44807
-  - Teachers' duty concerning conduct of students
-  - Ed. Code 48906
-  - Notification when student released to peace officer
-  - Ed. Code 48987
-  - Dissemination of reporting guidelines to parents
-  - Ed. Code 49001
-  - Prohibition of corporal punishment
-  - Ed. Code 51220.5
-  - Parenting skills education
-  - Ed. Code 51900.6
-  - Sexual abuse and sexual assault awareness and prevention instruction
-  - Pen. Code 11164-11174.3
-  - Child Abuse and Neglect Reporting Act
-  - Pen. Code 152.3
-  - Duty to report murder, rape, or lewd or lascivious act
-  - Pen. Code 273a
-  - Willfully causing unjustifiable pain or mental suffering of child; endangering
-  - life or health
-  - Pen. Code 286
-  - Crime of sodomy
-  - Pen. Code 288
-  - Crime of oral copulation
-  - Pen. Code 288
-  - Definition of lewd or lascivious act requiring reporting
+  - 5 CCR 3200-3205 - Special education compliance complaints
+  - Code of Civil Procedure 340.1 - Damages suffered as result of childhood sexual abuse
+  - Ed. Code 215.5 - Student identification cards; inclusion of safety hotlines
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 33133.5 - Posters of telephone number for students to report child abuse or neglect
+  - Ed. Code 33195 - Heritage schools; mandated reporters
+  - Ed. Code 33308.1 - Guidelines on procedure for filing child abuse complaints
+  - Ed. Code 44252 - Teacher credentialing
+  - Ed. Code 44691 - Staff development in the detection of child abuse and neglect
+  - Ed. Code 44807 - Teachers' duty concerning conduct of students
+  - Ed. Code 48906 - Notification when student released to peace officer
+  - Ed. Code 48987 - Dissemination of reporting guidelines to parents
+  - Ed. Code 49001 - Prohibition of corporal punishment
+  - Ed. Code 51220.5 - Parenting skills education
+  - Ed. Code 51900.6 - Sexual abuse and sexual assault awareness and prevention instruction
+  - Pen. Code 11164-11174.3 - Child Abuse and Neglect Reporting Act
+  - Pen. Code 152.3 - Duty to report murder, rape, or lewd or lascivious act
+  - Pen. Code 273a - Willfully causing unjustifiable pain or mental suffering of child; endangering - life or health
+  - Pen. Code 286 - Crime of sodomy
+  - Pen. Code 288 - Crime of oral copulation
+  - Pen. Code 288 - Definition of lewd or lascivious act requiring reporting
   - 276
-  - Pen. Code 289
-  - Crime of sexual penetration
-  - W&I Code 15630-15637
-  - Dependent adult abuse reporting
-  - State
+  - Pen. Code 289 - Crime of sexual penetration - W&I Code 15630-15637 - Dependent adult abuse reporting
 
 Federal References:
-  - 42 USC 11434a
-  - McKinney-Vento Homeless Assistance Act; definitions
+  - 42 USC 11434a - McKinney-Vento Homeless Assistance Act; definitions
 
-Management Resources:
-  - California Department of Education Publication
-  - Health Education Framework for California Public Schools, Kindergarten
-  - Through Grade Twelve, May 2019
-  - California Department of Education Publication
-  - Health Education Content Standards for California Public Schools:
-  - Kindergarten Through Grade Twelve, 2008
-  - Court Decision
-  - Camreta v. Greene (2011) 131 S.Ct. 2020
-  - CSBA Publication
-  - Why Schools Hold the Promise for Adolescent Mental Health, Governance
-  - Brief, May 2019
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Social Services, Information Resources Guide
-  - Website
-  - California Department of Education, Child Abuse Prevention Training and
-  - Resources
-  - Website
-  - U.S. Department of Health and Human Services, Child Welfare Information
-  - Gateway
-  - Website
-  - California Attorney General's Office, Suspected Child Abuse Report Form
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3320 - Claims And Actions Against The District
+  - 3320 - Claims And Actions Against The District
+  - 4112.6 - Personnel Files
+  - 4112.9 - Employee Notifications
+  - 4119.21 - Professional Standards
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 5131 - Conduct
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5141.5 - Mental Health
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.6 - School Health Services
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams

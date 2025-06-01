@@ -45,52 +45,55 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35291
-  - Governing board to prescribe rules for discipline of the schools
-  - Ed. Code 48902
-  - Mandatory notification of law enforcement authorities
-  - Ed. Code 48915
-  - Required recommendation for expulsions
-  - Ed. Code 48916
-  - Readmission
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 49330-49335
-  - Injurious objects
-  - Ed. Code 49390-49395
-  - Homicide threats
-  - Pen. Code 16100-17360
-  - Definitions
-  - Pen. Code 22810-23025
-  - Tear gas weapon (pepper spray)
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 35291 - Governing board to prescribe rules for discipline of the schools
+  - Ed. Code 48902 - Mandatory notification of law enforcement authorities
+  - Ed. Code 48915 - Required recommendation for expulsions
+  - Ed. Code 48916 - Readmission
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 49330-49335 - Injurious objects
+  - Ed. Code 49390-49395 - Homicide threats
+  - Pen. Code 16100-17360 - Definitions
+  - Pen. Code 22810-23025 - Tear gas weapon (pepper spray) - Board Policy Manual - Redwood City School District
   - 186
-  - Pen. Code 245
-  - Assault with deadly weapon
-  - Pen. Code 25200-25225
-  - Firearms; access to children
-  - Pen. Code 30310
-  - Prohibition against ammunition on school grounds
-  - Pen. Code 417.4
-  - Imitation firearm; drawing or exhibiting
-  - Pen. Code 626.10
-  - Dirks, daggers, knives, razor or stun gun; bringing or possessing in school
+  - Pen. Code 245 - Assault with deadly weapon
+  - Pen. Code 25200-25225 - Firearms; access to children
+  - Pen. Code 30310 - Prohibition against ammunition on school grounds
+  - Pen. Code 417.4 - Imitation firearm; drawing or exhibiting
+  - Pen. Code 626.10 - Dirks, daggers, knives, razor or stun gun; bringing or possessing in school
   - Pen. Code 626.9
   - Gun-Free School Zone Act of 1995
-  - State
 
 Federal References:
-  - 20 USC 6301-8961
-  - No Child Left Behind Act
-  - 20 USC 7961
-  - Gun-Free Schools Act
-  - 6 USC 665k
-  - Federal Clearinghouse on School Safety Evidence-Based Practices
+  - 20 USC 6301-8961 - No Child Left Behind Act
+  - 20 USC 7961 - Gun-Free Schools Act
+  - 6 USC 665k - Federal Clearinghouse on School Safety Evidence-Based Practices
 
-Management Resources:
-  - CSBA Publication
-  - Safe Schools: Strategies for Governing Boards to Ensure Student Success,
-  - Third Edition, October 2011
-  - U.S. Department of Education Publication
-  - Guidance Concerning
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1313 - Civility
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3516.2 - Bomb Threats
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131 - Conduct
+  - 5131.41 - Use Of Seclusion And Restraint
+  - 5136 - Gangs
+  - 5136 - Gangs
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.12 - Search And Seizure
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

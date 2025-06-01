@@ -53,10 +53,9 @@ and from school (Education Code 39801.5)
 9. Private school students, in the same manner and on the same routes provided for district students (Education
 Code 39808)
  
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 10. Nonschool purposes as allowed by law, such as:
  
 a. Community recreation (Education Code 39835)
@@ -76,63 +75,61 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 15240-15244
-  - Allowances for student transportation; definitions
-  - Ed. Code 10900.5
-  - Use of school buses for community recreation
-  - Ed. Code 35330
-  - Field trips and excursions; student fees
-  - Ed. Code 35350
-  - Authority to transport pupils
-  - Ed. Code 39800
-  - Powers of governing board to provide transportation to and from school
-  - Ed. Code 39800-39809.5
-  - Transportation; general provisions
-  - Ed. Code 39801.5
-  - Transportation for adults
-  - Ed. Code 39808
-  - Transportation for private school students
-  - Ed. Code 39830-39843
-  - School buses
-  - Ed. Code 39835
-  - Use of school buses for community recreation
-  - Ed. Code 39837
-  - Transportation to summer employment program
-  - Ed. Code 39837.5
-  - Transportation of employees, parents/guardians, and adult volunteers to
-  - school activities
-  - Ed. Code 39860
-  - Transportation to school activities
-  - Ed. Code 41850-41851.1
-  - Allowances for transportation
-  - Ed. Code 41860-41863
-  - Supplementary allowances for transportation
-  - Ed. Code 48853.5
-  - Education of foster youth; immediate enrollment
+  - 5 CCR 15240-15244 - Allowances for student transportation; definitions
+  - Ed. Code 10900.5 - Use of school buses for community recreation
+  - Ed. Code 35330 - Field trips and excursions; student fees
+  - Ed. Code 35350 - Authority to transport pupils
+  - Ed. Code 39800 - Powers of governing board to provide transportation to and from school
+  - Ed. Code 39800-39809.5 - Transportation; general provisions
+  - Ed. Code 39801.5 - Transportation for adults
+  - Ed. Code 39808 - Transportation for private school students
+  - Ed. Code 39830-39843 - School buses
+  - Ed. Code 39835 - Use of school buses for community recreation
+  - Ed. Code 39837 - Transportation to summer employment program
+  - Ed. Code 39837.5 - Transportation of employees, parents/guardians, and adult volunteers to - school activities
+  - Ed. Code 39860 - Transportation to school activities
+  - Ed. Code 41850-41851.1 - Allowances for transportation
+  - Ed. Code 41860-41863 - Supplementary allowances for transportation
+  - Ed. Code 48853.5 - Education of foster youth; immediate enrollment
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 20 USC 6312
-  - Local educational agency plan
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 20 USC 6312 - Local educational agency plan
   - 34 CFR 104.4
   - Equal opportunity under the Rehabilitation Act of 1973, Section 504
-  - 34 CFR 300.17
-  - Free appropriate public education
-  - 34 CFR 300.34
-  - Related services
-  - 42 USC 11432
-  - McKinney-Vento Homeless Assistance Act
+  - 34 CFR 300.17 - Free appropriate public education
+  - 34 CFR 300.34 - Related services
+  - 42 USC 11432 - McKinney-Vento Homeless Assistance Act
 
 Management Resources:
-  - CSBA Publication
-  - Special Education Pupil Transportation: Considerations in the Era of LCFF,
-  - Governance Brief, April 2014
-  - 248
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Office of School Transportation
-  - Website
-  - Pupil Transportation Safety Institute
-  - Management Resources
+  - 248 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Office of School Transportation - Website - Pupil Transportation Safety Institute
+
+Cross References:
+  - 1112 - Media Relations
+  - 3250 - Transportation Fees
+  - 3250 - Transportation Fees
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541.1 - Transportation For School-Related Trips
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3542 - School Bus Drivers
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4231 - Staff Development
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5117 - Interdistrict Attendance
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6154 - Homework/Makeup Work
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth

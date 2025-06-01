@@ -37,28 +37,65 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 41030-41037
-  - Gifts and bequests
-  - Ed. Code 51760-51769.5
-  - Work experience education
-  - Ed. Code 52300-52462
-  - Career technical education
-  - Ed. Code 8070
-  - Career technical education advisory committee
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 41030-41037 - Gifts and bequests
+  - Ed. Code 51760-51769.5 - Work experience education
+  - Ed. Code 52300-52462 - Career technical education
+  - Ed. Code 8070 - Career technical education advisory committee
 
 Federal References:
   - 20 USC 2301-2414
   - Strengthening Career and Technical Education for the 21st Century Act
-  - 20 USC 2354
-  - Local application for career technical education; business involvement
+  - 20 USC 2354 - Local application for career technical education; business involvement
 
 Management Resources:
-  - Council for Corporate & School Partnerships Pub. A How-To Guide for School-Business Partnerships
-  - CSBA Publication
-  - School-Based Marketing of Foods and Beverages: Policy Implications for
-  - School Boards, Policy Brief, March 2006
-  - Nat'l. Assoc. of
+  - 150 - Website - California Consortium of Education Foundations - Website - California Department of Education, Parents/Family and Community - Website - Council for Corporate and School Partnerships - Website - National Association of State Boards of Education - Website - CSBA
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1150 - Commendations And Awards
+  - 1150 - Commendations And Awards
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1260 - Educational Foundation
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 3290 - Gifts, Grants And Bequests
+  - 3312 - Contracts
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5030 - Student Wellness
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5145.9 - Hate-Motivated Behavior
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.3 - Civic Education
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6154 - Homework/Makeup Work
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6177 - Summer Learning Programs
+  - 9000 - Role Of The Board
+  - 9140 - Board Representatives
+  - 9270 - Conflict Of Interest

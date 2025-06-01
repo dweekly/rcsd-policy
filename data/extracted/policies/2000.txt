@@ -33,43 +33,30 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35020
-  - Duties of employees fixed by governing board
-  - Ed. Code 35026
-  - Employment of district superintendent by certain district
-  - Ed. Code 35028
-  - Qualifications for employment
-  - Ed. Code 35029
-  - Waiver of credential requirements
-  - Ed. Code 35031
-  - Term of employment
-  - Ed. Code 35033
-  - District superintendent for certain districts
-  - Ed. Code 35034
-  - District superintendent of certain districts
-  - Ed. Code 35035
-  - Powers and duties of the superintendent; transfer authority
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 35161
-  - Board delegation of any powers or duties
+  - Ed. Code 35020 - Duties of employees fixed by governing board
+  - Ed. Code 35026 - Employment of district superintendent by certain district
+  - Ed. Code 35028 - Qualifications for employment
+  - Ed. Code 35029 - Waiver of credential requirements
+  - Ed. Code 35031 - Term of employment
+  - Ed. Code 35033 - District superintendent for certain districts
+  - Ed. Code 35034 - District superintendent of certain districts
+  - Ed. Code 35035 - Powers and duties of the superintendent; transfer authority
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 35161 - Board delegation of any powers or duties
 
-Management Resources:
-  - CSBA Publication
-  - Professional Governance Standards
-  - CSBA Publication
-  - Superintendent Governance Standards
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - American Association of School Administrators
-  - Website
-  - Association of California School Administrators
-  - Board Policy Manual
-  - Redwood City School District
-  - 3
-  - Website
-  - CSBA
-  - Management Resources
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 2110 - Superintendent Responsibilities And Duties
+  - 2111 - Superintendent Governance Standards
+  - 2120 - Superintendent Recruitment And Selection
+  - 2140 - Evaluation Of The Superintendent
+  - 2230 - Representative And Deliberative Groups
+  - 4300 - Administrative And Supervisory Personnel
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9310 - Board Policies
+  - 9320 - Meetings And Notices

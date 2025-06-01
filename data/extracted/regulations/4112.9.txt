@@ -57,162 +57,148 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 13 CCR 1234
-  - Reports regarding school buses and bus drivers
-  - 13 CCR 2480
-  - Vehicle idling; limitations
-  - Board Policy Manual
-  - Redwood City School District
+  - 13 CCR 1234 - Reports regarding school buses and bus drivers
+  - 13 CCR 2480 - Vehicle idling; limitations - Board Policy Manual - Redwood City School District
   - 73
-  - 2 CCR 11023
-  - Harassment and discrimination prevention and correction
-  - 2 CCR 11035-11051
-  - Unlawful sex discrimination; pregnancy, childbirth, and related medical
-  - conditions
-  - 2 CCR 11087-11098
-  - California Family Rights Act
-  - 5 CCR 4622
-  - Uniform complaint procedures
-  - 5 CCR 80303
-  - Reports of change in employment status; alleged misconduct
-  - 8 CCR 3204
-  - Access to employee exposure and medical records
-  - 8 CCR 5191
-  - Chemical hygiene plan
-  - 8 CCR 5194
-  - Hazard communication
-  - Civ. Code 1798.29
-  - District records; breach of security
-  - Ed. Code 17612
-  - Notification of pesticide use
-  - Ed. Code 22455.5
-  - STRS information to potential members
-  - Ed. Code 22461
-  - Postretirement compensation limitation
-  - Ed. Code 231.5
-  - Sexual harassment policy
-  - Ed. Code 35031
-  - Term of employment
-  - Ed. Code 35171
-  - Availability of rules and regulations for evaluation of performance
-  - Ed. Code 37616
-  - Consultation regarding year-round schedule
-  - Ed. Code 44663-44664
-  - Evaluation of certificated employees
-  - Ed. Code 44842
-  - Reemployment notices; certificated employees
-  - Ed. Code 44896
-  - Transfer of administrator or supervisor to teaching position
-  - Ed. Code 44916
-  - Written statement of employment status
-  - Ed. Code 44929.21
-  - Notice of reelection decision; districts with 250 ADA or more
+  - 2 CCR 11023 - Harassment and discrimination prevention and correction
+  - 2 CCR 11035-11051 - Unlawful sex discrimination; pregnancy, childbirth, and related medical - conditions
+  - 2 CCR 11087-11098 - California Family Rights Act
+  - 5 CCR 4622 - Uniform complaint procedures
+  - 5 CCR 80303 - Reports of change in employment status; alleged misconduct
+  - 8 CCR 3204 - Access to employee exposure and medical records
+  - 8 CCR 5191 - Chemical hygiene plan
+  - 8 CCR 5194 - Hazard communication
+  - Civ. Code 1798.29 - District records; breach of security
+  - Ed. Code 17612 - Notification of pesticide use
+  - Ed. Code 22455.5 - STRS information to potential members
+  - Ed. Code 22461 - Postretirement compensation limitation
+  - Ed. Code 231.5 - Sexual harassment policy
+  - Ed. Code 35031 - Term of employment
+  - Ed. Code 35171 - Availability of rules and regulations for evaluation of performance
+  - Ed. Code 37616 - Consultation regarding year-round schedule
+  - Ed. Code 44663-44664 - Evaluation of certificated employees
+  - Ed. Code 44842 - Reemployment notices; certificated employees
+  - Ed. Code 44896 - Transfer of administrator or supervisor to teaching position
+  - Ed. Code 44916 - Written statement of employment status
+  - Ed. Code 44929.21 - Notice of reelection decision; districts with 250 ADA or more
   - Ed. Code 44929.23
   - Districts with less than 250 ADA
-  - Ed. Code 44934
-  - Notice of disciplinary action for cause
-  - Ed. Code 44938
-  - Notice of unprofessional conduct and opportunity to correct
-  - Ed. Code 44940.5-44941
-  - Notification of suspension and intent to dismiss
-  - Ed. Code 44948.3-44948.5
-  - Dismissal of probationary employees
-  - Ed. Code 44948.5
-  - Nonreelection procedures; districts under 250 ADA
-  - Ed. Code 44949
-  - Dismissal of probationary employees
-  - Ed. Code 44951
-  - Continuation in position unless notified; administrative or supervisory
-  - personnel
-  - Ed. Code 44954
-  - Nonreelection of temporary employees
-  - Ed. Code 44955
-  - Reduction in number of permanent employees
-  - Ed. Code 44955.5
-  - Decrease in number of permanent employees during specified time period
-  - upon determination related to local control funding formula per unit of
-  - average daily attendance
-  - Ed. Code 45113
-  - Notification of charges; classified employees
-  - Ed. Code 45117
-  - Notice of layoff; classified employees
-  - Ed. Code 45169
-  - Employee salary data; classified employees
-  - Ed. Code 45192
-  - Industrial accident and illness leave for classified employees
-  - Ed. Code 45195
-  - Additional leave
-  - State
+  - Ed. Code 44934 - Notice of disciplinary action for cause
+  - Ed. Code 44938 - Notice of unprofessional conduct and opportunity to correct
+  - Ed. Code 44940.5-44941 - Notification of suspension and intent to dismiss
+  - Ed. Code 44948.3-44948.5 - Dismissal of probationary employees
+  - Ed. Code 44948.5 - Nonreelection procedures; districts under 250 ADA
+  - Ed. Code 44949 - Dismissal of probationary employees
+  - Ed. Code 44951 - Continuation in position unless notified; administrative or supervisory - personnel
+  - Ed. Code 44954 - Nonreelection of temporary employees
+  - Ed. Code 44955 - Reduction in number of permanent employees
+  - Ed. Code 44955.5 - Decrease in number of permanent employees during specified time period - upon determination related to local control funding formula per unit of - average daily attendance
+  - Ed. Code 45113 - Notification of charges; classified employees
+  - Ed. Code 45117 - Notice of layoff; classified employees
+  - Ed. Code 45169 - Employee salary data; classified employees
+  - Ed. Code 45192 - Industrial accident and illness leave for classified employees
+  - Ed. Code 45195 - Additional leave
   - 74
-  - Ed. Code 46160-46162
-  - Alternative schedule for junior high and high school; public hearing with
-  - notice
-  - Ed. Code 48201
-  - Transfer student's record for acts that resulted in suspension or expulsion
-  - Ed. Code 48851.3
-  - Education of students in foster care and students who are homeless
-  - Ed. Code 49013
-  - Complaints regarding student fees
-  - Ed. Code 49079
-  - Notification to teacher, student who has engaged in acts re: grounds
-  - suspension or expulsion
-  - Ed. Code 49414
-  - Epinephrine auto-injectors
-  - Ed. Code 49414.3
-  - Administration of opioid antagonist
-  - Gov. Code 1126
-  - Incompatible activities of employees
-  - Gov. Code 12950
-  - Sexual harassment
-  - Gov. Code 21029
-  - Retirement credit for period of military service
-  - Gov. Code 54957
-  - Complaints against employees; right to open session
-  - Gov. Code 54963
-  - Unauthorized disclosure of confidential information
-  - Gov. Code 8355
-  - Certification of drug-free workplace, including notification
-  - H&S Code 104420
-  - Tobacco-free schools
-  - H&S Code 120875
-  - Information on AIDS, AIDS-related conditions, and hepatitis B
-  - H&S Code 120880
-  - Notification to employees re AIDS, AIDS-related conditions, and hepatitis B
-  - H&S Code 1797.196
-  - Automated external defibrillators; notification of use and locations
-  - Lab. Code 230
-  - Accommodations and leave for victims of domestic violence
-  - Lab. Code 2800.2
-  - Notification of availability of continuation health coverage
-  - Lab. Code 3550-3553
-  - Notifications: Workers' compensation benefits
-  - Lab. Code 5401
-  - Workers' compensation; claim form and notice of potential eligibility
-  - Pen. Code 11165.7
-  - Child Abuse and Neglect Reporting Act; notification requirement
-  - Pen. Code 11166.5
-  - Employment; statement of knowledge of duty to report child abuse or
-  - neglect
-  - Unemp. Ins. Code 2613
-  - Disability insurance; notice of rights and benefits
-  - W&I Code 827
-  - Limited exception to juvenile court record
-  - State
+  - Ed. Code 46160-46162 - Alternative schedule for junior high and high school; public hearing with - notice
+  - Ed. Code 48201 - Transfer student's record for acts that resulted in suspension or expulsion
+  - Ed. Code 48851.3 - Education of students in foster care and students who are homeless
+  - Ed. Code 49013 - Complaints regarding student fees
+  - Ed. Code 49079 - Notification to teacher, student who has engaged in acts re: grounds - suspension or expulsion
+  - Ed. Code 49414 - Epinephrine auto-injectors
+  - Ed. Code 49414.3 - Administration of opioid antagonist
+  - Gov. Code 1126 - Incompatible activities of employees
+  - Gov. Code 12950 - Sexual harassment
+  - Gov. Code 21029 - Retirement credit for period of military service
+  - Gov. Code 54957 - Complaints against employees; right to open session
+  - Gov. Code 54963 - Unauthorized disclosure of confidential information
+  - Gov. Code 8355 - Certification of drug-free workplace, including notification - H&S Code 104420 - Tobacco-free schools - H&S Code 120875 - Information on AIDS, AIDS-related conditions, and hepatitis B - H&S Code 120880 - Notification to employees re AIDS, AIDS-related conditions, and hepatitis B - H&S Code 1797.196 - Automated external defibrillators; notification of use and locations
+  - Lab. Code 230 - Accommodations and leave for victims of domestic violence
+  - Lab. Code 2800.2 - Notification of availability of continuation health coverage
+  - Lab. Code 3550-3553 - Notifications: Workers' compensation benefits
+  - Lab. Code 5401 - Workers' compensation; claim form and notice of potential eligibility
+  - Pen. Code 11165.7 - Child Abuse and Neglect Reporting Act; notification requirement
+  - Pen. Code 11166.5 - Employment; statement of knowledge of duty to report child abuse or - neglect
+  - Unemp. Ins. Code 2613 - Disability insurance; notice of rights and benefits - W&I Code 827 - Limited exception to juvenile court record
 
 Federal References:
-  - 20 USC 2354
-  - Local application for career and technical education programs
-  - 29 CFR 825.300
-  - Family and Medical Leave Act; notice requirement
-  - 34 CFR 100
-  - Nondiscrimination under programs receiving federal assistance
-  - 34 CFR 104.8
-  - Nondiscrimination
-  - 34 CFR 106.9
-  - Severability
-  - 34 CFR 84.205-84.210
-  - Drug-free workplace
+  - 20 USC 2354 - Local application for career and technical education programs
+  - 29 CFR 825.300 - Family and Medical Leave Act; notice requirement
+  - 34 CFR 100 - Nondiscrimination under programs receiving federal assistance
+  - 34 CFR 104.8 - Nondiscrimination
+  - 34 CFR 106.9 - Severability
+  - 34 CFR 84.205-84.210 - Drug-free workplace statement
+  - 38 USC 4334 - Uniformed Services Employment and Reemployment Rights Act; notice - requirement
+  - 40 CFR 763.84 - Asbestos inspections, response actions and post-response actions
+  - 40 CFR 763.93 - Asbestos management plans
+  - 41 USC 8101-8106 - Drug-Free Workplace Act
+  - 42 USC 11431-11435 - McKinney-Vento Homeless Assistance Act
+  - 75
+  - 49 CFR 382.113 - Controlled substance and alcohol use and testing notifications
+  - 49 CFR 382.303 - Post-accident information, procedures, and instructions
+  - 49 CFR 382.601 - Controlled substance and alcohol use and testing notification
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 2121 - Superintendent's Contract
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3514.2 - Integrated Pest Management
+  - 3542 - School Bus Drivers
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4020 - Drug And Alcohol-Free Workplace
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4033 - Lactation Accommodation
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4112.5 - Criminal Record Check
+  - 4112.6 - Personnel Files
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4116 - Probationary/Permanent Status
+  - 4116 - Probationary/Permanent Status
+  - 4117.14 - Postretirement Employment
+  - 4117.7 - Employment Status Reports
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.43 - Universal Precautions
+  - 4119.43 - Universal Precautions
+  - 4121 - Temporary/Substitute Personnel
+  - 4136 - Nonschool Employment
+  - 4154 - Health And Welfare Benefits
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4157.1 - Work-Related Injuries
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4161.5 - Military Leave
+  - 4161.8 - Family Care And Medical Leave
+  - 4216 - Probationary/Permanent Status
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4236 - Nonschool Employment
+  - 4261.5 - Military Leave
+  - 4261.8 - Family Care And Medical Leave
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4336 - Nonschool Employment
+  - 4361.5 - Military Leave
+  - 4361.8 - Family Care And Medical Leave
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 9310 - Board Policies

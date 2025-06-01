@@ -53,8 +53,7 @@ by state and federal law. Prior to March 1 following the year in which the resul
 released, the Governing Board shall adjust the boundaries of the district's trustee areas based on population figures as
 validated by the Population Research Unit of the Department of Finance. (Education Code 5019.5)
 To ensure ongoing compliance with the California Voting Rights Acts, the Governing Board may review the district's
-Board Policy Manual
-Redwood City School District
+
 
 Governing Board election method to determine whether any modification is necessary due to changes in the district's
 population or any of its racial, color, or language minority group composition. The review shall be based on the
@@ -108,128 +107,64 @@ REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 2, Section 2
-  - Voters; qualifications
-  - CA Constitution Article 7, Section 7
-  - Conflicting offices
-  - CA Constitution Article 7, Section 8
-  - Disqualification from office
-  - Ed. Code 1006
-  - Prohibition against school district employees serving on county board
-  - of education
-  - Ed. Code 35107
-  - School district employees
-  - Ed. Code 35177
-  - Campaign expenditures or contributions
-  - Ed. Code 35239
-  - Compensation of governing board member of districts with less than
+  - CA Constitution Article 2, Section 2 - Voters; qualifications
+  - CA Constitution Article 7, Section 7 - Conflicting offices
+  - CA Constitution Article 7, Section 8 - Disqualification from office
+  - Ed. Code 1006 - Prohibition against school district employees serving on county board - of education
+  - Ed. Code 35107 - School district employees
+  - Ed. Code 35177 - Campaign expenditures or contributions
+  - Ed. Code 35239 - Compensation of governing board member of districts with less than
   - 70 ADA
-  - Ed. Code 5000-5033
-  - Election of school district board members
-  - Ed. Code 5091
-  - Vacancies; petition for special election
-  - Ed. Code 5220-5231
-  - Elections
-  - Ed. Code 5300-5304
-  - General provisions (; conduct of elections)
-  - Ed. Code 5320-5329
-  - Order and call of elections
-  - Ed. Code 5340-5345
-  - Consolidation of elections
-  - Ed. Code 5360-5363
-  - Election notice
-  - Ed. Code 5380
-  - Compensation (of; election officer)
-  - Ed. Code 5390
-  - Qualifications of voters
-  - Ed. Code 5420-5426
-  - Cost of elections
-  - Ed. Code 5440-5442
-  - Miscellaneous provisions
-  - Ed. Code 7054
-  - Use of district property; campaign purposes
-  - Elec. Code 10010
-  - District boundaries
-  - Elec. Code 10400-10418
-  - Consolidation of elections
-  - Elec. Code 10509
-  - Notice of election by secretary
-  - Elec. Code 10600-10604
-  - School district elections
-  - Elec. Code 11000
-  - Recall of officers
-  - Elec. Code 1302
-  - Local elections; school district election
-  - Elec. Code 13307
-  - Candidate's statement
-  - Elec. Code 13308
-  - Candidate's statement contents
-  - Elec. Code 13309
-  - Candidate's statement; indigence
-  - Elec. Code 14025-14032
-  - California Voting Rights Act
-  - Elec. Code 14050-14057
-  - California Voter Participation Rights Act
-  - Elec. Code 20
-  - Public office eligibility
-  - Elec. Code 20440
-  - Code of Fair Campaign Practices
-  - Elec. Code 2201
-  - Grounds for cancellation
-  - Elec. Code 4000-4008
-  - Elections conducted wholly by mail
-  - Gov. Code 1021
-  - Conviction of crime
-  - Gov. Code 1097
-  - Illegal participation in public contract
-  - Gov. Code 12940
-  - Unlawful discriminatory employment practices
-  - Gov. Code 1770
-  - Vacancy of office
+  - Ed. Code 5000-5033 - Election of school district board members
+  - Ed. Code 5091 - Vacancies; petition for special election
+  - Ed. Code 5220-5231 - Elections
+  - Ed. Code 5300-5304 - General provisions (; conduct of elections)
+  - Ed. Code 5320-5329 - Order and call of elections
+  - Ed. Code 5340-5345 - Consolidation of elections
+  - Ed. Code 5360-5363 - Election notice
+  - Ed. Code 5380 - Compensation (of; election officer)
+  - Ed. Code 5390 - Qualifications of voters
+  - Ed. Code 5420-5426 - Cost of elections
+  - Ed. Code 5440-5442 - Miscellaneous provisions
+  - Ed. Code 7054 - Use of district property; campaign purposes
+  - Elec. Code 10010 - District boundaries
+  - Elec. Code 10400-10418 - Consolidation of elections
+  - Elec. Code 10509 - Notice of election by secretary
+  - Elec. Code 10600-10604 - School district elections
+  - Elec. Code 11000 - Recall of officers
+  - Elec. Code 1302 - Local elections; school district election
+  - Elec. Code 13307 - Candidate's statement
+  - Elec. Code 13308 - Candidate's statement contents
+  - Elec. Code 13309 - Candidate's statement; indigence
+  - Elec. Code 14025-14032 - California Voting Rights Act
+  - Elec. Code 14050-14057 - California Voter Participation Rights Act
+  - Elec. Code 20 - Public office eligibility
+  - Elec. Code 20440 - Code of Fair Campaign Practices
+  - Elec. Code 2201 - Grounds for cancellation
+  - Elec. Code 4000-4008 - Elections conducted wholly by mail
+  - Gov. Code 1021 - Conviction of crime
+  - Gov. Code 1097 - Illegal participation in public contract
+  - Gov. Code 12940 - Unlawful discriminatory employment practices
+  - Gov. Code 1770 - Vacancy of office
   - Gov. Code 81000-91014
   - Political Reform Act of 1974
-  - Pen. Code 424
-  - Embezzlement and falsification of accounts by public officers
-  - Pen. Code 661
-  - Removal for neglect or violation of official duty
-  - Pen. Code 68
-  - Bribes
-  - Pen. Code 74
-  - Acceptance of gratuity
+  - Pen. Code 424 - Embezzlement and falsification of accounts by public officers
+  - Pen. Code 661 - Removal for neglect or violation of official duty
+  - Pen. Code 68 - Bribes
+  - Pen. Code 74 - Acceptance of gratuity
 
 Federal References:
-  - 52 USC 10301-10508
-  - Voting Rights Act
+  - 52 USC 10301-10508 - Voting Rights Act
 
 Management Resources:
   - 30
-  - Policy Reference Disclaimer:
-  - Attorney General Opinion
-  - 105 Ops.Cal.Atty.Gen. 182 (2022)
-  - Attorney General Opinion
-  - 69 Ops.Cal.Atty.Gen. 290 (1986)
-  - Attorney General Opinion
-  - 81 Ops.Cal.Atty.Gen. 98 (1998)
-  - Attorney General Opinion
-  - 83 Ops.Cal.Atty.Gen. 181 (2000)
-  - Attorney General Opinion
-  - 85 Ops.Cal.Atty.Gen. 49 (2002)
-  - CSBA Publication
-  - Legal Alert on the Impact of Senate Bill No. 415 on School Board
-  - Elections, January 2017
-  - Court Decision
-  - Dusch v. Davis (1967) 387 U.S. 112
-  - Court Decision
-  - Randall v. Sorrell (2006) 126 S.Ct. 2479
-  - Court Decision
-  - Rey v. Madera Unified School District (2012) 203 Cal. App. 4th 1223
-  - Court Decision
-  - Sanchez v. City of Modesto (2006) 145 Cal. App. 4th 660
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Institute for Local Government
-  - Website
-  - Fair Political Practices Commission
-  - Website
-  - California Secretary of
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 9005 - Governance Standards
+  - 9110 - Terms Of Office
+  - 9223 - Filling Vacancies
+  - 9224 - Oath Or Affirmation
+  - 9230 - Orientation
+  - 9270 - Conflict Of Interest
+  - 9320 - Meetings And Notices

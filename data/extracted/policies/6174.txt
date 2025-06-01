@@ -51,8 +51,7 @@ is reclassified based on criteria specified in the accompanying administrative r
 In addition, English learners' academic achievement in English language arts, mathematics, science, and any additional
 subject required by law shall be assessed using the California Assessment of Student Performance and Progress. As
 necessary, the test shall be administered with testing variations in accordance with 5 CCR 854.1-854.3. English
-Board Policy Manual
-Redwood City School District
+
 
 learners who are in their first 12 months of attending a school in the United States shall be exempted from taking the
 English language arts assessment to the extent allowed by federal law. (Education Code 60603, 60640; 5 CCR
@@ -103,7 +102,7 @@ student's parent/guardian, the student shall be transferred from a language acqu
 language mainstream classroom.
 Program Evaluation
 
-Policy Reference Disclaimer:
+
 To evaluate the effectiveness of the district's educational program for English learners, the Superintendent or
 designee shall report to the Board, at least annually, regarding:
 1. Progress of English learners towards proficiency in English
@@ -131,50 +130,109 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11300-11316
-  - English learner education
-  - 5 CCR 11510-11517.5
-  - California English Language Development Test
-  - 5 CCR 11517.6-11519.5
-  - English Language Proficiency Assessments for California
-  - 5 CCR 853
-  - Administration of CAASPP
-  - 5 CCR 854.9
-  - CAASPP and unlisted resources for students with disabilities
-  - Ed. Code 200
-  - Prohibition of discrimination
-  - Ed. Code 300-340
-  - English language education for immigrant children
-  - Ed. Code 310
-  - Language acquisition programs
-  - Ed. Code 313-313.5
-  - Assessment of English proficiency
-  - Ed. Code 33050
-  - Nonwaivable provisions
-  - Ed. Code 361
-  - Statewide implementation plan for the “EL Roadmap Policy”
-  - Ed. Code 42238.02
-  - Local Control Funding Formula
-  - Ed. Code 430-446
-  - English Learner and Immigrant Pupil
+  - 5 CCR 11300-11316 - English learner education
+  - 5 CCR 11510-11517.5 - California English Language Development Test
+  - 5 CCR 11517.6-11519.5 - English Language Proficiency Assessments for California
+  - 5 CCR 853 - Administration of CAASPP
+  - 5 CCR 854.9 - CAASPP and unlisted resources for students with disabilities
+  - Ed. Code 200 - Prohibition of discrimination
+  - Ed. Code 300-340 - English language education for immigrant children
+  - Ed. Code 310 - Language acquisition programs
+  - Ed. Code 313-313.5 - Assessment of English proficiency
+  - Ed. Code 33050 - Nonwaivable provisions
+  - Ed. Code 361 - Statewide implementation plan for the “EL Roadmap Policy”
+  - Ed. Code 42238.02 - Local Control Funding Formula
+  - Ed. Code 430-446 - English Learner and Immigrant Pupil Federal Conformity Act
+  - Ed. Code 44253.1-44253.11 - Qualifications of teachers of English learners
+  - Ed. Code 48345 - Interdistrict instruction collaboration agreements
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 52160-52178
+  - Bilingual Bicultural Act of 1976
+  - Ed. Code 56305 - CDE manual on English learners with disabilities
+  - 298
+  - Ed. Code 60603 - Definition; recently arrived English learner
+  - Ed. Code 60640 - California Assessment of Student Performance and Progress
+  - Ed. Code 60811.8 - Newcomer student; definition
+  - Ed. Code 62002.5 - Continuation of advisory committee after program sunsets
 
 Federal References:
-  - 20 USC 1412
+  - 20 USC 1412 - State eligibility
+  - 20 USC 1701-1721 - Equal Educational Opportunities Act
+  - 20 USC 6311 - State plan
+  - 20 USC 6312 - Local educational agency plan
+  - 20 USC 6801-7014 - Limited English proficient and immigrant students
+  - 20 USC 7011 - Definition of immigrant children and youth
+  - 20 USC 7801 - Definition of English learner
+  - 34 CFR 100.3 - Prohibition of discrimination on basis of race, color or national origin
 
 Management Resources:
-  - Attorney General Opinion
-  - 83 Ops.Cal.Atty.Gen. 40 (2000)
-  - California Department of Education
-  - Communication
-  - Updated Reclassification Guidance for 2018-19
-  - California Department of Education
-  - Communication
-  - Interim Guidance on Transitional Kindergarten Students and English
-  - Language Proficiency Testing, June 2024
-  - California Department of Education Publication
-  - EL Roadmap Policy
-  - California Department of Education Publication
-  - Summative English Language Proficiency Assessments for California,
-  - Assessment Fact Sheet, July 2023
-  - California Department of Education Publication
-  - Englisher Learner,
+  - 83 Ops.Cal.Atty.Gen. 40 (2000) - California Department of Education - Communication
+  - Updated Reclassification Guidance for 2018-19 - California Department of Education - Communication - Interim Guidance on Transitional Kindergarten Students and English - Language Proficiency Testing, June 2024 - California Department of Education Publication - EL Roadmap Policy - California Department of Education Publication - Summative English Language Proficiency Assessments for California, - Assessment Fact Sheet, July 2023 - California Department of Education Publication - Englisher Learner, Federal Program Monitoring Instrument - California Department of Education Publication - Monitoring Reclassified Students, December 2019 - California Department of Education Publication - California Practitioners’ Guide for Educating English Learners with - Disabilities, 2019 - California Department of Education Publication - English Language Proficiency Assessments for California Information Guide,
+  - July 2023 - California Department of Education Publication - California Digital Learning Integration and Standards Guidance, May 2021 - California Department of Education Publication
+  - Integrating the CA ELD Standards into K-12 Mathematics and Science - Teaching and Learning, December 2015 - California Department of Education Publication - Accessibility Resources Matrix, 2022 - California Department of Education Publication - Next Generation Science Standards for California Public Schools, - Kindergarten through Grade Twelve, rev. March 2015 - California Department of Education Publication
+  - Reclassification Guidance for 2020-21 and Statewide Testing Window - Extension, CDE Correspondence, June 14, 2021 - California Department of Education Publication - California English Learner Roadmap: Strengthening Comprehensive - Educational Policies, Programs and Practices for English Learners, 2017 - California Department of Education Publication - Common Core State Standards for Mathematics, 2013 - California Department of Education Publication - English Language Development Standards for California Public Schools: - Kindergarten Through Grade Twelve, 2012 - California Department of Education Publication - English Language Arts/English Language Development Framework for - California Public Schools: Kindergarten through Grade Twelve, 2014
+  - 299 - Commission on Teacher Credentialing Publication - Bilingual Authorization Educator Preparation Preconditions, Program - Standards, and Bilingual Teaching Performance Expectations, December
+  - 2021 - Court Decision - Valeria O. v. Davis (2002) 307 F.3d 1036 - Court Decision - California Teachers Association v. State Board of Education et al. (9th - Circuit, 2001) 271 F.3d 1141 - Court Decision - McLaughlin v. State Board of Education (1999) 75 Cal.App.4th 196 - Court Decision - Teresa P. et al v. Berkeley Unified School District et al (1989) 724 F.Supp.
+  - 698 - CSBA Publication - English Learners in Focus, Issue 1: Updated Demographic and Achievement - Profile of California's English Learners, Governance Brief, September 2016 - CSBA Publication - English Learners in Focus, Issue 3: Ensuring High-Quality Staff for English - Learners, Governance Brief, July 2016 - CSBA Publication - English Learners in Focus, Issue 4: Expanding Bilingual Education in
+  - California after Proposition 58, Governance Brief, March 2017 - CSBA Publication - English Learners in Focus: The English Learner Roadmap: Providing - Direction for English Learner Success, Governance Brief, February 2018 - CSBA Publication - English Learners in Focus, Issue 2: The Promise of Two-Way Immersion - Programs, Governance Brief, September 2014 - The Education Trust- West Publication - Unlocking Learning: Science as a Lever for English Learner Equity, January
+  - 2017 - The Education Trust- West Publication - Unlocking Learning II: Math as a Lever for English Learner Equity, March
+  - 2018 - U.S. Department of Education Publication - English Learners and Title III of the Elementary and Secondary Education - Act (ESEA), as Amended by the Every Student Succeeds Act (ESSA),
+  - September 2016 - U.S. Department of Education Publication - Innovative Solutions for Including Recently Arrived English Learners in State - Accountability Systems: A Guide for States, January 2017 - U.S. Department of Education Publication - English Learner Tool Kit for State and Local Educational Agencies (SEAs and - LEAs), rev. November 2016 - U.S. Department of Education Publication - Dear Colleague Letter: English Learner Students and Limited English - Proficient Parents, January 7, 2015 - Website - Observation Protocol for Teachers of English Learners (OPTEL) - Website - California Department of Education home language survey - Website - Bilingual teacher professional development program - Website - Bilingual teacher training programs - Website - California Department of Education, English Language Proficiency - Assessments for California (ELPAC) - Website - CSBA District and County Office of Education Legal Services - Website - National Clearinghouse for English Language Acquisition - Website - The Education Trust-West - Website - California Department of Education, English Learners - Website - California Association for Bilingual Education - Website - CSBA - Website - U.S. Department of Education
+  - 300
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6151 - Class Size
+  - 6151 - Class Size
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6190 - Evaluation Of The Instructional Program

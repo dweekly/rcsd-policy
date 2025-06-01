@@ -54,8 +54,7 @@ The district's evaluation procedures shall ensure that tests and other evaluatio
  
 a. Have been validated and are administered by trained personnel in conformance with the instruction
 provided by the test publishers
-Board Policy Manual
-Redwood City School District
+
 
 b. Are tailored to assess specific areas of educational need and are not based solely on a single IQ score
  
@@ -163,99 +162,95 @@ problems of students who are qualified as disabled under Section 504
 If desired, either party may seek a review of the hearing officer's decision by a federal court of competent
 jurisdiction.
 
-Policy Reference Disclaimer:
-Notifications
-The Superintendent or designee shall ensure that the district has taken appropriate steps to notify students and
-parents/guardians of the district's duty under Section 504. (34 CFR 104.32)
-
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 3051.12
-  - Health and nursing services
-  - Ed. Code 49423.5
-  - Specialized physical health care services
-  - Ed. Code 52052
-  - Accountability; numerically significant student subgroups
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 56043
-  - Special education; timelines
-  - Ed. Code 56321
-  - Notice of parental rights; consent of parents
+  - 5 CCR 3051.12 - Health and nursing services
+  - Ed. Code 49423.5 - Specialized physical health care services
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 56043 - Special education; timelines
+  - Ed. Code 56321 - Notice of parental rights; consent of parents
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 28 CFR 35.101-35.190
-  - Americans with Disabilities Act
-  - 29 USC 705
-  - Definitions; Vocational Rehabilitation Act
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 28 CFR 35.101-35.190 - Americans with Disabilities Act
+  - 29 USC 705 - Definitions; Vocational Rehabilitation Act
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
   - 34 CFR 104.1
   - Purpose to effectuate Section 504 of the Rehabilitation Act of 1973
-  - 34 CFR 104.1-104.61
-  - Nondiscrimination on the basis of disability
-  - 34 CFR 104.3
-  - Definitions
-  - 34 CFR 104.32
-  - Location and notification
-  - 34 CFR 104.33
-  - Free appropriate public education
-  - 34 CFR 104.34
-  - Educational setting
-  - 34 CFR 104.35
-  - Evaluation and placement
-  - 34 CFR 104.36
-  - Procedural safeguards
-  - 34 CFR 104.37
-  - Nonacademic services
+  - 34 CFR 104.1-104.61 - Nondiscrimination on the basis of disability
+  - 34 CFR 104.3 - Definitions
+  - 34 CFR 104.32 - Location and notification
+  - 34 CFR 104.33 - Free appropriate public education
+  - 34 CFR 104.34 - Educational setting
+  - 34 CFR 104.35 - Evaluation and placement
+  - 34 CFR 104.36 - Procedural safeguards
+  - 34 CFR 104.37 - Nonacademic services
   - 34 CFR 104.7
-  - Section 504; Designation of responsible employee and adoption of
-  - grievances procedures
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
+  - Section 504; Designation of responsible employee and adoption of - grievances procedures
+  - 42 USC 12101-12213 - Americans with Disabilities Act
 
 Management Resources:
-  - California Department of Education Legal AdvisoryLegal Advisory on Rights of Students with Diabetes in California's K-12
-  - Public Schools, August 2007
-  - Court Decision
-  - Christopher S. v. Stanislaus County Office of Education (2004) 384 F.3d
-  - 1205
-  - CSBA Publication
+  - 1205 - CSBA Publication
   - Rights of Students with Diabetes Under IDEA and Section 504, Policy Brief,
-  - December 2007
-  - U.S Dept of Ed Office for Civil Rights Publication
-  - Protecting Students with Disabilities: Frequently Asked Questions About
-  - Section 504 and the Education of Children with Disabilities, October 2015
-  - U.S Dept of Ed Office for Civil Rights Publication
-  - Dear Colleague Letter, January 2013
-  - 237
-  - U.S Dept of Ed Office for Civil Rights Publication
-  - Free Appropriate Public Education for Students with Disabilities:
+  - December 2007 - U.S Dept of Ed Office for Civil Rights Publication - Protecting Students with Disabilities: Frequently Asked Questions About
+  - Section 504 and the Education of Children with Disabilities, October 2015 - U.S Dept of Ed Office for Civil Rights Publication - Dear Colleague Letter, January 2013
+  - 237 - U.S Dept of Ed Office for Civil Rights Publication - Free Appropriate Public Education for Students with Disabilities:
   - Requirements under Section 504 of the Rehabilitation Act of 1973,
-  - September 2007
-  - U.S Dept of Ed Office for Civil Rights Publication
-  - Dear Colleague Letter and Resource Guide on Students with ADHD, July
-  - 2016
-  - U.S DOE, Office for Civil Rights Publication
-  - Dear Colleague Ltr & Questions & Answers on ADA Amendments Act of
-  - 2008 for Students with Disabilities Attending Public Elem & Secondary
-  - Schools, 2012
-  - U.S. DOE Office for Civil Rights Publication
-  - Guidance to America's Schools: Bullying of Students with Disabilities,
-  - October 2014
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education, Office for Civil Rights
-  - Management Resources
+  - September 2007 - U.S Dept of Ed Office for Civil Rights Publication - Dear Colleague Letter and Resource Guide on Students with ADHD, July
+  - 2016 - U.S DOE, Office for Civil Rights Publication - Dear Colleague Ltr & Questions & Answers on ADA Amendments Act of
+  - 2008 for Students with Disabilities Attending Public Elem & Secondary - Schools, 2012 - U.S. DOE Office for Civil Rights Publication - Guidance to America's Schools: Bullying of Students with Disabilities,
+  - October 2014 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - CSBA - Website - U.S. Department of Education, Office for Civil Rights
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 3541 - Transportation Routes And Services
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3555 - Nutrition Program Compliance
+  - 4112.23 - Special Education Staff
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.24 - Specialized Health Care Services
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.6 - Parent/Guardian Notifications
+  - 6000 - Concepts And Roles
+  - 6141 - Curriculum Development And Evaluation
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 9000 - Role Of The Board

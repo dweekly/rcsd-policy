@@ -52,10 +52,9 @@ When an earthquake occurs, the following actions shall be taken inside buildings
 1. Staff shall have students perform the drop procedure. Students should stay in the drop position until the
 emergency is over or until further instructions are given.
  
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 2. In laboratories, burners should be extinguished if possible before taking cover.
  
 3. As soon as possible, staff shall move students away from windows, shelves, and heavy objects and furniture
@@ -107,17 +106,22 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 19 CCR 2400-2450
-  - Standardized Emergency
+  - 19 CCR 2400-2450 - Standardized Emergency Management System
+  - Ed. Code 32280-32289.5 - School safety plans
+  - 225
+  - Gov. Code 3100 - Public employees as disaster service workers
+  - Gov. Code 8607 - Standardized Emergency Management System
 
-Management Resources:
-  - Cal OES Publication
-  - School Emergency Response: Using SEMS at Districts and Sites, June 1998
-  - Cal OES Publication
-  - School Emergency Response: Using SEMS at Districts and Sites, June 1998
-  - Cal OES Publication
-  - The ABCs of Post-Earthquake Evacuation: A Checklist for School
-  - Administrators and Faculty
-  - Cal OES Publication
-  - Guide and Checklist for Nonstructural Earthquake Hazards in California
-  - Schools, January 2003
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1112 - Media Relations
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3543 - Transportation Safety And Emergencies
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development

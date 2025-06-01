@@ -54,8 +54,7 @@ The Superintendent or designee shall make the California Department of Education
 dynamics of bullying and cyberbullying, which includes the identification of bullying and cyberbullying and the
 implementation of strategies to address bullying, available annually to all certificated staff and to other employees
 who have regular interaction with students. (Education Code 32283.5)
-Board Policy Manual
-Redwood City School District
+
 
 The Superintendent or designee shall provide training to teachers and other school staff to raise their awareness
 about the legal obligation of the district and its employees to prevent discrimination, harassment, intimidation, and
@@ -106,7 +105,7 @@ service to bully or harass another student, the Superintendent or designee may f
 site or service to suspend the privileges of the student and to have the material removed.
 Discipline/Corrective Actions
 
-Policy Reference Disclaimer:
+
 Corrective actions for a student who commits an act of bullying of any type may include counseling, behavioral
 intervention and education, and, if the behavior is severe or pervasive as defined in Education Code 48900, may
 include suspension or expulsion in accordance with district policies and regulations.
@@ -126,138 +125,98 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - Bus. and Prof. Code 22589-22589.4
-  - Cyberbullying Protection Act
-  - Ed. Code 200-270
-  - Prohibition of discrimination
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 35181
-  - Governing board authority to set policy on responsibilities of students
-  - Ed. Code 35291-35291.5
-  - Rules
-  - Ed. Code 46600
-  - Student transfers
-  - Ed. Code 48900-48925
-  - Suspension and expulsion
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Pen. Code 422.55
-  - Definition of hate crime
-  - Pen. Code 647
-  - Use of camera or other instrument to invade person's privacy; misdemeanor
-  - Pen. Code 647.7
-  - Use of camera or other instrument to invade person's privacy; punishment
-  - Pen. Code 653.2
-  - Electronic communication devices; threats to safety
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - Bus. and Prof. Code 22589-22589.4 - Cyberbullying Protection Act
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 35181 - Governing board authority to set policy on responsibilities of students
+  - Ed. Code 35291-35291.5 - Rules
+  - Ed. Code 46600 - Student transfers
+  - Ed. Code 48900-48925 - Suspension and expulsion
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Pen. Code 422.55 - Definition of hate crime
+  - Pen. Code 647 - Use of camera or other instrument to invade person's privacy; misdemeanor
+  - Pen. Code 647.7 - Use of camera or other instrument to invade person's privacy; punishment
+  - Pen. Code 653.2 - Electronic communication devices; threats to safety
 
 Federal References:
-  - 28 CFR 35.107
-  - Nondiscrimination on basis of disability; complaints
+  - 28 CFR 35.107 - Nondiscrimination on basis of disability; complaints
   - 34 CFR 104.7
-  - Section 504; Designation of responsible employee and adoption of
-  - grievances procedures
-  - 34 CFR 106.8
-  - Designation of coordinator; dissemination of policy, and adoption of
-  - grievance procedures
-  - 34 CFR 110.25
-  - Notification of nondiscrimination on the basis of age
-  - 47 USC 254
-  - Universal service discounts (E-rate)
+  - Section 504; Designation of responsible employee and adoption of - grievances procedures
+  - 34 CFR 106.8 - Designation of coordinator; dissemination of policy, and adoption of - grievance procedures
+  - 34 CFR 110.25 - Notification of nondiscrimination on the basis of age
+  - 47 USC 254 - Universal service discounts (E-rate)
 
 Management Resources:
-  - CA Office of the Attorney General Publication
-  - Promoting a Safe and Secure Learning Environment for All: Guidance and
-  - Model Policies to Assist California's K-12 Schools in Responding to
-  - Immigration Issues, December 2024
-  - 155
-  - California Department of Education Publication
-  - Social and Emotional Learning in California: A Guide to Resources, October
-  - 2018
-  - California Department of Education Publication
-  - Health Education Content Standards for California Public Schools:
-  - Kindergarten Through Grade Twelve, 2008
-  - California Department of Education Publication
-  - Bullying at School, 2003
-  - California Department of Education Publication
-  - Online Bullying Training Module and Bullying Module
-  - California Department of Education Publication
-  - California's Social and Emotional Learning: Guiding Principles, 2018
-  - Court Decision
-  - J.C. v. Beverly Hills Unified School District (2010) 711 F.Supp.2d 1094
-  - Court Decision
-  - Lavine v. Blaine School District (2002) 279 F.3d 719
-  - Court Decision
-  - Wynar v. Douglas County School District (2013) 728 F.3d 1062
-  - CSBA Publication
-  - Building Healthy Communities: A School Leaders Guide to Collaboration and
-  - Community Engagement, 2009
-  - CSBA Publication
-  - School Safety: Bullying and Cyberbullying, Policy Brief, October 2023
-  - CSBA Publication
-  - Providing a Safe, Nondiscriminatory School Environment for Transgender
-  - and Gender-Nonconforming Students, Policy Brief, February 2014
-  - CSBA Publication
-  - Addressing the Conditions of Children: Focus on Bullying, Governance Brief,
-  - December 2012
-  - CSBA Publication
-  - Cyberbullying: Policy Considerations for Boards, Policy Brief, rev. July 2010
-  - CSBA Publication
-  - Final Guidance: AB 1266, Transgender and Gender Nonconforming
-  - Students, Privacy, Programs, Activities & Facilities, Legal Guidance, March
-  - 2014
-  - CSBA Publication
-  - Legal Guidance on Rights of Transgender and Gender Nonconforming
-  - Students in Schools, October 2022
-  - U.S. DOE Office for Civil Rights Publication
-  - Dear Colleague Letter: Responding to Bullying of Students with Disabilities,
-  - October 2014
-  - U.S. DOE Publication
-  - Creating Inclusive and Nondiscriminatory School Environments for
-  - LGBTQI+ Students, June 2023
-  - U.S. DOE, Office for Civil Rights Publication
-  - Dear Colleague Letter: Addressing Discrimination Against Jewish Students,
-  - May 2023
-  - U.S. DOE, Office for Civil Rights Publication
-  - Dear Colleague Letter: Discrimination, Including Harassment, Based on
-  - Shared Ancestry or Ethnic Characteristics, November 2023
-  - U.S. DOE, Office for Civil Rights Publication
-  - Dear Colleague Letter: Harassment and Bullying, October 2010
-  - US Department of Health and Human Services
-  - Pub.
-  - Social Media and Youth Mental Health: The U.S. Surgeon General’s
-  - Advisory, 2023
-  - US Dept of Health and Human Services
-  - Publication
-  - Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General’s
-  - Advisory on the Health Effects of Social Connection and the Community,
-  - 2023
-  - Website
-  - U.S. Department of Health and Human Services, Stop Bullying
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National School Safety Center
-  - Website
-  - Partnership for Children and Youth
-  - Website
-  - Center on Great Teachers and Leaders
-  - Website
-  - Collaborative for Academic Social and Emotional Learning
-  - Website
-  - Common Sense Media
-  - Website
-  - California Department of Education, Safe Schools
-  - Website
-  - California Office of the Attorney General
-  - Management Resources
-  - 156
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education
-  - Management Resources
+  - 155 - California Department of Education Publication - Social and Emotional Learning in California: A Guide to Resources, October
+  - 2018 - California Department of Education Publication - Health Education Content Standards for California Public Schools: - Kindergarten Through Grade Twelve, 2008 - California Department of Education Publication - Bullying at School, 2003 - California Department of Education Publication - Online Bullying Training Module and Bullying Module - California Department of Education Publication - California's Social and Emotional Learning: Guiding Principles, 2018 - Court Decision - J.C. v. Beverly Hills Unified School District (2010) 711 F.Supp.2d 1094 - Court Decision - Lavine v. Blaine School District (2002) 279 F.3d 719 - Court Decision - Wynar v. Douglas County School District (2013) 728 F.3d 1062 - CSBA Publication - Building Healthy Communities: A School Leaders Guide to Collaboration and - Community Engagement, 2009 - CSBA Publication - School Safety: Bullying and Cyberbullying, Policy Brief, October 2023 - CSBA Publication - Providing a Safe, Nondiscriminatory School Environment for Transgender - and Gender-Nonconforming Students, Policy Brief, February 2014 - CSBA Publication - Addressing the Conditions of Children: Focus on Bullying, Governance Brief,
+  - December 2012 - CSBA Publication - Cyberbullying: Policy Considerations for Boards, Policy Brief, rev. July 2010 - CSBA Publication - Final Guidance: AB 1266, Transgender and Gender Nonconforming - Students, Privacy, Programs, Activities & Facilities, Legal Guidance, March
+  - 2014 - CSBA Publication - Legal Guidance on Rights of Transgender and Gender Nonconforming - Students in Schools, October 2022 - U.S. DOE Office for Civil Rights Publication - Dear Colleague Letter: Responding to Bullying of Students with Disabilities,
+  - October 2014 - U.S. DOE Publication - Creating Inclusive and Nondiscriminatory School Environments for - LGBTQI+ Students, June 2023 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter: Addressing Discrimination Against Jewish Students,
+  - May 2023 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter: Discrimination, Including Harassment, Based on - Shared Ancestry or Ethnic Characteristics, November 2023 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter: Harassment and Bullying, October 2010 - US Department of Health and Human Services - Pub. - Social Media and Youth Mental Health: The U.S. Surgeon General’s - Advisory, 2023 - US Dept of Health and Human Services - Publication - Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General’s - Advisory on the Health Effects of Social Connection and the Community,
+  - 2023 - Website - U.S. Department of Health and Human Services, Stop Bullying - Website - CSBA District and County Office of Education Legal Services - Website - National School Safety Center - Website - Partnership for Children and Youth - Website - Center on Great Teachers and Leaders - Website - Collaborative for Academic Social and Emotional Learning - Website - Common Sense Media - Website - California Department of Education, Safe Schools - Website - California Office of the Attorney General
+  - 156 - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0100 - Philosophy
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.21 - Professional Standards
+  - 5030 - Student Wellness
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5117 - Interdistrict Attendance
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131 - Conduct
+  - 5131.8 - Mobile Communication Devices
+  - 5136 - Gangs
+  - 5136 - Gangs
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.5 - Mental Health
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.12 - Search And Seizure
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6164.2 - Guidance/Counseling Services
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

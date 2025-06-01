@@ -28,38 +28,93 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 17002
-  - State School Building Lease-Purchase Law, including definition of good
-  - repair
-  - Ed. Code 42238.01-42238.07
-  - Local control funding formula
-  - Ed. Code 44258.9
-  - County superintendent review of teacher assignment
-  - Ed. Code 51002
-  - Local development of programs based on stated philosophy and goals
-  - Ed. Code 51020
-  - Definition of goal
-  - Ed. Code 51021
-  - Definition of objective
-  - Ed. Code 51041
-  - Evaluation of the educational program
+  - Ed. Code 17002 - State School Building Lease-Purchase Law, including definition of good - repair
+  - Ed. Code 42238.01-42238.07 - Local control funding formula
+  - Ed. Code 44258.9 - County superintendent review of teacher assignment
+  - Ed. Code 51002 - Local development of programs based on stated philosophy and goals
+  - Ed. Code 51020 - Definition of goal
+  - Ed. Code 51021 - Definition of objective
+  - Ed. Code 51041 - Evaluation of the educational program
   - Ed. Code 51210
   - Course of study for grades 1-6
   - Ed. Code 51220
   - Course of study for grades 7-12
-  - Ed. Code 52050-52077
-  - Public Schools Accountability Act
-  - Ed. Code 52052
-  - Accountability; numerically significant student subgroups
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 60119
-  - Sufficiency of textbooks and instructional materials; hearing and resolution
-  - Ed. Code 64000-64001
-  - Consolidated application process
+  - Ed. Code 52050-52077 - Public Schools Accountability Act
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 60119 - Sufficiency of textbooks and instructional materials; hearing and resolution
+  - Ed. Code 64000-64001 - Consolidated application process
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
+  - 20 USC 6312 - Local educational agency plan
 
-Management Resources:
-  - CSBA Publication
+Cross References:
+  - 0100 - Philosophy
+  - 0400 - Comprehensive Plans
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1100 - Communication With The Public
+  - 1160 - Political Processes
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1260 - Educational Foundation
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 2000 - Concepts And Roles
+  - 2120 - Superintendent Recruitment And Selection
+  - 2121 - Superintendent's Contract
+  - 2140 - Evaluation Of The Superintendent
+  - 3000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3290 - Gifts, Grants And Bequests
+  - 3312 - Contracts
+  - 3470 - Debt Issuance And Management
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 4119.21 - Professional Standards
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4200 - Classified Personnel
+  - 4200 - Classified Personnel
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 5030 - Student Wellness
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6011 - Academic Standards
+  - 6111 - School Calendar
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6151 - Class Size
+  - 6151 - Class Size
+  - 6161.11 - Supplementary Instructional Materials
+  - 6162.8 - Research
+  - 6162.8 - Research
+  - 6163.1 - Library Media Centers
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6177 - Summer Learning Programs
+  - 6190 - Evaluation Of The Instructional Program
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9230 - Orientation
+  - 9322 - Agenda/Meeting Materials
+  - 9400 - Board Self-Evaluation

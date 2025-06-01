@@ -55,8 +55,7 @@ officer's supervisor, and note or make a copy of all such information.
  
 4. Request that the officer produce any documentation that authorizes their school access.
  
-Board Policy Manual
-Redwood City School District
+
 
 5. Make a copy of all documents produced by the officer and retain one copy for school records.
  
@@ -116,7 +115,7 @@ response to specific emergency situations and not for any other purpose.
 The Superintendent or designee shall also encourage all students and families to learn their emergency phone
 numbers and be aware of the location of important documentation, including birth certificates, passports, social
 
-Policy Reference Disclaimer:
+
 security cards, physicians' contact information, medication lists, lists of allergies, and other such information that
 would allow the students and families to be prepared in the event that a family member is detained or deported.
 In the event that a student's parent/guardian is detained or deported by federal immigration authorities, the
@@ -138,58 +137,50 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 200
-  - Equal rights and opportunities in state educational institutions
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 234.1
-  - Student protections relating to discrimination, harassment, intimidation, and
-  - bullying
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 48204.4
-  - Evidence of residency for school enrollment
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Gov. Code 8310.3
-  - California Religious Freedom Act
-  - Pen. Code 422.55
-  - Definition of hate crime
-  - Pen. Code 627-627.10
-  - Access to school premises
+  - Ed. Code 200 - Equal rights and opportunities in state educational institutions
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 234.1 - Student protections relating to discrimination, harassment, intimidation, and - bullying
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 48204.4 - Evidence of residency for school enrollment
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Gov. Code 8310.3 - California Religious Freedom Act
+  - Pen. Code 422.55 - Definition of hate crime
+  - Pen. Code 627-627.10 - Access to school premises
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
 
 Management Resources:
-  - CA Office of the Attorney General Publication
-  - Promoting a Safe and Secure Learning Environment for All: Guidance and
-  - Model Policies to Assist California's K-12 Schools in Responding to
-  - Immigration Issues, December 2024
-  - Court Decision
-  - Plyler v. Doe, 457 U.S. 202 (1982)
-  - CSBA Publication
-  - Legal Guidance on Providing All Children Equal Access to Education,
-  - Regardless of Immigration Status, February 2017
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Immigration and Customs Enforcement, Online Detainee Locator
-  - System
-  - Website
-  - California Office of the Attorney General
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education, Office for Civil Rights
-  - 385
-  - Website
-  - U.S. Immigration and Customs Enforcement
-  - Website
-  - California Department of Education
-  - Website
-  - California Civil Rights Department
-  - Management Resources
+  - 385 - Website - U.S. Immigration and Customs Enforcement - Website - California Department of Education - Website - California Civil Rights Department
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3555 - Nutrition Program Compliance
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5145.12 - Search And Seizure
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 6142.3 - Civic Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program

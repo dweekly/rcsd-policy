@@ -26,24 +26,23 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 305
-  - Student responsible for care of property
-  - Civ. Code 1714.1
-  - Liability of parent or guardian for act of willful misconduct by a minor
-  - Ed. Code 48904
-  - Liability of parent
-  - Ed. Code 48904.3
-  - Withholding grades, diplomas or transcripts causing prop. damage or injury;
-  - transfer to new school districts; notice to rescind decision to withhold
-  - Ed. Code 60119
-  - Purchase and use; property of district
-  - Ed. Code 60119
-  - Sufficiency of textbooks and instructional materials; hearing and resolution
-  - Ed. Code 60411
-  - Purchase and use; property of district
+  - 5 CCR 305 - Student responsible for care of property
+  - Civ. Code 1714.1 - Liability of parent or guardian for act of willful misconduct by a minor
+  - Ed. Code 48904 - Liability of parent
+  - Ed. Code 48904.3 - Withholding grades, diplomas or transcripts causing prop. damage or injury; - transfer to new school districts; notice to rescind decision to withhold
+  - Ed. Code 60119 - Purchase and use; property of district
+  - Ed. Code 60119 - Sufficiency of textbooks and instructional materials; hearing and resolution
+  - Ed. Code 60411 - Purchase and use; property of district
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
+Cross References:
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6163.1 - Library Media Centers

@@ -53,10 +53,9 @@ The Superintendent or designee shall be responsible for developing and enforcing
 operation of the district. Administrative regulations shall be consistent with law and Board policy and shall be
 designed to promote the achievement of district goals and objectives. Administrative regulations may describe
 specific actions to be taken, roles and responsibilities of staff, timelines, and/or other necessary provisions. The
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 Superintendent or designee also may develop procedures manuals, handbooks, or other guides to carry out the
 intent of Board policy.
 When Board policies are amended, the Superintendent or designee shall review corresponding regulations to ensure
@@ -85,21 +84,40 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35010
-  - Control of district; prescription and enforcement of rules
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.5
-  - Intradistrict open enrollment
-  - Ed. Code 35163
-  - Official actions, minutes and journal
-  - Ed. Code 35164
-  - Actions by majority vote
+  - Ed. Code 35010 - Control of district; prescription and enforcement of rules
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.5 - Intradistrict open enrollment
+  - Ed. Code 35163 - Official actions, minutes and journal
+  - Ed. Code 35164 - Actions by majority vote
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA, Policy Services, including Policy Update Service, Governance and
-  - Management Using Technology (GAMUT Online), Policy Review Program,
-  - Individual D
+Cross References:
+  - 0100 - Philosophy
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2000 - Concepts And Roles
+  - 4112.9 - Employee Notifications
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5145.6 - Parent/Guardian Notifications
+  - 6000 - Concepts And Roles
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9130 - Board Committees
+  - 9320 - Meetings And Notices
+  - 9322 - Agenda/Meeting Materials
+  - 9323 - Meeting Conduct
+  - 9323.2 - Actions By The Board

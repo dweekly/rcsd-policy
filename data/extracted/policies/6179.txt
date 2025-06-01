@@ -53,10 +53,9 @@ Code 37252.2, 37254.1)
 1. Students in grades 7-8 who demonstrate insufficient progress toward the exit exam required for high school
 graduation pursuant to Education Code 37252
  
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 2. Students in grades 2-8 who are retained or recommended for retention pursuant to Education Code 37252.2
  
 3. Students in grades 2-6 who are "at risk" of retention pursuant to Education Code 37252.8
@@ -74,44 +73,54 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11470-11472
-  - Summer school
-  - Ed. Code 37200
-  - School calendar
-  - Ed. Code 37223
-  - Weekend classes
-  - Ed. Code 37252-37254.1
-  - Supplemental instruction
-  - Ed. Code 42238.01-42238.07
-  - Local control funding formula
-  - Ed. Code 46100
-  - Length of school day
-  - Ed. Code 48070-48070.5
-  - Promotion and retention
-  - Ed. Code 48200
-  - Compulsory full-time education
-  - Ed. Code 48985
-  - Notices to parents in language other than English
+  - 5 CCR 11470-11472 - Summer school
+  - Ed. Code 37200 - School calendar
+  - Ed. Code 37223 - Weekend classes
+  - Ed. Code 37252-37254.1 - Supplemental instruction
+  - Ed. Code 42238.01-42238.07 - Local control funding formula
+  - Ed. Code 46100 - Length of school day
+  - Ed. Code 48070-48070.5 - Promotion and retention
+  - Ed. Code 48200 - Compulsory full-time education
+  - Ed. Code 48985 - Notices to parents in language other than English
   - Ed. Code 51210
   - Course of study for grades 1-6
-  - Ed. Code 51220-51228
-  - Courses of study; secondary schools
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 60603
-  - Definition; recently arrived English learner
-  - Ed. Code 60640-60648.5
-  - California Assessment of Student Performance and Progress
+  - Ed. Code 51220-51228 - Courses of study; secondary schools
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 60603 - Definition; recently arrived English learner
+  - Ed. Code 60640-60648.5 - California Assessment of Student Performance and Progress
 
 Management Resources:
-  - California Department of Education Publication
   - Every Student Succeeds Act 2016-17 School Year Transition Plan, April
-  - 2016
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education
+  - 2016 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5147 - Dropout Prevention
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6111 - School Calendar
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6177 - Summer Learning Programs
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

@@ -55,11 +55,9 @@ materials.
 Surplus or undistributed obsolete instructional materials which are unusable or which cannot be distributed as
 specified above may be disposed of by either of the following: (Education Code 60530)
 1. By being mutilated so as not to be salable and sold for scrap at the highest obtainable price
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
- 
+
+
 2. By being destroyed by any economical means at least 30 days after the Board has given notice to all persons
 who have requested such notice
 School Buses
@@ -86,36 +84,39 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 3944
-  - Consolidated categorical programs; district title to equipment
-  - 5 CCR 3946
-  - Control, safeguards, disposal of equipment purchased with consolidated
-  - application funds
-  - Ed. Code 17540-17542
-  - Sale or lease of personal property by one district to another
-  - Ed. Code 17545-17555
-  - Sale of personal property
-  - Ed. Code 35168
-  - Inventory of equipment
-  - Ed. Code 60510-60530
-  - Sale, donation, or disposal of instructional materials
-  - Gov. Code 25505
-  - District property; disposition; proceeds
+  - 5 CCR 3944 - Consolidated categorical programs; district title to equipment
+  - 5 CCR 3946 - Control, safeguards, disposal of equipment purchased with consolidated - application funds
+  - Ed. Code 17540-17542 - Sale or lease of personal property by one district to another
+  - Ed. Code 17545-17555 - Sale of personal property
+  - Ed. Code 35168 - Inventory of equipment
+  - Ed. Code 60510-60530 - Sale, donation, or disposal of instructional materials
+  - Gov. Code 25505 - District property; disposition; proceeds
 
 Federal References:
-  - 2 CFR 200.0-200.521
-  - Federal uniform grant guidance
-  - 40 USC 549
-  - Surplus property
+  - 2 CFR 200.0-200.521 - Federal uniform grant guidance
+  - 40 USC 549 - Surplus property
 
-Management Resources:
-  - California Department of Education Publication
-  - Standards for Evaluating Instructional Materials for Social Content, 2013
-  - California Department of Education Publication
-  - California School Accounting Manual
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - School Services of California, Inc.
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3440 - Inventories
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3512 - Equipment
+  - 6011 - Academic Standards
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 9323 - Meeting Conduct
+  - 9323.2 - Actions By The Board

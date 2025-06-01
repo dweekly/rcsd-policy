@@ -51,60 +51,99 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 15060
-  - Standardized account code structure
-  - 5 CCR 15440-15451
-  - Criteria and standards for school district budgets
-  - Board Policy Manual
-  - Redwood City School District
-  - 7
-  - 5 CCR 15494-15497
-  - Local control and accountability plan and spending requirements
-  - Attendance Recovery Program
-  - Attendance Recovery Program
-  - Ed. Code 1240
-  - County superintendent of schools; duties
-  - Ed. Code 33127
-  - Standards and criteria for local budgets and expenditures
-  - Ed. Code 41202
-  - Determination of minimum level of education funding
-  - Ed. Code 42103
-  - Budget notification
-  - Ed. Code 42122-42129
-  - Budget requirements
-  - Ed. Code 42130-42134
-  - Financial reports and certifications
-  - Ed. Code 42140-42142
-  - Public disclosure of fiscal obligations
-  - Ed. Code 42238-42251
-  - Apportionments to districts
-  - Ed. Code 42238.01-42238.07
-  - Local control funding formula
-  - Ed. Code 42602
-  - Use of unbudgeted funds
-  - Ed. Code 42610
-  - Appropriation of excess funds and limitation thereon
-  - Ed. Code 45253
-  - Annual budget of personnel commission
-  - Ed. Code 45254
-  - First year budget of personnel commission
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Gov. Code 21710-21716
-  - California Employer's Pension Prefunding Trust Program
-  - Gov. Code 7900-7914
-  - Appropriations limit
-  - State
+  - 5 CCR 15060 - Standardized account code structure
+  - 5 CCR 15440-15451 - Criteria and standards for school district budgets - Board Policy Manual - Redwood City School District - 7
+  - 5 CCR 15494-15497 - Local control and accountability plan and spending requirements - Attendance Recovery Program - Attendance Recovery Program
+  - Ed. Code 1240 - County superintendent of schools; duties
+  - Ed. Code 33127 - Standards and criteria for local budgets and expenditures
+  - Ed. Code 41202 - Determination of minimum level of education funding
+  - Ed. Code 42103 - Budget notification
+  - Ed. Code 42122-42129 - Budget requirements
+  - Ed. Code 42130-42134 - Financial reports and certifications
+  - Ed. Code 42140-42142 - Public disclosure of fiscal obligations
+  - Ed. Code 42238-42251 - Apportionments to districts
+  - Ed. Code 42238.01-42238.07 - Local control funding formula
+  - Ed. Code 42602 - Use of unbudgeted funds
+  - Ed. Code 42610 - Appropriation of excess funds and limitation thereon
+  - Ed. Code 45253 - Annual budget of personnel commission
+  - Ed. Code 45254 - First year budget of personnel commission
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Gov. Code 21710-21716 - California Employer's Pension Prefunding Trust Program
+  - Gov. Code 7900-7914 - Appropriations limit
 
 Management Resources:
-  - California Department of Education Publication
-  - New Requirements for Reporting Fund Balance in Governmental Funds,
-  - January 7, 2011
-  - California Department of Education Publication
-  - California School Accounting Manual
-  - Fiscal Crisis & Management Assistance Team Pub. Fiscal Oversight Guide for AB 1200, AB 2756, AB 1840 and Related
-  - Legislation, June 2019
-  - Government Finance Officers Association
-  - Best Practice: Fund Balance Guidelines for the General Fund, September
-  - 2015
-  - Governmental Accounting Standards Board
+  - January 7, 2011 - California Department of Education Publication - California School Accounting Manual - Fiscal Crisis & Management Assistance Team Pub. Fiscal Oversight Guide for AB 1200, AB 2756, AB 1840 and Related - Legislation, June 2019 - Government Finance Officers Association - Best Practice: Fund Balance Guidelines for the General Fund, September
+  - 2015 - Governmental Accounting Standards Board - Statement - Pronouncements - Governmental Accounting Standards Board - Statement
+  - Statement 54, Fund Balance Reporting and Governmental Fund Type - Definitions, February 2009 - Governmental Accounting Standards Board - Statement
+  - Statement 75, Accounting and Financial Reporting for Post-employment - Benefits Other Than Pensions, June 2015 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Finance - Website - Governmental Accounting Standards Board - Website - California Department of Education, Finance and Grants - Website - Government Finance Officers Association - Website - Association of California School Administrators - Website - School Services of California, Inc. - Website - CSBA - Website - Fiscal Crisis and Management Assistance Team - 8
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0400 - Comprehensive Plans
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 2230 - Representative And Deliberative Groups
+  - 3000 - Concepts And Roles
+  - 3110 - Transfer Of Funds
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3300 - Expenditures And Purchases
+  - 3312 - Contracts
+  - 3350 - Travel Expenses
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3470 - Debt Issuance And Management
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4151 - Employee Compensation
+  - 4154 - Health And Welfare Benefits
+  - 4156.2 - Awards And Recognition
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 6000 - Concepts And Roles
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6151 - Class Size
+  - 6151 - Class Size
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 7160 - Charter School Facilities
+  - 7160 - Charter School Facilities
+  - 9000 - Role Of The Board
+  - 9130 - Board Committees
+  - 9140 - Board Representatives
+  - 9320 - Meetings And Notices
+  - 9322 - Agenda/Meeting Materials
+  - 9323 - Meeting Conduct

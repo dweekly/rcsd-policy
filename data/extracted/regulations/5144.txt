@@ -55,8 +55,7 @@ purposes of creating an individualized education program or a Section 504 plan
 7. A positive behavior support approach with tiered interventions that occur during the school day on campus
  
 8. Participation in a social and emotional learning program that teaches students the ability to understand and
-Board Policy Manual
-Redwood City School District
+
 
 manage emotions, develop caring and concern for others, make responsible decisions, establish positive
 relationships, and handle challenging situations capably
@@ -110,7 +109,7 @@ In cases where the school bus departs more than one hour after the end of the sc
 until the bus departs. (5 CCR 307, 353)
 Students shall remain under the supervision of a certificated employee during the period of detention.
 
-Policy Reference Disclaimer:
+
 Students may be offered the choice of serving their detention on Saturday rather than after school.
 Community Service
 As part of or instead of disciplinary action, the Board, Superintendent, principal or principal's designee may, at their
@@ -133,88 +132,117 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 307
-  - Participation in school activities until departure of bus
-  - 5 CCR 353
-  - Detention after school
-  - Civ. Code 1714.1
-  - Liability of parent or guardian for act of willful misconduct by a minor
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 35146
-  - Closed sessions
-  - Ed. Code 35291-35291.5
-  - Rules
-  - Ed. Code 35291.5
-  - School-adopted discipline rules
-  - Ed. Code 37223
-  - Weekend classes
-  - Ed. Code 48900-48926
-  - Suspension and expulsion
-  - Ed. Code 48980-48985
-  - Parent/Guardian notifications
-  - Ed. Code 49005-49006.4
-  - Seclusion and restraint
-  - Ed. Code 49055
-  - Restorative justice practices
-  - Ed. Code 49056
-  - Prohibition of denial of recess
-  - Ed. Code 49330-49335
-  - Injurious objects
-  - Ed. Code 49414.4
-  - Opioid misuse; alternative to referral to law enforcement
-  - Ed. Code 49550-49564.5
-  - Meals for needy students
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
+  - 5 CCR 307 - Participation in school activities until departure of bus
+  - 5 CCR 353 - Detention after school
+  - Civ. Code 1714.1 - Liability of parent or guardian for act of willful misconduct by a minor
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 35146 - Closed sessions
+  - Ed. Code 35291-35291.5 - Rules
+  - Ed. Code 35291.5 - School-adopted discipline rules
+  - Ed. Code 37223 - Weekend classes
+  - Ed. Code 48900-48926 - Suspension and expulsion
+  - Ed. Code 48980-48985 - Parent/Guardian notifications
+  - Ed. Code 49005-49006.4 - Seclusion and restraint
+  - Ed. Code 49055 - Restorative justice practices
+  - Ed. Code 49056 - Prohibition of denial of recess
+  - Ed. Code 49330-49335 - Injurious objects
+  - Ed. Code 49414.4 - Opioid misuse; alternative to referral to law enforcement
+  - Ed. Code 49550-49564.5 - Meals for needy students
+  - Ed. Code 52060-52077 - Local control and accountability plan
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 42 USC 1751-1769j
-  - School Lunch Program
-  - 42 USC 1773
-  - School Breakfast Program
+  - 42 USC 1751-1769j - School Lunch Program
+  - 42 USC 1773 - School Breakfast Program
   - 342
 
 Management Resources:
-  - California Dept of Education Program Advisories
-  - Classroom Management: A California Resource Guide for Teachers and
-  - Administrators of Elementary and Secondary Schools, 2000
-  - CSBA Publication
-  - The Case for Reducing Out-of-School Suspensions and Expulsions, Fact
-  - Sheet, April 2014
-  - CSBA Publication
-  - Recent Legislation on Discipline: AB 240, Fact Sheet, March 2015
-  - CSBA Publication
-  - Safe Schools: Strategies for Governing Boards to Ensure Student Success,
-  - 2011
-  - CSBA Publication
-  - Providing a Safe, Nondiscriminatory School Environment for Transgender
-  - and Gender-Nonconforming Students, Policy Brief, February 2014
-  - CSBA Publication
-  - Maximizing Opportunities for Physical Activity During the School Day, Fact
-  - Sheet, November 2009
-  - Fix School Discipline Project
-  - Sample alternative discipline policy
-  - U.S. DOE, Office for Civil Rights Publication
-  - Resource on Confronting Racial Discrimination in Student Discipline
-  - U.S. DOE, Office for Civil Rights Publication
-  - Fact Sheet: Supporting Students with Disabilities and Avoiding the
+  - 2011 - CSBA Publication - Providing a Safe, Nondiscriminatory School Environment for Transgender - and Gender-Nonconforming Students, Policy Brief, February 2014 - CSBA Publication - Maximizing Opportunities for Physical Activity During the School Day, Fact - Sheet, November 2009 - Fix School Discipline Project - Sample alternative discipline policy - U.S. DOE, Office for Civil Rights Publication - Resource on Confronting Racial Discrimination in Student Discipline - U.S. DOE, Office for Civil Rights Publication - Fact Sheet: Supporting Students with Disabilities and Avoiding the
   - Discriminatory Use of Student Discipline under Section 504 of the
-  - Rehabilitation Act of 1973
-  - U.S. DOE, Office for Civil Rights Publication
-  - Dear Colleague Letter on the Nondiscriminatory Administration of School
-  - Discipline, January 2014
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Public Counsel
-  - Website
-  - U.S. Department of Education, Office for Civil Rights
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+  - Rehabilitation Act of 1973 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter on the Nondiscriminatory Administration of School - Discipline, January 2014 - Website - CSBA District and County Office of Education Legal Services - Website - Public Counsel - Website - U.S. Department of Education, Office for Civil Rights - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3512 - Equipment
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3543 - Transportation Safety And Emergencies
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 5000 - Concepts And Roles
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5030 - Student Wellness
+  - 5112.1 - Exemptions From Attendance
+  - 5112.1 - Exemptions From Attendance
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5127 - Graduation Ceremonies And Activities
+  - 5131 - Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5131.41 - Use Of Seclusion And Restraint
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.9 - Academic Honesty
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145.8 - Assemblies And Special Events
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6162.54 - Test Integrity/Test Preparation
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

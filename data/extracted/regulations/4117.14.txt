@@ -55,10 +55,9 @@ required as a prerequisite to attainment of or eligibility for classification as
 (Education Code 24216.5, 24216.6)
 The compensation for the class of retired individuals shall be agreed to in the collective bargaining agreement
 between the district and the exclusive representative for the bargaining unit. (Education Code 24216.5, 24216.6)
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 Exemption for Emergency Situations or Appointment as a Trustee/Administrator
 A retired certificated individual shall be exempt from the postretirement compensation limitation for a maximum
 period of two years if he/she is appointed by the Superintendent of Public Instruction as a trustee or administrator
@@ -92,46 +91,29 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 27000-27009
-  - Penalties and interests for late remittances and late and unacceptable
-  - reporting by employers
-  - Ed. Code 22119.5
-  - Creditable service; definition
-  - Ed. Code 22131
-  - Employer; employing agency, definition
-  - Ed. Code 22164.5
-  - Retired member activities; definition
-  - Ed. Code 22461
-  - Postretirement compensation limitation
-  - Ed. Code 22714
-  - Service credit under STRS; additional two years
-  - Ed. Code 22715
-  - Additional service credit
-  - Ed. Code 22716
-  - Unpaid services
-  - Ed. Code 24214
-  - Creditable service by retiree
-  - Ed. Code 24214.5
-  - Postretirement compensation limit; members below normal retirement age
-  - Ed. Code 26113
-  - Creditable service; definition
-  - Ed. Code 35046
-  - Consultancy contracts
-  - Ed. Code 44830
-  - Employment of certificated persons
-  - Ed. Code 44830.3
-  - Employing district interns
+  - 5 CCR 27000-27009 - Penalties and interests for late remittances and late and unacceptable - reporting by employers
+  - Ed. Code 22119.5 - Creditable service; definition
+  - Ed. Code 22131 - Employer; employing agency, definition
+  - Ed. Code 22164.5 - Retired member activities; definition
+  - Ed. Code 22461 - Postretirement compensation limitation
+  - Ed. Code 22714 - Service credit under STRS; additional two years
+  - Ed. Code 22715 - Additional service credit
+  - Ed. Code 22716 - Unpaid services
+  - Ed. Code 24214 - Creditable service by retiree
+  - Ed. Code 24214.5 - Postretirement compensation limit; members below normal retirement age
+  - Ed. Code 26113 - Creditable service; definition
+  - Ed. Code 35046 - Consultancy contracts
+  - Ed. Code 44830 - Employment of certificated persons
+  - Ed. Code 44830.3 - Employing district interns
   - 96
-  - Ed. Code 44929
-  - Service credit under STRS; additional two years
-  - Ed. Code 44929.1
-  - 2+2 service and year credit option under STRS
-  - Ed. Code 45134
-  - Age limits
-  - State
+  - Ed. Code 44929 - Service credit under STRS; additional two years
+  - Ed. Code 44929.1 - 2+2 service and year credit option under STRS
+  - Ed. Code 45134 - Age limits
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California
+Cross References:
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.4 - Health Examinations
+  - 4112.9 - Employee Notifications
+  - 4121 - Temporary/Substitute Personnel
+  - 9320 - Meetings And Notices

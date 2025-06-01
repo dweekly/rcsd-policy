@@ -31,18 +31,31 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 48904
-  - Liability of parent
-  - Ed. Code 48904.3
-  - Withholding grades, diplomas or transcripts causing prop. damage or injury;
-  - transfer to new school districts; notice to rescind decision to withhold
-  - Ed. Code 48911
-  - Suspension by principal, designee or superintendent
-  - Ed. Code 49014
-  - Public School Fair Debt Collection Act
-  - Ed. Code 49069.7
-  - Absolute right to access
+  - Ed. Code 48904 - Liability of parent
+  - Ed. Code 48904.3 - Withholding grades, diplomas or transcripts causing prop. damage or injury; - transfer to new school districts; notice to rescind decision to withhold
+  - Ed. Code 48911 - Suspension by principal, designee or superintendent
+  - Ed. Code 49014 - Public School Fair Debt Collection Act
+  - Ed. Code 49069.7 - Absolute right to access
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.6 - Parent/Guardian Notifications
+  - 6161.2 - Damaged Or Lost Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program

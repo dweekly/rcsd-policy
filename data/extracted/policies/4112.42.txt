@@ -34,51 +34,46 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 13 CCR 1200-1294
-  - Motor carrier safety
-  - 13 CCR 1213.1
-  - Placing drivers out-of-service
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Gov. Code 8355
-  - Certification of drug-free workplace, including notification
-  - Veh. Code 13376
-  - Driver certificates; revocation or suspension
-  - Veh. Code 34500-34520.5
-  - Safety regulations
+  - 13 CCR 1200-1294 - Motor carrier safety
+  - 13 CCR 1213.1 - Placing drivers out-of-service
+  - Ed. Code 35160 - Authority of governing boards
+  - Gov. Code 8355 - Certification of drug-free workplace, including notification
+  - Veh. Code 13376 - Driver certificates; revocation or suspension
+  - Veh. Code 34500-34520.5 - Safety regulations
 
 Federal References:
-  - 21 CFR 1308.11-1308.15
-  - Controlled substances
-  - 41 USC 8101-8106
-  - Drug-Free Workplace Act
-  - 49 CFR 382.101-382.727
-  - Controlled substance and alcohol use and testing
-  - 49 CFR 382.205
-  - On-duty use
-  - 49 CFR 382.207
-  - Pre-duty use
-  - 49 CFR 382.209
-  - Use following an accident
-  - 49 CFR 40.1-40.413
-  - Procedures for transportation workplace drug and alcohol testing programs
-  - 49 USC 31306
-  - Alcohol and drug testing
-  - Board Policy Manual
-  - Redwood City School District
+  - 21 CFR 1308.11-1308.15 - Controlled substances
+  - 41 USC 8101-8106 - Drug-Free Workplace Act
+  - 49 CFR 382.101-382.727 - Controlled substance and alcohol use and testing
+  - 49 CFR 382.205 - On-duty use
+  - 49 CFR 382.207 - Pre-duty use
+  - 49 CFR 382.209 - Use following an accident
+  - 49 CFR 40.1-40.413 - Procedures for transportation workplace drug and alcohol testing programs
+  - 49 USC 31306 - Alcohol and drug testing - Board Policy Manual - Redwood City School District
   - 60
 
-Management Resources:
-  - California Highway Patrol Publication
-  - Controlled Substances and Alcohol Testing Compliance Checklist, 2007
-  - California Highway Patrol Publication
-  - What is CSAT? Controlled Substances and Alcohol Testing, 2005
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Commercial Driver's License Drug and Alcohol Clearinghouse
-  - Website
-  - California Department of Motor Vehicles
-  - Website
-  - California Highway Patrol
-  - Website
+Cross References:
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3542 - School Bus Drivers
+  - 3543 - Transportation Safety And Emergencies
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4020 - Drug And Alcohol-Free Workplace
+  - 4112.9 - Employee Notifications
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4159 - Employee Assistance Programs
+  - 4161 - Leaves
+  - 4161.8 - Family Care And Medical Leave
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.21 - Professional Standards
+  - 4261 - Leaves
+  - 4261.8 - Family Care And Medical Leave
+  - 4319.21 - Professional Standards
+  - 4361.8 - Family Care And Medical Leave

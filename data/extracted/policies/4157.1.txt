@@ -22,50 +22,35 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 8 CCR 15596
-  - Notice of employee rights to workers' compensation benefits
-  - Ed. Code 44984
-  - Required rules for industrial accident and illness leave
-  - Ed. Code 45192
-  - Industrial accident and illness leave for classified employees
-  - Lab. Code 3200-4856
-  - Workers' compensation
-  - Lab. Code 3550-3553
-  - Notifications: Workers' compensation benefits
-  - Lab. Code 3600-3605
-  - Conditions of liability
-  - Lab. Code 3760
-  - Report of injury to insurer
-  - Lab. Code 4600
-  - Provision of medical and hospital treatment by employer
-  - Lab. Code 4906
-  - Disclosures and statements
-  - Lab. Code 5400-5413
-  - Notice of injury or death
-  - Lab. Code 6302
-  - Definition of serious injury or illness
-  - Lab. Code 6409.1
-  - Reports
+  - 8 CCR 15596 - Notice of employee rights to workers' compensation benefits
+  - Ed. Code 44984 - Required rules for industrial accident and illness leave
+  - Ed. Code 45192 - Industrial accident and illness leave for classified employees
+  - Lab. Code 3200-4856 - Workers' compensation
+  - Lab. Code 3550-3553 - Notifications: Workers' compensation benefits
+  - Lab. Code 3600-3605 - Conditions of liability
+  - Lab. Code 3760 - Report of injury to insurer
+  - Lab. Code 4600 - Provision of medical and hospital treatment by employer
+  - Lab. Code 4906 - Disclosures and statements
+  - Lab. Code 5400-5413 - Notice of injury or death
+  - Lab. Code 6302 - Definition of serious injury or illness
+  - Lab. Code 6409.1 - Reports
 
 Management Resources:
-  - CA Department of Industrial Relations Publication Workers' Compensation in California: A Guidebook for Injured Workers,
-  - 2016
-  - CA Department of Industrial Relations Publication Workers' Compensation Claim Form (DWC 1) & Notice of Potential
-  - Eligibility
-  - CA Department of Industrial Relations Publication Notice to Employees - Injuries Caused by Work
-  - CA Department of Industrial Relations Publication Time of Hire Pamphlet
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Industrial Relations, Division of Workers
-  - Compensation
-  - Website
-  - California Department of Industrial Relations, Occupational Safety and
-  - Health
-  - Website
-  - CSBA
-  - Website
-  - California Department of Public Health
-  - Board Policy Manual
-  - Redwood City School District
+  - 2016 - CA Department of Industrial Relations Publication Workers' Compensation Claim Form (DWC 1) & Notice of Potential - Eligibility - CA Department of Industrial Relations Publication Notice to Employees - Injuries Caused by Work - CA Department of Industrial Relations Publication Time of Hire Pamphlet - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Industrial Relations, Division of Workers - Compensation - Website - California Department of Industrial Relations, Occupational Safety and - Health - Website - CSBA - Website - California Department of Public Health - Board Policy Manual - Redwood City School District
   - 212
+
+Cross References:
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 3320 - Claims And Actions Against The District
+  - 3320 - Claims And Actions Against The District
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4032 - Reasonable Accommodation
+  - 4112.9 - Employee Notifications
+  - 4113.4 - Temporary Modified/Light-Duty Assignment
+  - 4154 - Health And Welfare Benefits
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4157.2 - Ergonomics
+  - 4213.4 - Temporary Modified/Light-Duty Assignment

@@ -55,10 +55,9 @@ CCR 11968.5.2)
 1. Discontinue revocation of the charter and provide timely written notice of such action to the charter school's
 governing body
  
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 2. If there is substantial evidence that the charter school has failed to remedy a violation identified in the Notice
 of Violation or to refute a violation to the Board's satisfaction, continue revocation of the charter by issuing a
 Notice of Intent to Revoke to the charter school's governing body
@@ -89,35 +88,19 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11960-11969.10
-  - Charter schools
-  - 5 CCR 11968.5.1-11968.5.5
-  - Charter revocations
+  - 5 CCR 11960-11969.10 - Charter schools
+  - 5 CCR 11968.5.1-11968.5.5 - Charter revocations
   - Ed. Code 47600-47616.7
   - Charter Schools Act of 1992
-  - Ed. Code 47607
-  - Charter renewals and revocations
-  - Ed. Code 52052
-  - Accountability; numerically significant student subgroups
+  - Ed. Code 47607 - Charter renewals and revocations
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
 
 Management Resources:
-  - Court Decision
-  - Today's Fresh Start, Inc. v. Los Angeles County Office of Education (2013)
-  - 57 Cal.4th 197
-  - CSBA Publication
-  - Charter Schools: A Guide for Governance Teams, rev. June 2021
-  - CSBA Publication
-  - The Role of the Charter School Authorizer, Online Course
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Association of Charter School Authorizers
-  - Website
-  - California Charter Schools Association
-  - Website
-  - California Department of Education, Charter Schools
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education
+  - 57 Cal.4th 197 - CSBA Publication - Charter Schools: A Guide for Governance Teams, rev. June 2021 - CSBA Publication - The Role of the Charter School Authorizer, Online Course - Website - CSBA District and County Office of Education Legal Services - Website - National Association of Charter School Authorizers - Website - California Charter Schools Association - Website - California Department of Education, Charter Schools - Website - CSBA - Website - U.S. Department of Education
   - 65
+
+Cross References:
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 0420.42 - Charter School Renewal
+  - 9320 - Meetings And Notices

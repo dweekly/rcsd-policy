@@ -44,33 +44,31 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 16022-16023
-  - Classification of records
-  - 5 CCR 16035
-  - Historical inventory of equipment
-  - 5 CCR 3946
-  - Control, safeguards, disposal of equipment purchased with consolidated
-  - application funds
-  - Ed. Code 35168
-  - Inventory of equipment
+  - 5 CCR 16022-16023 - Classification of records
+  - 5 CCR 16035 - Historical inventory of equipment
+  - 5 CCR 3946 - Control, safeguards, disposal of equipment purchased with consolidated - application funds
+  - Ed. Code 35168 - Inventory of equipment
 
 Federal References:
-  - 2 CFR 200.0-200.521
-  - Federal uniform grant guidance
+  - 2 CFR 200.0-200.521 - Federal uniform grant guidance
   - 20 USC 2301-2414
-  - Strengthening Career and Technical Education for the 21st Century Act
-  - Board Policy Manual
-  - Redwood City School District
+  - Strengthening Career and Technical Education for the 21st Century Act - Board Policy Manual - Redwood City School District
   - 118
 
-Management Resources:
-  - California Department of Education Publication
-  - California School Accounting Manual
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Association of School Business Officials
-  - Website
-  - California Department of Education
-  - Website
-  - Office of Management and Budget
+Cross References:
+  - 3000 - Concepts And Roles
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3290 - Gifts, Grants And Bequests
+  - 3300 - Expenditures And Purchases
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3512 - Equipment
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3580 - District Records
+  - 3580 - District Records

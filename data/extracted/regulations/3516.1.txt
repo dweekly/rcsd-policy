@@ -48,18 +48,17 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 550
-  - Fire drills
-  - Ed. Code 17074.50-17074.56
-  - Automatic fire detection; alarm and sprinkler systems
-  - Ed. Code 32001
-  - Fire alarms and drills
-  - Ed. Code 32040
-  - Duty to equip school with first aid kit
+  - 5 CCR 550 - Fire drills
+  - Ed. Code 17074.50-17074.56 - Automatic fire detection; alarm and sprinkler systems
+  - Ed. Code 32001 - Fire alarms and drills
+  - Ed. Code 32040 - Duty to equip school with first aid kit
 
 Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Board Policy Manual
-  - Redwood City School District
   - 220
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.2 - Bomb Threats

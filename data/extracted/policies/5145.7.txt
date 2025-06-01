@@ -57,10 +57,9 @@ harassment complaint continues
  
 8. A clear message that, when needed, the district will implement supportive measures to ensure a safe school
 environment for a student who is the complainant or victim of sexual harassment and/or other students during
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 an investigation
 Upon completion of an investigation of a sexual harassment complaint, any student found to have engaged in sexual
 harassment or sexual violence in violation of this policy shall be subject to disciplinary action. For students in grades
@@ -79,63 +78,109 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 432
-  - Student records
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - 5 CCR 4900-4965
-  - Nondiscrimination in elementary and secondary educational programs
-  - receiving state or
+  - 5 CCR 432 - Student records
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - 5 CCR 4900-4965 - Nondiscrimination in elementary and secondary educational programs - receiving state or federal financial assistance
+  - Civ. Code 1714.1 - Liability of parent or guardian for act of willful misconduct by a minor
+  - Civ. Code 51.9 - Liability for sexual harassment; business, service and professional - relationships
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 220.1 - Prohibition of retaliation related to educational equity
+  - Ed. Code 220.3 - Prohibition of disclosure of information related to student’s sexual - orientation, gender identity, or gender expression
+  - Ed. Code 220.5 - Prohibition of policies requiring disclosure of information related to - student’s sexual orientation, gender identity, or gender expression
+  - Ed. Code 35292.5 - School restrooms; all-gender restrooms
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48900.2 - Additional grounds for suspension or expulsion; sexual harassment
+  - Ed. Code 48904 - Liability of parent/guardian for willful student misconduct
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 49060-49079 - Student records
+  - Gov. Code 12950.1 - Sexual harassment training
 
 Federal References:
-  - 20 USC 1092
-  - Definition of sexual assault
-  - 20 USC 1221
-  - Application of laws
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1092 - Definition of sexual assault
+  - 20 USC 1221 - Application of laws
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 34 CFR 106.1-106.82
-  - Nondiscrimination on the basis of sex in education programs
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
+  - 34 CFR 106.1-106.82 - Nondiscrimination on the basis of sex in education programs
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
   - 452
-  - 34 USC 12291
-  - Definition of dating violence, domestic violence, and stalking
-  - 42 USC 1983
-  - Civil action for deprivation of rights
-  - 42 USC 2000d-2000d-7
-  - Title VI, Civil Rights Act of 1964
-  - 42 USC 2000e-2000e-17
-  - Title VII, Civil Rights Act of 1964, as amended
-  - Federal
+  - 34 USC 12291 - Definition of dating violence, domestic violence, and stalking
+  - 42 USC 1983 - Civil action for deprivation of rights
+  - 42 USC 2000d-2000d-7 - Title VI, Civil Rights Act of 1964
+  - 42 USC 2000e-2000e-17 - Title VII, Civil Rights Act of 1964, as amended
 
 Management Resources:
-  - California Department of Education Publication
-  - California Longitudinal Pupil Achievement Data System (CALPADS) Update
-  - FLASH #158: Guidance for Changing a Student’s Gender in CALPADS, July
-  - 2019
-  - Court Decision
-  - Gebser v. Lago Vista Independent School District (1998) 524 U.S. 274
-  - Court Decision
-  - Oona by Kate S. v. McCaffrey (1998, 9th Cir.) 143 F.3d 473
-  - Court Decision
-  - Reese v. Jefferson School District (2000, 9th Cir.) 208 F.3d 736
-  - Court Decision
-  - Davis v. Monroe County Board of Education (1999) 526 U.S. 629
-  - Court Decision
-  - Doe v. Petaluma City School District (1995, 9th Cir.) 54 F.3d 1447
-  - Court Decision
-  - Donovan v. Poway Unified School District (2008) 167 Cal.App.4th 567
-  - Court Decision
-  - Flores v. Morgan Hill Unified School District (2003, 9th Cir.) 324 F.3d 1130
-  - CSBA Publication
-  - Safe Schools: Strategies for Governing Boards to Ensure Student Success,
-  - 2011
-  - CSBA Publication
-  - Providing a Safe, Nondiscriminatory School Environment for Transgender
-  - and Gender-Nonconforming Students, Policy Brief, February 2014
-  - CSBA Publication
-  - Legal Guidance on Rights of Transgender and Gender Nonconforming
-  - Students in Schools, October 2022
+  - 2019 - Court Decision - Gebser v. Lago Vista Independent School District (1998) 524 U.S. 274 - Court Decision - Oona by Kate S. v. McCaffrey (1998, 9th Cir.) 143 F.3d 473 - Court Decision - Reese v. Jefferson School District (2000, 9th Cir.) 208 F.3d 736 - Court Decision - Davis v. Monroe County Board of Education (1999) 526 U.S. 629 - Court Decision - Doe v. Petaluma City School District (1995, 9th Cir.) 54 F.3d 1447 - Court Decision - Donovan v. Poway Unified School District (2008) 167 Cal.App.4th 567 - Court Decision - Flores v. Morgan Hill Unified School District (2003, 9th Cir.) 324 F.3d 1130 - CSBA Publication - Safe Schools: Strategies for Governing Boards to Ensure Student Success,
+  - 2011 - CSBA Publication - Providing a Safe, Nondiscriminatory School Environment for Transgender - and Gender-Nonconforming Students, Policy Brief, February 2014 - CSBA Publication - Legal Guidance on Rights of Transgender and Gender Nonconforming - Students in Schools, October 2022 - Federal Register - Nondiscrimination on the Basis of Sex in Education Programs or Activities - Receiving Federal Financial Assistance, April 29, 2024, Vol. 89, No. 83,
+  - pages 33474-33896 - U.S. DOE, Office for Civil Rights Publication - Sexual Harassment: It's Not Academic, September 2008 - U.S. DOE, Office for Civil Rights Publication - Revised Sexual Harassment Guidance: Harassment of Students by School - Employees, Other Students, or Third Parties, January 2001 - U.S. DOE, Office for Civil Rights Publication - Examples of Policies and Emerging Practices for Supporting Transgender - Students, May 2016 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - CSBA - Website - U.S. Department of Education, Office for Civil Rights
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4117.7 - Employment Status Reports
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4319.21 - Professional Standards
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.9 - Hate-Motivated Behavior
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology

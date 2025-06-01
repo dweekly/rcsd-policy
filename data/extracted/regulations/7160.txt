@@ -53,8 +53,7 @@ The following procedures shall apply to a charter school's request for facilitie
 1. On or before November 1, a charter school shall submit a written request for facilities to the Superintendent or
 designee for the next fiscal year. The request shall include: (Education Code 47614; 5 CCR 11969.2, 11969.9)
  
-Board Policy Manual
-Redwood City School District
+
 
 a. Reasonable projections of in-district and total ADA and in-district and total classroom ADA, based on
 ADA claimed for apportionment, if any, in the fiscal year prior to the fiscal year in which the facilities
@@ -280,8 +279,7 @@ rather than through examination and cross-examination of witnesses.
  
 5. Any agreement reached by the parties shall be in writing and shall not set a precedent for any other case.
 
-Policy Reference Disclaimer:
- 
+
 6. The mediation shall be terminated if the district and the charter school fail to meet within the specified
 timelines, have not reached an agreement within 15 days from the first meeting held by the mediator, or if the
 mediator declares an impasse.
@@ -293,60 +291,38 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 1859.160-1859.172
-  - Leroy F. Greene School Facilities Program, specifically; Charter school
-  - facilities program
-  - 2 CCR 1859.2
-  - Definitions
-  - 2 CCR 1859.31
-  - Classroom inventory
-  - 5 CCR 11969.1-11969.10
-  - Charter school facilities
+  - 2 CCR 1859.160-1859.172 - Leroy F. Greene School Facilities Program, specifically; Charter school - facilities program
+  - 2 CCR 1859.2 - Definitions
+  - 2 CCR 1859.31 - Classroom inventory
+  - 5 CCR 11969.1-11969.10 - Charter school facilities
   - Ed. Code 17070.10-17080
   - Leroy F. Greene School Facilities Act of 1998
-  - Ed. Code 17078.52-17078.66
-  - Charter schools facility funding; state bond proceeds
-  - Ed. Code 17280-17317
-  - Field Act; approval of plans and supervision of construction
-  - Ed. Code 47600-47616.5
-  - Charter Schools Act
-  - Ed. Code 48204
-  - Residency requirements for school attendance
-  - Gov. Code 53094
-  - Authority to render zoning ordinances inapplicable
-  - Gov. Code 53097.3
-  - Charter school ordinances
+  - Ed. Code 17078.52-17078.66 - Charter schools facility funding; state bond proceeds
+  - Ed. Code 17280-17317 - Field Act; approval of plans and supervision of construction
+  - Ed. Code 47600-47616.5 - Charter Schools Act
+  - Ed. Code 48204 - Residency requirements for school attendance
+  - Gov. Code 53094 - Authority to render zoning ordinances inapplicable
+  - Gov. Code 53097.3 - Charter school ordinances
 
 Management Resources:
-  - Attorney General Opinion
-  - 80 Ops.Cal.Atty.Gen. 52 (1997)
-  - Court Decision
-  - Ridgecrest Charter School v. Sierra Sands Unified School District (2005) 130
-  - Cal.App.4th 986
-  - Court Decision
-  - Bullis Charter School v. Los Altos School District (2011) 200 Cal.App.4th
-  - 1022
-  - Court Decision
-  - Sequoia Union High School District v. Aurora Charter High School (2003)
-  - 112 Cal.App.4th 185
-  - CSBA Publication
-  - Charter School Facilities and Proposition 39: Legal Implications for School
-  - Districts, 2005
-  - CSBA Publication
-  - Charter Schools: A Guide for Governance Teams, rev. June 2021
-  - CSBA Publication
-  - The Role of the Charter School Authorizer, Online Course
-  - Office of Public School Construction Publication
-  - School Facility Program Handbook, May 2008
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Charter Schools Association
-  - Website
-  - California Department of Education, Charter Schools
-  - Website
-  - Coalition for Adequate School Housing
-  - Website
-  - Department of General Services, Office of Public School Construction
-  - Website
-  - CSBA
+  - 80 Ops.Cal.Atty.Gen. 52 (1997) - Court Decision - Ridgecrest Charter School v. Sierra Sands Unified School District (2005) 130
+  - Cal.App.4th 986 - Court Decision - Bullis Charter School v. Los Altos School District (2011) 200 Cal.App.4th
+  - 1022 - Court Decision - Sequoia Union High School District v. Aurora Charter High School (2003)
+  - 112 Cal.App.4th 185 - CSBA Publication
+  - Charter School Facilities and Proposition 39: Legal Implications for School - Districts, 2005 - CSBA Publication - Charter Schools: A Guide for Governance Teams, rev. June 2021 - CSBA Publication - The Role of the Charter School Authorizer, Online Course - Office of Public School Construction Publication - School Facility Program Handbook, May 2008 - Website - CSBA District and County Office of Education Legal Services - Website - California Charter Schools Association - Website - California Department of Education, Charter Schools - Website - Coalition for Adequate School Housing - Website - Department of General Services, Office of Public School Construction - Website - CSBA
+
+Cross References:
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5117 - Interdistrict Attendance
+  - 9323.2 - Actions By The Board

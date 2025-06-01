@@ -19,79 +19,48 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 8 CCR 11040
-  - Wages and hours; definitions of administrative, executive, and professional
-  - employees
-  - Ed. Code 42238.016
-  - Salary and Benefit Schedule for the Bargaining Units (Form J–90
-  - Ed. Code 44042.5
-  - Wage overpayment
-  - Ed. Code 45022-45061.5
-  - Salaries for certificated employees
-  - Ed. Code 45023
-  - Availability of salary schedule
-  - Ed. Code 45028
-  - Salary schedule and exceptions
-  - Ed. Code 45127-45133.5
-  - Classified employees; work week; overtime provisions
-  - Ed. Code 45160-45169
-  - Salaries for classified employees
-  - Ed. Code 45268
-  - Salary schedule for classified service in merit system districts
-  - Ed. Code 45500
-  - Classified School Employee Summer Assistance Program
-  - Gov. Code 3540-3549.3
-  - Meeting and negotiating
-  - Gov. Code 3543.2
-  - Scope of representation
-  - Gov. Code 3543.7
-  - Duty to meet and negotiate in good faith
-  - Lab. Code 226
-  - Employee access to payroll records
-  - Lab. Code 232
-  - Disclosure of wages
-  - Lab. Code 510
-  - Overtime Compensation
+  - 8 CCR 11040 - Wages and hours; definitions of administrative, executive, and professional - employees
+  - Ed. Code 42238.016 - Salary and Benefit Schedule for the Bargaining Units (Form J–90
+  - Ed. Code 44042.5 - Wage overpayment
+  - Ed. Code 45022-45061.5 - Salaries for certificated employees
+  - Ed. Code 45023 - Availability of salary schedule
+  - Ed. Code 45028 - Salary schedule and exceptions
+  - Ed. Code 45127-45133.5 - Classified employees; work week; overtime provisions
+  - Ed. Code 45160-45169 - Salaries for classified employees
+  - Ed. Code 45268 - Salary schedule for classified service in merit system districts
+  - Ed. Code 45500 - Classified School Employee Summer Assistance Program
+  - Gov. Code 3540-3549.3 - Meeting and negotiating
+  - Gov. Code 3543.2 - Scope of representation
+  - Gov. Code 3543.7 - Duty to meet and negotiate in good faith
+  - Lab. Code 226 - Employee access to payroll records
+  - Lab. Code 232 - Disclosure of wages
+  - Lab. Code 510 - Overtime Compensation
 
 Federal References:
-  - 26 CFR 1.409A-1
-  - Definitions and covered plans
-  - 26 USC 409A
-  - Deferred compensation plans
-  - 29 CFR 516.4
-  - Notice of minimum wage and overtime provisions
-  - 29 CFR 516.5-516.6
-  - Records
-  - 29 CFR 541.0-541.710
-  - Exemptions for executive, administrative, and professional employees
-  - 29 CFR 553.1-553.51
-  - Fair Labor Standards Act; applicability to public agencies
-  - 29 USC 201-219
-  - Fair Labor Standards Act
-  - 29 USC 203
-  - Definitions
-  - 29 USC 207
-  - Fair Labor Standards Act
-  - 29 USC 213
-  - Exemptions from minimum wage and overtime requirements
-  - Board Policy Manual
-  - Redwood City School District
+  - 26 CFR 1.409A-1 - Definitions and covered plans
+  - 26 USC 409A - Deferred compensation plans
+  - 29 CFR 516.4 - Notice of minimum wage and overtime provisions
+  - 29 CFR 516.5-516.6 - Records
+  - 29 CFR 541.0-541.710 - Exemptions for executive, administrative, and professional employees
+  - 29 CFR 553.1-553.51 - Fair Labor Standards Act; applicability to public agencies
+  - 29 USC 201-219 - Fair Labor Standards Act
+  - 29 USC 203 - Definitions
+  - 29 USC 207 - Fair Labor Standards Act
+  - 29 USC 213 - Exemptions from minimum wage and overtime requirements - Board Policy Manual - Redwood City School District
   - 198
 
-Management Resources:
-  - Court Decision
-  - Johnson v. Arvin-Edison Water Storage District (2009) 174 Cal.App.4th 729
-  - Court Decision
-  - Flores v. City of San Gabriel (9th Cir., 2016) 824 F.3d 890
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Labor, Wage and Hour Division
-  - Website
-  - Internal Revenue Service
-  - Website
-  - School Services of California, Inc.
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+Cross References:
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4000 - Concepts And Roles
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4112.6 - Personnel Files
+  - 4121 - Temporary/Substitute Personnel
+  - 4140 - Bargaining Units
+  - 4154 - Health And Welfare Benefits
+  - 6115 - Ceremonies And Observances

@@ -38,83 +38,69 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 11 CCR 701-708
-  - Criminal offender record information
-  - 11 CCR 720-724
-  - Incomplete criminal history information
-  - 11 CCR 994-994.15
-  - Certification of individuals who take fingerprint impressions
-  - Ed. Code 44010
-  - Sex offense; definitions
-  - Ed. Code 44011
-  - Controlled substance offense
-  - Ed. Code 44332-44332.6
-  - Temporary certificate of clearance
-  - Ed. Code 44346.1
-  - Applicants for credential; conviction of a violent or serious felony
-  - Ed. Code 44830.1
-  - Criminal record summary; certificated employees
-  - Ed. Code 44830.2
-  - Certificated employees; interagency agreement for sharing criminal record
-  - information
-  - Ed. Code 44836
-  - Employment of certificated persons convicted of sex offense or controlled
-  - substance offense
-  - Ed. Code 44932
-  - Grounds for dismissal of permanent employees
-  - Board Policy Manual
-  - Redwood City School District
+  - 11 CCR 701-708 - Criminal offender record information
+  - 11 CCR 720-724 - Incomplete criminal history information
+  - 11 CCR 994-994.15 - Certification of individuals who take fingerprint impressions
+  - Ed. Code 44010 - Sex offense; definitions
+  - Ed. Code 44011 - Controlled substance offense
+  - Ed. Code 44332-44332.6 - Temporary certificate of clearance
+  - Ed. Code 44346.1 - Applicants for credential; conviction of a violent or serious felony
+  - Ed. Code 44830.1 - Criminal record summary; certificated employees
+  - Ed. Code 44830.2 - Certificated employees; interagency agreement for sharing criminal record - information
+  - Ed. Code 44836 - Employment of certificated persons convicted of sex offense or controlled - substance offense
+  - Ed. Code 44932 - Grounds for dismissal of permanent employees - Board Policy Manual - Redwood City School District
   - 62
-  - Ed. Code 45122.1
-  - Classified employees; conviction of a violent or serious felony
-  - Ed. Code 45125
-  - Use of personal identification cards to ascertain conviction of crime
-  - Ed. Code 45125.01
-  - Interagency agreements for criminal record information
-  - Ed. Code 45125.5
-  - Automated records check
-  - Ed. Code 45126
-  - Duty of Department of Justice to furnish information
-  - Ed. Code 49024
-  - Activity Supervisor Clearance Certificate
-  - Gov. Code 12954
-  - Employment discrimination; cannabis use
-  - H&S Code 11350
-  - Offenses Involving Controlled Substances Formerly Classified as Narcotics
-  - H&S Code 11377
-  - Offenses Involving Controlled Substances Formerly Classified as Restricted
-  - Dangerous Drugs
-  - Pen. Code 11075-11081
-  - Criminal record dissemination
-  - Pen. Code 11102.2
-  - Maintenance of criminal offender records; custodian of records
-  - Pen. Code 11105
-  - Access to criminal history information
-  - Pen. Code 11105.2
-  - Subsequent arrest notification
-  - Pen. Code 11105.3
-  - Record of conviction involving sex crimes, drug crimes or crimes of violence
-  - Pen. Code 11140-11144
-  - Furnishing of state criminal history information
-  - Pen. Code 1192.7
-  - Plea bargaining limitation
-  - Pen. Code 1203.4
-  - Dismissal of conviction
-  - Pen. Code 1203.425
-  - Conviction relief
-  - Pen. Code 13300-13305
-  - Local summary criminal history information
-  - Pen. Code 667.5
-  - Prior prison terms; enhancement of prison terms
-  - State
+  - Ed. Code 45122.1 - Classified employees; conviction of a violent or serious felony
+  - Ed. Code 45125 - Use of personal identification cards to ascertain conviction of crime
+  - Ed. Code 45125.01 - Interagency agreements for criminal record information
+  - Ed. Code 45125.5 - Automated records check
+  - Ed. Code 45126 - Duty of Department of Justice to furnish information
+  - Ed. Code 49024 - Activity Supervisor Clearance Certificate
+  - Gov. Code 12954 - Employment discrimination; cannabis use - H&S Code 11350 - Offenses Involving Controlled Substances Formerly Classified as Narcotics - H&S Code 11377 - Offenses Involving Controlled Substances Formerly Classified as Restricted - Dangerous Drugs
+  - Pen. Code 11075-11081 - Criminal record dissemination
+  - Pen. Code 11102.2 - Maintenance of criminal offender records; custodian of records
+  - Pen. Code 11105 - Access to criminal history information
+  - Pen. Code 11105.2 - Subsequent arrest notification
+  - Pen. Code 11105.3 - Record of conviction involving sex crimes, drug crimes or crimes of violence
+  - Pen. Code 11140-11144 - Furnishing of state criminal history information
+  - Pen. Code 1192.7 - Plea bargaining limitation
+  - Pen. Code 1203.4 - Dismissal of conviction
+  - Pen. Code 1203.425 - Conviction relief
+  - Pen. Code 13300-13305 - Local summary criminal history information
+  - Pen. Code 667.5 - Prior prison terms; enhancement of prison terms
 
 Management Resources:
-  - Court Decision
-  - Central Valley Chapter of the 7th Step Foundation Inc. v. Evelle J. Younger
-  - (1989) 214 Cal. App. 3d 145
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Office of the Attorney General, Department of Justice, Background Checks
-  - Website
-  - CSBA
+  - Central Valley Chapter of the 7th Step Foundation Inc. v. Evelle J. Younger - (1989) 214 Cal. App. 3d 145 - Website - CSBA District and County Office of Education Legal Services - Website - Office of the Attorney General, Department of Justice, Background Checks - Website - CSBA
+
+Cross References:
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2120 - Superintendent Recruitment And Selection
+  - 3542 - School Bus Drivers
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.6 - Personnel Files
+  - 4112.9 - Employee Notifications
+  - 4116 - Probationary/Permanent Status
+  - 4116 - Probationary/Permanent Status
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4121 - Temporary/Substitute Personnel
+  - 4200 - Classified Personnel
+  - 4200 - Classified Personnel
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 9011 - Disclosure Of Confidential/Privileged Information

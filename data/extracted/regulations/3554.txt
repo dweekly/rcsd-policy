@@ -53,10 +53,9 @@ following conditions are met: (5 CCR 15500)
 6. The food sold is a dessert-type food, such as pastry, ice cream, or fruit.
  
 7. The food sold is not one sold in the district's food service program at that school during that school day.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 In junior high and high schools, a student organization may be approved to sell food items during or after the school
 day if all of the following conditions are met: (5 CCR 15501)
 1. Only one student organization conducts a food sale on a given school day and the organization sells no more
@@ -75,37 +74,43 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 15500
-  - Food sales in elementary schools
-  - 5 CCR 15501
-  - Food sales in high schools and junior high schools
-  - 5 CCR 15575-15578
-  - Requirements for foods and beverages outside the
+  - 5 CCR 15500 - Food sales in elementary schools
+  - 5 CCR 15501 - Food sales in high schools and junior high schools
+  - 5 CCR 15575-15578 - Requirements for foods and beverages outside the federal meals program
+  - Ed. Code 35182.5 - Contracts for advertising
+  - Ed. Code 48931 - Authorization for sale of food by student organization
+  - Ed. Code 49430-49434 - Pupil Nutrition, Health, and Achievement Act of 2001
+  - Ed. Code 51520 - Prohibited solicitations on school premises - H&S Code 113700-114437 - California Retail Food Code; sanitation and safety requirements
 
 Federal References:
-  - 42 USC 1751-1769j
-  - School Lunch Program
-  - 42 USC 1758b
-  - Local wellness policy
-  - 42 USC 1771-1791
-  - Child nutrition
-  - 7 CFR 210.1-210.33
-  - National School Lunch Program
-  - 7 CFR 220.1-220.21
-  - National School Breakfast Program
+  - 42 USC 1751-1769j - School Lunch Program
+  - 42 USC 1758b - Local wellness policy
+  - 42 USC 1771-1791 - Child nutrition
+  - 7 CFR 210.1-210.33 - National School Lunch Program
+  - 7 CFR 220.1-220.21 - National School Breakfast Program
 
 Management Resources:
-  - CA DOE Management Bulletin
-  - 06-110 Restrictions on Food and Beverage Sales Outside of the School
-  - Meal Program, August 2006
-  - CSBA Publication
-  - Monitoring for Success: Student Wellness Policy Implementation
-  - Monitoring Report and Guide, 2008
-  - CSBA Publication
-  - Nutrition Standards for Schools: Implications for Student Wellness, Policy
-  - Brief, October 2007
-  - CSBA Publication
-  - Student Wellness: A Healthy Food and Physical Activity Policy Resource
-  - Guide, April 2006
-  - Fiscal Crisis & Management Assistance Team Pub. Associated Student Body Accounting Manual and Desk Reference, 2002
-  - Natl. Assoc. of
+  - 06-110 Restrictions on Food and Beverage Sales Outside of the School - Meal Program, August 2006 - CSBA Publication - Monitoring for Success: Student Wellness Policy Implementation - Monitoring Report and Guide, 2008 - CSBA Publication - Nutrition Standards for Schools: Implications for Student Wellness, Policy - Brief, October 2007 - CSBA Publication - Student Wellness: A Healthy Food and Physical Activity Policy Resource - Guide, April 2006 - Fiscal Crisis & Management Assistance Team Pub. Associated Student Body Accounting Manual and Desk Reference, 2002 - Natl. Assoc. of State Boards Of Ed. Pub. - Fit, Healthy and Ready to Learn, 2000 - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Dept. of Agriculture, Food and Nutrition Information Center - Website - California Project LEAN (Leaders Encouraging Activity and Nutrition) - Website - Centers for Disease Control and Prevention
+  - 289 - Website - National Association of State Boards of Education - Website - California Department of Education, School Nutrition - Website - California Department of Public Health - Website - California Healthy Kids Resource Center - Website - CSBA - Website - Fiscal Crisis and Management Assistance Team
+
+Cross References:
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1321 - Solicitation Of Funds From And By Students
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3312 - Contracts
+  - 3452 - Student Activity Funds
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 5030 - Student Wellness
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities

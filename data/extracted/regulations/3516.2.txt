@@ -36,29 +36,43 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 44810
-  - Willful interference with classroom conduct
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Ed. Code 49390-49395
-  - Homicide threats
-  - Ed. Code 51202
-  - Instruction in personal and public health and safety
-  - Pen. Code 148.1
-  - False report of explosive or facsimile bomb
-  - Pen. Code 17
-  - Felony, misdemeanor, classification of offenses
-  - Pen. Code 245
-  - Assault with deadly weapon
+  - Ed. Code 44810 - Willful interference with classroom conduct
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 49390-49395 - Homicide threats
+  - Ed. Code 51202 - Instruction in personal and public health and safety
+  - Pen. Code 148.1 - False report of explosive or facsimile bomb
+  - Pen. Code 17 - Felony, misdemeanor, classification of offenses
+  - Pen. Code 245 - Assault with deadly weapon
 
 Federal References:
-  - 6 USC 665k
-  - Federal Clearinghouse on School Safety Evidence-Based Practices
+  - 6 USC 665k - Federal Clearinghouse on School Safety Evidence-Based Practices
 
 Management Resources:
-  - U.S. Dept. of Homeland Security Publication
-  - Bomb Threat Guidance
-  - U.S. Dept. of Homeland Security Publication
-  - Bomb Threat Checklist
-  - Website
-  - California
+  - 222 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Safe Schools - Website - U.S. Department of Homeland Security - Website - CSBA
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1112 - Media Relations
+  - 1313 - Civility
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.1 - Fire Drills And Fires
+  - 3516.5 - Emergency Schedules
+  - 4040 - Employee Use Of Technology
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5131 - Conduct
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 6164.2 - Guidance/Counseling Services

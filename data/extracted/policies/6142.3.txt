@@ -39,70 +39,53 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 233.5
-  - Teaching of principles
-  - Ed. Code 33540
-  - Standards for government and civics instruction
-  - Ed. Code 37221
-  - Commemorative exercises including anniversary of U.S. Constitution
-  - Ed. Code 48205
-  - Absence from school for jury duty or precinct board service
-  - Ed. Code 49040-49041
-  - Student voter registration
+  - Ed. Code 233.5 - Teaching of principles
+  - Ed. Code 33540 - Standards for government and civics instruction
+  - Ed. Code 37221 - Commemorative exercises including anniversary of U.S. Constitution
+  - Ed. Code 48205 - Absence from school for jury duty or precinct board service
+  - Ed. Code 49040-49041 - Student voter registration
   - Ed. Code 51210
   - Course of study for grades 1-6
   - Ed. Code 51220
   - Course of study for grades 7-12
-  - Ed. Code 51470-51475
-  - State Seal of Civic Engagement
-  - Ed. Code 54
-  - Student service on boards and commissions
-  - Elec. Code 12302
-  - Precinct boards; appointment of students
-  - Elec. Code 2146
-  - Student voter registration
-  - Elec. Code 2148
-  - Student voter registration; contact person
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 51470-51475 - State Seal of Civic Engagement
+  - Ed. Code 54 - Student service on boards and commissions
+  - Elec. Code 12302 - Precinct boards; appointment of students
+  - Elec. Code 2146 - Student voter registration
+  - Elec. Code 2148 - Student voter registration; contact person - Board Policy Manual - Redwood City School District
   - 56
 
 Federal References:
-  - 20 USC 6711-6716
-  - Education for Democracy Act
-  - 36 USC 101-144
-  - Patriotic observances
+  - 20 USC 6711-6716 - Education for Democracy Act
+  - 36 USC 101-144 - Patriotic observances
 
 Management Resources:
-  - American Bar Association Publication
-  - Essentials of Law-Related Education, rev. 2003
-  - California Department of Education Publication
-  - History-Social Science Content Standards
-  - California Department of Education Publication
-  - History-Social Science Framework for California Public Schools
-  - Center For Civic Education Publication
-  - National Standards for Civics and Government, 1994
-  - Center For Civic Education Publication
-  - Education for Democracy: California Civic Education Scope & Sequence,
-  - 2003
-  - National Assessment of Educational Progress
-  - (NAEP)
-  - Civics Assessment
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Assessment of Educational Progress, Civics Assessment:
-  - Website
-  - National Council for the Social Studies
-  - Website
-  - American Bar Association
-  - Website
-  - American Political Science Association
-  - Website
-  - Bill of Rights Institute
-  - Website
-  - California Association of Student Leaders
-  - Website
-  - California Council for the Social Studies
-  - Website
-  - California Secretary of
+  - 2003 - National Assessment of Educational Progress - (NAEP) - Civics Assessment - Website - CSBA District and County Office of Education Legal Services - Website - National Assessment of Educational Progress, Civics Assessment: - Website - National Council for the Social Studies - Website - American Bar Association - Website - American Political Science Association - Website - Bill of Rights Institute - Website - California Association of Student Leaders - Website - California Council for the Social Studies - Website - California Secretary of State Online Voter Registration - Website - Center for California Studies - Website - Center for Civic Education - Website - Center for Information and Research on Civic Learning and Engagement - Website - Constitutional Rights Foundation - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.9 - Hate-Motivated Behavior
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6115 - Ceremonies And Observances
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.5 - Environmental Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 9000 - Role Of The Board

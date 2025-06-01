@@ -47,10 +47,9 @@ the Board encourages the parent to confer with the teacher. Issues falling into 
 limited to, time spent on homework and amount or type of homework. During the meeting, the teacher and parent
 or guardian may determine whether adjustments are appropriate. If issues are not resolved with the teacher, the
 parent is encouraged to meet with the principal.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 Make up Work
 Students who miss schoolwork because of an excused absence shall be given the opportunity to complete all
 assignments and tests that can be reasonably provided. As determined by the teacher, the assignments and tests
@@ -68,42 +67,48 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 46120
-  - Expanded Learning Opportunities Program
-  - Ed. Code 48205
-  - Absence from school for jury duty or precinct board service
-  - Ed. Code 48913
-  - Completion of work missed by suspended student
-  - Ed. Code 48913.5
-  - Suspended students; homework assignments
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 56341.1
-  - Assistive technology devices for a student with a disability
+  - Ed. Code 46120 - Expanded Learning Opportunities Program
+  - Ed. Code 48205 - Absence from school for jury duty or precinct board service
+  - Ed. Code 48913 - Completion of work missed by suspended student
+  - Ed. Code 48913.5 - Suspended students; homework assignments
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 56341.1 - Assistive technology devices for a student with a disability
   - Ed. Code 8420-8428
   - 21st Century High School After School Safety and Enrichment for Teens
-  - Ed. Code 8482-8484.65
-  - After School Education and Safety Program
+  - Ed. Code 8482-8484.65 - After School Education and Safety Program
   - Ed. Code 8484.7-8484.9
   - 21st Century Community Learning Centers
 
 Federal References:
-  - 20 USC 1401
-  - Assistive technology device; definition
+  - 20 USC 1401 - Assistive technology device; definition
   - 20 USC 7171-7176
   - 21st Century Community Learning Centers
 
-Management Resources:
-  - CSBA Publication
-  - Research-Supported Strategies to Improve the Accuracy and Fairness of
-  - Grades, Governance Brief, July 2016
-  - USDOE Office of Educational Technology
-  - Publication
-  - Artificial Intelligence and the Future of Teaching and Learning: Insights and
-  - Recommendations, May 2023
-  - Website
-  - Metropolitan Educational Research Consortium
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California
+Cross References:
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3541 - Transportation Routes And Services
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5131.9 - Academic Honesty
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6163.1 - Library Media Centers
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6177 - Summer Learning Programs

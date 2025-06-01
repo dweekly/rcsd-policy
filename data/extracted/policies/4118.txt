@@ -52,10 +52,9 @@ Except for notices that only include charges of unsatisfactory performance, the 
 served at any time of year. Such notice shall be served upon the employee personally if given outside of the instructional year
 or, if given during the instructional year, may be served personally or by registered mail to the employee's last known address.
 Notices with a charge of unsatisfactory performance shall be given only during the instructional year of the school site where
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 the employee is physically employed, and may be served personally or by registered mail to the employee's last known
 address. (Education Code 44936)
 If an employee has been served notice and demands a hearing pursuant to Government Code 11505 and 11506, the Board
@@ -77,91 +76,110 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 80303
-  - Reports of change in employment status; alleged misconduct
-  - 5 CCR 80304
-  - Notice of sexual misconduct
-  - CA Constitution Article 1, Section 1
-  - Inalienable rights
-  - Ed. Code 44008
-  - Effect of termination of probation
-  - Ed. Code 44009
-  - Conviction of specified crimes
-  - Ed. Code 44010
-  - Sex offense; definitions
-  - Ed. Code 44011
-  - Controlled substance offense
-  - Ed. Code 44242.5
-  - Reports and review of alleged misconduct
-  - Ed. Code 44425
-  - Conviction of a sex or narcotic offense
-  - Ed. Code 44660-44665
-  - Evaluation and assessment of performance of certificated employees
-  - Ed. Code 44830.1
-  - Criminal record summary; certificated employees
-  - Ed. Code 44929.21
-  - Notice of reelection decision; districts with 250 ADA or more
+  - 5 CCR 80303 - Reports of change in employment status; alleged misconduct
+  - 5 CCR 80304 - Notice of sexual misconduct
+  - CA Constitution Article 1, Section 1 - Inalienable rights
+  - Ed. Code 44008 - Effect of termination of probation
+  - Ed. Code 44009 - Conviction of specified crimes
+  - Ed. Code 44010 - Sex offense; definitions
+  - Ed. Code 44011 - Controlled substance offense
+  - Ed. Code 44242.5 - Reports and review of alleged misconduct
+  - Ed. Code 44425 - Conviction of a sex or narcotic offense
+  - Ed. Code 44660-44665 - Evaluation and assessment of performance of certificated employees
+  - Ed. Code 44830.1 - Criminal record summary; certificated employees
+  - Ed. Code 44929.21 - Notice of reelection decision; districts with 250 ADA or more
   - Ed. Code 44929.23
   - Districts with less than 250 ADA
-  - Ed. Code 44930-44988
-  - Resignations, dismissals and leaves of absence
-  - Ed. Code 45055
-  - Drawing of warrants for teachers
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 51530
-  - Advocacy or teaching of communism
-  - Gov. Code 1028
-  - Advocacy of communism
-  - Gov. Code 11505-11506
-  - Hearing
-  - Gov. Code 12954
-  - Employment discrimination; cannabis use
-  - Gov. Code 3543.2
-  - Scope of representation
-  - H&S Code 11054
-  - Schedule I; substances included
-  - H&S Code 11055
-  - Schedule II; substances included
-  - H&S Code 11056
-  - Schedule III; substances included
-  - 104
-  - H&S Code 11357-11361
-  - Marijuana
-  - H&S Code 11363
-  - Peyote
-  - H&S Code 11364
-  - Opium
-  - H&S Code 11370.1
-  - Possession of controlled substances with a firearm
-  - Pen. Code 11165.2-11165.6
-  - Child abuse or neglect; definitions
-  - Pen. Code 1192.7
-  - Plea bargaining limitation
-  - Pen. Code 187
-  - Murder
-  - Pen. Code 291
-  - School employees arrest for sex offense
-  - Pen. Code 667.5
-  - Prior prison terms; enhancement of prison terms
-  - State
-
-Federal References:
-  - U.S. Constitution, First Amendment
-  - Free exercise, free speech, and establishment clauses
+  - Ed. Code 44930-44988 - Resignations, dismissals and leaves of absence
+  - Ed. Code 45055 - Drawing of warrants for teachers
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 51530 - Advocacy or teaching of communism
+  - Gov. Code 1028 - Advocacy of communism
+  - Gov. Code 11505-11506 - Hearing
+  - Gov. Code 12954 - Employment discrimination; cannabis use
+  - Gov. Code 3543.2 - Scope of representation - H&S Code 11054 - Schedule I; substances included - H&S Code 11055 - Schedule II; substances included - H&S Code 11056 - Schedule III; substances included
+  - 104 - H&S Code 11357-11361 - Marijuana - H&S Code 11363 - Peyote - H&S Code 11364 - Opium - H&S Code 11370.1 - Possession of controlled substances with a firearm
+  - Pen. Code 11165.2-11165.6 - Child abuse or neglect; definitions
+  - Pen. Code 1192.7 - Plea bargaining limitation
+  - Pen. Code 187 - Murder
+  - Pen. Code 291 - School employees arrest for sex offense
+  - Pen. Code 667.5 - Prior prison terms; enhancement of prison terms
 
 Management Resources:
-  - Commission on Teacher Credentialing Publication California's Laws and Rules Pertaining to the Discipline of Professional
-  - Certificated Personnel, 2007
-  - Court Decision
-  - Visalia Unified School District v. Public Employment Relations Board (2024)
-  - 98 Cal.App.5th 844
-  - Court Decision
-  - Kennedy v. Bremerton (2022) 142 S.Ct. 2407
-  - Court Decision
-  - Crowl v. Commission on Professional Competence (1990) 225 Cal. App. 3d
-  - 334
-  - Court Decision
-  - Morrison v.
+  - 98 Cal.App.5th 844 - Court Decision - Kennedy v. Bremerton (2022) 142 S.Ct. 2407 - Court Decision - Crowl v. Commission on Professional Competence (1990) 225 Cal. App. 3d
+  - 334 - Court Decision - Morrison v. State Board of Education (1969) 1 Cal.3d 214 - U.S. Department of Education Publication - Guidance on Constitutionally Protected Prayer and Religious Expression in - Public Elementary and Secondary Schools, May 2023 - Website - Office of the Attorney General - Website - Office of Administrative Hearings - Website - Department of General Services, About Teacher Dismissal Case Type - Website - CSBA District and County Office of Education Legal Services - Website - Commission on Teacher Credentialing - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3512 - Equipment
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516.2 - Bomb Threats
+  - 4000 - Concepts And Roles
+  - 4020 - Drug And Alcohol-Free Workplace
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4040 - Employee Use Of Technology
+  - 4112.1 - Contracts
+  - 4112.4 - Health Examinations
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4112.5 - Criminal Record Check
+  - 4112.6 - Personnel Files
+  - 4112.9 - Employee Notifications
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4117.7 - Employment Status Reports
+  - 4119.1 - Civil And Legal Rights
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.21 - Professional Standards
+  - 4119.22 - Dress And Grooming
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4136 - Nonschool Employment
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4154 - Health And Welfare Benefits
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4159 - Employee Assistance Programs
+  - 4161 - Leaves
+  - 4219.1 - Civil And Legal Rights
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4219.21 - Professional Standards
+  - 4219.22 - Dress And Grooming
+  - 4236 - Nonschool Employment
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 4261 - Leaves
+  - 4319.1 - Civil And Legal Rights
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4319.21 - Professional Standards
+  - 4319.22 - Dress And Grooming
+  - 4336 - Nonschool Employment
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 6162.54 - Test Integrity/Test Preparation
+  - 9000 - Role Of The Board

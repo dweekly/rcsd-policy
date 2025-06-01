@@ -9,90 +9,105 @@ Source: RCSD Policies 1000.pdf (Pages 32, 33, 34, 35, 36)
 
 Original Adopted Date: 09/11/2013
 See PDF on the next page.
-Board Policy Manual
-Redwood City School District
+
 
 PLEASE SEE DISTRICT MATERIAL AT THE DISTRICT OFFICE FOR
 EXHIBIT 1114 TITLED
 "DISTRICT WEB AND SOCIAL MEDIA USAGE GUIDELINES"
 
-Policy Reference Disclaimer:These references are not intended to be part of the policy itself, nor do they indicate the
-basis or authority for the Governing Board to enact this policy. Instead, they are provided as additional resources for
-those interested in the subject matter of the policy.
-State
-Description
-Ed. Code 32260-32262
-Interagency School Safety Demonstration Act of 1985
-Ed. Code 35182.5
-Contracts for advertising
-Ed. Code 48900
-Grounds for suspension or expulsion
-Ed. Code 48907
-Exercise of free expression; time, place, and manner rules and
-regulations
-Ed. Code 48950
-Speech and other communication
-Ed. Code 49061
-Definitions; directory information
-Ed. Code 49073
-Release of directory information
-Ed. Code 60048
-Commercial brand names, contracts or logos
-Gov. Code 3307.5
-Publishing identity of public safety officers
-Gov. Code 54952.2
-Brown Act; definition of meeting
-Gov. Code 7920.000-7930.215
-California Public Records Act
-
 ================================================================================
 REFERENCES
 ================================================================================
 
+State References:
+  - Ed. Code 32260-32262
+  - Interagency School Safety Demonstration Act of 1985
+  - Ed. Code 35182.5 - Contracts for advertising
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and - regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 49061 - Definitions; directory information
+  - Ed. Code 49073 - Release of directory information
+  - Ed. Code 60048 - Commercial brand names, contracts or logos
+  - Gov. Code 3307.5 - Publishing identity of public safety officers
+  - Gov. Code 54952.2 - Brown Act; definition of meeting
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
+
 Federal References:
-  - 17 USC 101-1101
-  - Federal copyright law
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 29 USC 157
-  - Employee rights to engage in concerted, protected activity
+  - 17 USC 101-1101 - Federal copyright law
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 29 USC 157 - Employee rights to engage in concerted, protected activity
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
 
 Management Resources:
-  - Court Decision
-  - Lindke v. Freed (2024) 601 U.S. 187
-  - Court Decision
-  - Aaris v. Las Virgenes Unified School District (1998) 64 Cal.App.4th
-  - 1112
-  - Court Decision
-  - Board of Education, Island Trees Union Free School District, et.al.
-  - v. Pico (1982) 457 U.S. 853
-  - Court Decision
-  - Page v. Lexington County School District (2008, 4th Cir.) 531 F.3d
-  - 275
-  - Court Decision
-  - Perry Education Association v. Perry Local Educators' Association
-  - (1983) 460 U.S. 37
-  - Court Decision
-  - Downs v. Los Angeles Unified School District (9th Cir. 2000) 228
-  - F.3d 1003
-  - Facebook Publication
-  - Facebook for Educators Guide, 2013
-  - National Labor Relations Board Decision
-  - 18-CA-1908
-  - Sears Holdings, December 4, 2009
-  - Website
-  - Meta in Education
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - 34
-  - Website
-  - Facebook, privacy resources
-  - Website
-  - California School Public Relations Association
-  - Website
-  - CSBA
-  - Management Resources
+  - 1112 - Court Decision - Board of Education, Island Trees Union Free School District, et.al. - v. Pico (1982) 457 U.S. 853 - Court Decision - Page v. Lexington County School District (2008, 4th Cir.) 531 F.3d
+  - 275 - Court Decision - Perry Education Association v. Perry Local Educators' Association - (1983) 460 U.S. 37 - Court Decision - Downs v. Los Angeles Unified School District (9th Cir. 2000) 228
+  - F.3d 1003 - Facebook Publication - Facebook for Educators Guide, 2013 - National Labor Relations Board Decision
+  - 18-CA-1908 - Sears Holdings, December 4, 2009 - Website - Meta in Education - Website - CSBA District and County Office of Education Legal Services
+  - 34 - Website - Facebook, privacy resources - Website - California School Public Relations Association - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0510 - School Accountability Report Card
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1160 - Political Processes
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1260 - Educational Foundation
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4040 - Employee Use Of Technology
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4132 - Publication Or Creation Of Materials
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5131 - Conduct
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 9010 - Public Statements

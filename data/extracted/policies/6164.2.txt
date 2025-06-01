@@ -58,8 +58,7 @@ Educational And Career Counseling
 Beginning in grade 7, parents/guardians shall receive a general notice at least once before career counseling and course
 selection so that they may participate in the counseling sessions and decisions. (Education Code 221.5)
 The educational counseling program shall include academic counseling in the following areas:
-Board Policy Manual
-Redwood City School District
+
 
 1. Development and implementation, with parent/guardian involvement, of the student's immediate and long-range
 educational plans
@@ -115,7 +114,7 @@ simulated work-based learning opportunities through college and/or career fairs.
 Personal or Mental Health Counseling
 A school counselor, school psychologist, or school social worker may provide individualized personal, mental health, or family
 
-Policy Reference Disclaimer:
+
 counseling to students in accordance with the specialization(s) authorized by their credential. Such services may include, but
 are not limited to, support related to the student's social and emotional development, behavior, substance abuse, mental
 health assessment, depression, or mental illness. As appropriate, students and their parents/guardians shall be informed about
@@ -153,75 +152,103 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 4930-4931
-  - Counseling
-  - 5 CCR 80049-80049.1
-  - Pupil Personnel Services credential
-  - 5 CCR 80632-80632.5
-  - Preparation programs for Pupil Personnel Services
-  - Ed. Code 221.5
-  - Equal opportunity
-  - Ed. Code 44266
-  - Pupil Personnel Services credential
-  - Ed. Code 48431
-  - Establishing and maintaining high school guidance and placement program
-  - Ed. Code 49600-49604
-  - Educational counseling
-  - Ed. Code 51250-51251
-  - Assistance to military dependents
-  - Ed. Code 51513
-  - Personal beliefs
-  - Ed. Code 52770
-  - College and career fairs; community college districts
+  - 5 CCR 4930-4931 - Counseling
+  - 5 CCR 80049-80049.1 - Pupil Personnel Services credential
+  - 5 CCR 80632-80632.5 - Preparation programs for Pupil Personnel Services
+  - Ed. Code 221.5 - Equal opportunity
+  - Ed. Code 44266 - Pupil Personnel Services credential
+  - Ed. Code 48431 - Establishing and maintaining high school guidance and placement program
+  - Ed. Code 49600-49604 - Educational counseling
+  - Ed. Code 51250-51251 - Assistance to military dependents
+  - Ed. Code 51513 - Personal beliefs
+  - Ed. Code 52770 - College and career fairs; community college districts
   - 205
-  - Ed. Code 52770
-  - College and career fairs
-  - Ed. Code 54680-54685
-  - Dream Resource Center Grant Program
-  - Fam. Code 6920-6930
-  - Consent by minor for medical treatment
-  - Gov. Code 7927.700
-  - Exemption for personnel records if invasion of personal privacy
-  - H&S Code 124260
-  - Mental health services; consent by minors age 12 and older
-  - Lab. Code 3074.2
-  - College and career fairs; notice to apprenticeship programs
-  - Pen. Code 11166-11170
-  - Reporting known or suspected cases of child abuse
-  - W&I Code 5850-5883
-  - Mental Health Services Act
-  - State
+  - Ed. Code 52770 - College and career fairs
+  - Ed. Code 54680-54685 - Dream Resource Center Grant Program
+  - Fam. Code 6920-6930 - Consent by minor for medical treatment
+  - Gov. Code 7927.700 - Exemption for personnel records if invasion of personal privacy - H&S Code 124260 - Mental health services; consent by minors age 12 and older
+  - Lab. Code 3074.2 - College and career fairs; notice to apprenticeship programs
+  - Pen. Code 11166-11170 - Reporting known or suspected cases of child abuse - W&I Code 5850-5883 - Mental Health Services Act
 
 Federal References:
-  - 10 USC 503
-  - Military recruiter access to directory information
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 7908
-  - Armed forces recruiter access to students and student recruiting
-  - information
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
+  - 10 USC 503 - Military recruiter access to directory information
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 7908 - Armed forces recruiter access to students and student recruiting - information
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
 
 Management Resources:
-  - California Department of Education Publication
-  - California Results-Based School Counseling and Student Support Guidelines,
-  - 2007
-  - U.S. Department of Education Publication
-  - Protecting Student Privacy: Frequently Asked Questions
-  - Website
-  - California Division of Apprenticeship Standards
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Association of School Counselors
-  - Website
-  - U.S. Department of Education, access to military recruiters
-  - Website
-  - American School Counselor Association
-  - Website
-  - Commission on Teacher Credentialing
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+  - 2007 - U.S. Department of Education Publication - Protecting Student Privacy: Frequently Asked Questions - Website - California Division of Apprenticeship Standards - Website - CSBA District and County Office of Education Legal Services - Website - California Association of School Counselors - Website - U.S. Department of Education, access to military recruiters - Website - American School Counselor Association - Website - Commission on Teacher Credentialing - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.2 - Bomb Threats
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5136 - Gangs
+  - 5136 - Gangs
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.5 - Mental Health
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.6 - School Health Services
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.9 - Hate-Motivated Behavior
+  - 5147 - Dropout Prevention
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

@@ -33,21 +33,19 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 45100-45139
-  - Employment of classified staff
-  - Ed. Code 45160-45169
-  - Salaries for classified employees
-  - Ed. Code 45190-45210
-  - Leaves of absence; classified
-  - Ed. Code 45220-45320
-  - Merit system; classified employees
-  - Ed. Code 49406
-  - TB risk assessment
-  - Ed. Code 51760-51769.5
-  - Work experience education
+  - Ed. Code 45100-45139 - Employment of classified staff
+  - Ed. Code 45160-45169 - Salaries for classified employees
+  - Ed. Code 45190-45210 - Leaves of absence; classified
+  - Ed. Code 45220-45320 - Merit system; classified employees
+  - Ed. Code 49406 - TB risk assessment
+  - Ed. Code 51760-51769.5 - Work experience education
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California School Employees Association
+Cross References:
+  - 0200 - Goals For The School District
+  - 3312 - Contracts
+  - 3542 - School Bus Drivers
+  - 4112.4 - Health Examinations
+  - 4112.5 - Criminal Record Check
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4231 - Staff Development

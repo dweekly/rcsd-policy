@@ -57,8 +57,7 @@ consistent with federal tax laws
 7. Determines the amortization (maturity) schedule which will fit best within the overall debt structure of the
 district at the time the new debt is issued
  
-Board Policy Manual
-Redwood City School District
+
 
 8. Considers the useful lives of assets funded by the debt issue, as well as repair and replacement costs of those
 assets to be incurred in the future
@@ -214,7 +213,7 @@ proposed issuance to the California Debt and Investment Advisory Commission (CDI
 self-certification that the district has adopted a policy concerning the use of debt that complies with law and that the
 contemplated debt issuance is consistent with that policy. (Government Code 8855)
 
-Policy Reference Disclaimer:
+
 On or before January 31 of each year, the Superintendent or designee shall submit a report to the CDIAC regarding
 the debt authorized, the debt outstanding, and the use of proceeds of the issued debt for the period from July 1 to
 June 30. (Government Code 8855)
@@ -240,98 +239,54 @@ REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 13A, Section 1
-  - Tax limitation
-  - CA Constitution Article 16, Section 18
-  - Debt limit
-  - Ed. Code 15100-15262
-  - Bonds for school districts and community college districts
-  - Ed. Code 15264-15276
-  - Strict accountability in local school construction bonds
-  - Ed. Code 15278-15288
-  - Citizen's oversight committees
-  - Ed. Code 15300-15425
-  - School facilities improvement districts
-  - Ed. Code 17150
-  - Public disclosure of non-voter-approved debt
-  - Ed. Code 17400-17429
-  - Leasing of school buildings
-  - Ed. Code 17450-17453.1
-  - Leasing of equipment
-  - Ed. Code 17456
-  - Sale or lease of district property
-  - Ed. Code 17596
-  - Limit on continuing contracts
-  - Ed. Code 42130-42134
-  - Financial reports and certifications
-  - Ed. Code 5300-5441
-  - Conduct of elections
-  - Elec. Code 1000
-  - Established election dates
+  - CA Constitution Article 13A, Section 1 - Tax limitation
+  - CA Constitution Article 16, Section 18 - Debt limit
+  - Ed. Code 15100-15262 - Bonds for school districts and community college districts
+  - Ed. Code 15264-15276 - Strict accountability in local school construction bonds
+  - Ed. Code 15278-15288 - Citizen's oversight committees
+  - Ed. Code 15300-15425 - School facilities improvement districts
+  - Ed. Code 17150 - Public disclosure of non-voter-approved debt
+  - Ed. Code 17400-17429 - Leasing of school buildings
+  - Ed. Code 17450-17453.1 - Leasing of equipment
+  - Ed. Code 17456 - Sale or lease of district property
+  - Ed. Code 17596 - Limit on continuing contracts
+  - Ed. Code 42130-42134 - Financial reports and certifications
+  - Ed. Code 5300-5441 - Conduct of elections
+  - Elec. Code 1000 - Established election dates
   - Gov. Code 53311-53368.3
   - Mello-Roos Community Facilities Act of 1982
-  - Gov. Code 53410-53411
-  - Bond reporting
-  - Gov. Code 53506-53509.5
-  - General obligation bonds
-  - Gov. Code 53550-53569
-  - Refunding bonds of local agencies
-  - Gov. Code 53580-53595.55
-  - Bonds
-  - Gov. Code 53850-53858
-  - Tax and revenue anticipation notes
-  - Gov. Code 53859-53859.08
-  - Grant anticipation notes
-  - Gov. Code 8855
-  - California Debt and Investment Advisory Commission
+  - Gov. Code 53410-53411 - Bond reporting
+  - Gov. Code 53506-53509.5 - General obligation bonds
+  - Gov. Code 53550-53569 - Refunding bonds of local agencies
+  - Gov. Code 53580-53595.55 - Bonds
+  - Gov. Code 53850-53858 - Tax and revenue anticipation notes
+  - Gov. Code 53859-53859.08 - Grant anticipation notes
+  - Gov. Code 8855 - California Debt and Investment Advisory Commission
   - 138
 
 Federal References:
-  - 15 USC 78o-4
-  - Registration of municipal securities dealers
-  - 17 CFR 240.10b-5
-  - Prohibition against fraud or deceit
-  - 17 CFR 240.15c2-12
-  - Municipal securities disclosure
-  - 26 CFR 1.6001-1
-  - Records
-  - 26 USC 54E
-  - Qualified Zone Academy Bonds
+  - 15 USC 78o-4 - Registration of municipal securities dealers
+  - 17 CFR 240.10b-5 - Prohibition against fraud or deceit
+  - 17 CFR 240.15c2-12 - Municipal securities disclosure
+  - 26 CFR 1.6001-1 - Records
+  - 26 USC 54E - Qualified Zone Academy Bonds
 
 Management Resources:
-  - CDIAC Publication
-  - California Debt Issuance Primer
-  - Gov. Finance Officers Association Publication
-  - Refunding Municipal Bonds, Best Practice, March 2019
-  - Gov. Finance Officers Association Publication
-  - Debt Management Policy, Best Practice, March 2020
-  - Gov. Finance Officers Association Publication
-  - Investment and Management of Bond Proceeds, Best Practice, March 2022
-  - Gov. Finance Officers Association Publication
-  - Selecting and Managing Municipal Advisors, Best Practice, February 2014
-  - Gov. Finance Officers Association Publication
-  - An Elected Official's Guide to Debt Issuance, 3rd Ed., 2008
-  - Gov. Finance Officers Association Publication
-  - Understanding Your Continuing Disclosure Responsibilities, Best Practice,
-  - March 2020
-  - Internal Revenue Service Publication
-  - Tax Exempt Bond FAQs Regarding Record Retention Requirements
-  - Internal Revenue Service Publication
-  - Tax-Exempt Governmental Bonds, Publication 4079, rev. 2016
-  - U.S. Government Accountability Publication
-  - Internal Control System Checklist
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Securities and Exchange Commission
-  - Website
-  - U.S. Government Accountability Office
-  - Website
-  - Municipal Security Rulemaking Board, Electronic Municipal Market Access
-  - (EMMA)
-  - Website
-  - California Debt and Investment Advisory Commission
-  - Website
-  - Government Finance Officers Association
-  - Website
-  - Internal Revenue Service
+  - March 2020 - Internal Revenue Service Publication - Tax Exempt Bond FAQs Regarding Record Retention Requirements - Internal Revenue Service Publication - Tax-Exempt Governmental Bonds, Publication 4079, rev. 2016 - U.S. Government Accountability Publication - Internal Control System Checklist - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Securities and Exchange Commission - Website - U.S. Government Accountability Office - Website - Municipal Security Rulemaking Board, Electronic Municipal Market Access - (EMMA) - Website - California Debt and Investment Advisory Commission - Website - Government Finance Officers Association - Website - Internal Revenue Service
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 3000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3110 - Transfer Of Funds
+  - 3312 - Contracts
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 9270 - Conflict Of Interest

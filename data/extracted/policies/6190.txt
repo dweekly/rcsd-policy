@@ -52,54 +52,60 @@ meeting. The Superintendent or designee shall provide written notification to ea
 the school that the school has lost its accreditation status, including the potential consequences of the loss of
 accreditation status. This notice shall also be posted on the district's web site and the school's web site. (Education
 Code 35178.4)
-Board Policy Manual
-Redwood City School District
-
-Policy Reference Disclaimer:
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 3930-3937
-  - Compliance plans
-  - 5 CCR 3942
-  - Continuity of funding
-  - Ed. Code 33400-33407
-  - California Department of Education evaluation of district programs
-  - Ed. Code 35178.4
-  - Notice of accreditation status
-  - Ed. Code 41975-41976.1
-  - Adult education; authorized classes and courses
-  - Ed. Code 44662
-  - Evaluation of certificated employees
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 51041
-  - Evaluation of the educational program
-  - Ed. Code 51226
-  - Model curriculum standards
-  - Ed. Code 52052
-  - Accountability; numerically significant student subgroups
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 62005.5
-  - Failure to comply with purposes of funds
-  - Ed. Code 64000-64001
-  - Consolidated application process
+  - 5 CCR 3930-3937 - Compliance plans
+  - 5 CCR 3942 - Continuity of funding
+  - Ed. Code 33400-33407 - California Department of Education evaluation of district programs
+  - Ed. Code 35178.4 - Notice of accreditation status
+  - Ed. Code 41975-41976.1 - Adult education; authorized classes and courses
+  - Ed. Code 44662 - Evaluation of certificated employees
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 51041 - Evaluation of the educational program
+  - Ed. Code 51226 - Model curriculum standards
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 62005.5 - Failure to comply with purposes of funds
+  - Ed. Code 64000-64001 - Consolidated application process
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Western Association of Schools and Colleges (WASC), Accrediting
-  - Commission for Schools
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Western Association of Schools and Colleges Pub. Focus on Learning: Joint ACS WASC/CDE Process Guide, 2017
+Cross References:
+  - 0200 - Goals For The School District
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0510 - School Accountability Report Card
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 5145.6 - Parent/Guardian Notifications
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 9000 - Role Of The Board

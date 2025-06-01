@@ -48,39 +48,55 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11517.6-11519.5
-  - English Language Proficiency Assessments for California
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 11517.6-11519.5 - English Language Proficiency Assessments for California - Board Policy Manual - Redwood City School District
   - 134
-  - 5 CCR 1632
-  - Alternative credits toward graduation for foreign language instruction in
-  - private school
-  - 5 CCR 876
-  - Golden State Seal Merit Diploma
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35310-35319
-  - Scholarship and loan funds
-  - Ed. Code 44015
-  - Awards to employees and students
-  - Ed. Code 51007
-  - Equitable access to programs designed to strengthen technological skills
-  - Ed. Code 51243-51245
-  - Credit for private school foreign language instruction
-  - Ed. Code 51450-51455
-  - Golden State Seal Merit Diploma
-  - Ed. Code 51460-51464
-  - State Seal of Biliteracy
-  - Ed. Code 51470-51475
-  - State Seal of Civic Engagement
-  - Ed. Code 52164.1
-  - Assessment of English language skills of English learners
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - State
+  - 5 CCR 1632 - Alternative credits toward graduation for foreign language instruction in - private school
+  - 5 CCR 876 - Golden State Seal Merit Diploma
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35310-35319 - Scholarship and loan funds
+  - Ed. Code 44015 - Awards to employees and students
+  - Ed. Code 51007 - Equitable access to programs designed to strengthen technological skills
+  - Ed. Code 51243-51245 - Credit for private school foreign language instruction
+  - Ed. Code 51450-51455 - Golden State Seal Merit Diploma
+  - Ed. Code 51460-51464 - State Seal of Biliteracy
+  - Ed. Code 51470-51475 - State Seal of Civic Engagement
+  - Ed. Code 52164.1 - Assessment of English language skills of English learners
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
 
-Management Resources:
-  - California Department of Education Publication
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 1150 - Commendations And Awards
+  - 1150 - Commendations And Awards
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1260 - Educational Foundation
+  - 3290 - Gifts, Grants And Bequests
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 4156.2 - Awards And Recognition
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5127 - Graduation Ceremonies And Activities
+  - 5137 - Positive School Climate
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6172 - Gifted And Talented Student Program
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6183 - Home And Hospital Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 9140 - Board Representatives

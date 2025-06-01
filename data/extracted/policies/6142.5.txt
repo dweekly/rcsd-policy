@@ -28,45 +28,49 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 33541
-  - Science requirements
-  - Ed. Code 37222
-  - John Muir; recognition of his contributions
+  - Ed. Code 33541 - Science requirements
+  - Ed. Code 37222 - John Muir; recognition of his contributions
   - Ed. Code 51210
   - Course of study for grades 1-6
   - Ed. Code 51220
   - Course of study for grades 7-12
-  - Ed. Code 51227.3
-  - Environmental principles and concepts
-  - Ed. Code 51795-51798
-  - School instructional gardens
-  - Ed. Code 60041
-  - Ecological systems and their protection
-  - Ed. Code 8700-8707
-  - Environmental education
-  - Ed. Code 8720-8723
-  - Conservation education service
-  - Ed. Code 8760-8773
-  - Outdoor science, conservation, and forestry
-  - Pub. Res. Code 71300-71305
-  - Statewide environmental education
+  - Ed. Code 51227.3 - Environmental principles and concepts
+  - Ed. Code 51795-51798 - School instructional gardens
+  - Ed. Code 60041 - Ecological systems and their protection
+  - Ed. Code 8700-8707 - Environmental education
+  - Ed. Code 8720-8723 - Conservation education service
+  - Ed. Code 8760-8773 - Outdoor science, conservation, and forestry
+  - Pub. Res. Code 71300-71305 - Statewide environmental education
 
 Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - North American Association for Environmental Education
-  - Website
-  - Green Schoolyards America, National COVID-19 Outdoor Learning Initiative
-  - Website
-  - Green Schoolyards America
-  - Website
-  - California Department of Education, Environmental Education and
-  - Environmental Literacy
-  - Website
-  - California Education and the Environment Initiative
-  - Website
-  - California Regional Environmental Education Community
-  - Board Policy Manual
-  - Redwood City School District
   - 59
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5030 - Student Wellness
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.3 - Civic Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.93 - Science Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips

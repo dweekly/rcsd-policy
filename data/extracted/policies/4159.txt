@@ -22,25 +22,30 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 44962
-  - Leaves of absence for certificated employees
-  - Ed. Code 44964
-  - Power to grant leaves of absence for accident, illness, or quarantine
-  - Ed. Code 45190-45209
-  - Resignations and leaves of absence for classified employees
-  - Gov. Code 8355
-  - Certification of drug-free workplace, including notification
-  - H&S Code 104420
-  - Tobacco-free schools
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 44962 - Leaves of absence for certificated employees
+  - Ed. Code 44964 - Power to grant leaves of absence for accident, illness, or quarantine
+  - Ed. Code 45190-45209 - Resignations and leaves of absence for classified employees
+  - Gov. Code 8355 - Certification of drug-free workplace, including notification - H&S Code 104420 - Tobacco-free schools
 
 Federal References:
-  - 41 USC 8101-8106
-  - Drug-Free Workplace Act
+  - 41 USC 8101-8106 - Drug-Free Workplace Act
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 4020 - Drug And Alcohol-Free Workplace
+  - 4032 - Reasonable Accommodation
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4161 - Leaves
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4261 - Leaves
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco

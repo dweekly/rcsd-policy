@@ -32,43 +32,33 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 16020-16027
-  - Destruction of records of school districts
-  - Ed. Code 35012
-  - Board members; number, election and terms
-  - Ed. Code 35145
-  - Public meetings
-  - Ed. Code 35163
-  - Official actions, minutes and journal
-  - Ed. Code 35164
-  - Actions by majority vote
-  - Ed. Code 49061
-  - Definitions; directory information
-  - Ed. Code 49073.2
-  - Privacy of student and parent/guardian personal information; minutes of
-  - board meeting
-  - Gov. Code 54952.2
-  - Meeting; defined
-  - Gov. Code 54953
-  - Meetings to be open and public; attendance
-  - Gov. Code 54953.5
-  - Audio or video recording of proceedings
-  - Gov. Code 54953.6
-  - Broadcasting of proceedings
-  - Gov. Code 54957.2
-  - Closed sessions; clerk; minute book
-  - Gov. Code 54960
-  - Actions to stop or prevent violation of meeting provisions
-  - Pen. Code 632
-  - Eavesdropping on or recording confidential communications
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 16020-16027 - Destruction of records of school districts
+  - Ed. Code 35012 - Board members; number, election and terms
+  - Ed. Code 35145 - Public meetings
+  - Ed. Code 35163 - Official actions, minutes and journal
+  - Ed. Code 35164 - Actions by majority vote
+  - Ed. Code 49061 - Definitions; directory information
+  - Ed. Code 49073.2 - Privacy of student and parent/guardian personal information; minutes of - board meeting
+  - Gov. Code 54952.2 - Meeting; defined
+  - Gov. Code 54953 - Meetings to be open and public; attendance
+  - Gov. Code 54953.5 - Audio or video recording of proceedings
+  - Gov. Code 54953.6 - Broadcasting of proceedings
+  - Gov. Code 54957.2 - Closed sessions; clerk; minute book
+  - Gov. Code 54960 - Actions to stop or prevent violation of meeting provisions
+  - Pen. Code 632 - Eavesdropping on or recording confidential communications - Board Policy Manual - Redwood City School District
   - 83
 
-Management Resources:
-  - CSBA Publication
-  - Call to Order: A Blueprint for Great Board Meetings, 2015
-  - CSBA Publication
-  - The Brown Act: School Boards and Open Meeting Laws, rev. 2023
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3580 - District Records
+  - 3580 - District Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9122 - Secretary
+  - 9320 - Meetings And Notices
+  - 9322 - Agenda/Meeting Materials
+  - 9323 - Meeting Conduct
+  - 9323.2 - Actions By The Board

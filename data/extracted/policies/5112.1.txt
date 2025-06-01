@@ -11,50 +11,49 @@ Each child between the ages of 6 and 18 shall be subject to compulsory full-time
 However, the Board of Education may grant exemptions from compulsory attendance to a student as allowed by law
 and in the best interest of the student. Exemptions shall not be used to remove a student who is a disciplinary
 problem.
-These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
-for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
-of the policy.
-State
-Description
-2 CCR 11034
-Terms, conditions, and privileges of employment
-Ed. Code 33190
-Affidavit by persons conducting private school instruction
-Ed. Code 46100-46147
-Minimum school day
-Ed. Code 46170
-Minimum school day; continuation education
-Ed. Code 48200-48341
-Compulsory education law
-Ed. Code 48400-48454
-Compulsory continuation education
-Ed. Code 48800-48802
-Attendance at community college
-Ed. Code 49110-49119
-Permits to work
-Ed. Code 49130-49135
-Permits to work full time
-Lab. Code 1285-1312
-Employment of minors
-Lab. Code 1390-1399
-Employment of minors
 
 ================================================================================
 REFERENCES
 ================================================================================
+
+State References:
+  - 2 CCR 11034 - Terms, conditions, and privileges of employment
+  - Ed. Code 33190 - Affidavit by persons conducting private school instruction
+  - Ed. Code 46100-46147 - Minimum school day
+  - Ed. Code 46170 - Minimum school day; continuation education
+  - Ed. Code 48200-48341 - Compulsory education law
+  - Ed. Code 48400-48454 - Compulsory continuation education
+  - Ed. Code 48800-48802 - Attendance at community college
+  - Ed. Code 49110-49119 - Permits to work
+  - Ed. Code 49130-49135 - Permits to work full time
+  - Lab. Code 1285-1312 - Employment of minors
+  - Lab. Code 1390-1399 - Employment of minors
 
 Federal References:
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 106.40
-  - Marital or parental status
+  - 34 CFR 106.40 - Marital or parental status
 
-Management Resources:
-  - Court Decision
-  - Thomas v. Atascadero Unified School District (1986) 662 F.Supp. 376
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Attendance Improvement
+Cross References:
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

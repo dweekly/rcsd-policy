@@ -26,41 +26,30 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 48204
-  - Residency requirements
-  - Ed. Code 49061
-  - Definitions; directory information
-  - Ed. Code 49069.7
-  - Absolute right to access
-  - Ed. Code 49091.10-49091.19
-  - Parental review of curriculum and instruction
-  - Ed. Code 49408
-  - Student emergency information
-  - Ed. Code 51100-51102
-  - Parent/guardian rights
-  - Ed. Code 56028
-  - Definition; parent for special education
-  - Fam. Code 3002
-  - Joint legal custody; definition
-  - Fam. Code 3006
-  - Sole legal custody; definition
-  - Fam. Code 3025
-  - Parental access to records
-  - Fam. Code 6550-6552
-  - Caregivers
-  - Gov. Code 6205-6210
-  - Confidentiality of addresses for victims of domestic violence, sexual assault,
-  - stalking, human trafficking, child abduction, and elder or dependent adult
-  - abuse
-  - Gov. Code 810-996.6
-  - Government Claims Act
+  - Ed. Code 48204 - Residency requirements
+  - Ed. Code 49061 - Definitions; directory information
+  - Ed. Code 49069.7 - Absolute right to access
+  - Ed. Code 49091.10-49091.19 - Parental review of curriculum and instruction
+  - Ed. Code 49408 - Student emergency information
+  - Ed. Code 51100-51102 - Parent/guardian rights
+  - Ed. Code 56028 - Definition; parent for special education
+  - Fam. Code 3002 - Joint legal custody; definition
+  - Fam. Code 3006 - Sole legal custody; definition
+  - Fam. Code 3025 - Parental access to records
+  - Fam. Code 6550-6552 - Caregivers
+  - Gov. Code 6205-6210 - Confidentiality of addresses for victims of domestic violence, sexual assault, - stalking, human trafficking, child abduction, and elder or dependent adult - abuse
+  - Gov. Code 810-996.6 - Government Claims Act
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Association of Supervisors of Child Welfare and Attendance
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+Cross References:
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5142 - Safety
+  - 5142 - Safety

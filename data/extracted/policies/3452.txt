@@ -49,44 +49,51 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 15500
-  - Food sales in elementary schools
-  - 5 CCR 15501
-  - Food sales in high schools and junior high schools
-  - 5 CCR 4920-4922
-  - Nondiscrimination in intramural, interscholastic, and club activities
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 15500 - Food sales in elementary schools
+  - 5 CCR 15501 - Food sales in high schools and junior high schools
+  - 5 CCR 4920-4922 - Nondiscrimination in intramural, interscholastic, and club activities - Board Policy Manual - Redwood City School District
   - 121
-  - Ed. Code 35182.5
-  - Contracts for advertising
-  - Ed. Code 35564
-  - Funds; obligations of the student body
-  - Ed. Code 41020
-  - Requirement for annual audit
-  - Ed. Code 48930-48938
-  - Student organizations
-  - Ed. Code 49431
-  - Sale of food; elementary school
-  - Ed. Code 49431.2
-  - Sale of food; middle and high schools
-  - Ed. Code 49431.5
-  - Sale of beverages; elementary, middle, and high schools
-  - Ed. Code 51520
-  - Prohibited solicitations on school premises
-  - Ed. Code 51521
-  - Fundraising projects
-  - State
+  - Ed. Code 35182.5 - Contracts for advertising
+  - Ed. Code 35564 - Funds; obligations of the student body
+  - Ed. Code 41020 - Requirement for annual audit
+  - Ed. Code 48930-48938 - Student organizations
+  - Ed. Code 49431 - Sale of food; elementary school
+  - Ed. Code 49431.2 - Sale of food; middle and high schools
+  - Ed. Code 49431.5 - Sale of beverages; elementary, middle, and high schools
+  - Ed. Code 51520 - Prohibited solicitations on school premises
+  - Ed. Code 51521 - Fundraising projects
 
 Federal References:
-  - 34 CFR 106.41
-  - Nondiscrimination in athletic programs
+  - 34 CFR 106.41 - Nondiscrimination in athletic programs
 
 Management Resources:
-  - Court Decision
-  - Prince v. Jacoby (2002) 303 F.3d 1074
-  - Fiscal Crisis & Management Assistance Team Pub. Associated Student Body Accounting Manual, Fraud Prevention Guide and
-  - Desk Reference, 2015
-  - Fiscal Crisis Management & Assistance Team Pub. Fiscal Alert: GASB 84 and Its Impact on Associated Student Body Accounts,
-  - May 2020
-  - Governmental Accounting Standards Board Pub.
+  - May 2020 - Governmental Accounting Standards Board Pub.
+  - Statement No. 84, January 2017 - Governmental Accounting Standards Board Pub.
+  - Implementation Guide No. 2019-2, Fiduciary Activities, June 2019 - Website - CSBA District and County Office of Education Legal Services - Website - Governmental Accounting Standards Board - Website - California Department of Education - Website - Fiscal Crisis and Management Assistance Team
+
+Cross References:
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1321 - Solicitation Of Funds From And By Students
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3290 - Gifts, Grants And Bequests
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3554 - Other Food Sales
+  - 3554 - Other Food Sales
+  - 3580 - District Records
+  - 3580 - District Records
+  - 5000 - Concepts And Roles
+  - 5030 - Student Wellness
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5143 - Insurance
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access

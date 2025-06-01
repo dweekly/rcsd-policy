@@ -47,96 +47,210 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 13025-13044
-  - Professional development and program improvement
-  - 5 CCR 80021.1
-  - Provisional internship permit
-  - 5 CCR 80023-80026.6
-  - Emergency permits
-  - 5 CCR 80334
-  - Unauthorized private gain or advantage
-  - Ed. Code 200
-  - Equal rights and opportunities in state educational institutions
-  - Ed. Code 218
-  - Lesbian, gay, bisexual, transgender, queer, and questioning student
-  - resources
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 44032
-  - Travel expense payment
-  - Ed. Code 44259.5
-  - Standards for teacher preparation
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 13025-13044 - Professional development and program improvement
+  - 5 CCR 80021.1 - Provisional internship permit
+  - 5 CCR 80023-80026.6 - Emergency permits
+  - 5 CCR 80334 - Unauthorized private gain or advantage
+  - Ed. Code 200 - Equal rights and opportunities in state educational institutions
+  - Ed. Code 218 - Lesbian, gay, bisexual, transgender, queer, and questioning student - resources
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 44032 - Travel expense payment
+  - Ed. Code 44259.5 - Standards for teacher preparation - Board Policy Manual - Redwood City School District
   - 178
-  - Ed. Code 44277
-  - Professional growth programs for individual teachers
-  - Ed. Code 44300
-  - Emergency permits
-  - Ed. Code 44325-44328
-  - District interns
-  - Ed. Code 44450-44468
-  - University internship program
-  - Ed. Code 44830.3
-  - Employing district interns
-  - Ed. Code 45028
-  - Salary schedule and exceptions
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 51744-51749.6
-  - Independent study
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 56240-56245
-  - Staff development; service to persons with disabilities
-  - Ed. Code 99200-99204
-  - Subject matter projects
-  - Gov. Code 11135
-  - Prohibition of discrimination
-  - Gov. Code 3543.2
-  - Scope of representation
-  - Pen. Code 422.55
-  - Definition of hate crime
-  - State
+  - Ed. Code 44277 - Professional growth programs for individual teachers
+  - Ed. Code 44300 - Emergency permits
+  - Ed. Code 44325-44328 - District interns
+  - Ed. Code 44450-44468 - University internship program
+  - Ed. Code 44830.3 - Employing district interns
+  - Ed. Code 45028 - Salary schedule and exceptions
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 51744-51749.6 - Independent study
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 56240-56245 - Staff development; service to persons with disabilities
+  - Ed. Code 99200-99204 - Subject matter projects
+  - Gov. Code 11135 - Prohibition of discrimination
+  - Gov. Code 3543.2 - Scope of representation
+  - Pen. Code 422.55 - Definition of hate crime
 
 Federal References:
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 20 USC 6601-6692
-  - Preparing, training, and recruiting high quality teachers and principals
+  - 20 USC 6601-6692 - Preparing, training, and recruiting high quality teachers and principals
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
-  - 42 USC 2000d-2000d-7
-  - Title VI, Civil Rights Act of 1964
+  - 42 USC 12101-12213 - Americans with Disabilities Act
+  - 42 USC 2000d-2000d-7 - Title VI, Civil Rights Act of 1964
 
 Management Resources:
-  - California Department of Education Publication
-  - Social and Emotional Learning in California: A Guide to Resources, October
-  - 2018
-  - California Department of Education Publication
-  - California Digital Learning Integration and Standards Guidance, June 2021
-  - Commission on Teacher Credentialing Publication California Standards for the Teaching Profession (CSTP), October 2009
-  - CSBA Publication
-  - Governing to the Core: Professional Development for Common Core,
-  - Governance Brief, May 2013
-  - Public Employment Relations Board Decision
-  - United Faculty of Contra Costa Community College District v. Contra Costa
-  - Community College District (1990) PERB Dec. No. 804, 14 PERC P21-085
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Collaborative for Academic, Social, and Emotional Learning
-  - Website
-  - California Department of Education, Supporting LGBTQ+ Students
-  - Website
-  - California Subject Matter Project
-  - Website
-  - California Public Employment Relations Board
-  - Website
-  - California Department of Education, Professional Learning
-  - Website
-  - Commission on Teacher Credentialing
-  - Website
-  - CSBA
+  - 2018 - California Department of Education Publication - California Digital Learning Integration and Standards Guidance, June 2021 - Commission on Teacher Credentialing Publication California Standards for the Teaching Profession (CSTP), October 2009 - CSBA Publication - Governing to the Core: Professional Development for Common Core, - Governance Brief, May 2013 - Public Employment Relations Board Decision - United Faculty of Contra Costa Community College District v. Contra Costa - Community College District (1990) PERB Dec. No. 804, 14 PERC P21-085 - Website - CSBA District and County Office of Education Legal Services - Website - Collaborative for Academic, Social, and Emotional Learning - Website - California Department of Education, Supporting LGBTQ+ Students - Website - California Subject Matter Project - Website - California Public Employment Relations Board - Website - California Department of Education, Professional Learning - Website - Commission on Teacher Credentialing - Website - CSBA
+
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3350 - Travel Expenses
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.2 - Bomb Threats
+  - 3516.3 - Earthquake Emergency Procedure System
+  - 3542 - School Bus Drivers
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4000 - Concepts And Roles
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4040 - Employee Use Of Technology
+  - 4100 - Certificated Personnel
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.21 - Interns
+  - 4112.21 - Interns
+  - 4112.23 - Special Education Staff
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4116 - Probationary/Permanent Status
+  - 4116 - Probationary/Permanent Status
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.21 - Professional Standards
+  - 4119.41 - Employees With Infectious Disease
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.43 - Universal Precautions
+  - 4119.43 - Universal Precautions
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4161 - Leaves
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4219.21 - Professional Standards
+  - 4261 - Leaves
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4319.21 - Professional Standards
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5030 - Student Wellness
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.5 - Mental Health
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5145.12 - Search And Seizure
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5147 - Dropout Prevention
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6111 - School Calendar
+  - 6116 - Classroom Interruptions
+  - 6116 - Classroom Interruptions
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.3 - Civic Education
+  - 6142.5 - Environmental Education
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6154 - Homework/Makeup Work
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6162.5 - Student Assessment
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.1 - Library Media Centers
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

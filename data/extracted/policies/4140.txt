@@ -46,20 +46,55 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 8 CCR 33015-33490
-  - Recognition of exclusive representative; proceedings
-  - 8 CCR 33700-33710
-  - Severance of established unit
-  - Ed. Code 45060-45061.5
-  - Deduction of fees from salary or wage payment; certificated employees
-  - Ed. Code 45100.5
-  - Senior classified
+  - 8 CCR 33015-33490 - Recognition of exclusive representative; proceedings
+  - 8 CCR 33700-33710 - Severance of established unit
+  - Ed. Code 45060-45061.5 - Deduction of fees from salary or wage payment; certificated employees
+  - Ed. Code 45100.5 - Senior classified management positions
+  - Ed. Code 45104.5 - Abolishment of senior classified management positions
+  - Ed. Code 45108.5 - Definition of senior classified management employees
+  - Ed. Code 45108.7
+  - Waiver of provisions of Education Code 45108.5 - Board Policy Manual - Redwood City School District
+  - 193
+  - Ed. Code 45168 - Deduction of fees from salary or wage payment; classified employees
+  - Ed. Code 45220-45320 - Merit system; classified employees
+  - Gov. Code 3500-3511 - Local public employee organizations
+  - Gov. Code 3507.7 - Representation of temporary employees
+  - Gov. Code 3540-3549.3 - Educational Employment Relations Act
+  - Gov. Code 3540.1 - Public employment; definitions
+  - Gov. Code 3543.4 - Management and confidential positions; representation
+  - Gov. Code 3545 - Appropriateness of unit; basis
+  - Gov. Code 3550-3552 - Prohibition on public employers deterring or discouraging union - membership
+  - Gov. Code 3555-3559 - Public employee communication, information and orientation
+  - Gov. Code 53260-53264 - Employment contracts
+  - Gov. Code 6205-6210 - Confidentiality of addresses for victims of domestic violence, sexual assault, - stalking, human trafficking, child abduction, and elder or dependent adult - abuse
+  - Gov. Code 6215-6216 - Address confidentiality for individuals who face threats or violence because - of work for a public entity
+  - Gov. Code 6503.5 - Joint powers agencies; agreement
+  - Gov. Code 7928.300 - Disclosure of employee contact information to employee organization
 
 Management Resources:
-  - Court Decision
-  - County of Los Angeles v. Los Angeles County Employee Relations
-  - Commission (2013) 56 Cal. 4th 905
-  - Court Decision
-  - Friedrichs v. California Teachers Association, et al. (2016) 136 S.Ct. 1083
-  - Court Decision
-  - Janus v. American Federation of
+  - Council 31 (2018) 138 S.Ct. 2448 - Public Employment Relations Board Ruling - Regents of the University of California (2004) PERB Dec. No. 1700-H. - Public Employment Relations Board Ruling - Desert Community College District (2007) PERB Dec. No. 1921 - Public Employment Relations Board Ruling - East Whittier School District (2004) PERB Dec. No. 1727 - Public Employment Relations Board Ruling - City of Sacramento (2019) PERB Dec. No. 2702 - Website - CSBA District and County Office of Education Legal Services - Website - California Federation of Teachers - Website - California Public Employment Relations Board - Website - California School Employees Association - Website - California Teachers Association - Website - Association of California School Administrators - Website - CSBA
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1431 - Waivers
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4119.1 - Civil And Legal Rights
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4121 - Temporary/Substitute Personnel
+  - 4151 - Employee Compensation
+  - 4154 - Health And Welfare Benefits
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4219.1 - Civil And Legal Rights
+  - 4300 - Administrative And Supervisory Personnel
+  - 4319.1 - Civil And Legal Rights
+  - 9000 - Role Of The Board

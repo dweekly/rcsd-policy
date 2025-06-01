@@ -53,10 +53,9 @@ remove the garment immediately or as soon as feasible. All personal protective e
 removed prior to leaving the work area. When removed, it shall be placed in an appropriately designated
 area or container for storage, washing, decontamination or disposal.
  
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 b. Gloves shall be worn when it can be reasonably anticipated that the employee may have hand contact
 with blood, other potentially infectious materials, mucous membranes and nonintact skin, and when
 handling or touching contaminated items or surfaces.
@@ -118,38 +117,28 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 8 CCR 3203
-  - Injury and illness prevention program
-  - 8 CCR 5193
-  - Bloodborne pathogens
-  - Gov. Code 3543.2
-  - Scope of representation
-  - H&S Code 117600-118360
-  - Handling and disposal of regulated waste
-  - H&S Code 120875
-  - Information on AIDS, AIDS-related conditions, and hepatitis B
-  - H&S Code 120880
-  - Notification to employees re AIDS, AIDS-related conditions, and hepatitis B
-  - Lab. Code 6401.7
-  - Injury and illness prevention program
+  - 8 CCR 3203 - Injury and illness prevention program
+  - 8 CCR 5193 - Bloodborne pathogens
+  - Gov. Code 3543.2 - Scope of representation - H&S Code 117600-118360 - Handling and disposal of regulated waste - H&S Code 120875 - Information on AIDS, AIDS-related conditions, and hepatitis B - H&S Code 120880 - Notification to employees re AIDS, AIDS-related conditions, and hepatitis B
+  - Lab. Code 6401.7 - Injury and illness prevention program
 
 Federal References:
-  - 29 CFR 1910.1030
-  - Bloodborne pathogens
+  - 29 CFR 1910.1030 - Bloodborne pathogens
 
-Management Resources:
-  - CDC and Prevention Publication
-  - Hepatitis B Questions and Answers for the Public
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - American Federation of Teachers
-  - Website
-  - California Department of Industrial Relations, Occupational Safety and
-  - Health
-  - Website
-  - U.S. Department of Labor, Occupational Safety and Health Administration
-  - Website
-  - California Department of Public Health
-  - Website
-  - Centers for Disease Control and Prevention
+Cross References:
+  - 4112.9 - Employee Notifications
+  - 4119.41 - Employees With Infectious Disease
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.24 - Specialized Health Care Services
+  - 5141.6 - School Health Services

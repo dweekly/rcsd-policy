@@ -50,10 +50,9 @@ office of education library media teachers in the development of the plan and to
 books recommended by the State Librarian pursuant to Education Code 19336.
 Selection and Evaluation of School Library Materials
 Responsibility for the selection of library materials is delegated to the professional library staff through the principal.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 School librarians shall evaluate materials, using professional selection aids and standards, in accordance with law,
 Board policy, and administrative regulation. The selection process shall invite recommendations from administrators,
 teachers, other staff, parents/guardians, and students as appropriate.
@@ -75,50 +74,83 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 16040-16043
-  - School libraries
-  - 5 CCR 80023-80023.2
-  - Emergency permits; general requirements
-  - 5 CCR 80024.6
-  - Emergency teacher librarian services permit
-  - 5 CCR 80026-80026.6
-  - Emergency permits; Declaration of Need
-  - 5 CCR 80053-80053.1
-  - Teacher librarian services credential
-  - Ed. Code 1703
-  - Coordination of district library services by county superintendent
-  - Ed. Code 1770-1775
-  - Provision of library services by county superintendent
-  - Ed. Code 18100-18203
-  - School libraries
-  - Ed. Code 18300-18571
-  - Union high school district/unified school district library district
-  - Ed. Code 19335-19336
-  - Reading Initiative Program; recommended books
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 242
-  - Access to information about educational laws and policies regarding right to
-  - accurate and inclusive curriculum
-  - Ed. Code 35021
-  - Volunteer aides
-  - Ed. Code 44868-44869
-  - Qualifications and employment of library media teachers
-  - Ed. Code 45340-45349
-  - Instructional aides
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 51204.5
-  - Social sciences instruction; contributions of specified groups
-  - Ed. Code 51501
-  - Nondiscriminatory subject matter
-  - Ed. Code 60040-60052
-  - Requirements for instructional materials
+  - 5 CCR 16040-16043 - School libraries
+  - 5 CCR 80023-80023.2 - Emergency permits; general requirements
+  - 5 CCR 80024.6 - Emergency teacher librarian services permit
+  - 5 CCR 80026-80026.6 - Emergency permits; Declaration of Need
+  - 5 CCR 80053-80053.1 - Teacher librarian services credential
+  - Ed. Code 1703 - Coordination of district library services by county superintendent
+  - Ed. Code 1770-1775 - Provision of library services by county superintendent
+  - Ed. Code 18100-18203 - School libraries
+  - Ed. Code 18300-18571 - Union high school district/unified school district library district
+  - Ed. Code 19335-19336 - Reading Initiative Program; recommended books
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 242 - Access to information about educational laws and policies regarding right to - accurate and inclusive curriculum
+  - Ed. Code 35021 - Volunteer aides
+  - Ed. Code 44868-44869 - Qualifications and employment of library media teachers
+  - Ed. Code 45340-45349 - Instructional aides
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 51204.5 - Social sciences instruction; contributions of specified groups
+  - Ed. Code 51501 - Nondiscriminatory subject matter
+  - Ed. Code 60040-60052 - Requirements for instructional materials
 
 Management Resources:
-  - 180
-  - California Department of Education Publication
-  - Examples of Model School Library Standards for California Public Schools
-  - Supporting Common Core
+  - 180 - California Department of Education Publication - Examples of Model School Library Standards for California Public Schools - Supporting Common Core State Standards (CCSS) for English Language Arts - & Literacy in History/Social Studies, Science, and Technical Subjects, rev.
+  - February 2012 - California Department of Education Publication - Looking at the School Library: An Evaluation Tool, 2003 - California Department of Education Publication - Model School Library Standards for California Public Schools: K - 12, 2010 - California Department of Education Publication - Recommended Literature: Kindergarten Through Grade Twelve - California School Library Association Publication - Standards and Guidelines for Strong School Libraries, 2004 - Website - CSBA District and County Office of Education Legal Services - Website - American Association of School Libraries - Website - California Department of Education, School Libraries - Website - California School Library Association - Website - Department of Justice - Website - California Department of Education, Curriculum and Instruction Resources - Website - U.S. Department of Education, Office for Civil Rights
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0400 - Comprehensive Plans
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1260 - Educational Foundation
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3290 - Gifts, Grants And Bequests
+  - 3311 - Bids
+  - 3311 - Bids
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4132 - Publication Or Creation Of Materials
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 6011 - Academic Standards
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6154 - Homework/Makeup Work
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6161.2 - Damaged Or Lost Instructional Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology

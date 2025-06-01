@@ -52,10 +52,9 @@ possess the appropriate credential or permit authorizing his/her employment in s
 requirements of law for certificated positions.
 Any person employed on a substitute or temporary basis in a capacity designated in his/her credential shall also be
 required to demonstrate basic skills proficiency in reading, writing and mathematics pursuant to Education Code
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 44252.5, unless exempted by law. (Education Code 44830)
 Qualifications for Special Education
 A noncredentialed person shall not substitute for any special education certificated position. (Education Code 56060)
@@ -107,115 +106,73 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 5502
-  - Filing of notice of physical examination for employment of retired person
-  - 5 CCR 5503
-  - Physical examination for employment of retired persons
-  - 5 CCR 5531
-  - Supervision of extracurricular activities of students
-  - 5 CCR 80025-80025.5
-  - Emergency substitute teaching permits
-  - Ed. Code 22455.5
-  - STRS information to potential members
-  - Ed. Code 22515
-  - Irrevocable election to join retirement plan
-  - Ed. Code 37200
-  - School calendar
-  - Ed. Code 44252.5
-  - State basic skills assessment required for certificated personnel
-  - Ed. Code 44300
-  - Emergency permits
-  - Ed. Code 44830
-  - Employment of certificated persons
-  - Ed. Code 44839.5
-  - Requirements for employment of retirant
-  - Ed. Code 44845
-  - Date of employment
-  - Ed. Code 44846
-  - Criteria for reemployment preferences
-  - Ed. Code 44909
-  - Employees providing services through categorically funded programs
-  - Ed. Code 44914
-  - Substitute and probationary employment computation for classification as
-  - permanent employee
-  - Ed. Code 44915
-  - Classification of probationary employees
-  - Ed. Code 44916
-  - Written statement of employment status
-  - Ed. Code 44917
-  - Classification of substitute employees
-  - Ed. Code 44918
-  - Substitute or temporary employee deemed probationary employee;
-  - reemployment rights
-  - Ed. Code 44919
-  - Classification of temporary employees; classifications
-  - Ed. Code 44920
-  - Employment of certain temporary employees; classifications
-  - Ed. Code 44921
-  - Employment of temporary employees; reemployment rights (unified and
-  - high school districts)
-  - Ed. Code 44953
-  - Dismissal of substitute employees
-  - Ed. Code 44954
-  - Nonreelection of temporary employees
-  - Ed. Code 44955
-  - Reduction in number of permanent employees
-  - Ed. Code 44956
-  - Rights of laid-off permanent employees to substitute positions
-  - Ed. Code 44957
-  - Rights of laid-off probationary employees to substitute positions
-  - Ed. Code 44977
-  - Salary schedule for substitute employees
-  - Ed. Code 45030
-  - Substitutes
-  - Ed. Code 45041
-  - Computation of salary
-  - Ed. Code 45042
-  - Alternative method of computation for less than one school year
-  - Ed. Code 45043
-  - Compensation for employment beginning in the second semester
-  - Ed. Code 56060-56063
-  - Substitute teachers in special education
-  - Gov. Code 3540.1
-  - Public employment; definitions
-  - Lab. Code 220
-  - Sections inapplicable to public employees
-  - Lab. Code 230
-  - Accommodations and leave for victims of domestic violence
+  - 5 CCR 5502 - Filing of notice of physical examination for employment of retired person
+  - 5 CCR 5503 - Physical examination for employment of retired persons
+  - 5 CCR 5531 - Supervision of extracurricular activities of students
+  - 5 CCR 80025-80025.5 - Emergency substitute teaching permits
+  - Ed. Code 22455.5 - STRS information to potential members
+  - Ed. Code 22515 - Irrevocable election to join retirement plan
+  - Ed. Code 37200 - School calendar
+  - Ed. Code 44252.5 - State basic skills assessment required for certificated personnel
+  - Ed. Code 44300 - Emergency permits
+  - Ed. Code 44830 - Employment of certificated persons
+  - Ed. Code 44839.5 - Requirements for employment of retirant
+  - Ed. Code 44845 - Date of employment
+  - Ed. Code 44846 - Criteria for reemployment preferences
+  - Ed. Code 44909 - Employees providing services through categorically funded programs
+  - Ed. Code 44914 - Substitute and probationary employment computation for classification as - permanent employee
+  - Ed. Code 44915 - Classification of probationary employees
+  - Ed. Code 44916 - Written statement of employment status
+  - Ed. Code 44917 - Classification of substitute employees
+  - Ed. Code 44918 - Substitute or temporary employee deemed probationary employee; - reemployment rights
+  - Ed. Code 44919 - Classification of temporary employees; classifications
+  - Ed. Code 44920 - Employment of certain temporary employees; classifications
+  - Ed. Code 44921 - Employment of temporary employees; reemployment rights (unified and - high school districts)
+  - Ed. Code 44953 - Dismissal of substitute employees
+  - Ed. Code 44954 - Nonreelection of temporary employees
+  - Ed. Code 44955 - Reduction in number of permanent employees
+  - Ed. Code 44956 - Rights of laid-off permanent employees to substitute positions
+  - Ed. Code 44957 - Rights of laid-off probationary employees to substitute positions
+  - Ed. Code 44977 - Salary schedule for substitute employees
+  - Ed. Code 45030 - Substitutes
+  - Ed. Code 45041 - Computation of salary
+  - Ed. Code 45042 - Alternative method of computation for less than one school year
+  - Ed. Code 45043 - Compensation for employment beginning in the second semester
+  - Ed. Code 56060-56063 - Substitute teachers in special education
+  - Gov. Code 3540.1 - Public employment; definitions
+  - Lab. Code 220 - Sections inapplicable to public employees
+  - Lab. Code 230 - Accommodations and leave for victims of domestic violence
   - Lab. Code 230.1
-  - Employers with 25 or more employees; domestic violence, sexual assault,
-  - and stalking victims; right to time off
+  - Employers with 25 or more employees; domestic violence, sexual assault, - and stalking victims; right to time off
   - 169
-  - Lab. Code 233
-  - Leave to attend to family illness
-  - Lab. Code 234
-  - Absence control policy
-  - Lab. Code 245-249
-  - Healthy Workplaces, Healthy Families Act of 2014
-  - State
+  - Lab. Code 233 - Leave to attend to family illness
+  - Lab. Code 234 - Absence control policy
+  - Lab. Code 245-249 - Healthy Workplaces, Healthy Families Act of 2014
 
 Management Resources:
-  - Court Decision
-  - Kavanaugh v. West Sonoma Union High School District (2003) 29 Cal.4th
-  - 911
-  - Court Decision
-  - McIntyre v. Sonoma Valley Unified School District (2012) 206 Cal.App.4th
-  - 170
-  - Court Decision
-  - Neily v. Manhattan Beach Unified School District (2011) 192 Cal.App.4th
-  - 187
-  - Court Decision
-  - Stockton Teachers Association CTA/NEA v. Stockton Unified School District
-  - (2012) 204 Cal.App.4th 446
-  - Court Decision
-  - Bakersfield Elementary Teachers Association v. Bakersfield City School
-  - District (2006) 145 Cal.App.4th 1260
-  - Court Decision
-  - California Teachers Association v. Vallejo City Unified School District (2007)
-  - 149 Cal.App.4th 135
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Commission on Teacher Credentialing
-  - Website
-  - CSBA
+  - 911 - Court Decision - McIntyre v. Sonoma Valley Unified School District (2012) 206 Cal.App.4th
+  - 170 - Court Decision - Neily v. Manhattan Beach Unified School District (2011) 192 Cal.App.4th
+  - 187 - Court Decision - Stockton Teachers Association CTA/NEA v. Stockton Unified School District - (2012) 204 Cal.App.4th 446 - Court Decision - Bakersfield Elementary Teachers Association v. Bakersfield City School - District (2006) 145 Cal.App.4th 1260 - Court Decision - California Teachers Association v. Vallejo City Unified School District (2007)
+  - 149 Cal.App.4th 135 - Website - CSBA District and County Office of Education Legal Services - Website - Commission on Teacher Credentialing - Website - CSBA
+
+Cross References:
+  - 4112.1 - Contracts
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.4 - Health Examinations
+  - 4112.5 - Criminal Record Check
+  - 4112.9 - Employee Notifications
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4116 - Probationary/Permanent Status
+  - 4116 - Probationary/Permanent Status
+  - 4117.14 - Postretirement Employment
+  - 4140 - Bargaining Units
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4151 - Employee Compensation
+  - 4154 - Health And Welfare Benefits
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program

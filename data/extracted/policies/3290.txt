@@ -43,8 +43,7 @@ Encourage or enable the violation of any law or district policy
  
 6. 
  
-Board Policy Manual
-Redwood City School District
+
 
 Imply endorsement of any business or product or unduly commercialize or politicize the school 
 environment Any gift of books or instructional materials may only be accepted if they meet district criteria for 
@@ -86,7 +85,7 @@ and/or services
 The authority of the Board to retain exclusive right over the use of the district's name, logo, and other 
 proprietary information and the requirement that the sponsor obtain prior approval of the Board before using 
 
-Policy Reference Disclaimer:
+
 such information
  
  
@@ -124,30 +123,56 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35162
-  - Power to sue, be sued, hold and convey property
-  - Ed. Code 41030
-  - School district may invest surplus monies from bequest or gifts
-  - Ed. Code 41031
-  - Special fund or account in county treasury
-  - Ed. Code 41032
-  - Authority of school board to accept gift or bequest; investments; gift of land
-  - requirements
-  - Ed. Code 41035
-  - Advisory committee
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35162 - Power to sue, be sued, hold and convey property
+  - Ed. Code 41030 - School district may invest surplus monies from bequest or gifts
+  - Ed. Code 41031 - Special fund or account in county treasury
+  - Ed. Code 41032 - Authority of school board to accept gift or bequest; investments; gift of land - requirements
+  - Ed. Code 41035 - Advisory committee
   - 53
-  - Ed. Code 41036
-  - Function of advisory committee
-  - Ed. Code 41037
-  - Rules and regulations
-  - Ed. Code 41038
-  - Applicability of other provisions of chapter
-  - State
+  - Ed. Code 41036 - Function of advisory committee
+  - Ed. Code 41037 - Rules and regulations
+  - Ed. Code 41038 - Applicability of other provisions of chapter
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Consortium of Education Foundations
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 0415 - Equity
+  - 0415 - Equity
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1150 - Commendations And Awards
+  - 1150 - Commendations And Awards
+  - 1260 - Educational Foundation
+  - 1321 - Solicitation Of Funds From And By Students
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3312 - Contracts
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3440 - Inventories
+  - 3452 - Student Activity Funds
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5030 - Student Wellness
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 6142.6 - Visual And Performing Arts Education
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 7310 - Naming Of Facility

@@ -52,10 +52,9 @@ priority given to the lowest academically achieving students from low-income fam
 to 20 USC6313(a)(3)(20 USC 6311)
  
 5. Is experiencing special circumstances that might be harmful or dangerous to the student in the current
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 attendance area, including, but not limited to, threats of bodily harm or threats to the emotional stability of the
 student. Any such student may transfer to a district school that is at capacity and otherwise closed to transfers.
 To grant priority under these circumstances, the Superintendent or designee must have received
@@ -98,49 +97,52 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11992-11994
-  - Definition of persistently dangerous schools
-  - Ed. Code 200
-  - Equal rights and opportunities in state educational institutions
-  - Ed. Code 35160.5
-  - District policies; rules and regulations
-  - Ed. Code 35291-35291.5
-  - Rules
-  - Ed. Code 35351
-  - Assignment of students to particular schools
-  - Ed. Code 46600-46611
-  - Interdistrict attendance agreements
-  - Ed. Code 48200
-  - Compulsory attendance
-  - Ed. Code 48204
-  - Residency requirements for school attendance
+  - 5 CCR 11992-11994 - Definition of persistently dangerous schools
+  - Ed. Code 200 - Equal rights and opportunities in state educational institutions
+  - Ed. Code 35160.5 - District policies; rules and regulations
+  - Ed. Code 35291-35291.5 - Rules
+  - Ed. Code 35351 - Assignment of students to particular schools
+  - Ed. Code 46600-46611 - Interdistrict attendance agreements
+  - Ed. Code 48200 - Compulsory attendance
+  - Ed. Code 48204 - Residency requirements for school attendance
   - 80
-  - Ed. Code 48300-48316
-  - Student attendance alternatives; school district of choice program
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - State
+  - Ed. Code 48300-48316 - Student attendance alternatives; school district of choice program
+  - Ed. Code 48980 - Parent/Guardian notifications
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
+  - 20 USC 6313 - Eligibility of schools and school attendance areas; funding allocation
+  - 20 USC 7912 - Transfers from persistently dangerous schools
 
 Management Resources:
-  - Attorney General Opinion
-  - 85 Ops.Cal.Atty.Gen. 95 (2002)
-  - California Department of Education Publication
-  - Every Student Succeeds Act - Update #8, July 14, 2017
-  - California Department of Education Publication
-  - Public School Choice FAQs
-  - Court Decision
-  - Crawford v. Huntington Beach Union High School District (2002) 98
-  - Cal.App.4th 1275
-  - U.S. Department of Education Publication
-  - Unsafe School Choice Option, May 2004
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education
+  - 85 Ops.Cal.Atty.Gen. 95 (2002) - California Department of Education Publication - Every Student Succeeds Act - Update #8, July 14, 2017 - California Department of Education Publication - Public School Choice FAQs - Court Decision - Crawford v. Huntington Beach Union High School District (2002) 98
+  - Cal.App.4th 1275 - U.S. Department of Education Publication - Unsafe School Choice Option, May 2004 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0520.1 - Comprehensive And Targeted School Improvement
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5116 - School Attendance Boundaries
+  - 5117 - Interdistrict Attendance
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5145.6 - Parent/Guardian Notifications
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 9000 - Role Of The Board
+  - 9310 - Board Policies

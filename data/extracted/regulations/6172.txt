@@ -50,10 +50,9 @@ economic, linguistic, and cultural characteristics of students' background. (5 C
 The Superintendent or designee shall design methods to seek out and identify gifted and talented students from
 varying linguistic, economic, and cultural backgrounds and whose extraordinary capacities require special services
 and programs. (5 CCR 3820)
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 Prior to making a final determination of a student's eligibility, the pertinent evidence shall be evaluated by the
 student's principal or designee, a classroom teacher familiar with the student's work, and, when appropriate, a
 credentialed school psychologist. A person recognized as an expert in the gifted and talented category under
@@ -70,29 +69,58 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 1633
-  - Instruction by correspondence
-  - Ed. Code 37223
-  - Weekend classes
-  - Ed. Code 48800-48802
-  - Enrollment of gifted students in community college
-  - Ed. Code 51740
-  - Instruction by correspondence
-  - Ed. Code 51745
-  - Independent study
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 76000-76002
-  - Enrollment in community college
+  - 5 CCR 1633 - Instruction by correspondence
+  - Ed. Code 37223 - Weekend classes
+  - Ed. Code 48800-48802 - Enrollment of gifted students in community college
+  - Ed. Code 51740 - Instruction by correspondence
+  - Ed. Code 51745 - Independent study
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 76000-76002 - Enrollment in community college
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Association for the Gifted
-  - Website
-  - Council for Exceptional Children, The Association for the Gifted (CEC-TAG)
-  - Website
-  - National Association for Gifted Children
-  - Website
-  - CSBA
+Cross References:
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4331 - Staff Development
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5147 - Dropout Prevention
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6162.5 - Student Assessment
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 6190 - Evaluation Of The Instructional Program

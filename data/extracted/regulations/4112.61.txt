@@ -19,20 +19,13 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 80332
-  - Professional candor and honesty in letters or memoranda of employment
-  - recommendation
-  - Civ. Code 47
-  - Privileged communication
-  - Lab. Code 1050-1054
-  - Reemployment privileges
+  - 5 CCR 80332 - Professional candor and honesty in letters or memoranda of employment - recommendation
+  - Civ. Code 47 - Privileged communication
+  - Lab. Code 1050-1054 - Reemployment privileges
 
 Management Resources:
-  - Court Decision
-  - Board of Trustees of Leland Stanford Junior University v. Superior Court
-  - (1981) 119 Cal. App. 3d 516
-  - Court Decision
-  - Randi W. v. Muroc Joint Unified School District et al. (1997) 14 Cal. 4th
-  - 1066
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - 1066 - Website - CSBA District and County Office of Education Legal Services
+
+Cross References:
+  - 4112.6 - Personnel Files
+  - 4117.5 - Termination Agreements

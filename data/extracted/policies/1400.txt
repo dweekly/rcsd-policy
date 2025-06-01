@@ -31,51 +31,90 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 10900-10914.5
-  - Community recreation programs
-  - Ed. Code 49073-49079
-  - Privacy of student records
-  - Ed. Code 49075
-  - Parent/guardian permission for release of student records
-  - Ed. Code 49557.2
-  - Sharing of information for MediCal eligibility
-  - Ed. Code 8800-8807
-  - Healthy Start support services for children
-  - H&S Code 120440
-  - Immunization records; release to local health departments
-  - H&S Code 130100-130155
-  - Early childhood development; First 5 Commission
-  - W&I Code 18961.5
-  - Computerized database; families at risk for child abuse; sharing of
-  - information
-  - W&I Code 18980-18983.8
-  - Child Abuse Prevention Coordinating Council
-  - W&I Code 18986-18986.30
-  - Interagency Children's Services Act
-  - W&I Code 18986.40-18986.46
-  - Multidisciplinary services teams
-  - W&I Code 18986.50-18986.53
-  - Integrated day care program
-  - W&I Code 18987.6-18987.62
-  - Family-based services
-  - W&I Code 5850-5883
-  - Mental Health Services Act
+  - Ed. Code 10900-10914.5 - Community recreation programs
+  - Ed. Code 49073-49079 - Privacy of student records
+  - Ed. Code 49075 - Parent/guardian permission for release of student records
+  - Ed. Code 49557.2 - Sharing of information for MediCal eligibility
+  - Ed. Code 8800-8807 - Healthy Start support services for children - H&S Code 120440 - Immunization records; release to local health departments - H&S Code 130100-130155 - Early childhood development; First 5 Commission - W&I Code 18961.5 - Computerized database; families at risk for child abuse; sharing of - information - W&I Code 18980-18983.8 - Child Abuse Prevention Coordinating Council - W&I Code 18986-18986.30 - Interagency Children's Services Act - W&I Code 18986.40-18986.46 - Multidisciplinary services teams - W&I Code 18986.50-18986.53 - Integrated day care program - W&I Code 18987.6-18987.62 - Family-based services - W&I Code 5850-5883 - Mental Health Services Act
 
 Management Resources:
-  - Cities, Counties And Schools Partnership Pub.
-  - Stretching Community Dollars: Cities, Counties and School Districts Building
-  - for the Future, 2006
-  - Cities, Counties And Schools Partnership Pub.
-  - Healthy Children, Healthy Communities: An Action Guide for California
-  - Communities, 2006
-  - Board Policy Manual
-  - Redwood City School District
-  - 144
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - First 5 California
-  - Website
-  - California Department of Social Services
-  - Website
-  - California
+  - 144 - Website - CSBA District and County Office of Education Legal Services - Website
+  - First 5 California - Website - California Department of Social Services - Website - California State Association of Counties - Website - Children Now - Website - California Department of Education, Learning Support - Website - Cities Counties and Schools Partnership - Website - League of California Cities - Website - Youth Law Center - Website - CSBA - Website - California Department of Public Health - Youth Law Center Publication - Model Form for Consent to Exchange Confidential Information among the - Members of an Interagency Collaborative, 1995
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1160 - Political Processes
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3515.5 - Sex Offender Notification
+  - 3515.5 - Sex Offender Notification
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 5030 - Student Wellness
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.6 - School Health Services
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5145.9 - Hate-Motivated Behavior
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6111 - School Calendar
+  - 6142.3 - Civic Education
+  - 6142.5 - Environmental Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6177 - Summer Learning Programs
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 9000 - Role Of The Board
+  - 9140 - Board Representatives
+  - 9322 - Agenda/Meeting Materials

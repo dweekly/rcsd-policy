@@ -33,73 +33,63 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 3000-3089
-  - Regulations governing special education
-  - Ed. Code 56000-56001
-  - Education for individuals with exceptional needs
-  - Ed. Code 56020-56035
-  - Definitions
-  - Ed. Code 56040-56046
-  - General provisions
-  - Ed. Code 56050
-  - Surrogate parents
-  - Ed. Code 56055
-  - Foster parents
-  - Ed. Code 56060-56063
-  - Substitute teachers in special education
-  - Ed. Code 56170-56177
-  - Children enrolled in private schools
-  - Ed. Code 56190-56194
-  - Community advisory committees
-  - Ed. Code 56195-56195.10
-  - Local plans
+  - 5 CCR 3000-3089 - Regulations governing special education
+  - Ed. Code 56000-56001 - Education for individuals with exceptional needs
+  - Ed. Code 56020-56035 - Definitions
+  - Ed. Code 56040-56046 - General provisions
+  - Ed. Code 56050 - Surrogate parents
+  - Ed. Code 56055 - Foster parents
+  - Ed. Code 56060-56063 - Substitute teachers in special education
+  - Ed. Code 56170-56177 - Children enrolled in private schools
+  - Ed. Code 56190-56194 - Community advisory committees
+  - Ed. Code 56195-56195.10 - Local plans
   - Ed. Code 56205-56208
   - Local plan requirements 56213 Special education local plan
-  - Ed. Code 56211-56214
-  - Special education local plan areas with small or sparse populations
-  - Ed. Code 56240-56245
-  - Staff development
-  - Ed. Code 56300-56385
-  - Identification and referral; assessment, instructional planning
-  - Ed. Code 56440-56447.1
-  - Programs for individuals between the ages of three and five years
-  - Ed. Code 56500-56508
-  - Procedural safeguards, including due process rights
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 56211-56214 - Special education local plan areas with small or sparse populations
+  - Ed. Code 56240-56245 - Staff development
+  - Ed. Code 56300-56385 - Identification and referral; assessment, instructional planning
+  - Ed. Code 56440-56447.1 - Programs for individuals between the ages of three and five years
+  - Ed. Code 56500-56508 - Procedural safeguards, including due process rights - Board Policy Manual - Redwood City School District
   - 67
-  - Ed. Code 56520-56524
-  - Behavioral interventions
-  - Ed. Code 56600-56606
-  - Evaluation, audits and information
-  - Ed. Code 56836-56836.05
-  - Administration of local plan
-  - Gov. Code 7579.5
-  - Surrogate parent; appointment, qualification and liability
-  - Gov. Code 95000-95004
-  - California Early Intervention Services Act
-  - W&I Code 361
-  - Limitations on parental control
-  - W&I Code 726
-  - Limitations on parental control
-  - State
+  - Ed. Code 56520-56524 - Behavioral interventions
+  - Ed. Code 56600-56606 - Evaluation, audits and information
+  - Ed. Code 56836-56836.05 - Administration of local plan
+  - Gov. Code 7579.5 - Surrogate parent; appointment, qualification and liability
+  - Gov. Code 95000-95004 - California Early Intervention Services Act - W&I Code 361 - Limitations on parental control - W&I Code 726 - Limitations on parental control
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
   - 34 CFR 104.1-104.39
   - Section 504 of the Rehabilitation Act of 1973
-  - 34 CFR 300.1-300.818
-  - Assistance to
+  - 34 CFR 300.1-300.818 - Assistance to states for the education of students with disabilities
+  - 34 CFR 300.500-300.520 - Procedural safeguards and due process for parents and students
+  - 34 CFR 303.1-303.654 - Early intervention program for infants and toddlers with disabilities
+  - 34 CFR 99.10-99.22 - Inspection, review and procedures for amending education records
+  - 42 USC 12101-12213 - Americans with Disabilities Act
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Special Education
-  - Website
-  - U.S. Department of Education, Office of Special Education Programs
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3542 - School Bus Drivers
+  - 4112.23 - Special Education Staff
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.41 - Children With Disabilities Enrolled By Their Parents In Private School
+  - 6164.41 - Children With Disabilities Enrolled By Their Parents In Private School
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504

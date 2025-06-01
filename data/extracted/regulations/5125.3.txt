@@ -52,31 +52,32 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 49061
-  - Definitions; directory information
-  - Ed. Code 49063
-  - Notification of parents of their rights
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 49061 - Definitions; directory information
+  - Ed. Code 49063 - Notification of parents of their rights - Board Policy Manual - Redwood City School District
   - 130
-  - Ed. Code 49066
-  - Grades; change of grade; physical education grade
-  - Ed. Code 49070
-  - Challenging student records
-  - Ed. Code 49071
-  - Hearing panel
-  - State
+  - Ed. Code 49066 - Grades; change of grade; physical education grade
+  - Ed. Code 49070 - Challenging student records
+  - Ed. Code 49071 - Hearing panel
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
-  - 34 CFR 99.20-99.22
-  - Procedures for amending educational records
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
+  - 34 CFR 99.20-99.22 - Procedures for amending educational records
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 9000 - Role Of The Board

@@ -35,34 +35,56 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Bus. Code 17550-17550.30
-  - Sellers of travel
-  - Bus. Code 17552-17556.5
-  - Educational travel organizations
-  - Ed. Code 32040-32044
-  - First aid equipment: field trips
-  - Ed. Code 35330
-  - Field trips and excursions; student fees
-  - Ed. Code 35331
-  - Provision for medical or hospital service for pupils (on field trips)
-  - Ed. Code 35332
-  - Transportation by chartered airline
-  - Ed. Code 35350
-  - Transportation of students
-  - Ed. Code 44808
-  - Liability when students are not on school property
-  - Ed. Code 48908
-  - Duties of pupils; authority of teachers
-  - Ed. Code 8760
-  - Authorization of outdoor science and conservation programs
+  - Bus. Code 17550-17550.30 - Sellers of travel
+  - Bus. Code 17552-17556.5 - Educational travel organizations
+  - Ed. Code 32040-32044 - First aid equipment: field trips
+  - Ed. Code 35330 - Field trips and excursions; student fees
+  - Ed. Code 35331 - Provision for medical or hospital service for pupils (on field trips)
+  - Ed. Code 35332 - Transportation by chartered airline
+  - Ed. Code 35350 - Transportation of students
+  - Ed. Code 44808 - Liability when students are not on school property
+  - Ed. Code 48908 - Duties of pupils; authority of teachers
+  - Ed. Code 8760 - Authorization of outdoor science and conservation programs
 
 Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Homeland Security
-  - Board Policy Manual
-  - Redwood City School District
-  - 121
-  - Website
-  - American Red
+  - 121 - Website - American Red Cross - Website - California Association of Directors of Activities
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1321 - Solicitation Of Funds From And By Students
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3312.2 - Educational Travel Program Contracts
+  - 3312.2 - Educational Travel Program Contracts
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3541.1 - Transportation For School-Related Trips
+  - 5131 - Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.7 - Sun Safety
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5143 - Insurance
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 6142.5 - Environmental Education
+  - 6142.6 - Visual And Performing Arts Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities

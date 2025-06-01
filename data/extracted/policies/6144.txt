@@ -28,38 +28,60 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 51240
-  - Excuse from instruction due to religious beliefs
-  - Ed. Code 51500
-  - Prohibited instruction or activity
-  - Ed. Code 51510
-  - Prohibited study or supplemental materials
-  - Ed. Code 51511
-  - Religious matters properly included in courses of study
-  - Ed. Code 51513
-  - Personal beliefs
-  - Ed. Code 51530
-  - Advocacy or teaching of communism
-  - Ed. Code 51930-51939
-  - California Healthy Youth Act
-  - Ed. Code 60040
-  - Selection of instructional materials
-  - Ed. Code 60044
-  - Prohibited instructional materials
-  - Ed. Code 60045
-  - Criteria for instructional materials
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 51240 - Excuse from instruction due to religious beliefs
+  - Ed. Code 51500 - Prohibited instruction or activity
+  - Ed. Code 51510 - Prohibited study or supplemental materials
+  - Ed. Code 51511 - Religious matters properly included in courses of study
+  - Ed. Code 51513 - Personal beliefs
+  - Ed. Code 51530 - Advocacy or teaching of communism
+  - Ed. Code 51930-51939 - California Healthy Youth Act
+  - Ed. Code 60040 - Selection of instructional materials
+  - Ed. Code 60044 - Prohibited instructional materials
+  - Ed. Code 60045 - Criteria for instructional materials
 
 Management Resources:
-  - Court Decision
-  - Garcetti v. Ceballos (2006) 547 U.S. 410
-  - Court Decision
-  - Mayer v. Monroe County Community School Corporation (2007) 474 F.3d
-  - 477 (7th Cir.)
-  - Court Decision
-  - Johnson v. Poway Unified School District (2011) 658 F.3d 954
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - 477 (7th Cir.) - Court Decision - Johnson v. Poway Unified School District (2011) 658 F.3d 954 - Website - CSBA District and County Office of Education Legal Services
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5137 - Positive School Climate
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 6115 - Ceremonies And Observances
+  - 6141 - Curriculum Development And Evaluation
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.3 - Civic Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.8 - Assemblies And Special Events
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6163.1 - Library Media Centers

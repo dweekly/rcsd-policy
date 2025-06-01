@@ -57,8 +57,7 @@ district employees by force account or negotiated contract.
 Code 22032, 22037, 22038)​
 a. Notice inviting formal bids shall state the time and place for receiving and opening sealed bids and
 distinctly describe the project. The notice shall be disseminated in both of the following ways:
-Board Policy Manual
-Redwood City School District
+
 
 i. Through publication in a newspaper of general circulation in the district's jurisdiction or, if there is
 no such newspaper, then by posting the notice in at least three places designated by the district as
@@ -428,7 +427,7 @@ Prospective bidders shall submit the questionnaire and financial statement at le
 public opening of sealed bids. The information shall be verified under oath in the manner in which civil law pleadings
 are verified. The questionnaires and financial statements shall not be public records and shall not be open to public
 
-Policy Reference Disclaimer:
+
 inspection. (Public Contract Code 20111.5)
 The Superintendent or designee shall establish a uniform system for rating bidders on the basis of completed
 questionnaires and financial statements in order to determine the size of contracts on which each bidder is qualified
@@ -458,61 +457,80 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Bus. Code 7056
-  - General engineering contractor
-  - Bus. Code 7057
-  - General building contractor
-  - CA Constitution, Article 2, Section 31(a)
-  - Prohibition of discrimination in operation of public education
-  - Code of Civil Procedure 446
-  - Verification of pleadings
-  - Ed. Code 17070.10-17079.30
-  - Leroy F. Greene School Facilities Act
-  - Ed. Code 17250.10-17250.52
-  - Design-build contracts
-  - Ed. Code 17250.60-17250.69
-  - Alternative design-build contracts
-  - Ed. Code 17400
-  - Leasing Property
-  - Ed. Code 17406
-  - Lease-leaseback contract
-  - Ed. Code 17595
-  - Purchase of supplies through Department of General Services
-  - Ed. Code 17602
-  - Purchase of surplus property from
+  - Bus. Code 7056 - General engineering contractor
+  - Bus. Code 7057 - General building contractor - CA Constitution, Article 2, Section 31(a) - Prohibition of discrimination in operation of public education
+  - Code of Civil Procedure 446 - Verification of pleadings
+  - Ed. Code 17070.10-17079.30 - Leroy F. Greene School Facilities Act
+  - Ed. Code 17250.10-17250.52 - Design-build contracts
+  - Ed. Code 17250.60-17250.69 - Alternative design-build contracts
+  - Ed. Code 17400 - Leasing Property
+  - Ed. Code 17406 - Lease-leaseback contract
+  - Ed. Code 17595 - Purchase of supplies through Department of General Services
+  - Ed. Code 17602 - Purchase of surplus property from federal agencies
+  - Ed. Code 38083 - Purchase of perishable foodstuffs and seasonal commodities
+  - Ed. Code 38110-38120 - Apparatus and supplies
+  - Ed. Code 39802 - Transportation services
+  - Gov. Code 4217.10-4217.18 - Energy conservation contracts
+  - Gov. Code 4330-4334 - California made materials
+  - 69
+  - Gov. Code 53060 - Special services and advice
+  - Gov. Code 54201-54205 - Purchase of supplies and equipment by local agencies
+  - Gov. Code 7920.530 - Public record; definition
+  - Pub. Cont. Code 1102 - Emergency; definition
+  - Pub. Cont. Code 1103 - Responsible bidder; definition
+  - Pub. Cont. Code 12200 - Recycled goods, materials and supplies; definition
+  - Pub. Cont. Code 2000-2002 - Responsive bidders
+  - Pub. Cont. Code 20101-20103.7 - Public construction projects; requirements for bidding
+  - Pub. Cont. Code 20103.8 - Award of contracts
+  - Pub. Cont. Code 20110-20118.4 - Local Agency Public Construction Act; school districts
+  - Pub. Cont. Code 20189 - Bidder's security; earthquake relief
+  - Pub. Cont. Code 22000-22045 - Uniform Public Construction Cost Accounting Act
+  - Pub. Cont. Code 22152 - Recycled product procurement
+  - Pub. Cont. Code 3000-3010 - Roofing projects
+  - Pub. Cont. Code 3400 - Bid specifications
+  - Pub. Cont. Code 3410 - U.S. produce and processed foods
+  - Pub. Cont. Code 4113 - Prime contractor; subcontractor
+  - Pub. Cont. Code 6102 - Bribery of public official; voidable contract
+  - Pub. Cont. Code 6610 - Bid visits
 
 Management Resources:
-  - Attorney General Opinion
-  - 89 Ops.Cal.Atty.Gen. 1 (2006)
-  - CA Department of General Services Publication
-  - Office of Public School Construction, Piggyback Contracts
-  - CA Department of General Services Publication
-  - Office of Public School Construction Notification to School Districts
-  - Regarding Use of Piggyback Contracts for SAB-Administered Programs, July
-  - 2022
-  - CA Department of Industrial Relations Publication Model Prequalification Questionnaire
-  - Court Decision
-  - City of Inglewood-Los Angeles County Civic Center Authority v. Superior
-  - Court (1972) 7 Cal.3d 861
-  - Court Decision
-  - Great West Contractors Inc. v. Irvine Unified School District (2010) 187
-  - Cal.App.4th 1425
-  - Court Decision
-  - Konica Business Machines v. Regents of the University of California (1988)
-  - 206 Cal.App.3d 449
-  - Court Decision
-  - Los Angeles Unified School District v. Great American Insurance Co. (2010)
-  - 49 Cal.4th 739
-  - Court Decision
-  - Marshall v. Pasadena Unified School District (2004) 119 Cal.App.4th 1241
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of General Services
-  - Website
-  - CSBA
-  - Website
-  - California Department of Education
-  - Website
-  - California Association of School Business Officials
+  - 89 Ops.Cal.Atty.Gen. 1 (2006) - CA Department of General Services Publication - Office of Public School Construction, Piggyback Contracts - CA Department of General Services Publication - Office of Public School Construction Notification to School Districts - Regarding Use of Piggyback Contracts for SAB-Administered Programs, July
+  - 2022 - CA Department of Industrial Relations Publication Model Prequalification Questionnaire - Court Decision - City of Inglewood-Los Angeles County Civic Center Authority v. Superior - Court (1972) 7 Cal.3d 861 - Court Decision - Great West Contractors Inc. v. Irvine Unified School District (2010) 187
+  - Cal.App.4th 1425 - Court Decision - Konica Business Machines v. Regents of the University of California (1988)
+  - 206 Cal.App.3d 449 - Court Decision - Los Angeles Unified School District v. Great American Insurance Co. (2010)
+  - 49 Cal.4th 739 - Court Decision - Marshall v. Pasadena Unified School District (2004) 119 Cal.App.4th 1241 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of General Services - Website - CSBA - Website - California Department of Education - Website - California Association of School Business Officials
   - 70
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3000 - Concepts And Roles
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3300 - Expenditures And Purchases
+  - 3312 - Contracts
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3512 - Equipment
+  - 3517 - Facilities Inspection
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3580 - District Records
+  - 3580 - District Records
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 7140 - Architectural And Engineering Services
+  - 9270 - Conflict Of Interest
+  - 9320 - Meetings And Notices
+  - 9323.2 - Actions By The Board

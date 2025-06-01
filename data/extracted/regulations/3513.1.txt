@@ -48,29 +48,17 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35213
-  - Reimbursement for loss or damage of personal property
-  - Ed. Code 44032
-  - Travel expense payment
-  - Ed. Code 48901.5
-  - Prohibition of electronic signaling devices
-  - Veh. Code 23123
-  - Wireless telephones in vehicles
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 35213 - Reimbursement for loss or damage of personal property
+  - Ed. Code 44032 - Travel expense payment
+  - Ed. Code 48901.5 - Prohibition of electronic signaling devices
+  - Veh. Code 23123 - Wireless telephones in vehicles - Board Policy Manual - Redwood City School District
   - 157
-  - Veh. Code 23125
-  - Wireless telephones in school buses
-  - State
+  - Veh. Code 23125 - Wireless telephones in school buses
 
 Federal References:
-  - 26 CFR 1.132-5
-  - Working conditions fringe benefit
-  - 26 USC 280F
-  - Limitation on depreciation for luxury automobiles, etc
+  - 26 CFR 1.132-5 - Working conditions fringe benefit
+  - 26 USC 280F - Limitation on depreciation for luxury automobiles, etc
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Internal Revenue Service
+Cross References:
+  - 3542 - School Bus Drivers
+  - 4156.3 - Employee Property Reimbursement

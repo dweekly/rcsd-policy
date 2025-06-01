@@ -47,92 +47,62 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 3051.1-3051.24
-  - Staff qualifications to provide related services to students with disabilities
-  - 5 CCR 3100
-  - Waivers of maximum caseload for resource specialists
-  - 5 CCR 80021.1
-  - Provisional internship permit
-  - 5 CCR 80023.2
-  - Emergency permits
-  - 5 CCR 80025.4
-  - Substitute teaching; special education
-  - 5 CCR 80026
-  - Declaration of need for fully qualified educators
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 3051.1-3051.24 - Staff qualifications to provide related services to students with disabilities
+  - 5 CCR 3100 - Waivers of maximum caseload for resource specialists
+  - 5 CCR 80021.1 - Provisional internship permit
+  - 5 CCR 80023.2 - Emergency permits
+  - 5 CCR 80025.4 - Substitute teaching; special education
+  - 5 CCR 80026 - Declaration of need for fully qualified educators - Board Policy Manual - Redwood City School District
   - 54
-  - 5 CCR 80027.1
-  - Special education limited assignment teaching permit
-  - 5 CCR 80046.1
-  - Added authorization to teach adapted physical education
-  - 5 CCR 80046.5
-  - Credential holders authorized to serve students with disabilities
-  - 5 CCR 80047-80047.9
-  - Credentials to provide instructional services to students with disabilities
-  - 5 CCR 80048-80048.9.4
-  - Credential requirements and authorizations
-  - 5 CCR 80070.1-80070.6
-  - Resource specialists
-  - 5 CCR 80334
-  - Unauthorized private gain or advantage
-  - Ed. Code 44250-44277
-  - Credential types
-  - Ed. Code 44256
-  - Credential types; specialist instruction
-  - Ed. Code 44258.9
-  - County superintendent review of teacher assignment
-  - Ed. Code 44265-44265.9
-  - Special education credential
-  - Ed. Code 44325-44328
-  - District interns
-  - Ed. Code 44830.3
-  - Employing district interns
-  - Ed. Code 56000-56865
-  - Special education programs
-  - Ed. Code 56195.8
-  - Adoption of policies
-  - Ed. Code 56361
-  - Program options
-  - Ed. Code 56362-56362.5
-  - Resource specialist program
-  - Ed. Code 56363.3
-  - Maximum caseload; language, speech, and hearing specialists
-  - Ed. Code 56440-56441.7
-  - Programs for individuals between the ages of three and five years;
-  - caseloads
-  - Ed. Code 8264.8
-  - Staffing ratios
-  - State
+  - 5 CCR 80027.1 - Special education limited assignment teaching permit
+  - 5 CCR 80046.1 - Added authorization to teach adapted physical education
+  - 5 CCR 80046.5 - Credential holders authorized to serve students with disabilities
+  - 5 CCR 80047-80047.9 - Credentials to provide instructional services to students with disabilities
+  - 5 CCR 80048-80048.9.4 - Credential requirements and authorizations
+  - 5 CCR 80070.1-80070.6 - Resource specialists
+  - 5 CCR 80334 - Unauthorized private gain or advantage
+  - Ed. Code 44250-44277 - Credential types
+  - Ed. Code 44256 - Credential types; specialist instruction
+  - Ed. Code 44258.9 - County superintendent review of teacher assignment
+  - Ed. Code 44265-44265.9 - Special education credential
+  - Ed. Code 44325-44328 - District interns
+  - Ed. Code 44830.3 - Employing district interns
+  - Ed. Code 56000-56865 - Special education programs
+  - Ed. Code 56195.8 - Adoption of policies
+  - Ed. Code 56361 - Program options
+  - Ed. Code 56362-56362.5 - Resource specialist program
+  - Ed. Code 56363.3 - Maximum caseload; language, speech, and hearing specialists
+  - Ed. Code 56440-56441.7 - Programs for individuals between the ages of three and five years; - caseloads
+  - Ed. Code 8264.8 - Staffing ratios
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 34 CFR 300.156
-  - Special education personnel requirements
-  - 34 CFR 300.34
-  - Related services
-  - 34 CFR 300.8
-  - Definition of autism
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 34 CFR 300.156 - Special education personnel requirements
+  - 34 CFR 300.34 - Related services
+  - 34 CFR 300.8 - Definition of autism
 
 Management Resources:
-  - Commission on Teacher Credentialing Publication Education Specialist Teaching and Other Related Services Credential
-  - Program Standards, 2012
-  - Commission on Teacher Credentialing Publication
-  - Special Education Teaching & Services Credentials, Added Auth. in Special
-  - Education, and Lmtd. Asgmt. Permits for CA Prep. Teachers: FAQ, May 26,
-  - 2014
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Association of Special Education Teachers
-  - Website
-  - California Speech-Language-Hearing Association
-  - Website
-  - California Association of Resource Specialists and Special Education
-  - Teachers
-  - Website
-  - California Department of Education, Special Education
-  - Website
-  - Commission on Teacher Credentialing
+  - 2014 - Website - CSBA District and County Office of Education Legal Services - Website - National Association of Special Education Teachers - Website - California Speech-Language-Hearing Association - Website - California Association of Resource Specialists and Special Education - Teachers - Website - California Department of Education, Special Education - Website - Commission on Teacher Credentialing
   - 55
+
+Cross References:
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1431 - Waivers
+  - 3312 - Contracts
+  - 4112.21 - Interns
+  - 4112.21 - Interns
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 6151 - Class Size
+  - 6151 - Class Size
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504

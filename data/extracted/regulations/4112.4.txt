@@ -53,53 +53,47 @@ believe that the employee is suffering from mental illness of such a degree as t
 perform his/her duties. In such a case, the district shall follow the process specified in Education Code 44942 and
 the district's collective bargaining agreement, including the opportunity for the employee to be examined by a panel
 of psychiatrists or psychologists.
-Board Policy Manual
-Redwood City School District
-
-Policy Reference Disclaimer:
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 5502
-  - Filing of notice of physical examination for employment of retired person
-  - 5 CCR 5504
-  - Medical certification procedures
-  - 5 CCR 5531
-  - Supervision of extracurricular activities of students
-  - Bus. Code 2700-2837
-  - Nursing
-  - Bus. Code 3500-3546
-  - Physician assistants
-  - Ed. Code 44839
-  - Medical certificate; periodic medical examination
-  - Ed. Code 44839.5
-  - Requirements for employment of retirant
-  - Ed. Code 44932
-  - Grounds for dismissal of permanent employees
-  - Ed. Code 44942
-  - Suspension or transfer of certificated employee on ground of mental illness
-  - Ed. Code 45122
-  - Physical examinations
-  - Ed. Code 49406
-  - TB risk assessment
-  - H&S Code 121525
-  - Private and parochial school employees; examination for tuberculosis
+  - 5 CCR 5502 - Filing of notice of physical examination for employment of retired person
+  - 5 CCR 5504 - Medical certification procedures
+  - 5 CCR 5531 - Supervision of extracurricular activities of students
+  - Bus. Code 2700-2837 - Nursing
+  - Bus. Code 3500-3546 - Physician assistants
+  - Ed. Code 44839 - Medical certificate; periodic medical examination
+  - Ed. Code 44839.5 - Requirements for employment of retirant
+  - Ed. Code 44932 - Grounds for dismissal of permanent employees
+  - Ed. Code 44942 - Suspension or transfer of certificated employee on ground of mental illness
+  - Ed. Code 45122 - Physical examinations
+  - Ed. Code 49406 - TB risk assessment - H&S Code 121525 - Private and parochial school employees; examination for tuberculosis
 
-Management Resources:
-  - Court Decision
-  - Doe v. Lincoln Unified School District (2010) 188 Cal.App.4th 758
-  - Court Decision
-  - Leonel v. American Airlines, Inc. (2005) 400 F.3d. 702
-  - Court Decision
-  - Raven v. Oakland Unified School District (1989) 213 Cal.App.3d 1347
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Food and Drug Administration
-  - Website
-  - California Department of Public Health
-  - Website
-  - Centers for Disease Control and Prevention
+Cross References:
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 3312 - Contracts
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3542 - School Bus Drivers
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4032 - Reasonable Accommodation
+  - 4117.14 - Postretirement Employment
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.41 - Employees With Infectious Disease
+  - 4121 - Temporary/Substitute Personnel
+  - 4161.8 - Family Care And Medical Leave
+  - 4200 - Classified Personnel
+  - 4200 - Classified Personnel
+  - 4261.8 - Family Care And Medical Leave
+  - 4361.8 - Family Care And Medical Leave
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education

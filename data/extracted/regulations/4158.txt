@@ -51,10 +51,9 @@ different district, the Superintendent shall transmit the information provided b
 officer to the Superintendent of the new district of attendance. (Welfare and Institutions Code 827)
 Any confidential file of court-initiated information shall be kept until the student becomes 18, graduates from high
 school, or is released from juvenile court jurisdiction, whichever occurs first; it shall then be destroyed. (Welfare and
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 Institutions Code 827)
 Procedures to Maintain Confidentiality of Student Offenses
 In order to maintain confidentiality when providing information about student offenses to counselors and teachers of
@@ -72,93 +71,90 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Civ. Code 51.7
-  - Freedom from violence or intimidation
-  - Code of Civil Procedure 527.8
-  - Workplace violence safety
-  - Ed. Code 32210-32212
-  - Willful disturbance; public schools or meetings
-  - Ed. Code 32225-32226
-  - Communications devices in classrooms
-  - Ed. Code 32282
-  - School safety plans
-  - Ed. Code 32289.6
-  - Best practices pertaining to school shooter drills
-  - Ed. Code 35208
-  - Liability insurance
-  - Ed. Code 35213
-  - Reimbursement for loss or damage of personal property
-  - Ed. Code 44014
-  - Report of assault by student against school employee
-  - Ed. Code 44807
-  - Teachers' duty concerning conduct of students
-  - Ed. Code 48201
-  - Transfer student's record for acts that resulted in suspension or expulsion
-  - Ed. Code 48900-48926
-  - Suspension and expulsion
-  - Ed. Code 49079
-  - Notification to teacher; student who has engaged in acts regarding grounds
-  - for suspension or expulsion
-  - Ed. Code 49330-49335
-  - Injurious objects
-  - Gov. Code 12926
-  - Definitions
-  - Gov. Code 12945.8
-  - Employee accommodations for domestic violence, sexual assault, stalking,
-  - and other qualifying acts of violence
-  - Gov. Code 3543.2
-  - Scope of representation
-  - Gov. Code 995-996.4
-  - Defense of public employees
-  - Lab. Code 230-230.2
-  - Leaves for victims of domestic violence, sexual assault or specified felonies
-  - Pen. Code 18150
-  - Gun violence restraining orders
-  - Pen. Code 18170
-  - Gun violence restraining order issued after notice and hearing
-  - Pen. Code 22810
-  - Purchase, possession, and use of tear gas
-  - Pen. Code 240-246.3
-  - Assault and battery
-  - Pen. Code 241.3
-  - Assault against school bus drivers
-  - Pen. Code 241.6
-  - Assault on school employee including board member
-  - Pen. Code 243.3
-  - Battery against school bus drivers
-  - Pen. Code 243.6
-  - Battery against school employee including board members
+  - Civ. Code 51.7 - Freedom from violence or intimidation
+  - Code of Civil Procedure 527.8 - Workplace violence safety
+  - Ed. Code 32210-32212 - Willful disturbance; public schools or meetings
+  - Ed. Code 32225-32226 - Communications devices in classrooms
+  - Ed. Code 32282 - School safety plans
+  - Ed. Code 32289.6 - Best practices pertaining to school shooter drills
+  - Ed. Code 35208 - Liability insurance
+  - Ed. Code 35213 - Reimbursement for loss or damage of personal property
+  - Ed. Code 44014 - Report of assault by student against school employee
+  - Ed. Code 44807 - Teachers' duty concerning conduct of students
+  - Ed. Code 48201 - Transfer student's record for acts that resulted in suspension or expulsion
+  - Ed. Code 48900-48926 - Suspension and expulsion
+  - Ed. Code 49079 - Notification to teacher; student who has engaged in acts regarding grounds - for suspension or expulsion
+  - Ed. Code 49330-49335 - Injurious objects
+  - Gov. Code 12926 - Definitions
+  - Gov. Code 12945.8 - Employee accommodations for domestic violence, sexual assault, stalking, - and other qualifying acts of violence
+  - Gov. Code 3543.2 - Scope of representation
+  - Gov. Code 995-996.4 - Defense of public employees
+  - Lab. Code 230-230.2 - Leaves for victims of domestic violence, sexual assault or specified felonies
+  - Pen. Code 18150 - Gun violence restraining orders
+  - Pen. Code 18170 - Gun violence restraining order issued after notice and hearing
+  - Pen. Code 22810 - Purchase, possession, and use of tear gas
+  - Pen. Code 240-246.3 - Assault and battery
+  - Pen. Code 241.3 - Assault against school bus drivers
+  - Pen. Code 241.6 - Assault on school employee including board member
+  - Pen. Code 243.3 - Battery against school bus drivers
+  - Pen. Code 243.6 - Battery against school employee including board members
   - 221
-  - Pen. Code 245.5
-  - Assault with deadly weapon against school employee including board
-  - member
-  - Pen. Code 290
-  - Registration of sex offenders
-  - Pen. Code 601
-  - Trespass by person making credible threat
-  - Pen. Code 626-626.11
-  - Weapons on school grounds and other school crimes
-  - Pen. Code 646.9
-  - Stalking
-  - Pen. Code 71
-  - Threatening public officers and employees and school officials
-  - W&I Code 827
-  - Limited exception to juvenile court record
-  - W&I Code 828.1
-  - District police or security department; disclosure of juvenile records
-  - State
+  - Pen. Code 245.5 - Assault with deadly weapon against school employee including board - member
+  - Pen. Code 290 - Registration of sex offenders
+  - Pen. Code 601 - Trespass by person making credible threat
+  - Pen. Code 626-626.11 - Weapons on school grounds and other school crimes
+  - Pen. Code 646.9 - Stalking
+  - Pen. Code 71 - Threatening public officers and employees and school officials - W&I Code 827 - Limited exception to juvenile court record - W&I Code 828.1 - District police or security department; disclosure of juvenile records
 
 Federal References:
-  - Executive Order 14127
-  - Combating Emerging Firearms Threats and Improving School-Based Active
-  - Shooter Drills, September 2024
+  - Executive Order 14127 - Combating Emerging Firearms Threats and Improving School-Based Active - Shooter Drills, September 2024
 
-Management Resources:
-  - Court Decision
-  - City of San Jose v. William Garbett (2010) 190 Cal. App. 4th 526
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Safe Schools
-  - Website
-  - CSBA
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1313 - Civility
+  - 3320 - Claims And Actions Against The District
+  - 3320 - Claims And Actions Against The District
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4112.9 - Employee Notifications
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4140 - Bargaining Units
+  - 4156.3 - Employee Property Reimbursement
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4161 - Leaves
+  - 4161.8 - Family Care And Medical Leave
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4261 - Leaves
+  - 4261.8 - Family Care And Medical Leave
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 4361.8 - Family Care And Medical Leave
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)

@@ -24,23 +24,18 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 17604
-  - Delegation of powers to agents
-  - Ed. Code 17605
-  - Delegation of authority to purchase supplies and equipment
-  - Ed. Code 35020-35046
-  - Officers and agents
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
+  - Ed. Code 17604 - Delegation of powers to agents
+  - Ed. Code 17605 - Delegation of authority to purchase supplies and equipment
+  - Ed. Code 35020-35046 - Officers and agents
+  - Ed. Code 48900 - Grounds for suspension or expulsion
 
-Management Resources:
-  - CSBA Publication
-  - Superintendent Governance Standards
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - American Association of School Administrators
-  - Website
-  - Association of California School Administrators
-  - Website
-  - CSBA
+Cross References:
+  - 2000 - Concepts And Roles
+  - 2111 - Superintendent Governance Standards
+  - 2120 - Superintendent Recruitment And Selection
+  - 2121 - Superintendent's Contract
+  - 2140 - Evaluation Of The Superintendent
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9010 - Public Statements
+  - 9122 - Secretary

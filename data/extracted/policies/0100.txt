@@ -36,26 +36,37 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 51002
-  - Local development of programs based on stated philosophy and goals
-  - Ed. Code 51019
-  - Definition of philosophy
-  - Ed. Code 51100-51101
-  - Parental involvement
+  - Ed. Code 51002 - Local development of programs based on stated philosophy and goals
+  - Ed. Code 51019 - Definition of philosophy
+  - Ed. Code 51100-51101 - Parental involvement
 
 Management Resources:
-  - CSBA Publication
-  - Defining Governance, Issue 2: Governing Commitments, Governance Brief,
-  - February 2014
-  - CSBA Publication
-  - Governing to Achieve: A Synthesis of Research on School Governance to
-  - Support Student Achievement, August 7, 2014
-  - CSBA Publication
-  - The School Board Role in Creating the Conditions for Student Achievement:
-  - A Review of the Research, May 2017
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
-  - Website
-  - National School Climate Center
+  - February 2014 - CSBA Publication - Governing to Achieve: A Synthesis of Research on School Governance to - Support Student Achievement, August 7, 2014 - CSBA Publication - The School Board Role in Creating the Conditions for Student Achievement: - A Review of the Research, May 2017 - Website - CSBA District and County Office of Education Legal Services - Website - CSBA - Website - National School Climate Center
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 1000 - Concepts And Roles
+  - 2000 - Concepts And Roles
+  - 2120 - Superintendent Recruitment And Selection
+  - 3000 - Concepts And Roles
+  - 3290 - Gifts, Grants And Bequests
+  - 3312 - Contracts
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5137 - Positive School Climate
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6162.8 - Research
+  - 6162.8 - Research
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9310 - Board Policies

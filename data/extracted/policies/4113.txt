@@ -45,10 +45,9 @@ no legal authorization, the district shall correct the assignment within 30 cale
 The district shall serve as the monitoring authority for teacher assignments in any charter school it has authorized, in 
 accordance with Education Code 44258.9-44258.10.
 Any complaint alleging teacher misassignment or vacancy shall be filed and addressed through the district's procedures 
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 specified in AR 1312.4 - Williams Uniform Complaint Procedures.
 The school accountability report card for each school shall include any assignment of teachers outside their subject 
 areas of competence, misassignments, including misassignments of teachers of English learners, and the number of 
@@ -67,42 +66,57 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 80003-80005
-  - Credential authorizations
-  - 5 CCR 80020-80020.5
-  - Additional assignment authorizations
-  - 5 CCR 80335
-  - Performance of unauthorized professional services
-  - 5 CCR 80339-80339.6
-  - Unauthorized certificated employee assignment
-  - Ed. Code 33126
-  - School accountability report card
-  - Ed. Code 35035
-  - Powers and duties of the superintendent; transfer authority
-  - Ed. Code 35186
-  - Complaints related to instructional materials, teacher vacancy or
-  - misassignment, and facility conditions that pose emergency or urgent threat
-  - Ed. Code 37616
-  - Consultation regarding year-round schedule
-  - Ed. Code 44225.6
-  - Commission report to the legislature re: teachers
-  - Ed. Code 44250-44277
-  - Credentials and assignment of teachers
-  - Ed. Code 44314
-  - Subject matter programs; approved subjects
-  - Ed. Code 44824
-  - Assignment of teachers to weekend classes
-  - Ed. Code 44955
-  - Reduction in number of permanent employees
-  - Gov. Code 3543.2
-  - Scope of representation
+  - 5 CCR 80003-80005 - Credential authorizations
+  - 5 CCR 80020-80020.5 - Additional assignment authorizations
+  - 5 CCR 80335 - Performance of unauthorized professional services
+  - 5 CCR 80339-80339.6 - Unauthorized certificated employee assignment
+  - Ed. Code 33126 - School accountability report card
+  - Ed. Code 35035 - Powers and duties of the superintendent; transfer authority
+  - Ed. Code 35186 - Complaints related to instructional materials, teacher vacancy or - misassignment, and facility conditions that pose emergency or urgent threat
+  - Ed. Code 37616 - Consultation regarding year-round schedule
+  - Ed. Code 44225.6 - Commission report to the legislature re: teachers
+  - Ed. Code 44250-44277 - Credentials and assignment of teachers
+  - Ed. Code 44314 - Subject matter programs; approved subjects
+  - Ed. Code 44824 - Assignment of teachers to weekend classes
+  - Ed. Code 44955 - Reduction in number of permanent employees
+  - Gov. Code 3543.2 - Scope of representation
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
+  - 20 USC 6312 - Local educational agency plan
+  - 20 USC 6601-6651 - Teacher and Principal Training and Recruiting Fund
 
 Management Resources:
-  - California Department of Education Publication
   - Every Student Succeeds Act 2016-17 School Year Transition Plan, April
-  - 2016
-  - California Department of Education Publication
-  - California
+  - 2016 - California Department of Education Publication - California State Plan to Ensure Equitable Access to Excellent Educators
+  - 79 - Commission on Teacher Credentialing Publication Administrator's Assignment Manual - Updates and Revisions, May 2014 - Commission on Teacher Credentialing Publication The Administrator's Assignment Manual, 2021 - U.S. Department of Education Guidance - Improving Teacher Quality State Grants: ESEA Title II, Part A , rev. October - 5, 2006 - Website - CSBA District and County Office of Education Legal Services - Website - Commission on Teacher Credentialing - Website - CSBA - Website - U.S. Department of Education - Website - California Department of Education
+
+Cross References:
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.1 - Contracts
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.21 - Interns
+  - 4112.21 - Interns
+  - 4112.23 - Special Education Staff
+  - 4112.8 - Employment Of Relatives
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4121 - Temporary/Substitute Personnel
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4140 - Bargaining Units
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 4331 - Staff Development
+  - 6000 - Concepts And Roles
+  - 6163.1 - Library Media Centers
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6183 - Home And Hospital Instruction

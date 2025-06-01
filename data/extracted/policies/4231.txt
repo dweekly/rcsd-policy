@@ -59,39 +59,164 @@ The district's staff evaluation process may be used to recommend additional indi
 individual employees.
 The Superintendent or designee shall provide a means for continual evaluation of the benefit of staff development
 activities to staff and the district and shall regularly report to the Board regarding the effectiveness of the staff
-Board Policy Manual
-Redwood City School District
-
-Policy Reference Disclaimer:
-development program.
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 44032
-  - Travel expense payment
-  - Ed. Code 44277
-  - Professional growth programs for individual teachers
-  - Ed. Code 45380-45387
-  - Retraining and study leave (classified employees)
-  - Ed. Code 45390-45392
-  - Professional development for classified school employees
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 56240-56245
-  - Staff development; service to persons with disabilities
-  - Gov. Code 3543.2
-  - Scope of representation
+  - Ed. Code 44032 - Travel expense payment
+  - Ed. Code 44277 - Professional growth programs for individual teachers
+  - Ed. Code 45380-45387 - Retraining and study leave (classified employees)
+  - Ed. Code 45390-45392 - Professional development for classified school employees
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 56240-56245 - Staff development; service to persons with disabilities
+  - Gov. Code 3543.2 - Scope of representation
 
-Management Resources:
-  - Public Employment Relations Board Decision
-  - United Faculty of Contra Costa Community College District v. Contra Costa
-  - Community College District (1990) PERB Dec. No. 804, 14 PERC P21-085
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California School Employees Association
-  - Website
-  - California Association of School Business Officials
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3350 - Travel Expenses
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3514.2 - Integrated Pest Management
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3515.5 - Sex Offender Notification
+  - 3515.5 - Sex Offender Notification
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.2 - Bomb Threats
+  - 3516.3 - Earthquake Emergency Procedure System
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3542 - School Bus Drivers
+  - 3543 - Transportation Safety And Emergencies
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3555 - Nutrition Program Compliance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4000 - Concepts And Roles
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4040 - Employee Use Of Technology
+  - 4112.23 - Special Education Staff
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.21 - Professional Standards
+  - 4119.41 - Employees With Infectious Disease
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4161 - Leaves
+  - 4200 - Classified Personnel
+  - 4200 - Classified Personnel
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.21 - Professional Standards
+  - 4261 - Leaves
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.21 - Professional Standards
+  - 5030 - Student Wellness
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.24 - Specialized Health Care Services
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.6 - School Health Services
+  - 5145.12 - Search And Seizure
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6111 - School Calendar
+  - 6116 - Classroom Interruptions
+  - 6116 - Classroom Interruptions
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.1 - Library Media Centers
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program

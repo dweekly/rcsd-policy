@@ -28,39 +28,36 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Gov. Code 12926
-  - Definitions
-  - Gov. Code 12940
-  - Unlawful discriminatory employment practices
-  - Gov. Code 12949
-  - Dress standards; consistency with gender identity
-  - Gov. Code 3543.2
-  - Scope of representation
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Gov. Code 12926 - Definitions
+  - Gov. Code 12940 - Unlawful discriminatory employment practices
+  - Gov. Code 12949 - Dress standards; consistency with gender identity
+  - Gov. Code 3543.2 - Scope of representation
 
 Management Resources:
-  - CA Civil Rights Department Publication
-  - The Rights of Employees Who Are Transgender or Gender Nonconforming:
-  - Fact Sheet, November 2022
-  - Court Decision
-  - Domico v. Rapides Parish School Board (5th Cir. 1982) 675 F.2d 100
-  - Court Decision
-  - East Hartford Education Assn. v. Board of Education (2d Cir. 1977) 562 F.
-  - 2d 856
-  - Court Decision
-  - Finot v. Pasadena Board of Education (1967) 250 Cal.App.2d 189
-  - Court Decision
-  - San Mateo City School District v. PERB (1983) 33 Cal. 3d 850
-  - Public Employment Relations Board Decision
-  - Inglewood United School District (1985) 10 PERC P17, 000
-  - Public Employment Relations Board Decision
-  - Santa Ana Unified School District (1998) 22 PERC P29, 136
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Public Employment Relations Board
-  - Website
-  - California Civil Rights Department
+  - 2d 856 - Court Decision - Finot v. Pasadena Board of Education (1967) 250 Cal.App.2d 189 - Court Decision - San Mateo City School District v. PERB (1983) 33 Cal. 3d 850 - Public Employment Relations Board Decision - Inglewood United School District (1985) 10 PERC P17, 000 - Public Employment Relations Board Decision - Santa Ana Unified School District (1998) 22 PERC P29, 136 - Website - CSBA District and County Office of Education Legal Services - Website - California Public Employment Relations Board - Website - California Civil Rights Department
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4112.21 - Interns
+  - 4112.21 - Interns
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.21 - Professional Standards
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.21 - Professional Standards
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.21 - Professional Standards

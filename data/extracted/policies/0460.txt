@@ -51,8 +51,7 @@ other numerically significant student subgroups to review and comment on LCAP de
 students, student forums, student advisory committees, and/or meetings with student government bodies or other groups
 representing students. (Education Code 52060; 5 CCR 15495)
 Public Review and Input
-Board Policy Manual
-Redwood City School District
+
 
 The Board shall establish a parent advisory committee to provide advice on the LCAP. The committee shall be composed of a
 majority of parents/guardians and shall include at least one parent/guardian of an unduplicated student as defined above and
@@ -117,72 +116,136 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 15494-15497
-  - Local control and accountability plan and spending requirements
-  - Ed. Code 17002
-  - State School Building Lease-Purchase Law, including definition of good repair
-  - Ed. Code 305-306
-  - English language education
-  - Ed. Code 33430-33436
-  - Learning Communities for School Success Program; grants for LCAP
-  - implementation
-  - Ed. Code 41020
-  - Requirement for annual audit
-  - Ed. Code 41320-41322
-  - Emergency apportionments
-  - Ed. Code 42127
-  - Public hearing on budget adoption
-  - Ed. Code 42238.01-42238.07
-  - Local control funding formula
-  - Ed. Code 44258.9
-  - County superintendent review of teacher assignment
-  - Ed. Code 47604.33
-  - Submission of reports by charter schools
-  - Ed. Code 47606.5
-  - Charter schools; local control and accountability plan
-  - Ed. Code 48985
-  - Notices to parents in language other than English
+  - 5 CCR 15494-15497 - Local control and accountability plan and spending requirements
+  - Ed. Code 17002 - State School Building Lease-Purchase Law, including definition of good repair
+  - Ed. Code 305-306 - English language education
+  - Ed. Code 33430-33436 - Learning Communities for School Success Program; grants for LCAP - implementation
+  - Ed. Code 41020 - Requirement for annual audit
+  - Ed. Code 41320-41322 - Emergency apportionments
+  - Ed. Code 42127 - Public hearing on budget adoption
+  - Ed. Code 42238.01-42238.07 - Local control funding formula
+  - Ed. Code 44258.9 - County superintendent review of teacher assignment
+  - Ed. Code 47604.33 - Submission of reports by charter schools
+  - Ed. Code 47606.5 - Charter schools; local control and accountability plan
+  - Ed. Code 48985 - Notices to parents in language other than English
   - Ed. Code 51210
   - Course of study for grades 1-6
   - Ed. Code 51220
   - Course of study for grades 7-12
-  - Ed. Code 52052
-  - Numerically significant student subgroups
-  - Ed. Code 52059.5
-  - Statewide system of support
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 52302
-  - Regional occupational centers and programs
-  - Ed. Code 52372.5
-  - Linked learning program
-  - Ed. Code 54692
-  - Partnership academies
-  - Ed. Code 60119
-  - Sufficiency of textbooks and instructional materials; hearing and resolution
-  - Ed. Code 60605.8
-  - California Assessment of Academic Achievement; Academic Content
-  - Standards Commission
-  - Ed. Code 64001
-  - School plan for student achievement; consolidated application programs
-  - Ed. Code 99300-99301
-  - Early Assessment Program
-  - W&I Code 300
-  - Dependent child of the court
+  - Ed. Code 52052 - Numerically significant student subgroups
+  - Ed. Code 52059.5 - Statewide system of support
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 52302 - Regional occupational centers and programs
+  - Ed. Code 52372.5 - Linked learning program
+  - Ed. Code 54692 - Partnership academies
+  - Ed. Code 60119 - Sufficiency of textbooks and instructional materials; hearing and resolution
+  - Ed. Code 60605.8 - California Assessment of Academic Achievement; Academic Content - Standards Commission
+  - Ed. Code 64001 - School plan for student achievement; consolidated application programs
+  - Ed. Code 99300-99301 - Early Assessment Program - W&I Code 300 - Dependent child of the court
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
+  - 20 USC 6312 - Local educational agency plan
+  - 20 USC 6826 - Title III funds;, local plans
+  - 34 CFR 300.600-300.647 - Education of students with disabilities; monitoring, enforcement, - confidentiality, and program information
 
 Management Resources:
   - 98
-  - Policy Reference Disclaimer:
-  - CA Department of Education Publication
-  - California School Accounting Manual
-  - California Department of Education Publication
-  - California Career Technical Education Model Curriculum Standards, 2013
-  - California Department of Education Publication
-  - LCFF Frequently Asked Questions
-  - California Department of Education Publication
-  - Local Control and Accountability Plan and Annual Update (LCAP) Template
-  - California Department of Education Publication
-  - California Common Core
+
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0520 - Intervention In Underperforming Schools
+  - 0520.1 - Comprehensive And Targeted School Improvement
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2121 - Superintendent's Contract
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3110 - Transfer Of Funds
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3517 - Facilities Inspection
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4140 - Bargaining Units
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5030 - Student Wellness
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5137 - Positive School Climate
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.9 - Hate-Motivated Behavior
+  - 5147 - Dropout Prevention
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6142.5 - Environmental Education
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6151 - Class Size
+  - 6151 - Class Size
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6163.1 - Library Media Centers
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6177 - Summer Learning Programs
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 6190 - Evaluation Of The Instructional Program
+  - 9230 - Orientation
+  - 9310 - Board Policies
+  - 9320 - Meetings And Notices

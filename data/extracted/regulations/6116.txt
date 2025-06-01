@@ -20,17 +20,24 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32211
-  - Threatened disruption or interference with classes
-  - Ed. Code 32212
-  - Classroom interruptions
-  - Ed. Code 44810-44811
-  - Disruptions; misdemeanor
-  - Ed. Code 51512
-  - Prohibited use of electronic listening or recording device
+  - Ed. Code 32211 - Threatened disruption or interference with classes
+  - Ed. Code 32212 - Classroom interruptions
+  - Ed. Code 44810-44811 - Disruptions; misdemeanor
+  - Ed. Code 51512 - Prohibited use of electronic listening or recording device
 
-Management Resources:
-  - CSBA Publication
-  - Instructional Time Task Force Report, 2007
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1321 - Solicitation Of Funds From And By Students
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 4040 - Employee Use Of Technology
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 5131 - Conduct
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5137 - Positive School Climate

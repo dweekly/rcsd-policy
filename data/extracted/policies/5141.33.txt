@@ -29,14 +29,16 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 48320-48325
-  - School attendance review boards
-  - Ed. Code 49451
-  - Physical examinations: parent's refusal to consent
+  - Ed. Code 48320-48325 - School attendance review boards
+  - Ed. Code 49451 - Physical examinations: parent's refusal to consent
 
-Management Resources:
-  - California Department of Public Health PublicationA Parent's Guide to Head Lice, 2008
-  - California Department of Public Health PublicationGuidelines on Head Lice Prevention and Control for School Districts and
-  - Child Care Facilities, rev. March 2012
-  - California School Nurses Organization
-  - Pediculosis Management, Position
+Cross References:
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.6 - School Health Services

@@ -26,62 +26,82 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 850-876
-  - California Assessment of Student Performance and Progress
-  - Ed. Code 10600-10610
-  - California Education Information System
-  - Ed. Code 313
-  - Assessment of English language development
-  - Ed. Code 44660-44665
-  - Evaluation and assessment of performance of certificated employees
-  - Ed. Code 49558
-  - Free and reduced-price meals; use of individual applications and records
-  - Ed. Code 51041
-  - Evaluation of the educational program
-  - Ed. Code 51450-51455
-  - Golden State Seal Merit Diploma
-  - Ed. Code 52052
-  - Accountability; numerically significant student subgroups
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 56341.1
-  - Assistive technology devices for a student with a disability
-  - Ed. Code 60600-60649
-  - Assessment of academic achievement
-  - Ed. Code 60640-60648.5
-  - California Assessment of Student Performance and Progress
-  - Ed. Code 60800
-  - Physical performance test
-  - Ed. Code 60900
-  - California Longitudinal Pupil Achievement Data System
-  - Ed. Code 60910
-  - California State Preschool Program Longitudinal Pupil Achievement Data
-  - System
+  - 5 CCR 850-876 - California Assessment of Student Performance and Progress
+  - Ed. Code 10600-10610 - California Education Information System
+  - Ed. Code 313 - Assessment of English language development
+  - Ed. Code 44660-44665 - Evaluation and assessment of performance of certificated employees
+  - Ed. Code 49558 - Free and reduced-price meals; use of individual applications and records
+  - Ed. Code 51041 - Evaluation of the educational program
+  - Ed. Code 51450-51455 - Golden State Seal Merit Diploma
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 56341.1 - Assistive technology devices for a student with a disability
+  - Ed. Code 60600-60649 - Assessment of academic achievement
+  - Ed. Code 60640-60648.5 - California Assessment of Student Performance and Progress
+  - Ed. Code 60800 - Physical performance test
+  - Ed. Code 60900 - California Longitudinal Pupil Achievement Data System
+  - Ed. Code 60910 - California State Preschool Program Longitudinal Pupil Achievement Data - System
 
 Federal References:
-  - 20 USC 1401
-  - Assistive technology device; definition
-  - 20 USC 9622
-  - National Assessment of Educational Progress
+  - 20 USC 1401 - Assistive technology device; definition
+  - 20 USC 9622 - National Assessment of Educational Progress
 
 Management Resources:
-  - USDOE Office of Educational Technology
-  - Publication
-  - Artificial Intelligence and the Future of Teaching and Learning: Insights and
-  - Recommendations, May 2023
-  - Website
-  - Metropolitan Educational Research Consortium
-  - Board Policy Manual
-  - Redwood City School District
-  - 163
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Testing and Accountability
-  - Website
-  - Smarter Balanced Assessment Consortium
-  - Website
-  - U.S. Department of Education
-  - Website
-  - CSBA
-  - Management Resources
+  - 163 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Testing and Accountability - Website - Smarter Balanced Assessment Consortium - Website - U.S. Department of Education - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0510 - School Accountability Report Card
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2140 - Evaluation Of The Superintendent
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4331 - Staff Development
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131.9 - Academic Honesty
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6151 - Class Size
+  - 6151 - Class Size
+  - 6152 - Class Assignment
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.54 - Test Integrity/Test Preparation
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 6190 - Evaluation Of The Instructional Program
+  - 9000 - Role Of The Board

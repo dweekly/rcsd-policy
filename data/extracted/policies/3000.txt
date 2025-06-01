@@ -31,25 +31,48 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35035
-  - Powers and duties of the superintendent; transfer authority
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 35161
-  - Board delegation of any powers or duties
+  - Ed. Code 35035 - Powers and duties of the superintendent; transfer authority
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 35161 - Board delegation of any powers or duties
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Association of School Business Officials
-  - Website
-  - School Services of California, Inc.
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Website
-  - Fiscal Crisis and Management Assistance Team
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3110 - Transfer Of Funds
+  - 3300 - Expenditures And Purchases
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3312 - Contracts
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3440 - Inventories
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3470 - Debt Issuance And Management
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3512 - Equipment
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.2 - Integrated Pest Management
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3517 - Facilities Inspection
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3543 - Transportation Safety And Emergencies
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 5030 - Student Wellness
+  - 9000 - Role Of The Board

@@ -55,10 +55,9 @@ care of students with disabilities in the school setting shall: (5 CCR 3051.12)
 2. Consult with appropriate personnel regarding management of health care services for students with disabilities
  
 3. Make appropriate referrals and maintain communication with health agencies providing care to students with
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 disabilities
  
 4. Maintain or review licensed physician and parent/guardian requests and daily documentation records
@@ -78,46 +77,37 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 3051.12
-  - Health and nursing services
-  - Bus. Code 2700-2837
-  - Nursing
-  - Ed. Code 44267
-  - Services credential with specialization in health
-  - Ed. Code 44267.5
-  - Services credential with specialization in health for school nurse
-  - Ed. Code 49423
-  - Administration of prescribed medication for student
-  - Ed. Code 49423.5
-  - Specialized physical health care services
-  - Ed. Code 49426
-  - School nurses
-  - Ed. Code 56000-56606
-  - Special education programs
-  - Ed. Code 56345
-  - Individualized education program contents
+  - 5 CCR 3051.12 - Health and nursing services
+  - Bus. Code 2700-2837 - Nursing
+  - Ed. Code 44267 - Services credential with specialization in health
+  - Ed. Code 44267.5 - Services credential with specialization in health for school nurse
+  - Ed. Code 49423 - Administration of prescribed medication for student
+  - Ed. Code 49423.5 - Specialized physical health care services
+  - Ed. Code 49426 - School nurses
+  - Ed. Code 56000-56606 - Special education programs
+  - Ed. Code 56345 - Individualized education program contents
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 34 CFR 300.1-300.818
-  - Individuals with Disabilities Education Act
-  - 34 CFR 300.34
-  - Related services
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 34 CFR 300.1-300.818 - Individuals with Disabilities Education Act
+  - 34 CFR 300.34 - Related services
 
 Management Resources:
-  - Court Decision
-  - Cedar Rapids Community School District v. Garret F. (1999) 526 U.S. 66
-  - Court Decision
-  - Clovis Unified School District v. Office of Administrative Hearings (1990)
-  - 903 F.2d 635
-  - Court Decision
-  - Taylor v. Honig (1990) 910 F.2d 627
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education, Health Services and School Nursing
-  - Website
-  - California School Nurses Organization
+  - 903 F.2d 635 - Court Decision - Taylor v. Honig (1990) 910 F.2d 627 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Health Services and School Nursing - Website - California School Nurses Organization
+
+Cross References:
+  - 4119.43 - Universal Precautions
+  - 4119.43 - Universal Precautions
+  - 4231 - Staff Development
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.6 - School Health Services
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504

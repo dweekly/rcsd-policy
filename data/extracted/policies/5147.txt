@@ -49,78 +49,63 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 46211
-  - Attendance recovery programs
-  - Ed. Code 48200
-  - Compulsory education
-  - Ed. Code 48260-48273
-  - Truancy
-  - Ed. Code 48400-48403
-  - Compulsory continuation education
-  - Ed. Code 48430-48438
-  - Continuation education
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 46211 - Attendance recovery programs
+  - Ed. Code 48200 - Compulsory education
+  - Ed. Code 48260-48273 - Truancy
+  - Ed. Code 48400-48403 - Compulsory continuation education
+  - Ed. Code 48430-48438 - Continuation education - Board Policy Manual - Redwood City School District
   - 475
-  - Ed. Code 48660-48666
-  - Community day schools
-  - Ed. Code 49600-49604
-  - Educational counseling
-  - Ed. Code 51260-51269
-  - Gang and substance abuse prevention curriculum
-  - Ed. Code 51745
-  - Independent study
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 52300-52462
-  - Career technical education
-  - Ed. Code 54690-54697
-  - Partnership academies
-  - Ed. Code 60900
-  - California Longitudinal Pupil Achievement Data System
-  - Ed. Code 64001
-  - School plan for student achievement; consolidated application programs
-  - W&I Code 18986.40-18986.46
-  - Interagency children's services programs
-  - State
+  - Ed. Code 48660-48666 - Community day schools
+  - Ed. Code 49600-49604 - Educational counseling
+  - Ed. Code 51260-51269 - Gang and substance abuse prevention curriculum
+  - Ed. Code 51745 - Independent study
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 52300-52462 - Career technical education
+  - Ed. Code 54690-54697 - Partnership academies
+  - Ed. Code 60900 - California Longitudinal Pupil Achievement Data System
+  - Ed. Code 64001 - School plan for student achievement; consolidated application programs - W&I Code 18986.40-18986.46 - Interagency children's services programs
 
 Federal References:
-  - 20 USC 6301-6322
-  - Title I programs
+  - 20 USC 6301-6322 - Title I programs
 
 Management Resources:
-  - California Department of Education Publication
-  - School Attendance Improvement Strategies
-  - California Department of Education Publication
-  - SAP Bulletin 11: Nine Components of SAPs
-  - California Department of Education Publication
-  - Student Assistance Programs
-  - California Department of Education Publication
-  - Adjusted Cohort Graduation Rate Program Instrument
-  - CSBA Publication
-  - California High School Graduation and Dropout Rates, Fact Sheet, May
-  - 2013
-  - CSBA Publication
-  - Seize the Data: Using Chronic Absence Data to Drive Student Engagement,
-  - March 2024
-  - Institute of Education Sciences Publication
-  - Preventing Dropout in Secondary Schools, September 2017
-  - US Department of Education Publication
-  - Every Student Succeeds Act High School Graduation Rate Non-Regulatory
-  - Guidance, January 2017
-  - Website
-  - Institute of Education Sciences
-  - Website
-  - California Department of Education, Dropout Prevention
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Dropout Research Project
-  - Website
-  - National Dropout Prevention Center
-  - Website
-  - U.S. Department of Education
-  - Website
-  - CSBA
+  - SAP Bulletin 11: Nine Components of SAPs - California Department of Education Publication - Student Assistance Programs - California Department of Education Publication - Adjusted Cohort Graduation Rate Program Instrument - CSBA Publication - California High School Graduation and Dropout Rates, Fact Sheet, May
+  - 2013 - CSBA Publication - Seize the Data: Using Chronic Absence Data to Drive Student Engagement,
+  - March 2024 - Institute of Education Sciences Publication - Preventing Dropout in Secondary Schools, September 2017 - US Department of Education Publication - Every Student Succeeds Act High School Graduation Rate Non-Regulatory - Guidance, January 2017 - Website - Institute of Education Sciences - Website - California Department of Education, Dropout Prevention - Website - CSBA District and County Office of Education Legal Services - Website - California Dropout Research Project - Website - National Dropout Prevention Center - Website - U.S. Department of Education - Website - CSBA
+
+Cross References:
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5030 - Student Wellness
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5136 - Gangs
+  - 5136 - Gangs
+  - 5137 - Positive School Climate
+  - 5141.6 - School Health Services
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6172 - Gifted And Talented Student Program
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6177 - Summer Learning Programs
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

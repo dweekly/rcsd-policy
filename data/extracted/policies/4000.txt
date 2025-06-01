@@ -38,15 +38,24 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35020
-  - Duties of employees fixed by governing board
-  - Ed. Code 35035
-  - Powers and duties of the superintendent; transfer authority
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Gov. Code 3540-3549.3
-  - Educational Employment Relations Act
+  - Ed. Code 35020 - Duties of employees fixed by governing board
+  - Ed. Code 35035 - Powers and duties of the superintendent; transfer authority
+  - Ed. Code 35160 - Authority of governing boards
+  - Gov. Code 3540-3549.3 - Educational Employment Relations Act
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4151 - Employee Compensation
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4231 - Staff Development
+  - 4300 - Administrative And Supervisory Personnel
+  - 4331 - Staff Development
+  - 9000 - Role Of The Board

@@ -31,13 +31,10 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 45113
-  - Notification of charges; classified employees
-  - Ed. Code 45240-45320
-  - Merit system
+  - Ed. Code 45113 - Notification of charges; classified employees
+  - Ed. Code 45240-45320 - Merit system
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California School Employees Association
+Cross References:
+  - 4112.9 - Employee Notifications
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action

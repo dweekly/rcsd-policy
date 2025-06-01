@@ -37,35 +37,31 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 17042
-  - Rules for determining area of adequate school construction; exceptions
-  - Ed. Code 17042.7
-  - Formula for calculation
-  - Ed. Code 33050
-  - Nonwaivable provisions
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 42238.02
-  - Local Control Funding Formula
-  - Ed. Code 42280
-  - Necessary small schools
-  - Ed. Code 46205
-  - Computation for early-late programs
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Gov. Code 3543.2
-  - Scope of representation
+  - Ed. Code 17042 - Rules for determining area of adequate school construction; exceptions
+  - Ed. Code 17042.7 - Formula for calculation
+  - Ed. Code 33050 - Nonwaivable provisions
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 42238.02 - Local Control Funding Formula
+  - Ed. Code 42280 - Necessary small schools
+  - Ed. Code 46205 - Computation for early-late programs
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Gov. Code 3543.2 - Scope of representation
 
 Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Board Policy Manual
-  - Redwood City School District
-  - 115
-  - Website
-  - CSBA
-  - Management Resources
+  - 115 - Website - CSBA
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 3100 - Budget
+  - 3100 - Budget
+  - 4112.23 - Special Education Staff
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6152 - Class Assignment
+  - 6162.5 - Student Assessment
+  - 6170.1 - Transitional Kindergarten
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners

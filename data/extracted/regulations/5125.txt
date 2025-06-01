@@ -54,8 +54,7 @@ Personally identifiable information includes, but is not limited to: (34 CFR 99.
  
 4. A personal identifier, such as the student's social security number, student number, or biometric record (e.g.,
 fingerprints, retina and iris patterns, voiceprints, DNA sequence, facial characteristics, and handwriting).
-Board Policy Manual
-Redwood City School District
+
 
 5. Other indirect identifiers, such as the student's date of birth, place of birth, and mother's maiden name.
  
@@ -489,7 +488,7 @@ student turns 18 years of age or within one year after the student is no longer 
 whichever occurs first.
  
 
-Policy Reference Disclaimer:
+
 4. Notify each parent/guardian that the student's information is being gathered from social media and that any
 information maintained in the student's records shall be destroyed as provided in item #3 above. The
 notification shall also include, but is not limited to, an explanation of the process by which a student or their
@@ -514,106 +513,176 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 16020-16027
-  - Destruction of records of school districts
-  - 5 CCR 430-438
-  - Individual student records
-  - Bus. and Prof. Code 22580-22582
-  - Privacy rights for California minors in the digital world
+  - 5 CCR 16020-16027 - Destruction of records of school districts
+  - 5 CCR 430-438 - Individual student records
+  - Bus. and Prof. Code 22580-22582 - Privacy rights for California minors in the digital world
   - Bus. and Prof. Code 22584-22585
   - K-12 Pupil Online Personal Information Protection Act
-  - Bus. and Prof. Code 22586-22587
-  - Early Learning Personal Information Protection Act
-  - Code of Civil Procedure 1985.3
-  - Subpoena duces tecum
-  - Ed. Code 17604
-  - Delegation of powers to agents
-  - Ed. Code 220.3
-  - Prohibition for employee or contractor to disclose information related to
-  - student’s sexual orientation, gender identity, or gender expression
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 35266
-  - Reporting of cyberattacks
-  - Ed. Code 48201
-  - Transfer student's record for acts that resulted in suspension or expulsion
-  - Ed. Code 48853.5
-  - Foster youth; placement, immunizations
-  - Ed. Code 48902
-  - Notification of law enforcement of specified violations
-  - Ed. Code 48904-48904.3
-  - Withholding grades, diplomas, or transcripts
-  - Ed. Code 48918
-  - Rules governing expulsion procedures
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 49060-49079
-  - Student records
-  - Ed. Code 49091.14
-  - Parental review of curriculum
-  - Ed. Code 51745
-  - Independent study
-  - Ed. Code 56041.5
-  - Rights of students with disabilities
-  - Ed. Code 56050
-  - Surrogate parents
-  - Ed. Code 56055
-  - Foster parents
-  - Ed. Code 60900-60901
-  - California Longitudinal Pupil Achievement Data System
+  - Bus. and Prof. Code 22586-22587 - Early Learning Personal Information Protection Act
+  - Code of Civil Procedure 1985.3 - Subpoena duces tecum
+  - Ed. Code 17604 - Delegation of powers to agents
+  - Ed. Code 220.3 - Prohibition for employee or contractor to disclose information related to - student’s sexual orientation, gender identity, or gender expression
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 35266 - Reporting of cyberattacks
+  - Ed. Code 48201 - Transfer student's record for acts that resulted in suspension or expulsion
+  - Ed. Code 48853.5 - Foster youth; placement, immunizations
+  - Ed. Code 48902 - Notification of law enforcement of specified violations
+  - Ed. Code 48904-48904.3 - Withholding grades, diplomas, or transcripts
+  - Ed. Code 48918 - Rules governing expulsion procedures
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 49091.14 - Parental review of curriculum
+  - Ed. Code 51745 - Independent study
+  - Ed. Code 56041.5 - Rights of students with disabilities
+  - Ed. Code 56050 - Surrogate parents
+  - Ed. Code 56055 - Foster parents
+  - Ed. Code 60900-60901 - California Longitudinal Pupil Achievement Data System
   - 117
-  - Ed. Code 69432.9
-  - Cal Grant program; notification of grade point average
-  - Ed. Code 69475
-  - Conditional repeal of Cal Grant program
-  - Fam. Code 3025
-  - Access to records by noncustodial parents
-  - Fam. Code 6323.5
-  - Ex parte orders
-  - Fam. Code 6552
-  - Caregiver's authorization affidavit
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
-  - H&S Code 120440
-  - Immunizations; disclosure of information
-  - Pen. Code 245
-  - Assault with deadly weapon
-  - W&I Code 16010
-  - Health and education records of a minor
-  - W&I Code 681
-  - Truancy petitions
-  - W&I Code 701
-  - Juvenile court law
-  - State
+  - Ed. Code 69432.9 - Cal Grant program; notification of grade point average
+  - Ed. Code 69475 - Conditional repeal of Cal Grant program
+  - Fam. Code 3025 - Access to records by noncustodial parents
+  - Fam. Code 6323.5 - Ex parte orders
+  - Fam. Code 6552 - Caregiver's authorization affidavit
+  - Gov. Code 7920.000-7930.215 - California Public Records Act - H&S Code 120440 - Immunizations; disclosure of information
+  - Pen. Code 245 - Assault with deadly weapon - W&I Code 16010 - Health and education records of a minor - W&I Code 681 - Truancy petitions - W&I Code 701 - Juvenile court law
 
 Federal References:
-  - 15 USC 6501-6506
-  - Children’s Online Privacy Protection Act
-  - 16 CFR Part 312
-  - Children's Online Privacy Protection Rule
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1232h
-  - Protection of Pupil Rights Amendment
-  - 26 USC 152
-  - Definition of dependent child
-  - 34 CFR 300.501
-  - Opportunity to examine records for parents of student with disability
-  - 34 CFR 99.1-99.8
-  - Family Educational Rights and Privacy Act
-  - 42 USC 11434a
-  - McKinney-Vento Homeless Assistance Act; definitions
+  - 15 USC 6501-6506 - Children’s Online Privacy Protection Act
+  - 16 CFR Part 312 - Children's Online Privacy Protection Rule
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h - Protection of Pupil Rights Amendment
+  - 26 USC 152 - Definition of dependent child
+  - 34 CFR 300.501 - Opportunity to examine records for parents of student with disability
+  - 34 CFR 99.1-99.8 - Family Educational Rights and Privacy Act
+  - 42 USC 11434a - McKinney-Vento Homeless Assistance Act; definitions
 
 Management Resources:
-  - CA Office of the Attorney General Publication
-  - Promoting a Safe and Secure Learning Environment for All: Guidance and
-  - Model Policies to Assist California's K-12 Schools in Responding to
-  - Immigration Issues, December 2024
-  - CSBA Publication
-  - Understanding Artificial Intelligence in K-12 Education: What Governance
-  - Teams Should Know, September 2023
-  - CSBA Publication
-  - Legal Guidance on Providing All Children Equal Access to Education,
-  - Regardless of Immigration Status, February 2017
+  - Understanding Artificial Intelligence in K-12 Education: What Governance - Teams Should Know, September 2023 - CSBA Publication - Legal Guidance on Providing All Children Equal Access to Education, - Regardless of Immigration Status, February 2017 - Federal Register - Final Rule and Analysis of Comments and Changes, Family Educational - Rights and Privacy, December 9, 2008, Vol. 73, No. 237, pages 74806-
+  - 74855 - U.S. Department of Education Publication - IDEA and FERPA Crosswalk: A side-by-side comparison of the privacy - provisions under Parts B and C of the IDEA and FERPA, August 2022 - U.S. Department of Education Publication - School Resource Officers, School Law Enforcement Units, and the Family - Educational Rights and Privacy Act (FERPA), February 2019 - U.S. Department of Education Publication - An Eligible Student Guide to the Family Educational Rights and Privacy Act - (FERPA), March 2023 - U.S. Department of Education Publication - A Parent Guide to the Family Educational Rights and Privacy Act (FERPA),
+  - July 2021 - U.S. Department of Education Publication - Balancing Student Privacy and School Safety: A Guide to the Family - Educational Rights and Privacy Act for Elementary and Secondary Schools,
+  - Oct 2007 - U.S. Department of Education Publication - Joint Guidance on the Application of FERPA and HIPAA to Student Health - Records, November 2008
+  - 118 - Website - California IT in Education, Student Data Privacy - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Education, Protecting Student Privacy - Website - California Office of the Attorney General - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3250 - Transportation Fees
+  - 3250 - Transportation Fees
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3290 - Gifts, Grants And Bequests
+  - 3312 - Contracts
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3555 - Nutrition Program Compliance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4040 - Employee Use Of Technology
+  - 4112.6 - Personnel Files
+  - 4117.7 - Employment Status Reports
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4219.21 - Professional Standards
+  - 4319.21 - Professional Standards
+  - 5000 - Concepts And Roles
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5021 - Noncustodial Parents
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5112.1 - Exemptions From Attendance
+  - 5112.1 - Exemptions From Attendance
+  - 5112.2 - Exclusions From Attendance
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5125.3 - Challenging Student Records
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.24 - Specialized Health Care Services
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.33 - Head Lice
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.6 - School Health Services
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.12 - Search And Seizure
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6162.5 - Student Assessment
+  - 6162.8 - Research
+  - 6162.8 - Research
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 9011 - Disclosure Of Confidential/Privileged Information

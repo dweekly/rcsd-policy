@@ -26,61 +26,115 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 16020-16022
-  - Records; general provisions
-  - 5 CCR 16023-16027
-  - District records; retention and destruction
-  - 5 CCR 430-438
-  - Individual student records
-  - Civ. Code 1798.29
-  - District records; breach of security
-  - Code of Civil Procedure 1985.8
-  - Electronic Discovery Act
-  - Code of Civil Procedure 2031.010-2031.060
-  - Civil Discovery Act; scope of discovery demand
-  - Code of Civil Procedure 2031.210-2031.320
-  - Civil Discovery Act; response to inspection demand
-  - Ed. Code 35145
-  - Public meetings
-  - Ed. Code 35163
-  - Official actions, minutes and journal
-  - Ed. Code 35252-35255
-  - Records and reports
-  - Ed. Code 35266
-  - Cybersecurity
-  - Ed. Code 44031
-  - Personnel file contents and inspection
-  - Ed. Code 49065
-  - Reasonable charge for transcripts
-  - Ed. Code 49069.7
-  - Absolute right to access
-  - Gov. Code 11549.3
-  - Office of Information Security
-  - Gov. Code 12946
-  - Fair Employment and Housing Act: discrimination prohibited
-  - Gov. Code 6205-6210
-  - Confidentiality of addresses for victims of domestic violence, sexual assault,
-  - stalking, human trafficking, child abduction, and elder or dependent adult
-  - abuse
-  - Gov. Code 6215-6216
-  - Address confidentiality; reproductive health care providers, employees,
-  - volunteers, patients, and other individuals who face threats or violence
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
-  - Gov. Code 8586.5
-  - Office of Emergency Services; California Cybersecurity Information Center
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 16020-16022 - Records; general provisions
+  - 5 CCR 16023-16027 - District records; retention and destruction
+  - 5 CCR 430-438 - Individual student records
+  - Civ. Code 1798.29 - District records; breach of security
+  - Code of Civil Procedure 1985.8 - Electronic Discovery Act
+  - Code of Civil Procedure 2031.010-2031.060 - Civil Discovery Act; scope of discovery demand
+  - Code of Civil Procedure 2031.210-2031.320 - Civil Discovery Act; response to inspection demand
+  - Ed. Code 35145 - Public meetings
+  - Ed. Code 35163 - Official actions, minutes and journal
+  - Ed. Code 35252-35255 - Records and reports
+  - Ed. Code 35266 - Cybersecurity
+  - Ed. Code 44031 - Personnel file contents and inspection
+  - Ed. Code 49065 - Reasonable charge for transcripts
+  - Ed. Code 49069.7 - Absolute right to access
+  - Gov. Code 11549.3 - Office of Information Security
+  - Gov. Code 12946 - Fair Employment and Housing Act: discrimination prohibited
+  - Gov. Code 6205-6210 - Confidentiality of addresses for victims of domestic violence, sexual assault, - stalking, human trafficking, child abduction, and elder or dependent adult - abuse
+  - Gov. Code 6215-6216 - Address confidentiality; reproductive health care providers, employees, - volunteers, patients, and other individuals who face threats or violence
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
+  - Gov. Code 8586.5 - Office of Emergency Services; California Cybersecurity Information Center - Board Policy Manual - Redwood City School District
   - 304
-  - Pen. Code 11170
-  - Retention of child abuse reports
-  - State
+  - Pen. Code 11170 - Retention of child abuse reports
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 34 CFR 99.1-99.8
-  - Family Educational Rights and Privacy Act
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 34 CFR 99.1-99.8 - Family Educational Rights and Privacy Act
 
-Management Resources:
-  - California Secretary of
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2121 - Superintendent's Contract
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3440 - Inventories
+  - 3452 - Student Activity Funds
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.2 - Integrated Pest Management
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.5 - Emergency Schedules
+  - 3542 - School Bus Drivers
+  - 3543 - Transportation Safety And Emergencies
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4040 - Employee Use Of Technology
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4112.5 - Criminal Record Check
+  - 4112.6 - Personnel Files
+  - 4112.9 - Employee Notifications
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4119.21 - Professional Standards
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4151 - Employee Compensation
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5143 - Insurance
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9324 - Minutes And Recordings

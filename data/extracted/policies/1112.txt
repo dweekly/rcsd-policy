@@ -52,39 +52,60 @@ Superintendent or designee shall develop a crisis communications plan to identif
 taken in the event of a crisis.
 The crisis communications plan may include but not be limited to identification of a media center location,
 development of both internal and external notification systems, and strategies for press conference logistics.
-Board Policy Manual
-Redwood City School District
-
-Policy Reference Disclaimer:
-The Superintendent or designee shall include local law enforcement and media representatives in the crisis planning
-process.
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32210-32212
-  - Willful disturbance; public schools or meetings
-  - Ed. Code 35144
-  - Special meeting
-  - Ed. Code 35145
-  - Public meetings
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35172
-  - Promotional activities
-  - Evid. Code 1070
-  - Refusal to disclose news source
-  - Pen. Code 627-627.10
-  - Access to school premises
+  - Ed. Code 32210-32212 - Willful disturbance; public schools or meetings
+  - Ed. Code 35144 - Special meeting
+  - Ed. Code 35145 - Public meetings
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35172 - Promotional activities
+  - Evid. Code 1070 - Refusal to disclose news source
+  - Pen. Code 627-627.10 - Access to school premises
 
 Management Resources:
-  - Attorney General Opinion
-  - 95 Ops.Cal.Atty.Gen. 509 (1996)
-  - Court Decision
-  - Lopez v. Tulare Joint Union High School District (1995) 34 Cal.App.4th 1302
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+  - 95 Ops.Cal.Atty.Gen. 509 (1996) - Court Decision - Lopez v. Tulare Joint Union High School District (1995) 34 Cal.App.4th 1302 - Website - CSBA District and County Office of Education Legal Services - Website - CSBA
+
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0510 - School Accountability Report Card
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1160 - Political Processes
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.2 - Bomb Threats
+  - 3516.3 - Earthquake Emergency Procedure System
+  - 3516.5 - Emergency Schedules
+  - 3541 - Transportation Routes And Services
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 6000 - Concepts And Roles
+  - 9000 - Role Of The Board
+  - 9010 - Public Statements
+  - 9121 - President
+  - 9230 - Orientation
+  - 9310 - Board Policies
+  - 9322 - Agenda/Meeting Materials

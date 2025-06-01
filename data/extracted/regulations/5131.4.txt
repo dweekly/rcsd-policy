@@ -46,56 +46,59 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32210
-  - Willful disturbance of public school or meeting
-  - Ed. Code 32211
-  - Threatened disruption or interference with classes
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 38000-38005
-  - Security departments
-  - Ed. Code 44810
-  - Willful interference with classroom conduct
-  - Ed. Code 44811
-  - Disruption of classwork or extracurricular activities
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 32210 - Willful disturbance of public school or meeting
+  - Ed. Code 32211 - Threatened disruption or interference with classes
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 38000-38005 - Security departments
+  - Ed. Code 44810 - Willful interference with classroom conduct
+  - Ed. Code 44811 - Disruption of classwork or extracurricular activities
+  - Ed. Code 48900 - Grounds for suspension or expulsion - Board Policy Manual - Redwood City School District
   - 161
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 51512
-  - Prohibited use of electronic listening or recording device
-  - Pen. Code 243.5
-  - Assault or battery on school property
-  - Pen. Code 403-420
-  - Crimes against the public peace
-  - Pen. Code 415
-  - Fighting; noise; offensive words
-  - Pen. Code 415.5
-  - Disturbance of peace of school
-  - Pen. Code 416
-  - Assembly to disturb peace; refusal to disperse
-  - Pen. Code 626-626.11
-  - Weapons on school grounds and other school crimes
-  - Pen. Code 627-627.10
-  - Access to school premises
-  - Pen. Code 653b
-  - Loitering about schools or public places
-  - State
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 51512 - Prohibited use of electronic listening or recording device
+  - Pen. Code 243.5 - Assault or battery on school property
+  - Pen. Code 403-420 - Crimes against the public peace
+  - Pen. Code 415 - Fighting; noise; offensive words
+  - Pen. Code 415.5 - Disturbance of peace of school
+  - Pen. Code 416 - Assembly to disturb peace; refusal to disperse
+  - Pen. Code 626-626.11 - Weapons on school grounds and other school crimes
+  - Pen. Code 627-627.10 - Access to school premises
+  - Pen. Code 653b - Loitering about schools or public places
 
-Management Resources:
-  - U.S. Department of Education Publication
-  - Practical Information on Crisis Planning: A Guide for Schools and
-  - Communities, May 2003
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Education, Emergency Planning
-  - Website
-  - California Department of Education, Safe Schools
-  - Website
-  - CSBA
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1313 - Civility
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5131 - Conduct
+  - 5131.41 - Use Of Seclusion And Restraint
+  - 5131.8 - Mobile Communication Devices
+  - 5136 - Gangs
+  - 5136 - Gangs
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.9 - Hate-Motivated Behavior
+  - 6116 - Classroom Interruptions
+  - 6116 - Classroom Interruptions
+  - 6145.8 - Assemblies And Special Events
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

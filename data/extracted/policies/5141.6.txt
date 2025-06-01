@@ -50,10 +50,9 @@ accordance with law.
 The district shall serve as a Medi-Cal provider to the extent feasible, comply with all related legal requirements, and
 seek reimbursement of costs to the extent allowed by law.
 Program Evaluation
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 In order to continuously improve school health services, the Board shall evaluate the effectiveness of such services
 and the extent to which they continue to meet student needs.
 The Superintendent or designee shall provide the Board with periodic reports that may include, but are not
@@ -67,99 +66,105 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 17 CCR 2950-2951
-  - Hearing tests
-  - 17 CCR 6800-6874
-  - Child Health and Disability Prevention program; health assessments
-  - 22 CCR 51009
-  - Confidentiality
-  - 22 CCR 51050-51192
-  - Definitions of Medi-Cal providers and services
-  - 22 CCR 51200
-  - Requirements for providers
-  - 22 CCR 51231.2
-  - Wheelchair van requirements
-  - 22 CCR 51270
-  - Local educational agency provider; conditions for participation
-  - 22 CCR 51304
-  - Limitations on specified benefits
-  - 22 CCR 51309
-  - Psychology, physical therapy, occupational therapy, speech pathology,
-  - audiological services
-  - 22 CCR 51323
-  - Medical transportation services
-  - 22 CCR 51351
-  - Targeted case
+  - 17 CCR 2950-2951 - Hearing tests
+  - 17 CCR 6800-6874 - Child Health and Disability Prevention program; health assessments
+  - 22 CCR 51009 - Confidentiality
+  - 22 CCR 51050-51192 - Definitions of Medi-Cal providers and services
+  - 22 CCR 51200 - Requirements for providers
+  - 22 CCR 51231.2 - Wheelchair van requirements
+  - 22 CCR 51270 - Local educational agency provider; conditions for participation
+  - 22 CCR 51304 - Limitations on specified benefits
+  - 22 CCR 51309 - Psychology, physical therapy, occupational therapy, speech pathology, - audiological services
+  - 22 CCR 51323 - Medical transportation services
+  - 22 CCR 51351 - Targeted case management services
+  - 22 CCR 51360 - Local educational agency; types of services
+  - 22 CCR 51491 - Local educational agency eligibility for payment
+  - 22 CCR 51535.5 - Reimbursement to local educational agency providers
+  - Ed. Code 49073-49079 - Privacy of student records
+  - Ed. Code 49423.5 - Specialized physical health care services
+  - Ed. Code 49557.2-49558 - Eligibility for free and reduced-price meals; sharing information with Medi- - Cal
+  - Fam. Code 6920-6930 - Consent by minor for medical treatment
+  - Gov. Code 95020 - Individualized family service plan - H&S Code 104830-104865 - School-based application of fluoride or other tooth decay-inhibiting agent - H&S Code 121020 - HIV/AIDS testing and treatment; parental consent for minor under age 12 - H&S Code 123110 - Minor's right to access health records - H&S Code 123115 - Limitation on parent/guardian access to minor's health records - H&S Code 123800-123995 - California Children's Services Act - H&S Code 124025-124110 - Child Health and Disability Prevention Program - H&S Code 124172-124174.6 - Public School Health Center Support Program - H&S Code 124260 - Mental health services; consent by minors age 12 and older - H&S Code 130300-130317 - Health Insurance Portability and Accountability Act (HIPAA) - W&I Code 14059.5 - Definition of "medically necessary" - W&I Code 14115 - Medi-Cal claims process - W&I Code 14115.8 - LEA Medi-Cal Billing Option; program guide
+  - 304 - W&I Code 14124.90 - Third-party health coverage - W&I Code 14132.06 - Covered benefits; health services provided by local educational agencies - W&I Code 14132.47 - Administrative claiming process and targeted case management - W&I Code 5961-5961.5 - Children and Youth Behavioral Health Initiative Act
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 42 CFR 431.300
-  - Use and disclosure of information on Medicaid applicants and recipients
-  - 42 USC 1320c-9
-  - Prohibition against disclosure of records
-  - 42 USC 1397aa-1397mm
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 42 CFR 431.300 - Use and disclosure of information on Medicaid applicants and recipients
+  - 42 USC 1320c-9 - Prohibition against disclosure of records
+  - 42 USC 1397aa-1397mm - State Children's Health Insurance Program
+  - 45 CFR 164.500-164.534 - Privacy of individually identifiable health information
 
 Management Resources:
-  - CA Department of Health Care Services
-  - Publication
-  - LEA Medi-Cal Billing Option Program Provider Manual, November 2021
-  - CA Dept of Health Care Services Publication
-  - Policy and Procedure Letter No. 23-004, February 2023
-  - CA Dept of Health Care Services Publication
-  - Policy and Procedure Letter No. 21-017R, December 2021
-  - CA Dept of Health Care Services Publication
-  - California School-Based Medi-Cal Administrative Activities Manual
-  - CA Health and Human Services Publication
-  - Children and Youth Behavioral Health Initiative, 2021
-  - CA School-Based Health Alliance Publication
-  - How to Fund Health Services in Your School District, September 2014
-  - CA School-Based Health Alliance Publication
-  - Documenting the Link Between School-Based Health Centers and Academic
-  - Success, May 2014
-  - California Department of Education Publication
-  - Health Education Framework for California Public Schools, Kindergarten
-  - Through Grade Twelve, May 2019
-  - National Center For Youth Law Publication
-  - Confidential Medical Release: Frequently Asked Questions from Schools
-  - and Districts, November 2015
-  - US Dept of Health and Human Services
-  - Publication
-  - Centers for Medicare & Medicaid Services Informational Bulletin,
-  - Information on School-Based Services in Medicaid: Funding, Documentation
-  - and Expanding Services, August 2022
-  - US Dept of Health and Human Services
-  - Publication
-  - Information on School-Based Services in Medicaid: Funding, Documentation
-  - and Expanding Services, August 18, 2022
-  - Website
-  - California Department of Health and Human Services
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA, Practi-Cal Program
-  - Website
-  - California School-Based Health Alliance
-  - Website
-  - Center for Health and Health Care in Schools
-  - Website
-  - Centers for Disease Control and Prevention, School Health Policies and
-  - Programs (SHPPS) Study
-  - Website
-  - Centers for Medicare and Medicaid Services
-  - Website
-  - National Center for Youth Law
-  - Website
-  - California School Nurses Organization
-  - Website
-  - California County Superintendents
-  - Website
-  - California Department of Education, Health Services and School Nursing
-  - Website
-  - California Department of Health Care Services
-  - 305
-  - Website
-  - California Department of Public Health
-  - Website
-  - CSBA
-  - Management Resources
+  - Policy and Procedure Letter No. 23-004, February 2023 - CA Dept of Health Care Services Publication
+  - Policy and Procedure Letter No. 21-017R, December 2021 - CA Dept of Health Care Services Publication - California School-Based Medi-Cal Administrative Activities Manual - CA Health and Human Services Publication - Children and Youth Behavioral Health Initiative, 2021 - CA School-Based Health Alliance Publication - How to Fund Health Services in Your School District, September 2014 - CA School-Based Health Alliance Publication - Documenting the Link Between School-Based Health Centers and Academic - Success, May 2014 - California Department of Education Publication - Health Education Framework for California Public Schools, Kindergarten - Through Grade Twelve, May 2019 - National Center For Youth Law Publication - Confidential Medical Release: Frequently Asked Questions from Schools - and Districts, November 2015 - US Dept of Health and Human Services - Publication - Centers for Medicare & Medicaid Services Informational Bulletin, - Information on School-Based Services in Medicaid: Funding, Documentation - and Expanding Services, August 2022 - US Dept of Health and Human Services - Publication - Information on School-Based Services in Medicaid: Funding, Documentation - and Expanding Services, August 18, 2022 - Website - California Department of Health and Human Services - Website - CSBA District and County Office of Education Legal Services - Website - CSBA, Practi-Cal Program - Website - California School-Based Health Alliance - Website - Center for Health and Health Care in Schools - Website - Centers for Disease Control and Prevention, School Health Policies and - Programs (SHPPS) Study - Website - Centers for Medicare and Medicaid Services - Website - National Center for Youth Law - Website - California School Nurses Organization - Website - California County Superintendents - Website - California Department of Education, Health Services and School Nursing - Website - California Department of Health Care Services
+  - 305 - Website - California Department of Public Health - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 4119.41 - Employees With Infectious Disease
+  - 4119.43 - Universal Precautions
+  - 4119.43 - Universal Precautions
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4231 - Staff Development
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.24 - Specialized Health Care Services
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.33 - Head Lice
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.5 - Mental Health
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.7 - Sun Safety
+  - 5143 - Insurance
+  - 5145.6 - Parent/Guardian Notifications
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5147 - Dropout Prevention
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6177 - Summer Learning Programs
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

@@ -24,120 +24,75 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Civ. Code 56.10-56.16
-  - Disclosure of information by medical providers
-  - Civ. Code 56.20-56.245
-  - Use and disclosure of medical information by employers
-  - Ed. Code 17566
-  - Self-insurance fund
-  - Ed. Code 35208
-  - Liability insurance
-  - Ed. Code 35214
-  - Liability insurance (self-insurance or a combination of self-insurance and
-  - insurance through an insurance company)
-  - Ed. Code 44041-44042
-  - Payroll deductions for collection of premiums
-  - Ed. Code 44986
-  - Leave of absence; state disability benefits
-  - Ed. Code 45136
-  - Benefits for classified employees
-  - Ed. Code 7000-7008
-  - Health and welfare benefits; retired certificated employees
-  - Fam. Code 297-297.5
-  - Rights, protections, benefits under the law; registered domestic partners
-  - Fam. Code 300
-  - Definition of marriage
-  - Gov. Code 12940
-  - Unlawful discriminatory employment practices
-  - Gov. Code 22750-22944
-  - Public Employees' Medical and Hospital Care Act
-  - Gov. Code 53200-53210
-  - Group insurance
-  - H&S Code 1366.20-1366.29
-  - Cal-COBRA program; health insurance
-  - H&S Code 1367.08
-  - Disclosure of fees and commissions paid related to health care service plan
-  - H&S Code 1373
-  - Health services plan; coverage for dependent children
-  - H&S Code 1373.621
-  - Continuation coverage; age 60 or older after five years with district
-  - H&S Code 1374.58
-  - Coverage for registered domestic partners; health service plans and health
-  - insurers
-  - Ins. Code 10116.5
-  - Continuation coverage; age 60 or older after five years with district
-  - Ins. Code 10128.50-10128.59
-  - Cal-COBRA program; disability insurance
-  - Ins. Code 10277-10278
-  - Group and individual health insurance; coverage for dependent children
-  - Board Policy Manual
-  - Redwood City School District
+  - Civ. Code 56.10-56.16 - Disclosure of information by medical providers
+  - Civ. Code 56.20-56.245 - Use and disclosure of medical information by employers
+  - Ed. Code 17566 - Self-insurance fund
+  - Ed. Code 35208 - Liability insurance
+  - Ed. Code 35214 - Liability insurance (self-insurance or a combination of self-insurance and - insurance through an insurance company)
+  - Ed. Code 44041-44042 - Payroll deductions for collection of premiums
+  - Ed. Code 44986 - Leave of absence; state disability benefits
+  - Ed. Code 45136 - Benefits for classified employees
+  - Ed. Code 7000-7008 - Health and welfare benefits; retired certificated employees
+  - Fam. Code 297-297.5 - Rights, protections, benefits under the law; registered domestic partners
+  - Fam. Code 300 - Definition of marriage
+  - Gov. Code 12940 - Unlawful discriminatory employment practices
+  - Gov. Code 22750-22944 - Public Employees' Medical and Hospital Care Act
+  - Gov. Code 53200-53210 - Group insurance - H&S Code 1366.20-1366.29 - Cal-COBRA program; health insurance - H&S Code 1367.08 - Disclosure of fees and commissions paid related to health care service plan - H&S Code 1373 - Health services plan; coverage for dependent children - H&S Code 1373.621 - Continuation coverage; age 60 or older after five years with district - H&S Code 1374.58 - Coverage for registered domestic partners; health service plans and health - insurers
+  - Ins. Code 10116.5 - Continuation coverage; age 60 or older after five years with district
+  - Ins. Code 10128.50-10128.59 - Cal-COBRA program; disability insurance
+  - Ins. Code 10277-10278 - Group and individual health insurance; coverage for dependent children - Board Policy Manual - Redwood City School District
   - 200
-  - Ins. Code 10604.5
-  - Annual disclosure of fees and commissions paid
-  - Ins. Code 12670-12692.5
-  - Conversion coverage
-  - Lab. Code 2800.2
-  - Notification of availability of continuation health coverage
-  - Lab. Code 4856
-  - Health benefits for spouse of peace officer killed in performance of duties
-  - Unemp. Ins. Code 2613
-  - Disability insurance; notice of rights and benefits
-  - State
+  - Ins. Code 10604.5 - Annual disclosure of fees and commissions paid
+  - Ins. Code 12670-12692.5 - Conversion coverage
+  - Lab. Code 2800.2 - Notification of availability of continuation health coverage
+  - Lab. Code 4856 - Health benefits for spouse of peace officer killed in performance of duties
+  - Unemp. Ins. Code 2613 - Disability insurance; notice of rights and benefits
 
 Federal References:
-  - 1 USC 7
-  - Definition of marriage and spouse
-  - 26 CFR 1.105-11
-  - Self-insured medical reimbursement plan
-  - 26 CFR 54.4980B-1-54.4980B-10
-  - COBRA continuation coverage
-  - 26 CFR 54.4980H-1-54.4980H-6
-  - Patient Protection and Affordable Care Act
-  - 26 USC 105
-  - Self-insured medical reimbursement plan; definition of highly compensated
-  - individual
-  - 26 USC 4980B
-  - COBRA continuation coverage
-  - 26 USC 4980H
-  - Penalty for noncompliance with employer-provided health care
-  - requirements
-  - 26 USC 5000A
-  - Minimum essential coverage
-  - 26 USC 6056
-  - Report of health coverage provided to employees
-  - 29 USC 1161-1168
-  - COBRA continuation coverage
-  - 42 USC 1395-1395g
-  - Medicare benefits
-  - 42 USC 300gg-16
-  - Group health plan; nondiscrimination in favor of highly compensated
-  - individuals
-  - 42 USC 300gg-300gg95
-  - Patient Protection and Affordable Care Act
-  - 45 CFR 164.500-164.534
-  - Privacy of individually identifiable health information
+  - 1 USC 7 - Definition of marriage and spouse
+  - 26 CFR 1.105-11 - Self-insured medical reimbursement plan
+  - 26 CFR 54.4980B-1-54.4980B-10 - COBRA continuation coverage
+  - 26 CFR 54.4980H-1-54.4980H-6 - Patient Protection and Affordable Care Act
+  - 26 USC 105 - Self-insured medical reimbursement plan; definition of highly compensated - individual
+  - 26 USC 4980B - COBRA continuation coverage
+  - 26 USC 4980H - Penalty for noncompliance with employer-provided health care - requirements
+  - 26 USC 5000A - Minimum essential coverage
+  - 26 USC 6056 - Report of health coverage provided to employees
+  - 29 USC 1161-1168 - COBRA continuation coverage
+  - 42 USC 1395-1395g - Medicare benefits
+  - 42 USC 300gg-16 - Group health plan; nondiscrimination in favor of highly compensated - individuals
+  - 42 USC 300gg-300gg95 - Patient Protection and Affordable Care Act
+  - 45 CFR 164.500-164.534 - Privacy of individually identifiable health information
 
 Management Resources:
-  - CSBA Publication
-  - Health Policy: Implications of Covered California for School Boards, Districts
-  - and Personnel, Governance Brief, January 2013
-  - Internal Revenue Service Notification
-  - 2011-1 Affordable Care Act Nondiscrimination Provisions Applicable to
-  - Insured Group Health Plans
-  - U.S. Department of Treasury Publication
-  - Fact Sheet: Final Regulations Implementing Employer Shared Responsibility
-  - Under the Affordable Care Act (ACA) for 2015
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Health and Human Services, Centers for Medicare and
-  - Medicaid Services
-  - Website
-  - California Employment Development Department
-  - Website
-  - Internal Revenue Service
-  - Website
-  - U.S. Department of Labor
-  - Website
-  - CSBA
+  - 2011-1 Affordable Care Act Nondiscrimination Provisions Applicable to - Insured Group Health Plans - U.S. Department of Treasury Publication - Fact Sheet: Final Regulations Implementing Employer Shared Responsibility - Under the Affordable Care Act (ACA) for 2015 - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Health and Human Services, Centers for Medicare and - Medicaid Services - Website - California Employment Development Department - Website - Internal Revenue Service - Website - U.S. Department of Labor - Website - CSBA
+
+Cross References:
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4112.6 - Personnel Files
+  - 4112.9 - Employee Notifications
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4121 - Temporary/Substitute Personnel
+  - 4140 - Bargaining Units
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4151 - Employee Compensation
+  - 4157.1 - Work-Related Injuries
+  - 4161 - Leaves
+  - 4161.8 - Family Care And Medical Leave
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 4261 - Leaves
+  - 4261.8 - Family Care And Medical Leave
+  - 4300 - Administrative And Supervisory Personnel
+  - 4361.8 - Family Care And Medical Leave

@@ -9,8 +9,7 @@ Source: RCSD Policies 5000.pdf (Pages 421, 422, 423, 424, 425, 426, 427, 428, 42
 
 Original Adopted Date: 01/13/2010
 See PDF on the next page.
-Board Policy Manual
-Redwood City School District
+
 
 Cautionary Notice 2010-13: AB 1610 (Ch. 724, Statutes of 2010) amended Education Code 37252.2 to
 relieve districts from the obligation, until July 1, 2013, to perform any activities that are deemed to be
@@ -537,387 +536,332 @@ Subject: Complaint rights re: sufficiency instructional materials, teacher vacan
 maintenance of facilities, and, for classrooms with grades 10-12, right of students who did not pass the
 exit exam to receive intensive instruction after completion of grade 12
 
-Policy Reference Disclaimer:
-
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 17 CCR 2950-2951
-  - Hearing tests
-  - 17 CCR 6000-6075
-  - School attendance immunization requirements
-  - 22 CCR 101218.1
-  - Child care licensing; parent/guardian rights
-  - 5 CCR 11303
-  - Reclassification of English learners
-  - 5 CCR 11511.5
-  - English language proficiency assessment; test results
-  - 5 CCR 11523
-  - Notice of proficiency examinations
-  - 5 CCR 17782
-  - Notice of Action; application for services
-  - 5 CCR 17783
-  - Notice of Action; recipient of services
-  - 5 CCR 18066
-  - Child care policies regarding excused and unexcused absences
-  - 5 CCR 18094-18095
-  - Notice of Action; child care services
-  - 5 CCR 18114
-  - Notice of delinquent fees; child care services
-  - 5 CCR 18118-18119
-  - Notice of Action; child care services
-  - 5 CCR 3052
-  - Behavioral intervention
-  - 5 CCR 4622
-  - Uniform complaint procedures
-  - 5 CCR 4631
-  - Uniform complaint procedures; notification of decision and right
-  - to appeal
-  - 5 CCR 4917
-  - Notification of sexual harassment policy
-  - 5 CCR 852
-  - Exemptions from state assessments
-  - 5 CCR 863
-  - Reports of state assessment results
-  - Civ. Code 1798.29
-  - District records; breach of security
-  - Ed. Code 17288
-  - Building standards for university campuses
-  - Ed. Code 17612
-  - Notification of pesticide use
-  - Ed. Code 221.5
-  - Equal opportunity
-  - Ed. Code 231.5
-  - Sexual harassment policy
-  - Ed. Code 234.1
-  - Student protections relating to discrimination, harassment,
-  - intimidation, and bullying
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 262.3
-  - Appeals for discrimination complaints; information regarding
-  - availability of civil remedies
-  - Ed. Code 310
-  - Language acquisition programs
-  - Ed. Code 313
-  - Reclassification of English learners; parental consultation
-  - Ed. Code 313.2
-  - Long-term English learner; notification
-  - Ed. Code 32221.5
-  - Insurance for athletic team members
-  - Ed. Code 32255-32255.6
-  - Student's right to refrain from harmful or destructive use of
-  - animals
+  - 17 CCR 2950-2951 - Hearing tests
+  - 17 CCR 6000-6075 - School attendance immunization requirements
+  - 22 CCR 101218.1 - Child care licensing; parent/guardian rights
+  - 5 CCR 11303 - Reclassification of English learners
+  - 5 CCR 11511.5 - English language proficiency assessment; test results
+  - 5 CCR 11523 - Notice of proficiency examinations
+  - 5 CCR 17782 - Notice of Action; application for services
+  - 5 CCR 17783 - Notice of Action; recipient of services
+  - 5 CCR 18066 - Child care policies regarding excused and unexcused absences
+  - 5 CCR 18094-18095 - Notice of Action; child care services
+  - 5 CCR 18114 - Notice of delinquent fees; child care services
+  - 5 CCR 18118-18119 - Notice of Action; child care services
+  - 5 CCR 3052 - Behavioral intervention
+  - 5 CCR 4622 - Uniform complaint procedures
+  - 5 CCR 4631 - Uniform complaint procedures; notification of decision and right - to appeal
+  - 5 CCR 4917 - Notification of sexual harassment policy
+  - 5 CCR 852 - Exemptions from state assessments
+  - 5 CCR 863 - Reports of state assessment results
+  - Civ. Code 1798.29 - District records; breach of security
+  - Ed. Code 17288 - Building standards for university campuses
+  - Ed. Code 17612 - Notification of pesticide use
+  - Ed. Code 221.5 - Equal opportunity
+  - Ed. Code 231.5 - Sexual harassment policy
+  - Ed. Code 234.1 - Student protections relating to discrimination, harassment, - intimidation, and bullying
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 262.3 - Appeals for discrimination complaints; information regarding - availability of civil remedies
+  - Ed. Code 310 - Language acquisition programs
+  - Ed. Code 313 - Reclassification of English learners; parental consultation
+  - Ed. Code 313.2 - Long-term English learner; notification
+  - Ed. Code 32221.5 - Insurance for athletic team members
+  - Ed. Code 32255-32255.6 - Student's right to refrain from harmful or destructive use of - animals
   - 441
-  - Ed. Code 32390
-  - Voluntary program for fingerprinting students
-  - Ed. Code 33479-33479.9
-  - The Eric Parades Sudden Cardiac Arrest Prevention Act
-  - Ed. Code 35160.5
-  - Extracurricular and cocurricular activities
-  - Ed. Code 35178.4
-  - Notice of accreditation status
-  - Ed. Code 35182.5
-  - Advertising in the classroom
-  - Ed. Code 35183
-  - School dress code; uniforms
-  - Ed. Code 35186
-  - Complaints concerning deficiencies in instructional materials and
-  - facilities
-  - Ed. Code 35211
-  - Driver training; district insurance, parent/guardian liability
-  - Ed. Code 35256
-  - School Accountability Report Card
-  - Ed. Code 35258
-  - School Accountability Report Card
-  - Ed. Code 35291
-  - Rules for student discipline
-  - Ed. Code 35292.6
-  - School maintenance
-  - Ed. Code 37616
-  - Consultation regarding year-round schedule
-  - Ed. Code 39831.5
-  - School bus rider rules and information
-  - Ed. Code 41329
-  - School closures and consolidation
-  - Ed. Code 440
-  - English language proficiency assessment; instruction in English
-  - language development
-  - Ed. Code 44050
-  - Employee code of conduct; interaction with students
-  - Ed. Code 44808.5
-  - Permission to leave school grounds
-  - Ed. Code 46010.1
-  - Notice regarding excuse to obtain confidential medical services
-  - Ed. Code 46014
-  - Regulations regarding absences for religious purposes
-  - Ed. Code 46015
-  - Accommodations for pregnant and parenting pupils
-  - Ed. Code 46160-46162
-  - Alternative schedule for junior high and high school; public
-  - hearing with notice
-  - Ed. Code 46600-46611
-  - Interdistrict attendance agreements
-  - Ed. Code 48000
-  - Minimum age of admission
-  - Ed. Code 48070.5
-  - Promotion and retention of students
-  - Ed. Code 48204
-  - Residency requirements
-  - Ed. Code 48205
-  - Absence for personal reasons
-  - Ed. Code 48206.3
-  - Students with temporary disabilities; individual instruction;
-  - definitions
-  - Ed. Code 48207-48208
-  - Students with temporary disabilities in hospitals
-  - Ed. Code 48213
-  - Prior notice of exclusion from attendance
-  - Ed. Code 48216
-  - Immunization and exclusion from attendance
-  - Ed. Code 48260.5
-  - Notice regarding truancy
-  - Ed. Code 48262
-  - Need for parent conference regarding truancy
-  - State
+  - Ed. Code 32390 - Voluntary program for fingerprinting students
+  - Ed. Code 33479-33479.9 - The Eric Parades Sudden Cardiac Arrest Prevention Act
+  - Ed. Code 35160.5 - Extracurricular and cocurricular activities
+  - Ed. Code 35178.4 - Notice of accreditation status
+  - Ed. Code 35182.5 - Advertising in the classroom
+  - Ed. Code 35183 - School dress code; uniforms
+  - Ed. Code 35186 - Complaints concerning deficiencies in instructional materials and - facilities
+  - Ed. Code 35211 - Driver training; district insurance, parent/guardian liability
+  - Ed. Code 35256 - School Accountability Report Card
+  - Ed. Code 35258 - School Accountability Report Card
+  - Ed. Code 35291 - Rules for student discipline
+  - Ed. Code 35292.6 - School maintenance
+  - Ed. Code 37616 - Consultation regarding year-round schedule
+  - Ed. Code 39831.5 - School bus rider rules and information
+  - Ed. Code 41329 - School closures and consolidation
+  - Ed. Code 440 - English language proficiency assessment; instruction in English - language development
+  - Ed. Code 44050 - Employee code of conduct; interaction with students
+  - Ed. Code 44808.5 - Permission to leave school grounds
+  - Ed. Code 46010.1 - Notice regarding excuse to obtain confidential medical services
+  - Ed. Code 46014 - Regulations regarding absences for religious purposes
+  - Ed. Code 46015 - Accommodations for pregnant and parenting pupils
+  - Ed. Code 46160-46162 - Alternative schedule for junior high and high school; public - hearing with notice
+  - Ed. Code 46600-46611 - Interdistrict attendance agreements
+  - Ed. Code 48000 - Minimum age of admission
+  - Ed. Code 48070.5 - Promotion and retention of students
+  - Ed. Code 48204 - Residency requirements
+  - Ed. Code 48205 - Absence for personal reasons
+  - Ed. Code 48206.3 - Students with temporary disabilities; individual instruction; - definitions
+  - Ed. Code 48207-48208 - Students with temporary disabilities in hospitals
+  - Ed. Code 48213 - Prior notice of exclusion from attendance
+  - Ed. Code 48216 - Immunization and exclusion from attendance
+  - Ed. Code 48260.5 - Notice regarding truancy
+  - Ed. Code 48262 - Need for parent conference regarding truancy
   - 442
-  - Ed. Code 48263
-  - Referral to school attendance review board or probation
-  - department
-  - Ed. Code 48301
-  - Interdistrict transfers
-  - Ed. Code 48412
-  - Certificate of proficiency
-  - Ed. Code 48432.3
-  - Voluntary enrollment in continuation education
-  - Ed. Code 48432.5
-  - Involuntary transfers of students
-  - Ed. Code 48850-48859
-  - Students in foster care and students experiencing homelessness
-  - Ed. Code 48850-48859
-  - Education of foster youth and homeless students
-  - Ed. Code 48900.1
-  - Parental attendance required after suspension
-  - Ed. Code 48904
-  - Liability of parent/guardian for willful student misconduct
-  - Ed. Code 48904-48904.3
-  - Withholding grades, diplomas, or transcripts
-  - Ed. Code 48906
-  - Notification of release of student to peace officer
-  - Ed. Code 48911
-  - Notification in case of suspension
-  - Ed. Code 48911.1
-  - Assignment to supervised suspension classroom
-  - Ed. Code 48912
-  - Closed sessions; consideration of suspension
-  - Ed. Code 48915.1
-  - Expelled students; enrollment in another district
-  - Ed. Code 48916
-  - Readmission procedures
-  - Ed. Code 48918
-  - Rules governing expulsion procedures
-  - Ed. Code 48929
-  - Transfer of student convicted of violent felony or misdemeanor
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 48980.3
-  - Notification of pesticide use
-  - Ed. Code 48980.4
-  - Notice regarding full human papillomavirus (HPV) immunization
-  - Ed. Code 48981
-  - Time and means of notification
-  - Ed. Code 48982
-  - Parent signature acknowledging receipt of notice
-  - Ed. Code 48983
-  - Contents of notice
-  - Ed. Code 48984
-  - Activities prohibited unless notice given
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 48985.5
-  - Synthetic drug use
-  - Ed. Code 48985.5
-  - Synthetic drugs
-  - Ed. Code 48986
-  - Safe storage of firearms
-  - Ed. Code 48987
-  - Child abuse information
-  - Ed. Code 49013
-  - Use of uniform complaint procedures for complaints regarding
-  - student fees
-  - Ed. Code 49063
-  - Notification of parental rights
-  - Ed. Code 49067
-  - Student evaluation; student in danger of failing course
-  - Ed. Code 49068
-  - Transfer of permanent enrollment and scholarship record
-  - Ed. Code 49069.7
-  - Absolute right to access
-  - State
+  - Ed. Code 48263 - Referral to school attendance review board or probation - department
+  - Ed. Code 48301 - Interdistrict transfers
+  - Ed. Code 48412 - Certificate of proficiency
+  - Ed. Code 48432.3 - Voluntary enrollment in continuation education
+  - Ed. Code 48432.5 - Involuntary transfers of students
+  - Ed. Code 48850-48859 - Students in foster care and students experiencing homelessness
+  - Ed. Code 48850-48859 - Education of foster youth and homeless students
+  - Ed. Code 48900.1 - Parental attendance required after suspension
+  - Ed. Code 48904 - Liability of parent/guardian for willful student misconduct
+  - Ed. Code 48904-48904.3 - Withholding grades, diplomas, or transcripts
+  - Ed. Code 48906 - Notification of release of student to peace officer
+  - Ed. Code 48911 - Notification in case of suspension
+  - Ed. Code 48911.1 - Assignment to supervised suspension classroom
+  - Ed. Code 48912 - Closed sessions; consideration of suspension
+  - Ed. Code 48915.1 - Expelled students; enrollment in another district
+  - Ed. Code 48916 - Readmission procedures
+  - Ed. Code 48918 - Rules governing expulsion procedures
+  - Ed. Code 48929 - Transfer of student convicted of violent felony or misdemeanor
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 48980.3 - Notification of pesticide use
+  - Ed. Code 48980.4 - Notice regarding full human papillomavirus (HPV) immunization
+  - Ed. Code 48981 - Time and means of notification
+  - Ed. Code 48982 - Parent signature acknowledging receipt of notice
+  - Ed. Code 48983 - Contents of notice
+  - Ed. Code 48984 - Activities prohibited unless notice given
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 48985.5 - Synthetic drug use
+  - Ed. Code 48985.5 - Synthetic drugs
+  - Ed. Code 48986 - Safe storage of firearms
+  - Ed. Code 48987 - Child abuse information
+  - Ed. Code 49013 - Use of uniform complaint procedures for complaints regarding - student fees
+  - Ed. Code 49063 - Notification of parental rights
+  - Ed. Code 49067 - Student evaluation; student in danger of failing course
+  - Ed. Code 49068 - Transfer of permanent enrollment and scholarship record
+  - Ed. Code 49069.7 - Absolute right to access
   - 443
-  - Ed. Code 49070
-  - Challenging content of student record
-  - Ed. Code 49073
-  - Release of directory information
-  - Ed. Code 49073.6
-  - Student records; social media
-  - Ed. Code 49076
-  - Access to student records
-  - Ed. Code 49077
-  - Access to information concerning a student in compliance with
-  - court order
-  - Ed. Code 49392
-  - Threats of homicide at school
-  - Ed. Code 49403
-  - Cooperation in control of communicable disease and
-  - immunizations
-  - Ed. Code 49423
-  - Administration of prescribed medication for student
-  - Ed. Code 49451
-  - Physical examinations: parent's refusal to consent
-  - Ed. Code 49452.5
-  - Screening for scoliosis
+  - Ed. Code 49070 - Challenging content of student record
+  - Ed. Code 49073 - Release of directory information
+  - Ed. Code 49073.6 - Student records; social media
+  - Ed. Code 49076 - Access to student records
+  - Ed. Code 49077 - Access to information concerning a student in compliance with - court order
+  - Ed. Code 49392 - Threats of homicide at school
+  - Ed. Code 49403 - Cooperation in control of communicable disease and - immunizations
+  - Ed. Code 49423 - Administration of prescribed medication for student
+  - Ed. Code 49451 - Physical examinations: parent's refusal to consent
+  - Ed. Code 49452.5 - Screening for scoliosis
   - Ed. Code 49452.6
   - Type 1 diabetes informational materials
   - Ed. Code 49452.7
   - Information on type 2 diabetes
-  - Ed. Code 49452.8
-  - Oral health assessment
-  - Ed. Code 49455.5
-  - Eye examination for purpose of eyeglasses
-  - Ed. Code 49456
-  - Results of vision or hearing test
-  - Ed. Code 49471-49472
-  - Insurance
-  - Ed. Code 49475
-  - Student athletes; concussions and head injuries
-  - Ed. Code 49476
-  - Student athletes; opioid fact sheet
-  - Ed. Code 49480
-  - Continuing medication regimen for nonepisodic conditions
-  - Ed. Code 49510-49520
-  - Duffy-Moscone Family Nutrition Education and Services Act of
+  - Ed. Code 49452.8 - Oral health assessment
+  - Ed. Code 49455.5 - Eye examination for purpose of eyeglasses
+  - Ed. Code 49456 - Results of vision or hearing test
+  - Ed. Code 49471-49472 - Insurance
+  - Ed. Code 49475 - Student athletes; concussions and head injuries
+  - Ed. Code 49476 - Student athletes; opioid fact sheet
+  - Ed. Code 49480 - Continuing medication regimen for nonepisodic conditions
+  - Ed. Code 49510-49520 - Duffy-Moscone Family Nutrition Education and Services Act of
   - 1970
-  - Ed. Code 51225.1
-  - Exemption from district graduation requirements
-  - Ed. Code 51225.2
-  - Course credits
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 51225.31
-  - Graduation from high school; exemption for eligible students with
-  - special needs
-  - Ed. Code 51225.8
-  - Completion and submission of FAFSA and CADAA
+  - Ed. Code 51225.1 - Exemption from district graduation requirements
+  - Ed. Code 51225.2 - Course credits
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 51225.31 - Graduation from high school; exemption for eligible students with - special needs
+  - Ed. Code 51225.8 - Completion and submission of FAFSA and CADAA
   - Ed. Code 51229
   - Course of study for grades 7-12
-  - Ed. Code 51513
-  - Personal beliefs; privacy
-  - Ed. Code 51749.5
-  - Independent study
-  - Ed. Code 51938
-  - HIV/AIDS and sexual health instruction
-  - Ed. Code 52062
-  - Local control and accountability plans and the statewide system of
-  - support
-  - Ed. Code 52164
-  - Language census
-  - Ed. Code 52164.1
-  - Census-taking methods; determination of primary language;
-  - assessment of language skills
-  - State
+  - Ed. Code 51513 - Personal beliefs; privacy
+  - Ed. Code 51749.5 - Independent study
+  - Ed. Code 51938 - HIV/AIDS and sexual health instruction
+  - Ed. Code 52062 - Local control and accountability plans and the statewide system of - support
+  - Ed. Code 52164 - Language census
+  - Ed. Code 52164.1 - Census-taking methods; determination of primary language; - assessment of language skills
   - 444
-  - Ed. Code 52164.3
-  - Reassessment of English learners; notification of results
-  - Ed. Code 52242
-  - Advanced placement examination fees
-  - Ed. Code 54444.2
-  - Migrant education programs; parent involvement
-  - Ed. Code 56301
-  - Child-find system; policies regarding written notification rights
-  - Ed. Code 56321
-  - Special education: proposed assessment plan
-  - Ed. Code 56321.5-56321.6
-  - Notice of parent rights pertaining to special education
-  - Ed. Code 56329
-  - Written notice of right to findings; independent assessment
-  - Ed. Code 56341.1
-  - Development of individualized education program; right to audio
-  - record meeting
-  - Ed. Code 56341.5
-  - Individualized education program team meetings
-  - Ed. Code 56343.5
-  - Individualized education program meetings
-  - Ed. Code 56366.45
-  - Change in status of a nonpublic, nonsectarian school or agency
-  - Ed. Code 56521.1
-  - Behavioral intervention
-  - Ed. Code 58501
-  - Alternative schools; notice required prior to establishment
-  - Ed. Code 60615
-  - Exemption from state assessment
-  - Ed. Code 60641
-  - California Assessment of Student Performance and Progress
-  - Ed. Code 60900.5
-  - Use of CalPADS data
-  - Ed. Code 69432.9
-  - Submission of grade point average to Cal Grant program
-  - Ed. Code 8212
-  - Complaints related to preschool health and safety issues
-  - Ed. Code 8483
-  - Before/after school program; enrollment priorities
-  - Ed. Code 8489
-  - Expulsion and suspension procedures in childcare and
-  - development services programs
-  - Ed. Code 8489.1
-  - Expulsion and suspension procedures in childcare and
-  - development services programs
-  - H&S Code 104420
-  - Tobacco use prevention
-  - H&S Code 104855
-  - Availability of topical fluoride treatment
-  - H&S Code 116277
-  - Lead testing of potable water at schools and requirements to
-  - remedy
-  - H&S Code 120365-120375
-  - Immunizations
-  - H&S Code 120440
-  - Sharing immunization information
-  - H&S Code 124100-124105
-  - Health screening and immunizations
-  - H&S Code 1596.8555
-  - Administration of child day care licensing; posting license
-  - H&S Code 1596.857
-  - Right to enter child care facility
-  - H&S Code 1597.16
-  - Licensed child care centers; lead testing
-  - Pen. Code 626.81
-  - Notice of permission granted to sex offender to volunteer on
-  - campus
-  - Pen. Code 627.5
-  - Hearing request following denial or revocation of registration
-  - W&I Code 10228
-  - Child care providers; posting of rates, discounts, and scholarships
-  - State
+  - Ed. Code 52164.3 - Reassessment of English learners; notification of results
+  - Ed. Code 52242 - Advanced placement examination fees
+  - Ed. Code 54444.2 - Migrant education programs; parent involvement
+  - Ed. Code 56301 - Child-find system; policies regarding written notification rights
+  - Ed. Code 56321 - Special education: proposed assessment plan
+  - Ed. Code 56321.5-56321.6 - Notice of parent rights pertaining to special education
+  - Ed. Code 56329 - Written notice of right to findings; independent assessment
+  - Ed. Code 56341.1 - Development of individualized education program; right to audio - record meeting
+  - Ed. Code 56341.5 - Individualized education program team meetings
+  - Ed. Code 56343.5 - Individualized education program meetings
+  - Ed. Code 56366.45 - Change in status of a nonpublic, nonsectarian school or agency
+  - Ed. Code 56521.1 - Behavioral intervention
+  - Ed. Code 58501 - Alternative schools; notice required prior to establishment
+  - Ed. Code 60615 - Exemption from state assessment
+  - Ed. Code 60641 - California Assessment of Student Performance and Progress
+  - Ed. Code 60900.5 - Use of CalPADS data
+  - Ed. Code 69432.9 - Submission of grade point average to Cal Grant program
+  - Ed. Code 8212 - Complaints related to preschool health and safety issues
+  - Ed. Code 8483 - Before/after school program; enrollment priorities
+  - Ed. Code 8489 - Expulsion and suspension procedures in childcare and - development services programs
+  - Ed. Code 8489.1 - Expulsion and suspension procedures in childcare and - development services programs - H&S Code 104420 - Tobacco use prevention - H&S Code 104855 - Availability of topical fluoride treatment - H&S Code 116277 - Lead testing of potable water at schools and requirements to - remedy - H&S Code 120365-120375 - Immunizations - H&S Code 120440 - Sharing immunization information - H&S Code 124100-124105 - Health screening and immunizations - H&S Code 1596.8555 - Administration of child day care licensing; posting license - H&S Code 1596.857 - Right to enter child care facility - H&S Code 1597.16 - Licensed child care centers; lead testing
+  - Pen. Code 626.81 - Notice of permission granted to sex offender to volunteer on - campus
+  - Pen. Code 627.5 - Hearing request following denial or revocation of registration - W&I Code 10228 - Child care providers; posting of rates, discounts, and scholarships
   - 445
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1232h
-  - Privacy rights
-  - 20 USC 1415
-  - Procedural safeguards
-  - 20 USC 6311
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h - Privacy rights
+  - 20 USC 1415 - Procedural safeguards
+  - 20 USC 6311 - State plan
+  - 20 USC 6312 - Local educational agency plan
+  - 20 USC 6318 - Parent and family engagement
+  - 20 USC 7704 - Impact Aid; policies and procedures related to children residing on - Indian lands
+  - 20 USC 7908 - Armed forces recruiter access to students
+  - 34 CFR 104.32 - District responsibility to provide free appropriate public education
+  - 34 CFR 104.36 - Procedural safeguards
+  - 34 CFR 104.8 - Nondiscrimination
+  - 34 CFR 106.9 - Severability
+  - 34 CFR 200.48 - Teacher qualifications
+  - 34 CFR 222.94 - Impact Aid; district responsibilities
+  - 34 CFR 300.300 - Parent consent for special education evaluation
+  - 34 CFR 300.322 - Parent participation in IEP team meetings
+  - 34 CFR 300.502 - Independent educational evaluation of student with disability
+  - 34 CFR 300.503 - Prior written notice regarding identification, evaluation, or - placement of student with disability
+  - 34 CFR 300.504 - Procedural safeguards notice for students with disabilities
+  - 34 CFR 300.508 - Due process complaint
+  - 34 CFR 300.530 - Discipline procedures
+  - 34 CFR 99.30 - Disclosure of personally identifiable information
+  - 34 CFR 99.34 - Student records; disclosure to other educational agencies
+  - 34 CFR 99.37 - Disclosure of directory information
+  - 34 CFR 99.7 - Student records; annual notification
+  - 40 CFR 763.84 - Asbestos inspections, response actions and post-response actions
+  - 40 CFR 763.93 - Asbestos management plans
+  - 42 USC 11431-11435 - McKinney-Vento Homeless Assistance Act
+  - 42 USC 1758 - Child nutrition programs
+  - 7 CFR 245.5 - Eligibility criteria for free and reduced-price meals
+  - 7 CFR 245.6a - Verification of eligibility for free and reduced-price meals
 
 Management Resources:
-  - U.S. Department of Agriculture Publication Civil Rights Compliance and Enforcement -- Nutrition Programs
-  - and Services, FNS Instruction 113-1, 2005
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - 446
-  - Website
-  - U.S. Department of Agriculture, Food and Nutrition Service
-  - Management Resources
+  - 446 - Website - U.S. Department of Agriculture, Food and Nutrition Service
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0510 - School Accountability Report Card
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3312 - Contracts
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.2 - Integrated Pest Management
+  - 3515.5 - Sex Offender Notification
+  - 3515.5 - Sex Offender Notification
+  - 3517 - Facilities Inspection
+  - 3543 - Transportation Safety And Emergencies
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3555 - Nutrition Program Compliance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4219.21 - Professional Standards
+  - 4319.21 - Professional Standards
+  - 5000 - Concepts And Roles
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5030 - Student Wellness
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5112.2 - Exclusions From Attendance
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5117 - Interdistrict Attendance
+  - 5123 - Promotion/Acceleration/Retention
+  - 5123 - Promotion/Acceleration/Retention
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5125.3 - Challenging Student Records
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.6 - School Health Services
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5143 - Insurance
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With
+  - 5145.12 - Search And Seizure
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.8 - Refusal To Harm Or Destroy Animals
+  - 5145.8 - Refusal To Harm Or Destroy Animals
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6111 - School Calendar
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6154 - Homework/Makeup Work
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6162.8 - Research
+  - 6162.8 - Research
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6170.1 - Transitional Kindergarten
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6183 - Home And Hospital Instruction
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 6190 - Evaluation Of The Instructional Program
+  - 9310 - Board Policies

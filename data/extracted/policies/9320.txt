@@ -50,8 +50,7 @@ Written notice of special meetings shall be delivered personally or by any other
 and the local media who have requested such notice in writing. The notice also shall be posted on the district's web site. 
 The notice shall be received at least 24 hours before the time of the meeting. The notice shall also be posted at least 24 
 hours before the meeting in a location freely accessible to the public. The notice shall specify the time and place of the 
-Board Policy Manual
-Redwood City School District
+
 
 meeting and the business to be transacted or discussed. No other business shall be considered at this meeting. 
 (Education Code 35144; Government Code 54956) 
@@ -282,7 +281,7 @@ The Governing Board may continue to conduct meetings by teleconference, as speci
 during proclaimed states of emergency, by a majority vote finding within 30 days after teleconferencing for the first 
 time, and every 30 days thereafter, that either: (Government Code 54953) 
 
-Policy Reference Disclaimer:
+
 1. The state of emergency continues to directly impact the ability of the Governing Board to meet safely in person 
 2. State or local officials continue to impose or recommend measures to promote social distancing
 
@@ -291,86 +290,88 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35140
-  - Time and place of meetings
-  - Ed. Code 35143
-  - Annual organizational meetings; date and notice
-  - Ed. Code 35144
-  - Special meeting
-  - Ed. Code 35145
-  - Public meetings
-  - Ed. Code 35145.5
-  - Agenda; public participation and regulations
-  - Ed. Code 35146
-  - Closed sessions; student matters
-  - Ed. Code 35147
-  - Open meeting laws exceptions
-  - Gov. Code 11135
-  - Prohibition of discrimination
-  - Gov. Code 3511.1
-  - Local agency executives
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 54953
-  - Oral summary of recommended salary and benefits of superintendent
-  - Gov. Code 54954
-  - Time and place of regular meetings
-  - Gov. Code 54954.2
-  - Agenda posting requirements; board actions
-  - Gov. Code 54956
-  - Special meetings
-  - Gov. Code 54956.5
-  - Emergency meetings
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
-  - Gov. Code 8625-8629
-  - California Emergency Services Act
+  - Ed. Code 35140 - Time and place of meetings
+  - Ed. Code 35143 - Annual organizational meetings; date and notice
+  - Ed. Code 35144 - Special meeting
+  - Ed. Code 35145 - Public meetings
+  - Ed. Code 35145.5 - Agenda; public participation and regulations
+  - Ed. Code 35146 - Closed sessions; student matters
+  - Ed. Code 35147 - Open meeting laws exceptions
+  - Gov. Code 11135 - Prohibition of discrimination
+  - Gov. Code 3511.1 - Local agency executives
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 54953 - Oral summary of recommended salary and benefits of superintendent
+  - Gov. Code 54954 - Time and place of regular meetings
+  - Gov. Code 54954.2 - Agenda posting requirements; board actions
+  - Gov. Code 54956 - Special meetings
+  - Gov. Code 54956.5 - Emergency meetings
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
+  - Gov. Code 8625-8629 - California Emergency Services Act
 
 Federal References:
-  - 28 CFR 35.160
-  - Effective communications for individuals with disabilities
-  - 28 CFR 36.303
-  - Nondiscrimination on the basis of disability, public accommodations,
-  - auxiliary aids, and services
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
+  - 28 CFR 35.160 - Effective communications for individuals with disabilities
+  - 28 CFR 36.303 - Nondiscrimination on the basis of disability, public accommodations, - auxiliary aids, and services
+  - 42 USC 12101-12213 - Americans with Disabilities Act
 
 Management Resources:
-  - Attorney General Opinion
-  - 78 Ops.Cal.Atty.Gen. 327 (1995)
-  - Attorney General Opinion
-  - 79 Ops.Cal.Atty.Gen. 69 (1996)
-  - Attorney General Opinion
-  - 84 Ops.Cal.Atty.Gen. 181 (2001)
-  - Attorney General Opinion
-  - 84 Ops.Cal.Atty.Gen. 30 (2001)
-  - Attorney General Opinion
-  - 88 Ops.Cal.Atty.Gen. 218 (2005)
-  - Court Decision
-  - Knight First Amendment Institute at Columbia University v. Trump (2019)
-  - 928 F.3d 226
-  - Court Decision
-  - Garnier v. Poway Unified School District (S.D. Cal. September 26, 2019) No.
-  - 17-cv-2215-W (JLB), 2019 WL 4736208
-  - Court Decision
-  - Wolfe v. City of Fremont (2006) 144 Cal.App. 4th 533
-  - CSBA Publication
-  - The Brown Act: School Boards and Open Meeting Laws, rev. 2023
-  - Institute for Local Government Publication
-  - The ABCs of Open Government Laws
-  - 65
-  - League of California Cities Publication
-  - Open and Public V: A Guide to the Ralph M. Brown Act, 2016
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA, GAMUT Meetings
-  - Website
-  - Institute for Local Government
-  - Website
-  - League of California Cities
-  - Website
-  - California Attorney General's Office
-  - Website
-  - CSBA
-  - Management Resources
+  - 78 Ops.Cal.Atty.Gen. 327 (1995) - Attorney General Opinion
+  - 79 Ops.Cal.Atty.Gen. 69 (1996) - Attorney General Opinion
+  - 84 Ops.Cal.Atty.Gen. 181 (2001) - Attorney General Opinion
+  - 84 Ops.Cal.Atty.Gen. 30 (2001) - Attorney General Opinion
+  - 88 Ops.Cal.Atty.Gen. 218 (2005) - Court Decision - Knight First Amendment Institute at Columbia University v. Trump (2019)
+  - 928 F.3d 226 - Court Decision - Garnier v. Poway Unified School District (S.D. Cal. September 26, 2019) No.
+  - 17-cv-2215-W (JLB), 2019 WL 4736208 - Court Decision - Wolfe v. City of Fremont (2006) 144 Cal.App. 4th 533 - CSBA Publication - The Brown Act: School Boards and Open Meeting Laws, rev. 2023 - Institute for Local Government Publication - The ABCs of Open Government Laws
+  - 65 - League of California Cities Publication - Open and Public V: A Guide to the Ralph M. Brown Act, 2016 - Website - CSBA District and County Office of Education Legal Services - Website - CSBA, GAMUT Meetings - Website - Institute for Local Government - Website - League of California Cities - Website - California Attorney General's Office - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 0420.43 - Charter School Revocation
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1160 - Political Processes
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1431 - Waivers
+  - 2000 - Concepts And Roles
+  - 2111 - Superintendent Governance Standards
+  - 2121 - Superintendent's Contract
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3312 - Contracts
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4117.14 - Postretirement Employment
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 7310 - Naming Of Facility
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9100 - Organization
+  - 9121 - President
+  - 9130 - Board Committees
+  - 9140 - Board Representatives
+  - 9220 - Governing Board Elections
+  - 9230 - Orientation
+  - 9270 - Conflict Of Interest
+  - 9310 - Board Policies
+  - 9322 - Agenda/Meeting Materials
+  - 9323 - Meeting Conduct
+  - 9323.2 - Actions By The Board
+  - 9324 - Minutes And Recordings
+  - 9400 - Board Self-Evaluation

@@ -35,22 +35,60 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32282
-  - Comprehensive safety plan
-  - Ed. Code 38134
-  - Use of school property
-  - Ed. Code 44808
-  - Liability when students are not on school property
-  - Ed. Code 45450-45451
+  - Ed. Code 32282 - Comprehensive safety plan
+  - Ed. Code 38134 - Use of school property
+  - Ed. Code 44808 - Liability when students are not on school property
+  - Ed. Code 45450-45451 - Crossing guards
+  - Ed. Code 51860 - Time and facilities for bicycle and scooter safety instruction
+  - Gov. Code 65352.2 - General planning; communication between cities, counties and school - districts - S&H Code 2380-2385 - Active Transportation Program
+  - Streets and Highways Code 894 - Statewide safety and training programs; electric bicycles
+  - Veh. Code 21200-21213 - Operation of bicycles
+  - Veh. Code 21212 - Helmet required for bicycle, nonmotorized scooter, skateboard, skates
+  - Veh. Code 21949-21971 - Pedestrian rights and duties
+  - Veh. Code 312.5 - Electric bicycle
+  - Veh. Code 406 - Moped or motorized bicycle
+  - Veh. Code 407.5 - Motorized scooter - Board Policy Manual - Redwood City School District
+  - 326
 
 Federal References:
-  - 23 USC 133
-  - Surface transportation block grant program
-  - 23 USC 148
-  - Highway safety improvement program
-  - 42 USC 1758b
-  - Local wellness policy
+  - 23 USC 133 - Surface transportation block grant program
+  - 23 USC 148 - Highway safety improvement program
+  - 42 USC 1758b - Local wellness policy
 
 Management Resources:
-  - California Dept of Transportation Publication
-  - ATP Purpose and Goals as Defined by the
+  - ATP Purpose and Goals as Defined by the State Legislature and SB 99,
+  - March 2015 - California Dept of Transportation Publication - Active Transportation Program Fact Sheet, January 2020 - Court Decision - Cerna v. City of Oakland (2008) 161 Cal.App.4th 1340 - Natl Center for Safe Routes to School Publication Safe Routes to School Guide - Natl Highway Traffic Safety Admin Publication - Advancing Pedestrian and Bicyclist Safety: A Primer for Highway Safety - Professionals, April 2016 - Safe Routes to School Natl Partnership PublicationSafe Routes to School by the Numbers: Using Data to Foster Walking and - Biking to School, June 2016
+  - Safe Routes to School Natl Partnership PublicationSafe Routes to School 2009 Policy Report: Moving to the Future: Building - on Early Achievements, March 2009 - Website - CSBA District and County Office of Education Legal Services - Website - National Center for Safe Routes to School - Website - Safe Routes Partnership - Website - U.S. Department of Transportation, Federal Highway Administration, Safe - Routes to School - Website - California Department of Transportation, Safe Routes to School - Website - National Highway Traffic Safety Administration - Website - CSBA
+
+Cross References:
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1112 - Media Relations
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1260 - Educational Foundation
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3290 - Gifts, Grants And Bequests
+  - 3470 - Debt Issuance And Management
+  - 3471 - Parcel Taxes
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 5030 - Student Wellness
+  - 5142 - Safety
+  - 5142 - Safety
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education

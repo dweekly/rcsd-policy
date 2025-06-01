@@ -28,59 +28,76 @@ REFERENCES
 State References:
   - Bus. and Prof. Code 22584-22585
   - K-12 Pupil Online Personal Information Protection Act
-  - Ed. Code 10550-10555
-  - Telecommunications standards
+  - Ed. Code 10550-10555 - Telecommunications standards
   - Ed. Code 11800
   - K-12 High Speed Network grant program
-  - Ed. Code 49060-49085
-  - Student records
-  - Ed. Code 51006
-  - Computer education and resources
-  - Ed. Code 51007
-  - Programs to strengthen technological skills
-  - Ed. Code 51865
-  - California distance learning policy
-  - Ed. Code 60010
-  - Instructional materials; definition
-  - Pen. Code 502
-  - Computer crimes; remedies
+  - Ed. Code 49060-49085 - Student records
+  - Ed. Code 51006 - Computer education and resources
+  - Ed. Code 51007 - Programs to strengthen technological skills
+  - Ed. Code 51865 - California distance learning policy
+  - Ed. Code 60010 - Instructional materials; definition
+  - Pen. Code 502 - Computer crimes; remedies
 
 Federal References:
-  - 16 CFR Part 312
-  - Children's Online Privacy Protection Rule
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1232h
-  - Privacy rights
-  - 20 USC 7101-7122
-  - Student Support and Academic Enrichment Grants
-  - 34 CFR Part 99
-  - Family Educational Rights and Privacy
-  - 47 CFR 54.500-54.523
-  - Universal service support for schools
-  - 47 USC 254
-  - Universal service discounts (E-rate)
+  - 16 CFR Part 312 - Children's Online Privacy Protection Rule
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h - Privacy rights
+  - 20 USC 7101-7122 - Student Support and Academic Enrichment Grants
+  - 34 CFR Part 99 - Family Educational Rights and Privacy
+  - 47 CFR 54.500-54.523 - Universal service support for schools
+  - 47 USC 254 - Universal service discounts (E-rate)
 
 Management Resources:
-  - California Department of Education Publication
-  - Empowering Learning: A Blueprint for California Education Technology
-  - 2014-2017, April 2014
-  - California Department of Education Publication
-  - California K-12 Education Technology Plan Template, Criteria, and Guiding
-  - Questions, November 2015
-  - Court Decision
-  - McMahon v. Albany Unified School District (2002) 104 Cal.App.4th 1275
-  - Board Policy Manual
-  - Redwood City School District
-  - 75
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Technology Information Center for Administrative Leadership
-  - Website
-  - California Department of Education, Education Technology Office
-  - Website
-  - California Educational Technology Professionals Association
-  - Website
-  - Computer-Using Educators
-  - Website
+  - 2014-2017, April 2014 - California Department of Education Publication
+  - California K-12 Education Technology Plan Template, Criteria, and Guiding - Questions, November 2015 - Court Decision - McMahon v. Albany Unified School District (2002) 104 Cal.App.4th 1275 - Board Policy Manual - Redwood City School District
+  - 75 - Website - CSBA District and County Office of Education Legal Services - Website - Technology Information Center for Administrative Leadership - Website - California Department of Education, Education Technology Office - Website - California Educational Technology Professionals Association - Website - Computer-Using Educators - Website - Federal Communications Commission - Website - CSBA
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0400 - Comprehensive Plans
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3312 - Contracts
+  - 3512 - Equipment
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4040 - Employee Use Of Technology
+  - 4112.6 - Personnel Files
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.54 - Test Integrity/Test Preparation
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.1 - Library Media Centers
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 9140 - Board Representatives

@@ -47,68 +47,56 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 17 CCR 6800-6874
-  - Child Health and Disability Prevention program; health assessments
-  - Bus. Code 22950.5
-  - Stop Tobacco Access to Kids Enforcement Act - Definitions
-  - Ed. Code 48900.5
-  - Suspension, limitation on imposition; exception
-  - Ed. Code 48901
-  - Smoking or use of tobacco prohibited
-  - Ed. Code 51202
-  - Instruction in personal and public health and safety
-  - Ed. Code 60041
-  - Instructional materials
-  - Ed. Code 8900
-  - Suspension or expulsion (grounds)
-  - Board Policy Manual
-  - Redwood City School District
-  - 180
-  - H&S Code 104350-104495
-  - Tobacco-use prevention education
-  - H&S Code 104559
-  - Tobacco use prohibition
-  - H&S Code 119405
-  - Unlawful to sell or furnish electronic cigarettes to minors
-  - Pen. Code 308
-  - Minimum age for tobacco possession
-  - State
+  - 17 CCR 6800-6874 - Child Health and Disability Prevention program; health assessments
+  - Bus. Code 22950.5 - Stop Tobacco Access to Kids Enforcement Act - Definitions
+  - Ed. Code 48900.5 - Suspension, limitation on imposition; exception
+  - Ed. Code 48901 - Smoking or use of tobacco prohibited
+  - Ed. Code 51202 - Instruction in personal and public health and safety
+  - Ed. Code 60041 - Instructional materials
+  - Ed. Code 8900 - Suspension or expulsion (grounds) - Board Policy Manual - Redwood City School District
+  - 180 - H&S Code 104350-104495 - Tobacco-use prevention education - H&S Code 104559 - Tobacco use prohibition - H&S Code 119405 - Unlawful to sell or furnish electronic cigarettes to minors
+  - Pen. Code 308 - Minimum age for tobacco possession
 
 Federal References:
-  - 20 USC 7111-7122
-  - Student support and academic enrichment grants
-  - 21 CFR 1140.1-1140.34
-  - Unlawful sale of cigarettes and smokeless tobacco to minors
+  - 20 USC 7111-7122 - Student support and academic enrichment grants
+  - 21 CFR 1140.1-1140.34 - Unlawful sale of cigarettes and smokeless tobacco to minors
 
 Management Resources:
-  - Attorney General Opinion
-  - 88 Ops.Cal.Atty.Gen. 8 (2005)
-  - California Department of Education Publication
-  - Getting Results: Part II California Action Guide to Tobacco Use Prevention
-  - Education, 2000
-  - California Department of Education Publication
-  - Health Framework for California Public Schools: Kindergarten Through
-  - Grade Twelve, 2003
-  - California Department of Education Publication
-  - TUPE Acceptance of Funds Guidance
-  - California Department of Education Publication
-  - Health Education Content Standards for California Public Schools:
-  - Kindergarten Through Grade Twelve, 2008
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Centers for Disease Control and Prevention, Smoking and Tobacco Use
-  - Website
-  - California Department of Education, Tobacco-Use Prevention Education
-  - Website
-  - California Department of Public Health, Tobacco Control
-  - Website
-  - California Healthy Kids Survey
-  - Website
-  - CSBA
-  - Website
-  - Office of the Surgeon General
-  - Website
-  - California Healthy Kids Resource Center
-  - WestEd Publication
-  - Guidebook for the California Healthy Kids Survey
+  - 88 Ops.Cal.Atty.Gen. 8 (2005) - California Department of Education Publication - Getting Results: Part II California Action Guide to Tobacco Use Prevention - Education, 2000 - California Department of Education Publication - Health Framework for California Public Schools: Kindergarten Through - Grade Twelve, 2003 - California Department of Education Publication - TUPE Acceptance of Funds Guidance - California Department of Education Publication - Health Education Content Standards for California Public Schools: - Kindergarten Through Grade Twelve, 2008 - Website - CSBA District and County Office of Education Legal Services - Website - Centers for Disease Control and Prevention, Smoking and Tobacco Use - Website - California Department of Education, Tobacco-Use Prevention Education - Website - California Department of Public Health, Tobacco Control - Website - California Healthy Kids Survey - Website - CSBA - Website - Office of the Surgeon General - Website - California Healthy Kids Resource Center - WestEd Publication - Guidebook for the California Healthy Kids Survey
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 3290 - Gifts, Grants And Bequests
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 4159 - Employee Assistance Programs
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5030 - Student Wellness
+  - 5131 - Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.6 - School Health Services
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education

@@ -48,10 +48,9 @@ students in accordance with Vehicle Code 22112.
 The driver shall immediately report all school bus accidents to the California Highway Patrol, the Superintendent or
 designee, and the driver's employer. (13 CCR 1219)
 The driver also shall report the following to the Superintendent or designee:
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 1. Recurring and serious student misbehavior
  
 2. Parental and student complaints
@@ -69,75 +68,68 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 13 CCR 1200-1294
-  - Motor carrier safety
-  - 13 CCR 1212-1228
-  - School bus driver requirements
-  - 13 CCR 1234
-  - Reports regarding school buses and bus drivers
-  - 13 CCR 2480
-  - Vehicle idling; limitations
-  - 5 CCR 14103
-  - Authority of the driver
-  - 5 CCR 14104
-  - School bus driver instructor
+  - 13 CCR 1200-1294 - Motor carrier safety
+  - 13 CCR 1212-1228 - School bus driver requirements
+  - 13 CCR 1234 - Reports regarding school buses and bus drivers
+  - 13 CCR 2480 - Vehicle idling; limitations
+  - 5 CCR 14103 - Authority of the driver
+  - 5 CCR 14104 - School bus driver instructor
   - Ed. Code 39800.5
   - Qualifications of driver of 15-passenger van
-  - Ed. Code 39830-39843
-  - School buses
-  - Ed. Code 40080-40090.5
-  - Training required to obtain or renew bus driver certificate
-  - Ed. Code 45125.1
-  - Criminal records summary; employees of contracting entity
-  - Ed. Code 56195.8
-  - Adoption of policies
-  - H&S Code 39640-39642
-  - Vehicle idling; penalties
-  - Pen. Code 241.3
-  - Assault against school bus drivers
-  - Pen. Code 243.3
-  - Battery against school bus drivers
-  - Veh. Code 12516-12517.4
-  - Certification requirements
-  - Veh. Code 12522
-  - First aid training for school bus drivers
-  - Veh. Code 13370-13371
-  - Suspension or revocation of bus driver certificate
-  - Veh. Code 13376
-  - Driver certificates; revocation or suspension
-  - Veh. Code 1808.8
-  - School bus drivers; dismissal for safety-related cause
-  - Veh. Code 22112
-  - School bus signals; roadway
+  - Ed. Code 39830-39843 - School buses
+  - Ed. Code 40080-40090.5 - Training required to obtain or renew bus driver certificate
+  - Ed. Code 45125.1 - Criminal records summary; employees of contracting entity
+  - Ed. Code 56195.8 - Adoption of policies - H&S Code 39640-39642 - Vehicle idling; penalties
+  - Pen. Code 241.3 - Assault against school bus drivers
+  - Pen. Code 243.3 - Battery against school bus drivers
+  - Veh. Code 12516-12517.4 - Certification requirements
+  - Veh. Code 12522 - First aid training for school bus drivers
+  - Veh. Code 13370-13371 - Suspension or revocation of bus driver certificate
+  - Veh. Code 13376 - Driver certificates; revocation or suspension
+  - Veh. Code 1808.8 - School bus drivers; dismissal for safety-related cause
+  - Veh. Code 22112 - School bus signals; roadway crossings
+  - Veh. Code 23123-23125 - Prohibitions against use of wireless telephone and text communications - while driving; exceptions
+  - Veh. Code 25257-25257.7 - School bus equipment
+  - Veh. Code 2570-2574 - Contracts with private school bus contractors
+  - Veh. Code 34501.6 - School buses; reduced visibility
+  - Veh. Code 415 - Definition of motor vehicle
+  - Veh. Code 545 - School bus; definition
+  - Veh. Code 546 - Definition of student activity bus
+  - 257
 
 Federal References:
-  - 49 CFR 382.101-382.727
-  - Controlled substance and alcohol use and testing
-  - 49 CFR 40.1-40.413
-  - Procedures for transportation workplace drug and alcohol testing programs
-  - 49 CFR 571.222
-  - Federal motor vehicle safety standard #222
+  - 49 CFR 382.101-382.727 - Controlled substance and alcohol use and testing
+  - 49 CFR 40.1-40.413 - Procedures for transportation workplace drug and alcohol testing programs
+  - 49 CFR 571.222 - Federal motor vehicle safety standard #222
 
-Management Resources:
-  - Dept. of Motor Vehicles Publication
-  - California Commercial Driver Handbook
-  - Nat'l Highwy Traffic Safety Admin. Pub.
-  - School Bus Driver In-Service Safety Series, October 2011
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Motor Vehicles
-  - Website
-  - National Transportation Safety Board
-  - Website
-  - U.S. Department of Transportation, National Highway Traffic Safety
-  - Administration
-  - Website
-  - California Air Resources Board Zero Emission School Bus and Infrastructure
-  - Program
-  - Website
-  - California Department of Education, Office of School Transportation
-  - Website
-  - California Attorney General's Office
-  - Website
-  - California Highway Patrol
+Cross References:
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 3513.1 - Cellular Phone Reimbursement
+  - 3513.1 - Cellular Phone Reimbursement
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3516.5 - Emergency Schedules
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541 - Transportation Routes And Services
+  - 3541.1 - Transportation For School-Related Trips
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3541.2 - Transportation For Students With Disabilities
+  - 3543 - Transportation Safety And Emergencies
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.4 - Health Examinations
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4112.5 - Criminal Record Check
+  - 4112.9 - Employee Notifications
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4200 - Classified Personnel
+  - 4200 - Classified Personnel
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct

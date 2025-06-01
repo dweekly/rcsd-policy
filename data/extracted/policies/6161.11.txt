@@ -37,73 +37,67 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - Ed. Code 18111
-  - Exclusion of books by Governing board that are sectarian, partisan, or
-  - denominational character
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 233.5
-  - Teaching of principles
-  - Ed. Code 242
-  - Access to information about educational laws and policies regarding right to
-  - accurate and inclusive curriculum
-  - Ed. Code 243
-  - Prohibition of discrimination; instructional materials
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 51204.5
-  - Social sciences instruction; contributions of specified groups
-  - Ed. Code 51501
-  - Nondiscriminatory subject matter
-  - Ed. Code 51510
-  - Prohibited study or supplemental materials
-  - Ed. Code 51511
-  - Religious matters properly included in courses of study
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - Ed. Code 18111 - Exclusion of books by Governing board that are sectarian, partisan, or - denominational character
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 233.5 - Teaching of principles
+  - Ed. Code 242 - Access to information about educational laws and policies regarding right to - accurate and inclusive curriculum
+  - Ed. Code 243 - Prohibition of discrimination; instructional materials
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 51204.5 - Social sciences instruction; contributions of specified groups
+  - Ed. Code 51501 - Nondiscriminatory subject matter
+  - Ed. Code 51510 - Prohibited study or supplemental materials
+  - Ed. Code 51511 - Religious matters properly included in courses of study - Board Policy Manual - Redwood City School District
   - 158
-  - Ed. Code 51933
-  - Sexual health education and HIV prevention materials
-  - Ed. Code 60000-60005
-  - Instructional materials; legislative intent
-  - Ed. Code 60010
-  - Instructional materials; definition
-  - Ed. Code 60040-60052
-  - Requirements for instructional materials
-  - Ed. Code 60060-60063.5
-  - Requirements for publishers and manufacturers
-  - Ed. Code 60200-60213
-  - Elementary school materials
-  - Ed. Code 60226
-  - Requirements for publishers and manufacturers
-  - Ed. Code 60400-60411
-  - Instructional materials; high schools
-  - Ed. Code 60605
-  - State-adopted content and performance standards in core curricular areas
-  - Ed. Code 60605.8
-  - Common Core standards
-  - Ed. Code 60811.3
-  - English language development standards
-  - State
+  - Ed. Code 51933 - Sexual health education and HIV prevention materials
+  - Ed. Code 60000-60005 - Instructional materials; legislative intent
+  - Ed. Code 60010 - Instructional materials; definition
+  - Ed. Code 60040-60052 - Requirements for instructional materials
+  - Ed. Code 60060-60063.5 - Requirements for publishers and manufacturers
+  - Ed. Code 60200-60213 - Elementary school materials
+  - Ed. Code 60226 - Requirements for publishers and manufacturers
+  - Ed. Code 60400-60411 - Instructional materials; high schools
+  - Ed. Code 60605 - State-adopted content and performance standards in core curricular areas
+  - Ed. Code 60605.8 - Common Core standards
+  - Ed. Code 60811.3 - English language development standards
 
-Management Resources:
-  - California Department of Education Publication
-  - Standards for Evaluating Instructional Materials for Social Content, 2013
-  - Court Decision
-  - Fowler v. Board of Education of Lincoln County (1987) 819 F.2d 657
-  - Court Decision
-  - McCarthy v. Fletcher (1989) 207 Cal. App. 3d 130
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Department of Justice
-  - Website
-  - U.S. Department of Education, Office for Civil Rights
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+Cross References:
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1260 - Educational Foundation
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3290 - Gifts, Grants And Bequests
+  - 3311 - Bids
+  - 3311 - Bids
+  - 4132 - Publication Or Creation Of Materials
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6141 - Curriculum Development And Evaluation
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.1 - Library Media Centers
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners

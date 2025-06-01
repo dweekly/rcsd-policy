@@ -50,8 +50,7 @@ for a majority of numerically significant student subgroups performing statewide
 performance levels that are higher than the state average provided that the charter school has performance levels on at least two measurements
 of academic performance for at least two subgroups
 If the charter school satisfies the above criteria, it shall only be required to update the renewal petition to include a reasonably comprehensive
-Board Policy Manual
-Redwood City School District
+
 
 description of any new requirement of charter schools enacted into law after the charter was originally granted or last renewed and, as necessary,
 to reflect the current program offered by the charter school. (Education Code 47607)
@@ -100,7 +99,7 @@ Within 60 days of receiving the renewal petition, the Board shall hold a public 
 and obtain public input. A petition is deemed received on the day the petitioner submits a petition to the district office, along with a signed
 certification that the petitioner deems the petition to be complete.
 
-Policy Reference Disclaimer:
+
 The Board shall either grant or deny the charter renewal within 90 days of receiving the petition, or within 120 days with the consent of both the
 petitioner and the Board. (Education Code 47605)
 At least 15 days before the public hearing at which the Board will grant or deny the charter petition, the Board shall publish all staff
@@ -136,41 +135,20 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11962-11962.1
-  - Definitions
-  - 5 CCR 11966.4
-  - Submission of charter renewal petition
-  - 5 CCR 11966.5
-  - Charter petitions that have not been renewed; submission to county board
-  - of education
+  - 5 CCR 11962-11962.1 - Definitions
+  - 5 CCR 11966.4 - Submission of charter renewal petition
+  - 5 CCR 11966.5 - Charter petitions that have not been renewed; submission to county board - of education
   - Ed. Code 47600-47616.7
   - Charter Schools Act of 1992
-  - Ed. Code 52052
-  - Accountability; numerically significant student subgroups
-  - Ed. Code 56145-56146
-  - Special education services in charter schools
-  - Ed. Code 60600-60649
-  - Assessment of academic achievement
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 56145-56146 - Special education services in charter schools
+  - Ed. Code 60600-60649 - Assessment of academic achievement
 
 Federal References:
-  - 20 USC 7221-7221j
-  - Expanding opportunity through quality charter schools
+  - 20 USC 7221-7221j - Expanding opportunity through quality charter schools
   - 62
 
-Management Resources:
-  - CSBA Publication
-  - Charter Schools: A Guide for Governance Teams, rev. June 2021
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Charter Authorizing Professionals
-  - Website
-  - California Charter Schools Association
-  - Website
-  - California Department of Education, Charter Schools
-  - Website
-  - National Association of Charter School Authorizers
-  - Website
-  - U.S. Department of Education
-  - Website
-  - CSBA
+Cross References:
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 0420.43 - Charter School Revocation

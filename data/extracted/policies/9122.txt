@@ -20,28 +20,20 @@ Board shall be responsible for maintaining an accurate and complete record of al
 5. As directed by the Board, sign and execute official papers
  
 6. Perform other duties as assigned by the Board
-These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
-for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
-of the policy.
-State
-Description
-Ed. Code 35025
-Secretary and bookkeeper
-Ed. Code 35143
-Annual organizational meetings; date and notice
-Ed. Code 35250
-Duty to keep certain records
-Gov. Code 54950-54963
-The Ralph M. Brown Act
 
 ================================================================================
 REFERENCES
 ================================================================================
 
-Management Resources:
-  - CSBA Publication
-  - Professional Governance Standards
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+State References:
+  - Ed. Code 35025 - Secretary and bookkeeper
+  - Ed. Code 35143 - Annual organizational meetings; date and notice
+  - Ed. Code 35250 - Duty to keep certain records
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+
+Cross References:
+  - 2110 - Superintendent Responsibilities And Duties
+  - 2111 - Superintendent Governance Standards
+  - 4112.1 - Contracts
+  - 9322 - Agenda/Meeting Materials
+  - 9324 - Minutes And Recordings

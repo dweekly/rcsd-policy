@@ -25,50 +25,49 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 38130-38139
-  - Civic Center Act
-  - Ed. Code 46014
-  - Absences for religious purposes
-  - Ed. Code 51511
-  - Religious matters properly included in courses of study
-  - Ed. Code 51938
-  - Right of parent/guardian to excuse from sexual health instruction
+  - Ed. Code 38130-38139 - Civic Center Act
+  - Ed. Code 46014 - Absences for religious purposes
+  - Ed. Code 51511 - Religious matters properly included in courses of study
+  - Ed. Code 51938 - Right of parent/guardian to excuse from sexual health instruction
 
 Federal References:
-  - 20 USC 4071-4074
-  - Equal Access Act
-  - 20 USC 6061
-  - School prayer
-  - 20 USC 7904
-  - School prayer
+  - 20 USC 4071-4074 - Equal Access Act
+  - 20 USC 6061 - School prayer
+  - 20 USC 7904 - School prayer
 
 Management Resources:
-  - California Department of Education Publication
-  - Appendix F history social science framework for California public schools
-  - Court Decision
-  - Florey v. Sioux Falls (1980) 619 F.2d 1311
-  - Court Decision
-  - Fellowship of Christian Athletes v. San Jose Unified School District Board of
-  - Education (2023) 82 F.4th 664
-  - Court Decision
-  - Kennedy v. Bremerton (2022) 142 S.Ct. 2407
-  - Court Decision
-  - Cole v. Oroville Union High School District (2000, 9th Cir.) 228 F.3d 1092
-  - Court Decision
-  - Lassonde v. Pleasanton Unified School District (2003, 9th Cir.) 320 F.3d 979
-  - Court Decision
-  - Lemon v. Kurtzman (1971) 403 U.S. 602
-  - U.S. Department of Education Publication
-  - Guidance on Constitutionally Protected Prayer and Religious Expression in
-  - Public Elementary and Secondary Schools, May 2023
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education
-  - Board Policy Manual
-  - Redwood City School District
   - 46
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5127 - Graduation Ceremonies And Activities
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 6111 - School Calendar
+  - 6115 - Ceremonies And Observances
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.93 - Science Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.8 - Assemblies And Special Events
+  - 6154 - Homework/Makeup Work
+  - 6161.11 - Supplementary Instructional Materials

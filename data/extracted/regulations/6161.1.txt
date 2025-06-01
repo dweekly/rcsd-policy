@@ -58,11 +58,9 @@ United States.
  
 9. Demonstrate reliable quality of scholarship as evidenced by:
 a. Accurate, up-to-date, and well-documented information
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
- 
+
+
 b. Objective presentation of diverse viewpoints
  
 c. Clear, concise writing and appropriate vocabulary
@@ -116,90 +114,103 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 9505-9530
-  - Instructional materials
+  - 5 CCR 9505-9530 - Instructional materials
   - 154
-  - Ed. Code 1240
-  - County superintendent of schools; duties
-  - Ed. Code 18111
-  - Exclusion of books by Governing board that are sectarian, partisan, or
-  - denominational character
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 242
-  - Access to information about educational laws and policies regarding right to
-  - accurate and inclusive curriculum
-  - Ed. Code 243
-  - Prohibition of discrimination; instructional materials
-  - Ed. Code 33050-33053
-  - General waiver authority
-  - Ed. Code 33126
-  - School accountability report card
-  - Ed. Code 35272
-  - Education and athletic materials
-  - Ed. Code 44805
-  - Teacher enforcement of course of studies; use of textbooks, rules and
-  - regulations
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 49415
-  - Maximum textbook weight standards
-  - Ed. Code 51204.5
-  - Social sciences instruction; contributions of specified groups
-  - Ed. Code 51501
-  - Nondiscriminatory subject matter
-  - Ed. Code 51511
-  - Religious matters properly included in courses of study
-  - Ed. Code 51933
-  - Sexual health education and HIV prevention materials
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 60000-60005
-  - Instructional materials; legislative intent
-  - Ed. Code 60010
-  - Instructional materials; definition
-  - Ed. Code 60040-60052
-  - Requirements for instructional materials
-  - Ed. Code 60060-60063.5
-  - Requirements for publishers and manufacturers
-  - Ed. Code 60070-60076
-  - Prohibited acts regarding instructional materials
-  - Ed. Code 60110-60115
-  - Instructional materials on alcohol and drug education
-  - Ed. Code 60119
-  - Sufficiency of textbooks and instructional materials; hearing and resolution
-  - Ed. Code 60150
-  - Penalty for insufficiency of textbooks and instructional materials
-  - Ed. Code 60200-60213
-  - Elementary school materials
-  - Ed. Code 60226
-  - Requirements for publishers and manufacturers
-  - Ed. Code 60400-60411
-  - Instructional materials; high schools
-  - Ed. Code 60510-60511
-  - Donation or sale of obsolete instructional materials
-  - Ed. Code 60605
-  - State-adopted content and performance standards in core curricular areas
-  - Ed. Code 60605.8
-  - Common Core standards
-  - H&S Code 11032
-  - Narcotics, restricted dangerous drugs, and marijuana; definitions
-  - State
+  - Ed. Code 1240 - County superintendent of schools; duties
+  - Ed. Code 18111 - Exclusion of books by Governing board that are sectarian, partisan, or - denominational character
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 242 - Access to information about educational laws and policies regarding right to - accurate and inclusive curriculum
+  - Ed. Code 243 - Prohibition of discrimination; instructional materials
+  - Ed. Code 33050-33053 - General waiver authority
+  - Ed. Code 33126 - School accountability report card
+  - Ed. Code 35272 - Education and athletic materials
+  - Ed. Code 44805 - Teacher enforcement of course of studies; use of textbooks, rules and - regulations
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 49415 - Maximum textbook weight standards
+  - Ed. Code 51204.5 - Social sciences instruction; contributions of specified groups
+  - Ed. Code 51501 - Nondiscriminatory subject matter
+  - Ed. Code 51511 - Religious matters properly included in courses of study
+  - Ed. Code 51933 - Sexual health education and HIV prevention materials
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 60000-60005 - Instructional materials; legislative intent
+  - Ed. Code 60010 - Instructional materials; definition
+  - Ed. Code 60040-60052 - Requirements for instructional materials
+  - Ed. Code 60060-60063.5 - Requirements for publishers and manufacturers
+  - Ed. Code 60070-60076 - Prohibited acts regarding instructional materials
+  - Ed. Code 60110-60115 - Instructional materials on alcohol and drug education
+  - Ed. Code 60119 - Sufficiency of textbooks and instructional materials; hearing and resolution
+  - Ed. Code 60150 - Penalty for insufficiency of textbooks and instructional materials
+  - Ed. Code 60200-60213 - Elementary school materials
+  - Ed. Code 60226 - Requirements for publishers and manufacturers
+  - Ed. Code 60400-60411 - Instructional materials; high schools
+  - Ed. Code 60510-60511 - Donation or sale of obsolete instructional materials
+  - Ed. Code 60605 - State-adopted content and performance standards in core curricular areas
+  - Ed. Code 60605.8 - Common Core standards - H&S Code 11032 - Narcotics, restricted dangerous drugs, and marijuana; definitions
 
 Management Resources:
-  - California Department of Education Publication
-  - Instructional Materials, FAQ
-  - California Department of Education Publication
-  - Guidelines for Piloting Textbooks and Instructional Materials, Policy # 01-
-  - 05, rev. January 2015
-  - California Department of Education Publication
-  - Standards for Evaluating Instructional Materials for Social Content, 2013
-  - 155
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Association of American Publishers
-  - Website
-  - California Academic Content Standards Commission, Common Core
+  - 05, rev. January 2015 - California Department of Education Publication - Standards for Evaluating Instructional Materials for Social Content, 2013
+  - 155 - Website - CSBA District and County Office of Education Legal Services - Website - Association of American Publishers - Website - California Academic Content Standards Commission, Common Core State - Standards - Website - Department of Justice - Website - U.S. Department of Education, Office for Civil Rights - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3290 - Gifts, Grants And Bequests
+  - 3311 - Bids
+  - 3311 - Bids
+  - 4136 - Nonschool Employment
+  - 4236 - Nonschool Employment
+  - 4331 - Staff Development
+  - 4336 - Nonschool Employment
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6161.11 - Supplementary Instructional Materials
+  - 6161.2 - Damaged Or Lost Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.1 - Library Media Centers
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6190 - Evaluation Of The Instructional Program
+  - 9000 - Role Of The Board
+  - 9270 - Conflict Of Interest
+  - 9322 - Agenda/Meeting Materials

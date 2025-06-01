@@ -38,40 +38,48 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 41420
-  - Apportionment withholding; schools not maintained for 175 days
+  - Ed. Code 41420 - Apportionment withholding; schools not maintained for 175 days
   - Ed. Code 41422
   - Schools not maintained for 175 days
-  - Ed. Code 46010
-  - Total days of attendance
-  - Ed. Code 46100-46208
-  - Attendance; maximum credit; minimum day
-  - Ed. Code 46210-46211
-  - Attendance recovery programs
-  - Ed. Code 46390
-  - Calculation of ADA in emergency
-  - Ed. Code 46391
-  - Lost or destroyed ADA records
-  - Ed. Code 46392
-  - Emergencies
-  - Ed. Code 46393
-  - Certification of plan for independent study; instructional continuity plan
-  - Public Utilities Code 2874
-  - Automatic dialing-announcing devices
-  - Veh. Code 34501.6
-  - School buses; reduced visibility
+  - Ed. Code 46010 - Total days of attendance
+  - Ed. Code 46100-46208 - Attendance; maximum credit; minimum day
+  - Ed. Code 46210-46211 - Attendance recovery programs
+  - Ed. Code 46390 - Calculation of ADA in emergency
+  - Ed. Code 46391 - Lost or destroyed ADA records
+  - Ed. Code 46392 - Emergencies
+  - Ed. Code 46393 - Certification of plan for independent study; instructional continuity plan
+  - Public Utilities Code 2874 - Automatic dialing-announcing devices
+  - Veh. Code 34501.6 - School buses; reduced visibility
 
 Management Resources:
-  - CA DOE Correspondence
   - 90-01 Average Daily Attendance Credit During Periods of Emergency,
-  - February 10, 2005
-  - Board Policy Manual
-  - Redwood City School District
-  - 227
-  - California Department of Education Publication
-  - Frequently Asked Questions - Form J-13A
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Management Resources
+  - February 10, 2005 - Board Policy Manual - Redwood City School District
+  - 227 - California Department of Education Publication
+  - Frequently Asked Questions - Form J-13A - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.2 - Bomb Threats
+  - 3542 - School Bus Drivers
+  - 3543 - Transportation Safety And Emergencies
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5142 - Safety
+  - 5142 - Safety
+  - 6111 - School Calendar
+  - 6158 - Independent Study
+  - 6158 - Independent Study

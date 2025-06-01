@@ -53,8 +53,7 @@ information as specified in Government Code 910 and 910.2:
  
 4. A general description of the indebtedness, obligation, injury, damage, or loss incurred insofar as it may be known at the
 time of presentation of the claim
-Board Policy Manual
-Redwood City School District
+
 
 5. The name(s) of the district employee(s) causing the injury, damage, or loss, if known
  
@@ -104,7 +103,7 @@ Government Code 911.8 and in the manner specified in Government Code 915.4. (Gov
 If the Board or Superintendent does not take action on the application to present a late claim within 45 days, the application
 shall be deemed to have been denied on the 45th day unless such time period has been extended, in which case it shall be
 
-Policy Reference Disclaimer:
+
 denied on the last day of the period specified in the extension agreement. (Government Code 911.6)
 Action on Claims
 Within 45 days after the presentation or amendment of a claim, the Board shall take action on the claim. This time limit may
@@ -135,46 +134,36 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Code of Civil Procedure 340.1
-  - Action for recovery of damages suffered as result of childhood sexual
-  - assault
-  - Code of Civil Procedure 340.11
-  - Action for recovery of damages suffered as a result of childhood sexual
+  - Code of Civil Procedure 340.1 - Action for recovery of damages suffered as result of childhood sexual - assault
+  - Code of Civil Procedure 340.11 - Action for recovery of damages suffered as a result of childhood sexual
   - assault that occurred before January 1, 2024
-  - Code of Civil Procedure 85-86
-  - Limited civil cases; amount in controversy
-  - Ed. Code 35200
-  - Liability for debts and contracts
-  - Ed. Code 35202
-  - Claims against districts; applicability of Government Code
-  - Gov. Code 53051
-  - Information filed with secretary of state and county clerk
-  - Gov. Code 6500-6536
-  - Joint powers agreements
-  - Gov. Code 800
-  - Cost in civil actions
-  - Gov. Code 810-996.6
-  - Government Claims Act
-  - Pen. Code 72
-  - Fraudulent claims
+  - Code of Civil Procedure 85-86 - Limited civil cases; amount in controversy
+  - Ed. Code 35200 - Liability for debts and contracts
+  - Ed. Code 35202 - Claims against districts; applicability of Government Code
+  - Gov. Code 53051 - Information filed with secretary of state and county clerk
+  - Gov. Code 6500-6536 - Joint powers agreements
+  - Gov. Code 800 - Cost in civil actions
+  - Gov. Code 810-996.6 - Government Claims Act
+  - Pen. Code 72 - Fraudulent claims
 
 Management Resources:
-  - Court Decision
-  - Hovd v. Hayward Unified School District (1977) 74 Cal.App.3d 470
-  - Court Decision
-  - Stockett v. Association of California Water Agencies Joint Powers Insurance
-  - Authority (2004) 34 Cal.4th 441
-  - Court Decision
-  - City of Stockton v. Superior Court (2007) 42 Cal. 4th 730
-  - Court Decision
-  - Connelly v. County of Fresno (2006) 146 Cal.App.4th 29
-  - 86
-  - Court Decision
-  - CSEA v. Azusa Unified School District (1984) 152 Cal.App.3d 580
-  - Court Decision
-  - CSEA v. South Orange Community College District (2004) 124 Cal.App.4th
-  - 574
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Secretary of
+  - 86 - Court Decision - CSEA v. Azusa Unified School District (1984) 152 Cal.App.3d 580 - Court Decision - CSEA v. South Orange Community College District (2004) 124 Cal.App.4th
+  - 574 - Website - CSBA District and County Office of Education Legal Services - Website - California Secretary of State's Office - Website - Fiscal Crisis and Management Assistance Team
+
+Cross References:
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4119.1 - Civil And Legal Rights
+  - 4157.1 - Work-Related Injuries
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4219.1 - Civil And Legal Rights
+  - 4319.1 - Civil And Legal Rights
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5143 - Insurance
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School
+  - 9322 - Agenda/Meeting Materials

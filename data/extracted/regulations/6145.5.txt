@@ -55,10 +55,9 @@ adviser.
 For noncurriculum-related student groups, a staff adviser may be assigned voluntarily to observe meetings for
 purposes of maintaining order and protecting student safety. Staff advisers and other school employees shall not
 promote, lead, or participate in the meetings. (20 USC 4071, 4072)
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 A school employee may refuse to attend a meeting of a student group if the content of the speech at the meeting is
 contrary to the employee's beliefs. (20 USC 4071)
 Hazing
@@ -73,75 +72,53 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 350
-  - Fees not permitted
-  - 5 CCR 80413.3
-  - Credential requirements; teachers with out-of-state credentials
-  - Ed. Code 200-262.4
-  - Prohibition of discrimination on the basis of sex
-  - Ed. Code 37220-37223
-  - Holidays
-  - Ed. Code 38130-38139
-  - Civic Center Act
-  - Ed. Code 48645.5
-  - Former juvenile court school students; enrollment
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48930-48938
-  - Student organizations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 49020-49023
-  - Athletic programs; legislative intent, equal opportunity
-  - Ed. Code 52
-  - Designation of secondary schools
-  - Ed. Code 53
-  - Designation of high schools
-  - Pen. Code 627-627.10
-  - Access to school premises
+  - 5 CCR 350 - Fees not permitted
+  - 5 CCR 80413.3 - Credential requirements; teachers with out-of-state credentials
+  - Ed. Code 200-262.4 - Prohibition of discrimination on the basis of sex
+  - Ed. Code 37220-37223 - Holidays
+  - Ed. Code 38130-38139 - Civic Center Act
+  - Ed. Code 48645.5 - Former juvenile court school students; enrollment
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48930-48938 - Student organizations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 49020-49023 - Athletic programs; legislative intent, equal opportunity
+  - Ed. Code 52 - Designation of secondary schools
+  - Ed. Code 53 - Designation of high schools
+  - Pen. Code 627-627.10 - Access to school premises
 
 Federal References:
-  - 20 USC 4071-4074
-  - Equal Access Act
-  - 20 USC 7904
-  - School prayer
-  - 20 USC 7905
-  - Boy Scouts equal access
-  - 36 USC 20101-240112
-  - Patriotic organizations
+  - 20 USC 4071-4074 - Equal Access Act
+  - 20 USC 7904 - School prayer
+  - 20 USC 7905 - Boy Scouts equal access
+  - 36 USC 20101-240112 - Patriotic organizations
 
 Management Resources:
-  - Court Decision
-  - Board of Education of Westside Community School District v. Mergens By
-  - and Through Mergens (1989, 8th Cir.) 867 F.2d 1076
-  - Court Decision
-  - Ceniceros v. Board of Trustees of the San Diego Unified School District
-  - (1997) 106 F.3d 878
-  - Court Decision
-  - Culbertson et al. v. Oakridge School District (2002) 258 F.3d 1061
-  - Court Decision
-  - Good News Club et al. v. Milford Central School (2001) 121 S.Ct. 2093
-  - Court Decision
-  - Hartzell v. Connell (1984) 35 Cal. 3d 899
-  - Court Decision
-  - Perumal et al v. Saddleback Valley Unified School District (1988) 198 Cal.
-  - App. 3d 64
-  - Court Decision
-  - Prince v. Jacoby (2001) 303 F.3d 1074
-  - 111
-  - Court Decision
-  - Student Coalition for Peace v. Lower Merion School District Board of
-  - Directors (1985) 776 F.2d. 431
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Attorney General's Office
-  - Website
-  - California Interscholastic Federation
-  - Website
-  - Council on Standards for International Educational Travel
-  - Website
-  - U.S. Department of Education
-  - Management Resources
+  - App. 3d 64 - Court Decision - Prince v. Jacoby (2001) 303 F.3d 1074
+  - 111 - Court Decision - Student Coalition for Peace v. Lower Merion School District Board of - Directors (1985) 776 F.2d. 431 - Website - CSBA District and County Office of Education Legal Services - Website - California Attorney General's Office - Website - California Interscholastic Federation - Website - Council on Standards for International Educational Travel - Website - U.S. Department of Education
+
+Cross References:
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1321 - Solicitation Of Funds From And By Students
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 3452 - Student Activity Funds
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 5131 - Conduct
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.3 - Civic Education
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504

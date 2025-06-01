@@ -46,77 +46,92 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 22 CCR 101170
-  - Criminal record clearance
-  - 22 CCR 101216
-  - Health screening; volunteers in child care centers
-  - Board Policy Manual
-  - Redwood City School District
+  - 22 CCR 101170 - Criminal record clearance
+  - 22 CCR 101216 - Health screening; volunteers in child care centers - Board Policy Manual - Redwood City School District
   - 60
-  - Ed. Code 35021
-  - Volunteer aides
-  - Ed. Code 35021.1
-  - Automated records check
-  - Ed. Code 35021.3
-  - Registry of volunteers for before/after school programs
-  - Ed. Code 44010
-  - Sex offense; definition
-  - Ed. Code 44814-44815
-  - Supervision of students during lunch and other nutrition periods
-  - Ed. Code 45125
-  - Fingerprinting requirements
-  - Ed. Code 45125.01
-  - Interagency agreements for criminal record information
-  - Ed. Code 45340-45349
-  - Instructional aides
-  - Ed. Code 45360-45367
-  - Teacher aides
-  - Ed. Code 48981
-  - Parental notifications
-  - Ed. Code 49024
-  - Activity Supervisor Clearance Certificate
-  - Ed. Code 49406
-  - TB risk assessment
-  - Ed. Code 8482-8484.6
-  - After School Education and Safety Program
+  - Ed. Code 35021 - Volunteer aides
+  - Ed. Code 35021.1 - Automated records check
+  - Ed. Code 35021.3 - Registry of volunteers for before/after school programs
+  - Ed. Code 44010 - Sex offense; definition
+  - Ed. Code 44814-44815 - Supervision of students during lunch and other nutrition periods
+  - Ed. Code 45125 - Fingerprinting requirements
+  - Ed. Code 45125.01 - Interagency agreements for criminal record information
+  - Ed. Code 45340-45349 - Instructional aides
+  - Ed. Code 45360-45367 - Teacher aides
+  - Ed. Code 48981 - Parental notifications
+  - Ed. Code 49024 - Activity Supervisor Clearance Certificate
+  - Ed. Code 49406 - TB risk assessment
+  - Ed. Code 8482-8484.6 - After School Education and Safety Program
   - Ed. Code 8484.7-8484.9
   - 21st Century Community Learning Center program
-  - Gov. Code 12940
-  - Unlawful discriminatory employment practices
-  - Gov. Code 3543.5
-  - Prohibited interference with employees' rights
-  - H&S Code 1596.7995
-  - Immunization requirements for volunteers in child care center or preschool
-  - H&S Code 1596.871
-  - Fingerprints of individuals in contact with child day care facility clients
-  - Lab. Code 1720.4
-  - Public works; exclusion of volunteers from prevailing wage law
-  - Lab. Code 3352
-  - Workers' compensation; definitions
-  - Lab. Code 3364.5
-  - Authority to provide workers' compensation insurance for volunteers
-  - Pen. Code 290
-  - Registration of sex offenders
-  - Pen. Code 290.4
-  - Information regarding sex offenders
-  - Pen. Code 290.95
-  - Disclosure by person required to register as sex offender
-  - Pen. Code 626.81
-  - Sex offender; permission to volunteer at school
-  - State
+  - Gov. Code 12940 - Unlawful discriminatory employment practices
+  - Gov. Code 3543.5 - Prohibited interference with employees' rights - H&S Code 1596.7995 - Immunization requirements for volunteers in child care center or preschool - H&S Code 1596.871 - Fingerprints of individuals in contact with child day care facility clients
+  - Lab. Code 1720.4 - Public works; exclusion of volunteers from prevailing wage law
+  - Lab. Code 3352 - Workers' compensation; definitions
+  - Lab. Code 3364.5 - Authority to provide workers' compensation insurance for volunteers
+  - Pen. Code 290 - Registration of sex offenders
+  - Pen. Code 290.4 - Information regarding sex offenders
+  - Pen. Code 290.95 - Disclosure by person required to register as sex offender
+  - Pen. Code 626.81 - Sex offender; permission to volunteer at school
 
-Management Resources:
-  - PERB Decision
-  - Whisman Elementary School District (1991) PERB Decision No. 868
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Justice, Megan's Law
-  - Website
-  - California Department of Education, Parents/Family and Community
-  - Website
-  - Commission on Teacher Credentialing
-  - Website
-  - CSBA
-  - Website
-  - California
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1150 - Commendations And Awards
+  - 1150 - Commendations And Awards
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3515.5 - Sex Offender Notification
+  - 3515.5 - Sex Offender Notification
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3541.1 - Transportation For School-Related Trips
+  - 3543 - Transportation Safety And Emergencies
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4112.4 - Health Examinations
+  - 4112.5 - Criminal Record Check
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4157.1 - Work-Related Injuries
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6116 - Classroom Interruptions
+  - 6116 - Classroom Interruptions
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6154 - Homework/Makeup Work
+  - 6163.1 - Library Media Centers
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 7140 - Architectural And Engineering Services
+  - 9200 - Limits Of Board Member Authority

@@ -45,82 +45,49 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 300-307
-  - Duties of students
-  - Civ. Code 1714.1
-  - Liability of parent or guardian for act of willful misconduct by a minor
-  - Ed. Code 200-270
-  - Prohibition of discrimination
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 35181
-  - Governing board authority to set policy on responsibilities of students
-  - Ed. Code 35291-35291.5
-  - Rules
-  - Ed. Code 44807
-  - Teachers' duty concerning conduct of students
-  - Ed. Code 48900-48925
-  - Suspension and expulsion
-  - Board Policy Manual
-  - Redwood City School District
+  - 5 CCR 300-307 - Duties of students
+  - Civ. Code 1714.1 - Liability of parent or guardian for act of willful misconduct by a minor
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 35181 - Governing board authority to set policy on responsibilities of students
+  - Ed. Code 35291-35291.5 - Rules
+  - Ed. Code 44807 - Teachers' duty concerning conduct of students
+  - Ed. Code 48900-48925 - Suspension and expulsion - Board Policy Manual - Redwood City School District
   - 189
-  - Ed. Code 48901.5
-  - Prohibition of electronic signaling devices
-  - Ed. Code 48901.7
-  - Limitation or prohibition of student use of smartphones
-  - Ed. Code 48901.8
-  - Limitation or prohibition of student use of social media
-  - Ed. Code 51512
-  - Prohibited use of electronic listening or recording device
-  - Pen. Code 1546.1
-  - Electronic Communications Privacy Act
-  - Pen. Code 288.2
-  - Harmful matter with intent to seduce
-  - Pen. Code 313
-  - Harmful matter
-  - Pen. Code 647
-  - Use of camera or other instrument to invade person's privacy; misdemeanor
-  - Pen. Code 653.2
-  - Electronic communication devices; threats to safety
-  - Veh. Code 23123-23124
-  - Prohibitions against use of electronic devices while driving
-  - State
+  - Ed. Code 48901.5 - Prohibition of electronic signaling devices
+  - Ed. Code 48901.7 - Limitation or prohibition of student use of smartphones
+  - Ed. Code 48901.8 - Limitation or prohibition of student use of social media
+  - Ed. Code 51512 - Prohibited use of electronic listening or recording device
+  - Pen. Code 1546.1 - Electronic Communications Privacy Act
+  - Pen. Code 288.2 - Harmful matter with intent to seduce
+  - Pen. Code 313 - Harmful matter
+  - Pen. Code 647 - Use of camera or other instrument to invade person's privacy; misdemeanor
+  - Pen. Code 653.2 - Electronic communication devices; threats to safety
+  - Veh. Code 23123-23124 - Prohibitions against use of electronic devices while driving
 
 Federal References:
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
 
 Management Resources:
-  - California Department of Education Publication
-  - Bullying at School, 2003
-  - Court Decision
-  - Safford Unified School District V. Redding (2009) 557 US 364
-  - Court Decision
-  - Mahanoy Area School District v. B.L. (2021) 141 S.Ct. 2038
-  - Court Decision
-  - J.C. v. Beverly Hills Unified School District (2010) 711 F.Supp.2d 1094
-  - Court Decision
-  - New Jersey v. T.L.O. (1985) 469 U.S. 325
-  - Court Decision
-  - Tinker v. Des Moines Independent Community School District (1969) 393
-  - U.S. 503
-  - CSBA Publication
-  - Cyberbullying: Policy Considerations for Boards, Policy Brief, rev. July 2010
-  - CSBA Publication
-  - Safe Schools: Strategies for Governing Boards to Ensure Student Success,
-  - 2011
-  - U.S. Department of Education Publication
-  - Planning Together: A Playbook for Student Personal Device Policies,
-  - December 2024
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National School Safety Center
-  - Website
-  - Center for Safe and Responsible Internet Use
-  - Website
-  - California Department of Education, Safe Schools
-  - Website
-  - CSBA
-  - Website
-  - U.S. Department of Education
+  - U.S. 503 - CSBA Publication - Cyberbullying: Policy Considerations for Boards, Policy Brief, rev. July 2010 - CSBA Publication - Safe Schools: Strategies for Governing Boards to Ensure Student Success,
+  - 2011 - U.S. Department of Education Publication - Planning Together: A Playbook for Student Personal Device Policies,
+  - December 2024 - Website - CSBA District and County Office of Education Legal Services - Website - National School Safety Center - Website - Center for Safe and Responsible Internet Use - Website - California Department of Education, Safe Schools - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5131.9 - Academic Honesty
+  - 5137 - Positive School Climate
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5145.12 - Search And Seizure
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology

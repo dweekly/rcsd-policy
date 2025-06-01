@@ -9,8 +9,7 @@ Source: RCSD Policies 0000.pdf (Pages 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57
 
 Original Adopted Date: 05/23/2018
 See PDF on the next page.
-Board Policy Manual
-Redwood City School District
+
 
 Requirements For Charter Schools
 Charter schools shall be subject to the terms of their charters, any memorandum of understanding with
@@ -196,307 +195,191 @@ laws, and state laws that apply to governmental agencies in general, such as the
 requirements in Government Code 54950-54963 and the conflict of interest laws in Government Code
 1090-1099 and 87100-91014.
 
-Policy Reference Disclaimer:
-
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11700-11705
-  - Independent study
-  - 5 CCR 11960-11969.10
-  - Charter schools
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - Bus. And Prof. Code 7583.45
-  - Training for security officers
-  - CA Constitution Article 16, Section 8.5
-  - Public finance; school accountability report card
-  - CA Constitution Article 9, Section 5
-  - Common school system
-  - Corp. Code 5110-6910
-  - Nonprofit public benefit corporations
-  - Ed. 33317.3
-  - Student transfer reporting
-  - Ed. Code 1006
-  - Prohibition against school district employees serving on county
-  - board of education
-  - Ed. Code 17070.10-17079.30
-  - Leroy F. Greene School Facilities Act
-  - Ed. Code 17280-17317
-  - Field Act; approval of plans and supervision of construction
-  - Ed. Code 17365-17374
-  - Field Act; fitness for occupancy; liability of board members
-  - Ed. Code 17586
-  - Interior locks on buildings
-  - Ed. Code 200
-  - Nondiscrimination declaration of purpose
-  - Ed. Code 210.2
-  - Educational equity definition
-  - Ed. Code 215
-  - Suicide prevention policies
-  - Ed. Code 215.5
-  - Student identification cards; inclusion of safety hotlines
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 220.5
-  - Prohibition of policies requiring disclosure of information related
-  - to student’s sexual orientation, gender identity, or gender
-  - expression
-  - Ed. Code 221.61
-  - Posting of Title IX information on website
-  - Ed. Code 221.9
-  - Sex equity in competitive athletics
-  - Ed. Code 222
-  - Reasonable accommodations; lactating students
-  - Ed. Code 222.5
-  - Pregnant and parenting students; notification of rights
-  - Ed. Code 231.5
-  - Sexual harassment policy
-  - Ed. Code 234.4
-  - Mandated policy on bullying prevention
-  - Ed. Code 234.6
-  - Bullying and harassment prevention information
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 243
-  - Prohibition of discrimination; instructional materials
-  - Ed. Code 244
-  - Prohibition of discrimination; instructional materials adoption
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 32283.5
-  - Bullying; online training
-  - Ed. Code 33353
-  - California Interscholastic Federation; standardized incident form 53
-  - Ed. Code 33355
-  - Extreme weather protocols
-  - Ed. Code 33479-33479.9
-  - The Eric Parades Sudden Cardiac Arrest Prevention Act
-  - Ed. Code 35012
-  - Student board member participation in expulsion hearings
-  - Ed. Code 35120
-  - Student board membership
-  - Ed. Code 35179.4-35179.6
-  - Interscholastic athletic programs, safety; swimming pool safety
-  - that is not part of interscholastic athletic program
-  - Ed. Code 35183.1
-  - Graduation ceremonies; tribal regalia or recognized object of
-  - religious/cultural significance
-  - Ed. Code 35292.6
-  - Stocking of menstrual products
-  - Ed. Code 35330
-  - Field trips and excursions; student fees
-  - Ed. Code 38001.5
-  - Training for security officers
-  - Ed. Code 38080-38086
-  - School meals
-  - Ed. Code 39831.3
-  - Transportation safety plan
-  - Ed. Code 39843
-  - Disciplinary action against bus driver; report to Department of
-  - Motor Vehicles
-  - Ed. Code 41024
-  - Report of expenditure of state facility funds
-  - Ed. Code 42100
-  - Annual statement of receipts and expenditures
-  - Ed. Code 44030.5
-  - Reporting change in employment status due to alleged
-  - misconduct
-  - Ed. Code 44237
-  - Criminal record summary
-  - Ed. Code 44238.9
-  - District oversight
-  - Ed. Code 44691
-  - Information on detection of child abuse; annual training
-  - Ed. Code 44830.1
-  - Certificated employees; conviction of a violent or serious felony
-  - Ed. Code 44841
-  - CPR certification
-  - Ed. Code 44939.5
-  - Certificated applicant screening
-  - Ed. Code 45122.1
-  - Classified employees; conviction of a violent or serious felony
-  - Ed. Code 45125.1
-  - Criminal records summary; employees of contracting entity
-  - Ed. Code 46015
-  - Accommodations for pregnant and parenting pupils
-  - Ed. Code 46015
-  - Accommodations for pregnant and parenting students; parental
-  - leave
-  - Ed. Code 46300
-  - Transitional kindergarten and kindergarten students in attendance
-  - calculation
-  - Ed. Code 46390-46393
-  - Emergency average daily attendance
+  - 5 CCR 11700-11705 - Independent study
+  - 5 CCR 11960-11969.10 - Charter schools
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - Bus. And Prof. Code 7583.45 - Training for security officers
+  - CA Constitution Article 16, Section 8.5 - Public finance; school accountability report card
+  - CA Constitution Article 9, Section 5 - Common school system
+  - Corp. Code 5110-6910 - Nonprofit public benefit corporations
+  - Ed. 33317.3 - Student transfer reporting
+  - Ed. Code 1006 - Prohibition against school district employees serving on county - board of education
+  - Ed. Code 17070.10-17079.30 - Leroy F. Greene School Facilities Act
+  - Ed. Code 17280-17317 - Field Act; approval of plans and supervision of construction
+  - Ed. Code 17365-17374 - Field Act; fitness for occupancy; liability of board members
+  - Ed. Code 17586 - Interior locks on buildings
+  - Ed. Code 200 - Nondiscrimination declaration of purpose
+  - Ed. Code 210.2 - Educational equity definition
+  - Ed. Code 215 - Suicide prevention policies
+  - Ed. Code 215.5 - Student identification cards; inclusion of safety hotlines
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 220.5 - Prohibition of policies requiring disclosure of information related - to student’s sexual orientation, gender identity, or gender - expression
+  - Ed. Code 221.61 - Posting of Title IX information on website
+  - Ed. Code 221.9 - Sex equity in competitive athletics
+  - Ed. Code 222 - Reasonable accommodations; lactating students
+  - Ed. Code 222.5 - Pregnant and parenting students; notification of rights
+  - Ed. Code 231.5 - Sexual harassment policy
+  - Ed. Code 234.4 - Mandated policy on bullying prevention
+  - Ed. Code 234.6 - Bullying and harassment prevention information
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 243 - Prohibition of discrimination; instructional materials
+  - Ed. Code 244 - Prohibition of discrimination; instructional materials adoption
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 32283.5 - Bullying; online training
+  - Ed. Code 33353 - California Interscholastic Federation; standardized incident form 53
+  - Ed. Code 33355 - Extreme weather protocols
+  - Ed. Code 33479-33479.9 - The Eric Parades Sudden Cardiac Arrest Prevention Act
+  - Ed. Code 35012 - Student board member participation in expulsion hearings
+  - Ed. Code 35120 - Student board membership
+  - Ed. Code 35179.4-35179.6 - Interscholastic athletic programs, safety; swimming pool safety - that is not part of interscholastic athletic program
+  - Ed. Code 35183.1 - Graduation ceremonies; tribal regalia or recognized object of - religious/cultural significance
+  - Ed. Code 35292.6 - Stocking of menstrual products
+  - Ed. Code 35330 - Field trips and excursions; student fees
+  - Ed. Code 38001.5 - Training for security officers
+  - Ed. Code 38080-38086 - School meals
+  - Ed. Code 39831.3 - Transportation safety plan
+  - Ed. Code 39843 - Disciplinary action against bus driver; report to Department of - Motor Vehicles
+  - Ed. Code 41024 - Report of expenditure of state facility funds
+  - Ed. Code 42100 - Annual statement of receipts and expenditures
+  - Ed. Code 44030.5 - Reporting change in employment status due to alleged - misconduct
+  - Ed. Code 44237 - Criminal record summary
+  - Ed. Code 44238.9 - District oversight
+  - Ed. Code 44691 - Information on detection of child abuse; annual training
+  - Ed. Code 44830.1 - Certificated employees; conviction of a violent or serious felony
+  - Ed. Code 44841 - CPR certification
+  - Ed. Code 44939.5 - Certificated applicant screening
+  - Ed. Code 45122.1 - Classified employees; conviction of a violent or serious felony
+  - Ed. Code 45125.1 - Criminal records summary; employees of contracting entity
+  - Ed. Code 46015 - Accommodations for pregnant and parenting pupils
+  - Ed. Code 46015 - Accommodations for pregnant and parenting students; parental - leave
+  - Ed. Code 46300 - Transitional kindergarten and kindergarten students in attendance - calculation
+  - Ed. Code 46390-46393 - Emergency average daily attendance
   - Ed. Code 47600-47616.7
   - Charter Schools Act of 1992
-  - Ed. Code 47634.2
-  - Nonclassroom-based instruction
-  - Ed. Code 47640-47647
-  - Special education funding for charter schools
-  - Ed. Code 47651
-  - Apportionment of funds; charter schools
-  - Ed. Code 48000
-  - Minimum age of admission for kindergarten; transitional
-  - kindergarten
-  - State
+  - Ed. Code 47634.2 - Nonclassroom-based instruction
+  - Ed. Code 47640-47647 - Special education funding for charter schools
+  - Ed. Code 47651 - Apportionment of funds; charter schools
+  - Ed. Code 48000 - Minimum age of admission for kindergarten; transitional - kindergarten
   - 54
-  - Ed. Code 48010
-  - Minimum age of admission to first grade
-  - Ed. Code 48206.3-48208
-  - Students with temporary disabilities; individual instruction
-  - Ed. Code 48850-48859
-  - Students in foster care and students experiencing homelessness
-  - Ed. Code 48850-48859
-  - Education of foster youth and homeless students
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Ed. Code 48901.1
-  - Suspension and expulsion; willful defiance
-  - Ed. Code 48901.7
-  - Smartphone policy
-  - Ed. Code 48901.8
-  - Social media policy
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and
-  - regulations
-  - Ed. Code 48913.5
-  - Suspended students; homework assignments
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 48980.6
-  - Dual enrollment offerings notification
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 49005-49006.4
-  - Seclusion and restraint
-  - Ed. Code 49010
-  - Student fees
-  - Ed. Code 49011
-  - Student fees; definition
-  - Ed. Code 49014
-  - Public School Fair Debt Collection Act
-  - Ed. Code 49061
-  - Definitions; directory information
-  - Ed. Code 49062.5
-  - Student records; name or gender change
-  - Ed. Code 49070
-  - Challenging student records
-  - Ed. Code 49073.2
-  - Privacy of student and parent/guardian personal information;
-  - minutes of board meeting
-  - Ed. Code 49076.7
-  - Student records; data privacy; social security numbers
-  - Ed. Code 49110
-  - Authority to issue work permits
-  - Ed. Code 49381
-  - Human trafficking prevention
-  - Ed. Code 49400-49417
-  - Student health; General powers of school boards
-  - Ed. Code 49406
-  - TB risk assessment
-  - Ed. Code 49414
-  - Epinephrine auto-injectors
-  - Ed. Code 49414.3
-  - Administration of opioid antagonist
-  - Ed. Code 49428
-  - Notification of mental health services
-  - Ed. Code 49428.5
-  - Employment of medical personnel
-  - Ed. Code 49430-49434
-  - The Pupil Nutrition, Health, and Achievement Act of 2001
-  - Ed. Code 49431.9
-  - Prohibition of advertisement of non-nutritious foods
-  - Ed. Code 49475
-  - Health and safety; concussions and head injuries
-  - Ed. Code 49501.5
-  - Free breakfast and lunch to all students
-  - Ed. Code 49531
-  - Food dyes prohibition
-  - State
+  - Ed. Code 48010 - Minimum age of admission to first grade
+  - Ed. Code 48206.3-48208 - Students with temporary disabilities; individual instruction
+  - Ed. Code 48850-48859 - Students in foster care and students experiencing homelessness
+  - Ed. Code 48850-48859 - Education of foster youth and homeless students
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48901.1 - Suspension and expulsion; willful defiance
+  - Ed. Code 48901.7 - Smartphone policy
+  - Ed. Code 48901.8 - Social media policy
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and - regulations
+  - Ed. Code 48913.5 - Suspended students; homework assignments
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 48980.6 - Dual enrollment offerings notification
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 49005-49006.4 - Seclusion and restraint
+  - Ed. Code 49010 - Student fees
+  - Ed. Code 49011 - Student fees; definition
+  - Ed. Code 49014 - Public School Fair Debt Collection Act
+  - Ed. Code 49061 - Definitions; directory information
+  - Ed. Code 49062.5 - Student records; name or gender change
+  - Ed. Code 49070 - Challenging student records
+  - Ed. Code 49073.2 - Privacy of student and parent/guardian personal information; - minutes of board meeting
+  - Ed. Code 49076.7 - Student records; data privacy; social security numbers
+  - Ed. Code 49110 - Authority to issue work permits
+  - Ed. Code 49381 - Human trafficking prevention
+  - Ed. Code 49400-49417 - Student health; General powers of school boards
+  - Ed. Code 49406 - TB risk assessment
+  - Ed. Code 49414 - Epinephrine auto-injectors
+  - Ed. Code 49414.3 - Administration of opioid antagonist
+  - Ed. Code 49428 - Notification of mental health services
+  - Ed. Code 49428.5 - Employment of medical personnel
+  - Ed. Code 49430-49434 - The Pupil Nutrition, Health, and Achievement Act of 2001
+  - Ed. Code 49431.9 - Prohibition of advertisement of non-nutritious foods
+  - Ed. Code 49475 - Health and safety; concussions and head injuries
+  - Ed. Code 49501.5 - Free breakfast and lunch to all students
+  - Ed. Code 49531 - Food dyes prohibition
   - 55
-  - Ed. Code 49550-49564.5
-  - Meals for needy students
+  - Ed. Code 49550-49564.5 - Meals for needy students
   - Ed. Code 49557.5
   - Child Hunger Prevention and Fair Treatment Act of 2017
-  - Ed. Code 49564.3
-  - Provision of
+  - Ed. Code 49564.3 - Provision of federal universal meal service
+  - Ed. Code 49603 - On campus access to employers and military services
+  - Ed. Code 49700-49701 - Education of children of military families
+  - Ed. Code 51224.7 - Mathematics placement policy
+  - Ed. Code 51225.1-51225.2 - Exemption from local graduation requirements; acceptance of - coursework
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 51225.31 - Graduation exemption for students with disabilities
+  - Ed. Code 51225.32 - Graduation requirements for students with disabilities
+  - Ed. Code 51225.38 - Dangers associated with fentanyl
+  - Ed. Code 51225.6 - Instruction in cardiopulmonary resuscitation; districts that require - health education for graduation
+  - Ed. Code 51225.7-51225.8 - Completion and submission of the Free Application for Federal - Student Aid and California Dream Act Application
+  - Ed. Code 51413 - Diploma of graduation without passage of high school exit - examination
+  - Ed. Code 51744-51749.6 - Independent study
+  - Ed. Code 51925-51929 - Mandatory mental health education
+  - Ed. Code 51930-51939 - California Healthy Youth Act
+  - Ed. Code 52052 - Accountability; numerically significant student subgroups
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 52075 - Uniform complaint procedures
+  - Ed. Code 52770 - College and career fairs; community college districts
+  - Ed. Code 52770 - College and career fairs
+  - Ed. Code 53234-53235.2 - Ethics training for governing body
+  - Ed. Code 56026 - Special education
+  - Ed. Code 56040.3 - Availability of assistive technology device
+  - Ed. Code 56040.6 - Deaf, hard of hearing student considerations
+  - Ed. Code 56145-56146 - Special education services in charter schools
+  - Ed. Code 56365-56366.12 - Nonpublic, nonsectarian schools
+  - Ed. Code 56521.1-56521.2 - Emergency Interventions
+  - Ed. Code 60600-60649 - Assessment of academic achievement
+  - Ed. Code 60900 - Charter school closure
+  - Ed. Code 64000 - Categorical programs included in consolidated application
+  - Ed. Code 64001 - School plan for student achievement; consolidated application - programs
+  - 56
+  - Ed. Code 65000-65001 - School site councils
+  - Ed. Code 69432.9-69432.92 - Cal Grant program; notification of grade point average and high - school graduation
+  - Gov. Code 1090-1099 - Prohibitions applicable to specified officers
+  - Gov. Code 3540-3549.3 - Educational Employment Relations Act
+  - Gov. Code 3555-3559 - Public employee communication, information and orientation
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
+  - Gov. Code 81000-91014 - Political Reform Act - H&S Code 104420 - Tobacco Use Prevention Education grant program - H&S Code 104559 - Tobacco-free schools
+  - Lab. Code 1198.5 - Personnel records related to performance and grievance
+  - Lab. Code 3074.2 - College and career fairs; notice to apprenticeship programs
+  - Pen. Code 1192.7 - Definition of serious felony
+  - Pen. Code 667.5 - Definition of violent felony
+  - Veh. Code 28160 - Child safety alert system
 
 Federal References:
   - 20 USC 1681-1688
-  - Title IX of the Education Amendments of 1972; discrimination
-  - based on sex
-  - 20 USC 6311
+  - Title IX of the Education Amendments of 1972; discrimination - based on sex
+  - 20 USC 6311 - State plan
+  - 20 USC 7221-7221j - Charter schools
+  - 34 CFR 200.1-200.78 - Accountability
+  - 42 USC 11431-11435 - McKinney-Vento Homeless Assistance Act
 
 Management Resources:
-  - Attorney General Opinion
-  - 104 Ops.Cal.Atty.Gen. 66 (2021)
-  - Attorney General Opinion
-  - 101 Ops.Cal.Atty.Gen. 92 (2018)
-  - Attorney General Opinion
-  - 78 Ops.Cal.Atty.Gen. 297 (1995)
-  - Attorney General Opinion
-  - 89 Ops.Cal.Atty.Gen. 166 (2006)
-  - Attorney General Opinion
-  - 80 Ops.Cal.Atty.Gen. 52 (1997)
-  - CA Office of Administrative Hearings
-  - Decisions
-  - Student v. Horizon Instructional Systems Charter School (2012)
-  - OAH Case No. 2011060763
-  - California Attorney General
-  - Promoting a Safe and Secure Learning Environment for All:
-  - Guidance and Model Policies to Assist California's K-12 Schools in
-  - Responding to Immigration Issues, December 2024
-  - California Department of Education
-  - Publication
-  - Pupil Fees, Deposits, and Other Charges, Fiscal Management
+  - 104 Ops.Cal.Atty.Gen. 66 (2021) - Attorney General Opinion
+  - 101 Ops.Cal.Atty.Gen. 92 (2018) - Attorney General Opinion
+  - 78 Ops.Cal.Atty.Gen. 297 (1995) - Attorney General Opinion
+  - 89 Ops.Cal.Atty.Gen. 166 (2006) - Attorney General Opinion
+  - 80 Ops.Cal.Atty.Gen. 52 (1997) - CA Office of Administrative Hearings - Decisions - Student v. Horizon Instructional Systems Charter School (2012)
+  - OAH Case No. 2011060763 - California Attorney General - Promoting a Safe and Secure Learning Environment for All: - Guidance and Model Policies to Assist California's K-12 Schools in - Responding to Immigration Issues, December 2024 - California Department of Education - Publication - Pupil Fees, Deposits, and Other Charges, Fiscal Management
   - Advisory 23-02, November 2023
-  - 57
-  - California Department of Education
-  - Publication
-  - Model Youth Suicide Prevention Policy for Local Educational
-  - Agencies that Serve Kindergarten through Twelfth Grade
-  - Students
-  - California Department of Education
-  - Publication
-  - Pupil Fees, Deposits, and Other Charges, Fiscal Management
-  - Advisory 20-01, July 23, 2020
-  - California Department of Education
-  - Publication
-  - California School Accounting Manual
-  - California Dept. of Pesticide Reg.
-  - Publication
-  - School District Integrated Pest Management Plan Template
-  - California Interscholastic Federation
-  - Publication
-  - Pursuing Victory with Honor, 1999
-  - Court Decision
-  - Ridgecrest Charter School v. Sierra Sands Unified School District
-  - (2005) 130 Cal.App.4th 986
-  - CSBA Publication
-  - Charter Schools: A Guide for Governance Teams, rev. 2021
-  - CSBA Publication
-  - Charter Schools in Focus, Issue 2: Ensuring Effective Oversight,
-  - Governance Brief, October 2017
-  - CSBA Publication
-  - Uncharted Waters: Recommendations for Prioritizing Student
-  - Achievement and Effective Governance in California's Charter
-  - Schools, September 2018
-  - Multi-Agency Charter SATF's Publication
-  - Audit Best Practices for Detecting and Curtailing Charter School
-  - Fraud, September 2024
-  - U.S. DOE Guidance
-  - Charter Schools Program: Title V, Part B of the ESEA,
-  - Nonregulatory Guidance, January 2014
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Agriculture
-  - Website
-  - National Suicide Prevention Lifeline
-  - Website
-  - National Domestic Violence Hotline
-  - Website
-  - California
+  - 57 - California Department of Education - Publication - Model Youth Suicide Prevention Policy for Local Educational - Agencies that Serve Kindergarten through Twelfth Grade - Students - California Department of Education - Publication - Pupil Fees, Deposits, and Other Charges, Fiscal Management
+  - Advisory 20-01, July 23, 2020 - California Department of Education - Publication - California School Accounting Manual - California Dept. of Pesticide Reg. - Publication - School District Integrated Pest Management Plan Template - California Interscholastic Federation - Publication - Pursuing Victory with Honor, 1999 - Court Decision - Ridgecrest Charter School v. Sierra Sands Unified School District - (2005) 130 Cal.App.4th 986 - CSBA Publication - Charter Schools: A Guide for Governance Teams, rev. 2021 - CSBA Publication - Charter Schools in Focus, Issue 2: Ensuring Effective Oversight, - Governance Brief, October 2017 - CSBA Publication - Uncharted Waters: Recommendations for Prioritizing Student - Achievement and Effective Governance in California's Charter - Schools, September 2018 - Multi-Agency Charter SATF's Publication - Audit Best Practices for Detecting and Curtailing Charter School - Fraud, September 2024 - U.S. DOE Guidance - Charter Schools Program: Title V, Part B of the ESEA, - Nonregulatory Guidance, January 2014 - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Agriculture - Website - National Suicide Prevention Lifeline - Website - National Domestic Violence Hotline - Website - California State Teachers Retirement System - Website - California Public Employees Retirement System - Website - California Department of General Services, Office of - Administrative Hearings - Website - California Commission on Teacher Credentialing - Website - California Commission on Peace Officer Standards and Training - Website - California Bureau of Security and Investigative Services - Website - California Department of Pesticide Regulation - Website - California State Controller - Website - California Student Aid Commission - Website - National Association of Charter School Authorizers - Website - California Charter Schools Association - Website - California Department of Education, Charter Schools - Website - California Interscholastic Federation
+  - 58 - Website - California Office of the Attorney General - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 0420.42 - Charter School Renewal
+  - 0420.43 - Charter School Revocation
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1431 - Waivers
+  - 7160 - Charter School Facilities
+  - 7160 - Charter School Facilities

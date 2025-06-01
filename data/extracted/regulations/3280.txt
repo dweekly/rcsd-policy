@@ -58,10 +58,9 @@ following: (Education Code 17389)
 including, but not limited to, knowledge of the zoning and other land use restrictions of the cities and counties
 in which the surplus property is located
 This committee shall: (Education Code 17390)
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 1. Review projected school enrollment and other data to determine the amount of surplus space and real
 property
  
@@ -82,75 +81,54 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 14 CCR 15061-15062
-  - Preliminary review of projects and conduct of initial study
-  - 2 CCR 1700-1702
-  - Surplus property; use of proceeds
-  - Ed. Code 17219-17224
-  - Acquisition of property not utilized as school site; nonuse payments;
-  - exemptions
-  - Ed. Code 17230-17234
-  - Surplus property
-  - Ed. Code 17387-17391
-  - Advisory committees for use of excess school facilities
-  - Ed. Code 17400-17429
-  - Leasing of school buildings
-  - Ed. Code 17430-17447
-  - Leasing facilities
-  - Ed. Code 17453
-  - Lease of surplus district property
-  - Ed. Code 17455-17484
-  - Sale or lease of real property
-  - Ed. Code 17462.3
-  - State Allocation Board program to reclaim funds
-  - Ed. Code 17485-17500
-  - Surplus school playground (Naylor Act)
-  - Ed. Code 17515-17526
-  - Joint occupancy
-  - Ed. Code 17527-17535
-  - Joint use of district facilities
-  - Ed. Code 17536
-  - Exchange of district property
-  - Ed. Code 33050
-  - Nonwaivable provisions
-  - Ed. Code 38130-38139
-  - Civic Center Act
-  - Gov. Code 50001-50002
-  - Definitions
-  - Gov. Code 54220-54234
-  - Surplus land
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 54952
-  - Legislative body; definition
+  - 14 CCR 15061-15062 - Preliminary review of projects and conduct of initial study
+  - 2 CCR 1700-1702 - Surplus property; use of proceeds
+  - Ed. Code 17219-17224 - Acquisition of property not utilized as school site; nonuse payments; - exemptions
+  - Ed. Code 17230-17234 - Surplus property
+  - Ed. Code 17387-17391 - Advisory committees for use of excess school facilities
+  - Ed. Code 17400-17429 - Leasing of school buildings
+  - Ed. Code 17430-17447 - Leasing facilities
+  - Ed. Code 17453 - Lease of surplus district property
+  - Ed. Code 17455-17484 - Sale or lease of real property
+  - Ed. Code 17462.3 - State Allocation Board program to reclaim funds
+  - Ed. Code 17485-17500 - Surplus school playground (Naylor Act)
+  - Ed. Code 17515-17526 - Joint occupancy
+  - Ed. Code 17527-17535 - Joint use of district facilities
+  - Ed. Code 17536 - Exchange of district property
+  - Ed. Code 33050 - Nonwaivable provisions
+  - Ed. Code 38130-38139 - Civic Center Act
+  - Gov. Code 50001-50002 - Definitions
+  - Gov. Code 54220-54234 - Surplus land
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 54952 - Legislative body; definition
   - Pub. Res. Code 21000-21177
   - California Environmental Quality Act of 1970
 
 Management Resources:
-  - Attorney General Opinion
-  - 94 Ops.Cal.Atty.Gen. 82 (2011)
-  - Attorney General Publication
-  - Guidance Regarding Laws Governing School Closures and Best Practices for
-  - Implementation in California, April 2023
-  - CA Dept of Housing & Community Development
-  - Pub
-  - Updated Surplus Land Act Guidelines, August 2024
-  - 49
-  - California Department of Education Publication
-  - Best Practices Guide for Potential School Closure, 2024
-  - Court Decision
-  - San Lorenzo Valley Community Advocates for Responsible Education v. San
-  - Lorenzo Valley Unified School District (2006) 139 Cal.App.4th 1356
-  - Office of Public School Construction Publication
-  - Unused Site Program Handbook, December 2015
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Department of General Services, Office of Public School Construction
-  - Website
-  - Coalition for Adequate School Housing
-  - Website
-  - CSBA
-  - Website
-  - California Department of Education, School Facilities
-  - Management Resources
+  - 94 Ops.Cal.Atty.Gen. 82 (2011) - Attorney General Publication - Guidance Regarding Laws Governing School Closures and Best Practices for - Implementation in California, April 2023 - CA Dept of Housing & Community Development - Pub - Updated Surplus Land Act Guidelines, August 2024
+  - 49 - California Department of Education Publication - Best Practices Guide for Potential School Closure, 2024 - Court Decision - San Lorenzo Valley Community Advocates for Responsible Education v. San - Lorenzo Valley Unified School District (2006) 139 Cal.App.4th 1356 - Office of Public School Construction Publication - Unused Site Program Handbook, December 2015 - Website - CSBA District and County Office of Education Legal Services - Website - Department of General Services, Office of Public School Construction - Website - Coalition for Adequate School Housing - Website - CSBA - Website - California Department of Education, School Facilities
+
+Cross References:
+  - 1100 - Communication With The Public
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1431 - Waivers
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3580 - District Records
+  - 3580 - District Records
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 7160 - Charter School Facilities
+  - 7160 - Charter School Facilities
+  - 9130 - Board Committees
+  - 9320 - Meetings And Notices
+  - 9323.2 - Actions By The Board

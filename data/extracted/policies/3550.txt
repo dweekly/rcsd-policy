@@ -37,105 +37,78 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 15510
-  - Mandatory meals for needy students
-  - 5 CCR 15530-15535
-  - Nutrition education
-  - 5 CCR 15550-15565
-  - School lunch and breakfast programs
-  - 5 CCR 15575-15578
-  - Requirements for foods and beverages outside the
+  - 5 CCR 15510 - Mandatory meals for needy students
+  - 5 CCR 15530-15535 - Nutrition education
+  - 5 CCR 15550-15565 - School lunch and breakfast programs
+  - 5 CCR 15575-15578 - Requirements for foods and beverages outside the federal meals program
+  - Ed. Code 35182.5 - Contracts for advertising
+  - Ed. Code 38080-38103 - Cafeteria; establishment and use
+  - Ed. Code 45103.5 - Contracts for management consulting services; restrictions
+  - Ed. Code 48432.3 - Voluntary enrollment in continuation education
+  - Ed. Code 49430-49434 - Pupil Nutrition, Health, and Achievement Act of 2001
+  - Ed. Code 49490-49494 - School breakfast and lunch programs
+  - Ed. Code 49501.5-49506 - School Meals
+  - Ed. Code 49510-49520 - Nutrition
+  - Ed. Code 49530-49536 - Child Nutrition Act
+  - Ed. Code 49540-49546 - Child care food program - Board Policy Manual - Redwood City School District
+  - 265
+  - Ed. Code 49547-49548.3 - Comprehensive nutrition services
+  - Ed. Code 49550.3-49562 - Meals for needy students
+  - Ed. Code 49570 - National School Lunch Act
+  - Ed. Code 51795-51798 - School instructional gardens - H&S Code 113700-114437 - California Retail Food Code; sanitation and safety requirements
 
 Federal References:
-  - 42 USC 1751-1769j
-  - School Lunch Program
-  - 42 USC 1758b
-  - Local wellness policy
-  - 42 USC 1761
-  - Summer Food Service Program and Seamless Summer Feeding Option
-  - 42 USC 1769a
-  - Fresh Fruit and Vegetable Program
-  - 42 USC 1771-1793
-  - Child Nutrition Act
-  - 42 USC 1772
-  - Special Milk Program
-  - 42 USC 1773
-  - School Breakfast Program
-  - 7 CFR 210.1-210.33
-  - National School Lunch Program
-  - 7 CFR 215.1-215.18
-  - Special Milk Program
-  - 7 CFR 220.2-220.22
-  - National School Breakfast Program
-  - 7 CFR 245.1-245.13
-  - Eligibility for free and reduced-price meals and free milk
+  - 42 USC 1751-1769j - School Lunch Program
+  - 42 USC 1758b - Local wellness policy
+  - 42 USC 1761 - Summer Food Service Program and Seamless Summer Feeding Option
+  - 42 USC 1769a - Fresh Fruit and Vegetable Program
+  - 42 USC 1771-1793 - Child Nutrition Act
+  - 42 USC 1772 - Special Milk Program
+  - 42 USC 1773 - School Breakfast Program
+  - 7 CFR 210.1-210.33 - National School Lunch Program
+  - 7 CFR 215.1-215.18 - Special Milk Program
+  - 7 CFR 220.2-220.22 - National School Breakfast Program
+  - 7 CFR 245.1-245.13 - Eligibility for free and reduced-price meals and free milk
 
 Management Resources:
-  - California Department of Education Publication
-  - Professional Standards in the School Nutrition Programs, Management
-  - Bulletin SNP-13-2020, Updated January 2022
-  - California Department of Education Publication
-  - Healthy Children Ready to Learn, 2006
-  - California Department of Food and Agriculture
-  - Pub
-  - Planting the Seed: Farm to School Roadmap for Success, February 2022
-  - California Project Lean Publication
-  - Policy in Action: A Guide to Implementing Your Local School Wellness
-  - Policy, October 2006
-  - CSBA Publication
-  - Monitoring for Success: A Guide for Assessing and Strengthening Student
-  - Wellness Policies, 2012
-  - CSBA Publication
-  - Monitoring for Success: Student Wellness Policy Implementation
-  - Monitoring Report and Guide, 2008
-  - CSBA Publication
-  - Nutrition Standards for Schools: Implications for Student Wellness, Policy
-  - Brief, October 2007
-  - CSBA Publication
-  - Building Healthy Communities: A School Leader's Guide to Collaboration
-  - and Community Engagement, 2009
-  - CSBA Publication
-  - Student Wellness: A Healthy Food and Physical Activity Policy Resource
-  - Guide, April 2006
-  - U.S. Department of Agriculture Publication
-  - School Breakfast Toolkit
-  - U.S. Department of Agriculture Publication
-  - Civil Rights Compliance and Enforcement - Nutrition Programs and
-  - Activities, FNS Instruction 113-1, November 2005
-  - U.S. Department of Agriculture Publication
-  - Dietary Guidelines for Americans, 2020
-  - U.S. Department of Agriculture Publication
-  - Food Buying Guide for Child Nutrition Programs, May 2022
-  - U.S. Department of Agriculture Publication
-  - Fresh Fruit and Vegetable Program: Handbook for Schools, December 2010
-  - U.S. Department of Agriculture Publication
-  - Guidance for School Food Authorities: Developing a School Food Safety
-  - Program Based on the Process Approach to HACCP Principles, June 2005
-  - 266
-  - Website
-  - California Department of Food and Agriculture, Office of Farm to Fork
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Agriculture, Food and Nutrition Service
-  - Website
-  - California Farm Bureau Federation
-  - Website
-  - Nourish California
-  - Website
-  - California Project LEAN (Leaders Encouraging Activity and Nutrition)
-  - Website
-  - Centers for Disease Control and Prevention
-  - Website
-  - California School Nutrition Association
-  - Website
-  - California Department of Education, School Nutrition
-  - Website
-  - National Alliance for Nutrition and Activity
-  - Website
-  - California Department of Public Health
-  - Website
-  - California Healthy Kids Resource Center
-  - Website
-  - CSBA
-  - Management Resources
+  - Bulletin SNP-13-2020, Updated January 2022 - California Department of Education Publication - Healthy Children Ready to Learn, 2006 - California Department of Food and Agriculture - Pub - Planting the Seed: Farm to School Roadmap for Success, February 2022 - California Project Lean Publication - Policy in Action: A Guide to Implementing Your Local School Wellness - Policy, October 2006 - CSBA Publication - Monitoring for Success: A Guide for Assessing and Strengthening Student - Wellness Policies, 2012 - CSBA Publication - Monitoring for Success: Student Wellness Policy Implementation - Monitoring Report and Guide, 2008 - CSBA Publication - Nutrition Standards for Schools: Implications for Student Wellness, Policy - Brief, October 2007 - CSBA Publication - Building Healthy Communities: A School Leader's Guide to Collaboration - and Community Engagement, 2009 - CSBA Publication - Student Wellness: A Healthy Food and Physical Activity Policy Resource - Guide, April 2006 - U.S. Department of Agriculture Publication - School Breakfast Toolkit - U.S. Department of Agriculture Publication - Civil Rights Compliance and Enforcement - Nutrition Programs and - Activities, FNS Instruction 113-1, November 2005 - U.S. Department of Agriculture Publication - Dietary Guidelines for Americans, 2020 - U.S. Department of Agriculture Publication - Food Buying Guide for Child Nutrition Programs, May 2022 - U.S. Department of Agriculture Publication - Fresh Fruit and Vegetable Program: Handbook for Schools, December 2010 - U.S. Department of Agriculture Publication - Guidance for School Food Authorities: Developing a School Food Safety - Program Based on the Process Approach to HACCP Principles, June 2005
+  - 266 - Website - California Department of Food and Agriculture, Office of Farm to Fork - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Agriculture, Food and Nutrition Service - Website - California Farm Bureau Federation - Website - Nourish California - Website - California Project LEAN (Leaders Encouraging Activity and Nutrition) - Website - Centers for Disease Control and Prevention - Website - California School Nutrition Association - Website - California Department of Education, School Nutrition - Website - National Alliance for Nutrition and Activity - Website - California Department of Public Health - Website - California Healthy Kids Resource Center - Website - CSBA
+
+Cross References:
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3000 - Concepts And Roles
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3517 - Facilities Inspection
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3554 - Other Food Sales
+  - 3554 - Other Food Sales
+  - 3555 - Nutrition Program Compliance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4231 - Staff Development
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 5030 - Student Wellness
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children

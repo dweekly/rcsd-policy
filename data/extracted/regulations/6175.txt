@@ -57,10 +57,9 @@ crosscultural education, health screening, and compensatory education
 parent/guardian in writing or at a parent/guardian conference, annually and each time the student moves to a
 new district
  
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 5. Staffing and staff development plans and practices to meet the needs of students and implement the program
  
 6. Parent/guardian and community involvement as specified in Education Code 54444.2, including but not
@@ -107,40 +106,78 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 3080
-  - Applicability of uniform complaint procedures to complaints regarding
-  - students with disabilities
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - Ed. Code 200
-  - Equal rights and opportunities in state educational institutions
-  - Ed. Code 220
-  - Prohibition of discrimination
+  - 5 CCR 3080 - Applicability of uniform complaint procedures to complaints regarding - students with disabilities
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - Ed. Code 200 - Equal rights and opportunities in state educational institutions
+  - Ed. Code 220 - Prohibition of discrimination
   - 323
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 37220
-  - School calendar
-  - Ed. Code 41601.6
-  - Extended school year program for migratory students
-  - Ed. Code 48204.7
-  - Enrollment
-  - Ed. Code 51225.1
-  - Exemption from district graduation requirements
-  - Ed. Code 51225.2
-  - Transfer of coursework and credit
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 54440-54445
-  - Migrant children
-  - State
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 37220 - School calendar
+  - Ed. Code 41601.6 - Extended school year program for migratory students
+  - Ed. Code 48204.7 - Enrollment
+  - Ed. Code 51225.1 - Exemption from district graduation requirements
+  - Ed. Code 51225.2 - Transfer of coursework and credit
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 54440-54445 - Migrant children
 
 Federal References:
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
+  - 20 USC 6391-6399 - Education of migratory children
+  - 20 USC 7881 - Participation of private school students
+  - 34 CFR 200.81-200.89 - Migrant education program
 
 Management Resources:
-  - California Child Welfare Council Publication
-  - Partial Credit Model Policy and Practice Recommendations, September
-  - 2013
-  - California Department of Education Publication
-  - 2017
+  - 2013 - California Department of Education Publication
+  - 2017 State Service Delivery Plan - U.S. Department of Education Publication - Education of Migratory Children Under Title I, Part C of the Elementary and
+  - Secondary Education Act of 1965, Non-Regulatory Guidance, rev. March
+  - 2017 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, Migrant Education Office - Website - U.S. Department of Education, Office of Migrant Education - Website - West Ed, Migrant Student Information Network - Website - CSBA
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 4121 - Temporary/Substitute Personnel
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5111.1 - District Residency
+  - 5111.1 - District Residency
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.2 - Withholding Grades, Diploma Or Transcripts
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.6 - School Health Services
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6115 - Ceremonies And Observances
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6177 - Summer Learning Programs

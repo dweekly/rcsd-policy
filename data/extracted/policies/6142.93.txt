@@ -20,76 +20,68 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 14030
-  - Preliminary procedure, planning and approval of school facilities
-  - 8 CCR 5191
-  - Chemical hygiene plan
-  - Ed. Code 32030-32034
-  - Eye safety
-  - Ed. Code 32255-32255.6
-  - Student's right to refrain from harmful or destructive use of animals
-  - Ed. Code 33475-33475.5
-  - Model curriculum on stem cell science
-  - Ed. Code 33548
-  - Media and artificial intelligence literacy
-  - Ed. Code 49340-49341
-  - Hazardous substances education
+  - 5 CCR 14030 - Preliminary procedure, planning and approval of school facilities
+  - 8 CCR 5191 - Chemical hygiene plan
+  - Ed. Code 32030-32034 - Eye safety
+  - Ed. Code 32255-32255.6 - Student's right to refrain from harmful or destructive use of animals
+  - Ed. Code 33475-33475.5 - Model curriculum on stem cell science
+  - Ed. Code 33548 - Media and artificial intelligence literacy
+  - Ed. Code 49340-49341 - Hazardous substances education
   - Ed. Code 51210
   - Course of study for grades 1-6
-  - Ed. Code 51210.3
-  - Elementary science coach
+  - Ed. Code 51210.3 - Elementary science coach
   - Ed. Code 51220
   - Course of study for grades 7-12
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 52059.5-52077
-  - Local control and accountability plan
-  - Ed. Code 60640-60648.5
-  - California Assessment of Student Performance and Progress
-  - Ed. Code 8774
-  - Residential outdoor science program
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 52059.5-52077 - Local control and accountability plan
+  - Ed. Code 60640-60648.5 - California Assessment of Student Performance and Progress
+  - Ed. Code 8774 - Residential outdoor science program
 
 Management Resources:
-  - California Department of Education Publication
-  - Science Safety Handbook for California Public Schools, 2014
-  - California Department of Education Publication
-  - Science Framework for California Public Schools: Kindergarten Through
-  - Grade 12, 2016
-  - California Department of Education Publication
-  - California Next Generation Science Standards, 2013
-  - CSBA Publication
-  - Supporting STEM Access, Equity, and Effectiveness: Equitable Access to
-  - Rigorous STEAM Coursework, October 2018
-  - CSBA Publication
-  - Supporting STEM Access, Equity, and Effectiveness: The Path to Full
-  - Implementation of the California Next Generation Science Standards,
-  - October 2018
-  - CSBA Publication
-  - Supporting STEM Access, Equity, and Effectiveness: Professional Learning is
-  - Essential to Next Generation Science Standards Implementation, October
-  - 2020
-  - CSBA Publication
-  - Supporting Implementation of the California Next Generation Science
-  - Standards (CA-NGSS), Governance Brief, November 2016
-  - Website
-  - Los Angeles County Office of Education, Introduction to Strategic Science
-  - Teaching (SST)
-  - Board Policy Manual
-  - Redwood City School District
-  - 81
-  - Website
-  - Strategic Science Teaching, Grades K-12: A Sampler of Science Lessons
-  - Connecting Literature with the California Standards
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Education, STEM Education
-  - Website
-  - California Alliance for Next Generation Science Standards
-  - Website
-  - California Science Teachers Association
-  - Website
-  - CSBA
-  - Website
-  - California Department of Education
-  - Management Resources
+  - Grade 12, 2016 - California Department of Education Publication - California Next Generation Science Standards, 2013 - CSBA Publication - Supporting STEM Access, Equity, and Effectiveness: Equitable Access to - Rigorous STEAM Coursework, October 2018 - CSBA Publication - Supporting STEM Access, Equity, and Effectiveness: The Path to Full - Implementation of the California Next Generation Science Standards,
+  - October 2018 - CSBA Publication - Supporting STEM Access, Equity, and Effectiveness: Professional Learning is - Essential to Next Generation Science Standards Implementation, October
+  - 2020 - CSBA Publication - Supporting Implementation of the California Next Generation Science - Standards (CA-NGSS), Governance Brief, November 2016 - Website - Los Angeles County Office of Education, Introduction to Strategic Science - Teaching (SST) - Board Policy Manual - Redwood City School District
+  - 81 - Website - Strategic Science Teaching, Grades K-12: A Sampler of Science Lessons - Connecting Literature with the California Standards - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Education, STEM Education - Website - California Alliance for Next Generation Science Standards - Website - California Science Teachers Association - Website - CSBA - Website - California Department of Education
+
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4119.42 - Exposure Control Plan For Bloodborne Pathogens
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4331 - Staff Development
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5145.8 - Refusal To Harm Or Destroy Animals
+  - 5145.8 - Refusal To Harm Or Destroy Animals
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6011 - Academic Standards
+  - 6141 - Curriculum Development And Evaluation
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.5 - Environmental Education
+  - 6142.92 - Mathematics Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6172 - Gifted And Talented Student Program
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction

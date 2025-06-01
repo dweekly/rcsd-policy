@@ -21,15 +21,19 @@ REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 16, Section 6
-  - Gifts of public funds
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 44015
-  - Awards to employees and students
+  - CA Constitution Article 16, Section 6 - Gifts of public funds
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 44015 - Awards to employees and students
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 1000 - Concepts And Roles
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3290 - Gifts, Grants And Bequests
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 4156.2 - Awards And Recognition
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement

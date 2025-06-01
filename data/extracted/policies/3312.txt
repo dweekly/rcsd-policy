@@ -57,8 +57,7 @@ The Board shall not enter into a contract for electronic products or services th
 advertising to students, unless the Board:
 1. Enters into the contract at a noticed, public hearing of the Board.
  
-Board Policy Manual
-Redwood City School District
+
 
 2. Makes a finding that the electronic product or service is or would be an integral component of the education of
 students.
@@ -111,40 +110,105 @@ Offers parents/guardians the opportunity to request in writing that their child 
 contains the advertising. Any request shall be honored for the school year in which it is submitted, or longer if
 specified, but may be withdrawn by the parents/guardians at any time.
 
-Policy Reference Disclaimer:
-
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 15500
-  - Food sales in elementary schools
-  - 5 CCR 15501
-  - Food sales in high schools and junior high schools
-  - 5 CCR 15575-15578
-  - Requirements for foods and beverages outside the
+  - 5 CCR 15500 - Food sales in elementary schools
+  - 5 CCR 15501 - Food sales in high schools and junior high schools
+  - 5 CCR 15575-15578 - Requirements for foods and beverages outside the federal meals program
+  - Ed. Code 14505 - Provisions required in contracts for audits
+  - Ed. Code 17250.10-17250.55 - Design-build contracts
+  - Ed. Code 17595-17606 - Contracts
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 35161 - Governing boards; powers and duties
+  - Ed. Code 35182.5 - Contracts for advertising
+  - Ed. Code 45103.1 - Personal services contracts
+  - Ed. Code 45103.5 - Contracts for management consulting services; restrictions
+  - Ed. Code 49073.1 - Contract requirements for digital storage, maintenance and retrieval of - student records
+  - Ed. Code 49431-49431.7 - Nutritional standards
+  - Gov. Code 1090 - Prohibition of financial interest in contracts by specified officers
+  - Gov. Code 1097.6 - Independent contractors
+  - Gov. Code 12990 - Nondiscrimination and compliance employment programs
+  - Gov. Code 53260 - Contract provision re maximum cash settlement
+  - Gov. Code 53262 - Employment contracts
+  - Gov. Code 7928.801 - Public Records Act; contracts for goods and services
+  - Gov. Code 84308 - Campaign disclosure
+  - Lab. Code 1771.8 - Private labor compliance entity; potential conflict of interest
+  - Lab. Code 1775 - Penalties for violations
+  - Lab. Code 1810-1813 - Working hours
+  - Pub. Cont. Code 20104.50 - Timely progress payments
+  - Pub. Cont. Code 20111 - Contracts over $50,000; contracts for construction; award to lowest - responsible bidder
+  - Pub. Cont. Code 22300 - Performance retentions
+  - Pub. Cont. Code 4100-4114 - Subletting and subcontracting fair practices
+  - Pub. Cont. Code 6102 - Awarding of contracts
+  - Pub. Cont. Code 7104 - Contracts for excavations; discovery of hazardous waste
+  - Pub. Cont. Code 7106 - Noncollusion affidavit
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 7 CFR 210.1-210.33
-  - National School Lunch Program
-  - 7 CFR 220.1-220.21
-  - National School Breakfast Program
+  - 7 CFR 210.1-210.33 - National School Lunch Program
+  - 7 CFR 220.1-220.21 - National School Breakfast Program
   - 74
 
-Management Resources:
-  - CSBA Publication
-  - Student Wellness: A Healthy Food and Physical Activity Policy Resource
-  - Guide, April 2006
-  - Website
-  - Financial Crisis & Management Assistance Team
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
-  - Website
-  - California Association of School Business Officials
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1321 - Solicitation Of Funds From And By Students
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1700 - Relations Between Private Industry And The Schools
+  - 2121 - Superintendent's Contract
+  - 3000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3290 - Gifts, Grants And Bequests
+  - 3300 - Expenditures And Purchases
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3470 - Debt Issuance And Management
+  - 3511.1 - Integrated Waste Management
+  - 3511.1 - Integrated Waste Management
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3554 - Other Food Sales
+  - 3554 - Other Food Sales
+  - 3555 - Nutrition Program Compliance
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4112.23 - Special Education Staff
+  - 4112.4 - Health Examinations
+  - 4132 - Publication Or Creation Of Materials
+  - 4200 - Classified Personnel
+  - 4200 - Classified Personnel
+  - 5030 - Student Wellness
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5145.6 - Parent/Guardian Notifications
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 7140 - Architectural And Engineering Services
+  - 9000 - Role Of The Board
+  - 9124 - Attorney
+  - 9320 - Meetings And Notices
+  - 9322 - Agenda/Meeting Materials
+  - 9323 - Meeting Conduct

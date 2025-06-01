@@ -22,19 +22,29 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35010
-  - Control of district; prescription and enforcement of rules
-  - Gov. Code 54960
-  - Actions to stop or prevent violation of meeting provisions
-  - Gov. Code 54963
-  - Unauthorized disclosure of confidential information
-  - Gov. Code 7920.000-7930.170
-  - California Public Records Act
+  - Ed. Code 35010 - Control of district; prescription and enforcement of rules
+  - Gov. Code 54960 - Actions to stop or prevent violation of meeting provisions
+  - Gov. Code 54963 - Unauthorized disclosure of confidential information
+  - Gov. Code 7920.000-7930.170 - California Public Records Act
 
-Management Resources:
-  - Court Decision
-  - Lindke v. Freed (2024) 601 U.S. 187
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1160 - Political Processes
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2110 - Superintendent Responsibilities And Duties
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9121 - President
+  - 9140 - Board Representatives
+  - 9200 - Limits Of Board Member Authority
+  - 9230 - Orientation

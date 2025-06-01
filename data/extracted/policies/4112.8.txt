@@ -28,23 +28,18 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 7292.0-7292.6
-  - Marital status discrimination
-  - 2 CCR 7292.5
-  - Employee selection
-  - Ed. Code 35107
-  - School district employees
-  - Fam. Code 297-297.5
-  - Rights, protections, benefits under the law; registered domestic partners
-  - Gov. Code 1090-1098
-  - Prohibitions applicable to specified officers
-  - Gov. Code 12940
-  - Unlawful discriminatory employment practices
+  - 2 CCR 7292.0-7292.6 - Marital status discrimination
+  - 2 CCR 7292.5 - Employee selection
+  - Ed. Code 35107 - School district employees
+  - Fam. Code 297-297.5 - Rights, protections, benefits under the law; registered domestic partners
+  - Gov. Code 1090-1098 - Prohibitions applicable to specified officers
+  - Gov. Code 12940 - Unlawful discriminatory employment practices
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - League of California Cities
-  - Website
-  - California Civil Rights Department
+Cross References:
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 9270 - Conflict Of Interest

@@ -30,27 +30,21 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 44984
-  - Required rules for industrial accident and illness leave
-  - Ed. Code 45192
-  - Industrial accident and illness leave for classified employees
-  - Gov. Code 12900-12996
-  - Fair Employment and Housing Act
-  - Gov. Code 12945.1-12945.21
-  - California Family Rights Act
+  - Ed. Code 44984 - Required rules for industrial accident and illness leave
+  - Ed. Code 45192 - Industrial accident and illness leave for classified employees
+  - Gov. Code 12900-12996 - Fair Employment and Housing Act
+  - Gov. Code 12945.1-12945.21 - California Family Rights Act
 
 Federal References:
-  - 29 USC 2601-2654
-  - Family Care and Medical Leave Act
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
+  - 29 USC 2601-2654 - Family Care and Medical Leave Act
+  - 42 USC 12101-12213 - Americans with Disabilities Act
 
-Management Resources:
-  - Court Decision
-  - Raine v. City of Burbank (2006) 135 Cal.App.4th 1215
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Civil Rights Department
-  - Website
-  - Equal Employment Opportunity Commission
+Cross References:
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4032 - Reasonable Accommodation
+  - 4033 - Lactation Accommodation
+  - 4157.1 - Work-Related Injuries
+  - 4161.8 - Family Care And Medical Leave
+  - 4261.8 - Family Care And Medical Leave
+  - 4361.8 - Family Care And Medical Leave

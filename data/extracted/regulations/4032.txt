@@ -56,8 +56,7 @@ separateness, and the administrative or fiscal relationship of the facility invo
  
 5. The impact of the accommodation on the operation of the facility, including the impact on the ability of other
 employees to perform their duties and the impact on the facility's ability to conduct business.
-Board Policy Manual
-Redwood City School District
+
 
 Requests for Reasonable Accommodation
 The district designates the position specified in BP 4030 - Nondiscrimination in Employment as the coordinator of its
@@ -108,51 +107,42 @@ Any further appeal for reasonable accommodation shall be considered a complaint 
 employment and may be taken to the Board of Education in accordance with the district's procedure for such
 complaints.
 
-Policy Reference Disclaimer:
-
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - Civ. Code 51
-  - Unruh Civil Rights Act
-  - Gov. Code 12900-12996
-  - Fair Employment and Housing Act
+  - Civ. Code 51 - Unruh Civil Rights Act
+  - Gov. Code 12900-12996 - Fair Employment and Housing Act
 
 Federal References:
-  - 28 CFR 35.101-35.190
-  - Americans with Disabilities Act
-  - 28 CFR 35.107
-  - Nondiscrimination on basis of disability; complaints
-  - 28 CFR 36.101-36.608
-  - Nondiscrimination on the basis of disability by public facilities
-  - 29 CFR 1630.2
-  - Definitions
-  - 29 USC 701-794e
-  - Vocational Rehabilitation Act
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
+  - 28 CFR 35.101-35.190 - Americans with Disabilities Act
+  - 28 CFR 35.107 - Nondiscrimination on basis of disability; complaints
+  - 28 CFR 36.101-36.608 - Nondiscrimination on the basis of disability by public facilities
+  - 29 CFR 1630.2 - Definitions
+  - 29 USC 701-794e - Vocational Rehabilitation Act
+  - 42 USC 12101-12213 - Americans with Disabilities Act
   - 42 USC 2000ff-2000ff-11
   - Genetic Information Nondiscrimination Act of 2008
 
-Management Resources:
-  - Court Decision
-  - A.M. v. Albertsons, LLC (2009) Cal.App.4th 455
-  - Court Decision
-  - Chevron USA v. Echazabal (2002) 536 U.S. 73, 122 S.Ct. 2045
-  - Court Decision
-  - Colmenares v. Braemar Country Club, Inc. (2003) 29 Cal.4th 1019
-  - Court Decision
-  - US Airways, Inc. v. Barnett (2002) 535 U.S. 391, 122 S.Ct. 1516
-  - EEO Commission Publication
-  - Enforcement Guidance: Reasonable Accommodation and Undue Hardship
-  - under the Americans with Disabilities Act, October 2002
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Civil Rights Department
-  - Website
-  - U.S. Department of Education, Office for Civil Rights
-  - Website
-  - Equal Employment Opportunity Commission
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 2120 - Superintendent Recruitment And Selection
+  - 4020 - Drug And Alcohol-Free Workplace
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4033 - Lactation Accommodation
+  - 4040 - Employee Use Of Technology
+  - 4112.4 - Health Examinations
+  - 4112.6 - Personnel Files
+  - 4113.4 - Temporary Modified/Light-Duty Assignment
+  - 4119.41 - Employees With Infectious Disease
+  - 4157.1 - Work-Related Injuries
+  - 4159 - Employee Assistance Programs
+  - 4161.5 - Military Leave
+  - 4161.8 - Family Care And Medical Leave
+  - 4213.4 - Temporary Modified/Light-Duty Assignment
+  - 4261.5 - Military Leave
+  - 4261.8 - Family Care And Medical Leave
+  - 4361.5 - Military Leave
+  - 4361.8 - Family Care And Medical Leave

@@ -31,51 +31,26 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35183.1
-  - Graduation ceremonies; tribal regalia or recognized object of
-  - religious/cultural significance
-  - Ed. Code 35183.3
-  - Graduation ceremonies; military dress uniforms
-  - Ed. Code 38119
-  - Lease of personal property; caps and gowns
-  - Ed. Code 48904
-  - Liability of parent or guardian; withholding of grades, diplomas, transcripts
-  - Ed. Code 51225.5
-  - Honorary diplomas; foreign exchange and terminally ill students
-  - Ed. Code 51410-51413
-  - Diplomas
+  - Ed. Code 35183.1 - Graduation ceremonies; tribal regalia or recognized object of - religious/cultural significance
+  - Ed. Code 35183.3 - Graduation ceremonies; military dress uniforms
+  - Ed. Code 38119 - Lease of personal property; caps and gowns
+  - Ed. Code 48904 - Liability of parent or guardian; withholding of grades, diplomas, transcripts
+  - Ed. Code 51225.5 - Honorary diplomas; foreign exchange and terminally ill students
+  - Ed. Code 51410-51413 - Diplomas
 
 Management Resources:
-  - California Department of Education Publication
-  - Pupil Fees, Deposits and Other Charges, Fiscal Management Advisory 17-
-  - 01, July 28, 2017
-  - Court Decision
-  - Sands v. Morongo Unified School District (1991) 53 Cal. 3d 863
-  - Court Decision
-  - Santa Fe Independent School District v. Doe (2000) 530 U.S. 290
-  - Court Decision
-  - Workman v. Greenwood Community School Corporation (2010) Case No.
-  - 1:2010cv00293
-  - Court Decision
-  - Lee v. Weisman (1992) 505 U.S. 577
-  - Court Decision
-  - Lemon v. Kurtzman (1971) 403 U.S. 602
-  - Court Decision
-  - Cole v. Oroville Union High School District (2000, 9th Cir.) 228 F.3d 1092
-  - U.S. Department of Education Publication
-  - Guidance on Constitutionally Protected Prayer and Religious Expression in
-  - Public Elementary and Secondary Schools, May 2023
-  - Board Policy Manual
-  - Redwood City School District
-  - 137
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - AASA The School Superintendents Association
-  - Website
-  - Anti-Defamation League
-  - Website
-  - California Department of Education, High School
-  - Website
-  - U.S. Department of Education
-  - Management Resources
+  - 01, July 28, 2017 - Court Decision - Sands v. Morongo Unified School District (1991) 53 Cal. 3d 863 - Court Decision - Santa Fe Independent School District v. Doe (2000) 530 U.S. 290 - Court Decision - Workman v. Greenwood Community School Corporation (2010) Case No. - 1:2010cv00293 - Court Decision - Lee v. Weisman (1992) 505 U.S. 577 - Court Decision - Lemon v. Kurtzman (1971) 403 U.S. 602 - Court Decision - Cole v. Oroville Union High School District (2000, 9th Cir.) 228 F.3d 1092 - U.S. Department of Education Publication - Guidance on Constitutionally Protected Prayer and Religious Expression in - Public Elementary and Secondary Schools, May 2023 - Board Policy Manual - Redwood City School District
+  - 137 - Website - CSBA District and County Office of Education Legal Services - Website - AASA The School Superintendents Association - Website - Anti-Defamation League - Website - California Department of Education, High School - Website - U.S. Department of Education
+
+Cross References:
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5131 - Conduct
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs

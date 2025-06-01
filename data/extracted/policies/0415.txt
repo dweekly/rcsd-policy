@@ -57,30 +57,106 @@ The Board shall regularly monitor the intent and impact of district policies and
 disproportionate or unintentional impact on access to district programs and achievement goals for specific student
 populations in need of services.
 Supporting Documents
-Board Policy Manual
-Redwood City School District
-
-Policy Reference Disclaimer:
- BP 0415. Equity
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 4900-4965
-  - Nondiscrimination in elementary and secondary educational programs
-  - receiving state or
+  - 5 CCR 4900-4965 - Nondiscrimination in elementary and secondary educational programs - receiving state or federal financial assistance
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 60040 - Selection of instructional materials
+  - Gov. Code 11000 - Definitions
+  - Gov. Code 11135 - Prohibition of discrimination
+  - Pen. Code 422.55 - Definition of hate crime
+  - Pen. Code 422.6 - Crimes; harassment
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
   - 20 USC 2301-2414
   - Strengthening Career and Technical Education for the 21st Century Act
-  - 20 USC 6311
+  - 20 USC 6311 - State plan
+  - 20 USC 6312 - Local educational agency plan
+  - 28 CFR 35.101-35.190 - Americans with Disabilities Act
+  - 28 CFR 36.303 - Nondiscrimination on the basis of disability, public accommodations, - auxiliary aids, and services
+  - 29 USC 794
+  - Rehabilitation Act of 1973; Section 504
+  - 34 CFR 100.1-100.13 - Nondiscrimination in federal programs; effectuating Title VI
+  - 34 CFR 104.1-104.39
+  - Section 504 of the Rehabilitation Act of 1973
+  - 34 CFR 106.1-106.61 - Discrimination on the basis of sex; effectuating Title IX
+  - 42 USC 12101-12213 - Americans with Disabilities Act
+  - 42 USC 2000d-2000d-7 - Title VI, Civil Rights Act of 1964
+  - 42 USC 2000e-2000e-17 - Title VII, Civil Rights Act of 1964, as amended
 
 Management Resources:
-  - Center for Urban Education Publication
-  - Protocol for Assessing Equity-Mindedness in
+  - 2017
+  - 18 - CSBA Publication - African-American Students in Focus: Closing Opportunity and Achievement - Gaps for African-American Students, 2016 - CSBA Publication - African-American Students in Focus: Demographics and Achievement of - California's African-American Students, 2016 - Meeting California's Challenge - Access, Opportunity, and Achievement: Key Ingredients for Student - Success, 2017 - Website - CSBA District and County Office of Education Legal Services - Website - Center for Urban Education - Website - California Safe Schools Coalition - Website - California Department of Education
+
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 0400 - Comprehensive Plans
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1260 - Educational Foundation
+  - 1313 - Civility
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3290 - Gifts, Grants And Bequests
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4119.22 - Dress And Grooming
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4219.22 - Dress And Grooming
+  - 4231 - Staff Development
+  - 4319.22 - Dress And Grooming
+  - 4331 - Staff Development
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5137 - Positive School Climate
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.5 - Environmental Education
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 9310 - Board Policies

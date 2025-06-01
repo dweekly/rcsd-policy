@@ -31,11 +31,28 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35172
-  - Promotional activities
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35172 - Promotional activities
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 0100 - Philosophy
+  - 0510 - School Accountability Report Card
+  - 1112 - Media Relations
+  - 1150 - Commendations And Awards
+  - 1150 - Commendations And Awards
+  - 1160 - Political Processes
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 2120 - Superintendent Recruitment And Selection
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 9000 - Role Of The Board
+  - 9010 - Public Statements
+  - 9323 - Meeting Conduct

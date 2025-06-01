@@ -53,8 +53,7 @@ A temporary exemption shall not exceed one year, and all medical exemptions shal
 grade span. (Health and Safety Code 120372)
 If a student's medical exemption is revoked by CDPH on the basis that the exemption does not meet
 applicable criteria for medical exemptions, the student shall continue in attendance and, within 30 calendar
-Board Policy Manual
-Redwood City School District
+
 
 days of the revocation, commence the immunization schedule required for conditional admittance pursuant to
 17 CCR 6050, as described below. (Health and Safety Code 120372)
@@ -108,7 +107,7 @@ required immunization within 10 school days following the parent/guardian's rece
 The student shall remain excluded from school until documentation is provided indicating that the student has
 received a dose of each required vaccine due at that time. (17 CCR 6040, 6055)
 
-Policy Reference Disclaimer:
+
 The student shall also be reported to the attendance supervisor or principal.
 Exclusion Due to Exposure to Disease
 If the district has good cause to believe that a student has been exposed to a disease listed in the section "Required
@@ -135,58 +134,61 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 17 CCR 6000-6075
-  - School attendance immunization requirements
-  - 5 CCR 430
-  - Individual student records; definition
-  - Ed. Code 44871
-  - Qualifications of supervisor of health
-  - Ed. Code 46010
-  - Total days of attendance
-  - Ed. Code 48216
-  - Immunization and exclusion from attendance
-  - Ed. Code 48853.5
-  - Immediate enrollment of foster youth
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 49403
-  - Cooperation in control of communicable disease and immunizations
-  - Ed. Code 49426
-  - Duties of school nurses
-  - Ed. Code 49701
-  - Provisions of the Interstate Compact on Educational Opportunities for
-  - Military Children
-  - Ed. Code 51745
-  - Independent study
-  - H&S Code 120325-120380
-  - Immunization against communicable diseases
-  - H&S Code 120335
-  - Immunization requirement for admission
-  - H&S Code 120372
-  - Statewide medical exemption electronic standardized form
-  - H&S Code 120395
-  - Information about meningococcal disease, including recommendation for
-  - vaccination
-  - H&S Code 120440
-  - Disclosure of immunization information
+  - 17 CCR 6000-6075 - School attendance immunization requirements
+  - 5 CCR 430 - Individual student records; definition
+  - Ed. Code 44871 - Qualifications of supervisor of health
+  - Ed. Code 46010 - Total days of attendance
+  - Ed. Code 48216 - Immunization and exclusion from attendance
+  - Ed. Code 48853.5 - Immediate enrollment of foster youth
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 49403 - Cooperation in control of communicable disease and immunizations
+  - Ed. Code 49426 - Duties of school nurses
+  - Ed. Code 49701 - Provisions of the Interstate Compact on Educational Opportunities for - Military Children
+  - Ed. Code 51745 - Independent study - H&S Code 120325-120380 - Immunization against communicable diseases - H&S Code 120335 - Immunization requirement for admission - H&S Code 120372 - Statewide medical exemption electronic standardized form - H&S Code 120395 - Information about meningococcal disease, including recommendation for - vaccination - H&S Code 120440 - Disclosure of immunization information
   - 267
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
-  - 42 USC 11432
-  - Immediate enrollment of homeless children
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
+  - 42 USC 11432 - Immediate enrollment of homeless children
 
 Management Resources:
-  - California Department of Public Health PublicationCalifornia Immunization Handbook for Pre-kindergarten (Child Care)
-  - Programs and Schools, 10th Edition, July 2019
-  - California Department of Public Health PublicationVaccinations and Medical Exemptions Questions and Answers
-  - California Department of Public Health PublicationExemptions FAQs
-  - California Department of Public Health PublicationParents' Guide to Immunizations Required for School Entry
-  - California Department of Public Health PublicationParents' Guide to Immunizations Required for Pre-kindergarten (Child Care)
-  - California Department of Public Health PublicationGuide to Immunization Requirements for Pre-kindergarten (Child Care)
-  - California Department of Public Health PublicationGuide to Immunization Requirements for K-12th Grade
-  - Education Audit Appeals Panel Publication
-  - Guide for Annual Audits of K-12 Local Education Agencies and
+  - California Department of Public Health PublicationGuide to Immunization Requirements for K-12th Grade - Education Audit Appeals Panel Publication
+  - Guide for Annual Audits of K-12 Local Education Agencies and State - Compliance Reporting - U.S. Department of Education Guidance - Family Educational Rights and Privacy Act (FERPA) and H1N1, October
+  - 2009 - Website - CSBA District and County Office of Education Legal Services - Website - California Health & Human Services Agency - Website - California Department of Public Health, Shots for Schools - Website - Education Audit Appeals Panel - Website - U.S. Department of Education - Website - Centers for Disease Control and Prevention - Website - California Department of Education - Website - California Department of Public Health, Immunization Branch
+
+Cross References:
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 4119.41 - Employees With Infectious Disease
+  - 5030 - Student Wellness
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5112.1 - Exemptions From Attendance
+  - 5112.1 - Exemptions From Attendance
+  - 5112.2 - Exclusions From Attendance
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.6 - School Health Services
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6170.1 - Transitional Kindergarten
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program

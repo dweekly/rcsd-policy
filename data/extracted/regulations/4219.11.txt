@@ -53,8 +53,7 @@ descriptions, or the spreading of sexual rumors
 displaying sexually suggestive objects
  
 3. Unwelcome physical conduct such as massaging, grabbing, fondling, stroking, or brushing the body;
-Board Policy Manual
-Redwood City School District
+
 
 touching an individual's body or clothes in a sexual way; cornering, blocking, leaning over, or impeding
 normal movements
@@ -158,7 +157,7 @@ components on: (Government Code 12950)
 1. The illegality of sexual harassment
  
 
-Policy Reference Disclaimer:
+
 2. The definition of sexual harassment under applicable state and federal law
  
 3. A description of sexual harassment, with examples
@@ -192,46 +191,71 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 11006-11086
-  - Discrimination in employment
-  - 2 CCR 11009
-  - Employment discrimination
-  - 2 CCR 11021
-  - Discrimination in employment - retaliation
-  - 2 CCR 11023
-  - Harassment and discrimination prevention and correction
-  - 2 CCR 11024
-  - Required training and education on harassment based on sex, gender
-  - identity and expression, and sexual orientation
-  - 5 CCR 201
-  - Admission to high school
-  - 5 CCR 4900-4965
-  - Nondiscrimination in elementary and secondary educational programs
-  - receiving state or
+  - 2 CCR 11006-11086 - Discrimination in employment
+  - 2 CCR 11009 - Employment discrimination
+  - 2 CCR 11021 - Discrimination in employment - retaliation
+  - 2 CCR 11023 - Harassment and discrimination prevention and correction
+  - 2 CCR 11024 - Required training and education on harassment based on sex, gender - identity and expression, and sexual orientation
+  - 5 CCR 201 - Admission to high school
+  - 5 CCR 4900-4965 - Nondiscrimination in elementary and secondary educational programs - receiving state or federal financial assistance
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 220.1 - Prohibition of retaliation related to educational equity
+  - Ed. Code 220.3 - Prohibition of disclosure of information related to student’s sexual - orientation, gender identity, or gender expression
+  - Ed. Code 220.5 - Prohibition of policies requiring disclosure of information related to - student’s sexual orientation, gender identity, or gender expression
+  - Gov. Code 12900-12996 - Fair Employment and Housing Act
+  - Gov. Code 12940 - Unlawful discriminatory employment practices
+  - 276
+  - Gov. Code 12950 - Sexual harassment
+  - Gov. Code 12950.1 - Sexual harassment training
+  - Lab. Code 1101 - Political activities of employees
+  - Lab. Code 1102.1 - Discrimination: sexual orientation
+  - Lab. Code 1197.5 - Wages, hours, and working conditions
+  - Lab. Code 1197.5 - Wages, hours and working conditions
 
 Federal References:
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 29 CFR 1636
-  - Implementation of the Pregnant Workers Fairness Act
-  - 34 CFR 106.1-106.82
-  - Nondiscrimination on the basis of sex in education programs
-  - 42 USC 2000e-2000e-17
-  - Title VII, Civil Rights Act of 1964, as amended
-  - 42 USC 2000gg-2000gg-6
-  - Pregnant Workers Fairness Act
+  - 29 CFR 1636 - Implementation of the Pregnant Workers Fairness Act
+  - 34 CFR 106.1-106.82 - Nondiscrimination on the basis of sex in education programs
+  - 42 USC 2000e-2000e-17 - Title VII, Civil Rights Act of 1964, as amended
+  - 42 USC 2000gg-2000gg-6 - Pregnant Workers Fairness Act
 
 Management Resources:
-  - Court Decision
-  - Burlington Industries v. Ellreth (1998) 118 S.Ct. 2257
-  - Court Decision
-  - Department of Health Services v. Superior Court of California (2003) 31
-  - Cal.4th 1026
-  - Court Decision
-  - Faragher v. City of Boca Raton (1998) 118 S.Ct. 2275
-  - Court Decision
-  - Gebser v. Lago Vista Independent School District (1998) 118 S.Ct. 1989
-  - Court Decision
-  - Meritor Savings Bank, FSB v. Vinson et al. (1986) 447 U.S. 57
-  - Court Decision
-  - Oncale v. Sundowner Offshore Serv. Inc. (1998) 118 S.Ct. 998
+  - Cal.4th 1026 - Court Decision - Faragher v. City of Boca Raton (1998) 118 S.Ct. 2275 - Court Decision - Gebser v. Lago Vista Independent School District (1998) 118 S.Ct. 1989 - Court Decision - Meritor Savings Bank, FSB v. Vinson et al. (1986) 447 U.S. 57 - Court Decision - Oncale v. Sundowner Offshore Serv. Inc. (1998) 118 S.Ct. 998 - Federal Register - Nondiscrimination on the Basis of Sex in Education Programs or Activities - Receiving Federal Financial Assistance, April 29, 2024, Vol. 89, No. 83,
+  - pages 33474-33896 - U.S. Equal Employment Opportunity Com. - Publication - Promising Practices for Preventing Harassment, November 2017 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education - Website - California Civil Rights Department - Website - U.S. Department of Education, Office for Civil Rights - Website - Equal Employment Opportunity Commission
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4033 - Lactation Accommodation
+  - 4040 - Employee Use Of Technology
+  - 4112.9 - Employee Notifications
+  - 4117.7 - Employment Status Reports
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4119.22 - Dress And Grooming
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4219.21 - Professional Standards
+  - 4219.22 - Dress And Grooming
+  - 4231 - Staff Development
+  - 4300 - Administrative And Supervisory Personnel
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4319.21 - Professional Standards
+  - 4319.22 - Dress And Grooming
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students

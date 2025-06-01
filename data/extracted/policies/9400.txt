@@ -31,18 +31,15 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
 
 Management Resources:
-  - CSBA Publication
-  - Professional Governance Standards
-  - CSBA Publication
-  - Defining Governance, Issue 3: Governance Practices, Governance Brief,
-  - April 2014
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA Board Self-Evaluation
-  - Website
-  - CSBA
+  - April 2014 - Website - CSBA District and County Office of Education Legal Services - Website - CSBA Board Self-Evaluation - Website - CSBA
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 2140 - Evaluation Of The Superintendent
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9230 - Orientation
+  - 9320 - Meetings And Notices

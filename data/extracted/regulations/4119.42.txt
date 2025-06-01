@@ -54,8 +54,7 @@ d. Communication of hazards to employees, including labels, signs, information a
  
 e. Recordkeeping
  
-Board Policy Manual
-Redwood City School District
+
 
 3. The district's procedure for evaluating circumstances surrounding exposure incidents
  
@@ -162,7 +161,7 @@ Service
 5. Provide for counseling and evaluation of reported illnesses
 The Superintendent or designee shall provide the health care professional with a copy of 8 CCR 5193; a description
 
-Policy Reference Disclaimer:
+
 of the employee's duties as they relate to the exposure incident; documentation of the route(s) of exposure and
 circumstances under which exposure occurred; results of the source individual's blood testing, if available; and all
 medical records maintained by the district relevant to the appropriate treatment of the employee, including
@@ -196,36 +195,40 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 8 CCR 3204
-  - Access to employee exposure and medical records
-  - 8 CCR 5193
-  - Bloodborne pathogens
-  - Gov. Code 3543.2
-  - Scope of representation
-  - Lab. Code 142.3
-  - Authority of Cal/OSHA to adopt standards
-  - Lab. Code 144.7
-  - Requirement to amend standards
-  - Lab. Code 6401.7
-  - Injury and illness prevention program
+  - 8 CCR 3204 - Access to employee exposure and medical records
+  - 8 CCR 5193 - Bloodborne pathogens
+  - Gov. Code 3543.2 - Scope of representation
+  - Lab. Code 142.3 - Authority of Cal/OSHA to adopt standards
+  - Lab. Code 144.7 - Requirement to amend standards
+  - Lab. Code 6401.7 - Injury and illness prevention program
 
 Federal References:
-  - 29 CFR 1910.1030
-  - Bloodborne pathogens
+  - 29 CFR 1910.1030 - Bloodborne pathogens
 
 Management Resources:
-  - CA Department of Industrial Relations Publication A Best Practices Approach for Reducing Bloodborne Pathogens Exposure,
-  - 2001
-  - CA Department of Industrial Relations Publication Exposure Control Plan for Bloodborne Pathogens, 2001
-  - CA Department of Industrial Relations Publication Frequently Asked Questions About the Bloodborne Pathogens Standard
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - 156
-  - Website
-  - California Department of Industrial Relations, Occupational Safety and
-  - Health
-  - Website
-  - U.S. Department of Labor, Occupational Safety and Health Administration
-  - Website
-  - Centers for Disease Control and Prevention
-  - Management Resources
+  - 2001 - CA Department of Industrial Relations Publication Exposure Control Plan for Bloodborne Pathogens, 2001 - CA Department of Industrial Relations Publication Frequently Asked Questions About the Bloodborne Pathogens Standard - Website - CSBA District and County Office of Education Legal Services
+  - 156 - Website - California Department of Industrial Relations, Occupational Safety and - Health - Website - U.S. Department of Labor, Occupational Safety and Health Administration - Website - Centers for Disease Control and Prevention
+
+Cross References:
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4119.41 - Employees With Infectious Disease
+  - 4119.43 - Universal Precautions
+  - 4119.43 - Universal Precautions
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5142 - Safety
+  - 5142 - Safety
+  - 6142.93 - Science Instruction
+  - 9011 - Disclosure Of Confidential/Privileged Information

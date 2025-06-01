@@ -23,13 +23,32 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35031
-  - Term of employment
-  - Ed. Code 45100.5
-  - Senior classified
+  - Ed. Code 35031 - Term of employment
+  - Ed. Code 45100.5 - Senior classified management positions
+  - Ed. Code 45104.5 - Abolishment of senior classified management positions
+  - Ed. Code 45108.5 - Definition of senior classified management employees
+  - Ed. Code 45108.7
+  - Waiver of provisions of Education Code 45108.5
+  - Ed. Code 45128 - Overtime
+  - Ed. Code 45130 - Exclusion from overtime provisions
+  - Ed. Code 45256.5 - Designation of certain senior classified management positions
+  - Gov. Code 3540 - Purpose
+  - Gov. Code 3540.1 - Public employment; definitions
+  - Gov. Code 3543.4 - Management and confidential positions; representation
+  - Gov. Code 3545 - Appropriateness of unit; basis
 
-Management Resources:
-  - Court Decision
-  - Auer v. Robbins (1997) 117 S.Ct. 905
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 2000 - Concepts And Roles
+  - 4000 - Concepts And Roles
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4140 - Bargaining Units
+  - 4154 - Health And Welfare Benefits
+  - 4161 - Leaves
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4261 - Leaves
+  - 4313.2 - Demotion/Reassignment
+  - 4314 - Transfers
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment

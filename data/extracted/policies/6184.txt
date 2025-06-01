@@ -27,51 +27,91 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11000-11010
-  - Continuation education
-  - Ed. Code 46170
-  - Continuation schools; minimum day
-  - Ed. Code 48400
-  - Weekly minimum attendance requirement
-  - Ed. Code 48400-48454
-  - Compulsory continuation education
-  - Ed. Code 48402
-  - Enrollment in continuation education; minors not regularly employed
-  - Ed. Code 48410-48416
-  - Compulsory continuation education; exempt students
-  - Ed. Code 48430-48438
-  - Continuation classes
-  - Ed. Code 48450-48454
-  - Violations
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Ed. Code 48900.5
-  - Suspension, limitation on imposition; exception
-  - Ed. Code 48903
-  - Limitations on days of suspension
-  - Ed. Code 51220-51230
-  - Courses of study; graduation requirements
-  - Fam. Code 7000-7002
-  - Emancipation of minors law
-  - Fam. Code 7050
-  - Purposes for which emancipated minor considered an adult
+  - 5 CCR 11000-11010 - Continuation education
+  - Ed. Code 46170 - Continuation schools; minimum day
+  - Ed. Code 48400 - Weekly minimum attendance requirement
+  - Ed. Code 48400-48454 - Compulsory continuation education
+  - Ed. Code 48402 - Enrollment in continuation education; minors not regularly employed
+  - Ed. Code 48410-48416 - Compulsory continuation education; exempt students
+  - Ed. Code 48430-48438 - Continuation classes
+  - Ed. Code 48450-48454 - Violations
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48900.5 - Suspension, limitation on imposition; exception
+  - Ed. Code 48903 - Limitations on days of suspension
+  - Ed. Code 51220-51230 - Courses of study; graduation requirements
+  - Fam. Code 7000-7002 - Emancipation of minors law
+  - Fam. Code 7050 - Purposes for which emancipated minor considered an adult
 
 Management Resources:
-  - Court Decision
-  - Nathan G. v. Clovis Unified School District (2014) 224 Cal.App.5th 1393
-  - John W. Gardner Center Publication
-  - Raising the Bar, Building Capacity: Driving Improvement in California's
-  - Continuation High Schools, May 2012
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Continuation Education Association
-  - Website
-  - John W. Gardner Center for Youth and Their Communities, Stanford School
-  - of Education
-  - Board Policy Manual
-  - Redwood City School District
-  - 340
-  - Website
-  - California Department of Education
-  - Management Resources
+  - 340 - Website - California Department of Education
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5030 - Student Wellness
+  - 5112.1 - Exemptions From Attendance
+  - 5112.1 - Exemptions From Attendance
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5136 - Gangs
+  - 5136 - Gangs
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.6 - School Health Services
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.6 - Parent/Guardian Notifications
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5147 - Dropout Prevention
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6111 - School Calendar
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6152 - Class Assignment
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6162.5 - Student Assessment
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6172 - Gifted And Talented Student Program
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6183 - Home And Hospital Instruction
+  - 6190 - Evaluation Of The Instructional Program

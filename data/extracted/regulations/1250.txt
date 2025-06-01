@@ -51,44 +51,54 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32210
-  - Willful disturbance of public school or meeting
-  - Ed. Code 32211
-  - Threatened disruption or interference with classes
-  - Ed. Code 32212
-  - Classroom interruptions
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 32210 - Willful disturbance of public school or meeting
+  - Ed. Code 32211 - Threatened disruption or interference with classes
+  - Ed. Code 32212 - Classroom interruptions - Board Policy Manual - Redwood City School District
   - 70
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35292
-  - Visits to schools (Board members)
-  - Ed. Code 49091.10
-  - Parental right to inspect instructional materials and observe school activities
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35292 - Visits to schools (Board members)
+  - Ed. Code 49091.10 - Parental right to inspect instructional materials and observe school activities
   - Ed. Code 51101
   - Parents Rights Act of 2002
-  - Ed. Code 51512
-  - Prohibited use of electronic listening or recording device
-  - Evid. Code 1070
-  - Refusal to disclose news source
-  - Lab. Code 230.8
-  - Discharge or discrimination for taking time off to participate in child's
-  - educational activities
-  - Pen. Code 290
-  - Sex offenders
-  - Pen. Code 626-626.11
-  - Weapons on school grounds and other school crimes
-  - Pen. Code 626.81
-  - Misdemeanor for registered sex offender to come onto school grounds
-  - Pen. Code 627-627.10
-  - Access to school premises
-  - State
+  - Ed. Code 51512 - Prohibited use of electronic listening or recording device
+  - Evid. Code 1070 - Refusal to disclose news source
+  - Lab. Code 230.8 - Discharge or discrimination for taking time off to participate in child's - educational activities
+  - Pen. Code 290 - Sex offenders
+  - Pen. Code 626-626.11 - Weapons on school grounds and other school crimes
+  - Pen. Code 626.81 - Misdemeanor for registered sex offender to come onto school grounds
+  - Pen. Code 627-627.10 - Access to school premises
 
 Management Resources:
-  - Attorney General Opinion
-  - 95 Ops.Cal.Atty.Gen. 509 (1996)
-  - Court Decision
-  - Reeves v. Rocklin Unified School District (2003) 109 Cal.App.4th 652
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - 95 Ops.Cal.Atty.Gen. 509 (1996) - Court Decision - Reeves v. Rocklin Unified School District (2003) 109 Cal.App.4th 652 - Website - CSBA District and County Office of Education Legal Services
+
+Cross References:
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1313 - Civility
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3515.5 - Sex Offender Notification
+  - 3515.5 - Sex Offender Notification
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6116 - Classroom Interruptions
+  - 6116 - Classroom Interruptions

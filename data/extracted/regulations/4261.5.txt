@@ -54,8 +54,7 @@ An employee may elect to continue health plan coverage during the military leave
 employee and any dependents shall be either 24 months from the beginning of the leave or until the day after the employee
 fails to apply for or return to employment, whichever is less. (38 USC 4317; 20 CFR 1002.164)
 An employee on military leave may be required to pay the employee cost, if any, of any funded benefit to the extent that
-Board Policy Manual
-Redwood City School District
+
 
 other employees on leave are so required. (38 USC 4316)
 An employee absent for 30 days or fewer shall not be required to pay more than the employee share for such coverage. An
@@ -105,7 +104,7 @@ transportation to the employee's residence.
  
 2. For a leave of 31-180 days, the employee shall submit a written or verbal application for reinstatement not later than
 
-Policy Reference Disclaimer:
+
 14 days after the completion of military service.
  
 3. For a leave of more than 180 days, the employee shall submit a written or verbal application for reinstatement within
@@ -152,34 +151,22 @@ granted military leave and of the district under the Uniformed Services Employme
 38 USC 4301-4334. (38 USC 4334)
 This requirement may be met by posting the notice where the district customarily places notices for employees. (38 USC
 4334)
+These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
+for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
+of the policy.
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 22850-22856
-  - Pension benefits; STRS members on military leave
-  - Ed. Code 44018
-  - Compensation for employees on active military duty
-  - Ed. Code 44800
-  - Effect of active military service on status of employees
-  - Ed. Code 45059
-  - Employee ordered to active military/naval duty; computation of salary
-  - Gov. Code 18540
-  - Definition of armed forces
-  - Gov. Code 18540.3
-  - Recognized military service
-  - Gov. Code 20990-21013
-  - Pension benefits; PERS members on military leave
-  - M&V Code 146
-  - Events justifying calling of militia into active service
-  - M&V Code 389
-  - Definitions; temporary military leave
-  - M&V Code 394
-  - Nondiscrimination based on military service
-  - M&V Code 395-395.9
-  - Military leave
+  - Ed. Code 22850-22856 - Pension benefits; STRS members on military leave
+  - Ed. Code 44018 - Compensation for employees on active military duty
+  - Ed. Code 44800 - Effect of active military service on status of employees
+  - Ed. Code 45059 - Employee ordered to active military/naval duty; computation of salary
+  - Gov. Code 18540 - Definition of armed forces
+  - Gov. Code 18540.3 - Recognized military service
+  - Gov. Code 20990-21013 - Pension benefits; PERS members on military leave - M&V Code 146 - Events justifying calling of militia into active service - M&V Code 389 - Definitions; temporary military leave - M&V Code 394 - Nondiscrimination based on military service - M&V Code 395-395.9 - Military leave
 
 Federal References:
   - 20 CFR 1002.1-1002.314
@@ -188,26 +175,18 @@ Federal References:
   - Uniformed Services Employment and Reemployment Rights Act of 1994
 
 Management Resources:
-  - Attorney General Opinion
-  - 18 Ops.Cal.Atty.Gen. 178 (1951)
-  - Attorney General Opinion
-  - 63 Ops.Cal.Atty.Gen. 924 (1978)
-  - Attorney General Opinion
-  - 69 Ops.Cal.Atty.Gen. 290 (1986)
-  - Attorney General Opinion
-  - 77 Ops.Cal.Atty.Gen. 56 (1994)
-  - Court Decision
-  - Bowers v. San Buenaventura (1977) 75 Cal. App.3d 65
-  - Court Decision
-  - Wright v. City of Santa Clara (1989) 213 Cal. App.3d 1503
-  - U.S. Department of Labor Publication
-  - A Non-Technical Resource Guide to the Uniformed Services Employment
-  - and Reemployment Rights Act (USERRA), rev. April 2005
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Committee for Employer Support of the Guard and Reserve
-  - Website
-  - U.S. Department of Labor, USERRA
-  - Website
-  - National School Boards Association
+  - 18 Ops.Cal.Atty.Gen. 178 (1951) - Attorney General Opinion
+  - 63 Ops.Cal.Atty.Gen. 924 (1978) - Attorney General Opinion
+  - 69 Ops.Cal.Atty.Gen. 290 (1986) - Attorney General Opinion
+  - 77 Ops.Cal.Atty.Gen. 56 (1994) - Court Decision - Bowers v. San Buenaventura (1977) 75 Cal. App.3d 65 - Court Decision - Wright v. City of Santa Clara (1989) 213 Cal. App.3d 1503 - U.S. Department of Labor Publication - A Non-Technical Resource Guide to the Uniformed Services Employment - and Reemployment Rights Act (USERRA), rev. April 2005 - Website - CSBA District and County Office of Education Legal Services - Website - National Committee for Employer Support of the Guard and Reserve - Website - U.S. Department of Labor, USERRA - Website - National School Boards Association
+
+Cross References:
+  - 2121 - Superintendent's Contract
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4032 - Reasonable Accommodation
+  - 4112.9 - Employee Notifications
+  - 4116 - Probationary/Permanent Status
+  - 4116 - Probationary/Permanent Status
+  - 4161 - Leaves
+  - 4261 - Leaves

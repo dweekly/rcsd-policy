@@ -23,43 +23,53 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 49061
-  - Definitions; directory information
-  - Ed. Code 49063
-  - Notification of parents of their rights
-  - Ed. Code 49073
-  - Release of directory information
-  - Ed. Code 49073.5
-  - Directory information; military representatives; telephone numbers
-  - Ed. Code 49603
-  - On campus access to employers and military services
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 49061 - Definitions; directory information
+  - Ed. Code 49063 - Notification of parents of their rights
+  - Ed. Code 49073 - Release of directory information
+  - Ed. Code 49073.5 - Directory information; military representatives; telephone numbers
+  - Ed. Code 49603 - On campus access to employers and military services
 
 Federal References:
-  - 10 USC 503
-  - Military recruiter access to directory information
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 7908
-  - Armed forces recruiter access to students and student recruiting
-  - information
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
-  - 42 USC 11434a
-  - McKinney-Vento Homeless Assistance Act; definitions
+  - 10 USC 503 - Military recruiter access to directory information
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 7908 - Armed forces recruiter access to students and student recruiting - information
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
+  - 42 USC 11434a - McKinney-Vento Homeless Assistance Act; definitions
 
-Management Resources:
-  - CA Office of the Attorney General Publication
-  - Promoting a Safe and Secure Learning Environment for All: Guidance and
-  - Model Policies to Assist California's K-12 Schools in Responding to
-  - Immigration Issues, December 2024
-  - U.S. Department of Education Publication
-  - Access to High School Students and Information on Students by Military
-  - Recruiters, 2002
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Attorney General's Office
-  - Website
-  - U.S. Department of Education, Office of the Chief Privacy Officer
+Cross References:
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1260 - Educational Foundation
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4040 - Employee Use Of Technology
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4135 - Soliciting And Selling
+  - 4219.21 - Professional Standards
+  - 4319.21 - Professional Standards
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5145.12 - Search And Seizure
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 6164.2 - Guidance/Counseling Services
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 9324 - Minutes And Recordings

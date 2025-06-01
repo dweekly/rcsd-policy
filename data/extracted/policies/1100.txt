@@ -53,46 +53,88 @@ professionals, child care providers, senior citizens, community leaders, state o
 other segments of the public.
 The Superintendent or designee shall annually evaluate the implementation and effectiveness of the district's
 communications plan and recommend to the Board whether the goals and key issues identified in the plan need to be
-Board Policy Manual
-Redwood City School District
-
-Policy Reference Disclaimer:
-revised to meet changing circumstances or priorities.
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 18901.1
-  - Campaign related mailings sent at public expense
-  - Ed. Code 35145.5
-  - Board meetings; public participation
-  - Ed. Code 35172
-  - Promotional activities
-  - Ed. Code 38130-38139
-  - Civic Center Act
-  - Ed. Code 48980-48985
-  - Parent/Guardian notifications
-  - Ed. Code 7054
-  - Use of district property or funds re: ballot measures and candidates
-  - Gov. Code 54957.5
-  - Meeting agendas and materials
-  - Gov. Code 82041.5
-  - Mass mailing
-  - Gov. Code 89001-89003
-  - Newsletter or mass mailing
+  - 2 CCR 18901.1 - Campaign related mailings sent at public expense
+  - Ed. Code 35145.5 - Board meetings; public participation
+  - Ed. Code 35172 - Promotional activities
+  - Ed. Code 38130-38139 - Civic Center Act
+  - Ed. Code 48980-48985 - Parent/Guardian notifications
+  - Ed. Code 7054 - Use of district property or funds re: ballot measures and candidates
+  - Gov. Code 54957.5 - Meeting agendas and materials
+  - Gov. Code 82041.5 - Mass mailing
+  - Gov. Code 89001-89003 - Newsletter or mass mailing
 
 Federal References:
-  - 28 CFR 35.101-35.190
-  - Americans with Disabilities Act
+  - 28 CFR 35.101-35.190 - Americans with Disabilities Act
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California School Public Relations Association
-  - Website
-  - Fair Political Practices Commission
-  - Website
-  - CSBA
+Cross References:
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0510 - School Accountability Report Card
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1160 - Political Processes
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1260 - Educational Foundation
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 2111 - Superintendent Governance Standards
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3555 - Nutrition Program Compliance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4040 - Employee Use Of Technology
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4231 - Staff Development
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 4331 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 6000 - Concepts And Roles
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9010 - Public Statements
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9322 - Agenda/Meeting Materials
+  - 9323 - Meeting Conduct

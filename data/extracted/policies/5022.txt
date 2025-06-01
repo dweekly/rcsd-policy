@@ -36,41 +36,66 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 49076.7
-  - Privacy of student records; social security numbers
-  - Ed. Code 49450-49458
-  - Physical examinations of students
-  - Ed. Code 49602
-  - Counseling and confidentiality of student information
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 49076.7 - Privacy of student records; social security numbers
+  - Ed. Code 49450-49458 - Physical examinations of students
+  - Ed. Code 49602 - Counseling and confidentiality of student information
   - Ed. Code 51101
   - Parents Rights Act of 2002
-  - Ed. Code 51513
-  - Test, questionnaire, survey, or examination concerning personal beliefs
-  - Ed. Code 51514
-  - Nonremoval of survey questions pertaining to sexual orientation or gender
-  - identity
-  - Ed. Code 51938
-  - Sexual Health and HIV/AIDS Prevention Education Act; notice and parental
-  - excuse
+  - Ed. Code 51513 - Test, questionnaire, survey, or examination concerning personal beliefs
+  - Ed. Code 51514 - Nonremoval of survey questions pertaining to sexual orientation or gender - identity
+  - Ed. Code 51938 - Sexual Health and HIV/AIDS Prevention Education Act; notice and parental - excuse
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1232h
-  - Privacy rights
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1232h - Privacy rights
 
 Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - U.S. Department of Education, Office of the Chief Privacy Officer
-  - Board Policy Manual
-  - Redwood City School District
-  - 15
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
-  - Management Resources
+  - 15 - Website - California Department of Education - Website - CSBA
+
+Cross References:
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1321 - Solicitation Of Funds From And By Students
+  - 3290 - Gifts, Grants And Bequests
+  - 3555 - Nutrition Program Compliance
+  - 4135 - Soliciting And Selling
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5021 - Noncustodial Parents
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.6 - School Health Services
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5142.1 - Identification And Reporting Of Missing Children
+  - 5145.6 - Parent/Guardian Notifications
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6162.8 - Research
+  - 6162.8 - Research
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams

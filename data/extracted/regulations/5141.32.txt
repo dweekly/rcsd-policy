@@ -53,10 +53,9 @@ notification shall, at a minimum, consist of a letter that includes all of the f
  
 3. Information on the importance of oral health to overall health and to learning
  
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 4. A toll-free telephone number to request an application for Healthy Families, Medi-Cal, or other government-
 subsidized health insurance programs
  
@@ -84,47 +83,44 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 17 CCR 6800-6874
-  - Child Health and Disability Prevention program; health assessments
-  - 5 CCR 432
-  - Student records
-  - Ed. Code 48985
-  - Notices to parents in language other than English
-  - Ed. Code 49060-49079
-  - Student records
-  - Ed. Code 49452.8
-  - Oral health assessment
-  - H&S Code 104395
-  - Child Health and Disability Prevention Program expansion
-  - H&S Code 124025-124110
-  - Child Health and Disability Prevention Program
-  - H&S Code 124085
-  - Certificate documenting health screening and evaluation services; waiver by
-  - parent/guardian
-  - H&S Code 124100
-  - Distribution of program information to parents/guardians of kindergarten
-  - children
-  - H&S Code 124105
-  - Exclusions and exemption; legislative intent of notification contents
+  - 17 CCR 6800-6874 - Child Health and Disability Prevention program; health assessments
+  - 5 CCR 432 - Student records
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 49452.8 - Oral health assessment - H&S Code 104395 - Child Health and Disability Prevention Program expansion - H&S Code 124025-124110 - Child Health and Disability Prevention Program - H&S Code 124085 - Certificate documenting health screening and evaluation services; waiver by - parent/guardian - H&S Code 124100 - Distribution of program information to parents/guardians of kindergarten - children - H&S Code 124105 - Exclusions and exemption; legislative intent of notification contents
 
 Management Resources:
-  - CDHC Services Publication
-  - Child Health & Disability Prevention (CHDP) Program: Oral Health
-  - Educational Resources for Children and Teens (6-20 years), rev. July 2013
-  - CDHC Services Publication
-  - CHDP School Handbook: School Entry Health Examination Requirements,
-  - rev. January 2006
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Dental Association
-  - Website
-  - California Department of Education, Health Services and School Nursing
-  - 271
-  - Website
-  - California DHCS, Child Health and Disability Prevention Program
-  - Website
-  - California Healthy Kids Resource Center
-  - Website
-  - CSBA
-  - Management Resources
+  - rev. January 2006 - Website - CSBA District and County Office of Education Legal Services - Website - California Dental Association - Website - California Department of Education, Health Services and School Nursing
+  - 271 - Website - California DHCS, Child Health and Disability Prevention Program - Website - California Healthy Kids Resource Center - Website - CSBA
+
+Cross References:
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5030 - Student Wellness
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5112.2 - Exclusions From Attendance
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.26 - Tuberculosis Testing
+  - 5141.26 - Tuberculosis Testing
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.6 - School Health Services
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6170.1 - Transitional Kindergarten
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program

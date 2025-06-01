@@ -59,8 +59,7 @@ they have been the victim of any discriminatory or harassing behavior
 including what constitutes unlawful discrimination, harassment, and retaliation and how and to whom a report
 of an incident should be made 
 The district may also provide bystander intervention training to employees that includes information and
-Board Policy Manual
-Redwood City School District
+
 
 practical guidance on how to recognize potentially problematic behaviors and motivates them to take action
 when they observe such behaviors. The training and education may include exercises to provide employees
@@ -113,7 +112,7 @@ The coordinator shall ensure that such interim measures do not constitute retali
  
 3. Written Report on Findings and Remedial/Corrective Action: No more than 20 business days after receiving
 
-Policy Reference Disclaimer:
+
 the complaint, the coordinator shall conclude the investigation and prepare a written report of the findings.
 This timeline may be extended for good cause. If an extension is needed, the coordinator shall notify the
 parties and explain the reasons for the extension. 
@@ -150,89 +149,113 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 11006-11086
-  - Discrimination in employment
-  - 2 CCR 11023
-  - Harassment and discrimination prevention and correction
-  - 2 CCR 11024
-  - Required training and education on harassment based on sex, gender
-  - identity and expression, and sexual orientation
-  - 2 CCR 11027-11028
-  - National origin and ancestry discrimination
-  - 5 CCR 4900-4965
-  - Nondiscrimination in elementary and secondary educational programs
-  - receiving state or
+  - 2 CCR 11006-11086 - Discrimination in employment
+  - 2 CCR 11023 - Harassment and discrimination prevention and correction
+  - 2 CCR 11024 - Required training and education on harassment based on sex, gender - identity and expression, and sexual orientation
+  - 2 CCR 11027-11028 - National origin and ancestry discrimination
+  - 5 CCR 4900-4965 - Nondiscrimination in elementary and secondary educational programs - receiving state or federal financial assistance
+  - CA Constitution Article 1, Section 1 - Inalienable rights
+  - Civ. Code 51.7 - Freedom from violence or intimidation
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Gov. Code 11135 - Prohibition of discrimination
+  - Gov. Code 12900-12996 - Fair Employment and Housing Act
+  - Gov. Code 12940-12954 - Unlawful employment practices
+  - Gov. Code 12960-12976 - Unlawful employment practices; complaints
+  - 16
+  - Lab. Code 1030-1034 - Lactation accommodation
+  - Lab. Code 1197.5 - Wages, hours, and working conditions
+  - Lab. Code 1197.5 - Wages, hours and working conditions
+  - Lab. Code 79-107 - Division of Labor Standards Enforcement
+  - Pen. Code 422.56 - Definitions; hate crimes
 
 Federal References:
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 28 CFR 35.101-35.190
-  - Americans with Disabilities Act
-  - 29 CFR 1636
-  - Implementation of the Pregnant Workers Fairness Act
-  - 29 USC 218d
-  - Fair Labor Standards Act; Providing Urgent Maternal Protections for
-  - Nursing Mothers (PUMP) Act
-  - 29 USC 621-634
-  - Age Discrimination in Employment Act
+  - 28 CFR 35.101-35.190 - Americans with Disabilities Act
+  - 29 CFR 1636 - Implementation of the Pregnant Workers Fairness Act
+  - 29 USC 218d - Fair Labor Standards Act; Providing Urgent Maternal Protections for - Nursing Mothers (PUMP) Act
+  - 29 USC 621-634 - Age Discrimination in Employment Act
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 100.6
-  - Title VI; Compliance information
+  - 34 CFR 100.6 - Title VI; Compliance information
   - 34 CFR 104.7
-  - Section 504; Designation of responsible employee and adoption of
-  - grievances procedures
-  - 34 CFR 104.8
-  - Notice of Nondiscrimination on the Basis of Handicap
-  - 34 CFR 106.1-106.82
-  - Discrimination on the basis of sex; effectuating Title IX
-  - 34 CFR 110.1-110.39
-  - Nondiscrimination on the basis of age
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
-  - 42 USC 2000d-2000d-7
-  - Title VI, Civil Rights Act of 1964
-  - 42 USC 2000e-2000e-17
-  - Title VII, Civil Rights Act of 1964, as amended
+  - Section 504; Designation of responsible employee and adoption of - grievances procedures
+  - 34 CFR 104.8 - Notice of Nondiscrimination on the Basis of Handicap
+  - 34 CFR 106.1-106.82 - Discrimination on the basis of sex; effectuating Title IX
+  - 34 CFR 110.1-110.39 - Nondiscrimination on the basis of age
+  - 42 USC 12101-12213 - Americans with Disabilities Act
+  - 42 USC 2000d-2000d-7 - Title VI, Civil Rights Act of 1964
+  - 42 USC 2000e-2000e-17 - Title VII, Civil Rights Act of 1964, as amended
   - 42 USC 2000ff-2000ff-11
   - Genetic Information Nondiscrimination Act of 2008
-  - 42 USC 2000gg-2000gg-6
-  - Pregnant Workers Fairness Act
+  - 42 USC 2000gg-2000gg-6 - Pregnant Workers Fairness Act
   - 42 USC 2000h-2-2000h-6
   - Title IX of the Civil Rights Act of 1964
-  - 42 USC 6101-6107
-  - Age discrimination in federally assisted programs
-  - Executive Order 11246
-  - Equal Employment Opportunity
-  - U.S. Constitution, First Amendment
-  - Free exercise, free speech, and establishment clauses
+  - 42 USC 6101-6107 - Age discrimination in federally assisted programs
+  - Executive Order 11246 - Equal Employment Opportunity - U.S. Constitution, First Amendment - Free exercise, free speech, and establishment clauses
 
 Management Resources:
-  - CA Civil Rights Department Publication
-  - Sexual Harassment, January 2023
-  - CA Civil Rights Department Publication
-  - Family Care and Medical Leave and Pregnancy Disability Leave, January
-  - 2023
-  - CA Civil Rights Department Publication
-  - California Law Prohibits Workplace Discrimination and Harassment, January
-  - 2024
-  - CA Civil Rights Department Publication
-  - The Rights of Employees Who Are Transgender or Gender Nonconforming:
-  - Fact Sheet, November 2022
-  - CA Civil Rights Department Publication
-  - Harassment Prevention Guide for California Employers, 2017
-  - CA Civil Rights Department Publication
-  - Your Rights and Obligations as a Pregnant Employee, January 2023
-  - Court Decision
-  - Burlington Industries, Inc v. Ellerth (1998) 524 U.S. 742
-  - Court Decision
-  - Faragher-Ellerth v. City of Boca Raton (1998) 524 U.S. 775
-  - Court Decision
-  - Groff v. DeJoy (2023) 600 U.S. 447
-  - 17
-  - Court Decision
-  - Kennedy v. Bremerton (2022) 142 S.Ct. 2407
-  - Court Decision
-  - Shephard v. Loyola Marymount (2002) 102 Cal.App. 4th 837
-  - Court Decision
-  - Thomson v. North American Stainless LP (2011) 62 U.S. 170
+  - 2023 - CA Civil Rights Department Publication - California Law Prohibits Workplace Discrimination and Harassment, January
+  - 2024 - CA Civil Rights Department Publication - The Rights of Employees Who Are Transgender or Gender Nonconforming: - Fact Sheet, November 2022 - CA Civil Rights Department Publication - Harassment Prevention Guide for California Employers, 2017 - CA Civil Rights Department Publication - Your Rights and Obligations as a Pregnant Employee, January 2023 - Court Decision - Burlington Industries, Inc v. Ellerth (1998) 524 U.S. 742 - Court Decision - Faragher-Ellerth v. City of Boca Raton (1998) 524 U.S. 775 - Court Decision - Groff v. DeJoy (2023) 600 U.S. 447
+  - 17 - Court Decision - Kennedy v. Bremerton (2022) 142 S.Ct. 2407 - Court Decision - Shephard v. Loyola Marymount (2002) 102 Cal.App. 4th 837 - Court Decision - Thomson v. North American Stainless LP (2011) 62 U.S. 170 - Federal Register - Nondiscrimination on the Basis of Sex in Education Programs or Activities - Receiving Federal Financial Assistance, April 29, 2024, Vol. 89, No. 83,
+  - pages 33474-33896 - U.S. Department of Education Publication - Guidance on Constitutionally Protected Prayer and Religious Expression in - Public Elementary and Secondary Schools, May 2023 - U.S. Equal Employment Opportunity Comm - Publication - Know Your Rights: Workplace Discrimination is Illegal, June 2023 - U.S. Equal Employment Opportunity Comm - Publication - Enforcement Guidance on Harassment in the Workplace, April 2024 - U.S. Equal Employment Opportunity Comm - Publication - EEOC Compliance Manual - Website - U.S. Department of Labor, Office of Federal Contract Compliance Program - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Industrial Relations - Website - California Civil Rights Department - Website - U.S. Department of Education, Office for Civil Rights - Website - Equal Employment Opportunity Commission
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 3312 - Contracts
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4000 - Concepts And Roles
+  - 4032 - Reasonable Accommodation
+  - 4033 - Lactation Accommodation
+  - 4112.4 - Health Examinations
+  - 4112.5 - Criminal Record Check
+  - 4112.6 - Personnel Files
+  - 4112.8 - Employment Of Relatives
+  - 4112.9 - Employee Notifications
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.1 - Civil And Legal Rights
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.22 - Dress And Grooming
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4119.41 - Employees With Infectious Disease
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4151 - Employee Compensation
+  - 4154 - Health And Welfare Benefits
+  - 4161.5 - Military Leave
+  - 4161.8 - Family Care And Medical Leave
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.1 - Civil And Legal Rights
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4219.22 - Dress And Grooming
+  - 4231 - Staff Development
+  - 4261.5 - Military Leave
+  - 4261.8 - Family Care And Medical Leave
+  - 4319.1 - Civil And Legal Rights
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4319.22 - Dress And Grooming
+  - 4331 - Staff Development
+  - 4361.5 - Military Leave
+  - 4361.8 - Family Care And Medical Leave
+  - 9000 - Role Of The Board

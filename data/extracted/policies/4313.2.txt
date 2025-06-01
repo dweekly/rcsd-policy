@@ -12,45 +12,25 @@ upon the recommendation of the Superintendent or designee and when such action i
 interest of the district.
 The Superintendent or designee shall ensure that the district complies with all applicable statutory deadlines and due
 process procedures when an employee is to be demoted or reassigned.
-These references are not intended to be part of the policy itself, nor do they indicate the basis or authority
-for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter
-of the policy.
-State
-Description
-Ed. Code 35031
-Term of employment
-Ed. Code 44660-44665
-Evaluation and assessment of performance of certificated employees
-Ed. Code 44850.1
-No tenure in administrative or supervisory position
-Ed. Code 44896
-Transfer of administrator or supervisor to teaching position
-Ed. Code 44897
-Classification of administrator or supervisor to a teaching position
-Ed. Code 44951
-Continuation in position unless notified; administrative or supervisory
-personnel
-Ed. Code 45101
-Definitions; disciplinary action and cause
-Ed. Code 45113
-Notification of charges; classified employees
 
 ================================================================================
 REFERENCES
 ================================================================================
 
+State References:
+  - Ed. Code 35031 - Term of employment
+  - Ed. Code 44660-44665 - Evaluation and assessment of performance of certificated employees
+  - Ed. Code 44850.1 - No tenure in administrative or supervisory position
+  - Ed. Code 44896 - Transfer of administrator or supervisor to teaching position
+  - Ed. Code 44897 - Classification of administrator or supervisor to a teaching position
+  - Ed. Code 44951 - Continuation in position unless notified; administrative or supervisory - personnel
+  - Ed. Code 45101 - Definitions; disciplinary action and cause
+  - Ed. Code 45113 - Notification of charges; classified employees
+
 Management Resources:
-  - Court Decision
-  - Ellerbroek v. Saddleback Valley Unified School District (1981) 125 Cal. App
-  - 3d 348
-  - Court Decision
-  - Hentschke v. Sink (1973) 34 Cal. App. 3d 19
-  - Court Decision
-  - Jefferson v. Compton Unified School District (1993) 14 Cal. App. 4th 32
-  - Court Decision
-  - Schultz v. Regents of the University of California (1984) 160 Cal. App. 3d
-  - 768
-  - Court Decision
-  - Skelly v. California Personnel Board (1975) 15 Cal.3d 194
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - 3d 348 - Court Decision - Hentschke v. Sink (1973) 34 Cal. App. 3d 19 - Court Decision - Jefferson v. Compton Unified School District (1993) 14 Cal. App. 4th 32 - Court Decision - Schultz v. Regents of the University of California (1984) 160 Cal. App. 3d
+  - 768 - Court Decision - Skelly v. California Personnel Board (1975) 15 Cal.3d 194 - Website - CSBA District and County Office of Education Legal Services
+
+Cross References:
+  - 4300 - Administrative And Supervisory Personnel
+  - 4314 - Transfers

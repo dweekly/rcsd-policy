@@ -37,51 +37,37 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 41001
-  - Deposit of money in county treasury
-  - Ed. Code 41002
-  - General fund deposits and exceptions
-  - Ed. Code 41002.5
-  - Deposit of certain funds in insured institutions
-  - Ed. Code 41003
-  - Funds received from rental of real property
-  - Ed. Code 41015
-  - Authorization of and limitation investment of district funds
-  - Ed. Code 41017
-  - Deposit of miscellaneous receipts
-  - Ed. Code 41018
-  - Disposition of money received
-  - Ed. Code 42840-42843
-  - Special reserve fund
-  - Gov. Code 16430
-  - Eligible securities for investment of surplus money
-  - Gov. Code 17581.5
-  - Mandates contingent upon state funding
-  - Gov. Code 27000.3
-  - Fiduciary for deposits in county treasury
-  - Gov. Code 27130-27137
-  - County treasury oversight committees
-  - Gov. Code 53600-53609
-  - Investment of surplus
-  - Gov. Code 53630-53686
-  - Deposit of funds
-  - Gov. Code 53635
-  - Local agency funds; deposit or investment
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 41001 - Deposit of money in county treasury
+  - Ed. Code 41002 - General fund deposits and exceptions
+  - Ed. Code 41002.5 - Deposit of certain funds in insured institutions
+  - Ed. Code 41003 - Funds received from rental of real property
+  - Ed. Code 41015 - Authorization of and limitation investment of district funds
+  - Ed. Code 41017 - Deposit of miscellaneous receipts
+  - Ed. Code 41018 - Disposition of money received
+  - Ed. Code 42840-42843 - Special reserve fund
+  - Gov. Code 16430 - Eligible securities for investment of surplus money
+  - Gov. Code 17581.5 - Mandates contingent upon state funding
+  - Gov. Code 27000.3 - Fiduciary for deposits in county treasury
+  - Gov. Code 27130-27137 - County treasury oversight committees
+  - Gov. Code 53600-53609 - Investment of surplus
+  - Gov. Code 53630-53686 - Deposit of funds
+  - Gov. Code 53635 - Local agency funds; deposit or investment - Board Policy Manual - Redwood City School District
   - 116
-  - Gov. Code 53646
-  - Treasurer reports and statements of investment policy
-  - Gov. Code 53852.5
-  - Investment term for funds designated for repayment of notes
-  - Gov. Code 53859.02
-  - Borrowing by local agency
-  - State
+  - Gov. Code 53646 - Treasurer reports and statements of investment policy
+  - Gov. Code 53852.5 - Investment term for funds designated for repayment of notes
+  - Gov. Code 53859.02 - Borrowing by local agency
 
-Management Resources:
-  - CDIAC Publication
-  - Local Agency Investment Guidelines, 2002, rev. 2004
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Debt and Investment Advisory Commission
+Cross References:
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 3000 - Concepts And Roles
+  - 3290 - Gifts, Grants And Bequests
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3470 - Debt Issuance And Management
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 9130 - Board Committees
+  - 9270 - Conflict Of Interest

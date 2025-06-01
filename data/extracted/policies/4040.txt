@@ -51,10 +51,9 @@ to the protection of the district's network infrastructure, the monitoring and r
 privacy, and managing suspicious and/or threatening digital media content, in accordance with Board Policy 3580 -
 District Records.
 The Superintendent or designee shall annually notify employees in writing that they have no reasonable expectation
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 of privacy in the use of any district technology, as defined above, even when using their personal devices. To ensure
 proper use, the Superintendent or designee may monitor employee usage of district technology at any time without
 advance notice or consent and for any reason allowed by law.
@@ -72,51 +71,78 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Gov. Code 11549.3
-  - Cybersecurity
-  - Gov. Code 3543.1
-  - Rights of employee organizations
-  - Gov. Code 7920.000-7930.170
-  - California Public Records Act
-  - Labor Code 1139
-  - Emergency assistance
-  - Pen. Code 502
-  - Computer crimes; remedies
-  - Pen. Code 632
-  - Eavesdropping on or recording confidential communications
-  - Veh. Code 23123
-  - Wireless telephones in vehicles
-  - Veh. Code 23123.5
-  - Mobile communication devices; text messaging while driving
-  - Veh. Code 23125
-  - Wireless telephones in school buses
+  - Gov. Code 11549.3 - Cybersecurity
+  - Gov. Code 3543.1 - Rights of employee organizations
+  - Gov. Code 7920.000-7930.170 - California Public Records Act
+  - Labor Code 1139 - Emergency assistance
+  - Pen. Code 502 - Computer crimes; remedies
+  - Pen. Code 632 - Eavesdropping on or recording confidential communications
+  - Veh. Code 23123 - Wireless telephones in vehicles
+  - Veh. Code 23123.5 - Mobile communication devices; text messaging while driving
+  - Veh. Code 23125 - Wireless telephones in school buses
 
 Federal References:
-  - 20 USC 7101-7122
-  - Student Support and Academic Enrichment Grants
-  - 20 USC 7131
-  - Internet Safety
-  - 47 CFR 54.520
-  - Internet safety policy and technology protection measures; E-rate discounts
+  - 20 USC 7101-7122 - Student Support and Academic Enrichment Grants
+  - 20 USC 7131 - Internet Safety
+  - 47 CFR 54.520 - Internet safety policy and technology protection measures; E-rate discounts
 
 Management Resources:
-  - California Department of Education Publication
-  - Artificial Intelligence: Learning With AI Learning About AI
-  - Court Decision
-  - City of San Jose v. Superior Court (2017) 2 Cal.5th 608
-  - Court Decision
-  - City of Ontario v. Quon et al. (2010) 000 U.S. 08-1332
-  - Publication
-  - Guidelines for AI integration throughout education in the commonwealth of
-  - Virginia
-  - U.S. Department of Education Publication
-  - 2024 National Education Technology Plan
-  - USDOE Office of Educational Technology
-  - Publication
-  - Artificial Intelligence and the Future of Teaching and Learning: Insights and
-  - Recommendations, May 2023
-  - Website
-  - California Governor’s Office of Emergency Services
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
+  - 2024 National Education Technology Plan - USDOE Office of Educational Technology - Publication - Artificial Intelligence and the Future of Teaching and Learning: Insights and - Recommendations, May 2023 - Website - California Governor’s Office of Emergency Services - Website - CSBA District and County Office of Education Legal Services - Website - Federal Communications Commission - Website - American Library Association
+  - 31 - Website - California Department of Education - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2121 - Superintendent's Contract
+  - 3512 - Equipment
+  - 3516.2 - Bomb Threats
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4032 - Reasonable Accommodation
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.1 - Civil And Legal Rights
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.21 - Professional Standards
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4132 - Publication Or Creation Of Materials
+  - 4136 - Nonschool Employment
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.1 - Civil And Legal Rights
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4236 - Nonschool Employment
+  - 4319.1 - Civil And Legal Rights
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 4336 - Nonschool Employment
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5131.9 - Academic Honesty
+  - 6116 - Classroom Interruptions
+  - 6116 - Classroom Interruptions
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 4040 - - Employee Use of Technology. The use of district technology is a privilege permitted at the district's discretion and is subject to the conditions and restrictions set forth in applicable board policies, administrative regulations, and

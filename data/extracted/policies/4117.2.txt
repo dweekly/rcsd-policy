@@ -23,25 +23,15 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 80303
-  - Reports of change in employment status; alleged misconduct
-  - 5 CCR 80304
-  - Notice of sexual misconduct
-  - Ed. Code 35161
-  - Board delegation of any powers or duties
-  - Ed. Code 44420
-  - Failure to fulfill contract as ground for suspension of diplomas and
-  - certificates
-  - Ed. Code 44433
-  - Unauthorized departure from service as unprofessional conduct
-  - Ed. Code 44930
-  - Acceptance and date of resignation
-  - Ed. Code 45201
-  - Power to accept resignation
+  - 5 CCR 80303 - Reports of change in employment status; alleged misconduct
+  - 5 CCR 80304 - Notice of sexual misconduct
+  - Ed. Code 35161 - Board delegation of any powers or duties
+  - Ed. Code 44420 - Failure to fulfill contract as ground for suspension of diplomas and - certificates
+  - Ed. Code 44433 - Unauthorized departure from service as unprofessional conduct
+  - Ed. Code 44930 - Acceptance and date of resignation
+  - Ed. Code 45201 - Power to accept resignation
 
-Management Resources:
-  - Court Decision
-  - American Federation of Teachers, Local #1050 v. Board of Education of
-  - Pasadena Unified School District (1980) 107 Cal.App.3d 829
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 4112.1 - Contracts
+  - 4117.7 - Employment Status Reports
+  - 9270 - Conflict Of Interest

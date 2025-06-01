@@ -48,10 +48,9 @@ be delivered by different methods. (Education Code 494280)
 Each school site that serves students in any of grades 6-8 shall create an age appropriate and culturally relevant poster that identifies 
 approaches and shares resources about student mental health, and that includes the following information: (Education Code 
 49428.5)
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 1. Identification of common behaviors of those struggling with mental health or who are in a mental health crisis, including, but 
 not limited to, anxiety, depression, eating disorders, emotional dysregulation, bipolar episodes, and schizophrenic episodes
 2. A list of, and contact information for, school site-specific resources, including, but not limited to, counselors, wellness 
@@ -89,160 +88,58 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 215-216
-  - Student suicide prevention
-  - Ed. Code 218.3
-  - Lesbian, Gay, Transgender, Queer, and Questioning Student Resources;
-  - online training delivery platform
-  - Ed. Code 219
-  - Lesbian, Gay, Transgender, Queer, and Questioning Student Resources;
-  - advisory task force
-  - Ed. Code 232.7
-  - Body shaming; model policy and resources
-  - Ed. Code 234.6
-  - Bullying and harassment prevention information
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 33546.4
-  - Instructional Quality Commission; consideration of skills related to
-  - mindfulness, distress tolerance, interpersonal effectiveness, and emotional
-  - regulation when Health Education Framework next revised
-  - Ed. Code 49060-49079
-  - Student records
+  - Ed. Code 215-216 - Student suicide prevention
+  - Ed. Code 218.3 - Lesbian, Gay, Transgender, Queer, and Questioning Student Resources; - online training delivery platform
+  - Ed. Code 219 - Lesbian, Gay, Transgender, Queer, and Questioning Student Resources; - advisory task force
+  - Ed. Code 232.7 - Body shaming; model policy and resources
+  - Ed. Code 234.6 - Bullying and harassment prevention information
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 33546.4 - Instructional Quality Commission; consideration of skills related to - mindfulness, distress tolerance, interpersonal effectiveness, and emotional - regulation when Health Education Framework next revised
+  - Ed. Code 49060-49079 - Student records
   - 287
-  - Ed. Code 49428
-  - Telehealth technology in schools
-  - Ed. Code 49428.1
-  - Student mental health referral protocols
-  - Ed. Code 49428.15
-  - Identification of evidence-based and evidence-informed training programs
-  - for schools to address youth behavioral health
-  - Ed. Code 49428.2
-  - Requirement for policy on referral protocols
-  - Ed. Code 49428.5
-  - Student mental health poster
-  - Ed. Code 49600
-  - Responsibilities of school counselors
-  - Ed. Code 49602
-  - Counseling and confidentiality of student information
-  - Ed. Code 49604
-  - Suicide prevention training for school counselors
-  - Ed. Code 51225.38
-  - Instruction regarding the dangers associated with fentanyl use
-  - Ed. Code 56171
-  - Duty to identify and assess children in private schools who need special
-  - education services
-  - Ed. Code 56300-56385
-  - Identification and referral; assessment, instructional planning
-  - Family Code 6924
-  - Consent by minor
-  - W&I Code 5698
-  - System of care for children and youth with serious emotional disturbance
-  - W&I Code 5840-5840.8
-  - Prevention and early intervention programs
-  - W&I Code 5850-5883
-  - Mental Health Services Act
-  - State
+  - Ed. Code 49428 - Telehealth technology in schools
+  - Ed. Code 49428.1 - Student mental health referral protocols
+  - Ed. Code 49428.15 - Identification of evidence-based and evidence-informed training programs - for schools to address youth behavioral health
+  - Ed. Code 49428.2 - Requirement for policy on referral protocols
+  - Ed. Code 49428.5 - Student mental health poster
+  - Ed. Code 49600 - Responsibilities of school counselors
+  - Ed. Code 49602 - Counseling and confidentiality of student information
+  - Ed. Code 49604 - Suicide prevention training for school counselors
+  - Ed. Code 51225.38 - Instruction regarding the dangers associated with fentanyl use
+  - Ed. Code 56171 - Duty to identify and assess children in private schools who need special - education services
+  - Ed. Code 56300-56385 - Identification and referral; assessment, instructional planning
+  - Family Code 6924 - Consent by minor - W&I Code 5698 - System of care for children and youth with serious emotional disturbance - W&I Code 5840-5840.8 - Prevention and early intervention programs - W&I Code 5850-5883 - Mental Health Services Act
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 28 CFR 35.101-35.190
-  - Americans with Disabilities Act
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 28 CFR 35.101-35.190 - Americans with Disabilities Act
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 300.1-300.818
-  - Individuals with Disabilities Education Act
+  - 34 CFR 300.1-300.818 - Individuals with Disabilities Education Act
 
 Management Resources:
-  - California Department of Education Publication
-  - Mental Health Instruction Expansion Education Plan, rev. March 2024
-  - California Department of Education Publication
-  - Telehealth Guidance for School Districts, July 2024
-  - California Department of Education Publication
-  - Health Education Content Standards for California Public Schools:
-  - Kindergarten Through Grade Twelve, 2008
-  - California Department of Education Publication
-  - Youth Behavioral Health Training Programs
-  - California Department of Education Publication
-  - Health Education Framework for California Public Schools, Kindergarten
-  - Through Grade Twelve, May 2019
-  - CDC and Prevention Publication
-  - School Connectedness: Strategies for Increasing Protective Factors Among
-  - Youth, 2009
-  - CDC Publication
-  - Promoting Mental Health and Well-Being in Schools, December 2023
-  - CSBA Publication
-  - Safe Schools Toolkit: Bullying and Cyberbullying, July 2024
-  - Nat. Child Traumatic Stress Network Publication
-  - Child Trauma Toolkit for Educators, 2008
-  - US Department of Education Publication
-  - Bipartisan Safer Communities Act Stronger Connections Grant Program,
-  - Frequently Asked Questions, April 2023
-  - US Department of Health and Human Services
-  - Pub.
-  - Social Media and Youth Mental Health: The U.S. Surgeon General’s
-  - Advisory, 2023
-  - US Dept of Health and Human Services
-  - Publication
-  - Creating an emergency plan for telebehavioral health, September 2024
-  - 288
-  - US Dept of Health and Human Services
-  - Publication
-  - Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General’s
-  - Advisory on the Health Effects of Social Connection and the Community,
-  - 2023
-  - USDOE Ofc for Civil Rights, USDOJ Civil Rights
-  - Pub
-  - Supporting and Protecting the Rights of Students at Risk of Self-Harm in the
-  - Era of COVID-19, October 2021
-  - USDOE Ofc of Special Edu & Rehabilitative Svcs
-  - Pub
-  - Supporting Child and Student Social, Emotional, Behavioral, and Mental
-  - Health Needs, 2021
-  - Website
-  - Mental Health Evaluation, Training, Research, and Innovation Center for
-  - Schools (METRICS)
-  - Website
-  - CalHOPE Schools Initiative
-  - Website
-  - California Surgeon General, Safe Spaces: Trauma-Informed Training
-  - Website
-  - Children and Youth Behavioral Health Initiative
-  - Website
-  - Schoolsafety.gov
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Child Traumatic Stress Network
-  - Website
-  - National Council for Behavioral Health, Mental Health First Aid
-  - Website
-  - Suicide Prevention Lifeline
-  - Website
-  - Suicide Prevention Resource Center
-  - Website
-  - Substance Abuse and Mental Health Services Administration
-  - Website
-  - American Association of Suicidology
-  - Website
-  - American Psychological Association
-  - Website
-  - California Department of Education, Mental Health
-  - Website
-  - Centers for Disease Control and Prevention, Mental Health
-  - Website
-  - National Association of School Psychologists
-  - Website
-  - National Institute for Mental Health
-  - Website
-  - American Foundation for Suicide Prevention
-  - Website
-  - American School Counselor Association
-  - Website
-  - U.S. Department of Health and Human Services
-  - Website
-  - California Department of Health Care Services
-  - Website
-  - Office of the Surgeon General
-  - Management Resources
+  - 288 - US Dept of Health and Human Services - Publication - Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General’s - Advisory on the Health Effects of Social Connection and the Community,
+  - 2023 - USDOE Ofc for Civil Rights, USDOJ Civil Rights - Pub - Supporting and Protecting the Rights of Students at Risk of Self-Harm in the
+  - Era of COVID-19, October 2021 - USDOE Ofc of Special Edu & Rehabilitative Svcs - Pub - Supporting Child and Student Social, Emotional, Behavioral, and Mental - Health Needs, 2021 - Website - Mental Health Evaluation, Training, Research, and Innovation Center for - Schools (METRICS) - Website - CalHOPE Schools Initiative - Website - California Surgeon General, Safe Spaces: Trauma-Informed Training - Website - Children and Youth Behavioral Health Initiative - Website - Schoolsafety.gov - Website - CSBA District and County Office of Education Legal Services - Website - National Child Traumatic Stress Network - Website - National Council for Behavioral Health, Mental Health First Aid - Website - Suicide Prevention Lifeline - Website - Suicide Prevention Resource Center - Website - Substance Abuse and Mental Health Services Administration - Website - American Association of Suicidology - Website - American Psychological Association - Website - California Department of Education, Mental Health - Website - Centers for Disease Control and Prevention, Mental Health - Website - National Association of School Psychologists - Website - National Institute for Mental Health - Website - American Foundation for Suicide Prevention - Website - American School Counselor Association - Website - U.S. Department of Health and Human Services - Website - California Department of Health Care Services - Website - Office of the Surgeon General
+
+Cross References:
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5141.6 - School Health Services
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams

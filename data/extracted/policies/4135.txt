@@ -25,9 +25,18 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 51520
-  - Prohibited solicitations on school premises
+  - Ed. Code 51520 - Prohibited solicitations on school premises
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 1321 - Solicitation Of Funds From And By Students
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 3312.2 - Educational Travel Program Contracts
+  - 3312.2 - Educational Travel Program Contracts
+  - 4136 - Nonschool Employment
+  - 4236 - Nonschool Employment
+  - 4336 - Nonschool Employment
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information

@@ -59,8 +59,7 @@ environment
  
 d. Sexually transmitted disease
  
-Board Policy Manual
-Redwood City School District
+
 
 e. The effects of alcohol, narcotics, drugs, and tobacco upon the human body
  
@@ -122,8 +121,7 @@ aesthetic appreciation and creative expression (Education Code 51220)
 a. Emergency first aid, hemorrhage control, treatment for poisoning, resuscitation techniques, and
 cardiopulmonary resuscitation when appropriate equipment is available
 
-Policy Reference Disclaimer:
- 
+
 b. Fire prevention
  
 c. The protection and conservation of resources, including the necessity for the protection of our
@@ -156,95 +154,120 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 10020
-  - Automobile driver education
-  - 5 CCR 10040-10043
-  - Automobile driver training
-  - 5 CCR 10060
-  - Criteria for high school physical education programs
-  - 5 CCR 430-438
-  - Individual student records
-  - 5 CCR 4940
-  - Nondiscrimination; course access
-  - Ed. Code 200
-  - Equal rights and opportunities in state educational institutions
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 234.1
-  - Student protections relating to discrimination, harassment, intimidation, and
-  - bullying
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 242
-  - Access to information about educational laws and policies regarding right to
-  - accurate and inclusive curriculum
-  - Ed. Code 33319.3
-  - Driver education; CDE materials on road rage
-  - Ed. Code 33540
-  - Standards for government and civics instruction
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 49060-49079
-  - Student records
-  - Ed. Code 51202
-  - Instruction in personal and public health and safety
-  - Ed. Code 51203
-  - Instruction on alcohol, narcotics and dangerous drugs
-  - Ed. Code 51204
-  - Course of study designed for student's needs
+  - 5 CCR 10020 - Automobile driver education
+  - 5 CCR 10040-10043 - Automobile driver training
+  - 5 CCR 10060 - Criteria for high school physical education programs
+  - 5 CCR 430-438 - Individual student records
+  - 5 CCR 4940 - Nondiscrimination; course access
+  - Ed. Code 200 - Equal rights and opportunities in state educational institutions
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 234.1 - Student protections relating to discrimination, harassment, intimidation, and - bullying
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 242 - Access to information about educational laws and policies regarding right to - accurate and inclusive curriculum
+  - Ed. Code 33319.3 - Driver education; CDE materials on road rage
+  - Ed. Code 33540 - Standards for government and civics instruction
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 51202 - Instruction in personal and public health and safety
+  - Ed. Code 51203 - Instruction on alcohol, narcotics and dangerous drugs
+  - Ed. Code 51204 - Course of study designed for student's needs
   - 90
-  - Ed. Code 51204.5
-  - History of California; contributions of specified groups
+  - Ed. Code 51204.5 - History of California; contributions of specified groups
   - Ed. Code 51210
   - Course of study for grades 1-6
   - Ed. Code 51220
   - Course of study for grades 7-12
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 51226.7
-  - Model curriculum in ethnic studies
-  - Ed. Code 51241
-  - Temporary two-year or permanent exemption from physical education
-  - Ed. Code 51501
-  - Nondiscriminatory subject matter
-  - Ed. Code 51911-51921
-  - Comprehensive health education
-  - Ed. Code 51925-51929
-  - Mandatory mental health education and in-service training
-  - Ed. Code 51930-51939
-  - California Healthy Youth Act
-  - Ed. Code 51940
-  - Curriculum for brain and spinal cord injury prevention
-  - Ed. Code 60040-60052
-  - Requirements for instructional materials
-  - Ed. Code 66204
-  - Certification of high school courses as meeting university admission criteria
-  - Gov. Code 11135
-  - Prohibition of discrimination
-  - Gov. Code 7282-7282.5
-  - Standards for responding to U.S. Immigration and Customs enforcement
-  - holds
-  - Gov. Code 7283-7283.2
-  - Standards for participation in U.S. Immigration and Customs enforcement
-  - programs
-  - Gov. Code 7284-7284.12
-  - Cooperation with immigration authorities
-  - H&S Code 11032
-  - Definition of dangerous drugs
-  - Pen. Code 422.55
-  - Definition of hate crime
-  - State
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 51226.7 - Model curriculum in ethnic studies
+  - Ed. Code 51241 - Temporary two-year or permanent exemption from physical education
+  - Ed. Code 51501 - Nondiscriminatory subject matter
+  - Ed. Code 51911-51921 - Comprehensive health education
+  - Ed. Code 51925-51929 - Mandatory mental health education and in-service training
+  - Ed. Code 51930-51939 - California Healthy Youth Act
+  - Ed. Code 51940 - Curriculum for brain and spinal cord injury prevention
+  - Ed. Code 60040-60052 - Requirements for instructional materials
+  - Ed. Code 66204 - Certification of high school courses as meeting university admission criteria
+  - Gov. Code 11135 - Prohibition of discrimination
+  - Gov. Code 7282-7282.5 - Standards for responding to U.S. Immigration and Customs enforcement - holds
+  - Gov. Code 7283-7283.2 - Standards for participation in U.S. Immigration and Customs enforcement - programs
+  - Gov. Code 7284-7284.12 - Cooperation with immigration authorities - H&S Code 11032 - Definition of dangerous drugs
+  - Pen. Code 422.55 - Definition of hate crime
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
 
 Management Resources:
-  - U.S. DOE, Office for Civil Rights Publication
-  - Dear Colleague Letter: Race and School Programming, August 2023
-  - Website
-  - Instructional Quality Commission
-  - Website
-  - American Red
+  - 91 - Website - U.S. Department of Education
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.5 - Mental Health
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6115 - Ceremonies And Observances
+  - 6141 - Curriculum Development And Evaluation
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.3 - Civic Education
+  - 6142.5 - Environmental Education
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145.8 - Assemblies And Special Events
+  - 6151 - Class Size
+  - 6151 - Class Size
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 6164.2 - Guidance/Counseling Services
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6177 - Summer Learning Programs
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education

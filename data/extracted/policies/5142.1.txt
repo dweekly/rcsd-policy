@@ -21,27 +21,23 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 640-641
-  - Student fingerprinting program
-  - Ed. Code 32390
-  - Voluntary program for fingerprinting students
-  - Ed. Code 38139
-  - Posting of information about missing children
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 49068.5-49068.6
-  - Missing children; transfers
-  - Ed. Code 49370
-  - Legislative intent re: reporting of missing children
-  - Pen. Code 14200-14213
-  - Violent crime information center
+  - 5 CCR 640-641 - Student fingerprinting program
+  - Ed. Code 32390 - Voluntary program for fingerprinting students
+  - Ed. Code 38139 - Posting of information about missing children
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 49068.5-49068.6 - Missing children; transfers
+  - Ed. Code 49370 - Legislative intent re: reporting of missing children
+  - Pen. Code 14200-14213 - Violent crime information center
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Justice, Missing Persons
-  - Website
-  - California Highway Patrol, Amber Alert
-  - Website
-  - National Center for Missing and Exploited Children
+Cross References:
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5145.6 - Parent/Guardian Notifications

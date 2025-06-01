@@ -51,25 +51,19 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35020
-  - Duties of employees fixed by governing board
+  - Ed. Code 35020 - Duties of employees fixed by governing board
 
-Management Resources:
-  - AASA Publication
-  - Professional Standards for the Superintendency, 1993
-  - CSBA Publication
-  - Professional Governance Standards
-  - CSBA Publication
-  - Superintendent Governance Standards
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Board Policy Manual
-  - Redwood City School District
-  - 6
-  - Website
-  - American Association of School Administrators
-  - Website
-  - Association of California School Administrators
-  - Website
-  - CSBA
-  - Management Resources
+Cross References:
+  - 1100 - Communication With The Public
+  - 1313 - Civility
+  - 2000 - Concepts And Roles
+  - 2110 - Superintendent Responsibilities And Duties
+  - 2120 - Superintendent Recruitment And Selection
+  - 2140 - Evaluation Of The Superintendent
+  - 4119.21 - Professional Standards
+  - 4219.21 - Professional Standards
+  - 4319.21 - Professional Standards
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9122 - Secretary
+  - 9320 - Meetings And Notices

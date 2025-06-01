@@ -45,59 +45,45 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 44466
-  - Status of university interns
-  - Ed. Code 44850.1
-  - No tenure in administrative or supervisory position
-  - Ed. Code 44885.5
-  - District interns classified as probationary employees
-  - Ed. Code 44908
-  - Complete year for probationary employees
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 44466 - Status of university interns
+  - Ed. Code 44850.1 - No tenure in administrative or supervisory position
+  - Ed. Code 44885.5 - District interns classified as probationary employees
+  - Ed. Code 44908 - Complete year for probationary employees - Board Policy Manual - Redwood City School District
   - 91
-  - Ed. Code 44910-44913
-  - Service not computed in eligibility for permanent status
-  - Ed. Code 44915
-  - Classification of probationary employees
-  - Ed. Code 44917-44921
-  - Status of substitute or temporary employes
-  - Ed. Code 44929.20
-  - Continuing contracts (not to exceed four years - ADA under 250)
-  - Ed. Code 44929.21
-  - Notice of reelection decision; districts with 250 ADA or more
+  - Ed. Code 44910-44913 - Service not computed in eligibility for permanent status
+  - Ed. Code 44915 - Classification of probationary employees
+  - Ed. Code 44917-44921 - Status of substitute or temporary employes
+  - Ed. Code 44929.20 - Continuing contracts (not to exceed four years - ADA under 250)
+  - Ed. Code 44929.21 - Notice of reelection decision; districts with 250 ADA or more
   - Ed. Code 44929.23
   - Districts with less than 250 ADA
-  - Ed. Code 44929.28
-  - Employment by another district
-  - Ed. Code 44930-44988
-  - Resignations, dismissals and leaves of absence
+  - Ed. Code 44929.28 - Employment by another district
+  - Ed. Code 44930-44988 - Resignations, dismissals and leaves of absence
   - Ed. Code 44948.2
   - Election to use provisions of Section 44948.3
-  - Ed. Code 44948.3
-  - Dismissal of probationary employees
-  - Ed. Code 44948.5
-  - Nonreelection procedures; districts under 250 ADA
-  - Ed. Code 44949
-  - Dismissal of probationary employees
-  - Ed. Code 44955
-  - Reduction in number of permanent employees
-  - State
+  - Ed. Code 44948.3 - Dismissal of probationary employees
+  - Ed. Code 44948.5 - Nonreelection procedures; districts under 250 ADA
+  - Ed. Code 44949 - Dismissal of probationary employees
+  - Ed. Code 44955 - Reduction in number of permanent employees
 
 Management Resources:
-  - Court Decision
-  - Sullivan v. Centinela Valley Union High School District (2011) 194 Cal. App.
-  - 4th 69
-  - Court Decision
-  - Bakersfield Elementary Teachers Assn. v. Bakersfield City School District
-  - (2006) 145 Cal. App. 4th 1260, 1280
-  - Court Decision
-  - California Teachers Assn. v. Vallejo City Unified School District (2007) 149
-  - Cal. App. 4th 135, 146
-  - Court Decision
-  - Grace v. Beaumont Unified School District (2013) 216 Cal. App. 4th 1325
-  - Court Decision
-  - Hoschler v. Sacramento City Unified School District (2007) 149 Cal. App.
-  - 4th 258
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - 4th 69 - Court Decision - Bakersfield Elementary Teachers Assn. v. Bakersfield City School District - (2006) 145 Cal. App. 4th 1260, 1280 - Court Decision - California Teachers Assn. v. Vallejo City Unified School District (2007) 149
+  - Cal. App. 4th 135, 146 - Court Decision - Grace v. Beaumont Unified School District (2013) 216 Cal. App. 4th 1325 - Court Decision - Hoschler v. Sacramento City Unified School District (2007) 149 Cal. App.
+  - 4th 258 - Website - CSBA District and County Office of Education Legal Services
+
+Cross References:
+  - 0420.4 - Charter School Authorization
+  - 0420.4 - Charter School Authorization
+  - 4112.21 - Interns
+  - 4112.21 - Interns
+  - 4112.5 - Criminal Record Check
+  - 4112.9 - Employee Notifications
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4117.7 - Employment Status Reports
+  - 4121 - Temporary/Substitute Personnel
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4161.5 - Military Leave
+  - 4261.5 - Military Leave
+  - 4361.5 - Military Leave

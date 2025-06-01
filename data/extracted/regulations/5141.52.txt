@@ -57,8 +57,7 @@ procedures for intervening when a student attempts, threatens, or discloses the 
 including, but not limited to, appropriate protocols for monitoring the student while the immediate referral of
 the student to medical or mental health services is being processed
  
-Board Policy Manual
-Redwood City School District
+
 
 8. District procedures for responding after a suicide has occurred
 Instruction
@@ -159,7 +158,7 @@ reviewed and revised as indicated, at least annually in conjunction with the pre
 stakeholders.
 To the extent possible, parents/guardians/caregivers should be included in all suicide prevention efforts. At a
 
-Policy Reference Disclaimer:
+
 minimum, schools shall share with parents/guardians/caregivers the Redwood City School District suicide prevention
 policy and procedures.
 This suicide prevention policy shall be prominently displayed on the Redwood City School District Web page and
@@ -177,158 +176,84 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 215
-  - Suicide prevention policies
-  - Ed. Code 215.5
-  - Student identification cards; inclusion of safety hotlines
-  - Ed. Code 216
-  - Suicide prevention online training programs
-  - Ed. Code 218.3
-  - Training curriculum to support lesbian, gay, bisexual, queer, and questioning
-  - students
-  - Ed. Code 234.6
-  - Bullying and harassment prevention information
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 49060-49079
-  - Student records
-  - Ed. Code 49428.15
-  - Identification of evidence-based and evidence-informed training programs
-  - for schools to address youth behavioral health
-  - Ed. Code 49428.2
-  - Referral protocols for addressing student behavioral health concerns in
+  - Ed. Code 215 - Suicide prevention policies
+  - Ed. Code 215.5 - Student identification cards; inclusion of safety hotlines
+  - Ed. Code 216 - Suicide prevention online training programs
+  - Ed. Code 218.3 - Training curriculum to support lesbian, gay, bisexual, queer, and questioning - students
+  - Ed. Code 234.6 - Bullying and harassment prevention information
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 49428.15 - Identification of evidence-based and evidence-informed training programs - for schools to address youth behavioral health
+  - Ed. Code 49428.2 - Referral protocols for addressing student behavioral health concerns in
   - grades 7-12; certification of youth behavioral health training for employees
-  - Ed. Code 49428.5
-  - Student mental health poster
-  - Ed. Code 49429
-  - Telehealth technology in schools
-  - Ed. Code 49602
-  - Counseling and confidentiality of student information
-  - Ed. Code 49604
-  - Suicide prevention training for school counselors
-  - Gov. Code 810-996.6
-  - Government Claims Act
-  - Pen. Code 11164-11174.3
-  - Child Abuse and Neglect Reporting Act
-  - W&I Code 5698
-  - System of care for children and youth with serious emotional disturbance
-  - W&I Code 5850-5886
-  - Children's Mental Health Services Act
+  - Ed. Code 49428.5 - Student mental health poster
+  - Ed. Code 49429 - Telehealth technology in schools
+  - Ed. Code 49602 - Counseling and confidentiality of student information
+  - Ed. Code 49604 - Suicide prevention training for school counselors
+  - Gov. Code 810-996.6 - Government Claims Act
+  - Pen. Code 11164-11174.3 - Child Abuse and Neglect Reporting Act - W&I Code 5698 - System of care for children and youth with serious emotional disturbance - W&I Code 5850-5886 - Children's Mental Health Services Act
 
 Federal References:
-  - 42 USC 290bb-33
-  - Suicide Training and Awareness Nationally Delivered for Universal
+  - 42 USC 290bb-33 - Suicide Training and Awareness Nationally Delivered for Universal
   - Prevention Act of 2021
 
 Management Resources:
-  - California Department of Education Publication
-  - Model Youth Suicide Prevention Policy for Local Educational Agencies that
-  - Serve Kindergarten through Twelfth Grade Students, February 2023
-  - 299
-  - California Department of Education Publication
-  - Health Education Framework for California Public Schools, Kindergarten
-  - Through Grade Twelve, May 2019
-  - California Department of Education Publication
-  - Health Education Content Standards for California Public Schools:
-  - Kindergarten Through Grade Twelve, 2008
-  - CALSCHLS Publication
-  - California School Staff Survey (CSSS)
-  - CALSCHLS Publication
-  - California School Parent Survey (CSPS)
-  - CALSCHLS Publication
-  - California Healthy Kids Survey (CHKS)
-  - CDC and Prevention Publication
-  - School Connectedness: Strategies for Increasing Protective Factors Among
-  - Youth, 2009
-  - Court Decision
-  - Corales v. Bennett (Ontario-Montclair School District) (2009) 567 F.3d 554
-  - Each Mind Matters Publication
-  - Making Headlines: Guide to Engaging the Media in Suicide Prevention in
-  - California, 2012
-  - Heard Alliance Publication
-  - K-12 Toolkit for Mental Health Promotion and Suicide Prevention, 2017
-  - Mental Health Svcs Oversight & Accountability
-  - Pub
-  - Accelerating Transformational Change: Strategic Plan for 2024-2027
-  - Mental Health Svcs Oversight & Accountability
-  - Pub
-  - Striving for Zero: California's Strategic Plan for Suicide Prevention 2020-
-  - 2025
-  - Nat'l Assoc. of School Psychologists Publication
-  - Preventing Suicide: Guidelines for Administrators and Crisis Teams, 2015
-  - Nat’s Assoc. of School Psychologists Publication
-  - Conducting a Virtual Suicide Assessment Checklist
-  - Nat’s Assoc. of School Psychologists Publication
-  - Comprehensive School Suicide Prevention in a Time of Distance Learning,
-  - 2020
-  - Suicide Prevention Resource Center Publication
-  - After a Suicide: A Toolkit for Schools, 2nd Edition, 2018
-  - U.S. Dept. of Health & Human Services PublicationPreventing Suicide: A Toolkit for High Schools, 2012
-  - U.S. Dept. of Health & Human Services PublicationNational Strategy for Suicide Prevention: Goals and Objectives for Action,
-  - rev. 2012
-  - USDOE Ofc for Civil Rights, USDOJ Civil Rights
-  - Pub
-  - Supporting and Protecting the Rights of Students at Risk of Self-Harm in the
-  - Era of COVID-19, October 2021
-  - Website
-  - SchoolSafety.gov
-  - Website
-  - California Department of Public Health, Office of Suicide Prevention
-  - Website
-  - Mental Health Evaluation, Training, Research, and Innovation Center for
-  - Schools (METRICS)
-  - Website
-  - CalHOPE Schools Initiative
-  - Website
-  - California Surgeon General, Safe Spaces: Trauma-Informed Training
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Suicide Prevention Messaging
-  - Website
-  - National Action Alliance for Suicide Prevention
-  - Website
-  - Mental Health Services Oversight and Accountability Commission
-  - Website
-  - HEARD Alliance
-  - Website
-  - Each Mind Matters: California's Mental Health Movement
-  - Website
-  - Crisis Text Line
-  - Website
-  - California School Climate, Health, and Learning Surveys (CalSCHLS)
-  - Website
-  - California Mental Health Services Authority
-  - Website
-  - Suicide Prevention Lifeline
-  - Website
-  - Suicide Prevention Resource Center
-  - Management Resources
-  - 300
-  - Website
-  - National Child Traumatic Stress Network
-  - Website
-  - Substance Abuse and Mental Health Services Administration
-  - Website
-  - Trevor Project
-  - Website
-  - American Academy of Pediatrics
-  - Website
-  - American Association of Suicidology
-  - Website
-  - American Foundation for Suicide Prevention
-  - Website
-  - American Psychological Association
-  - Website
-  - California Department of Education, Mental Health
-  - Website
-  - California Department of Health Care Services, Mental Health Services
-  - Website
-  - Centers for Disease Control and Prevention, Mental Health
-  - Website
-  - National Association of School Psychologists
-  - Website
-  - National Institute for Mental Health
-  - Website
-  - American School Counselor Association
-  - Management Resources
+  - 299 - California Department of Education Publication - Health Education Framework for California Public Schools, Kindergarten - Through Grade Twelve, May 2019 - California Department of Education Publication - Health Education Content Standards for California Public Schools: - Kindergarten Through Grade Twelve, 2008 - CALSCHLS Publication - California School Staff Survey (CSSS) - CALSCHLS Publication - California School Parent Survey (CSPS) - CALSCHLS Publication - California Healthy Kids Survey (CHKS) - CDC and Prevention Publication - School Connectedness: Strategies for Increasing Protective Factors Among - Youth, 2009 - Court Decision - Corales v. Bennett (Ontario-Montclair School District) (2009) 567 F.3d 554 - Each Mind Matters Publication - Making Headlines: Guide to Engaging the Media in Suicide Prevention in - California, 2012 - Heard Alliance Publication
+  - K-12 Toolkit for Mental Health Promotion and Suicide Prevention, 2017 - Mental Health Svcs Oversight & Accountability - Pub - Accelerating Transformational Change: Strategic Plan for 2024-2027 - Mental Health Svcs Oversight & Accountability - Pub - Striving for Zero: California's Strategic Plan for Suicide Prevention 2020-
+  - 2025 - Nat'l Assoc. of School Psychologists Publication - Preventing Suicide: Guidelines for Administrators and Crisis Teams, 2015 - Nat’s Assoc. of School Psychologists Publication - Conducting a Virtual Suicide Assessment Checklist - Nat’s Assoc. of School Psychologists Publication - Comprehensive School Suicide Prevention in a Time of Distance Learning,
+  - 2020 - Suicide Prevention Resource Center Publication - After a Suicide: A Toolkit for Schools, 2nd Edition, 2018 - U.S. Dept. of Health & Human Services PublicationPreventing Suicide: A Toolkit for High Schools, 2012 - U.S. Dept. of Health & Human Services PublicationNational Strategy for Suicide Prevention: Goals and Objectives for Action,
+  - rev. 2012 - USDOE Ofc for Civil Rights, USDOJ Civil Rights - Pub - Supporting and Protecting the Rights of Students at Risk of Self-Harm in the
+  - Era of COVID-19, October 2021 - Website - SchoolSafety.gov - Website - California Department of Public Health, Office of Suicide Prevention - Website - Mental Health Evaluation, Training, Research, and Innovation Center for - Schools (METRICS) - Website - CalHOPE Schools Initiative - Website - California Surgeon General, Safe Spaces: Trauma-Informed Training - Website - CSBA District and County Office of Education Legal Services - Website - Suicide Prevention Messaging - Website - National Action Alliance for Suicide Prevention - Website - Mental Health Services Oversight and Accountability Commission - Website - HEARD Alliance - Website - Each Mind Matters: California's Mental Health Movement - Website - Crisis Text Line - Website - California School Climate, Health, and Learning Surveys (CalSCHLS) - Website - California Mental Health Services Authority - Website - Suicide Prevention Lifeline - Website - Suicide Prevention Resource Center
+  - 300 - Website - National Child Traumatic Stress Network - Website - Substance Abuse and Mental Health Services Administration - Website - Trevor Project - Website - American Academy of Pediatrics - Website - American Association of Suicidology - Website - American Foundation for Suicide Prevention - Website - American Psychological Association - Website - California Department of Education, Mental Health - Website - California Department of Health Care Services, Mental Health Services - Website - Centers for Disease Control and Prevention, Mental Health - Website - National Association of School Psychologists - Website - National Institute for Mental Health - Website - American School Counselor Association
+
+Cross References:
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1112 - Media Relations
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 4112.21 - Interns
+  - 4112.21 - Interns
+  - 4121 - Temporary/Substitute Personnel
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.8 - Mobile Communication Devices
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.5 - Mental Health
+  - 5141.6 - School Health Services
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6145.8 - Assemblies And Special Events
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams

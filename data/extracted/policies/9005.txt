@@ -55,29 +55,38 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35010
-  - Control of district; prescription and enforcement of rules
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35164
-  - Actions by majority vote
-  - Board Policy Manual
-  - Redwood City School District
-  - 7
-  - Gov. Code 1090
-  - Financial interest in contract
-  - Gov. Code 1098
-  - Disclosure of confidential information
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 87300-87313
-  - Conflict of interest code
-  - State
+  - Ed. Code 35010 - Control of district; prescription and enforcement of rules
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35164 - Actions by majority vote - Board Policy Manual - Redwood City School District - 7
+  - Gov. Code 1090 - Financial interest in contract
+  - Gov. Code 1098 - Disclosure of confidential information
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 87300-87313 - Conflict of interest code
 
-Management Resources:
-  - CSBA Publication
-  - Professional Governance Standards
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+Cross References:
+  - 0100 - Philosophy
+  - 0200 - Goals For The School District
+  - 1100 - Communication With The Public
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1313 - Civility
+  - 2000 - Concepts And Roles
+  - 2110 - Superintendent Responsibilities And Duties
+  - 2111 - Superintendent Governance Standards
+  - 2140 - Evaluation Of The Superintendent
+  - 9000 - Role Of The Board
+  - 9010 - Public Statements
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9100 - Organization
+  - 9121 - President
+  - 9140 - Board Representatives
+  - 9200 - Limits Of Board Member Authority
+  - 9220 - Governing Board Elections
+  - 9230 - Orientation
+  - 9270 - Conflict Of Interest
+  - 9310 - Board Policies
+  - 9320 - Meetings And Notices
+  - 9323 - Meeting Conduct
+  - 9323.2 - Actions By The Board
+  - 9324 - Minutes And Recordings
+  - 9400 - Board Self-Evaluation

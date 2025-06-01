@@ -38,66 +38,67 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Bus. Code 25608
-  - Alcohol on school property; use in connection with instruction
-  - Ed. Code 44940
-  - Compulsory leave of absence for certificated persons
-  - Ed. Code 44940.5
-  - Procedures when employees are placed on compulsory leave of absence
-  - Ed. Code 45123
-  - Employment after conviction of controlled substance offense
-  - Ed. Code 45304
-  - Compulsory leave of absence for classified persons
-  - Ed. Code 48900
-  - Grounds for suspension or expulsion
-  - Ed. Code 48900.5
-  - Suspension, limitation on imposition; exception
-  - Ed. Code 48901
-  - Smoking or use of tobacco prohibited
-  - Ed. Code 48901.5
-  - Prohibition of electronic signaling devices
-  - Ed. Code 48902
-  - Notification of law enforcement authorities; civil or criminal immunity
-  - Ed. Code 48909
-  - Narcotics or other hallucinogenic drugs
-  - Ed. Code 48915
-  - Required recommendation for expulsions
-  - Board Policy Manual
-  - Redwood City School District
+  - Bus. Code 25608 - Alcohol on school property; use in connection with instruction
+  - Ed. Code 44940 - Compulsory leave of absence for certificated persons
+  - Ed. Code 44940.5 - Procedures when employees are placed on compulsory leave of absence
+  - Ed. Code 45123 - Employment after conviction of controlled substance offense
+  - Ed. Code 45304 - Compulsory leave of absence for classified persons
+  - Ed. Code 48900 - Grounds for suspension or expulsion
+  - Ed. Code 48900.5 - Suspension, limitation on imposition; exception
+  - Ed. Code 48901 - Smoking or use of tobacco prohibited
+  - Ed. Code 48901.5 - Prohibition of electronic signaling devices
+  - Ed. Code 48902 - Notification of law enforcement authorities; civil or criminal immunity
+  - Ed. Code 48909 - Narcotics or other hallucinogenic drugs
+  - Ed. Code 48915 - Required recommendation for expulsions - Board Policy Manual - Redwood City School District
   - 165
-  - Gov. Code 8350-8357
-  - Drug-free workplace
-  - H&S Code 104559
-  - Tobacco use prohibition
-  - H&S Code 11053-11059
-  - Controlled substances; standards and schedules
-  - H&S Code 11353.6
-  - Juvenile Drug Trafficking and Schoolyard Act
-  - H&S Code 11362.1
-  - Possession and use of cannabis; persons age 21 and over
-  - H&S Code 11362.3
-  - Limitations on possession and use of cannabis
-  - H&S Code 11362.79
-  - Limitations on medical use of cannabis
-  - Pen. Code 13860-13864
-  - Suppression of drug abuse in schools
+  - Gov. Code 8350-8357 - Drug-free workplace - H&S Code 104559 - Tobacco use prohibition - H&S Code 11053-11059 - Controlled substances; standards and schedules - H&S Code 11353.6 - Juvenile Drug Trafficking and Schoolyard Act - H&S Code 11362.1 - Possession and use of cannabis; persons age 21 and over - H&S Code 11362.3 - Limitations on possession and use of cannabis - H&S Code 11362.79 - Limitations on medical use of cannabis
+  - Pen. Code 13860-13864 - Suppression of drug abuse in schools
   - Veh. Code 13202.5
-  - Drug and alcohol related offenses by persons under age of 21, but aged 13
-  - or over
-  - State
+  - Drug and alcohol related offenses by persons under age of 21, but aged 13 - or over
 
 Federal References:
-  - 20 USC 7101-7122
-  - Student Support and Academic Enrichment Grants
-  - 21 USC 812
-  - Schedule of controlled substances
-  - 21 USC 844
-  - Penalties for possession of controlled substance
-  - 41 USC 8101-8106
-  - Drug-Free Workplace Act
+  - 20 USC 7101-7122 - Student Support and Academic Enrichment Grants
+  - 21 USC 812 - Schedule of controlled substances
+  - 21 USC 844 - Penalties for possession of controlled substance
+  - 41 USC 8101-8106 - Drug-Free Workplace Act
 
-Management Resources:
-  - Court Decision
-  - Ross v. RagingWire Telecommunications, Inc., 42 Cal. 4th 920 (2008)
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 4020 - Drug And Alcohol-Free Workplace
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4117.7 - Employment Status Reports
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.21 - Professional Standards
+  - 4159 - Employee Assistance Programs
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.21 - Professional Standards
+  - 4319.21 - Professional Standards
+  - 5030 - Student Wellness
+  - 5131 - Conduct
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5141.21 - Administering Medication And Monitoring Health Conditions
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.12 - Search And Seizure
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities

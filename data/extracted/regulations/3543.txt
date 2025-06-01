@@ -51,8 +51,7 @@ measures.
 Transportation Safety Plan for Boarding and Exiting Buses
 The Superintendent or designee shall develop a transportation safety plan containing procedures for school
 personnel to follow to ensure the safe transport of students. The plan shall include all of the following: (Education
-Board Policy Manual
-Redwood City School District
+
 
 Code 39831.3)
 1. Procedures for determining if students in grades prekindergarten through 8 require an escort to cross a private
@@ -107,7 +106,7 @@ As part of this instruction, students shall evacuate the school bus through emer
 Instruction also may include responsibilities of passengers seated next to an emergency exit. (Education
 Code 39831.5)
 
-Policy Reference Disclaimer:
+
 Each time the above instruction is given, the following information shall be documented: (Education
 Code 39831.5)
  
@@ -149,46 +148,60 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 13 CCR 1200-1294
-  - Motor carrier safety
-  - 13 CCR 2480
-  - Vehicle idling; limitations
-  - 19 CCR 574-575.3
-  - Inspection and maintenance of fire extinguishers
-  - 49 CCR 571.1-571.500
-  - Motor vehicle standards, including school buses
-  - 5 CCR 14100-14105
-  - School buses and student activity buses
-  - Ed. Code 39830-39843
-  - School buses
-  - Ed. Code 39860
-  - Transportation to school activities
-  - Ed. Code 51202
-  - Instruction in personal and public health and safety
-  - Pen. Code 241.3
-  - Assault against school bus drivers
-  - Pen. Code 243.3
-  - Battery against school bus drivers
-  - Veh. Code 22112
-  - School bus signals; roadway
+  - 13 CCR 1200-1294 - Motor carrier safety
+  - 13 CCR 2480 - Vehicle idling; limitations
+  - 19 CCR 574-575.3 - Inspection and maintenance of fire extinguishers
+  - 49 CCR 571.1-571.500 - Motor vehicle standards, including school buses
+  - 5 CCR 14100-14105 - School buses and student activity buses
+  - Ed. Code 39830-39843 - School buses
+  - Ed. Code 39860 - Transportation to school activities
+  - Ed. Code 51202 - Instruction in personal and public health and safety
+  - Pen. Code 241.3 - Assault against school bus drivers
+  - Pen. Code 243.3 - Battery against school bus drivers
+  - Veh. Code 22112 - School bus signals; roadway crossings
+  - Veh. Code 23123.5 - Mobile communication devices; text messaging while driving
+  - 262
+  - Veh. Code 23125 - Wireless telephones in school buses
+  - Veh. Code 27316-27316.5 - Passenger restraint systems
+  - Veh. Code 28160 - Child safety alert system
+  - Veh. Code 34500 - California Highway Patrol responsibility to regulate safe operation of school - buses
+  - Veh. Code 34501.5 - California Highway Patrol responsibility to adopt rules re: safe operation of - school buses
+  - Veh. Code 34501.6 - School buses; reduced visibility
+  - Veh. Code 34508 - California Highway Patrol responsibility to adopt rules re: equipment and - bus operations
+  - Veh. Code 415 - Definition of motor vehicle
+  - Veh. Code 545-546 - Definition of school bus and student activity bus
 
-Management Resources:
-  - California Department of Education Publication
-  - Passenger Restraints Frequently Asked Questions
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - American School Bus Council
-  - Website
-  - California Association of School Transportation Officials
-  - Website
-  - National Transportation Safety Board
-  - Website
-  - U.S. Department of Transportation, National Highway Traffic Safety
-  - Administration
-  - Website
-  - California Department of Education, Office of School Transportation
-  - Website
-  - California Highway Patrol
-  - Website
-  - California Association of School Business Officials
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3000 - Concepts And Roles
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.3 - Earthquake Emergency Procedure System
+  - 3516.5 - Emergency Schedules
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3540 - Transportation
+  - 3540 - Transportation
+  - 3541.1 - Transportation For School-Related Trips
+  - 3542 - School Bus Drivers
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4231 - Staff Development
+  - 5131.1 - Bus Conduct
+  - 5131.1 - Bus Conduct
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5145.6 - Parent/Guardian Notifications
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education

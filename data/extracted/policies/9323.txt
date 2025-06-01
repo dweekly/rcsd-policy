@@ -53,8 +53,7 @@ not appearing on the posted agenda, except as authorized by law. (Education Code
 questions posed by the public about items not appearing on the agenda. Additionally, on their own initiative or in
 response to questions posed by the public, a Governing Board or staff member may ask a question for clarification,
 make a brief announcement, or make a brief report on their own activities. (Government Code 54954.2)
-Board Policy Manual
-Redwood City School District
+
 
  Furthermore, the Governing Board or a Governing Board member may provide a reference to staff or other resources
 for factual information, ask staff to report back to the Governing Board at a subsequent meeting concerning any
@@ -109,7 +108,7 @@ that constitutes use of force or a true threat of force. (Government Code 54957.
 True threat of force means a threat that has sufficient indicia of intent and seriousness, that a reasonable observer would
 perceive it to be an actual threat to use force by the person making the threat. (Government Code 54957.95)
 
-Policy Reference Disclaimer:
+
 Additionally, the Governing Board may order the room cleared if necessary. In this case, members of the media not
 participating in the disturbance shall be allowed to remain, and individuals not participating in such disturbances may be
 allowed to remain at the discretion of the Governing Board. When the room is ordered cleared due to a disturbance, further
@@ -132,80 +131,57 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Code of Civil Procedure 527.8
-  - Workplace violence safety
-  - Ed. Code 32210
-  - Willful disturbance of public school or meeting
-  - Ed. Code 35010
-  - Control of district; prescription and enforcement of rules
-  - Ed. Code 35145.5
-  - Agenda; public participation and regulations
-  - Ed. Code 35163
-  - Official actions, minutes and journal
-  - Ed. Code 35164
-  - Actions by majority vote
-  - Ed. Code 35165
-  - Effect of vacancies upon majority and unanimous votes by seven member
-  - board
-  - Ed. Code 5095
-  - Powers of remaining board members and new appointees
-  - Elec. Code 18430
-  - Prevention or hinderance of electors assembling in public meeting
-  - Gov. Code 54953.3
-  - Meetings to be open and public; remote attendance
-  - Gov. Code 54953.5
-  - Audio or video recording of proceedings
-  - Gov. Code 54953.6
-  - Broadcasting of proceedings
-  - Gov. Code 54954.2
-  - Agenda posting requirements; board actions
-  - Gov. Code 54954.3
-  - Opportunity for public to address legislative body
-  - Gov. Code 54957
-  - Closed session personnel matters
-  - Gov. Code 54957.9
-  - Disorderly conduct of general public during meeting; clearing of room
-  - Gov. Code 54957.95
-  - Opening meetings; orderly conduct
-  - Pen. Code 403
-  - Disruption of assembly or meeting
+  - Code of Civil Procedure 527.8 - Workplace violence safety
+  - Ed. Code 32210 - Willful disturbance of public school or meeting
+  - Ed. Code 35010 - Control of district; prescription and enforcement of rules
+  - Ed. Code 35145.5 - Agenda; public participation and regulations
+  - Ed. Code 35163 - Official actions, minutes and journal
+  - Ed. Code 35164 - Actions by majority vote
+  - Ed. Code 35165 - Effect of vacancies upon majority and unanimous votes by seven member - board
+  - Ed. Code 5095 - Powers of remaining board members and new appointees
+  - Elec. Code 18430 - Prevention or hinderance of electors assembling in public meeting
+  - Gov. Code 54953.3 - Meetings to be open and public; remote attendance
+  - Gov. Code 54953.5 - Audio or video recording of proceedings
+  - Gov. Code 54953.6 - Broadcasting of proceedings
+  - Gov. Code 54954.2 - Agenda posting requirements; board actions
+  - Gov. Code 54954.3 - Opportunity for public to address legislative body
+  - Gov. Code 54957 - Closed session personnel matters
+  - Gov. Code 54957.9 - Disorderly conduct of general public during meeting; clearing of room
+  - Gov. Code 54957.95 - Opening meetings; orderly conduct
+  - Pen. Code 403 - Disruption of assembly or meeting
 
 Management Resources:
-  - Attorney General Opinion
-  - 55 Ops.Cal.Atty.Gen. 26 (1972)
-  - Attorney General Opinion
-  - 61 Ops.Cal.Atty.Gen. 243, 253 (1978)
-  - Attorney General Opinion
+  - 55 Ops.Cal.Atty.Gen. 26 (1972) - Attorney General Opinion
+  - 61 Ops.Cal.Atty.Gen. 243, 253 (1978) - Attorney General Opinion
   - 63 Ops.Cal.Atty.Gen. 215 (1980)
-  - 77
-  - Attorney General Opinion
-  - 66 Ops.Cal.Atty.Gen. 336 (1983)
-  - Attorney General Opinion
-  - 76 Ops.Cal.Atty.Gen. 281 (1993)
-  - Attorney General Opinion
-  - 90 Ops.Cal.Atty.Gen. 47 (2007)
-  - Attorney General Opinion
-  - 59 Ops.Cal.Atty.Gen. 532 (1976)
-  - Attorney General Publication
-  - The Brown Act: Open Meetings for Legislative Bodies, rev. 2003
-  - Court Decision
-  - Baca v. Moreno Valley Unified School District (1996) 936 F. Supp. 719
-  - Court Decision
-  - City of San Jose v. William Garbett (2010) 190 Cal. App. 4th 526
-  - Court Decision
-  - McMahon v. Albany Unified School District (2002) 104 Cal.App.4th 1275
-  - Court Decision
-  - Norse v. City of Santa Cruz (9th Cir. 2010) 629 F3d 966
-  - Court Decision
-  - Rubin v. City of Burbank (2002) 101 Cal.App.4th 1194
-  - CSBA Publication
-  - The Brown Act: School Boards and Open Meeting Laws, rev. 2023
-  - CSBA Publication
-  - Call to Order: A Blueprint for Great Board Meetings
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Attorney General's Office
-  - Website
-  - CSBA
-  - Management Resources
+  - 77 - Attorney General Opinion
+  - 66 Ops.Cal.Atty.Gen. 336 (1983) - Attorney General Opinion
+  - 76 Ops.Cal.Atty.Gen. 281 (1993) - Attorney General Opinion
+  - 90 Ops.Cal.Atty.Gen. 47 (2007) - Attorney General Opinion
+  - 59 Ops.Cal.Atty.Gen. 532 (1976) - Attorney General Publication - The Brown Act: Open Meetings for Legislative Bodies, rev. 2003 - Court Decision - Baca v. Moreno Valley Unified School District (1996) 936 F. Supp. 719 - Court Decision - City of San Jose v. William Garbett (2010) 190 Cal. App. 4th 526 - Court Decision - McMahon v. Albany Unified School District (2002) 104 Cal.App.4th 1275 - Court Decision - Norse v. City of Santa Cruz (9th Cir. 2010) 629 F3d 966 - Court Decision - Rubin v. City of Burbank (2002) 101 Cal.App.4th 1194 - CSBA Publication - The Brown Act: School Boards and Open Meeting Laws, rev. 2023 - CSBA Publication - Call to Order: A Blueprint for Great Board Meetings - Website - CSBA District and County Office of Education Legal Services - Website - California Attorney General's Office - Website - CSBA
+
+Cross References:
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1313 - Civility
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3270 - Sale And Disposal Of Books, Equipment And Supplies
+  - 3312 - Contracts
+  - 9005 - Governance Standards
+  - 9100 - Organization
+  - 9121 - President
+  - 9130 - Board Committees
+  - 9200 - Limits Of Board Member Authority
+  - 9230 - Orientation
+  - 9270 - Conflict Of Interest
+  - 9310 - Board Policies
+  - 9320 - Meetings And Notices
+  - 9322 - Agenda/Meeting Materials
+  - 9323.2 - Actions By The Board
+  - 9324 - Minutes And Recordings

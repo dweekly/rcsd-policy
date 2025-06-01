@@ -31,92 +31,182 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 11987-11987.7
-  - School Community Violence Prevention Program requirements
-  - 5 CCR 11992-11993
-  - Persistently dangerous schools; definition
-  - CA Constitution Article 1, Section 28
-  - Right to Safe Schools
-  - Ed. Code 200-270
-  - Prohibition of discrimination
+  - 5 CCR 11987-11987.7 - School Community Violence Prevention Program requirements
+  - 5 CCR 11992-11993 - Persistently dangerous schools; definition
+  - CA Constitution Article 1, Section 28 - Right to Safe Schools
+  - Ed. Code 200-270 - Prohibition of discrimination
   - Ed. Code 32260-32262
   - Interagency School Safety Demonstration Act of 1985
-  - Ed. Code 32270
-  - School safety cadre
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Ed. Code 32290
-  - Safety devices
-  - Ed. Code 35147
-  - School site councils and advisory committees
-  - Ed. Code 35183
-  - School dress code; uniforms
-  - Ed. Code 35266
-  - Reporting of cyber attacks
-  - Ed. Code 35291
-  - Rules
-  - Ed. Code 35291.5
-  - School-adopted discipline rules
-  - Ed. Code 41020
-  - Requirement for annual audit
-  - Ed. Code 48900-48927
-  - Suspension and expulsion
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 32270 - School safety cadre
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 32290 - Safety devices
+  - Ed. Code 35147 - School site councils and advisory committees
+  - Ed. Code 35183 - School dress code; uniforms
+  - Ed. Code 35266 - Reporting of cyber attacks
+  - Ed. Code 35291 - Rules
+  - Ed. Code 35291.5 - School-adopted discipline rules
+  - Ed. Code 41020 - Requirement for annual audit
+  - Ed. Code 48900-48927 - Suspension and expulsion
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 48980 - Parent/Guardian notifications - Board Policy Manual - Redwood City School District
   - 82
-  - Ed. Code 49079
-  - Notification to teacher; student act constituting grounds for suspension or
-  - expulsion
-  - Ed. Code 49390-49395
-  - Homicide threats
-  - Ed. Code 67381
-  - Availability of information regarding crimes
-  - Gov. Code 11549.3
-  - Independent security assessment
-  - Gov. Code 54957
-  - Closed session meetings for threats to security
-  - Gov. Code 8586.5
-  - California Cybersecurity Integration Center
-  - Pen. Code 11164-11174.3
-  - Child Abuse and Neglect Reporting Act
-  - Pen. Code 422.55
-  - Definition of hate crime
-  - Pen. Code 626.8
-  - Disruptions
-  - State
+  - Ed. Code 49079 - Notification to teacher; student act constituting grounds for suspension or - expulsion
+  - Ed. Code 49390-49395 - Homicide threats
+  - Ed. Code 67381 - Availability of information regarding crimes
+  - Gov. Code 11549.3 - Independent security assessment
+  - Gov. Code 54957 - Closed session meetings for threats to security
+  - Gov. Code 8586.5 - California Cybersecurity Integration Center
+  - Pen. Code 11164-11174.3 - Child Abuse and Neglect Reporting Act
+  - Pen. Code 422.55 - Definition of hate crime
+  - Pen. Code 626.8 - Disruptions
 
 Federal References:
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 20 USC 7111-7122
-  - Student support and academic enrichment grants
-  - 20 USC 7912
-  - Transfers from persistently dangerous schools
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 20 USC 7111-7122 - Student support and academic enrichment grants
+  - 20 USC 7912 - Transfers from persistently dangerous schools
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
-  - 6 USC 665k
-  - Federal Clearinghouse on School Safety Evidence-Based Practices
+  - 42 USC 12101-12213 - Americans with Disabilities Act
+  - 6 USC 665k - Federal Clearinghouse on School Safety Evidence-Based Practices
 
 Management Resources:
-  - CSBA Publication
-  - School Safety: Firearm Safety and Storage, May 2023
-  - CSBA Publication
-  - Community Schools: Partnerships Supporting Students, Families and
-  - Communities, Policy Brief, October 2010
-  - CSBA Publication
-  - Cyberbullying: Policy Considerations for Boards, Policy Brief, rev. July 2010
-  - CSBA Publication
-  - Providing a Safe, Nondiscriminatory School Environment for Transgender
-  - and Gender-Nonconforming Students, Policy Brief, February 2014
-  - CSBA Publication
-  - Safe Schools: Strategies for Governing Boards to Ensure Student Success,
-  - 2011
-  - CSBA Publication
-  - Legal Guidance on Rights of Transgender and Gender Nonconforming
-  - Students in Schools, October 2022
+  - 2011 - CSBA Publication - Legal Guidance on Rights of Transgender and Gender Nonconforming - Students in Schools, October 2022 - Federal Bureau of Investigation Publication - Uniform Crime Reporting Handbook, 2004 - U.S. Department of Education Publication - Practical Information on Crisis Planning: A Guide for Schools and - Communities, January 2007 - U.S. Secret Service & Department of Education - Pub - Threat Assessment in Schools: A Guide to Managing Threatening Situations - and to Creating Safe School Climates, 2004 - Website - California Department of Education, Language Services Policy and Process - Website - Schoolsafety.gov - Website - California Department of Education, Safe Schools Planning - Website - California Military Department - Website - California Department of Technology, Independent Security Assessment - Website - U.S. Department of Homeland Security, Fusion Centers - Website - California State Threat Assessment System - Website - CSBA District and County Office of Education Legal Services
+  - 83 - Website - U.S. Secret Service, National Threat Assessment Center - Website - Centers for Disease Control and Prevention - Website - Federal Bureau of Investigation - Website - National Center for Crisis Management - Website - National School Safety Center - Website - California Department of Education, Safe Schools - Website - California Governor's Office of Emergency Services - Website - California Healthy Kids Survey - Website - U.S. Department of Education - Website - CSBA
+
+Cross References:
+  - 0400 - Comprehensive Plans
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0510 - School Accountability Report Card
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1313 - Civility
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3514 - Environmental Safety
+  - 3514 - Environmental Safety
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3514.2 - Integrated Pest Management
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.5 - Sex Offender Notification
+  - 3515.5 - Sex Offender Notification
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.1 - Fire Drills And Fires
+  - 3516.2 - Bomb Threats
+  - 3516.3 - Earthquake Emergency Procedure System
+  - 3516.5 - Emergency Schedules
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3543 - Transportation Safety And Emergencies
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4140 - Bargaining Units
+  - 4141.6 - Concerted Action/Work Stoppage
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4231 - Staff Development
+  - 4241.6 - Concerted Action/Work Stoppage
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5131.41 - Use Of Seclusion And Restraint
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.8 - Mobile Communication Devices
+  - 5132 - Dress And Grooming
+  - 5132 - Dress And Grooming
+  - 5136 - Gangs
+  - 5136 - Gangs
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5142 - Safety
+  - 5142 - Safety
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.2 - Suspension And Expulsion/Due Process (Students With Disabilities)
+  - 5145.12 - Search And Seizure
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.3 - Civic Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6164.2 - Guidance/Counseling Services
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6184 - Continuation Education
+  - 6184 - Continuation Education
+  - 9010 - Public Statements
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9320 - Meetings And Notices

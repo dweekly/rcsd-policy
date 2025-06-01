@@ -43,10 +43,9 @@ If students' names are not included, photographs of individual students or group
 may be published on school or district websites.
 Employees' home addresses, personal telephone numbers, and personal email addresses shall not be posted on district or 
 school websites.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 The home address or telephone number of any elected or appointed official including, but not limited to, a Board 
 member or public safety official, shall not be posted on district or school websites without the prior written permission 
 of that individual. (Government Code 3307.5, 7928.205, 7920.535)
@@ -60,96 +59,120 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Bus. and Prof. Code 22580-22582
-  - Privacy rights for California minors in the digital world
+  - Bus. and Prof. Code 22580-22582 - Privacy rights for California minors in the digital world
   - Bus. and Prof. Code 22584-22585
   - K-12 Pupil Online Personal Information Protection Act
-  - Bus. and Prof. Code 22586-22587
-  - Early Learning Personal Information Protection Act
-  - Ed. Code 32526
-  - Use of learning recovery funds
-  - Ed. Code 33353
-  - California Interscholastic Federation; standardized incident form
-  - Ed. Code 35182.5
-  - Contracts for advertising
-  - Ed. Code 35258
-  - Internet access to school accountability report cards
-  - Ed. Code 42103
-  - Budget notification
-  - Ed. Code 48852.6
-  - Information regarding homelessness
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 48985.5
-  - Synthetic drug use
-  - Ed. Code 48985.5
-  - Synthetic drugs
-  - Ed. Code 49006
-  - Seclusion and restraint
-  - Ed. Code 49061
-  - Definitions; directory information
-  - Ed. Code 49073
-  - Release of directory information
-  - Ed. Code 5092
-  - Filling Vacancies
-  - Ed. Code 60048
-  - Commercial brand names, contracts or logos
-  - Gov. Code 11135
-  - Prohibition of discrimination
-  - Gov. Code 12950
-  - California Civil Rights Department posters
-  - Gov. Code 3307.5
-  - Publishing identity of public safety officers
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
-  - Pen. Code 14029.5
-  - Prohibition against publishing personal information of person in witness
-  - protection program
-  - Pub. Res. Code 21082.1
-  - California Environmental Quality Act environmental review documents
+  - Bus. and Prof. Code 22586-22587 - Early Learning Personal Information Protection Act
+  - Ed. Code 32526 - Use of learning recovery funds
+  - Ed. Code 33353 - California Interscholastic Federation; standardized incident form
+  - Ed. Code 35182.5 - Contracts for advertising
+  - Ed. Code 35258 - Internet access to school accountability report cards
+  - Ed. Code 42103 - Budget notification
+  - Ed. Code 48852.6 - Information regarding homelessness
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 48985.5 - Synthetic drug use
+  - Ed. Code 48985.5 - Synthetic drugs
+  - Ed. Code 49006 - Seclusion and restraint
+  - Ed. Code 49061 - Definitions; directory information
+  - Ed. Code 49073 - Release of directory information
+  - Ed. Code 5092 - Filling Vacancies
+  - Ed. Code 60048 - Commercial brand names, contracts or logos
+  - Gov. Code 11135 - Prohibition of discrimination
+  - Gov. Code 12950 - California Civil Rights Department posters
+  - Gov. Code 3307.5 - Publishing identity of public safety officers
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
+  - Pen. Code 14029.5 - Prohibition against publishing personal information of person in witness - protection program
+  - Pub. Res. Code 21082.1 - California Environmental Quality Act environmental review documents
   - 15
 
 Federal References:
-  - 16 CFR 312.1-312.13
-  - Children's Online Privacy Protection Act
-  - 17 USC 101-122
-  - Subject matter and scope of copyright
-  - 17 USC 504
-  - Penalties for copyright infringement
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 29 USC 705
-  - Definitions; Vocational Rehabilitation Act
+  - 16 CFR 312.1-312.13 - Children's Online Privacy Protection Act
+  - 17 USC 101-122 - Subject matter and scope of copyright
+  - 17 USC 504 - Penalties for copyright infringement
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 29 USC 705 - Definitions; Vocational Rehabilitation Act
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 104.1-104.61
-  - Nondiscrimination on the basis of disability
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
+  - 34 CFR 104.1-104.61 - Nondiscrimination on the basis of disability
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
+  - 42 USC 12101-12213 - Americans with Disabilities Act
 
 Management Resources:
-  - CA Civil Rights Department Publication
-  - Family Care and Medical Leave and Pregnancy Disability Leave, January
-  - 2023
-  - CA Civil Rights Department Publication
-  - California Law Prohibits Workplace Discrimination and Harassment, January
-  - 2024
-  - CA Civil Rights Department Publication
-  - The Rights of Employees Who Are Transgender or Gender Nonconforming:
-  - Fact Sheet, November 2022
-  - CA Civil Rights Department Publication
-  - Your Rights and Obligations as a Pregnant Employee, January 2023
-  - Court Decision
-  - Aaris v. Las Virgenes Unified School District (1998) 64 Cal.App.4th 1112
-  - Court Decision
-  - City of San Jose v. Superior Court (2017) 2 Cal.5th 608
-  - U.S. Department of Agriculture Publication
-  - Unpaid Meal Charges: Local Meal Charge Policies, SP 46-2016, July 2016
-  - U.S. DOE, Office for Civil Rights Publication
-  - Dear Colleague Letter: Race and School Programming, August 2023
-  - U.S. DOJ, Civil Rights Division Publication
-  - Accessibility of
+  - 2023 - CA Civil Rights Department Publication - California Law Prohibits Workplace Discrimination and Harassment, January
+  - 2024 - CA Civil Rights Department Publication - The Rights of Employees Who Are Transgender or Gender Nonconforming: - Fact Sheet, November 2022 - CA Civil Rights Department Publication - Your Rights and Obligations as a Pregnant Employee, January 2023 - Court Decision - Aaris v. Las Virgenes Unified School District (1998) 64 Cal.App.4th 1112 - Court Decision - City of San Jose v. Superior Court (2017) 2 Cal.5th 608 - U.S. Department of Agriculture Publication - Unpaid Meal Charges: Local Meal Charge Policies, SP 46-2016, July 2016 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter: Race and School Programming, August 2023 - U.S. DOJ, Civil Rights Division Publication - Accessibility of State and Local Government Websites to People with - Disabilities, February 2020 - Website - California Interscholastic Federation - Website - Fact Sheet: New rule on the accessibility of web content and mobile apps - provided by state and local governments - Website - California Cybersecurity Integration Center - Website - CSBA District and County Office of Education Legal Services - Website - Governor's Office of Planning and Research, The California Environmental - Quality Act - Website - California Department of Education, Web Accessibility Standards - Website - California School Public Relations Association - Website - California Interscholastic Federation - Website - U.S. Department of Justice, Civil Rights Division, Disability Rights Section - Website - World Wide Web Consortium, Web Accessibility Initiative - Website - CSBA - Website - U.S. Department of Education, Office for Civil Rights - Website - California Civil Rights Department - World Wide Web Consortium Publication - Web Content Accessibility Guidelines, June 2018
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0510 - School Accountability Report Card
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3290 - Gifts, Grants And Bequests
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3513.3 - Tobacco-Free Schools
+  - 3513.3 - Tobacco-Free Schools
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.5 - Emergency Schedules
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4040 - Employee Use Of Technology
+  - 4119.21 - Professional Standards
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4132 - Publication Or Creation Of Materials
+  - 4161.8 - Family Care And Medical Leave
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4261.8 - Family Care And Medical Leave
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 4361.8 - Family Care And Medical Leave
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.1 - Release Of Directory Information
+  - 5125.1 - Release Of Directory Information
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.41 - Use Of Seclusion And Restraint
+  - 5141.5 - Mental Health
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.4 - Student Use Of Technology
+  - 6163.4 - Student Use Of Technology
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6190 - Evaluation Of The Instructional Program
+  - 9010 - Public Statements
+  - 9223 - Filling Vacancies
+  - 9310 - Board Policies
+  - 9320 - Meetings And Notices
+  - 9322 - Agenda/Meeting Materials

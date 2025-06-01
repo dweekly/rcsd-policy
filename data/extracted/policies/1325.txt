@@ -56,10 +56,9 @@ Spanish.
 3. Paid promotion and advertisements in school-sponsored publications, yearbooks, announcements and other
 school communications
 The use of promotional materials or advertisements does not imply district endorsement of any identified
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 products or services. Schools shall include a disclaimer in school publications and yearbooks stating that the
 school does not endorse any advertised products or services.
  
@@ -106,49 +105,59 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Bus. Code 25664
-  - Advertisements encouraging minors to drink
-  - CA Constitution Article 1, Section 2
-  - Freedom of speech and expression
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 35172
-  - Promotional activities
-  - Ed. Code 38130-38139
-  - Civic Center Act
-  - Ed. Code 49430-49434
-  - The Pupil Nutrition, Health, and Achievement Act of 2001
+  - Bus. Code 25664 - Advertisements encouraging minors to drink
+  - CA Constitution Article 1, Section 2 - Freedom of speech and expression
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 35172 - Promotional activities
+  - Ed. Code 38130-38139 - Civic Center Act
+  - Ed. Code 49430-49434 - The Pupil Nutrition, Health, and Achievement Act of 2001
   - 119
-  - Ed. Code 49431.9
-  - Prohibition of advertisement of non-nutritious foods
-  - Ed. Code 7050-7058
-  - Political activities of school officers and employees
-  - State
+  - Ed. Code 49431.9 - Prohibition of advertisement of non-nutritious foods
+  - Ed. Code 7050-7058 - Political activities of school officers and employees
 
 Federal References:
-  - 42 USC 1751-1769j
-  - School Lunch Program
-  - 42 USC 1773
-  - School Breakfast Program
-  - U.S. Constitution, First Amendment
-  - Free exercise, free speech, and establishment clauses
+  - 42 USC 1751-1769j - School Lunch Program
+  - 42 USC 1773 - School Breakfast Program - U.S. Constitution, First Amendment - Free exercise, free speech, and establishment clauses
 
-Management Resources:
-  - Court Decision
-  - Yeo v. Town of Lexington (1997) 131 F.3d 241
-  - Court Decision
-  - Bright v. Los Angeles Unified School District (1976) 18 Cal. 3d 450
-  - Court Decision
-  - DiLoreto v. Downey Unified School District (1999) 196 F.3d 958
-  - Court Decision
-  - Hemry v. School Board of Colorado Springs (D.Col. 1991) 760 F.Supp. 856
-  - Court Decision
-  - Hills v. Scottsdale Unified School District (2003) 329 F.3d 1044
-  - Court Decision
-  - Lehman v. Shaker Heights (1974) 418 U.S. 298
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1160 - Political Processes
+  - 1321 - Solicitation Of Funds From And By Students
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3290 - Gifts, Grants And Bequests
+  - 3312 - Contracts
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 4135 - Soliciting And Selling
+  - 5030 - Student Wellness
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.6 - Alcohol And Other Drugs
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6141.2 - Recognition Of Religious Beliefs And Customs
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6145.5 - Student Organizations And Equal Access
+  - 6145.5 - Student Organizations And Equal Access
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6162.8 - Research
+  - 6162.8 - Research
+  - 7310 - Naming Of Facility

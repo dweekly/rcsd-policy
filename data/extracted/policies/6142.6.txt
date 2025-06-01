@@ -54,66 +54,57 @@ specifies how the funds will be allocated among schools and for districtwide pur
 allocations. Prior to the public meeting, the Board shall inform school site councils, schoolwide advisory groups, or
 school support groups, as applicable, of the content of the proposed resolution and of the time and location where
 the resolution is proposed to be adopted. (SB 77, Item 6110-265-0001, Statutes of 2007)
-Board Policy Manual
-Redwood City School District
-
-Policy Reference Disclaimer:
 
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 32060-32066
-  - Toxic art supplies
-  - Ed. Code 35330-35332
-  - Field trips
+  - Ed. Code 32060-32066 - Toxic art supplies
+  - Ed. Code 35330-35332 - Field trips
   - Ed. Code 51210
   - Course of study for grades 1-6
   - Ed. Code 51220
   - Course of study for grades 7-12
-  - Ed. Code 51225.3
-  - High school graduation requirements
-  - Ed. Code 58800-58805
-  - Specialized secondary programs
-  - Ed. Code 60200-60213
-  - Instructional materials; elementary schools
-  - Ed. Code 60400-60411
-  - Instructional materials; high schools
-  - Ed. Code 8950-8957
-  - California summer school for the arts
-  - Ed. Code 99200-99204
-  - Subject matter projects
+  - Ed. Code 51225.3 - High school graduation requirements
+  - Ed. Code 58800-58805 - Specialized secondary programs
+  - Ed. Code 60200-60213 - Instructional materials; elementary schools
+  - Ed. Code 60400-60411 - Instructional materials; high schools
+  - Ed. Code 8950-8957 - California summer school for the arts
+  - Ed. Code 99200-99204 - Subject matter projects
 
-Management Resources:
-  - California Alliance For Arts Education Publication Parents' Guide to the Visual and Performing Arts in California Public Schools
-  - California Department of Education Publication
-  - California Arts Framework for Public Schools, Kindergarten through Grade
-  - Twelve
-  - California Department of Education Publication
-  - California Arts Standards for Public Schools, Prekindergarten through Grade
-  - Twelve, January 2019
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - The California Arts Project
-  - Website
-  - Arts Education Partnership
-  - Website
-  - California Alliance for Arts Education
-  - Website
-  - California Art Education Association
-  - Website
-  - California Arts Council
-  - Website
-  - California Association for Music Education
-  - Website
-  - California Dance Education Association
-  - Website
-  - California Department of Education, Visual and Performing Arts
-  - Website
-  - California Educational Theatre Association
-  - Website
-  - California Music Educators Association
-  - Website
-  - CSBA
+Cross References:
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1230 - School-Connected Organizations
+  - 1230 - School-Connected Organizations
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1260 - Educational Foundation
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3290 - Gifts, Grants And Bequests
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6145.8 - Assemblies And Special Events
+  - 6153 - School-Sponsored Trips
+  - 6153 - School-Sponsored Trips
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.1 - Library Media Centers
+  - 6172 - Gifted And Talented Student Program
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction

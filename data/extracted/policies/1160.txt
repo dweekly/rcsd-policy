@@ -49,10 +49,9 @@ shall not use district resources to secure signatures in order to qualify the me
 Upon request, Board members and district administrators may appear at any time before a citizens' group to explain
 why the Board called for an election on a bond measure and to answer questions. (Education Code 7054.1)
 If the presentation occurs during working hours, the district representative shall not urge a citizens' group to vote for
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 or against the bond measure.
 For informational purposes, the Superintendent or designee may conduct a poll related to a ballot issue. Such a poll
 shall not advocate a particular position on the issue.
@@ -69,76 +68,45 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 18600-18640
-  - Lobbyists
-  - 2 CCR 18901.1
-  - Campaign related mailings sent at public expense
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35172
-  - Promotional activities
-  - Ed. Code 7050-7058
-  - Political activities of school officers and employees
-  - Ed. Code 7054
-  - Use of district property
-  - Ed. Code 7054.1
-  - Requested appearance
-  - Ed. Code 7056
-  - Soliciting or receiving political funds
-  - Elec. Code 9160-9170
-  - Ballot label; support and opposition listings
-  - Elec. Code 9501
-  - School district elections; arguments for or against a measure
-  - Gov. Code 53060.5
-  - Attendance at legislative body; expenses
-  - Gov. Code 54953.5
-  - Audio or video recording of proceedings
-  - Gov. Code 54953.6
-  - Broadcasts of proceedings
-  - Gov. Code 81000-91014
-  - Political Reform Act
-  - Gov. Code 82031
-  - Definition of independent expenditure
-  - Gov. Code 8314
-  - Unlawful use of state resources
+  - 2 CCR 18600-18640 - Lobbyists
+  - 2 CCR 18901.1 - Campaign related mailings sent at public expense
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35172 - Promotional activities
+  - Ed. Code 7050-7058 - Political activities of school officers and employees
+  - Ed. Code 7054 - Use of district property
+  - Ed. Code 7054.1 - Requested appearance
+  - Ed. Code 7056 - Soliciting or receiving political funds
+  - Elec. Code 9160-9170 - Ballot label; support and opposition listings
+  - Elec. Code 9501 - School district elections; arguments for or against a measure
+  - Gov. Code 53060.5 - Attendance at legislative body; expenses
+  - Gov. Code 54953.5 - Audio or video recording of proceedings
+  - Gov. Code 54953.6 - Broadcasts of proceedings
+  - Gov. Code 81000-91014 - Political Reform Act
+  - Gov. Code 82031 - Definition of independent expenditure
+  - Gov. Code 8314 - Unlawful use of state resources
 
 Management Resources:
-  - Attorney General Opinion
-  - 73 Ops.Cal.Atty.Gen. 255 (1990)
-  - Attorney General Opinion
-  - 88 Ops.Cal.Atty.Gen. 46 (2005)
-  - Court Decision
-  - Choice-in-Education League et al v. Los Angeles Unified School District
-  - (1993) 17 Cal.App.4th 415
-  - Court Decision
-  - League of Women Voters v. Countywide Criminal Justice Coordination
-  - Committee (1988) 203 Cal.App.3d 529
-  - Court Decision
-  - Miller v. Miller (1978) 87 Cal.App.3d 762
-  - Court Decision
-  - Santa Barbara County Coalition Against Automobile Subsidies v. Santa
-  - Barbara County Association of Governments (2008) 167 Cal.App.4th 1229
-  - Court Decision
-  - Stanson v. Mott (1976) 17 Cal. 3d 206
-  - Court Decision
-  - Vargas v. City of Salinas (2009) 46 Cal. 4th 1
-  - 40
-  - Court Decision
-  - Yes on Measure A v. City of Lake Forest (1997) 60 Cal.App.4th 620
-  - CSBA Publication
-  - Legal Guidelines for Lobbying Activity, Fact Sheet, February 2011
-  - CSBA Publication
-  - Legal Guidelines: Use of Public Resources for Ballot Measures and
-  - Candidates, Fact Sheet, February 2011
-  - Institute for Local Government Publication
-  - Legal Issues Associated with Use of Public Resources and Ballot Measure
-  - Activities, June 2010
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Institute for Local Government
-  - Website
-  - Fair Political Practices Commission
-  - Website
-  - CSBA
-  - Management Resources
+  - 73 Ops.Cal.Atty.Gen. 255 (1990) - Attorney General Opinion
+  - 88 Ops.Cal.Atty.Gen. 46 (2005) - Court Decision - Choice-in-Education League et al v. Los Angeles Unified School District - (1993) 17 Cal.App.4th 415 - Court Decision - League of Women Voters v. Countywide Criminal Justice Coordination - Committee (1988) 203 Cal.App.3d 529 - Court Decision - Miller v. Miller (1978) 87 Cal.App.3d 762 - Court Decision - Santa Barbara County Coalition Against Automobile Subsidies v. Santa - Barbara County Association of Governments (2008) 167 Cal.App.4th 1229 - Court Decision - Stanson v. Mott (1976) 17 Cal. 3d 206 - Court Decision - Vargas v. City of Salinas (2009) 46 Cal. 4th 1
+  - 40 - Court Decision - Yes on Measure A v. City of Lake Forest (1997) 60 Cal.App.4th 620 - CSBA Publication - Legal Guidelines for Lobbying Activity, Fact Sheet, February 2011 - CSBA Publication - Legal Guidelines: Use of Public Resources for Ballot Measures and - Candidates, Fact Sheet, February 2011 - Institute for Local Government Publication - Legal Issues Associated with Use of Public Resources and Ballot Measure - Activities, June 2010 - Website - CSBA District and County Office of Education Legal Services - Website - Institute for Local Government - Website - Fair Political Practices Commission - Website - CSBA
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1112 - Media Relations
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1325 - Advertising And Promotion
+  - 1325 - Advertising And Promotion
+  - 1330 - Use Of School Facilities
+  - 1330 - Use Of School Facilities
+  - 1400 - Relations Between Other Governmental Agencies And The Schools
+  - 4119.25 - Political Activities Of Employees
+  - 4119.25 - Political Activities Of Employees
+  - 9000 - Role Of The Board
+  - 9010 - Public Statements
+  - 9124 - Attorney
+  - 9200 - Limits Of Board Member Authority
+  - 9230 - Orientation
+  - 9320 - Meetings And Notices

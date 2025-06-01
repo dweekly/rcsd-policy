@@ -42,27 +42,24 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 33050-33053
-  - General waiver authority
-  - Ed. Code 48000-48003
-  - Kindergartens
-  - Ed. Code 48800
-  - Attendance at community college
-  - Ed. Code 51747.3
-  - Charter school independent study funding
-  - Ed. Code 56000-56865
-  - Special education programs
-  - Ed. Code 65000-65001
-  - School site councils
+  - Ed. Code 33050-33053 - General waiver authority
+  - Ed. Code 48000-48003 - Kindergartens
+  - Ed. Code 48800 - Attendance at community college
+  - Ed. Code 51747.3 - Charter school independent study funding
+  - Ed. Code 56000-56865 - Special education programs
+  - Ed. Code 65000-65001 - School site councils
 
 Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Board Policy Manual
-  - Redwood City School District
-  - 148
-  - Website
-  - California Department of Education, Waiver Office
-  - Website
-  - Commission on Teacher Credentialing
-  - Management Resources
+  - 148 - Website - California Department of Education, Waiver Office - Website - Commission on Teacher Credentialing
+
+Cross References:
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 4112.23 - Special Education Staff
+  - 4140 - Bargaining Units
+  - 6111 - School Calendar
+  - 9320 - Meetings And Notices

@@ -47,10 +47,9 @@ services in one or more district schools. (Education Code 45103.5; 42 USC 1758; 
 Procurement of Foods, Equipment and Supplies
 To the maximum extent practicable, foods purchased for use in school meals by the district or by any entity
 purchasing food on its behalf shall be domestic commodities or products. Domestic commodity or product means an
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 agricultural commodity that is produced in the United States and a food product that is processed in the United
 States substantially using agricultural commodities that are produced in the United States. (42 USC 1760; 7 CFR
 210.21)
@@ -79,80 +78,79 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 12 CCR 18928-18998.4
-  - Short-lived climate pollutants
-  - 5 CCR 15550-15565
-  - School lunch and breakfast programs
-  - Ed. Code 38080-38086
-  - School meals
-  - Ed. Code 38090-38095
-  - Cafeterias; funds and accounts
-  - Ed. Code 38100-38103
-  - Cafeterias; allocation of charges
-  - Ed. Code 42646
-  - Alternate payroll procedure
-  - Ed. Code 45103.5
-  - Contracts for
+  - 12 CCR 18928-18998.4 - Short-lived climate pollutants
+  - 5 CCR 15550-15565 - School lunch and breakfast programs
+  - Ed. Code 38080-38086 - School meals
+  - Ed. Code 38090-38095 - Cafeterias; funds and accounts
+  - Ed. Code 38100-38103 - Cafeterias; allocation of charges
+  - Ed. Code 42646 - Alternate payroll procedure
+  - Ed. Code 45103.5 - Contracts for management consulting services; restrictions
+  - Ed. Code 49010 - Educational activity; definition
+  - Ed. Code 49431 - The Pupil Nutrition, Health, and Achievement Act of 2001
+  - Ed. Code 49490-49494 - School breakfast and lunch programs
+  - Ed. Code 49501.5-49506 - School Meals
+  - Ed. Code 49550.3-49562 - Meals for needy students
+  - Ed. Code 49554 - Contract for services
+  - Ed. Code 49580-49581 - Food recovery program - F&A Code 58595 - Preference for California-grown agricultural products - F&A Code 58596.1-58596.5 - Buy American Food Act; purchase of nondomestic agricultural food - products - H&S Code 113700-114437 - California Retail Food Code; sanitation and safety requirements
+  - Pub. Cont. Code 2000-2002 - Responsive bidders
+  - 276
+  - Pub. Cont. Code 20111 - Contracts over $50,000; contracts for construction; award to lowest - responsible bidder
+  - Pub. Cont. Code 3410 - U.S. produce and processed foods
 
 Federal References:
-  - 2 CFR 200
-  - Appendix VII Indirect cost proposals
-  - 2 CFR 200.318-200.326
-  - Procurement standards
-  - 2 CFR 200.400-200.475
-  - Cost principles
-  - 2 CFR 200.56
-  - Indirect costs; definition
-  - 42 USC 1751-1769j
-  - School Lunch Program
-  - 42 USC 1771-1793
-  - Child Nutrition Act
-  - 42 USC 1773
-  - School Breakfast Program
-  - 7 CFR 210.1-210.33
-  - National School Lunch Program
-  - 7 CFR 245.8
-  - Nondiscrimination practices for students eligible for free and reduced price
-  - meal and free milk
-  - 7 CFR 250.1-250.70
-  - USDA foods
+  - 2 CFR 200 - Appendix VII Indirect cost proposals
+  - 2 CFR 200.318-200.326 - Procurement standards
+  - 2 CFR 200.400-200.475 - Cost principles
+  - 2 CFR 200.56 - Indirect costs; definition
+  - 42 USC 1751-1769j - School Lunch Program
+  - 42 USC 1771-1793 - Child Nutrition Act
+  - 42 USC 1773 - School Breakfast Program
+  - 7 CFR 210.1-210.33 - National School Lunch Program
+  - 7 CFR 245.8 - Nondiscrimination practices for students eligible for free and reduced price - meal and free milk
+  - 7 CFR 250.1-250.70 - USDA foods
 
 Management Resources:
-  - CA Dept of Social Services Publication
-  - Food Distribution Program Administrative Manual
-  - California Department of Education Publication
-  - Professional Standards in the SNPs, NSD Management Bulletin, SNP-13-
-  - 2020, rev. January 2022
-  - California Department of Education Publication
-  - Food Service Management Company Contract Preapproval, NSD
-  - Management Bulletin, SNP-05-2023, March 2023
-  - California Department of Education Publication
-  - Unpaid Meal Charges: Local Meal Charge Policies, Clarification on
-  - Collection of Delinquent Meal Payments, and Excess Student Account
-  - Balances, NSD Management Bulletin, SNP-04-2023, July 2023
-  - California Department of Education Publication
-  - Excess Net Cash Resources – Revised to Increase Limitation, NSD
-  - Management Bulletin, SNP-04-2022, May 2022
-  - California Department of Education Publication
-  - Pricing of Adult Meals in the National School Lunch and School Breakfast
-  - Programs, NSD Management Bulletin, SNP-04-2021, August 2021
-  - California Department of Education Publication
-  - Procuring and Monitoring of Food Service Management Contracts, NSD
-  - Management Bulletin, SNP-13-2015, January 2015
-  - California Department of Education Publication
-  - Cafeteria Funds - Allowable Uses, NSD Management Bulletin, SNP-05-
-  - 2020, February 2020
-  - California Department of Education Publication
-  - Storage and Inventory Management of U.S. Department of Agriculture
-  - Foods, NSD Management Bulletin, FDP-01-2018, January 2018
-  - California Department of Education Publication
-  - California School Accounting Manual
-  - U.S. Department of Agriculture Publication
+  - 2020, rev. January 2022 - California Department of Education Publication - Food Service Management Company Contract Preapproval, NSD - Management Bulletin, SNP-05-2023, March 2023 - California Department of Education Publication - Unpaid Meal Charges: Local Meal Charge Policies, Clarification on - Collection of Delinquent Meal Payments, and Excess Student Account - Balances, NSD Management Bulletin, SNP-04-2023, July 2023 - California Department of Education Publication - Excess Net Cash Resources – Revised to Increase Limitation, NSD - Management Bulletin, SNP-04-2022, May 2022 - California Department of Education Publication - Pricing of Adult Meals in the National School Lunch and School Breakfast - Programs, NSD Management Bulletin, SNP-04-2021, August 2021 - California Department of Education Publication - Procuring and Monitoring of Food Service Management Contracts, NSD - Management Bulletin, SNP-13-2015, January 2015 - California Department of Education Publication - Cafeteria Funds - Allowable Uses, NSD Management Bulletin, SNP-05-
+  - 2020, February 2020 - California Department of Education Publication - Storage and Inventory Management of U.S. Department of Agriculture - Foods, NSD Management Bulletin, FDP-01-2018, January 2018 - California Department of Education Publication - California School Accounting Manual - U.S. Department of Agriculture Publication
   - Buy American and the Agriculture Improvement Act of 2018, SP-32-2019,
-  - August 2019
-  - U.S. Department of Agriculture Publication
-  - Procuring Local Foods for Child Nutrition Programs, January 2022
-  - U.S. Department of Agriculture Publication
-  - Unpaid Meal Charges: Local Meal Charge Policies, SP 46-2016, July 2016
-  - U.S. Department of Agriculture Publication
-  - Indirect Costs: Guidance for
+  - August 2019 - U.S. Department of Agriculture Publication - Procuring Local Foods for Child Nutrition Programs, January 2022 - U.S. Department of Agriculture Publication - Unpaid Meal Charges: Local Meal Charge Policies, SP 46-2016, July 2016 - U.S. Department of Agriculture Publication - Indirect Costs: Guidance for State Agencies and School Food Authorities, SP
+  - 60-2016, September 2016 - U.S. Department of Agriculture Publication - Compliance with and Enforcement of the Buy American Provision in the - National School Lunch Program, SP-38-2017, June 2017
+  - 277 - U.S. Department of Agriculture Publication - Discretionary Elimination of Reduced Price Charges in the School Meal - Programs, SP 17-2014, January 2014 - U.S. Dept of Agriculture Publication - School Meals - FAQs - Website - CalRecycle, Resources for Local Education Agencies: K-12 Public Schools - and School Districts - Website - California Department of Education, Accounting - Website - CSBA District and County Office of Education Legal Services - Website - U.S. Department of Agriculture, Food and Nutrition Service - Website - California Department of Social Services - Website - California Department of Education, School Nutrition - Website - California School Nutrition Association
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3110 - Transfer Of Funds
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3300 - Expenditures And Purchases
+  - 3311 - Bids
+  - 3311 - Bids
+  - 3312 - Contracts
+  - 3314.2 - Revolving Funds
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3512 - Equipment
+  - 3550 - Food Service/Child Nutrition Program
+  - 3550 - Food Service/Child Nutrition Program
+  - 3554 - Other Food Sales
+  - 3554 - Other Food Sales
+  - 3555 - Nutrition Program Compliance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.4 - Health Examinations
+  - 4231 - Staff Development
+  - 4331 - Staff Development
+  - 5030 - Student Wellness
+  - 5145.6 - Parent/Guardian Notifications

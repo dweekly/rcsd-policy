@@ -50,10 +50,9 @@ Any employee wishing to inspect his/her personnel record shall contact the Super
 With the exceptions noted below, all personnel records related to the employee's performance or to any grievance
 concerning the employee shall be made available for inspection by the employee. Noncredentialed employees shall
 have access to any numerical scores obtained as result of written examinations. (Education Code 44031)
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 The Superintendent or designee shall not be required to make available to the employee: (Labor Code 1198.5,
 Education Code 44031)
 1. Records relating to the investigation of a possible criminal offense
@@ -79,41 +78,64 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 16020-16022
-  - Records; general provisions
-  - 5 CCR 16023-16027
-  - District records; retention and destruction
-  - Ed. Code 35253
-  - Regulations to destroy records
-  - Ed. Code 44031
-  - Personnel file contents and inspection
-  - Ed. Code 44663
-  - Performance appraisals and related materials
-  - Ed. Code 44932
-  - Grounds for dismissal of permanent employees
-  - Ed. Code 44939.5
-  - Report of egregious misconduct
-  - Gov. Code 3305-3306.5
-  - District police officers; personnel files
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
-  - Gov. Code 7927.700
-  - Exemption for personnel records if invasion of personal privacy
-  - Gov. Code 7928.300
-  - Disclosure of employee contact information to employee organization
-  - Lab. Code 1198.5
-  - Personnel records related to performance and grievance
-  - Pen. Code 11165.14
-  - Report of investigation of child abuse complaint
+  - 5 CCR 16020-16022 - Records; general provisions
+  - 5 CCR 16023-16027 - District records; retention and destruction
+  - Ed. Code 35253 - Regulations to destroy records
+  - Ed. Code 44031 - Personnel file contents and inspection
+  - Ed. Code 44663 - Performance appraisals and related materials
+  - Ed. Code 44932 - Grounds for dismissal of permanent employees
+  - Ed. Code 44939.5 - Report of egregious misconduct
+  - Gov. Code 3305-3306.5 - District police officers; personnel files
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
+  - Gov. Code 7927.700 - Exemption for personnel records if invasion of personal privacy
+  - Gov. Code 7928.300 - Disclosure of employee contact information to employee organization
+  - Lab. Code 1198.5 - Personnel records related to performance and grievance
+  - Pen. Code 11165.14 - Report of investigation of child abuse complaint
 
 Management Resources:
-  - Attorney General Opinion
-  - Cal. Atty. Gen., Indexed Letter, no. IL 75-73 (June 6, 1975)
-  - Court Decision
-  - Bakersfield City School District v. Superior Ct. (2004) 118 Cal.App.4th 1041
-  - Court Decision
-  - Marken v. Santa Monica-Malibu Unified School District (2012) 202
-  - Cal.App.4th 1250
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - Cal.App.4th 1250 - Website - CSBA District and County Office of Education Legal Services
   - 66
+
+Cross References:
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3400 - Management Of District Assets/Accounts
+  - 3400 - Management Of District Assets/Accounts
+  - 3514.1 - Hazardous Substances
+  - 3514.1 - Hazardous Substances
+  - 3515 - Campus Security
+  - 3515 - Campus Security
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4032 - Reasonable Accommodation
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.5 - Criminal Record Check
+  - 4112.61 - Employment References
+  - 4112.61 - Employment References
+  - 4112.9 - Employee Notifications
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4117.5 - Termination Agreements
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4151 - Employee Compensation
+  - 4154 - Health And Welfare Benefits
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 9011 - Disclosure Of Confidential/Privileged Information

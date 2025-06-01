@@ -44,8 +44,7 @@ Disability leave for certificated employees in accordance with Education Code 44
 7. 
  
 Vacations for classified staff and certificated management staff, as applicable
-Board Policy Manual
-Redwood City School District
+
 
 8. 
  
@@ -86,64 +85,57 @@ certificated employees shall generally be entitled to those leave provisions pro
 other certificated employees unless otherwise specified in individual contract, memorandums of understanding, Board 
 policy, administrative regulation, or law.
 
-Policy Reference Disclaimer:
-
 ================================================================================
 REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 22850-22856
-  - Pension benefits; STRS members on military leave
-  - Ed. Code 44018
-  - Compensation for employees on active military duty
-  - Ed. Code 44036-44037
-  - Leaves of absence for judicial and official appearances
-  - Ed. Code 44043.5
-  - Catastrophic leave
-  - Ed. Code 44800
-  - Effect of active military service on status of employees
-  - Ed. Code 44842
-  - Reemployment notices; certificated employees
-  - Ed. Code 44940
-  - Compulsory leave of absence for certificated persons
-  - Ed. Code 44962-44988
-  - Leave of absence; certificated
-  - Ed. Code 45059
-  - Employee ordered to active military/naval duty; computation of salary
-  - Ed. Code 45190-45210
-  - Leaves of absence; classified
-  - Fam. Code 297-297.5
-  - Rights, protections, benefits under the law; registered domestic partners
-  - Gov. Code 12945.1-12945.21
-  - California Family Rights Act
-  - Gov. Code 20990-21013
-  - Pension benefits; PERS members on military leave
-  - Gov. Code 3543.1
-  - Rights of employee organizations
-  - Gov. Code 3543.2
-  - Scope of representation
-  - Lab. Code 230-230.2
-  - Leaves for victims of domestic violence, sexual assault or specified felonies
-  - Lab. Code 230.3
-  - Leave for emergency personnel
-  - Lab. Code 230.4
-  - Leave for volunteer firefighters
-  - Lab. Code 230.8
-  - Time off to visit child's school
-  - Lab. Code 233
-  - Leave to attend to family illness
-  - M&V Code 395-395.9
-  - Military leave
-  - M&V Code 395.10
-  - Leave when spouse on leave from military deployment
+  - Ed. Code 22850-22856 - Pension benefits; STRS members on military leave
+  - Ed. Code 44018 - Compensation for employees on active military duty
+  - Ed. Code 44036-44037 - Leaves of absence for judicial and official appearances
+  - Ed. Code 44043.5 - Catastrophic leave
+  - Ed. Code 44800 - Effect of active military service on status of employees
+  - Ed. Code 44842 - Reemployment notices; certificated employees
+  - Ed. Code 44940 - Compulsory leave of absence for certificated persons
+  - Ed. Code 44962-44988 - Leave of absence; certificated
+  - Ed. Code 45059 - Employee ordered to active military/naval duty; computation of salary
+  - Ed. Code 45190-45210 - Leaves of absence; classified
+  - Fam. Code 297-297.5 - Rights, protections, benefits under the law; registered domestic partners
+  - Gov. Code 12945.1-12945.21 - California Family Rights Act
+  - Gov. Code 20990-21013 - Pension benefits; PERS members on military leave
+  - Gov. Code 3543.1 - Rights of employee organizations
+  - Gov. Code 3543.2 - Scope of representation
+  - Lab. Code 230-230.2 - Leaves for victims of domestic violence, sexual assault or specified felonies
+  - Lab. Code 230.3 - Leave for emergency personnel
+  - Lab. Code 230.4 - Leave for volunteer firefighters
+  - Lab. Code 230.8 - Time off to visit child's school
+  - Lab. Code 233 - Leave to attend to family illness - M&V Code 395-395.9 - Military leave - M&V Code 395.10 - Leave when spouse on leave from military deployment
 
 Federal References:
-  - 29 USC 2601-2654
-  - Family Care and Medical Leave Act
+  - 29 USC 2601-2654 - Family Care and Medical Leave Act
   - 38 USC 4301-4334
   - Uniformed Services Employment and Reemployment Rights Act of 1994
 
-Management Resources:
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 2121 - Superintendent's Contract
+  - 4112.1 - Contracts
+  - 4112.42 - Drug And Alcohol Testing For School Bus Drivers
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4154 - Health And Welfare Benefits
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4159 - Employee Assistance Programs
+  - 4161.5 - Military Leave
+  - 4161.8 - Family Care And Medical Leave
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4231 - Staff Development
+  - 4261.5 - Military Leave
+  - 4261.8 - Family Care And Medical Leave
+  - 4300 - Administrative And Supervisory Personnel
+  - 4331 - Staff Development
+  - 4361.5 - Military Leave
+  - 4361.8 - Family Care And Medical Leave

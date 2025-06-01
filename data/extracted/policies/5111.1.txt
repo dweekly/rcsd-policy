@@ -50,10 +50,9 @@ overruled. (Education Code 48204.2)
 A student who is currently enrolled in the district shall be allowed to remain in attendance at their school pending
 the results of the appeal. A student who is not currently enrolled in the district shall not be permitted to attend any
 district school unless their appeal is successful.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 In an appeal to the Superintendent of a determination that district residency requirements were not met, the
 Superintendent shall review any evidence provided by the parent/guardian or obtained during the district's
 investigation and shall make a decision within 10 school days of receipt of the parent/guardian's request for the
@@ -72,70 +71,65 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 432
-  - Student records
-  - Ed. Code 220
-  - Prohibition of discrimination
-  - Ed. Code 234.7
-  - Student protections relating to immigration and citizenship status
-  - Ed. Code 35160.5
-  - Intradistrict open enrollment
-  - Ed. Code 35351
-  - Assignment of students to particular schools
-  - Ed. Code 46600-46611
-  - Interdistrict attendance permits
-  - Ed. Code 48050-48054
-  - Nonresidents
-  - Ed. Code 48200-48208
-  - Compulsory education law
-  - Ed. Code 48204
-  - Residency requirements
-  - Ed. Code 48204.1-48204.4
-  - Evidence of residency
-  - Ed. Code 48300-48317
-  - Student attendance alternatives; school district of choice program
-  - Ed. Code 48350-48361
-  - Open Enrollment Act
-  - Ed. Code 48645.5
-  - Former juvenile court school students; enrollment
-  - Ed. Code 48852.7
-  - Education of homeless students; immediate enrollment
-  - Ed. Code 48853.5
-  - Education of foster youth; immediate enrollment
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 52317
-  - Regional occupational program; admission of persons including nonresidents
-  - Fam. Code 6550-6552
-  - Caregivers
-  - Gov. Code 6205-6210
-  - Confidentiality of addresses for victims of domestic violence, sexual assault,
-  - stalking, human trafficking, child abduction, and elder or dependent adult
-  - abuse
+  - 5 CCR 432 - Student records
+  - Ed. Code 220 - Prohibition of discrimination
+  - Ed. Code 234.7 - Student protections relating to immigration and citizenship status
+  - Ed. Code 35160.5 - Intradistrict open enrollment
+  - Ed. Code 35351 - Assignment of students to particular schools
+  - Ed. Code 46600-46611 - Interdistrict attendance permits
+  - Ed. Code 48050-48054 - Nonresidents
+  - Ed. Code 48200-48208 - Compulsory education law
+  - Ed. Code 48204 - Residency requirements
+  - Ed. Code 48204.1-48204.4 - Evidence of residency
+  - Ed. Code 48300-48317 - Student attendance alternatives; school district of choice program
+  - Ed. Code 48350-48361 - Open Enrollment Act
+  - Ed. Code 48645.5 - Former juvenile court school students; enrollment
+  - Ed. Code 48852.7 - Education of homeless students; immediate enrollment
+  - Ed. Code 48853.5 - Education of foster youth; immediate enrollment
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 52317 - Regional occupational program; admission of persons including nonresidents
+  - Fam. Code 6550-6552 - Caregivers
+  - Gov. Code 6205-6210 - Confidentiality of addresses for victims of domestic violence, sexual assault, - stalking, human trafficking, child abduction, and elder or dependent adult - abuse
 
 Federal References:
-  - 42 USC 11431-11435
-  - McKinney-Vento Homeless Assistance Act
-  - 8 USC 1229c
-  - Immigration and Nationality Act
+  - 42 USC 11431-11435 - McKinney-Vento Homeless Assistance Act
+  - 8 USC 1229c - Immigration and Nationality Act
 
 Management Resources:
-  - 37
-  - CA Office of the Attorney General Publication
-  - Promoting a Safe and Secure Learning Environment for All: Guidance and
-  - Model Policies to Assist California's K-12 Schools in Responding to
-  - Immigration Issues, December 2024
-  - Court Decision
-  - Katz v. Los Gatos-Saratoga Joint Union High School District (2004) 117
-  - Cal.App.4th 47
-  - Court Decision
-  - Plyler v. Doe, 457 U.S. 202 (1982)
-  - CSBA Publication
-  - Legal Guidance Regarding International Student Exchange Placement
-  - Organizations, April 2014
-  - CSBA Publication
-  - Legal Guidance on Providing All Children Equal Access to Education,
-  - Regardless of Immigration Status, February 2017
-  - U.S. DOJ & DOE Civil Rights Joint Publication
-  - Information on the Rights of All Children to Enroll in School: Questions and
-  - Answers for
+  - 37 - CA Office of the Attorney General Publication - Promoting a Safe and Secure Learning Environment for All: Guidance and - Model Policies to Assist California's K-12 Schools in Responding to - Immigration Issues, December 2024 - Court Decision - Katz v. Los Gatos-Saratoga Joint Union High School District (2004) 117
+  - Cal.App.4th 47 - Court Decision - Plyler v. Doe, 457 U.S. 202 (1982) - CSBA Publication - Legal Guidance Regarding International Student Exchange Placement - Organizations, April 2014 - CSBA Publication - Legal Guidance on Providing All Children Equal Access to Education, - Regardless of Immigration Status, February 2017 - U.S. DOJ & DOE Civil Rights Joint Publication - Information on the Rights of All Children to Enroll in School: Questions and - Answers for States, School Districts and Parents, May 8, 2014 - U.S. DOJ & DOE Civil Rights Joint Publication - Fact Sheet: Information on the Rights of All Children to Enroll in School,
+  - May 8, 2014 - U.S. DOJ & DOE Civil Rights Joint Publication - Dear Colleague Letter: School Enrollment Procedures, May 8, 2014 - Website - CSBA District and County Office of Education Legal Services - Website - California Secretary of State, Safe at Home Program - Website - U.S. Department of Justice - Website - California Office of the Attorney General - Website - California Department of Education - Website - CSBA - Website - U.S. Department of Education, Office for Civil Rights
+
+Cross References:
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3580 - District Records
+  - 3580 - District Records
+  - 5021 - Noncustodial Parents
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5112.2 - Exclusions From Attendance
+  - 5116 - School Attendance Boundaries
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5117 - Interdistrict Attendance
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5145.12 - Search And Seizure
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.13 - Response To Immigration Enforcement
+  - 5145.6 - Parent/Guardian Notifications
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6170.1 - Transitional Kindergarten
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 6183 - Home And Hospital Instruction
+  - 7160 - Charter School Facilities
+  - 7160 - Charter School Facilities

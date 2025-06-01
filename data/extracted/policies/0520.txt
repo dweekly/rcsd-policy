@@ -55,27 +55,21 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 52052
-  - Numerically significant student subgroups
-  - Ed. Code 52059.5
-  - Statewide system of support
-  - Ed. Code 52060-52077
-  - Local control and accountability plan
-  - Ed. Code 60640-60648.5
-  - California Assessment of Student Performance and Progress
-  - Ed. Code 64001
-  - School plan for student achievement; consolidated application programs
+  - Ed. Code 52052 - Numerically significant student subgroups
+  - Ed. Code 52059.5 - Statewide system of support
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 60640-60648.5 - California Assessment of Student Performance and Progress
+  - Ed. Code 64001 - School plan for student achievement; consolidated application programs
 
 Federal References:
-  - 20 USC 6311-6322
-  - Improving basic programs for disadvantaged students
+  - 20 USC 6311-6322 - Improving basic programs for disadvantaged students
 
 Management Resources:
-  - California Department of Education Publication
-  - Targeted/Additional Targeted Support & Improvement Frequently Asked
-  - Questions
-  - California Department of Education Publication
-  - 2022 Dashboard Technical Guide: Every Student Succeeds Act School
-  - Support, December 2022
-  - California Department of Education Publication
-  - California ESSA Consolidated
+  - 2022 Dashboard Technical Guide: Every Student Succeeds Act School - Support, December 2022 - California Department of Education Publication - California ESSA Consolidated State Plan, 2022 - California Department of Education Publication - Comprehensive Support and Improvement Frequently Asked Questions - US DOE Publications - Non-Regulatory Guidance: Using Evidence to Strengthen Education - Investments, September 2023 - Website - CSBA District and County Office of Education Legal Services - Website - California Collaborative for Educational Excellence - Website - California School Dashboard - Website - U.S. Department of Education - Website - California Department of Education
+
+Cross References:
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0520.1 - Comprehensive And Targeted School Improvement

@@ -54,10 +54,9 @@ his/her current grade level unless the student's regular classroom teacher deter
 the appropriate intervention for the student's academic deficiencies. This determination shall specify the reasons
 that retention is not appropriate for the student and shall include recommendations for interventions other than
 retention that, in the opinion of the teacher, are necessary to assist the student in attaining acceptable levels of
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 academic achievement. (Education Code 48070.5)
 If the teacher's recommendation to promote is contingent on the student's participation in a summer school or
 interim session remediation program, the student's academic performance shall be reassessed at the end of the
@@ -98,37 +97,41 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 200-202
-  - Admission and exclusion of students
-  - Ed. Code 37252-37254.1
-  - Supplemental instruction
-  - Ed. Code 41505-41508
-  - Pupil Retention Block Grant
-  - Ed. Code 46300
-  - Method of computing average daily attendance
-  - Ed. Code 48010
-  - Admittance to first grade
-  - Ed. Code 48011
-  - Promotion/retention following one year of kindergarten
-  - Ed. Code 48070-48070.5
-  - Promotion and retention
-  - Ed. Code 56345
-  - Elements of individualized education plan
+  - 5 CCR 200-202 - Admission and exclusion of students
+  - Ed. Code 37252-37254.1 - Supplemental instruction
+  - Ed. Code 41505-41508 - Pupil Retention Block Grant
+  - Ed. Code 46300 - Method of computing average daily attendance
+  - Ed. Code 48010 - Admittance to first grade
+  - Ed. Code 48011 - Promotion/retention following one year of kindergarten
+  - Ed. Code 48070-48070.5 - Promotion and retention
+  - Ed. Code 56345 - Elements of individualized education plan
   - 100
-  - Ed. Code 60640-60648.5
-  - California Assessment of Student Performance and Progress
-  - State
+  - Ed. Code 60640-60648.5 - California Assessment of Student Performance and Progress
 
-Management Resources:
-  - California Department of Education Publication
-  - FAQs Promotion, Retention, and Grading (students with disabilities)
-  - California Department of Education Publication
-  - FAQs Pupil Promotion and Retention
-  - California Department of Education Publication
-  - Kindergarten Continuance Form
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+Cross References:
+  - 4231 - Staff Development
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 5111 - Admission
+  - 5111 - Admission
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5121 - Grades/Evaluation Of Student Achievement
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5125.3 - Challenging Student Records
+  - 5145.6 - Parent/Guardian Notifications
+  - 5147 - Dropout Prevention
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6162.5 - Student Assessment
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6170.1 - Transitional Kindergarten
+  - 6172 - Gifted And Talented Student Program
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6177 - Summer Learning Programs
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction

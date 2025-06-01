@@ -43,59 +43,54 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35031
-  - Term of employment
-  - Ed. Code 41325-41328
-  - Conditions of emergency apportionment
-  - Gov. Code 3511.1-3511.2
-  - Local agency executives
-  - Gov. Code 53243-53243.4
-  - Abuse of office
-  - Gov. Code 53260-53264
-  - Employment contracts
-  - Gov. Code 54953
-  - Oral summary of recommended salary and benefits of superintendent
-  - Gov. Code 54954
-  - Time and place of regular meetings
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 35031 - Term of employment
+  - Ed. Code 41325-41328 - Conditions of emergency apportionment
+  - Gov. Code 3511.1-3511.2 - Local agency executives
+  - Gov. Code 53243-53243.4 - Abuse of office
+  - Gov. Code 53260-53264 - Employment contracts
+  - Gov. Code 54953 - Oral summary of recommended salary and benefits of superintendent
+  - Gov. Code 54954 - Time and place of regular meetings - Board Policy Manual - Redwood City School District
   - 11
-  - Gov. Code 54956
-  - Special meetings
-  - Gov. Code 54957
-  - Closed session personnel matters
-  - Gov. Code 54957.1
-  - Closed session; public report of action taken
-  - Gov. Code 54957.6
-  - Closed sessions regarding employee matters
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
-  - State
+  - Gov. Code 54956 - Special meetings
+  - Gov. Code 54957 - Closed session personnel matters
+  - Gov. Code 54957.1 - Closed session; public report of action taken
+  - Gov. Code 54957.6 - Closed sessions regarding employee matters
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
 
 Federal References:
-  - 26 CFR 1.105-11
-  - Self-insured medical reimbursement plan
-  - 26 USC 105
-  - Self-insured medical reimbursement plan; definition of highly compensated
-  - individual
-  - 42 USC 300gg-16
-  - Group health plan; nondiscrimination in favor of highly compensated
-  - individuals
+  - 26 CFR 1.105-11 - Self-insured medical reimbursement plan
+  - 26 USC 105 - Self-insured medical reimbursement plan; definition of highly compensated - individual
+  - 42 USC 300gg-16 - Group health plan; nondiscrimination in favor of highly compensated - individuals
 
 Management Resources:
-  - Attorney General Opinion
-  - 57 Ops. Cal. Atty. Gen. 209 (1974)
-  - Attorney General Publication
-  - The Brown Act: Open Meetings for Legislative Bodies, rev. 2003
-  - Court Decision
-  - San Diego Union v. City Council (1983) 146 Cal.App.3d 947
-  - CSBA Publication
-  - Superintendent Contract Template
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Office of the Attorney General
-  - Website
-  - Association of California School Administrators
-  - Website
-  - CSBA
+  - 57 Ops. Cal. Atty. Gen. 209 (1974) - Attorney General Publication - The Brown Act: Open Meetings for Legislative Bodies, rev. 2003 - Court Decision - San Diego Union v. City Council (1983) 146 Cal.App.3d 947 - CSBA Publication - Superintendent Contract Template - Website - CSBA District and County Office of Education Legal Services - Website - California Office of the Attorney General - Website - Association of California School Administrators - Website - CSBA
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2110 - Superintendent Responsibilities And Duties
+  - 2120 - Superintendent Recruitment And Selection
+  - 2140 - Evaluation Of The Superintendent
+  - 3312 - Contracts
+  - 3350 - Travel Expenses
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4040 - Employee Use Of Technology
+  - 4112.9 - Employee Notifications
+  - 4117.5 - Termination Agreements
+  - 4161 - Leaves
+  - 4161.5 - Military Leave
+  - 4161.8 - Family Care And Medical Leave
+  - 4261 - Leaves
+  - 4261.5 - Military Leave
+  - 4261.8 - Family Care And Medical Leave
+  - 4361.5 - Military Leave
+  - 4361.8 - Family Care And Medical Leave
+  - 9000 - Role Of The Board
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9124 - Attorney
+  - 9320 - Meetings And Notices
+  - 9323.2 - Actions By The Board

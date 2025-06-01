@@ -52,10 +52,9 @@ Superintendent may provide an incentive program for teacher participation in NBP
 certification
  
 2. Providing bonuses, step increases, or differential pay for teachers who maintain their certification and continue to
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
+
+
 teach in the district, with priority given to teachers at Title I schools and schools serving a majority of low-income
 students
  
@@ -85,75 +84,73 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 80001-80674.6
-  - Commission on Teacher Credentialing
-  - 5 CCR 80001-80694
-  - Commission on Teacher Credentialing
-  - Ed. Code 32340-32341
-  - Unlawful issuance of a credential
-  - Ed. Code 35186
-  - Complaints related to instructional materials, teacher vacancy or
-  - misassignment, and facility conditions that pose emergency or urgent threat
-  - Ed. Code 44066
-  - Limitations on certification requirements
-  - Ed. Code 44200-44418
-  - Teacher credentialing
-  - Ed. Code 44250-44277
-  - Credentials and assignment of teachers
-  - Ed. Code 44300-44302
-  - Emergency permit
-  - Ed. Code 44325-44328
-  - District interns
-  - Ed. Code 44330-44355
-  - Certificates and credentials
-  - Ed. Code 44395
-  - National Board for Professional Teaching Standards Certification Incentive
-  - Program
-  - Ed. Code 44420-44440
-  - Revocation and suspension of credentials
-  - Ed. Code 44450-44468
-  - University internship program
-  - Ed. Code 44830-44929
-  - Employment of certificated persons; requirement of proficiency in basic
-  - skills
-  - Ed. Code 56060-56063
-  - Substitute teachers in special education
-  - Ed. Code 8295-8305
-  - Child development program; personnel qualifications
+  - 5 CCR 80001-80674.6 - Commission on Teacher Credentialing
+  - 5 CCR 80001-80694 - Commission on Teacher Credentialing
+  - Ed. Code 32340-32341 - Unlawful issuance of a credential
+  - Ed. Code 35186 - Complaints related to instructional materials, teacher vacancy or - misassignment, and facility conditions that pose emergency or urgent threat
+  - Ed. Code 44066 - Limitations on certification requirements
+  - Ed. Code 44200-44418 - Teacher credentialing
+  - Ed. Code 44250-44277 - Credentials and assignment of teachers
+  - Ed. Code 44300-44302 - Emergency permit
+  - Ed. Code 44325-44328 - District interns
+  - Ed. Code 44330-44355 - Certificates and credentials
+  - Ed. Code 44395 - National Board for Professional Teaching Standards Certification Incentive - Program
+  - Ed. Code 44420-44440 - Revocation and suspension of credentials
+  - Ed. Code 44450-44468 - University internship program
+  - Ed. Code 44830-44929 - Employment of certificated persons; requirement of proficiency in basic - skills
+  - Ed. Code 56060-56063 - Substitute teachers in special education
+  - Ed. Code 8295-8305 - Child development program; personnel qualifications
   - 40
 
 Federal References:
-  - 20 USC 6312
-  - Title I local educational agency plans; notifications regarding teacher
-  - qualifications
-  - 34 CFR 200.61
-  - Parent notification regarding teacher qualifications
+  - 20 USC 6312 - Title I local educational agency plans; notifications regarding teacher - qualifications
+  - 34 CFR 200.61 - Parent notification regarding teacher qualifications
 
 Management Resources:
-  - Commission on Teacher Credentialing Publication
-  - Proposed Amendments to Title 5 of the California Code of Regulations
-  - Pertaining to Subject Matter Competency, Coded Correspondence 22-06,
-  - October 21, 2022
-  - Commission on Teacher Credentialing Publication
-  - Proposed Amendments and Additions to Title 5 of the California Code of
-  - Regulations Pertaining to Subject Matter Competence, Coded
-  - Correspondence 21-06, September 20, 2021
-  - Commission on Teacher Credentialing Publication
-  - Assembly Bill 320: Regional Accreditation for Coursework and Degrees
-  - Used for Certification Purposes, Credential Information Alert 22-02, March
-  - 1, 2022
-  - Commission on Teacher Credentialing Publication Waiver Requests Guidebook, 2015
-  - Commission on Teacher Credentialing Publication Subject Matter Authorization Guideline Book, December 2019
-  - Commission on Teacher Credentialing Publication Supplementary Authorization Guideline Book, December 2019
+  - Proposed Amendments to Title 5 of the California Code of Regulations - Pertaining to Subject Matter Competency, Coded Correspondence 22-06,
+  - October 21, 2022 - Commission on Teacher Credentialing Publication
+  - Proposed Amendments and Additions to Title 5 of the California Code of - Regulations Pertaining to Subject Matter Competence, Coded
+  - Correspondence 21-06, September 20, 2021 - Commission on Teacher Credentialing Publication
+  - Assembly Bill 320: Regional Accreditation for Coursework and Degrees - Used for Certification Purposes, Credential Information Alert 22-02, March - 1, 2022 - Commission on Teacher Credentialing Publication Waiver Requests Guidebook, 2015 - Commission on Teacher Credentialing Publication Subject Matter Authorization Guideline Book, December 2019 - Commission on Teacher Credentialing Publication Supplementary Authorization Guideline Book, December 2019
   - Commission on Teacher Credentialing Publication Hiring Hierarchy in Education Code 44225.7, Coded Correspondence 13-
-  - 01, January 30, 2013
-  - Commission on Teacher Credentialing Publication
-  - Approved Addition and Amendments to Title 5 of the California Code of
-  - Regulations Pertaining to Teaching Permit for Statutory Leave (TPSL),
-  - Coded Correspondence 16-10, Aug 23, 2016
-  - Commission on Teacher Credentialing Publication California Standards for the Teaching Profession (CSTP), October 2009
+  - 01, January 30, 2013 - Commission on Teacher Credentialing Publication
+  - Approved Addition and Amendments to Title 5 of the California Code of - Regulations Pertaining to Teaching Permit for Statutory Leave (TPSL),
+  - Coded Correspondence 16-10, Aug 23, 2016 - Commission on Teacher Credentialing Publication California Standards for the Teaching Profession (CSTP), October 2009
   - Commission on Teacher Credentialing Publication CL-667 Basic Skills Requirement
   - Commission on Teacher Credentialing Publication CL-856 Provisional Internship Permit
-  - Commission on Teacher Credentialing Publication CL-858 Short-Term Staff Permit
-  - Court Decision
-  - Association of Mexican-American Educators (AMAE) et al. v.
+  - Commission on Teacher Credentialing Publication CL-858 Short-Term Staff Permit - Court Decision - Association of Mexican-American Educators (AMAE) et al. v. State of - California and the Commission on Teacher Credentialing (2000) 231 F.3d
+  - 572 - Nat'l Board for Prof. Teaching Stds. Publication - Using Federal Funds for National Board Activities: An Action-Planning - Guide - Nat'l Board for Prof. Teaching Stds. Publication - Considerations for Using Federal Funds to Support National Board - Certification - Website - Office of Administrative Law - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Education, CA NBPTS Certification Incentive
+  - Program 2021-26 - Website - National Board Resource Center - Website - National Board for Professional Teaching Standards - Website - Commission on Teacher Credentialing - Website - Commission on Teacher Credentialing, Credential Information Guide (for - employers' use only) - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4112.21 - Interns
+  - 4112.21 - Interns
+  - 4112.5 - Criminal Record Check
+  - 4112.6 - Personnel Files
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4117.14 - Postretirement Employment
+  - 4119.21 - Professional Standards
+  - 4121 - Temporary/Substitute Personnel
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4161.8 - Family Care And Medical Leave
+  - 4219.21 - Professional Standards
+  - 4261.8 - Family Care And Medical Leave
+  - 4319.21 - Professional Standards
+  - 4361.8 - Family Care And Medical Leave
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6158 - Independent Study
+  - 6158 - Independent Study
+  - 6163.1 - Library Media Centers
+  - 6164.2 - Guidance/Counseling Services
+  - 6170.1 - Transitional Kindergarten
+  - 6172 - Gifted And Talented Student Program
+  - 6183 - Home And Hospital Instruction

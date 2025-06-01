@@ -48,57 +48,31 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 8 CCR 3203
-  - Injury and illness prevention program
-  - 8 CCR 5110
-  - Repetitive motion injurues
-  - Ed. Code 44984
-  - Required rules for industrial accident and illness leave
-  - Ed. Code 45192
-  - Industrial accident and illness leave for classified employees
-  - Gov. Code 21153
-  - Employer not to separate for disability members eligible to retire
-  - Lab. Code 142.3
-  - Authority of Cal/OSHA to adopt standards
-  - Lab. Code 3200-4856
-  - Workers' compensation
-  - Board Policy Manual
-  - Redwood City School District
+  - 8 CCR 3203 - Injury and illness prevention program
+  - 8 CCR 5110 - Repetitive motion injurues
+  - Ed. Code 44984 - Required rules for industrial accident and illness leave
+  - Ed. Code 45192 - Industrial accident and illness leave for classified employees
+  - Gov. Code 21153 - Employer not to separate for disability members eligible to retire
+  - Lab. Code 142.3 - Authority of Cal/OSHA to adopt standards
+  - Lab. Code 3200-4856 - Workers' compensation - Board Policy Manual - Redwood City School District
   - 214
-  - Lab. Code 3550-3553
-  - Notifications: Workers' compensation benefits
-  - Lab. Code 3600-3605
-  - Conditions of liability
-  - Lab. Code 3760
-  - Report of injury to insurer
-  - Lab. Code 4600
-  - Provision of medical and hospital treatment by employer
-  - Lab. Code 4906
-  - Disclosures and statements
-  - Lab. Code 5400-5404
-  - Notice of injury or death
-  - Lab. Code 6303
-  - Place of employment; employment
-  - Lab. Code 6305
-  - Occupational safety and health standards; special order
-  - Lab. Code 6310
-  - Retaliation for filing complaint prohibited
-  - Lab. Code 6357
-  - Standards for workplace ergonomics
-  - Lab. Code 6401.7
-  - Injury and illness prevention program
-  - Lab. Code 6409.1
-  - Reports
-  - State
+  - Lab. Code 3550-3553 - Notifications: Workers' compensation benefits
+  - Lab. Code 3600-3605 - Conditions of liability
+  - Lab. Code 3760 - Report of injury to insurer
+  - Lab. Code 4600 - Provision of medical and hospital treatment by employer
+  - Lab. Code 4906 - Disclosures and statements
+  - Lab. Code 5400-5404 - Notice of injury or death
+  - Lab. Code 6303 - Place of employment; employment
+  - Lab. Code 6305 - Occupational safety and health standards; special order
+  - Lab. Code 6310 - Retaliation for filing complaint prohibited
+  - Lab. Code 6357 - Standards for workplace ergonomics
+  - Lab. Code 6401.7 - Injury and illness prevention program
+  - Lab. Code 6409.1 - Reports
 
 Management Resources:
-  - DIR, Div. of Occup. Safety & Health Publication
-  - Ergonomic Hazards, Fact Sheet H
-  - DIR, Div. of Occup. Safety & Health Publication
-  - Guide to Developing Your Workplace Injury and Illness Prevention Program,
-  - rev. May 2011
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Industrial Relations, Occupational Safety and
-  - Health
+  - rev. May 2011 - Website - CSBA District and County Office of Education Legal Services - Website - California Department of Industrial Relations, Occupational Safety and - Health
+
+Cross References:
+  - 4157 - Employee Safety
+  - 4157 - Employee Safety
+  - 4157.1 - Work-Related Injuries

@@ -45,38 +45,59 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 1241.5
-  - Audit by county superintendent
-  - Ed. Code 14500-14508
-  - Financial and compliance audits
-  - Ed. Code 35035
-  - Powers and duties of the superintendent; transfer authority
-  - Ed. Code 35250
-  - Duty to keep certain records and reports
-  - Ed. Code 41010-41023
-  - Accounting regulations; budget controls and audits
-  - Ed. Code 42600-42603
-  - Control of expenditures
-  - Ed. Code 42647
-  - Drawing of warrants by district on county treasurer; form; reports,
-  - statements, and other data
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 1241.5 - Audit by county superintendent
+  - Ed. Code 14500-14508 - Financial and compliance audits
+  - Ed. Code 35035 - Powers and duties of the superintendent; transfer authority
+  - Ed. Code 35250 - Duty to keep certain records and reports
+  - Ed. Code 41010-41023 - Accounting regulations; budget controls and audits
+  - Ed. Code 42600-42603 - Control of expenditures
+  - Ed. Code 42647 - Drawing of warrants by district on county treasurer; form; reports, - statements, and other data - Board Policy Manual - Redwood City School District
   - 108
-  - Elec. Code 1090-1099
-  - Prohibitions applicable to specified officers
-  - Gov. Code 53995-53997
-  - Obligation of contract
-  - Gov. Code 84308
-  - Campaign disclosure
-  - Gov. Code 87100-87500
-  - Political Reform Act
-  - State
+  - Elec. Code 1090-1099 - Prohibitions applicable to specified officers
+  - Gov. Code 53995-53997 - Obligation of contract
+  - Gov. Code 84308 - Campaign disclosure
+  - Gov. Code 87100-87500 - Political Reform Act
 
 Management Resources:
-  - Governmental Accounting Standards Board Pub.
-  - Implementation Guide No. 2019-3, Leases, August 2019
-  - Governmental Accounting Standards Board Pub.
+  - Implementation Guide No. 2019-3, Leases, August 2019 - Governmental Accounting Standards Board Pub.
   - Implementation Guide No. 2023-1, Implementation Guidance Update –
-  - 2023, June 2023
-  - Governmental Accounting Standards Board
+  - 2023, June 2023 - Governmental Accounting Standards Board - Statement
+  - Statement 96, Subscription-Based Information Technology Arrangements,
+  - May 2020 - Governmental Accounting Standards Board - Statement
+  - Statement 87, Leases, June 2017 - Governmental Accounting Standards Board - Statement
+  - Statement 34, Basic Financial Statements and Management's Discussion and - Analysis - For State and Local Governments, June 1999 - Website - CSBA District and County Office of Education Legal Services - Website - Governmental Accounting Standards Board - Website - California Department of Education, Finance and Grants - Website - California State Controller - Website - CSBA - Website - Fiscal Crisis and Management Assistance Team - Website - California Association of School Business Officials - Website - School Services of California, Inc.
+
+Cross References:
+  - 3000 - Concepts And Roles
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3110 - Transfer Of Funds
+  - 3230 - Federal Grant Funds
+  - 3230 - Federal Grant Funds
+  - 3300 - Expenditures And Purchases
+  - 3312 - Contracts
+  - 3314.2 - Revolving Funds
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3440 - Inventories
+  - 3451 - Petty Cash Funds
+  - 3452 - Student Activity Funds
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3470 - Debt Issuance And Management
+  - 3511 - Energy And Water Management
+  - 3511 - Energy And Water Management
+  - 3530 - Risk Management/Insurance
+  - 3530 - Risk Management/Insurance
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 3551 - Food Service Operations/Cafeteria Fund
+  - 4112.6 - Personnel Files
+  - 4119.1 - Civil And Legal Rights
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4151 - Employee Compensation
+  - 4219.1 - Civil And Legal Rights
+  - 4319.1 - Civil And Legal Rights
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 9124 - Attorney
+  - 9270 - Conflict Of Interest

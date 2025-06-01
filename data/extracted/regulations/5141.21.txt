@@ -48,8 +48,7 @@ Statement" below. The parent/guardian shall provide a new authorized health care
 medication, dosage, frequency of administration, or reason for administration changes. (Education Code 49414.5,
 49423, 49423.1; 5 CCR 600,626)
 2. If the student is on a continuing medication regimen for a nonepisodic condition, informing the school nurse or
-Board Policy Manual
-Redwood City School District
+
 
 other designated certificated employee of the medication being taken, the current dosage, and the name of the
 supervising physician, and updating the information when needed. (Education Code 49480)
@@ -186,7 +185,7 @@ emergency medical response time to the school and determine whether initiating e
 acceptable alternative to providing an opioid antagonist and training personnel to administer the medication. (Education Code
 49414.3)
 
-Policy Reference Disclaimer:
+
 When available at the school site, the school nurse shall provide emergency naloxone hydrochloride or another opioid
 antagonist for emergency medical aid to any person exhibiting potentially life-threatening symptoms of an opioid overdose at
 school or a school activity. Other designated personnel who have volunteered and have received training may administer
@@ -225,94 +224,76 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 600-611
-  - Administering medication to students
-  - Bus. Code 2700-2837
-  - Nursing
-  - Bus. Code 3500-3546
-  - Physician assistants
-  - Bus. Code 4119.2
-  - Acquisition of epinephrine auto-injectors
-  - Bus. Code 4119.8
-  - Acquisition of naloxone hydrochloride or another opioid antagonist
-  - Ed. Code 48980
-  - Parent/Guardian notifications
-  - Ed. Code 49407
-  - Liability for treatment
-  - Ed. Code 49408
-  - Student emergency information
-  - Ed. Code 49414
-  - Emergency epinephrine auto-injectors
+  - 5 CCR 600-611 - Administering medication to students
+  - Bus. Code 2700-2837 - Nursing
+  - Bus. Code 3500-3546 - Physician assistants
+  - Bus. Code 4119.2 - Acquisition of epinephrine auto-injectors
+  - Bus. Code 4119.8 - Acquisition of naloxone hydrochloride or another opioid antagonist
+  - Ed. Code 48980 - Parent/Guardian notifications
+  - Ed. Code 49407 - Liability for treatment
+  - Ed. Code 49408 - Student emergency information
+  - Ed. Code 49414 - Emergency epinephrine auto-injectors
   - 225
-  - Ed. Code 49414.3
-  - Emergency medical assistance; administration of medication for opioid
-  - overdose
-  - Ed. Code 49414.4
-  - Opioid Misuse
-  - Ed. Code 49414.5
-  - Providing school personnel with voluntary emergency training
-  - Ed. Code 49414.7
-  - Administration of albuterol inhalers
-  - Ed. Code 49414.8
-  - Funding for emergency opioid antagonists; requirements
-  - Ed. Code 49422-49427
-  - Employment of medical personnel
-  - Ed. Code 49423
-  - Administration of prescribed medication for student
-  - Ed. Code 49423.1
-  - Inhaled asthma medication
-  - Ed. Code 49426.5
-  - Licensed vocational nurses
-  - Ed. Code 49468-49468.5
-  - The Seizure Safe Schools Act
-  - Ed. Code 49480
-  - Continuing medication regimen; notice
-  - H&S 1799.113
-  - Opioid overdose treatment
-  - H&S Code 11362.7-11362.85
-  - Medicinal cannabis
-  - State
+  - Ed. Code 49414.3 - Emergency medical assistance; administration of medication for opioid - overdose
+  - Ed. Code 49414.4 - Opioid Misuse
+  - Ed. Code 49414.5 - Providing school personnel with voluntary emergency training
+  - Ed. Code 49414.7 - Administration of albuterol inhalers
+  - Ed. Code 49414.8 - Funding for emergency opioid antagonists; requirements
+  - Ed. Code 49422-49427 - Employment of medical personnel
+  - Ed. Code 49423 - Administration of prescribed medication for student
+  - Ed. Code 49423.1 - Inhaled asthma medication
+  - Ed. Code 49426.5 - Licensed vocational nurses
+  - Ed. Code 49468-49468.5 - The Seizure Safe Schools Act
+  - Ed. Code 49480 - Continuing medication regimen; notice - H&S 1799.113 - Opioid overdose treatment - H&S Code 11362.7-11362.85 - Medicinal cannabis
 
 Federal References:
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
-  - 20 USC 1400-1482
-  - Individuals with Disabilities Education Act
-  - 21 USC 812
-  - Schedule of controlled substances
-  - 21 USC 844
-  - Penalties for possession of controlled substance
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1400-1482 - Individuals with Disabilities Education Act
+  - 21 USC 812 - Schedule of controlled substances
+  - 21 USC 844 - Penalties for possession of controlled substance
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 99.30
-  - Conditions under which prior written consent is required to disclose
-  - information
+  - 34 CFR 99.30 - Conditions under which prior written consent is required to disclose - information
 
 Management Resources:
-  - American Diabetes Association Publication
-  - Legal Advisory on Rights of Students with Diabetes in California's K-12
-  - Public Schools, August 2007
-  - American Diabetes Association Publication
-  - Program Advisory on Medication Administration, 2005
-  - American Diabetes Association Publication
-  - Glucagon Training Standards for School Personnel: Providing Emergency
-  - Medical Assistance to Pupils with Diabetes, May 2006
-  - Court Decision
-  - American Nurses Association v. Torlakson (2013) 57 Cal.4th 570
-  - National Diabetes Education Program Publication Helping the Student with Diabetes Succeed: A Guide for School Personnel,
-  - June 2003
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Diabetes Education Program
-  - Website
-  - U.S. Department of Health and Human Services, National Heart, Lung, and
-  - Blood Institute
-  - Website
-  - American Diabetes Association
-  - Website
-  - California Department of Education, Health Services and School Nursing
-  - Website
-  - CSBA
-  - Website
-  - California Department of Public Health
+  - June 2003 - Website - CSBA District and County Office of Education Legal Services - Website - National Diabetes Education Program - Website - U.S. Department of Health and Human Services, National Heart, Lung, and - Blood Institute - Website - American Diabetes Association - Website - California Department of Education, Health Services and School Nursing - Website - CSBA - Website - California Department of Public Health
+
+Cross References:
+  - 3513.4 - Drug And Alcohol Free Schools
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4112.9 - Employee Notifications
+  - 4119.43 - Universal Precautions
+  - 4119.43 - Universal Precautions
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4231 - Staff Development
+  - 5022 - Student And Family Privacy Rights
+  - 5022 - Student And Family Privacy Rights
+  - 5113 - Absences And Excuses
+  - 5113 - Absences And Excuses
+  - 5113.1 - Chronic Absence And Truancy
+  - 5113.1 - Chronic Absence And Truancy
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5141 - Health Care And Emergencies
+  - 5141 - Health Care And Emergencies
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.23 - Asthma Management
+  - 5141.23 - Asthma Management
+  - 5141.24 - Specialized Health Care Services
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.27 - Food Allergies/Special Dietary Needs
+  - 5141.6 - School Health Services
+  - 5145.6 - Parent/Guardian Notifications
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6163.2 - Animals At School
+  - 6163.2 - Animals At School
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504

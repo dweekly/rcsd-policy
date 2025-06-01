@@ -29,52 +29,76 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 4000-4091
-  - School improvement programs
-  - 5 CCR 4400-4426
-  - Improvement of elementary and secondary education
-  - Ed. Code 221.5
-  - Equal opportunity
-  - Ed. Code 35160
-  - Authority of governing boards
-  - Ed. Code 35160.1
-  - Broad authority of school districts
-  - Ed. Code 51050-51057
-  - Enforcement of courses of study
-  - Ed. Code 51200-51263
-  - Required courses of study
-  - Ed. Code 51500-51540
-  - Prohibited instruction
-  - Ed. Code 51705-51879.9
-  - Authorized classes and courses of instruction
-  - Ed. Code 60000-60424
-  - Instructional materials
-  - Gov. Code 3543.2
-  - Scope of representation
-  - Pen. Code 11166.5
-  - Employment; statement of knowledge of duty to report child abuse or
-  - neglect
+  - 5 CCR 4000-4091 - School improvement programs
+  - 5 CCR 4400-4426 - Improvement of elementary and secondary education
+  - Ed. Code 221.5 - Equal opportunity
+  - Ed. Code 35160 - Authority of governing boards
+  - Ed. Code 35160.1 - Broad authority of school districts
+  - Ed. Code 51050-51057 - Enforcement of courses of study
+  - Ed. Code 51200-51263 - Required courses of study
+  - Ed. Code 51500-51540 - Prohibited instruction
+  - Ed. Code 51705-51879.9 - Authorized classes and courses of instruction
+  - Ed. Code 60000-60424 - Instructional materials
+  - Gov. Code 3543.2 - Scope of representation
+  - Pen. Code 11166.5 - Employment; statement of knowledge of duty to report child abuse or - neglect
 
 Management Resources:
-  - California Department of Education Publication
-  - Content Standards for California Public Schools: Kindergarten Through
-  - Grade 12
-  - California Department of Education Publication
-  - Curriculum Frameworks for California Public Schools: Kindergarten Through
-  - Grade 12
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Association for Supervision and Curriculum Development
-  - Website
-  - Association of California School Administrators
-  - Board Policy Manual
-  - Redwood City School District
-  - 41
-  - Website
-  - California Association for Supervision and Curriculum Development
-  - Website
-  - California Department of Education, Curriculum and Instruction Resources
-  - Website
-  - CSBA
-  - Management Resources
+  - Grade 12 - California Department of Education Publication - Curriculum Frameworks for California Public Schools: Kindergarten Through
+  - Grade 12 - Website - CSBA District and County Office of Education Legal Services - Website - Association for Supervision and Curriculum Development - Website - Association of California School Administrators - Board Policy Manual - Redwood City School District
+  - 41 - Website - California Association for Supervision and Curriculum Development - Website - California Department of Education, Curriculum and Instruction Resources - Website - CSBA
+
+Cross References:
+  - 0200 - Goals For The School District
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 1000 - Concepts And Roles
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1700 - Relations Between Private Industry And The Schools
+  - 3100 - Budget
+  - 3100 - Budget
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4331 - Staff Development
+  - 5131.9 - Academic Honesty
+  - 6000 - Concepts And Roles
+  - 6011 - Academic Standards
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.3 - Civic Education
+  - 6142.5 - Environmental Education
+  - 6142.6 - Visual And Performing Arts Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6142.91 - Reading/Language Arts Instruction
+  - 6142.92 - Mathematics Instruction
+  - 6142.93 - Science Instruction
+  - 6143 - Courses Of Study
+  - 6143 - Courses Of Study
+  - 6144 - Controversial Issues
+  - 6144 - Controversial Issues
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6162.5 - Student Assessment
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6162.6 - Use Of Copyrighted Materials
+  - 6163.1 - Library Media Centers
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6179 - Supplemental Instruction
+  - 6179 - Supplemental Instruction
+  - 6190 - Evaluation Of The Instructional Program
+  - 9000 - Role Of The Board
+  - 9310 - Board Policies

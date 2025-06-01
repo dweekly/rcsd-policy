@@ -31,63 +31,96 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 11503
-  - Parent involvement programs in Title I schools
-  - Ed. Code 15278-15282
-  - Citizens' oversight committee
-  - Ed. Code 15359.3
-  - School facilities improvement districts
-  - Ed. Code 17387-17391
-  - Advisory committees for use of excess school facilities
-  - Ed. Code 35147
-  - School site councils and advisory committees
-  - Ed. Code 44032
-  - Travel expense payment
-  - Ed. Code 52060
-  - Local control and accountability plan
-  - Ed. Code 52176
-  - Advisory committees; limited-English proficient students program
-  - Ed. Code 54425
-  - Advisory committees; compensatory education
-  - Ed. Code 54444.1-54444.2
-  - Parent advisory councils; services to migrant children
-  - Ed. Code 56190-56194
-  - Community advisory committee; special education
-  - Ed. Code 62002.5
-  - Continuing parent advisory committees
-  - Ed. Code 64001
-  - School plan for student achievement; consolidated application programs
-  - Ed. Code 65000-65001
-  - School site councils
-  - Ed. Code 8070
-  - Career technical education advisory committee
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 7920.000-7930.215
-  - California Public Records Act
-  - Gov. Code 810.2
-  - Tort claims act; definition of employee
-  - Board Policy Manual
-  - Redwood City School District
+  - Ed. Code 11503 - Parent involvement programs in Title I schools
+  - Ed. Code 15278-15282 - Citizens' oversight committee
+  - Ed. Code 15359.3 - School facilities improvement districts
+  - Ed. Code 17387-17391 - Advisory committees for use of excess school facilities
+  - Ed. Code 35147 - School site councils and advisory committees
+  - Ed. Code 44032 - Travel expense payment
+  - Ed. Code 52060 - Local control and accountability plan
+  - Ed. Code 52176 - Advisory committees; limited-English proficient students program
+  - Ed. Code 54425 - Advisory committees; compensatory education
+  - Ed. Code 54444.1-54444.2 - Parent advisory councils; services to migrant children
+  - Ed. Code 56190-56194 - Community advisory committee; special education
+  - Ed. Code 62002.5 - Continuing parent advisory committees
+  - Ed. Code 64001 - School plan for student achievement; consolidated application programs
+  - Ed. Code 65000-65001 - School site councils
+  - Ed. Code 8070 - Career technical education advisory committee
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 7920.000-7930.215 - California Public Records Act
+  - Gov. Code 810.2 - Tort claims act; definition of employee - Board Policy Manual - Redwood City School District
   - 42
-  - Gov. Code 810.4
-  - Tort claims act; definition of employment
-  - Gov. Code 815.2
-  - Injuries by employees within scope of employment
-  - Gov. Code 820.9
-  - Members of local public boards not vicariously liable
-  - State
+  - Gov. Code 810.4 - Tort claims act; definition of employment
+  - Gov. Code 815.2 - Injuries by employees within scope of employment
+  - Gov. Code 820.9 - Members of local public boards not vicariously liable
 
 Federal References:
-  - 42 USC 1758b
-  - Local wellness policy
+  - 42 USC 1758b - Local wellness policy
 
-Management Resources:
-  - Court Decision
-  - Frazer v. Dixon Unified School District (1993) 18 Cal.App.4th 781
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - California Department of Education
-  - Website
-  - CSBA
+Cross References:
+  - 0200 - Goals For The School District
+  - 0400 - Comprehensive Plans
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0440 - District Technology Plan
+  - 0440 - District Technology Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1000 - Concepts And Roles
+  - 1100 - Communication With The Public
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 1431 - Waivers
+  - 1700 - Relations Between Private Industry And The Schools
+  - 2000 - Concepts And Roles
+  - 2120 - Superintendent Recruitment And Selection
+  - 2230 - Representative And Deliberative Groups
+  - 3100 - Budget
+  - 3100 - Budget
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3280 - Sale Or Lease Of District-Owned Real Property
+  - 3312 - Contracts
+  - 3350 - Travel Expenses
+  - 3430 - Investing
+  - 3430 - Investing
+  - 3460 - Financial Reports And Accountability
+  - 3460 - Financial Reports And Accountability
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 4156.2 - Awards And Recognition
+  - 5030 - Student Wellness
+  - 5126 - Awards For Achievement
+  - 5126 - Awards For Achievement
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
+  - 5142.2 - Safe Routes To School Program
+  - 5142.2 - Safe Routes To School Program
+  - 6011 - Academic Standards
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 6141 - Curriculum Development And Evaluation
+  - 6142.8 - Comprehensive Health Education
+  - 6142.8 - Comprehensive Health Education
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6170.1 - Transitional Kindergarten
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6172 - Gifted And Talented Student Program
+  - 6174 - Education For English Learners
+  - 6174 - Education For English Learners
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 7310 - Naming Of Facility
+  - 9005 - Governance Standards
+  - 9130 - Board Committees
+  - 9140 - Board Representatives
+  - 9310 - Board Policies
+  - 9320 - Meetings And Notices
+  - 9323 - Meeting Conduct

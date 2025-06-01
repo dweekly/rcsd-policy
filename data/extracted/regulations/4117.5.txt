@@ -25,24 +25,19 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 80303
-  - Reports of change in employment status; alleged misconduct
-  - 5 CCR 80332
-  - Professional candor and honesty in letters or memoranda of employment
-  - recommendation
-  - Civ. Code 47
-  - Privileged communication
-  - Gov. Code 53260-53264
-  - Employment contracts
-  - Lab. Code 1198.5
-  - Personnel records related to performance and grievance
+  - 5 CCR 80303 - Reports of change in employment status; alleged misconduct
+  - 5 CCR 80332 - Professional candor and honesty in letters or memoranda of employment - recommendation
+  - Civ. Code 47 - Privileged communication
+  - Gov. Code 53260-53264 - Employment contracts
+  - Lab. Code 1198.5 - Personnel records related to performance and grievance
 
 Management Resources:
-  - Court Decision
-  - Board of Trustees of Leland Stanford Junior University v. Superior Court
-  - (1981) 119 Cal. App. 3d 516
-  - Court Decision
-  - Randi W. v. Muroc Joint Unified School District et al. (1997) 14 Cal. 4th
-  - 1066
-  - Website
-  - CSBA District and County Office of Education Legal Services
+  - 1066 - Website - CSBA District and County Office of Education Legal Services
+
+Cross References:
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 2121 - Superintendent's Contract
+  - 4112.6 - Personnel Files
+  - 4112.61 - Employment References
+  - 4112.61 - Employment References

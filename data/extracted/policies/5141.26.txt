@@ -23,43 +23,36 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 22 CCR 41301-41329
-  - Tuberculosis tests for students
-  - 5 CCR 202
-  - Exclusion of students with a contagious disease
-  - 5 CCR 3030
-  - Eligibility for special education; tuberculosis that adversely affects
-  - educational performance
-  - 5 CCR 432
-  - Student records
-  - Ed. Code 48213
-  - Prior parent notification of exclusion; exemption
-  - Ed. Code 49451
-  - Parent's refusal to consent to health examination
-  - H&S Code 120230
-  - Exclusion for communicable disease
-  - H&S Code 121365
-  - Duties of local health officer re: tuberculosis control
-  - H&S Code 121475-121520
-  - Tuberculosis tests for students
-  - H&S Code 124025-124110
-  - Child Health and Disability Prevention Program
+  - 22 CCR 41301-41329 - Tuberculosis tests for students
+  - 5 CCR 202 - Exclusion of students with a contagious disease
+  - 5 CCR 3030 - Eligibility for special education; tuberculosis that adversely affects - educational performance
+  - 5 CCR 432 - Student records
+  - Ed. Code 48213 - Prior parent notification of exclusion; exemption
+  - Ed. Code 49451 - Parent's refusal to consent to health examination - H&S Code 120230 - Exclusion for communicable disease - H&S Code 121365 - Duties of local health officer re: tuberculosis control - H&S Code 121475-121520 - Tuberculosis tests for students - H&S Code 124025-124110 - Child Health and Disability Prevention Program
 
 Management Resources:
-  - California Department of Public Health PublicationCalifornia Immunization Handbook: Pre-Kindergarten (Child-Care) and
-  - School Immunization Requirements, 10th Edition, July 2019
-  - CDHC Services Publication
-  - CHDP School Handbook: School Entry Health Examination Requirements,
-  - rev. January 2006
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - Centers for Disease Control and Prevention, Tuberculosis
-  - Website
-  - Health Officers Association of California
-  - Website
-  - California Department of Public Health, Tuberculosis Control
-  - Website
-  - American Lung Association
-  - Website
-  - California Department of Health Care Services
+  - rev. January 2006 - Website - CSBA District and County Office of Education Legal Services - Website - Centers for Disease Control and Prevention, Tuberculosis - Website - Health Officers Association of California - Website - California Department of Public Health, Tuberculosis Control - Website - American Lung Association - Website - California Department of Health Care Services
+
+Cross References:
+  - 4231 - Staff Development
+  - 5112.2 - Exclusions From Attendance
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.3 - Health Examinations
+  - 5141.3 - Health Examinations
+  - 5141.31 - Immunizations
+  - 5141.31 - Immunizations
+  - 5141.32 - Health Screening For School Entry
+  - 5141.6 - School Health Services
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6164.6 - Identification And Education Under Section 504
+  - 6164.6 - Identification And Education Under Section 504
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program

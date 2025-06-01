@@ -19,7 +19,7 @@ discrimination (such as discriminatory harassment, intimidation, or bullying) an
 Harassment for handling complaints regarding sexual harassment. The compliance officer(s) shall receive and
 coordinate the investigation of complaints and shall ensure district compliance with law.
 Deputy Superintendent Human Resources
-Redwood City School District 
+
 750 Bradford Street, Redwood City CA 94063
 650-482-2200 
 wkelly@rcsdk8.net
@@ -50,8 +50,7 @@ committee, school advisory committees, appropriate private school officials or r
 interested parties. (5 CCR 4622)
 The notice shall include:
 1. A statement that the district is primarily responsible for compliance with federal and state laws and
-Board Policy Manual
-Redwood City School District
+
 
 regulations, including those related to prohibition of unlawful discrimination, harassment, intimidation, or
 bullying against any protected group and a list of all programs and activities that are subject to UCP as
@@ -359,7 +358,7 @@ submitted by the parties and gathered by the investigator
 5. A copy of the district's UCP
  
 
-Policy Reference Disclaimer:
+
 6. Other relevant information requested by CDE
 If notified by CDE that the district's investigation report failed to address allegation(s) raised by the
 complaint, the district shall, within 20 days of the notification, provide CDE and the appellant with an
@@ -373,80 +372,199 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 2 CCR 11023
-  - Harassment and discrimination prevention and correction
-  - 5 CCR 15580-15584
-  - Child nutrition programs complaint procedures
-  - 5 CCR 3200-3205
-  - Special education compliance complaints
-  - 5 CCR 4600-4670
-  - Uniform complaint procedures
-  - 5 CCR 4600-4687
-  - Uniform complaint procedures and Williams complaints
-  - 5 CCR 4690-4694
-  - Complaints regarding health and safety issues in license-exempt preschool
-  - programs
-  - 5 CCR 4900-4965
-  - Nondiscrimination in elementary and secondary educational programs
-  - receiving state or
+  - 2 CCR 11023 - Harassment and discrimination prevention and correction
+  - 5 CCR 15580-15584 - Child nutrition programs complaint procedures
+  - 5 CCR 3200-3205 - Special education compliance complaints
+  - 5 CCR 4600-4670 - Uniform complaint procedures
+  - 5 CCR 4600-4687 - Uniform complaint procedures and Williams complaints
+  - 5 CCR 4690-4694 - Complaints regarding health and safety issues in license-exempt preschool - programs
+  - 5 CCR 4900-4965 - Nondiscrimination in elementary and secondary educational programs - receiving state or federal financial assistance
+  - Ed. Code 18100-18203 - School libraries
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 32280-32289.5 - School safety plans
+  - Ed. Code 35186 - Williams uniform complaint procedures
+  - Ed. Code 46015 - Parental leave for students
+  - Ed. Code 48645.7 - Juvenile court schools
+  - Ed. Code 48853-48853.5 - Foster youth
+  - Ed. Code 48900.5 - Suspension; other means of correction
+  - Ed. Code 48985 - Notices to parents in language other than English
+  - Ed. Code 49010-49013 - Student fees
+  - Ed. Code 49060-49079 - Student records
+  - Ed. Code 49069.5 - Records of foster youth
+  - Ed. Code 49490-49590 - Child nutrition programs
+  - Ed. Code 49701 - Provisions of the Interstate Compact on Educational Opportunities for - Military Children
+  - Ed. Code 51204.5 - Social sciences instruction; contributions of specified groups
+  - Ed. Code 51210
+  - Course of study for grades 1-6
+  - Ed. Code 51222 - Physical education
+  - Ed. Code 51223 - Physical education; elementary schools
+  - Ed. Code 51225.1-51225.2 - Foster youth, homeless children, former juvenile court school students; - course credits; graduation requirements
+  - Ed. Code 51226-51226.1 - Career technical education
+  - Ed. Code 51228.1-51228.3 - Course periods without educational content
+  - Ed. Code 51501 - Nondiscriminatory subject matter
+  - 96
+  - Ed. Code 52059.5 - Statewide system of support
+  - Ed. Code 52060-52077 - Local control and accountability plan
+  - Ed. Code 52075 - Complaint for lack of compliance with local control and accountability plan - requirements
+  - Ed. Code 52300-52462 - Career technical education
+  - Ed. Code 52500-52617 - Adult schools
+  - Ed. Code 54400-54425 - Compensatory education programs
+  - Ed. Code 54440-54445 - Migrant education
+  - Ed. Code 54460-54529 - Compensatory education programs
+  - Ed. Code 59000-59300 - Special schools and centers
+  - Ed. Code 60010 - Instructional materials; definition
+  - Ed. Code 60040-60052 - Requirements for instructional materials
+  - Ed. Code 64000-64001 - Consolidated application process; school plan for student achievement
+  - Ed. Code 65000-65001 - School site councils
+  - Ed. Code 8200-8488 - Child care and development programs
+  - Ed. Code 8500-8538 - Adult basic education
+  - Gov. Code 11135 - Prohibition of discrimination
+  - Gov. Code 12900-12996 - Fair Employment and Housing Act - H&S Code 1596.792 - California Child Day Care Act; general provisions and definitions - H&S Code 1596.7925 - California Child Day Care Act; health and safety regulations
+  - Pen. Code 422.55 - Definition of hate crime
+  - Pen. Code 422.6 - Crimes; harassment
 
 Federal References:
-  - 20 USC 1221
-  - Application of laws
-  - 20 USC 1232g
-  - Family Educational Rights and Privacy Act (FERPA) of 1974
+  - 20 USC 1221 - Application of laws
+  - 20 USC 1232g - Family Educational Rights and Privacy Act (FERPA) of 1974
   - 20 USC 1681-1688
   - Title IX of the Education Amendments of 1972; discrimination based on sex
-  - 20 USC 6301-6576
-  - Title I Improving the Academic Achievement of the Disadvantaged
-  - 20 USC 6801-7014
-  - Title III language instruction for limited English proficient and immigrant
-  - students
-  - 28 CFR 35.107
-  - Nondiscrimination on basis of disability; complaints
+  - 20 USC 6301-6576 - Title I Improving the Academic Achievement of the Disadvantaged
+  - 20 USC 6801-7014 - Title III language instruction for limited English proficient and immigrant - students
+  - 28 CFR 35.107 - Nondiscrimination on basis of disability; complaints
   - 29 USC 794
   - Rehabilitation Act of 1973; Section 504
-  - 34 CFR 100.3
-  - Prohibition of discrimination on basis of race, color or national origin
+  - 34 CFR 100.3 - Prohibition of discrimination on basis of race, color or national origin
   - 34 CFR 104.7
-  - Section 504; Designation of responsible employee and adoption of
-  - grievances procedures
-  - 34 CFR 106.1-106.82
-  - Nondiscrimination on the basis of sex in education programs
-  - 34 CFR 106.30
-  - Discrimination on the basis of sex in education programs and activities;
-  - definitions
-  - 34 CFR 106.44
-  - Recipient's response to sexual harassment
-  - 34 CFR 106.45
-  - Grievance process for formal complaints of sexual harassment
-  - 34 CFR 106.8
-  - Designation of coordinator; dissemination of policy, and adoption of
-  - grievance procedures
+  - Section 504; Designation of responsible employee and adoption of - grievances procedures
+  - 34 CFR 106.1-106.82 - Nondiscrimination on the basis of sex in education programs
+  - 34 CFR 106.30 - Discrimination on the basis of sex in education programs and activities; - definitions
+  - 34 CFR 106.44 - Recipient's response to sexual harassment
+  - 34 CFR 106.45 - Grievance process for formal complaints of sexual harassment
+  - 34 CFR 106.8 - Designation of coordinator; dissemination of policy, and adoption of - grievance procedures
   - 97
-  - 34 CFR 110.25
-  - Notification of nondiscrimination on the basis of age
-  - 34 CFR 99.1-99.67
-  - Family Educational Rights and Privacy
-  - 42 USC 11431-11435
-  - McKinney-Vento Homeless Assistance Act
-  - 42 USC 12101-12213
-  - Americans with Disabilities Act
-  - 42 USC 2000d-2000d-7
-  - Title VI, Civil Rights Act of 1964
+  - 34 CFR 110.25 - Notification of nondiscrimination on the basis of age
+  - 34 CFR 99.1-99.67 - Family Educational Rights and Privacy
+  - 42 USC 11431-11435 - McKinney-Vento Homeless Assistance Act
+  - 42 USC 12101-12213 - Americans with Disabilities Act
+  - 42 USC 2000d-2000d-7 - Title VI, Civil Rights Act of 1964
   - 42 USC 2000h-2-2000h-6
   - Title IX of the Civil Rights Act of 1964
   - 42 USC 6101-6107
   - Age Discrimination Act of 1975
-  - Federal
 
 Management Resources:
-  - California Department of Education Publication
-  - Uniform Complaint Procedure 2021-22 Program Instrument
-  - California Department of Education Publication
-  - Sample UCP Board Policies and Procedures
-  - California Department of Justice Publication
-  - Guidance to School Officials re: Legal Requirements for Providing Inclusive
-  - Curricula and Books, January 2024
-  - CSBA Publication
-  - Reference:
+  - Uniform Complaint Procedure 2021-22 Program Instrument - California Department of Education Publication - Sample UCP Board Policies and Procedures - California Department of Justice Publication - Guidance to School Officials re: Legal Requirements for Providing Inclusive - Curricula and Books, January 2024 - CSBA Publication - Reference: State Roles, Responsibilities, and Process for Instructional - Materials Adoption, February 2024 - CSBA Publication - Fact Sheet: Instructional Materials Adoption: Local governing board - responsibilities, February 2024 - CSBA Publication - Instructional Materials Adoptions: State and local governing board - processes, roles, and responsibilities, February 2024 - Federal Register - Nondiscrimination on the Basis of Sex in Education Programs or Activities - Receiving Federal Financial Assistance, April 29, 2024, Vol. 89, No. 83,
+  - pages 33474-33896 - U.S. DOE, Office for Civil Rights Publication - Dear Colleague Letter: Responding to Bullying of Students with Disabilities,
+  - October 2014 - U.S. DOJ Publication - Guidance to Federal Financial Assistance Recipients Regarding Title VI - Prohibition Against National Origin Discrimination Affecting Limited English - Proficient Persons, 2007 - Website - CSBA District and County Office of Education Legal Services - Website - Student Privacy Policy Office - Website - U.S. Department of Agriculture - Website - California Department of Social Services - Website - U.S. Department of Justice - Website - California Civil Rights Department - Website - California Department of Education - Website - CSBA - Website - U.S. Department of Education, Office for Civil Rights
+
+Cross References:
+  - 0410 - Nondiscrimination In District Programs And Activities
+  - 0420 - School Plans/Site Councils
+  - 0420 - School Plans/Site Councils
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0430 - Comprehensive Local Plan For Special Education
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 0460 - Local Control And Accountability Plan
+  - 0460 - Local Control And Accountability Plan
+  - 1100 - Communication With The Public
+  - 1113 - District And School Websites
+  - 1113 - District And School Websites
+  - 1114 - District-Sponsored Social Media
+  - 1114 - District-Sponsored Social Media
+  - 1220 - Citizen Advisory Committees
+  - 1220 - Citizen Advisory Committees
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1313 - Civility
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 3260 - Fees And Charges
+  - 3260 - Fees And Charges
+  - 3555 - Nutrition Program Compliance
+  - 3580 - District Records
+  - 3580 - District Records
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4112.23 - Special Education Staff
+  - 4112.9 - Employee Notifications
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4118 - Dismissal/Suspension/Disciplinary Action
+  - 4119.1 - Civil And Legal Rights
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.23 - Unauthorized Release Of Confidential/Privileged Information
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4218 - Dismissal/Suspension/Disciplinary Action
+  - 4219.1 - Civil And Legal Rights
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4231 - Staff Development
+  - 4319.1 - Civil And Legal Rights
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4331 - Staff Development
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5116.1 - Intradistrict Open Enrollment
+  - 5117 - Interdistrict Attendance
+  - 5125 - Student Records
+  - 5125 - Student Records
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.62 - Tobacco
+  - 5131.62 - Tobacco
+  - 5137 - Positive School Climate
+  - 5141.22 - Infectious Diseases
+  - 5141.22 - Infectious Diseases
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5141.4 - Child Abuse Prevention And Reporting
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.6 - Parent/Guardian Notifications
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5146 - Married/Pregnant/Parenting Students
+  - 5148.2 - Before/After School Programs
+  - 5148.2 - Before/After School Programs
+  - 5148.3 - Preschool/Early Childhood Education
+  - 5148.3 - Preschool/Early Childhood Education
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6142.1 - Sexual Health And HIV/AIDS Prevention Instruction
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6145 - Extracurricular And Cocurricular Activities
+  - 6152 - Class Assignment
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.1 - Selection And Evaluation Of Instructional Materials
+  - 6161.11 - Supplementary Instructional Materials
+  - 6163.1 - Library Media Centers
+  - 6164.2 - Guidance/Counseling Services
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.4 - Identification And Evaluation Of Individuals For Special Education
+  - 6164.5 - Student Success Teams
+  - 6164.5 - Student Success Teams
+  - 6171 - Title I Programs
+  - 6171 - Title I Programs
+  - 6173 - Education For Homeless Children
+  - 6173 - Education For Homeless Children
+  - 6173.1 - Education For Foster Youth
+  - 6173.1 - Education For Foster Youth
+  - 6175 - Migrant Education Program
+  - 6175 - Migrant Education Program
+  - 9000 - Role Of The Board
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9124 - Attorney
+  - 9200 - Limits Of Board Member Authority
+  - 9322 - Agenda/Meeting Materials

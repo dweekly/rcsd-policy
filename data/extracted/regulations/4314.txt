@@ -20,26 +20,15 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 35031
-  - Term of employment
-  - Ed. Code 35035
-  - Powers and duties of the superintendent; transfer authority
-  - Ed. Code 44850.1
-  - No tenure in administrative or supervisory position
-  - Ed. Code 44896
-  - Transfer of administrator or supervisor to teaching position
-  - Ed. Code 44897
-  - Classification of administrator or supervisor to a teaching position
-  - Ed. Code 44951
-  - Continuation in position unless notified; administrative or supervisory
-  - personnel
-  - Ed. Code 45101
-  - Definitions; disciplinary action and cause
-  - Ed. Code 45113
-  - Notification of charges; classified employees
+  - Ed. Code 35031 - Term of employment
+  - Ed. Code 35035 - Powers and duties of the superintendent; transfer authority
+  - Ed. Code 44850.1 - No tenure in administrative or supervisory position
+  - Ed. Code 44896 - Transfer of administrator or supervisor to teaching position
+  - Ed. Code 44897 - Classification of administrator or supervisor to a teaching position
+  - Ed. Code 44951 - Continuation in position unless notified; administrative or supervisory - personnel
+  - Ed. Code 45101 - Definitions; disciplinary action and cause
+  - Ed. Code 45113 - Notification of charges; classified employees
 
-Management Resources:
-  - Court Decision
-  - Hentschke v. Sink (1973) 34 Cal. App. 3d 19
-  - Website
-  - CSBA District and County Office of Education Legal Services
+Cross References:
+  - 4300 - Administrative And Supervisory Personnel
+  - 4313.2 - Demotion/Reassignment

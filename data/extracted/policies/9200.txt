@@ -28,33 +28,41 @@ REFERENCES
 ================================================================================
 
 State References:
-  - Ed. Code 200-270
-  - Prohibition of discrimination
-  - Ed. Code 35010
-  - Control of district; prescription and enforcement of rules
-  - Ed. Code 35100-35351
-  - Governing boards
-  - Ed. Code 35160-35178.4
-  - Powers and duties
-  - Ed. Code 35291
-  - Rules (power of governing board)
-  - Ed. Code 35292
-  - Visits to schools (Board members)
-  - Ed. Code 51101
-  - Rights of parents/guardians
-  - Ed. Code 7054
-  - Use of district property; campaign purposes
-  - Gov. Code 54950-54963
-  - The Ralph M. Brown Act
-  - Gov. Code 54952.1
-  - Member of a legislative body of a local agency
-  - Gov. Code 54952.7
-  - Copies of chapter to members of legislative body
+  - Ed. Code 200-270 - Prohibition of discrimination
+  - Ed. Code 35010 - Control of district; prescription and enforcement of rules
+  - Ed. Code 35100-35351 - Governing boards
+  - Ed. Code 35160-35178.4 - Powers and duties
+  - Ed. Code 35291 - Rules (power of governing board)
+  - Ed. Code 35292 - Visits to schools (Board members)
+  - Ed. Code 51101 - Rights of parents/guardians
+  - Ed. Code 7054 - Use of district property; campaign purposes
+  - Gov. Code 54950-54963 - The Ralph M. Brown Act
+  - Gov. Code 54952.1 - Member of a legislative body of a local agency
+  - Gov. Code 54952.7 - Copies of chapter to members of legislative body
 
-Management Resources:
-  - CSBA Publication
-  - Professional Governance Standards
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - CSBA
+Cross References:
+  - 1160 - Political Processes
+  - 1240 - Volunteer Assistance
+  - 1240 - Volunteer Assistance
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.4 - Williams Uniform Complaint Procedures
+  - 1340 - Access To District Records
+  - 1340 - Access To District Records
+  - 5020 - Parent Rights And Responsibilities
+  - 5020 - Parent Rights And Responsibilities
+  - 6020 - Parent Involvement
+  - 6020 - Parent Involvement
+  - 9000 - Role Of The Board
+  - 9005 - Governance Standards
+  - 9010 - Public Statements
+  - 9011 - Disclosure Of Confidential/Privileged Information
+  - 9124 - Attorney
+  - 9140 - Board Representatives
+  - 9230 - Orientation
+  - 9270 - Conflict Of Interest
+  - 9322 - Agenda/Meeting Materials
+  - 9323 - Meeting Conduct
+  - 9323.2 - Actions By The Board

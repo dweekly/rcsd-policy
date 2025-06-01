@@ -43,112 +43,99 @@ REFERENCES
 ================================================================================
 
 State References:
-  - CA Constitution Article 1, Section 2
-  - Freedom of speech and expression
-  - CA Constitution Article 1, Section 28
-  - Right to Safe Schools
-  - Civ. Code 51.7
-  - Freedom from violence or intimidation
-  - Ed. Code 200-262.4
-  - Educational equity
-  - Ed. Code 32210
-  - Willful disturbance of public school or meeting
-  - Ed. Code 32211
-  - Threatened disruption or interference with classes
-  - Ed. Code 32212
-  - Classroom interruptions
-  - Ed. Code 32280-32289.5
-  - School safety plans
-  - Board Policy Manual
-  - Redwood City School District
+  - CA Constitution Article 1, Section 2 - Freedom of speech and expression
+  - CA Constitution Article 1, Section 28 - Right to Safe Schools
+  - Civ. Code 51.7 - Freedom from violence or intimidation
+  - Ed. Code 200-262.4 - Educational equity
+  - Ed. Code 32210 - Willful disturbance of public school or meeting
+  - Ed. Code 32211 - Threatened disruption or interference with classes
+  - Ed. Code 32212 - Classroom interruptions
+  - Ed. Code 32280-32289.5 - School safety plans - Board Policy Manual - Redwood City School District
   - 112
-  - Ed. Code 35181
-  - Governing board authority to set policy on responsibilities of students
-  - Ed. Code 35291-35291.5
-  - Rules
-  - Ed. Code 44050
-  - Employee code of conduct; interaction with students
-  - Ed. Code 44807
-  - Teachers' duty concerning conduct of students
-  - Ed. Code 44810
-  - Willful interference with classroom conduct
-  - Ed. Code 44811
-  - Disruption of classwork or extracurricular activities
-  - Ed. Code 48900-48926
-  - Suspension and expulsion
-  - Ed. Code 48907
-  - Exercise of free expression; time, place, and manner rules and regulations
-  - Ed. Code 48950
-  - Speech and other communication
-  - Ed. Code 49330-49335
-  - Injurious objects
-  - Gov. Code 54954.3
-  - Opportunity for public to address legislative body
-  - Gov. Code 54957.9
-  - Disorderly conduct of general public during meeting; clearing of room
-  - Pen. Code 243.5
-  - Assault or battery on school property
-  - Pen. Code 415.5
-  - Disturbance of peace of school
-  - Pen. Code 422.55
-  - Definition of hate crime
-  - Pen. Code 422.6
-  - Crimes; harassment
-  - Pen. Code 626-626.11
-  - Weapons on school grounds and other school crimes
-  - Pen. Code 627-627.10
-  - Access to school premises
-  - Pen. Code 653.2
-  - Electronic communication devices; threats to safety
-  - Pen. Code 653b
-  - Loitering about schools or public places
-  - State
-
-Federal References:
-  - U.S. Constitution, First Amendment
-  - Free exercise, free speech, and establishment clauses
+  - Ed. Code 35181 - Governing board authority to set policy on responsibilities of students
+  - Ed. Code 35291-35291.5 - Rules
+  - Ed. Code 44050 - Employee code of conduct; interaction with students
+  - Ed. Code 44807 - Teachers' duty concerning conduct of students
+  - Ed. Code 44810 - Willful interference with classroom conduct
+  - Ed. Code 44811 - Disruption of classwork or extracurricular activities
+  - Ed. Code 48900-48926 - Suspension and expulsion
+  - Ed. Code 48907 - Exercise of free expression; time, place, and manner rules and regulations
+  - Ed. Code 48950 - Speech and other communication
+  - Ed. Code 49330-49335 - Injurious objects
+  - Gov. Code 54954.3 - Opportunity for public to address legislative body
+  - Gov. Code 54957.9 - Disorderly conduct of general public during meeting; clearing of room
+  - Pen. Code 243.5 - Assault or battery on school property
+  - Pen. Code 415.5 - Disturbance of peace of school
+  - Pen. Code 422.55 - Definition of hate crime
+  - Pen. Code 422.6 - Crimes; harassment
+  - Pen. Code 626-626.11 - Weapons on school grounds and other school crimes
+  - Pen. Code 627-627.10 - Access to school premises
+  - Pen. Code 653.2 - Electronic communication devices; threats to safety
+  - Pen. Code 653b - Loitering about schools or public places
 
 Management Resources:
-  - California Department of Education Publication
-  - Social and Emotional Learning in California: A Guide to Resources, October
-  - 2018
-  - California Department of Education Publication
-  - California's Social and Emotional Learning: Guiding Principles, 2018
-  - Commission on Teacher Credentialing Publication California Professional Standards for Educational Leaders, February 2014
-  - Court Decision
-  - Baca v. Moreno Valley Unified School District (1996) 936 F. Supp. 719
-  - Court Decision
-  - Hazelwood School District v. Kuhlmeier (1988) 108 S. Ct. 562
-  - Court Decision
-  - City of San Jose v. William Garbett (2010) 190 Cal. App. 4th 526
-  - Court Decision
-  - Norse v. City of Santa Cruz (9th Cir. 2010) 629 F3d 966
-  - CSBA Publication
-  - Professional Governance Standards for School Boards
-  - CSBA Publication
-  - Superintendent Governance Standards
-  - Nat'l Policy Board For Educational Administration Professional Standards for Educational Leaders, October 2015
-  - Website
-  - CSBA District and County Office of Education Legal Services
-  - Website
-  - National Policy Board for Educational Administration
-  - Website
-  - National School Safety Center
-  - Website
-  - Center for Safe and Responsible Internet Use
-  - Website
-  - California Office of the Attorney General
-  - 113
-  - Website
-  - National Council for the Social Studies
-  - Website
-  - Commission on Teacher Credentialing
-  - Website
-  - CSBA
-  - Website
-  - California Department of Education
-  - Website
-  - U.S. Department of Education
-  - Website
-  - Equal Employment Opportunity Commission
-  - Management Resources
+  - 2018 - California Department of Education Publication - California's Social and Emotional Learning: Guiding Principles, 2018 - Commission on Teacher Credentialing Publication California Professional Standards for Educational Leaders, February 2014 - Court Decision - Baca v. Moreno Valley Unified School District (1996) 936 F. Supp. 719 - Court Decision - Hazelwood School District v. Kuhlmeier (1988) 108 S. Ct. 562 - Court Decision - City of San Jose v. William Garbett (2010) 190 Cal. App. 4th 526 - Court Decision - Norse v. City of Santa Cruz (9th Cir. 2010) 629 F3d 966 - CSBA Publication - Professional Governance Standards for School Boards - CSBA Publication - Superintendent Governance Standards - Nat'l Policy Board For Educational Administration Professional Standards for Educational Leaders, October 2015 - Website - CSBA District and County Office of Education Legal Services - Website - National Policy Board for Educational Administration - Website - National School Safety Center - Website - Center for Safe and Responsible Internet Use - Website - California Office of the Attorney General
+  - 113 - Website - National Council for the Social Studies - Website - Commission on Teacher Credentialing - Website - CSBA - Website - California Department of Education - Website - U.S. Department of Education - Website - Equal Employment Opportunity Commission
+
+Cross References:
+  - 0415 - Equity
+  - 0415 - Equity
+  - 0450 - Comprehensive Safety Plan
+  - 0450 - Comprehensive Safety Plan
+  - 1250 - Visitors/Outsiders
+  - 1250 - Visitors/Outsiders
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.1 - Complaints Concerning District Employees
+  - 1312.3 - Uniform Complaint Procedures
+  - 1312.3 - Uniform Complaint Procedures
+  - 2111 - Superintendent Governance Standards
+  - 3515.2 - Disruptions
+  - 3515.2 - Disruptions
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3515.4 - Recovery For Property Loss Or Damage
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516 - Emergencies And Disaster Preparedness Plan
+  - 3516.2 - Bomb Threats
+  - 4030 - Nondiscrimination In Employment
+  - 4030 - Nondiscrimination In Employment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.11 - Sex Discrimination and Sex-Based Harassment
+  - 4119.21 - Professional Standards
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4156.3 - Employee Property Reimbursement
+  - 4158 - Employee Security
+  - 4158 - Employee Security
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.11 - Sex Discrimination and Sex-Based Harassment
+  - 4219.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4219.21 - Professional Standards
+  - 4231 - Staff Development
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.11 - Sex Discrimination and Sex-Based Harassment
+  - 4319.12 - Title IX Sex Discrimination and Sex-Based Harassment Complaint
+  - 4319.21 - Professional Standards
+  - 4331 - Staff Development
+  - 5131 - Conduct
+  - 5131.2 - Bullying
+  - 5131.2 - Bullying
+  - 5131.4 - Student Disturbances
+  - 5131.4 - Student Disturbances
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5131.7 - Weapons And Dangerous Instruments
+  - 5137 - Positive School Climate
+  - 5138 - Conflict Resolution/Peer Mediation
+  - 5144 - Discipline
+  - 5144 - Discipline
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5144.1 - Suspension And Expulsion/Due Process
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.2 - Freedom Of Speech/Expression
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.3 - Nondiscrimination/Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.7 - Sex Discrimination and Sex-Based Harassment
+  - 5145.9 - Hate-Motivated Behavior
+  - 6164.2 - Guidance/Counseling Services
+  - 9005 - Governance Standards
+  - 9323 - Meeting Conduct

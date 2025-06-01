@@ -51,11 +51,9 @@ following requirements: (Education Code 44468)
  
 a. The intern shall first pass the assessment of teaching foundations described in item #1 before qualifying
 to take the teaching performance assessment.
-Board Policy Manual
-Redwood City School District
 
-Policy Reference Disclaimer:
- 
+
+
 b. The intern may take the teaching performance assessment only one time as part of the early completion
 option. An intern who is not successful on this assessment may complete his/her internship program and
 his/her scores shall be used to provide an individualized professional development plan that emphasizes
@@ -74,55 +72,44 @@ REFERENCES
 ================================================================================
 
 State References:
-  - 5 CCR 80021.1
-  - Provisional internship permit
-  - 5 CCR 80033
-  - Intern teaching credential
-  - 5 CCR 80055
-  - Intern credential; extension for extenuating circumstances
-  - Ed. Code 300-340
-  - English language education for immigrant children
-  - Ed. Code 44225
-  - Credentials; responsibilities of Commission on Teacher Credentialing
-  - Ed. Code 44225.7
-  - Priority for hiring fully prepared teacher
-  - Ed. Code 44253.10
-  - Qualifications to provide specially designed academic instruction in English
-  - Ed. Code 44253.3-44253.4
-  - Certificate to provide services to English learners
-  - Ed. Code 44259
-  - Teaching credential, exception; designated subjects; minimum requirements
-  - Ed. Code 44314
-  - Subject matter programs; approved subjects
-  - Ed. Code 44321
-  - CTC approval of intern programs
-  - Ed. Code 44325-44328
-  - District interns
-  - Ed. Code 44339-44341
-  - Teacher fitness
-  - Ed. Code 44450-44468
-  - University internship program
-  - Ed. Code 44830.3
-  - Employing district interns
-  - Ed. Code 44885.5
-  - District interns classified as probationary employees
+  - 5 CCR 80021.1 - Provisional internship permit
+  - 5 CCR 80033 - Intern teaching credential
+  - 5 CCR 80055 - Intern credential; extension for extenuating circumstances
+  - Ed. Code 300-340 - English language education for immigrant children
+  - Ed. Code 44225 - Credentials; responsibilities of Commission on Teacher Credentialing
+  - Ed. Code 44225.7 - Priority for hiring fully prepared teacher
+  - Ed. Code 44253.10 - Qualifications to provide specially designed academic instruction in English
+  - Ed. Code 44253.3-44253.4 - Certificate to provide services to English learners
+  - Ed. Code 44259 - Teaching credential, exception; designated subjects; minimum requirements
+  - Ed. Code 44314 - Subject matter programs; approved subjects
+  - Ed. Code 44321 - CTC approval of intern programs
+  - Ed. Code 44325-44328 - District interns
+  - Ed. Code 44339-44341 - Teacher fitness
+  - Ed. Code 44450-44468 - University internship program
+  - Ed. Code 44830.3 - Employing district interns
+  - Ed. Code 44885.5 - District interns classified as probationary employees
 
 Management Resources:
-  - Commission on Teacher Credentialing Publication Administrator's Assignment Manual, 2008
-  - Commission on Teacher Credentialing Publication CL-840 Early Completion Option
-  - Commission on Teacher Credentialing Publication Education Specialist Teaching and Other Related Services Credential
-  - Program Standards, rev. May 2013
+  - Commission on Teacher Credentialing Publication CL-840 Early Completion Option - Commission on Teacher Credentialing Publication Education Specialist Teaching and Other Related Services Credential - Program Standards, rev. May 2013
   - Commission on Teacher Credentialing Publication Hiring Hierarchy in Education Code 44225.7, Coded Correspondence 13-
-  - 01, January 30, 2013
-  - Commission on Teacher Credentialing Publication Intern Preservice, Support and Supervision Requirements: Preparation to
-  - Teach English Learners, Program Sponsor Alert 13-06, June 3, 2013
-  - Commission on Teacher Credentialing Publication Preparation of Intern Credential Holders Prior to Service as Teacher of
-  - Record as an Intern, Coded Correspondence 08-03, March 3, 2008
-  - Commission on Teacher Credentialing Publication SB 2042 Multiple Subject and Single Subject Preliminary Credential Program
-  - Standards, rev. February 2014
-  - 52
-  - Commission on Teacher Credentialing Publication California Standards for the Teaching Profession (CSTP), October 2009
-  - Court Decision
-  - Renee v. Duncan, 686 F.3d 1002 (2012)
-  - U.S. Department of Education Guidance
-  - Improving Teacher Quality
+  - 01, January 30, 2013 - Commission on Teacher Credentialing Publication Intern Preservice, Support and Supervision Requirements: Preparation to - Teach English Learners, Program Sponsor Alert 13-06, June 3, 2013 - Commission on Teacher Credentialing Publication Preparation of Intern Credential Holders Prior to Service as Teacher of - Record as an Intern, Coded Correspondence 08-03, March 3, 2008
+  - Commission on Teacher Credentialing Publication SB 2042 Multiple Subject and Single Subject Preliminary Credential Program - Standards, rev. February 2014
+  - 52 - Commission on Teacher Credentialing Publication California Standards for the Teaching Profession (CSTP), October 2009 - Court Decision - Renee v. Duncan, 686 F.3d 1002 (2012) - U.S. Department of Education Guidance - Improving Teacher Quality State Grants, rev. October 5, 2006 - Website - CSBA District and County Office of Education Legal Services - Website - Commission on Teacher Credentialing, Interns - Website - CSBA - Website - U.S. Department of Education
+
+Cross References:
+  - 4112.2 - Certification
+  - 4112.2 - Certification
+  - 4112.23 - Special Education Staff
+  - 4113 - Assignment
+  - 4113 - Assignment
+  - 4115 - Evaluation/Supervision
+  - 4115 - Evaluation/Supervision
+  - 4116 - Probationary/Permanent Status
+  - 4116 - Probationary/Permanent Status
+  - 4119.22 - Dress And Grooming
+  - 4131 - Staff Development
+  - 4131 - Staff Development
+  - 4219.22 - Dress And Grooming
+  - 4319.22 - Dress And Grooming
+  - 5141.52 - Suicide Prevention
+  - 5141.52 - Suicide Prevention
