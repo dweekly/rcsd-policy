@@ -12,8 +12,8 @@ import logging
 import os
 import re
 from dataclasses import asdict, dataclass
-from datetime import datetime
-from typing import Dict, List, Optional
+from datetime import datetime, timezone
+from typing import Optional
 
 import fitz  # PyMuPDF
 
@@ -33,12 +33,12 @@ class PolicyDocument:
     original_adopted_date: Optional[str]
     last_reviewed_date: Optional[str]
     content: str
-    references: Dict[str, List[str]]
+    references: dict[str, list[str]]
     source_file: str
-    page_numbers: List[int]
+    page_numbers: list[int]
     extraction_date: str
 
-    def to_dict(self) -> Dict:
+    def to_dict(self) -> dict:
         return asdict(self)
 
 
@@ -46,12 +46,12 @@ class PDFPolicyParser:
     """Extract policies from PDF documents using PyMuPDF"""
 
     def __init__(self):
-        self.documents: List[PolicyDocument] = []
-        self.toc_entries: Dict[str, Dict] = {}
+        self.documents: list[PolicyDocument] = []
+        self.toc_entries: dict[str, dict] = {}
 
     def parse_pdf(
         self, pdf_path: str, output_dir: str = "extracted_policies"
-    ) -> List[PolicyDocument]:
+    ) -> list[PolicyDocument]:
         """Parse a PDF file and extract all policies"""
         logger.info(f"\nProcessing: {pdf_path}")
 
@@ -72,7 +72,7 @@ class PDFPolicyParser:
 
             # Step 2: Extract documents based on TOC
             logger.info(f"  Extracting {len(self.toc_entries)} documents...")
-            for key, toc_entry in sorted(self.toc_entries.items()):
+            for _key, toc_entry in sorted(self.toc_entries.items()):
                 code = toc_entry["code"]
                 doc = self._extract_document(
                     pdf_doc, code, toc_entry, os.path.basename(pdf_path)
@@ -212,7 +212,7 @@ class PDFPolicyParser:
         logger.info(f"    Found {len(self.toc_entries)} entries")
 
     def _extract_document(
-        self, pdf_doc: fitz.Document, code: str, toc_entry: Dict, source_file: str
+        self, pdf_doc: fitz.Document, code: str, toc_entry: dict, source_file: str
     ) -> Optional[PolicyDocument]:
         """Extract a single document based on TOC entry"""
         try:
@@ -277,7 +277,7 @@ class PDFPolicyParser:
         title: str,
         doc_type: str,
         full_text: str,
-        pages: List[int],
+        pages: list[int],
         source_file: str,
     ) -> PolicyDocument:
         """Parse document content and extract metadata"""
@@ -319,10 +319,10 @@ class PDFPolicyParser:
             references=references,
             source_file=source_file,
             page_numbers=pages,
-            extraction_date=datetime.now().isoformat(),
+            extraction_date=datetime.now(timezone.utc).isoformat(),
         )
 
-    def _extract_dates(self, text: str) -> Dict[str, Optional[str]]:
+    def _extract_dates(self, text: str) -> dict[str, Optional[str]]:
         """Extract adoption and review dates"""
         dates = {"original": None, "reviewed": None}
 
@@ -373,9 +373,9 @@ class PDFPolicyParser:
         disclaimer_match = re.search(
             r"Policy Reference Disclaimer:\s*These references are not intended to be part of the policy itself",
             text,
-            re.IGNORECASE
+            re.IGNORECASE,
         )
-        
+
         if disclaimer_match:
             ref_start = disclaimer_match.start()
         else:
@@ -386,7 +386,7 @@ class PDFPolicyParser:
                 r"\nManagement\s+Resources\s+Description",
                 r"\nCross\s+References\s+Description",
             ]
-            
+
             for marker in markers:
                 match = re.search(marker, text, re.IGNORECASE)
                 if match and match.start() < ref_start:
@@ -395,8 +395,8 @@ class PDFPolicyParser:
                     search_start = max(0, match.start() - 500)
                     disclaimer_before = re.search(
                         r"Policy Reference Disclaimer:",
-                        text[search_start:match.start()],
-                        re.IGNORECASE
+                        text[search_start : match.start()],
+                        re.IGNORECASE,
                     )
                     if disclaimer_before:
                         ref_start = search_start + disclaimer_before.start()
@@ -417,15 +417,19 @@ class PDFPolicyParser:
         # Remove header/footer artifacts
         content = re.sub(r"^RCSD.*?$", "", content, flags=re.MULTILINE)
         content = re.sub(r"^Page \d+ of \d+$", "", content, flags=re.MULTILINE)
-        
+
         # Remove "Board Policy Manual" and "Policy Reference Disclaimer:" lines
         content = re.sub(r"^Board Policy Manual\s*$", "", content, flags=re.MULTILINE)
-        content = re.sub(r"^Redwood City School District\s*$", "", content, flags=re.MULTILINE)
-        content = re.sub(r"^Policy Reference Disclaimer:\s*$", "", content, flags=re.MULTILINE)
+        content = re.sub(
+            r"^Redwood City School District\s*$", "", content, flags=re.MULTILINE
+        )
+        content = re.sub(
+            r"^Policy Reference Disclaimer:\s*$", "", content, flags=re.MULTILINE
+        )
 
         return content.strip()
 
-    def _extract_references(self, ref_text: str) -> Dict[str, List[str]]:
+    def _extract_references(self, ref_text: str) -> dict[str, list[str]]:
         """Extract and categorize references from the full reference text"""
         references = {
             "state": [],
@@ -442,7 +446,7 @@ class PDFPolicyParser:
             r"Policy Reference Disclaimer:.*?of the policy\.\s*",
             "",
             ref_text,
-            flags=re.DOTALL | re.IGNORECASE
+            flags=re.DOTALL | re.IGNORECASE,
         )
 
         # Split by reference type sections - look for column headers
@@ -478,7 +482,7 @@ class PDFPolicyParser:
 
         return references
 
-    def _parse_reference_section(self, section_text: str, ref_type: str) -> List[str]:
+    def _parse_reference_section(self, section_text: str, ref_type: str) -> list[str]:
         """Parse individual references from a section"""
         refs = []
 
@@ -486,29 +490,36 @@ class PDFPolicyParser:
             # Parse cross references in column format
             # Pattern: policy number at start of line, followed by description
             lines = section_text.split("\n")
-            
+
             for i, line in enumerate(lines):
                 line = line.strip()
                 if not line:
                     continue
-                    
+
                 # Skip page numbers and headers
-                if re.match(r"^\d+$", line) or line.lower() in ["cross references", "description"]:
+                if re.match(r"^\d+$", line) or line.lower() in [
+                    "cross references",
+                    "description",
+                ]:
                     continue
-                    
+
                 # Check if line starts with a policy number
                 policy_match = re.match(r"^(\d{4}(?:\.\d+)?)\s+(.+)$", line)
                 if policy_match:
                     policy_num = policy_match.group(1)
                     description = policy_match.group(2).strip()
-                    
+
                     # Check if description continues on next line (happens with long titles)
                     if i + 1 < len(lines):
                         next_line = lines[i + 1].strip()
                         # If next line doesn't start with a policy number and isn't empty
-                        if next_line and not re.match(r"^\d{4}(?:\.\d+)?", next_line) and not re.match(r"^\d+$", next_line):
+                        if (
+                            next_line
+                            and not re.match(r"^\d{4}(?:\.\d+)?", next_line)
+                            and not re.match(r"^\d+$", next_line)
+                        ):
                             description += " " + next_line
-                    
+
                     refs.append(f"{policy_num} - {description}")
                 elif line and not re.match(r"^\d{4}(?:\.\d+)?", line):
                     # This might be a standalone policy number on previous line
@@ -516,21 +527,26 @@ class PDFPolicyParser:
                         prev_line = lines[i - 1].strip()
                         if re.match(r"^\d{4}(?:\.\d+)?$", prev_line):
                             refs.append(f"{prev_line} - {line}")
-                    
+
         else:
             # For state/federal/management resources
             lines = section_text.split("\n")
             current_ref = ""
-            
+
             for line in lines:
                 line = line.strip()
                 if not line:
                     continue
-                    
+
                 # Skip header rows
-                if line.lower() in ["state", "federal", "management resources", "description"]:
+                if line.lower() in [
+                    "state",
+                    "federal",
+                    "management resources",
+                    "description",
+                ]:
                     continue
-                    
+
                 # Check if this looks like a code/statute reference at start of line
                 if re.match(r"^[\w\s\.\-]+\d+", line):
                     # Save previous reference if exists
@@ -541,7 +557,7 @@ class PDFPolicyParser:
                     # This is a continuation/description
                     if current_ref:
                         current_ref += " - " + line
-                    
+
             # Don't forget the last reference
             if current_ref:
                 refs.append(current_ref)
@@ -613,7 +629,7 @@ class PDFPolicyParser:
     def _save_summary(self, output_dir: str) -> None:
         """Save extraction summary as JSON"""
         summary = {
-            "extraction_date": datetime.now().isoformat(),
+            "extraction_date": datetime.now(timezone.utc).isoformat(),
             "total_documents": len(self.documents),
             "by_type": {},
             "by_series": {},
@@ -696,7 +712,7 @@ def main():
 
     # Save complete summary
     complete_summary = {
-        "extraction_date": datetime.now().isoformat(),
+        "extraction_date": datetime.now(timezone.utc).isoformat(),
         "total_documents": len(all_documents),
         "by_type": type_counts,
         "documents": [doc.to_dict() for doc in all_documents],

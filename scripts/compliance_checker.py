@@ -5,6 +5,7 @@ RCSD Policy Compliance Checker
 - Implements caching to avoid redundant API calls
 - Extracts and follows cross-references between policies
 - Generates detailed compliance reports with material issues identified
+- Supports parallel processing, batching, and resume capability
 """
 
 import hashlib
@@ -13,7 +14,8 @@ import os
 import re
 import time
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
 from pathlib import Path
 
 from anthropic import Anthropic
@@ -23,9 +25,18 @@ load_dotenv()
 
 
 class ComplianceChecker:
-    def __init__(self, cache_dir="data/cache", output_dir="data/analysis/compliance"):
+    def __init__(
+        self,
+        cache_dir="data/cache",
+        output_dir="data/analysis/compliance",
+        batch_size=20,
+        max_workers=3,
+    ):
         self.cache_dir = Path(cache_dir)
         self.output_dir = Path(output_dir)
+        self.batch_size = batch_size
+        self.max_workers = max_workers
+
         self.cache_dir.mkdir(exist_ok=True)
         self.output_dir.mkdir(exist_ok=True)
 
@@ -62,7 +73,7 @@ class ComplianceChecker:
                 data = json.load(f)
                 # Check if cache is still valid (30 days)
                 cached_date = datetime.fromisoformat(data["cached_date"])
-                if (datetime.now() - cached_date).days < 30:
+                if (datetime.now(timezone.utc) - cached_date).days < 30:
                     self.api_calls_cached += 1
                     return data["response"]
         return None
@@ -72,7 +83,11 @@ class ComplianceChecker:
         cache_file = self.cache_dir / f"{cache_key}.json"
         with open(cache_file, "w") as f:
             json.dump(
-                {"cached_date": datetime.now().isoformat(), "response": response}, f
+                {
+                    "cached_date": datetime.now(timezone.utc).isoformat(),
+                    "response": response,
+                },
+                f,
             )
 
     def extract_cross_references(self, file_path):
@@ -85,32 +100,34 @@ class ComplianceChecker:
 
             # Extract the policy code from the filename to avoid self-references
             own_code = Path(file_path).stem
-            
+
             # First, look for the structured Cross References section at the end
             cross_refs_match = re.search(
-                r"Cross References\s*\n(?:Description\s*\n)?(.*?)(?:Board Policy Manual|$)",
+                r"Cross References\s*:?\s*\n(?:Description\s*\n)?(.*?)(?:Board Policy Manual|$)",
                 content,
-                re.DOTALL | re.IGNORECASE
+                re.DOTALL | re.IGNORECASE,
             )
-            
+
             if cross_refs_match:
                 refs_text = cross_refs_match.group(1)
                 # Extract policy numbers from the Cross References section
-                # Pattern matches lines that start with a policy number
-                policy_pattern = r"^(\d{4}(?:\.\d+)?)\s+"
+                # Pattern matches lines that start with a dash and policy number
+                policy_pattern = r"^\s*-?\s*(\d{4}(?:\.\d+)?)\s+"
                 matches = re.findall(policy_pattern, refs_text, re.MULTILINE)
                 cross_refs.update(matches)
-            
+
             # Also check for inline references in the main text
             # Get main text (before REFERENCES section)
-            main_text_match = re.search(r"^(.*?)(?:\n={50,}\nREFERENCES|$)", content, re.DOTALL)
+            main_text_match = re.search(
+                r"^(.*?)(?:\n={50,}\nREFERENCES|$)", content, re.DOTALL
+            )
             main_text = main_text_match.group(1) if main_text_match else content
-            
+
             # More flexible patterns that catch various reference styles
             inline_patterns = [
                 # Board Policy references
                 r"(?:Board )?(?:Policy|BP)\s+(\d{4}(?:\.\d+)?)",
-                # Administrative Regulation references  
+                # Administrative Regulation references
                 r"(?:Administrative )?(?:Regulation|AR)\s+(\d{4}(?:\.\d+)?(?:/\d{4}(?:\.\d+)?)*)",
                 # Bylaw references
                 r"(?:Bylaw)\s+(\d{4}(?:\.\d+)?)",
@@ -120,24 +137,22 @@ class ComplianceChecker:
                 matches = re.findall(pattern, main_text, re.IGNORECASE)
                 # Handle multiple references separated by slashes
                 for match in matches:
-                    if '/' in match:
+                    if "/" in match:
                         # Split multiple references like "4119.12/4219.12/4319.12"
-                        for ref in match.split('/'):
+                        for ref in match.split("/"):
                             cross_refs.add(ref.strip())
                     else:
                         cross_refs.add(match)
-            
+
             # Remove self-reference
             cross_refs.discard(own_code)
 
         except Exception as e:
             print(f"Error extracting cross-references: {e}")
 
-        return sorted(list(cross_refs))
+        return sorted(cross_refs)
 
-    def find_related_policies(
-        self, policy_code, cross_refs, base_dir="data/extracted"
-    ):
+    def find_related_policies(self, policy_code, cross_refs, base_dir="data/extracted"):
         """Find related policies based on cross-references and numbering patterns"""
         related = {}
 
@@ -184,7 +199,7 @@ class ComplianceChecker:
                             "type": subdir[:-1].capitalize(),
                             "file_path": file_path,
                         }
-                    except:
+                    except Exception:
                         pass
 
         return related
@@ -232,17 +247,21 @@ class ComplianceChecker:
         if not main_text_match:
             main_text_match = re.search(r"={50,}\n\n(.+?)$", content, re.DOTALL)
         main_text = main_text_match.group(1).strip() if main_text_match else content
-        
+
         # Clean up page break artifacts and formatting issues
-        main_text = re.sub(r'\nBoard Policy Manual\n.*?\n', '\n', main_text)
-        main_text = re.sub(r'\nRedwood City School District\n.*?\n', '\n', main_text)
-        main_text = re.sub(r'\nPolicy Reference Disclaimer:?\n', '\n', main_text)
-        main_text = re.sub(r'\n\d+\n', '\n', main_text)  # Remove standalone page numbers
-        
+        main_text = re.sub(r"\nBoard Policy Manual\n.*?\n", "\n", main_text)
+        main_text = re.sub(r"\nRedwood City School District\n.*?\n", "\n", main_text)
+        main_text = re.sub(r"\nPolicy Reference Disclaimer:?\n", "\n", main_text)
+        main_text = re.sub(
+            r"\n\d+\n", "\n", main_text
+        )  # Remove standalone page numbers
+
         # Ensure we keep the full text, not truncated
         # Only truncate for extremely long policies (>20k chars)
         if len(main_text) > 20000:
-            main_text = main_text[:20000] + "\n[TRUNCATED - POLICY EXCEEDS 20000 CHARACTERS]"
+            main_text = (
+                main_text[:20000] + "\n[TRUNCATED - POLICY EXCEEDS 20000 CHARACTERS]"
+            )
 
         # Build XML
         xml = f"""<policy>
@@ -267,7 +286,7 @@ class ComplianceChecker:
         # Check cache first
         cached_response = self.get_cached_response(cache_key)
         if cached_response:
-            print("  Using cached response")
+            print(f"  Using cached response for {code}")
             return cached_response
 
         # Build context about related policies
@@ -295,7 +314,7 @@ For each compliance issue:
             <title>[Issue Title]</title>
             <description>[Why this specific policy needs this]</description>
             <typical_location>[This Policy or Usually in Policy XXXX]</typical_location>
-            
+
             <legal_basis>
                 <california_code>
                     <citation>[Ed Code/Gov Code Section]</citation>
@@ -303,11 +322,11 @@ For each compliance issue:
                     <requires_in_specific_policy>[true/false]</requires_in_specific_policy>
                 </california_code>
             </legal_basis>
-            
+
             <required_language>
                 <text>[Specific language that must be added]</text>
             </required_language>
-            
+
             <recommended_action>
                 <option type="ADD_LANGUAGE|CROSS_REFERENCE|VERIFY_EXISTS">[Action]</option>
             </recommended_action>
@@ -319,7 +338,7 @@ For each compliance issue:
 {policy_xml}
 </policy_document>"""
 
-        print("  Calling API...")
+        print(f"  Calling API for {code}...")
         self.api_calls_made += 1
 
         response = self.client.messages.create(
@@ -408,7 +427,7 @@ For each compliance issue:
                 {
                     "policy": policy_data,
                     "compliance": compliance_data,
-                    "check_date": datetime.now().isoformat(),
+                    "check_date": datetime.now(timezone.utc).isoformat(),
                 },
                 f,
                 indent=2,
@@ -509,7 +528,9 @@ For each compliance issue:
 
         with open(summary_file, "w") as f:
             f.write("# RCSD Policy Compliance Check - Executive Summary\n\n")
-            f.write(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+            f.write(
+                f"Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M')}\n\n"
+            )
 
             f.write("## Statistics\n\n")
             f.write(f"- Total API calls made: {self.api_calls_made}\n")
@@ -570,9 +591,44 @@ For each compliance issue:
                         f.write(f" and {len(policies) - 10} more")
                     f.write("\n")
 
-    def run_batch(self, max_policies=None):
-        """Run compliance check on all policies"""
-        print("Starting comprehensive compliance check...\n")
+    def get_completed_documents(self) -> set[str]:
+        """Get set of documents that have already been processed"""
+        completed = set()
+        json_dir = self.output_dir / "json_data"
+
+        if json_dir.exists():
+            for file in json_dir.glob("*.json"):
+                # Extract document code from filename
+                completed.add(file.stem)
+
+        return completed
+
+    def process_batch_parallel(self, files: list[Path]) -> int:
+        """Process a batch of files in parallel"""
+        processed = 0
+
+        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
+            # Submit all tasks
+            future_to_file = {
+                executor.submit(self.process_policy, str(file_path)): file_path
+                for file_path in files
+            }
+
+            # Process completed tasks
+            for future in as_completed(future_to_file):
+                file_path = future_to_file[future]
+                try:
+                    future.result()
+                    processed += 1
+                except Exception as e:
+                    print(f"Error processing {file_path}: {e}")
+
+        return processed
+
+    def run_batch(self, resume=True, max_policies=None):
+        """Run compliance check on all policies with batching and parallelization"""
+        print("Starting comprehensive compliance check...")
+        print(f"Batch size: {self.batch_size}, Workers: {self.max_workers}\n")
 
         # Get all policy files
         all_files = []
@@ -584,19 +640,61 @@ For each compliance issue:
         if max_policies:
             all_files = all_files[:max_policies]
 
-        print(f"Found {len(all_files)} policies/regulations to check\n")
+        # Filter out completed documents if resuming
+        if resume:
+            completed = self.get_completed_documents()
+            print(f"Already completed: {len(completed)} documents")
 
-        # Process each
-        for i, file_path in enumerate(all_files):
-            print(f"[{i + 1}/{len(all_files)}]", end="")
-            self.process_policy(str(file_path))
-            time.sleep(1)  # Rate limiting
+            remaining_files = []
+            for file in all_files:
+                if file.stem not in completed:
+                    remaining_files.append(file)
+
+            print(f"Remaining to check: {len(remaining_files)} documents")
+            files_to_process = remaining_files
+        else:
+            files_to_process = all_files
+
+        print(f"Total to process: {len(files_to_process)} documents\n")
+
+        if not files_to_process:
+            print("All documents have been checked!")
+            self.generate_summary()
+            return
+
+        # Process in batches
+        total_batches = (len(files_to_process) + self.batch_size - 1) // self.batch_size
+        total_processed = 0
+
+        for batch_num in range(total_batches):
+            batch_start = batch_num * self.batch_size
+            batch_end = min(batch_start + self.batch_size, len(files_to_process))
+            batch_files = files_to_process[batch_start:batch_end]
+
+            print(f"\n--- Batch {batch_num + 1}/{total_batches} ---")
+            print(
+                f"Processing documents {batch_start + 1} to {batch_end} of {len(files_to_process)}"
+            )
+
+            # Process batch in parallel
+            batch_processed = self.process_batch_parallel(batch_files)
+            total_processed += batch_processed
+
+            print(
+                f"\nBatch {batch_num + 1} complete. Processed: {batch_processed} documents"
+            )
+
+            # Small delay between batches to avoid rate limits
+            if batch_num < total_batches - 1:
+                print("Waiting 2 seconds before next batch...")
+                time.sleep(2)
 
         # Generate summary
         print("\n\nGenerating executive summary...")
         self.generate_summary()
 
         print("\nCompliance check complete!")
+        print(f"Total processed: {total_processed} documents")
         print(f"Results saved to: {self.output_dir}/")
         print(f"Executive summary: {self.output_dir}/EXECUTIVE_SUMMARY.md")
 
@@ -604,18 +702,53 @@ For each compliance issue:
 def main():
     import argparse
 
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--max", type=int, help="Maximum policies to check")
+    parser = argparse.ArgumentParser(
+        description="RCSD Policy Compliance Checker",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  # Check all policies with resume capability (recommended)
+  python compliance_checker.py
+
+  # Check without resuming (start fresh)
+  python compliance_checker.py --no-resume
+
+  # Check a single policy
+  python compliance_checker.py --policy data/extracted/policies/1234.txt
+
+  # Limit number of policies to check
+  python compliance_checker.py --max 100
+
+  # Adjust batch size and parallelization
+  python compliance_checker.py --batch-size 10 --workers 5
+        """,
+    )
+
     parser.add_argument("--policy", help="Check single policy file")
+    parser.add_argument("--max", type=int, help="Maximum policies to check")
+    parser.add_argument(
+        "--no-resume",
+        action="store_true",
+        help="Start fresh instead of resuming from previous run",
+    )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=20,
+        help="Number of documents to process per batch (default: 20)",
+    )
+    parser.add_argument(
+        "--workers", type=int, default=3, help="Number of parallel workers (default: 3)"
+    )
 
     args = parser.parse_args()
 
-    checker = ComplianceChecker()
+    checker = ComplianceChecker(batch_size=args.batch_size, max_workers=args.workers)
 
     if args.policy:
         checker.process_policy(args.policy)
     else:
-        checker.run_batch(max_policies=args.max)
+        checker.run_batch(resume=not args.no_resume, max_policies=args.max)
 
 
 if __name__ == "__main__":

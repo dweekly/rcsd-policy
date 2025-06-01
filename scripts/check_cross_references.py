@@ -4,7 +4,6 @@ Check for missing cross-referenced policies with improved filtering
 to avoid false positives from legal citations
 """
 
-import json
 import os
 import re
 from collections import defaultdict
@@ -16,13 +15,25 @@ def find_policy_references(text):
 
     # First, remove common legal citation contexts to avoid false positives
     # Remove U.S.C. citations like "20 U.S.C. § 6318"
-    text_cleaned = re.sub(r'\d+\s+U\.S\.C\.?\s*(?:§|Section)?\s*\d+', '', text, flags=re.IGNORECASE)
+    text_cleaned = re.sub(
+        r"\d+\s+U\.S\.C\.?\s*(?:§|Section)?\s*\d+", "", text, flags=re.IGNORECASE
+    )
     # Remove CFR citations like "34 CFR 104.33"
-    text_cleaned = re.sub(r'\d+\s+C\.F\.R\.?\s*(?:§|Section)?\s*\d+(?:\.\d+)*', '', text_cleaned, flags=re.IGNORECASE)
+    text_cleaned = re.sub(
+        r"\d+\s+C\.F\.R\.?\s*(?:§|Section)?\s*\d+(?:\.\d+)*",
+        "",
+        text_cleaned,
+        flags=re.IGNORECASE,
+    )
     # Remove Ed. Code citations
-    text_cleaned = re.sub(r'(?:Ed\.?\s*Code|Education\s+Code)\s*(?:§|Section)?\s*\d+', '', text_cleaned, flags=re.IGNORECASE)
+    text_cleaned = re.sub(
+        r"(?:Ed\.?\s*Code|Education\s+Code)\s*(?:§|Section)?\s*\d+",
+        "",
+        text_cleaned,
+        flags=re.IGNORECASE,
+    )
     # Remove state code citations like "5 CCR 3051"
-    text_cleaned = re.sub(r'\d+\s+CCR\s+\d+', '', text_cleaned, flags=re.IGNORECASE)
+    text_cleaned = re.sub(r"\d+\s+CCR\s+\d+", "", text_cleaned, flags=re.IGNORECASE)
 
     # Pattern 1: Explicit policy/regulation references
     # Must have "Policy", "Regulation", "AR", "BP", etc. before the number
@@ -45,15 +56,17 @@ def find_policy_references(text):
     # Look for this pattern specifically in cross-reference contexts
     if "cross reference" in text.lower():
         pattern3 = re.findall(
-            r"\b(\d{4}(?:\.\d+)?)\s*[-–—]\s*[A-Z]",
-            text_cleaned
+            r"\b(\d{4}(?:\.\d+)?)\s*[-–—]\s*[A-Z]",  # noqa: RUF001
+            text_cleaned,
         )
         references.update(pattern3)
 
     # Filter out any remaining false positives
     # Remove any 4-digit numbers that are likely years (1900-2099)
-    references = {ref for ref in references if not (ref.isdigit() and 1900 <= int(ref) <= 2099)}
-    
+    references = {
+        ref for ref in references if not (ref.isdigit() and 1900 <= int(ref) <= 2099)
+    }
+
     # Remove any that are likely page numbers or other non-policy numbers
     references = {ref for ref in references if not (ref.isdigit() and int(ref) > 7000)}
 
@@ -106,7 +119,7 @@ def check_missing_references(base_dir="data/extracted"):
                 code = filename.replace(".txt", "")
                 code = re.sub(r"\s+PDF\(\d+\)", "", code)
 
-                with open(file_path, "r", encoding="utf-8") as f:
+                with open(file_path, encoding="utf-8") as f:
                     content = f.read()
 
                 # Find references in the content
