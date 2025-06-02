@@ -18,8 +18,13 @@ The system extracts RCSD policies from PDF documents, validates cross-references
                         └────────┬─────────┘
                                 │
                         ┌───────▼─────────┐
-                        │   Compliance    │ (Planned)
+                        │   Compliance    │ (Implemented)
                         │    Analyzer     │
+                        └────────┬────────┘
+                                │
+                        ┌───────▼─────────┐
+                        │  Ed Code        │ (Implemented)
+                        │  Validator      │
                         └─────────────────┘
 ```
 
@@ -43,6 +48,19 @@ The system extracts RCSD policies from PDF documents, validates cross-references
    - Identifies missing referenced policies
    - Reports gaps in policy numbering
    - Validates extraction completeness
+
+4. **Compliance Checker V1/V2 (`compliance_checker.py`, `compliance_checker_v2.py`)**
+   - Uses Claude AI to analyze policies against Ed Code
+   - V1: Analyzes policies and regulations separately
+   - V2: Groups BP/AR together for better accuracy
+   - Generates compliance reports with findings
+   - **Critical Issue**: 73% hallucination rate discovered
+
+5. **Ed Code Validator (`validate_v2_compliance.py`, `bulk_edcode_fetcher.py`)**
+   - Fetches actual California Education Code sections
+   - Validates AI compliance findings against real law
+   - Discovered 73% of AI findings were hallucinations
+   - Identified only 6 verified compliance gaps
 
 ### Data Model
 
@@ -239,6 +257,20 @@ Each extracted document contains:
 - Incremental updates: <1 minute
 - Dashboard response: <100ms
 
+## Lessons Learned from Validation
+
+### AI Hallucination Discovery
+- **Finding**: 73% of AI-generated compliance findings were hallucinations
+- **Root Cause**: AI models trained on policy templates that exceed legal requirements
+- **Impact**: Only 6 verified gaps instead of 612 reported
+- **Solution**: Manual validation against actual Ed Code is essential
+
+### Key Insights
+1. **AI Legal Analysis Unreliable**: Cannot trust AI for legal compliance without verification
+2. **Best Practices ≠ Legal Requirements**: AI conflates recommendations with mandates
+3. **Citation Verification Critical**: Must fetch and verify actual legal text
+4. **Human Review Essential**: Legal analysis requires human expertise
+
 ## Conclusion
 
-The current architecture successfully extracts and validates RCSD policies from PDFs. The modular design allows for incremental enhancement toward a comprehensive compliance monitoring system. Next steps focus on building the compliance analysis engine with Ed Code mapping and material issue detection.
+The current architecture successfully extracts and validates RCSD policies from PDFs. The compliance checking phase revealed critical limitations of AI legal analysis, with a 73% hallucination rate. The validation phase successfully identified these issues, demonstrating the importance of verification against actual law. Future compliance work should rely on official CDE/CSBA checklists and human legal review rather than AI analysis.

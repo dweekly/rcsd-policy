@@ -33,8 +33,12 @@ This project is a PDF-based policy extraction and analysis system for the Redwoo
 
 **Scripts Directory (`scripts/`)**
 - `pdf_parser.py` - PDF extraction engine with full text and cross-reference parsing
-- `compliance_checker.py` - Compliance analysis using Claude AI with caching and cross-reference support
+- `compliance_checker.py` - V1 compliance analysis using Claude AI with caching
+- `compliance_checker_v2.py` - V2 improved compliance analysis (groups BP/AR together)
+- `compliance_checker_v3.py` - V3 compliance analysis (if exists)
 - `check_cross_references.py` - Validates policy cross-references and finds missing documents
+- `validate_v2_compliance.py` - Validates AI compliance findings against actual Ed Code
+- `bulk_edcode_fetcher.py` - Fetches California Education Code sections for validation
 - `run_compliance_check_resumable.py` - Batch compliance checking with resume capability
 - `run_compliance_check_batched.py` - Batch compliance checking in 20-document chunks
 
@@ -156,15 +160,22 @@ python scripts/compliance_check_batch.py --max 100
 ### Current State
 - Successfully extracts policies from all series (0000-9000)
 - 512 documents extracted including 308 policies, 192 regulations, and 12 exhibits
-- Completed comprehensive compliance analysis identifying 292 material issues
+- Completed V1 compliance analysis (identified 612 potential issues)
+- **Critical Discovery**: Validation revealed 73% hallucination rate in AI findings
+- Completed V2 compliance analysis with improved BP/AR grouping
+- Validated findings show only 6 verified compliance gaps (not 612)
 - Repository reorganized with clear data/scripts/docs structure
 
 ### Recently Completed
 1. ✅ Extracted all 512 documents from 9 PDF files
 2. ✅ Validated cross-references and identified missing policies
-3. ✅ Built comprehensive compliance analysis system
-4. ✅ Generated executive summary with board recommendations
-5. ✅ Reorganized repository structure for clarity
+3. ✅ Built comprehensive compliance analysis system (V1 and V2)
+4. ✅ Fetched 713 California Education Code sections
+5. ✅ Validated AI compliance findings against actual law
+6. ✅ Discovered 73% hallucination rate in AI legal analysis
+7. ✅ Identified only 6 verified compliance gaps (down from 612)
+8. ✅ Generated executive summary with board recommendations
+9. ✅ Reorganized repository structure for clarity
 
 ### Next Steps Typically Include
 1. Re-running extraction after directory reorganization

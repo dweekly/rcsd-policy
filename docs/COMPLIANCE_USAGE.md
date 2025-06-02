@@ -1,5 +1,18 @@
 # Running Compliance Checks
 
+## ⚠️ CRITICAL WARNING - Validation Results
+
+**Recent validation against actual California Education Code revealed that 73% of AI-generated compliance findings were hallucinations.** The AI compliance checker has been systematically inventing legal requirements that don't exist in actual law.
+
+Out of 612 "material issues" initially identified:
+- Only 6 compliance gaps were verified against actual Ed Code
+- 534 findings (73.2%) were NOT VERIFIED - the claimed requirements don't exist
+- 109 findings (14.9%) were TOPIC MATCHES - related to the topic but specific requirements may differ
+
+**RECOMMENDATION**: Do not rely on these compliance findings without manual verification against actual law. Consider using official CDE/CSBA compliance checklists instead.
+
+See `VALIDATION_FINDINGS.md` and `HALLUCINATION_PATTERNS.md` for details.
+
 ## Quick Start
 
 1. Ensure you have your Anthropic API key configured:

@@ -20,14 +20,18 @@ This project extracts and analyzes Redwood City School District (RCSD) policies 
 - ✅ **PDF Extraction**: Successfully extracted 512 documents from RCSD policy PDFs
 - ✅ **Cross-Reference Validation**: Identified and validated policy cross-references
 - ✅ **Multi-format Support**: Handles policies, regulations, and exhibits
-- ✅ **Compliance Analysis**: Completed - analyzed all 512 documents against CA Education Code
+- ✅ **Compliance Analysis V1**: Initial analysis completed with AI-based compliance checking
+- ✅ **Ed Code Validation**: Fetched and validated 713 Ed Code sections to verify AI findings
+- ⚠️ **Critical Finding**: 73% of AI-generated compliance findings were hallucinations
+- ✅ **Compliance Analysis V2**: Improved analysis that groups BP/AR together
 - 🚧 **CSBA Alignment**: Future feature to evaluate alignment with CSBA best practices
 
-### Compliance Analysis Results
-- **292 material compliance issues** identified across all documents
-- **97 documents (61%)** require updates to meet legal requirements
-- **61 documents (39%)** are fully compliant
-- See `COMPLIANCE_SUMMARY.md` for detailed findings and board recommendations
+### Validation Results (Critical Update)
+After validating AI findings against actual California Education Code:
+- **73.2% hallucination rate**: Most AI-identified "violations" don't match actual law
+- **Only 6 verified compliance gaps** out of 612 originally reported
+- **1.4% accuracy**: Only 10 citations fully matched Ed Code requirements
+- See `reports/validation/validation_findings.md` and `reports/validation/hallucination_patterns.md` for detailed analysis
 
 ## Features
 
@@ -132,6 +136,23 @@ This will:
 
 **Results**: See `data/analysis/compliance/COMPLIANCE_SUMMARY.md` for the complete analysis of all 512 RCSD documents.
 
+### Validate Compliance Findings
+```bash
+# Fetch Ed Code sections referenced in compliance findings
+python scripts/bulk_edcode_fetcher.py
+
+# Validate V2 compliance findings against actual Ed Code
+python scripts/validate_v2_compliance.py
+```
+
+This will:
+- Fetch actual California Education Code text from official sources
+- Compare AI-generated compliance findings against real legal requirements
+- Identify hallucinated requirements and verify legitimate gaps
+- Generate validation reports showing accuracy rates
+
+**Validation Results**: See `reports/validation/validation_findings.md` for critical findings about AI hallucination rates.
+
 ## Project Structure
 
 ```
@@ -164,19 +185,29 @@ rcsd-policy/
 │
 ├── scripts/                        # All Python scripts
 │   ├── pdf_parser.py               # PDF extraction engine with full text and cross-reference support
-│   ├── compliance_checker.py       # Compliance analysis using Claude AI with caching
+│   ├── compliance_checker.py       # V1 compliance analysis using Claude AI with caching
+│   ├── compliance_checker_v2.py    # V2 improved compliance analysis (groups BP/AR together)
 │   ├── check_cross_references.py   # Validates cross-references, finds missing policies
+│   ├── validate_v2_compliance.py   # Validates AI findings against actual Ed Code
+│   ├── bulk_edcode_fetcher.py     # Fetches Ed Code sections for validation
 │   ├── run_compliance_check_batched.py    # Batch compliance checking (20 docs at a time)
 │   └── run_compliance_check_resumable.py  # Resumable compliance checking
 │
-├── docs/                           # Documentation
-│   ├── AGENTS.md                   # Guidelines for AI assistants working on this repo
-│   ├── ARCHITECTURE.md             # System design and technical architecture
-│   ├── COMPLIANCE_PLAN.md          # Detailed compliance checking implementation plan
-│   ├── COMPLIANCE_USAGE.md         # How to use the compliance checking tools
-│   ├── CROSS_REFERENCE_ANALYSIS.md # Analysis of missing cross-referenced policies
-│   ├── EMPTY_POLICIES_SUMMARY.md   # Documentation of policies with no content
-│   └── PUBLICATION_README.md       # Summary for public consumption
+├── docs/                           # Technical documentation
+│   ├── README.md                   # Guide to technical documentation
+│   ├── AGENTS.md                   # Guidelines for AI assistants
+│   ├── ARCHITECTURE.md             # System design and architecture
+│   ├── COMPLIANCE_PLAN.md          # Original implementation plan
+│   ├── COMPLIANCE_USAGE.md         # How to use compliance tools
+│   └── COMPLIANCE_CHECKER_V2.md    # V2 checker documentation
+│
+├── reports/                        # Analysis outputs and findings
+│   ├── README.md                   # Guide to all reports
+│   ├── board_compliance/            # Board-ready compliance reports
+│   ├── validation/                 # Ed Code validation findings
+│   ├── findings/                   # General findings and summaries
+│   ├── cross_references/           # Cross-reference validation
+│   └── policy_analyses/            # Specific policy analyses
 │
 ├── schemas/                        # Data schemas
 │   └── compliance_output_schema.xml # XML schema for compliance report format
@@ -196,8 +227,11 @@ rcsd-policy/
 | Script | Purpose | Output Location |
 |--------|---------|-----------------|
 | `scripts/pdf_parser.py` | Extract all policies from PDFs | `data/extracted/` |
-| `scripts/compliance_checker.py` | Analyze policy compliance | `data/analysis/compliance/` |
-| `scripts/check_cross_references.py` | Find missing referenced policies | Console output + `docs/CROSS_REFERENCE_ANALYSIS.md` |
+| `scripts/compliance_checker.py` | V1 compliance analysis | `data/analysis/compliance/` |
+| `scripts/compliance_checker_v2.py` | V2 improved compliance analysis | `data/analysis/compliance_v2/` |
+| `scripts/check_cross_references.py` | Find missing referenced policies | Console output + `reports/cross_references/cross_reference_analysis.md` |
+| `scripts/bulk_edcode_fetcher.py` | Fetch Ed Code sections | `data/cache/` |
+| `scripts/validate_v2_compliance.py` | Validate AI findings | `data/analysis/` |
 | `scripts/run_compliance_check_resumable.py` | Batch compliance with resume | `data/analysis/compliance/` |
 | `scripts/run_compliance_check_batched.py` | Batch compliance in chunks | `data/analysis/compliance/` |
 
