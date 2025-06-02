@@ -1,0 +1,69 @@
+{
+  "code": "3320",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3320",
+    "title": "Claims And Actions Against The District",
+    "type": "Policy",
+    "last_reviewed": "11/09/2022",
+    "file_path": "data/extracted/policies/3320.txt"
+  },
+  "regulation": {
+    "code": "3320",
+    "title": "Claims And Actions Against The District",
+    "type": "Regulation",
+    "last_reviewed": "11/09/2022",
+    "file_path": "data/extracted/regulations/3320.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Required Notice Language for Claim Rejection",
+        "description": "Government Code 913 requires specific statutory language to be included in rejection notices, including information about the claimant's right to file suit and time limitations. The AR references that notices \"shall be in the form set forth in Government Code 913\" but does not include the actual required language that must be provided to claimants.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 913",
+            "text": "The notice required by Section 912.4 shall be in substantially the following form: \"Your claim for damages against [name of public entity] filed on [date] has been [rejected or allowed in the amount of $____]. If you disagree with this action, you may file suit in the appropriate court within six months of the date this notice was personally delivered or deposited in the mail.\""
+          }
+        ],
+        "required_language": "Notice of rejection or action on claims shall be in substantially the following form: \"Your claim for damages against [name of school district] filed on [date] has been [rejected or allowed in the amount of $____]. If you disagree with this action, you may file suit in the appropriate court within six months of the date this notice was personally delivered or deposited in the mail.\"",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Required Notice Language for Late Claim Denial",
+        "description": "The AR references that denial notices for late claims shall be \"in substantially the same form set forth in Government Code 911.8\" but does not include the actual required statutory language that must be provided to claimants when their application to file a late claim is denied.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 911.8",
+            "text": "If the application is denied, the board shall give the applicant written notice of the denial. The notice shall be in substantially the following form: \"Your application to file a late claim with [name of public entity] was denied on [date]. You have six months from the date this notice was personally delivered or deposited in the mail to file a court petition requesting that the court allow you to file your late claim.\""
+          }
+        ],
+        "required_language": "Notice of denial of application to file late claim shall be in substantially the following form: \"Your application to file a late claim with [name of school district] was denied on [date]. You have six months from the date this notice was personally delivered or deposited in the mail to file a court petition requesting that the court allow you to file your late claim.\"",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Government Code 910.2 Requirements",
+        "description": "The AR references Government Code 910.2 in the review of claim contents but does not specify what additional requirements this section imposes beyond those listed in Government Code 910. Government Code 910.2 contains specific requirements for claims against public entities that should be clearly stated.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 910.2",
+            "text": "A claim against a public entity shall be presented in writing and signed by the claimant or by a person acting on his or her behalf. If the claim is presented by an agent, the authority of the agent to present the claim shall be established by the agent's declaration under penalty of perjury or other proof satisfactory to the public entity."
+          }
+        ],
+        "required_language": "If a claim is presented by an agent, the authority of the agent to present the claim shall be established by the agent's declaration under penalty of perjury or other proof satisfactory to the district.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:25:59.981759+00:00"
+}

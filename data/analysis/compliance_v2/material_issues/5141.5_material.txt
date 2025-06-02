@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5141.5: Mental Health
+Last Reviewed: 10/25/2023
+================================================================================
+
+Missing Suicide Prevention Policy and Procedures (Confidence: 90%)
+Missing from: BOTH
+California law requires school districts to adopt policies on pupil suicide prevention that include specific procedures for suicide risk assessment, notification protocols, and postvention activities. While the policy mentions training staff to "identify risk factors and warning signs of suicidal intent," it lacks the comprehensive suicide prevention framework required by law.
+
+Legal Basis:
+- Education Code 215: Requires the governing board of a school district that serves pupils in grades 7 to 12, inclusive, to adopt, at a regularly scheduled board meeting, a policy on pupil suicide prevention that specifically addresses the needs of high-risk groups.
+
+Required Language:
+The district shall adopt a comprehensive suicide prevention policy that includes: procedures for identifying and responding to students at risk of suicide, protocols for notification of parents/guardians and emergency contacts, procedures for re-entry after a suicide attempt, postvention procedures following a suicide death, and training requirements for staff on suicide risk assessment and intervention.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Parental Notification Requirements for Mental Health Services (Confidence: 85%)
+Missing from: BOTH
+The policy does not address the specific requirements for parental notification when mental health services are provided to students, including exceptions and procedures for when parental consent may not be required.
+
+Legal Basis:
+- Education Code 49602.5: Requires parental notification and consent for mental health services, with specific exceptions for emergency situations and when disclosure would not be in the student's best interest.
+
+Required Language:
+Before providing mental health services to a student, the district shall notify the parent/guardian and obtain consent, except when: (1) the student is in imminent danger, (2) the student is mature enough to participate in mental health treatment and either would be harmed by parental involvement or is the victim of incest or child abuse by the parent/guardian, or (3) disclosure would not be in the student's best interest.
+
+Recommended Placement: BP
+
+----------------------------------------
+

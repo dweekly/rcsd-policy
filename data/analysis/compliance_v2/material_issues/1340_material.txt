@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1340: Access To District Records
+Last Reviewed: 03/10/2021
+================================================================================
+
+Missing Response Timeline for Immediate Disclosure Determination (Confidence: 85%)
+Missing from: BOTH
+The California Public Records Act requires agencies to determine whether to comply with a request for immediate disclosure "immediately" or as soon as reasonably possible, separate from the 10-day timeline for written determinations. The current policy only addresses the 10-day written response requirement but lacks the immediate disclosure provision.
+
+Legal Basis:
+- Government Code Section 6253(c): "Public records are open to inspection at all times during the office hours of the state or local agency and every person has a right to inspect any public record, except as hereafter provided. Any reasonably segregable portion of a record shall be made available for inspection by any person requesting the record after deletion of the portions that are exempted by law."
+
+Required Language:
+Upon receipt of a request for immediate disclosure of public records during business hours, the Superintendent or designee shall immediately determine whether to comply with the request and shall notify the requester of the determination and the reasons therefor.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Required Notice Language for Denials (Confidence: 90%)
+Missing from: BOTH
+When denying access to records, agencies must provide specific notice language informing requesters of their right to petition for writ of mandate. This required notice language is completely absent from both documents.
+
+Legal Basis:
+- Government Code Section 6253(d): "Nothing in this chapter shall be construed to permit an agency to delay or obstruct the inspection or copying of public records. The notification of denial of any request for records required under this section shall set forth the names and titles or positions of each person responsible for the denial. Any person may institute proceedings for injunctive or declarative relief or writ of mandate in any court of competent jurisdiction to enforce his or her right to inspect or to receive a copy of any public record or class of public records under this chapter."
+
+Required Language:
+Any notification denying a request for public records shall inform the requester that they may institute proceedings for injunctive or declarative relief or writ of mandate in any court of competent jurisdiction to enforce their right to inspect or receive copies of public records.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Incomplete Electronic Records Production Requirements (Confidence: 80%)
+Missing from: BOTH
+While the AR addresses electronic format requests, it lacks specific requirements for metadata preservation and native format production when requested, which are required under current interpretations of the Public Records Act.
+
+Legal Basis:
+- Government Code Section 6253.9(a): "Any agency that has information that constitutes an identifiable public record not exempt from disclosure and is in an electronic format shall make that information available in an electronic format when requested by any person and, when applicable, shall comply with the following: (1) The agency may inform the requester that the public record is available in an electronic format. (2) The agency shall make the information available in any electronic format in which it holds the information."
+
+Required Language:
+When providing electronic records, the district shall preserve metadata and provide records in their native electronic format when specifically requested, unless conversion is necessary to protect confidential information or the integrity of district systems.
+
+Recommended Placement: AR
+
+----------------------------------------
+

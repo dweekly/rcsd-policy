@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3580: District Records
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Public Records Act Compliance Requirements (Confidence: 85%)
+Missing from: BOTH
+California school districts must establish procedures for responding to public records requests under the California Public Records Act, including timelines for response, fee structures, and exemption determinations. Neither the policy nor regulation addresses these mandatory requirements.
+
+Legal Basis:
+- Government Code Section 6253: Public records are open to inspection at all times during the office hours of the state or local agency and every person has a right to inspect any public record, except as hereafter provided.
+
+Required Language:
+The district shall respond to public records requests within 10 days, either providing the records, providing a date when records will be available, or explaining why the request is denied. The district may charge fees for duplication costs and staff time for extensive requests as permitted by law.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Student Records Privacy Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy lacks specific requirements for protecting student record privacy under FERPA and California Education Code, including parental notification rights, consent requirements, and directory information procedures.
+
+Legal Basis:
+- Education Code Section 49073: A pupil's records obtained, maintained, or used by any school district shall be confidential. Information from pupil records shall not be disclosed except as provided in this article.
+
+Required Language:
+Student records shall be kept confidential and disclosed only with written parental consent or as otherwise permitted by law. Parents shall be notified annually of their rights regarding student records and directory information.
+
+Recommended Placement: BP
+
+----------------------------------------
+

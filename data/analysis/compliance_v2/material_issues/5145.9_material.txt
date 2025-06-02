@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5145.9: Hate-Motivated Behavior
+Last Reviewed: 09/22/2021
+================================================================================
+
+Missing Specific Complaint Filing Procedures (Confidence: 90%)
+Missing from: BOTH
+While the Board Policy mentions that complaints shall be resolved in accordance with uniform complaint procedures, it lacks the specific procedural details required by Education Code 234.6 for filing complaints of hate-motivated behavior, including where to file, required forms, timelines, and alternative reporting methods.
+
+Legal Basis:
+- Education Code 234.6: The policy shall include a procedure for filing complaints.
+
+Required Language:
+Specific procedures for filing complaints must include: (1) Identification of where complaints can be filed (specific office/person); (2) Available complaint forms or alternative methods of filing; (3) Timelines for filing complaints; (4) Anonymous reporting options; (5) Contact information for the compliance officer; and (6) Alternative reporting methods for situations where the complainant cannot use standard procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Investigation Timeline Requirements (Confidence: 85%)
+Missing from: BOTH
+Neither the Board Policy nor Administrative Regulation (which doesn't exist) specifies required timelines for investigating hate-motivated behavior complaints, which is necessary for ensuring prompt resolution as required by law and due process protections.
+
+Legal Basis:
+- Education Code 234.1: It is the intent of the Legislature that all pupils attend school in a safe and supportive environment and that effective prevention and intervention programs be implemented to ensure pupil safety.
+
+Required Language:
+Investigation procedures must include specific timelines: (1) Initial response within 24-48 hours of receiving a complaint; (2) Completion of investigation within a reasonable timeframe (typically 30-60 days); (3) Interim measures implemented immediately when necessary; and (4) Written notification to complainant of investigation outcomes within specified timeframes.
+
+Recommended Placement: AR
+
+----------------------------------------
+

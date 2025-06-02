@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4117.5: Termination Agreements
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Board Approval Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the BP nor AR specifies the required board approval process for termination agreements. Government Code Section 53260 requires that cash settlement agreements be approved by the governing body in open session.
+
+Legal Basis:
+- Government Code Section 53260(a): Any cash settlement relating to the termination of an employment contract or agreement of a local agency executive shall be approved by the governing body of the local agency in open session.
+
+Required Language:
+All cash settlement agreements relating to the termination of employment contracts shall be approved by the governing board in open session prior to execution.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Public Disclosure Timeline (Confidence: 85%)
+Missing from: BOTH
+While the AR mentions that settlement agreements with certain administrators shall be made available to the public upon request, it does not specify the required timeline for disclosure as mandated by Government Code Section 53262.
+
+Legal Basis:
+- Government Code Section 53262: A copy of any agreement described in Section 53260 that involves a superintendent, deputy superintendent, assistant superintendent, associate superintendent, or other similar chief administrative officer or chief executive officer of a local agency shall be available for public inspection and copying within 72 hours after the agreement is final.
+
+Required Language:
+Copies of settlement agreements with a superintendent, deputy superintendent, assistant superintendent, associate superintendent or other similar chief administrative officer or chief executive officer shall be made available for public inspection and copying within 72 hours after the agreement is final.
+
+Recommended Placement: AR
+
+----------------------------------------
+

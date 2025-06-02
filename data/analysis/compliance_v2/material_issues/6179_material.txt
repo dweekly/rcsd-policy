@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6179: Supplemental Instruction
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Notification Requirements for Supplemental Instruction Programs (Confidence: 95%)
+Missing from: BOTH
+California Education Code requires districts to notify parents/guardians about supplemental instruction programs and their child's eligibility. The policy and regulation lack specific notification procedures, timelines, and content requirements that must be provided to parents when their child is identified for or enrolled in supplemental instruction programs.
+
+Legal Basis:
+- Education Code 37252.2(c): The governing board of a school district shall notify the parent or guardian of a pupil who is required to attend supplemental instruction pursuant to this section.
+
+Required Language:
+The district shall notify parents/guardians in writing when their child is identified for or required to participate in supplemental instruction programs. The notification shall include the reason for the recommendation, the program description, schedule, and the parent's right to request a conference to discuss the placement.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Assessment and Progress Monitoring Requirements (Confidence: 90%)
+Missing from: BOTH
+Education Code requires districts to assess student progress in supplemental instruction programs and report results. Neither the policy nor regulation addresses how student progress will be measured, documented, or reported to parents during supplemental instruction programs.
+
+Legal Basis:
+- Education Code 37252.2(d): The governing board shall ensure that the progress of pupils enrolled in supplemental instruction is monitored and that parents or guardians are notified of their child's progress.
+
+Required Language:
+The district shall monitor and assess student progress in supplemental instruction programs through regular evaluations. Parents/guardians shall be notified of their child's progress at regular intervals, including specific information about academic gains and areas needing continued support.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Teacher Qualification Requirements (Confidence: 85%)
+Missing from: BOTH
+Education Code specifies qualification requirements for teachers providing supplemental instruction. Neither document addresses the required qualifications, training, or certification requirements for staff delivering supplemental instruction programs.
+
+Legal Basis:
+- Education Code 37252.2(e): Supplemental instruction shall be provided by teachers who meet the requirements of Section 44258.9 or other certificated employees.
+
+Required Language:
+Supplemental instruction shall be provided by teachers who hold appropriate teaching credentials and meet the requirements of Education Code 44258.9, or by other certificated employees with appropriate training in the subject areas being taught.
+
+Recommended Placement: AR
+
+----------------------------------------
+

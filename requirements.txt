@@ -1,3 +1,4 @@
 PyMuPDF
 python-dotenv
 anthropic
+requests

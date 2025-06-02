@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4213.4: Temporary Modified/Light-Duty Assignment
+Last Reviewed: 12/11/2024
+================================================================================
+
+Missing Interactive Process Requirements Under ADA (Confidence: 90%)
+Missing from: BOTH
+The policy lacks reference to the required interactive process under the Americans with Disabilities Act and California Fair Employment and Housing Act. When an employee requests modified duty due to a medical condition, the district must engage in an interactive process to determine reasonable accommodations, even for temporary assignments.
+
+Legal Basis:
+- Government Code Section 12940(n): It shall be an unlawful employment practice for an employer to fail to engage in a timely, good faith, interactive process with the employee to determine effective reasonable accommodations.
+
+Required Language:
+The district shall engage in an interactive process with employees requesting temporary modified/light-duty assignments to identify and evaluate potential reasonable accommodations, including but not limited to temporary job restructuring, modified schedules, or alternative assignments that do not impose an undue hardship on district operations.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Non-Discrimination and Equal Opportunity Statement (Confidence: 80%)
+Missing from: BOTH
+The policy does not include required language ensuring that temporary modified/light-duty assignments are provided without regard to protected characteristics and in compliance with anti-discrimination laws. This is particularly important given the intersection with disability accommodation requirements.
+
+Legal Basis:
+- Government Code Section 12900 et seq. (FEHA): It shall be an unlawful employment practice for an employer to discriminate against any person in compensation or in terms, conditions, or privileges of employment because of protected characteristics including disability.
+
+Required Language:
+Temporary modified/light-duty assignments shall be provided in a manner consistent with applicable federal and state anti-discrimination laws and without regard to race, color, national origin, religion, sex, gender identity, sexual orientation, pregnancy, disability, age, or other protected characteristics.
+
+Recommended Placement: BP
+
+----------------------------------------
+

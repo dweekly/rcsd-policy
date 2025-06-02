@@ -1,0 +1,63 @@
+{
+  "code": "9220",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9220",
+    "title": "Governing Board Elections",
+    "type": "Policy",
+    "last_reviewed": "04/19/2023",
+    "file_path": "data/extracted/policies/9220.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy covers the \"what\" and \"why\" of governing board elections comprehensively, there is no corresponding Administrative Regulation to provide detailed implementation procedures for election processes, candidate information distribution, recall procedures, and consolidation processes. This creates a gap in operational guidance for staff implementing these requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35107, Elections Code 10404.5, Elections Code 10509",
+            "text": "Various sections require specific procedural implementation that would typically be detailed in administrative regulations, including candidate qualification verification, election consolidation procedures, and notice requirements."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: procedures for verifying candidate qualifications, steps for providing candidate information and training, detailed recall election procedures, consolidation process timelines and requirements, trustee area boundary adjustment procedures, and tie vote resolution processes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Legal Reference Section",
+        "description": "The Board Policy references multiple Education Code and Elections Code sections throughout the document but the Legal Reference section at the end appears to be cut off or incomplete, which could create confusion about the full legal basis for the policy.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35107, Elections Code 11000, Elections Code 14051-14052, Elections Code 10404.5",
+            "text": "All legal citations referenced in the policy text should be properly listed in the Legal Reference section for clarity and compliance tracking."
+          }
+        ],
+        "required_language": "Complete Legal Reference section should include: Education Code 5016, 5019, 5019.5, 5091, 35107; Elections Code 10100, 10404.5, 10509, 11000, 11041, 11381-11386, 13307, 14051, 14052, 20, 20440; Government Code 85300",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Minor Grammatical Error in Election Method Change Language",
+        "description": "There is a grammatical error in the sentence \"When the district's election method is to be changed, the Governing Board determines that a change is necessary\" which creates unclear language about the decision-making process.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Elections Code 10100",
+            "text": "Clear policy language is necessary for proper implementation of election method changes and public hearing requirements."
+          }
+        ],
+        "required_language": "Revise to: \"When the Governing Board determines that a change to the district's election method is necessary, it shall hold public hearings...\"",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:39:48.273447+00:00"
+}

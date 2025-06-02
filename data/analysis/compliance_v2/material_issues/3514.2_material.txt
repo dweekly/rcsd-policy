@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+AR 3514.2: Integrated Pest Management
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Emergency Application Authority and Criteria (Confidence: 90%)
+Missing from: BOTH
+While the regulation mentions emergency pesticide use, it lacks specific criteria for determining what constitutes an emergency and clear authority delegation. Education Code requires districts to establish when immediate pesticide use is necessary for health and safety protection.
+
+Legal Basis:
+- Education Code Section 17612(c): If a person designated by a school district or county office of education determines that there exists an immediate threat to the health or safety of pupils, staff, or other persons, pesticides may be applied without complying with the notice requirements of subdivisions (a) and (b).
+
+Required Language:
+Emergency pesticide applications may be made without advance notice only when there is an immediate threat to health or safety, such as: (1) venomous pest infestations, (2) disease vector control, or (3) structural pest damage creating safety hazards. The IPM Coordinator or designated administrator must document the emergency conditions and provide notification as soon as practicable after application.
+
+Recommended Placement: AR
+
+----------------------------------------
+

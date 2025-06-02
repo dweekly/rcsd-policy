@@ -1,0 +1,84 @@
+{
+  "code": "3554",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3554",
+    "title": "Other Food Sales",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3554.txt"
+  },
+  "regulation": {
+    "code": "3554",
+    "title": "Other Food Sales",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3554.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Federal Smart Snacks Standards",
+        "description": "The policy and regulation reference outdated California nutritional standards but fail to address federal Smart Snacks in School standards that have been required since 2014. These federal standards apply to all competitive foods sold during the school day and take precedence over state standards where they conflict.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "7 CFR 210.11(a)(2)",
+            "text": "All competitive food sold to students on the school campus during the school day must comply with the nutrition standards and portion size requirements set forth in 7 CFR 210.11(a)(2)-(4)."
+          }
+        ],
+        "required_language": "All competitive foods sold to students on school premises during the school day must comply with the Smart Snacks in School nutrition standards established in 7 CFR 210.11, including general nutrition standards for snack items and entr\u00e9e items, and beverage standards by grade level.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Wellness Policy Integration Requirement",
+        "description": "Federal law requires that policies on competitive foods be consistent with the district's wellness policy. The documents do not reference or ensure alignment with the local wellness policy as mandated.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "42 USC 1758b(b)(2)(A)",
+            "text": "Local educational agencies shall establish a local school wellness policy that includes nutrition guidelines for all foods available on school campus during the school day with the objectives of promoting student health and reducing childhood obesity."
+          }
+        ],
+        "required_language": "All food and beverage sales outside the district's food service program shall be consistent with the district's local wellness policy established pursuant to federal law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Outdated State Nutritional Standards References",
+        "description": "The regulation references specific Education Code sections (49431, 49431.2, 49431.5, 49431.7) that have been significantly amended or superseded since 2009. Current California law has updated nutritional standards that may differ from those cited.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49431.2(a)",
+            "text": "Snack foods sold to pupils at a middle school or high school shall meet nutritional standards that are consistent with and no less restrictive than the federal standards."
+          }
+        ],
+        "required_language": "Food and beverage sales shall comply with current nutritional standards in Education Code sections 49431-49431.7, as amended, and federal Smart Snacks standards, whichever are more restrictive.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Fundraising Activity Notification Requirements",
+        "description": "The regulation does not address notification or approval procedures for fundraising activities that may be required under current law, particularly for activities that involve non-compliant foods.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49431.9",
+            "text": "School districts may adopt policies regarding fundraising activities that involve the sale of food items that do not meet nutritional standards, provided such policies include appropriate oversight and limitations."
+          }
+        ],
+        "required_language": "Fundraising activities involving food sales must receive prior approval from the Superintendent or designee, including documentation that the activity meets applicable exemption criteria.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:31:53.894411+00:00"
+}

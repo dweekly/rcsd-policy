@@ -1,0 +1,99 @@
+{
+  "code": "4119.42",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4119.42",
+    "title": "Exposure Control Plan For Bloodborne Pathogens",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4119.42.txt"
+  },
+  "regulation": {
+    "code": "4119.42",
+    "title": "Exposure Control Plan For Bloodborne Pathogens",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4119.42.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Annual Review and Update Requirements",
+        "description": "The Board Policy lacks any requirement for annual review and update of the exposure control plan itself. While the AR contains detailed update requirements, the BP should establish the board's commitment to maintaining current policies and ensuring regular oversight of this critical safety program.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "8 CCR 5193(c)",
+            "text": "The exposure control plan shall be reviewed and updated at least annually and whenever necessary to reflect new or modified tasks and procedures affecting occupational exposure"
+          }
+        ],
+        "required_language": "The exposure control plan shall be reviewed and updated at least annually and whenever necessary to reflect changes in tasks, procedures, employee positions, or exposure incidents.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Training Requirements",
+        "description": "The Board Policy does not establish any requirements for employee training on bloodborne pathogens, which is a fundamental component of an exposure control plan. The AR contains detailed training provisions, but the BP should establish the board's commitment to ensuring proper employee education.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "8 CCR 5193(g)",
+            "text": "The employer shall ensure that all employees with occupational exposure participate in a training program... at the time of initial assignment to tasks where occupational exposure may take place and at least annually thereafter"
+          }
+        ],
+        "required_language": "Employees with occupational exposure shall receive training on bloodborne pathogens at initial assignment and annually thereafter, at no cost to the employee and during working hours.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Post-Exposure Evaluation Requirements",
+        "description": "The Board Policy does not address post-exposure evaluation and follow-up procedures, which are required by state regulations. While the AR contains comprehensive post-exposure procedures, the BP should establish the board's commitment to providing immediate medical evaluation following exposure incidents.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "8 CCR 5193(f)",
+            "text": "Following a report of an exposure incident, the employer shall make immediately available to the exposed employee a confidential medical evaluation and follow-up"
+          }
+        ],
+        "required_language": "Following any exposure incident, the district shall immediately provide confidential medical evaluation and follow-up to the affected employee at no cost.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Recordkeeping Policy Direction",
+        "description": "The Board Policy does not establish any direction regarding recordkeeping requirements for medical records, training records, or exposure incidents. While the AR contains detailed recordkeeping procedures, the BP should provide board-level direction on maintaining confidential records.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "8 CCR 5193(h) and 8 CCR 3204",
+            "text": "Medical records for each employee with occupational exposure shall be kept confidential... Records shall be maintained for specified periods"
+          }
+        ],
+        "required_language": "The district shall maintain confidential records related to employee medical evaluations, training, and exposure incidents in accordance with state regulations.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Employee Access to Plan",
+        "description": "Neither the BP nor AR explicitly states that the exposure control plan must be accessible to employees upon request, though this is required by state regulations. This requirement should be included to ensure transparency and employee awareness.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "8 CCR 3204(e)",
+            "text": "The exposure control plan shall be accessible to employees upon request"
+          }
+        ],
+        "required_language": "The exposure control plan shall be made accessible to employees upon request.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:11:30.340775+00:00"
+}

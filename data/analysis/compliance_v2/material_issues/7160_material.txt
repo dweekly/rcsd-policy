@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 7160: Charter School Facilities
+Last Reviewed: 05/23/2018
+================================================================================
+
+Missing Charter School Facilities Funding Program Requirements (Confidence: 85%)
+Missing from: BOTH
+The policy mentions assistance with state facilities funding applications but lacks required procedures for the Charter School Facilities Program (CSFP) established under Education Code 17078.52-17078.66. Districts must have specific procedures for processing and supporting charter school applications for state facilities funding, including technical assistance requirements and coordination with the Office of Public School Construction.
+
+Legal Basis:
+- Education Code 17078.52-17078.66: Establishes the Charter School Facilities Program requiring specific procedures for application processing, technical assistance, and coordination between districts and charter schools for state facilities funding.
+
+Required Language:
+The district shall provide technical assistance to eligible charter schools applying for Charter School Facilities Program funding, including assistance with application preparation, site identification, and coordination with the Office of Public School Construction. The Superintendent or designee shall establish procedures for reviewing and supporting charter school applications for state facilities funding under Education Code 17078.52-17078.66.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Field Act Compliance Procedures (Confidence: 90%)
+Missing from: BOTH
+While the policy references Field Act requirements (Education Code 17280-17317 and 17365-17374), neither document contains specific procedures for ensuring charter school facilities comply with Field Act requirements, including inspection procedures, certification requirements, and coordination with the Division of the State Architect.
+
+Legal Basis:
+- Education Code 17280-17317, 17365-17374: Requires specific procedures for Field Act compliance including inspections, certifications, and coordination with state agencies for school construction and safety.
+
+Required Language:
+Charter school facilities subject to the Field Act shall comply with all inspection, certification, and approval requirements. The district shall coordinate with the Division of the State Architect to ensure proper Field Act compliance for charter school facilities, including required inspections during construction and occupancy certifications.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Emergency Procedures and Safety Requirements (Confidence: 80%)
+Missing from: BOTH
+The documents lack specific emergency procedures, evacuation plans, and safety coordination requirements between the district and charter schools using district facilities. This is required under Education Code 32020 et seq. and Government Code 8607 for all schools using public facilities.
+
+Legal Basis:
+- Education Code 32020 et seq., Government Code 8607: Requires comprehensive emergency procedures, evacuation plans, and safety coordination for all schools, including charter schools using district facilities.
+
+Required Language:
+Charter schools using district facilities shall coordinate with district emergency procedures and maintain comprehensive safety plans including evacuation procedures, emergency communication protocols, and coordination with local emergency services. The charter school shall participate in district-wide emergency drills and safety training as applicable to shared facilities.
+
+Recommended Placement: AR
+
+----------------------------------------
+

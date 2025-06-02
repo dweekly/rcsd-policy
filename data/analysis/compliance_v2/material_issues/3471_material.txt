@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3471: Parcel Taxes
+Last Reviewed: 06/23/2021
+================================================================================
+
+Missing Specific Public Hearing Notice Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy mentions "noticed public hearing" but does not specify the notice requirements mandated by law, including timing, content, and publication requirements for parcel tax hearings.
+
+Legal Basis:
+- Government Code 50077: Requires specific notice procedures for public hearings on parcel tax proposals, including timing and publication requirements
+
+Required Language:
+Public hearing notice shall be published at least 10 days prior to the hearing in a newspaper of general circulation within the district, and shall include the time, date, and location of the hearing, the purpose of the proposed tax, and the proposed tax rate.
+
+Recommended Placement: AR
+
+----------------------------------------
+

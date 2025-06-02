@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5145.12: Search And Seizure
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Locker and Property Search Provisions (Confidence: 90%)
+Missing from: BOTH
+The policy lacks specific provisions for searching lockers, desks, and other school property assigned to students. California law requires clear policies distinguishing between personal property searches and school property searches.
+
+Legal Basis:
+- Education Code Section 49050: No school employee shall conduct a search that involves removing or arranging any or all of the clothing of a pupil to permit a visual inspection of the undergarments, breasts, buttocks, or genitalia of the pupil.
+
+Required Language:
+School lockers, desks, and other school property are subject to inspection at any time without notice. Students have no expectation of privacy in school-owned property. Procedures for locker searches and inventory of contents must be established.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Documentation and Record-Keeping Requirements (Confidence: 85%)
+Missing from: BOTH
+There are no requirements for documenting searches, maintaining records, or reporting procedures. This creates liability issues and prevents proper oversight of search activities.
+
+Legal Basis:
+- Education Code Section 48900: Requires documentation of disciplinary actions and evidence collection for violations of school rules.
+
+Required Language:
+All searches must be documented in writing, including: date, time, persons present, reason for search, items found, and disposition of evidence. Records must be maintained according to district retention policies.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Law Enforcement Coordination Procedures (Confidence: 88%)
+Missing from: BOTH
+The policy lacks provisions for when and how to involve law enforcement in searches, which is critical for maintaining proper jurisdiction and protecting student rights.
+
+Legal Basis:
+- Education Code Section 48902: Addresses coordination between school officials and law enforcement regarding student discipline and searches.
+
+Required Language:
+Procedures must be established for coordinating with law enforcement, including when police involvement is required, who has authority to conduct searches when officers are present, and protocols for evidence transfer.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Emergency/Exigent Circumstances Provisions (Confidence: 92%)
+Missing from: BOTH
+The policy does not address searches conducted under emergency circumstances where immediate action is needed to prevent harm, which may have different procedural requirements.
+
+Legal Basis:
+- Education Code Section 44807: School employees have authority to take immediate action to protect student safety and welfare.
+
+Required Language:
+In emergency situations where immediate danger exists, school officials may conduct searches without following normal procedures. Emergency searches must be documented and reviewed by administration within 24 hours.
+
+Recommended Placement: BP
+
+----------------------------------------
+

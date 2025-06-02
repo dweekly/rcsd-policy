@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4331: Staff Development
+Last Reviewed: 03/14/2018
+================================================================================
+
+Missing Beginning Teacher Support Requirements (Confidence: 90%)
+Missing from: BOTH
+California law requires specific provisions for beginning teacher support and mentoring programs. Neither the policy nor regulation addresses the mandatory Beginning Teacher Support and Assessment (BTSA) program requirements or induction programs for new teachers.
+
+Legal Basis:
+- Education Code Section 44279.2: Each school district shall provide each teacher who holds a preliminary teaching credential with an induction program that meets the requirements established by the commission and is approved by the commission.
+
+Required Language:
+The district shall provide induction programs for teachers holding preliminary teaching credentials as required by Education Code Section 44279.2. The program shall meet Commission on Teacher Credentialing requirements and include mentoring, support, and assessment components to assist beginning teachers in developing effective teaching practices.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Paraprofessional Development Requirements (Confidence: 80%)
+Missing from: BOTH
+The policy focuses only on administrative staff development but fails to address federally mandated professional development requirements for paraprofessionals working in Title I programs, which is required under ESSA.
+
+Legal Basis:
+- Education Code Section 45344.5: Instructional paraprofessionals employed in programs supported with federal Title I funds shall meet federal qualification requirements and receive appropriate professional development.
+
+Required Language:
+The district shall provide professional development for paraprofessionals, particularly those working in Title I programs, to ensure they meet federal qualification requirements and can effectively support student learning under the supervision of qualified teachers.
+
+Recommended Placement: BP
+
+----------------------------------------
+

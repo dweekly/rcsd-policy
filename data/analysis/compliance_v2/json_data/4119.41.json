@@ -1,0 +1,93 @@
+{
+  "code": "4119.41",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4119.41",
+    "title": "Employees With Infectious Disease",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4119.41.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for handling employees with infectious diseases, there is no corresponding Administrative Regulation to provide specific implementation procedures. California Education Code requires districts to have detailed procedures for handling confidential medical information, accommodation processes, and coordination with health officials.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44839",
+            "text": "The governing board of each school district shall adopt rules and regulations for the administration of sick leave, industrial accident and illness leave, and other leaves of absence for employees."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: specific procedures for medical documentation requirements, step-by-step accommodation evaluation process, timelines for decision-making, appeal procedures, specific roles and responsibilities of administrators, and detailed confidentiality handling procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing ADA Compliance Language",
+        "description": "The policy lacks specific reference to Americans with Disabilities Act (ADA) requirements and interactive process obligations. While it mentions \"reasonable accommodation,\" it doesn't establish the required interactive process or reference federal ADA requirements that apply to school districts as employers.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12940",
+            "text": "It shall be an unlawful employment practice for an employer to fail to engage in a timely, good faith, interactive process with the employee or applicant to determine effective reasonable accommodations."
+          }
+        ],
+        "required_language": "The district shall engage in an interactive process with employees to determine effective reasonable accommodations in compliance with the Americans with Disabilities Act and California Fair Employment and Housing Act. This process shall be conducted in good faith and in a timely manner.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing HIPAA and CMIA Privacy Protections",
+        "description": "While the policy mentions confidentiality generally, it lacks specific reference to Health Insurance Portability and Accountability Act (HIPAA) and California Confidentiality of Medical Information Act (CMIA) requirements for handling protected health information.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Civil Code Section 56.10",
+            "text": "Medical information may not be disclosed by a provider of health care, health care service plan, or contractor without first obtaining an authorization, except in specified circumstances."
+          }
+        ],
+        "required_language": "All medical information shall be handled in compliance with the Health Insurance Portability and Accountability Act (HIPAA) and California Confidentiality of Medical Information Act (CMIA). Access to medical information shall be limited to those with a legitimate educational interest and business need to know.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Return-to-Work Procedures",
+        "description": "The policy lacks specific procedures for employees returning to work after treatment or recovery from infectious diseases, including medical clearance requirements and ongoing monitoring procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44977",
+            "text": "The governing board may require any employee to submit to a physical or mental examination by a physician designated by the governing board when the employee's physical or mental condition appears to be interfering with the performance of duties."
+          }
+        ],
+        "required_language": "Employees returning to work following treatment for infectious diseases may be required to provide medical clearance from their treating physician or district-designated physician confirming their ability to perform essential job functions without posing a direct threat to health or safety.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2009 and may not reflect current legal requirements, medical knowledge, or best practices regarding infectious diseases, particularly in light of recent pandemic experiences.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements, medical knowledge, and best practices for handling infectious diseases in the workplace.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:11:02.365120+00:00"
+}

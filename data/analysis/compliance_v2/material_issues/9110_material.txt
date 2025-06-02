@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9110: Terms Of Office
+Last Reviewed: 01/28/2009
+================================================================================
+
+Missing Oath of Office Requirements (Confidence: 85%)
+Missing from: BOTH
+The policy references that successors must be "qualified by taking the oath of office" but does not specify the required oath language, timing requirements, or administration procedures mandated by California law.
+
+Legal Basis:
+- California Constitution Article XX, Section 3: Members of the Legislature, and all public officers and employees, executive, legislative, and judicial, except such inferior officers and employees as may be by law exempted, shall, before they enter upon the duties of their respective offices, take and subscribe the following oath or affirmation...
+
+Required Language:
+Board members shall take the oath of office as prescribed by the California Constitution Article XX, Section 3, before entering upon the duties of office. The oath shall be administered by any officer authorized to administer oaths and shall be filed with the county superintendent of schools.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Vacancy Provisions (Confidence: 90%)
+Missing from: BOTH
+The policy does not address how vacancies in office are filled, the duration of appointments to fill vacancies, or the procedures for handling mid-term vacancies as required by Education Code.
+
+Legal Basis:
+- Education Code 5091: Whenever a vacancy occurs in the office of any member of a governing board of a school district, the remaining members of the governing board shall, within 60 days of the occurrence of the vacancy, either order an election or make a provisional appointment to fill the vacancy.
+
+Required Language:
+When a vacancy occurs on the Board, the remaining Board members shall within 60 days either order an election or make a provisional appointment to fill the vacancy. If a provisional appointment is made, the appointee shall serve until the next regularly scheduled election for that office.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4112.6: Personnel Files
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Retention Schedule Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the BP nor AR specifies retention periods for personnel files and records. California law requires specific retention schedules for different types of personnel documents, and districts must establish clear procedures for record retention and destruction.
+
+Legal Basis:
+- Government Code Section 60201: Public records are the property of the people and, unless otherwise provided by law, may be inspected by any person at any time during office hours.
+
+Required Language:
+Personnel files and records shall be retained in accordance with applicable state law and district retention schedules. Different categories of personnel documents may have different retention requirements as specified in law and administrative procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Incomplete Public Records Act Compliance (Confidence: 85%)
+Missing from: BOTH
+The regulation does not address how personnel files will be handled under the California Public Records Act (CPRA). While personnel files are generally confidential, certain information may be subject to public disclosure, and the district needs procedures for handling such requests.
+
+Legal Basis:
+- Government Code Section 6254(c): Personnel, medical, or similar files, the disclosure of which would constitute an unwarranted invasion of personal privacy, are exempt from disclosure.
+
+Required Language:
+Personnel files are confidential and generally exempt from disclosure under the California Public Records Act. However, certain information such as salary, benefits, and position title may be subject to public disclosure. All public records requests for personnel information shall be processed in accordance with applicable law and district procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+

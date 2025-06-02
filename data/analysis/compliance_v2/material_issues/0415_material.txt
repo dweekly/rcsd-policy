@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 0415: Equity
+Last Reviewed: 11/18/2020
+================================================================================
+
+Missing Annual Equity Report Requirement (Confidence: 85%)
+Missing from: BOTH
+California Education Code requires districts to annually report on equity progress and outcomes. Neither the policy nor regulation establishes procedures for creating, reviewing, or submitting annual equity reports to demonstrate compliance with state equity mandates.
+
+Legal Basis:
+- Education Code Section 52052: The governing board of a school district shall annually consider the progress of pupils in each of the state priorities and shall approve goals for the school district and all schools operated by the school district for each of the state priorities, as applicable.
+
+Required Language:
+The district shall prepare and submit an annual equity report documenting progress toward eliminating achievement gaps and ensuring equitable outcomes for all student groups, including specific metrics and timelines for improvement.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Complaint Procedures for Equity Violations (Confidence: 90%)
+Missing from: BOTH
+The policy and regulation lack specific procedures for filing, investigating, and resolving complaints related to equity violations or discriminatory practices. This is required under the Uniform Complaint Procedures and civil rights laws.
+
+Legal Basis:
+- Education Code Section 234.1: It is the policy of the State of California to afford all persons in public schools, regardless of their disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes, equal rights and opportunities in the educational institutions of the state.
+
+Required Language:
+The district shall establish clear procedures for filing complaints related to equity violations, including timelines for investigation, resolution processes, and appeal rights. All complaints shall be handled in accordance with the district's Uniform Complaint Procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Title IX Coordinator and Civil Rights Compliance Officer Designation (Confidence: 80%)
+Missing from: BOTH
+Federal law requires districts to designate specific individuals responsible for coordinating compliance with civil rights laws, including Title IX. The policy mentions equity generally but does not designate responsible compliance officers.
+
+Legal Basis:
+- Education Code Section 221.61: Each local educational agency shall designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under Title IX, including any investigation of any complaint filed with the local educational agency alleging its noncompliance with Title IX or alleging any actions which would be prohibited by Title IX.
+
+Required Language:
+The district shall designate a Title IX Coordinator and Civil Rights Compliance Officer responsible for coordinating compliance with federal and state civil rights laws, investigating complaints, and ensuring equitable treatment of all students and staff.
+
+Recommended Placement: BP
+
+----------------------------------------
+

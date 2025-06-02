@@ -1,0 +1,42 @@
+MATERIAL COMPLIANCE ISSUES
+BP 2110: Superintendent Responsibilities And Duties
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Specific Superintendent Duties and Responsibilities (Confidence: 95%)
+Missing from: BOTH
+California Education Code requires school districts to specify the superintendent's duties and responsibilities. While the policy provides general framework language, it lacks the specific statutory duties required by law, including instructional leadership, personnel management, budget responsibilities, and compliance oversight.
+
+Legal Basis:
+- Education Code Section 35035: The governing board of any school district may delegate to any employee or employees of the district any of those duties and responsibilities other than those which by law may not be delegated.
+
+Required Language:
+The Superintendent's duties and responsibilities shall include, but not be limited to:
+1. Serving as the educational leader and chief executive officer of the district
+2. Implementing all policies adopted by the Board
+3. Supervising the instruction and administration in the schools
+4. Preparing and submitting recommendations for personnel appointments, assignments, promotions, and dismissals
+5. Preparing the annual budget and making recommendations to the Board
+6. Ensuring compliance with applicable laws, regulations, and Board policies
+7. Serving as secretary to the Board of Education unless otherwise designated
+8. Keeping the Board informed about district operations, issues, and opportunities
+9. Representing the district in relationships with other agencies and the community
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Secretary to Board of Education Designation (Confidence: 85%)
+Missing from: BOTH
+California law requires specification of who serves as secretary to the Board of Education. Most districts designate the superintendent unless otherwise specified, but this policy lacks any reference to this statutory requirement.
+
+Legal Basis:
+- Education Code Section 35145: The governing board of each school district shall cause to be kept an accurate record of its proceedings. The secretary of the governing board, or in the absence of the secretary, the clerk, shall sign the minutes of each meeting.
+
+Required Language:
+The Superintendent shall serve as secretary to the Board of Education unless the Board designates another individual to serve in this capacity. As secretary, the Superintendent or designee shall be responsible for maintaining accurate records of Board proceedings and ensuring proper documentation of all Board actions.
+
+Recommended Placement: BP
+
+----------------------------------------
+

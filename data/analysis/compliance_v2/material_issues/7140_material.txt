@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 7140: Architectural And Engineering Services
+Last Reviewed: 08/25/2021
+================================================================================
+
+Missing Specific Licensing and Certification Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy mentions "licensed and certified architect and/or structural engineer" but does not specify the California licensing requirements or verification procedures. California law requires specific professional licensing that must be verified.
+
+Legal Basis:
+- Education Code 17302: The governing board of any school district may employ or contract with a licensed architect or structural engineer...
+
+Required Language:
+All architects must be licensed by the California Architects Board, and all structural engineers must be licensed by the California Board for Professional Engineers, Land Surveyors, and Geologists. The district shall verify current licensure status before contract execution.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Contract Terms and Professional Standards (Confidence: 85%)
+Missing from: BOTH
+The policy lacks specific requirements for contract terms, professional liability insurance, indemnification, and performance standards that are typically required for architectural and engineering services contracts.
+
+Legal Basis:
+- Education Code 17302: ...to prepare plans, specifications, and estimates for the construction, reconstruction, or alteration of any school building and for the observation of the work of construction.
+
+Required Language:
+Contracts shall include requirements for professional liability insurance, errors and omissions coverage, indemnification provisions, performance standards, deliverable specifications, and compliance with all applicable building codes and accessibility requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+

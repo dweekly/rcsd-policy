@@ -1,0 +1,78 @@
+{
+  "code": "4219.1",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4219.1",
+    "title": "Civil And Legal Rights",
+    "type": "Policy",
+    "last_reviewed": "12/07/2022",
+    "file_path": "data/extracted/policies/4219.1.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for civil and legal rights protections, there is no corresponding Administrative Regulation to provide implementation procedures for whistleblower complaints, investigation processes, and protection mechanisms. This creates a gap in how these rights are operationalized.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44112-44114",
+            "text": "Requires districts to establish procedures for handling whistleblower disclosures and complaints of retaliation"
+          }
+        ],
+        "required_language": "Administrative procedures detailing: complaint filing processes, investigation timelines, interim protections for complainants, documentation requirements, and appeal processes for whistleblower protection cases.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Whistleblower Hotline Display Requirement Implementation",
+        "description": "The policy references the requirement to display whistleblower rights and hotline information but lacks specific procedures for where, how, and when this information must be posted and updated.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Labor Code 1102.8",
+            "text": "Requires prominent display in lettering larger than size 14 point type of employees' rights and responsibilities under whistleblower laws, including the telephone number of the whistleblower hotline"
+          }
+        ],
+        "required_language": "Specific procedures for posting whistleblower information including: designated locations (employee break rooms, administrative offices, etc.), responsibility for maintaining current information, update schedules, and format requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Complaint Procedures",
+        "description": "The policy references \"district's complaint procedures\" for whistleblower retaliation complaints but does not specify which complaint procedure applies or provide cross-references to the appropriate policy/regulation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44114",
+            "text": "Requires establishment of procedures for employees to file complaints regarding retaliation for whistleblower disclosures"
+          }
+        ],
+        "required_language": "Specific reference to the applicable complaint procedure (e.g., \"in accordance with BP/AR 4144 - Complaints\" or establishment of specific whistleblower complaint procedures).",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Timeline Requirements for Complaint Processing",
+        "description": "Neither the policy nor regulation specify timelines for processing whistleblower complaints or investigations, which could lead to indefinite delays and inadequate protection for complainants.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44114",
+            "text": "Implies reasonable timeframes for complaint resolution to ensure effective protection against retaliation"
+          }
+        ],
+        "required_language": "Specific timelines for acknowledging complaints (e.g., within 5 business days), conducting investigations (e.g., within 30 calendar days), and providing written responses to complainants.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:14:38.880984+00:00"
+}

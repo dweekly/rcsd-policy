@@ -1,0 +1,78 @@
+{
+  "code": "5131.41",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "5131.41",
+    "title": "Use Of Seclusion And Restraint",
+    "type": "Regulation",
+    "last_reviewed": "05/10/2023",
+    "file_path": "data/extracted/regulations/5131.41.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) 5131.41 document is completely missing. California Education Code requires school districts to have board policies addressing the use of seclusion and restraint. While the Administrative Regulation provides implementation procedures, the Board Policy should establish the district's position, authority, and high-level requirements regarding seclusion and restraint practices.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49005 et seq.",
+            "text": "School districts must establish policies and procedures governing the use of seclusion and behavioral restraint on students. The governing board has authority and responsibility to adopt policies ensuring student safety and appropriate disciplinary measures."
+          }
+        ],
+        "required_language": "A comprehensive Board Policy should be created that includes: district philosophy on seclusion and restraint use, board authority and responsibility, general prohibitions, staff training requirements, parent notification requirements, and references to detailed procedures in the Administrative Regulation.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Training Requirements",
+        "description": "While the AR mentions that training shall be provided \"as appropriate,\" it lacks specific requirements for what the training must include, who must receive it, frequency of training, and certification requirements. Education Code requires specific training components for staff who may use seclusion or restraint.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49005.8",
+            "text": "Staff training requirements must include specific elements such as de-escalation techniques, positive behavioral interventions, safe restraint techniques, monitoring for physical distress, and alternatives to restraint."
+          }
+        ],
+        "required_language": "Training shall include: (1) positive behavioral intervention techniques, (2) de-escalation techniques, (3) conflict prevention, (4) understanding trauma-informed care, (5) first aid and cardiopulmonary resuscitation, (6) identification of events that may trigger emergency interventions, (7) monitoring physical signs of distress, and (8) standards for ending restraint or seclusion.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Debriefing Requirements",
+        "description": "The regulation lacks required debriefing procedures that must occur after each incident of seclusion or restraint. This is a mandatory requirement under California law to ensure continuous improvement and prevent future incidents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49005.8",
+            "text": "Following each incident involving seclusion or behavioral restraint, the school shall conduct a debriefing session to review the incident and consider whether changes are needed to prevent similar incidents."
+          }
+        ],
+        "required_language": "Following each incident of seclusion or restraint, staff shall conduct a debriefing session within two school days that includes: (1) review of the incident and factors leading to it, (2) consideration of alternative responses, (3) determination of whether policy was followed, (4) identification of any needed changes to prevent recurrence, and (5) documentation of the debriefing outcomes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Parent Notification Timeline",
+        "description": "While the AR requires parent notification \"within one school day,\" it doesn't specify the method of notification or what information must be provided to parents beyond the basic incident report.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49005.8",
+            "text": "Parents must be notified immediately following the use of seclusion or restraint, with specific information about the incident and their rights."
+          }
+        ],
+        "required_language": "Parent notification shall include: (1) immediate verbal notification when possible, (2) written notification within 24 hours, (3) description of the incident, (4) duration of seclusion/restraint used, (5) injuries if any, (6) copy of the incident report, and (7) information about the complaint process.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:22:13.841335+00:00"
+}

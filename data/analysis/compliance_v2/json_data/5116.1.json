@@ -1,0 +1,99 @@
+{
+  "code": "5116.1",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5116.1",
+    "title": "Intradistrict Open Enrollment",
+    "type": "Policy",
+    "last_reviewed": "02/16/2022",
+    "file_path": "data/extracted/policies/5116.1.txt"
+  },
+  "regulation": {
+    "code": "5116.1",
+    "title": "Intradistrict Open Enrollment",
+    "type": "Regulation",
+    "last_reviewed": "02/16/2022",
+    "file_path": "data/extracted/regulations/5116.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Annual Review and Reporting Requirements",
+        "description": "Education Code 35160.5(f) requires the board to annually review the intradistrict open enrollment policy and submit a report to the county superintendent of schools. While the BP mentions annual review, neither document addresses the mandatory reporting requirement to the county superintendent.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160.5(f)",
+            "text": "The governing board of a school district shall annually review the policy adopted pursuant to this section and shall submit a report to the county superintendent of schools that includes the number of pupils who applied for a transfer, the number of pupils who were granted a transfer, and the number of pupils who were denied a transfer."
+          }
+        ],
+        "required_language": "The Superintendent or designee shall annually submit a report to the county superintendent of schools that includes the number of pupils who applied for a transfer, the number of pupils who were granted a transfer, and the number of pupils who were denied a transfer.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Military Family Priority",
+        "description": "Education Code 46600(b) requires districts to provide enrollment priority for children of active duty military personnel. While transportation assistance for military families is mentioned in BP, the enrollment priority itself is not established in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46600(b)",
+            "text": "A school district shall give additional consideration for the enrollment of a pupil in a school within the school district but outside of the pupil's attendance area if the pupil's parent or legal guardian is an active duty member of the armed forces and is transferred or is pending transfer to a military installation within the boundaries of the school district."
+          }
+        ],
+        "required_language": "Is a child of an active duty member of the armed forces who is transferred or pending transfer to a military installation within the boundaries of the school district",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Incomplete Appeals Process Description",
+        "description": "Education Code 35160.5 and 48980 require notification of the appeals process when attendance changes are denied. While the AR mentions that complaints should follow applicable complaint procedures, neither document establishes a specific appeals process for intradistrict transfer denials.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160.5(b)(4)",
+            "text": "A description of the procedure for application for alternative attendance areas or programs and the appeals process available, if any, when a change of attendance is denied."
+          }
+        ],
+        "required_language": "Parents/guardians may appeal a denial of an intradistrict transfer request by submitting a written appeal to the Superintendent or designee within [X] days of receiving the denial notification. The appeal shall include the basis for the appeal and any supporting documentation. The Superintendent or designee shall respond to the appeal within [X] days.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Timeline for Application Windows",
+        "description": "While the BP mentions enrollment windows and the AR describes fall and spring windows, neither document specifies the exact dates or duration of these application periods, which could lead to inconsistent implementation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160.5(b)(5)",
+            "text": "A district application form for requesting a change of attendance."
+          }
+        ],
+        "required_language": "The first application window shall be from [specific dates] during the fall semester, and the second application window shall be from [specific dates] during the spring semester of the school year preceding the requested transfer.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Incomplete Transportation Assistance Language",
+        "description": "The BP contains grammatical errors in the transportation section that could create confusion about eligibility requirements. The phrase \"enrolled in a district school outside the student's attendance area is a result of being a 'victim of an act of bullying'\" contains a grammatical error.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46600(c)",
+            "text": "Upon the request of a parent or guardian of a pupil, a school district shall provide transportation assistance or arrange for transportation assistance to be provided for a pupil who is the victim of an act of bullying, as defined in Section 48900, if the pupil attends a school within the school district, but outside of the pupil's attendance area."
+          }
+        ],
+        "required_language": "However, upon parent/guardian request, the district shall provide transportation assistance to any student who is eligible for free or reduced-price meals and may provide transportation assistance to those enrolled in a district school outside the student's attendance area as a result of being a victim of an act of bullying or having an active military duty parent.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:20:21.246746+00:00"
+}

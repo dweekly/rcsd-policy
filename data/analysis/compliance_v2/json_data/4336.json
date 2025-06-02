@@ -1,0 +1,63 @@
+{
+  "code": "4336",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4336",
+    "title": "Nonschool Employment",
+    "type": "Policy",
+    "last_reviewed": "06/15/2022",
+    "file_path": "data/extracted/policies/4336.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Government Code Section 1126 requires districts to establish procedures for reviewing and approving outside employment requests. While the Board Policy establishes the framework and criteria, there is no Administrative Regulation providing detailed implementation procedures for supervisors and employees to follow.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 1126",
+            "text": "A public agency may determine when the outside employment or other activity of one of its employees is incompatible, and may prohibit the employment or other activity."
+          }
+        ],
+        "required_language": "Administrative procedures detailing: (1) Request submission process and required forms, (2) Timeline for supervisor review and response, (3) Specific evaluation criteria and documentation requirements, (4) Appeal process procedures to Superintendent, (5) Record-keeping requirements for requests and decisions, (6) Annual disclosure requirements if applicable, (7) Monitoring and compliance procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Legal Reference Citations",
+        "description": "The policy references Government Code sections 1126-1128 but does not include the complete statutory framework. Government Code Section 87100 (conflict of interest) and Section 1090 (prohibited contracts) are also relevant to outside employment restrictions for public employees.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 87100",
+            "text": "No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest."
+          }
+        ],
+        "required_language": "Add to Legal Reference section: \"Government Code: 87100 Conflict of interest, 1090 Prohibition against contracts\"",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Collective Bargaining Agreements",
+        "description": "Outside employment policies often intersect with collective bargaining agreement provisions regarding work hours, duties, and conflict of interest. The policy should acknowledge that any outside employment authorization must comply with applicable collective bargaining agreements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "On and after January 1, 1976, the governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "\"All outside employment authorizations shall comply with applicable collective bargaining agreements and established work schedules.\"",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:17:31.812268+00:00"
+}

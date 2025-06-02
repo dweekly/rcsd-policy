@@ -1,0 +1,78 @@
+{
+  "code": "9223",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9223",
+    "title": "Filling Vacancies",
+    "type": "Policy",
+    "last_reviewed": "09/11/2024",
+    "file_path": "data/extracted/policies/9223.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 5091-5093 and 5328 require specific procedural steps for filling board vacancies, but the district has only adopted a Board Policy without corresponding Administrative Regulation. While the policy contains some procedural elements, many implementation details that should be in an AR are missing, including specific application processes, timeline management, petition verification procedures, and coordination with county officials.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 5091-5093, 5328",
+            "text": "These sections establish mandatory procedures for filling board vacancies that require detailed implementation protocols typically found in administrative regulations."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to establish detailed procedures for: application processes for appointments, timeline management and tracking, coordination with county superintendent, petition verification procedures, public notice protocols, and candidate interview processes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Notice Requirements for Provisional Appointments",
+        "description": "The Board Policy contains an incomplete sentence in the notice requirements section. The policy states \"A statement notifying the voters that unless a petition calling for a special election pursuant to Education Code 5091 is filed in the office of the County Superintendent of Schools within 30 days of the provisional appointment, the appointment shall become\" but does not complete the sentence to specify that the appointment becomes permanent.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 5092",
+            "text": "The notice shall inform voters of the consequences if no petition is filed, specifically that the provisional appointment becomes permanent."
+          }
+        ],
+        "required_language": "Complete the sentence to read: \"A statement notifying the voters that unless a petition calling for a special election pursuant to Education Code 5091 is filed in the office of the County Superintendent of Schools within 30 days of the provisional appointment, the appointment shall become permanent.\"",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Reference to Oath Requirements",
+        "description": "While the policy mentions that failure to file required oath creates a vacancy, it does not specify the oath requirements for newly appointed board members or reference the relevant bylaw covering oath procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 1360-1365",
+            "text": "All public officers must take and file an oath of office before entering upon the duties of office."
+          }
+        ],
+        "required_language": "Add reference that appointed board members must take the oath of office as specified in Board Bylaw 9221 - Oath or Affirmation of Office before assuming duties.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Trustee Area Reference",
+        "description": "Item 6 under \"Events Causing a Vacancy\" has incomplete punctuation and formatting: \"A Board member's ceasing to inhabit the trustee area represented by the Board member (Government Code 1770.\" - missing closing parenthesis.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 1770",
+            "text": "Proper citation format required for legal references."
+          }
+        ],
+        "required_language": "Correct the citation to read: \"A Board member's ceasing to inhabit the trustee area represented by the Board member (Government Code 1770)\"",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:39:51.700556+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "code": "4219.11",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4219.11",
+    "title": "Sex Discrimination and Sex-Based Harassment",
+    "type": "Policy",
+    "last_reviewed": "04/27/2022",
+    "file_path": "data/extracted/policies/4219.11.txt"
+  },
+  "regulation": {
+    "code": "4219.11",
+    "title": "Sex Discrimination and Sex-Based Harassment",
+    "type": "Regulation",
+    "last_reviewed": "04/27/2022",
+    "file_path": "data/extracted/regulations/4219.11.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Mandatory Reporting Requirements for Sexual Assault",
+        "description": "California law requires specific procedures for reporting sexual assault incidents to law enforcement. Neither the policy nor regulation addresses the mandatory reporting obligations when sexual harassment involves sexual assault, which is specifically mentioned in the Title IX definition but lacks required reporting procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44030.5",
+            "text": "School districts must establish procedures for reporting sexual assault incidents involving employees to appropriate law enforcement agencies within 24 hours of discovery."
+          }
+        ],
+        "required_language": "When sexual harassment involves sexual assault as defined in Penal Code Section 243.4 or other criminal conduct, the Title IX Coordinator or designee shall immediately report the incident to local law enforcement within 24 hours of discovery, in accordance with Education Code Section 44030.5.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Training Content Requirements",
+        "description": "The regulation lists training requirements but is missing mandatory content on bystander intervention training, which became required under Government Code 12950.1 amendments. The training section cuts off mid-sentence and appears incomplete.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12950.1(a)(2)(E)",
+            "text": "Training must include practical examples of bystander intervention and information about the negative effects of abusive conduct in the workplace."
+          }
+        ],
+        "required_language": "14. Bystander intervention training, including practical guidance on how employees can intervene when they observe conduct that may constitute sexual harassment, discrimination, or retaliation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Interim Protective Measures Detail",
+        "description": "While the policy mentions \"interim separation\" and the regulation references \"supportive measures,\" neither document provides the required detailed procedures for implementing interim protective measures during investigations, as mandated by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12950.1",
+            "text": "Employers must have procedures for immediate and appropriate corrective action, including interim protective measures during investigations."
+          }
+        ],
+        "required_language": "During the investigation process, the Title IX Coordinator may implement interim protective measures including, but not limited to: temporary reassignment, modified work schedules, temporary suspension with pay, or other measures necessary to ensure a safe work environment while maintaining due process rights.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Contact Information Format",
+        "description": "The Title IX Coordinator contact information in the regulation appears to use a placeholder format and may not reflect current, specific contact details required for compliance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 106.8(a)",
+            "text": "Districts must provide current name, title, office address, email address, and telephone number of the Title IX Coordinator."
+          }
+        ],
+        "required_language": "Verify and update Title IX Coordinator contact information to ensure current and accurate details are provided, including specific individual name rather than position title.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Pregnancy Discrimination Procedures",
+        "description": "While the policy mentions harassment based on \"pregnancy, childbirth, or related medical conditions,\" neither document specifically addresses the intersection with pregnancy disability leave procedures and accommodations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12945",
+            "text": "Employers must provide reasonable accommodations for pregnancy, childbirth, or related medical conditions and cannot discriminate based on these conditions."
+          }
+        ],
+        "required_language": "Sexual harassment complaints involving pregnancy, childbirth, or related medical conditions shall be coordinated with the district's pregnancy disability leave procedures and reasonable accommodation requirements under Government Code Section 12945.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:14:56.806402+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "4113.4",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4113.4",
+    "title": "Temporary Modified/Light-Duty Assignment",
+    "type": "Policy",
+    "last_reviewed": "12/11/2024",
+    "file_path": "data/extracted/policies/4113.4.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy establishes the framework for temporary modified/light-duty assignments but lacks the detailed administrative procedures required for implementation. California Education Code requires districts to have clear procedures for personnel matters, and temporary duty assignments involve complex administrative steps including application processes, medical documentation requirements, position identification, and coordination with workers' compensation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44040",
+            "text": "The governing board of each school district shall adopt rules and regulations for the government of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "Administrative Regulation 4113.4 should include: (1) Application procedures and required forms; (2) Medical documentation requirements and physician certification process; (3) Process for identifying and evaluating available temporary positions; (4) Criteria for determining suitable accommodations; (5) Procedures for monitoring and reviewing temporary assignments; (6) Extension request procedures and timelines; (7) Coordination with workers' compensation and benefits; (8) Return-to-work procedures; (9) Record-keeping requirements; (10) Appeal process for denied requests.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Interactive Process Requirements Under ADA",
+        "description": "The policy lacks reference to the required interactive process under the Americans with Disabilities Act and California Fair Employment and Housing Act. When an employee requests modified duty due to a medical condition, the district must engage in an interactive process to determine reasonable accommodations, even for temporary assignments.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12940(n)",
+            "text": "It shall be an unlawful employment practice for an employer to fail to engage in a timely, good faith, interactive process with the employee or applicant to determine effective reasonable accommodations."
+          }
+        ],
+        "required_language": "The district shall engage in an interactive process with employees requesting temporary modified/light-duty assignments to identify and evaluate potential reasonable accommodations. This process shall include discussing the employee's functional limitations, exploring available accommodations, and considering modifications to existing positions or alternative assignments.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Non-Discrimination and Equal Treatment Provisions",
+        "description": "The policy does not include required non-discrimination language ensuring that temporary modified/light-duty assignments are provided without regard to protected characteristics and that employees are not penalized for requesting accommodations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12940(a)",
+            "text": "It shall be an unlawful employment practice for an employer to refuse to hire or employ a person or to refuse to select a person for a training program leading to employment, or to bar or to discharge a person from employment or from a training program leading to employment, or to discriminate against a person in compensation or in terms, conditions, or privileges of employment because of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, or military and veteran status."
+          }
+        ],
+        "required_language": "Temporary modified/light-duty assignments shall be provided without discrimination based on race, color, national origin, religion, sex, gender identity, sexual orientation, age, disability, or other protected characteristics. No employee shall be retaliated against for requesting a temporary modified assignment or accommodation.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Privacy and Confidentiality Protections",
+        "description": "The policy does not address confidentiality requirements for medical information obtained during the temporary assignment process, which is required under state and federal privacy laws.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Civil Code Section 56.10",
+            "text": "Medical information may not be disclosed by a provider of health care, health care service plan, or contractor without first obtaining an authorization."
+          }
+        ],
+        "required_language": "All medical information obtained in connection with temporary modified/light-duty assignments shall be kept confidential and stored separately from personnel files. Access to such information shall be limited to those with a legitimate need to know for accommodation purposes.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:35:11.987010+00:00"
+}

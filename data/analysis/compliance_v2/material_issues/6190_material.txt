@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6190: Evaluation Of The Instructional Program
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Local Control and Accountability Plan (LCAP) Integration (Confidence: 90%)
+Missing from: BOTH
+The policy does not reference the Local Control and Accountability Plan (LCAP) or Local Control Funding Formula (LCFF) requirements for program evaluation and reporting, which are now central to California's accountability system. This is a significant omission given the policy's 2010 date predates these requirements.
+
+Legal Basis:
+- Education Code Section 52060: On or before July 1, 2014, and each year thereafter, the governing board of a school district shall adopt a local control and accountability plan using a template adopted by the state board.
+
+Required Language:
+The district's evaluation of the instructional program shall align with and support the Local Control and Accountability Plan (LCAP) and shall include assessment of progress on state priority areas and locally identified priorities. Evaluation results shall inform LCAP development and annual updates.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Outdated Assessment References (Confidence: 85%)
+Missing from: BOTH
+The policy references the Academic Performance Index (API), which was suspended in 2013 and replaced by the California School Dashboard. The evaluation framework needs updating to reflect current state accountability measures.
+
+Legal Basis:
+- Education Code Section 52052: The Superintendent shall establish the California School Dashboard to identify schools and local educational agencies for assistance and support and to assist schools and local educational agencies in identifying areas of need.
+
+Required Language:
+Replace references to "Academic Performance Index" with "California School Dashboard indicators and performance levels" and include evaluation based on Dashboard performance indicators including academic achievement, academic progress, graduation rates, suspension rates, chronic absenteeism, and English learner progress.
+
+Recommended Placement: BP
+
+----------------------------------------
+

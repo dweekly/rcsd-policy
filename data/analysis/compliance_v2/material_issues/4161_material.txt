@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4161: Leaves
+Last Reviewed: 12/11/2024
+================================================================================
+
+Missing Sick Leave Verification Procedures (Confidence: 90%)
+Missing from: BOTH
+Education Code specifically requires districts to establish procedures for verification of illness for sick leave purposes. Neither the policy nor regulation (which is missing) contains the required verification procedures.
+
+Legal Basis:
+- Education Code Section 44043.5: The governing board of each school district shall adopt rules and regulations for the administration of sick leave, including procedures for the verification of illness.
+
+Required Language:
+Procedures for verification of illness, including when medical certification may be required, acceptable forms of verification, and timeline requirements for submission of verification documentation.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Family and Medical Leave Act (FMLA) Integration (Confidence: 85%)
+Missing from: BOTH
+While the policy mentions "family care and medical leave," it lacks specific reference to federal FMLA requirements and how district leave policies coordinate with federal entitlements, which is required for compliance.
+
+Legal Basis:
+- Government Code Section 12945.2 (California Family Rights Act): Employers must provide leave in accordance with the California Family Rights Act, which parallels federal FMLA requirements and must be coordinated with other leave entitlements.
+
+Required Language:
+Specific procedures for coordinating district leave policies with federal Family and Medical Leave Act (FMLA) and California Family Rights Act (CFRA) requirements, including concurrent vs. consecutive leave usage and employee notification requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Differential Pay During Industrial Accident Leave (Confidence: 80%)
+Missing from: BOTH
+Education Code requires specific provisions for industrial accident and illness leave, including differential pay calculations. The policy mentions industrial accident leave but lacks required details about compensation during such leave.
+
+Legal Basis:
+- Education Code Section 44984: Certificated employees shall be entitled to industrial accident and illness leave, with the district paying the difference between the employee's regular salary and workers' compensation benefits.
+
+Required Language:
+Procedures for calculating and providing differential pay during industrial accident and illness leave, including coordination with workers' compensation benefits and duration limitations.
+
+Recommended Placement: AR
+
+----------------------------------------
+

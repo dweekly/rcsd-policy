@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3311: Bids
+Last Reviewed: 03/09/2022
+================================================================================
+
+Missing Best Value Contracting Procedures (Confidence: 85%)
+Missing from: BOTH
+California law allows school districts to use best value contracting for certain projects, but neither document addresses this procurement method, limiting the district's procurement options.
+
+Legal Basis:
+- Public Contract Code Section 20111.6: Notwithstanding any other provision of law, the governing board of a school district may use a best value procurement process to award contracts for the procurement of goods and services.
+
+Required Language:
+Authorization and procedures for best value procurement including evaluation criteria, scoring methodology, and award procedures when price is not the sole determining factor.
+
+Recommended Placement: BP
+
+----------------------------------------
+

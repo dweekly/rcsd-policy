@@ -1,0 +1,63 @@
+{
+  "code": "1431",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1431",
+    "title": "Waivers",
+    "type": "Policy",
+    "last_reviewed": "06/23/2021",
+    "file_path": "data/extracted/policies/1431.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Waiver Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for waiver requests, there is no Administrative Regulation to provide detailed implementation procedures. Given the complexity of waiver requirements under Education Code 33050-33051, detailed procedures are essential for proper compliance, including specific timelines, documentation requirements, and step-by-step processes for staff to follow.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 33050-33051",
+            "text": "These sections establish detailed procedural requirements for waiver requests that require specific implementation guidance beyond what is typically contained in board policy."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: detailed procedures for preparing waiver requests, timelines for consultation with employee representatives and advisory committees, specific documentation requirements, procedures for public hearing notices, submission processes to the State Board of Education, and renewal procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Public Hearing Notice Requirements Could Be More Specific",
+        "description": "While the policy mentions that notice \"may be printed in a newspaper of general circulation and/or posted at each school and three public places,\" it doesn't specify minimum advance notice timeframes or ensure compliance with general public meeting notice requirements that may apply.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 33050",
+            "text": "Requires \"properly noticed public hearing\" but doesn't specify minimum notice periods, which may need to comply with general meeting notice requirements."
+          }
+        ],
+        "required_language": "Specify minimum advance notice requirements for public hearings on waiver requests, ensuring compliance with applicable public meeting notice laws.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Guidance on Required Waiver Request Content",
+        "description": "While the policy states that waiver requests must include \"all information necessary for the Board to analyze the need,\" it doesn't specify what information elements are required by law or regulation for State Board of Education review.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 33050",
+            "text": "Requires specific information in waiver requests but the policy doesn't detail these requirements for staff guidance."
+          }
+        ],
+        "required_language": "Include specific requirements for waiver request content as mandated by Education Code and State Board of Education regulations, including justification, impact analysis, and alternative approaches considered.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:22:52.123091+00:00"
+}

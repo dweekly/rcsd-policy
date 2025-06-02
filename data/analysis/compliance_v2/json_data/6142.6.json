@@ -1,0 +1,78 @@
+{
+  "code": "6142.6",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6142.6",
+    "title": "Visual And Performing Arts Education",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6142.6.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "California Education Code requires districts to have detailed procedures for implementing visual and performing arts education programs. While the Board Policy establishes the framework and requirements, there is no Administrative Regulation to provide the specific implementation procedures, assessment methods, curriculum development processes, or operational details needed to carry out the policy directives.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51210(f)",
+            "text": "Visual and performing arts, including dance, music, theater, and visual arts, with emphasis upon development of aesthetic appreciation and the skills of creative expression"
+          }
+        ],
+        "required_language": "Administrative procedures detailing curriculum implementation, assessment methods, teacher qualification requirements, resource allocation procedures, program evaluation criteria, and community partnership protocols for visual and performing arts education.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Grade-Level Requirements and Course Offerings",
+        "description": "Education Code requires specific visual and performing arts instruction at elementary levels and course offerings at secondary levels. Neither the BP nor AR (which doesn't exist) specifies the minimum instructional time, grade-level requirements, or mandatory course offerings required by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51210(f) and 51220(f)",
+            "text": "Elementary: Visual and performing arts instruction required as part of course of study. Secondary: Visual and performing arts electives must be offered to meet graduation requirements."
+          }
+        ],
+        "required_language": "Specific requirements for visual and performing arts instruction at elementary grade levels and mandatory course offerings at secondary levels to meet state graduation requirements, including minimum instructional time allocations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Assessment and Student Achievement Monitoring Procedures",
+        "description": "While the BP mentions evaluation and reporting to the Board, neither document contains specific procedures for assessing student progress in visual and performing arts or monitoring achievement of state content standards, which is required for standards-based instruction.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60605",
+            "text": "Districts shall assess student progress toward meeting state content standards"
+          }
+        ],
+        "required_language": "Procedures for assessing student achievement in visual and performing arts, including methods for measuring progress toward state content standards, documentation requirements, and reporting protocols.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Arts and Music Block Grant References",
+        "description": "The policy references specific 2007 legislation (SB 77) for arts and music block grants. These specific funding provisions may no longer be current, and the policy should reference current funding mechanisms or be updated to reflect current law.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 8820 et seq.",
+            "text": "Current arts and music funding provisions may differ from 2007 legislation cited in policy"
+          }
+        ],
+        "required_language": "Updated references to current state funding mechanisms for arts and music education, or generic language that adapts to changing funding sources.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:30:33.549589+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "4319.1",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4319.1",
+    "title": "Civil And Legal Rights",
+    "type": "Policy",
+    "last_reviewed": "12/07/2022",
+    "file_path": "data/extracted/policies/4319.1.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes employee civil and legal rights, there is no corresponding Administrative Regulation to provide implementation procedures for whistleblower complaints, retaliation investigations, and protection processes. California law requires districts to have procedures for handling these matters.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44112-44114",
+            "text": "Requires districts to establish procedures for handling whistleblower complaints and investigations of retaliation claims"
+          }
+        ],
+        "required_language": "Administrative procedures detailing: complaint filing process, investigation procedures, timeline for responses, appeal processes, and interim protection measures for whistleblowers",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Whistleblower Hotline Display Requirement Implementation",
+        "description": "The policy references the requirement to display whistleblower rights and hotline information but lacks implementation details about where, how, and who is responsible for maintaining these displays.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Labor Code 1102.8",
+            "text": "Requires prominent display in lettering larger than size 14 point type of employees' rights and responsibilities under whistleblower laws, including the telephone number of the whistleblower hotline"
+          }
+        ],
+        "required_language": "Specific procedures for posting whistleblower information including: designated locations (employee break rooms, administrative offices, etc.), responsible staff for updates, frequency of review, and format requirements",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Search Procedures for District Property",
+        "description": "The policy states that school officials may search district property under an employee's control when necessary for health, welfare, or safety, but provides no procedural safeguards or implementation guidelines.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44031",
+            "text": "Employee rights regarding searches must be balanced with district authority and require procedural protections"
+          }
+        ],
+        "required_language": "Procedures for conducting searches including: authorization requirements, documentation, witness requirements, employee notification rights, and appeal processes",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Complaint Procedures",
+        "description": "The policy references \"district's complaint procedures\" for whistleblower retaliation but doesn't specify which complaint procedure applies or cross-reference the appropriate policy.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44114",
+            "text": "Requires clear complaint procedures for employees alleging retaliation for whistleblower activities"
+          }
+        ],
+        "required_language": "Specific reference to applicable complaint procedure policy number (typically BP/AR 4144 - Complaints) or establishment of specific whistleblower complaint procedures",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:16:43.560765+00:00"
+}

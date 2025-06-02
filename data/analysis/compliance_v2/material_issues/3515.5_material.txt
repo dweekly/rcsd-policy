@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3515.5: Sex Offender Notification
+Last Reviewed: 03/12/2025
+================================================================================
+
+Missing Prohibition on Registered Sex Offenders on School Grounds (Confidence: 95%)
+Missing from: BOTH
+California law generally prohibits registered sex offenders from coming onto school grounds or into school buildings. While the regulation addresses notification when permission is granted, neither document establishes the baseline prohibition or the limited circumstances under which exceptions may be made.
+
+Legal Basis:
+- Penal Code 626.81(a): Any person who is required to register as a sex offender pursuant to Section 290 and who comes into any school building or upon any school ground without lawful business thereon is guilty of a misdemeanor.
+
+Required Language:
+Registered sex offenders are prohibited from coming onto school grounds or into school buildings unless they have lawful business thereon. Any registered sex offender who violates this prohibition is guilty of a misdemeanor under Penal Code 626.81.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Definition of "Lawful Business" (Confidence: 90%)
+Missing from: BOTH
+The regulation references granting permission to registered sex offenders but does not define what constitutes "lawful business" or establish clear criteria for when such permission may be granted, creating potential inconsistency in application.
+
+Legal Basis:
+- Penal Code 626.81(a): Any person who is required to register as a sex offender pursuant to Section 290 and who comes into any school building or upon any school ground without lawful business thereon is guilty of a misdemeanor.
+
+Required Language:
+The Superintendent or designee shall establish procedures defining what constitutes "lawful business" for registered sex offenders on school grounds, including criteria for granting permission and required approvals.
+
+Recommended Placement: AR
+
+----------------------------------------
+

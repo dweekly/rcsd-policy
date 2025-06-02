@@ -1,0 +1,48 @@
+{
+  "code": "4161.5",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4161.5",
+    "title": "Military Leave",
+    "type": "Regulation",
+    "last_reviewed": "12/07/2022",
+    "file_path": "data/extracted/regulations/4161.5.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The district has only an Administrative Regulation (AR 4161.5) but no corresponding Board Policy (BP 4161.5) for military leave. California school districts typically organize requirements with Board Policies containing the \"what\" and \"why\" (board direction, rights, notifications) and Administrative Regulations containing the \"how\" (implementation procedures). While the AR contains comprehensive implementation details, there should be a corresponding BP that establishes the board's commitment to providing military leave and the fundamental rights of employees.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44800",
+            "text": "Any person employed in the public school service who enters the military or naval forces of the United States or of this state shall be entitled to a military leave of absence and shall be restored to his position upon his return if he meets the requirements of this section."
+          }
+        ],
+        "required_language": "The Board recognizes its obligation to provide military leave to district employees who serve in the uniformed services and is committed to ensuring full compliance with state and federal military leave laws. The district shall provide military leave in accordance with applicable state and federal law to employees performing military duties on a voluntary or involuntary basis in a uniformed service. Employees on military leave shall be entitled to reinstatement, compensation, and benefits as provided by law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Reference to Military and Veterans Code Section 395.3",
+        "description": "The regulation comprehensively covers most aspects of military leave but does not reference Military and Veterans Code Section 395.3, which provides additional protections for employees called to active duty during emergencies. While the regulation covers emergency duty under Section 395.05, Section 395.3 provides broader emergency activation provisions that should be referenced for completeness.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Military and Veterans Code Section 395.3",
+            "text": "Any employee who is a member of the California National Guard or a United States Military Reserve organization and who is called to active duty shall be entitled to a temporary military leave of absence while engaged in the performance of ordered military duty."
+          }
+        ],
+        "required_language": "Add reference to Military and Veterans Code 395.3 in the opening paragraph's legal citations and ensure coverage of employees called to active duty as members of California National Guard or U.S. Military Reserve organizations.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:13:54.196077+00:00"
+}

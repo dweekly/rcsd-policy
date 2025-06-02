@@ -1,0 +1,93 @@
+{
+  "code": "3290",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3290",
+    "title": "Gifts, Grants And Bequests",
+    "type": "Policy",
+    "last_reviewed": "11/06/2024",
+    "file_path": "data/extracted/policies/3290.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 41030-41031 requires specific procedures for handling gifts of money, including placement in county treasury and accounting requirements. The policy references these code sections but lacks detailed implementation procedures that should be contained in an Administrative Regulation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 41030-41031",
+            "text": "Requires specific procedures for receipt, accounting, and treasury placement of monetary gifts to school districts"
+          }
+        ],
+        "required_language": "Administrative procedures detailing: (1) Process for receiving and documenting gifts; (2) Procedures for placing monetary gifts in county treasury; (3) Accounting and tracking requirements; (4) Approval workflows and authority levels; (5) Reporting procedures for annual Board reports; (6) Forms and documentation requirements",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Gift Valuation and Tax Implications",
+        "description": "IRS regulations and California Revenue and Taxation Code require districts to properly value gifts and handle tax implications. The policy lacks procedures for gift valuation, tax documentation, and donor acknowledgment requirements for tax-deductible contributions.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Revenue and Taxation Code 214; IRS Publication 526",
+            "text": "Public agencies must properly document and value gifts for tax purposes and provide appropriate donor acknowledgments"
+          }
+        ],
+        "required_language": "Procedures for: (1) Professional appraisal of non-monetary gifts over specified thresholds; (2) Issuance of tax acknowledgment letters to donors; (3) Documentation of gift fair market value; (4) Coordination with county assessor for property gifts",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Conflict of Interest Safeguards",
+        "description": "Government Code 1090 and the Political Reform Act require public agencies to have safeguards against conflicts of interest in gift acceptance. The policy lacks procedures to ensure Board members and staff do not have financial interests in gift sources.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 1090; Government Code 87100",
+            "text": "Public officials may not have financial interests in contracts or decisions, including gift acceptance decisions"
+          }
+        ],
+        "required_language": "Procedures requiring: (1) Disclosure of any financial relationships between district officials and gift donors; (2) Recusal requirements when conflicts exist; (3) Review process to identify potential conflicts before gift acceptance",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Uniform Complaint Procedures",
+        "description": "When gift acceptance decisions affect educational equity or student access, they may be subject to uniform complaint procedures under Title 5 CCR. The policy should reference this appeal mechanism.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Title 5 CCR 4600-4687",
+            "text": "Uniform complaint procedures apply to issues affecting educational equity and student access"
+          }
+        ],
+        "required_language": "Reference that gift acceptance decisions affecting educational equity may be subject to the district's uniform complaint procedures",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Insurance and Liability Considerations",
+        "description": "Acceptance of certain gifts (particularly equipment, vehicles, or property) may create insurance and liability obligations that should be evaluated before acceptance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160; Government Code 995",
+            "text": "Districts must consider liability implications of property acceptance and ensure adequate insurance coverage"
+          }
+        ],
+        "required_language": "Requirement to evaluate insurance and liability implications of gift acceptance, particularly for equipment, vehicles, and real property",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:25:08.956448+00:00"
+}

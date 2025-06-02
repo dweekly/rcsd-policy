@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3515: Campus Security
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Comprehensive School Safety Plan Requirements (Confidence: 95%)
+Missing from: BOTH
+California law requires specific elements in comprehensive school safety plans that are not addressed in either the policy or regulation, including child abuse reporting procedures, disaster procedures, suspension/expulsion policies, procedures to notify teachers of dangerous pupils, discrimination/harassment policies, school dress codes, and safe ingress/egress procedures.
+
+Legal Basis:
+- Education Code Section 32282: The comprehensive school safety plan shall include, but not be limited to, all of the following: (a) Child abuse reporting procedures, (b) Disaster procedures, (c) Suspension and expulsion policies, (d) Procedures to notify teachers of dangerous pupils, (e) A discrimination and harassment policy, (f) School dress code policies, (g) Procedures for safe ingress and egress of pupils, parents, and school employees to and from school.
+
+Required Language:
+The comprehensive safety plan shall include: child abuse reporting procedures, disaster procedures, suspension and expulsion policies, procedures to notify teachers of dangerous pupils, discrimination and harassment policies, school dress code policies, and procedures for safe ingress and egress of pupils, parents, and school employees.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing School Safety Plan Review and Update Requirements (Confidence: 90%)
+Missing from: BOTH
+California law requires that school safety plans be reviewed and updated by March 1 of each year, with specific review procedures involving school site councils or safety committees. Neither document specifies this mandatory timeline or review process.
+
+Legal Basis:
+- Education Code Section 32288: The school site council or school safety planning committee shall review and update the school safety plan by March 1 of every year.
+
+Required Language:
+The school site council or school safety planning committee shall review and update the comprehensive school safety plan by March 1 of every year.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing School Safety Planning Committee Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires establishment of school safety planning committees with specific membership requirements including representatives of teachers, parents, classified employees, and other stakeholders. Neither document addresses committee composition or establishment.
+
+Legal Basis:
+- Education Code Section 32281: Each school shall establish a school safety planning committee consisting of the following members: the principal or designee, one teacher who is a representative of the recognized certificated employee organization, one parent whose child attends the school, one classified employee who is a representative of the recognized classified employee organization, and other members, if desired.
+
+Required Language:
+Each school shall establish a school safety planning committee consisting of: the principal or designee, one teacher representative of the recognized certificated employee organization, one parent whose child attends the school, one classified employee representative of the recognized classified employee organization, and other members as desired.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Emergency Response Procedures (Confidence: 90%)
+Missing from: BOTH
+Neither document addresses required emergency response procedures for various types of emergencies, including natural disasters, violent incidents, and other campus emergencies as required by California law.
+
+Legal Basis:
+- Education Code Section 32282(a)(2)(A): Disaster procedures, routine and emergency, including adaptations for pupils with disabilities in accordance with the federal Americans with Disabilities Act.
+
+Required Language:
+Emergency response procedures shall address routine and emergency disaster procedures, including adaptations for pupils with disabilities in accordance with the Americans with Disabilities Act.
+
+Recommended Placement: AR
+
+----------------------------------------
+

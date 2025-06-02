@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9200: Limits Of Board Member Authority
+Last Reviewed: 01/28/2009
+================================================================================
+
+Missing Conflict of Interest Training Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires that board members complete ethics training within specified timeframes. The policy lacks any reference to the mandatory ethics training requirements for board members, including initial training deadlines and biennial renewal requirements.
+
+Legal Basis:
+- Government Code Section 53235: Each local agency official shall receive at least two hours of training in general ethics principles and ethics laws relevant to public service every two years. New officials must complete this training within one year of taking office.
+
+Required Language:
+Board members shall complete at least two hours of ethics training every two years as required by Government Code 53235. Newly elected or appointed board members must complete this training within one year of taking office. The Superintendent or designee shall ensure that appropriate training opportunities are made available and shall maintain records of compliance.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Financial Interest Disclosure Requirements (Confidence: 90%)
+Missing from: BOTH
+Board members must comply with conflict of interest laws and file required financial disclosure statements. The policy should address these legal obligations to ensure board members understand their responsibilities regarding financial conflicts and disclosure requirements.
+
+Legal Basis:
+- Government Code Section 87200 et seq. (Political Reform Act): Designated employees and officials must file statements of economic interests (Form 700) and comply with conflict of interest provisions, including disqualification from participating in decisions that could affect their financial interests.
+
+Required Language:
+Board members shall comply with conflict of interest laws including filing required statements of economic interests (Form 700) and shall disqualify themselves from participating in any decision that could reasonably affect their financial interests as defined by the Political Reform Act.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Incomplete Brown Act Compliance Framework (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions providing Brown Act information to board members, it lacks comprehensive guidance on board member responsibilities under the Brown Act, including prohibitions on serial meetings, closed session confidentiality, and communication restrictions.
+
+Legal Basis:
+- Government Code Section 54952.2: Board members are prohibited from using a series of communications to discuss, deliberate, or take action on matters within the board's jurisdiction outside of properly noticed public meetings.
+
+Required Language:
+Board members shall not engage in serial meetings or use electronic communications to discuss, deliberate, or take action on matters within the Board's jurisdiction outside of properly noticed public meetings. Board members shall maintain confidentiality of closed session discussions and comply with all Brown Act requirements.
+
+Recommended Placement: BP
+
+----------------------------------------
+

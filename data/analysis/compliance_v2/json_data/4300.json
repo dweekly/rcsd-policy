@@ -1,0 +1,78 @@
+{
+  "code": "4300",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4300",
+    "title": "Administrative And Supervisory Personnel",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4300.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Personnel Management Procedures",
+        "description": "The Board Policy establishes the framework for administrative and supervisory personnel management but lacks the corresponding Administrative Regulation that should detail implementation procedures. Education Code requires districts to have procedures for personnel management, evaluation, and oversight of administrative staff.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35161",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation should include procedures for: recruitment and selection processes, performance evaluation criteria and timelines, professional development requirements, supervision protocols, and accountability measures for administrative and supervisory personnel.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Senior Management Position Classification Procedures",
+        "description": "While the policy references Education Code 45104.5 regarding establishment and abolishment of senior management positions, there are no detailed procedures for how these actions will be implemented, including notification requirements, transition procedures, and rights of affected employees.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45104.5",
+            "text": "The governing board of a school district may, by resolution, establish or abolish any or all positions of the senior management of the classified service... Any employee occupying a senior management position abolished by board action shall become a member of the classified or certificated service."
+          }
+        ],
+        "required_language": "Procedures must specify: the process for Board resolution to establish/abolish senior management positions, notification requirements to affected employees, timeline for transitions, determination of appropriate classified or certificated positions for displaced senior managers, and appeal processes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Performance Evaluation Requirements",
+        "description": "The policy states that management personnel should demonstrate initiative and good judgment, but lacks specific evaluation criteria, processes, or timelines required by California law for administrative personnel evaluation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35031",
+            "text": "It shall be the duty of the superintendent of schools of the county to evaluate the performance of each superintendent of schools of school districts under his or her jurisdiction."
+          }
+        ],
+        "required_language": "Policy should establish evaluation requirements for administrative personnel. Administrative Regulation should detail evaluation criteria, timeline (typically annual), evaluation instruments, improvement plans for unsatisfactory performance, and documentation requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009, which is over 14 years ago. California school districts should regularly review policies to ensure continued compliance with evolving legal requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "On or before December 31 of each year, the governing board of each school district shall adopt rules and regulations as it deems necessary for its own government."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and best practices. Consider establishing regular review cycles (e.g., every 3-5 years).",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:16:08.434682+00:00"
+}

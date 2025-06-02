@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4261: Leaves
+Last Reviewed: 12/11/2024
+================================================================================
+
+Missing Specific FMLA/CFRA Integration Requirements (Confidence: 90%)
+Missing from: BOTH
+While the policy mentions "family care and medical leave," it lacks specific language about coordination between district leave policies and federal Family and Medical Leave Act (FMLA) and California Family Rights Act (CFRA) requirements, including concurrent vs. consecutive leave usage and employee notification rights.
+
+Legal Basis:
+- Government Code Section 12945.2: Employers shall provide employees with notice of their rights under CFRA and coordinate leave entitlements under various state and federal laws.
+
+Required Language:
+Procedures for coordinating district leave policies with FMLA/CFRA requirements, including notice to employees of their rights under federal and state family leave laws, and clarification of when leaves run concurrently versus consecutively.
+
+Recommended Placement: AR
+
+----------------------------------------
+

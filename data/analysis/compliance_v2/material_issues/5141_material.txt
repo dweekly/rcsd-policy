@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5141: Health Care And Emergencies
+Last Reviewed: 11/09/2022
+================================================================================
+
+Missing Required AED Training Requirements (Confidence: 95%)
+Missing from: BOTH
+California law requires that at least one employee trained in CPR and AED use be present during school hours and school-sponsored activities. The current documents only require distribution of informational brochures but do not establish the mandatory training requirement or ensure trained personnel availability.
+
+Legal Basis:
+- Health and Safety Code Section 1797.196(b): "The school shall ensure that at least one employee trained in the operation and use of an automated external defibrillator is available on the school grounds during normal school hours and during school-sponsored activities."
+
+Required Language:
+The district shall ensure that at least one employee trained in CPR and the operation and use of an automated external defibrillator is available on school grounds during normal school hours and during school-sponsored activities. Training shall meet standards established by the American Heart Association or American Red Cross.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing AED Maintenance and Testing Requirements (Confidence: 90%)
+Missing from: BOTH
+California law requires specific maintenance, testing, and record-keeping procedures for AEDs. While the policy mentions maintenance guidelines will be developed, neither document establishes the required maintenance schedule or documentation requirements.
+
+Legal Basis:
+- Health and Safety Code Section 1797.196(c): "The automated external defibrillator shall be maintained and tested according to the manufacturer's operational guidelines and shall be checked for readiness after each use and at least once every 30 days if the unit has not been used."
+
+Required Language:
+AEDs shall be maintained and tested according to manufacturer's operational guidelines and checked for readiness after each use and at least once every 30 days if unused. Documentation of all maintenance, testing, and readiness checks shall be maintained.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Emergency Medical Services Notification Requirement (Confidence: 85%)
+Missing from: BOTH
+California law requires immediate notification of emergency medical services when an AED is used. This critical emergency response requirement is not addressed in either document.
+
+Legal Basis:
+- Health and Safety Code Section 1797.196(d): "Any person who renders emergency care or treatment on a person in cardiac arrest by using an automated external defibrillator shall activate the emergency medical services system as soon as possible."
+
+Required Language:
+When an AED is used on any person, emergency medical services (911) shall be activated immediately, regardless of the outcome of the AED use.
+
+Recommended Placement: AR
+
+----------------------------------------
+

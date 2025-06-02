@@ -1,0 +1,78 @@
+{
+  "code": "1112",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1112",
+    "title": "Media Relations",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1112.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Media Relations Implementation",
+        "description": "While the Board Policy establishes the framework for media relations, there is no corresponding Administrative Regulation to provide specific implementation procedures. The policy references several areas that require detailed procedures including media communications plans, crisis communications plans, training protocols, and specific processes for handling media requests. Without an AR, staff lack clear procedural guidance for consistent implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: (1) Specific procedures for processing media requests; (2) Step-by-step protocols for student interviews and photography; (3) Detailed crisis communication procedures; (4) Forms and processes for parent opt-out requests; (5) Training schedules and content for designated spokespersons; (6) Contact information and escalation procedures; (7) Timeline requirements for responding to media inquiries.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing FERPA Compliance Language",
+        "description": "The policy lacks specific reference to FERPA (Family Educational Rights and Privacy Act) requirements for protecting student educational records and directory information. While the policy mentions not releasing \"private or confidential\" information, it doesn't specifically cite FERPA protections or procedures for handling directory information requests from media.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 1232g (FERPA) and Education Code Section 49073",
+            "text": "Educational agencies and institutions shall protect the privacy of education records and may disclose directory information only in accordance with FERPA requirements and after providing proper notice to parents."
+          }
+        ],
+        "required_language": "All media access to student information shall comply with the Family Educational Rights and Privacy Act (FERPA) and Education Code Section 49073. Directory information may only be released in accordance with the district's annual FERPA notice and opt-out procedures. No personally identifiable information from education records may be disclosed without prior written consent except as permitted by FERPA.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Brown Act Compliance for Media Access to Board Meetings",
+        "description": "While the policy states that media representatives are welcome at Board meetings and shall receive agendas upon request, it lacks specific reference to Brown Act requirements for public meeting access and doesn't address timing requirements for agenda distribution or media accommodation procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 54950 et seq. (Brown Act)",
+            "text": "All meetings of a legislative body of a local agency shall be open and public, and all persons shall be permitted to attend unless a closed session is authorized. Agendas must be posted at least 72 hours in advance of regular meetings."
+          }
+        ],
+        "required_language": "Media access to Board meetings shall comply with the Ralph M. Brown Act (Government Code Section 54950 et seq.). Meeting agendas shall be provided to media representatives in accordance with Brown Act timing requirements. The district shall reasonably accommodate media representatives consistent with Brown Act provisions for public meeting access.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2009 and may not reflect current legal requirements, technology changes, or best practices in media relations. Regular policy review is recommended to ensure continued compliance and effectiveness.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "School districts should regularly review and update policies to ensure compliance with current law and effective governance."
+          }
+        ],
+        "required_language": "This policy should be reviewed and updated to reflect current legal requirements, technological changes in media communications, and current best practices. Consider adding provisions for social media, digital communications, and updated privacy protections.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:20:09.744883+00:00"
+}

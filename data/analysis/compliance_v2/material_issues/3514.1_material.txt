@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3514.1: Hazardous Substances
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Asbestos Management Requirements (Confidence: 85%)
+Missing from: BOTH
+California requires school districts to maintain an asbestos management plan and conduct periodic inspections. This is a critical health and safety requirement that must be addressed in district policy or regulation.
+
+Legal Basis:
+- Education Code 49410.5: Each school district shall maintain an asbestos management plan for each school site and shall make the plan available for inspection by the public during normal business hours.
+
+Required Language:
+The district shall maintain an asbestos management plan for each school site in accordance with federal and state requirements. The plan shall be available for public inspection during normal business hours and shall include procedures for periodic surveillance, response actions, and notification requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Lead-Based Paint Requirements (Confidence: 90%)
+Missing from: BOTH
+Districts must address lead-based paint hazards in facilities, particularly regarding renovation and maintenance activities that could disturb lead paint.
+
+Legal Basis:
+- Health and Safety Code 105250-105265: Public agencies shall comply with lead-based paint requirements including testing, notification, and safe work practices when conducting renovation or maintenance activities.
+
+Required Language:
+The district shall comply with all lead-based paint requirements including testing, notification procedures, and safe work practices for renovation and maintenance activities that may disturb lead-based paint in facilities built before 1978.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Indoor Air Quality Requirements (Confidence: 80%)
+Missing from: BOTH
+California requires districts to address indoor air quality issues and maintain healthy learning environments, including procedures for addressing mold and other air quality concerns.
+
+Legal Basis:
+- Education Code 17608: School districts shall maintain indoor air quality that supports a healthy learning environment and shall address issues such as mold, chemical contaminants, and ventilation adequacy.
+
+Required Language:
+The district shall maintain indoor air quality standards that support healthy learning environments, including procedures for identifying, evaluating, and addressing mold, chemical contaminants, and ventilation issues.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Integrated Pest Management Requirements (Confidence: 95%)
+Missing from: BOTH
+California law requires school districts to implement integrated pest management programs and provide specific notifications regarding pesticide use.
+
+Legal Basis:
+- Food and Agricultural Code 13181-13186: School districts shall implement integrated pest management programs and provide advance notification to parents, guardians, and staff regarding pesticide applications on school grounds.
+
+Required Language:
+The district shall implement an integrated pest management program that emphasizes non-chemical pest control methods. When pesticides must be used, the district shall provide advance notification to parents, guardians, and staff as required by law and maintain a registry of individuals requesting notification.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4161.8: Family Care And Medical Leave
+Last Reviewed: 11/06/2024
+================================================================================
+
+Missing Military Family Leave Provisions (Confidence: 90%)
+Missing from: BOTH
+While the regulation mentions qualifying exigency and military caregiver leave briefly, it lacks comprehensive coverage of military family leave rights required under both FMLA and California Military Family Leave Act. The regulation does not adequately define "qualifying exigency" or provide detailed procedures for military family leave.
+
+Legal Basis:
+- Military and Veterans Code Section 395.10: An employee shall be entitled to up to 10 days of unpaid leave while the employee's spouse or registered domestic partner is on leave from deployment during a period of military conflict.
+
+Required Language:
+Eligible employees shall be entitled to military family leave including: (1) up to 10 days unpaid leave when spouse/domestic partner is on leave from military deployment, (2) qualifying exigency leave for military deployment activities, and (3) up to 26 weeks to care for covered servicemembers. Qualifying exigencies include short-notice deployment, military events, childcare arrangements, financial arrangements, counseling, rest and recuperation, and post-deployment activities.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Incomplete Notice Requirements to Employees (Confidence: 85%)
+Missing from: BOTH
+The regulation lacks specific requirements for notices that must be provided to employees about their FMLA/CFRA rights, including general notice posting requirements and individual eligibility/rights notices required by federal and state law.
+
+Legal Basis:
+- 2 CCR Section 11091: Every covered employer shall post and keep posted on its premises, in conspicuous places where employees are employed, a notice setting forth pertinent provisions of the CFRA and information pertaining to the filing of a complaint.
+
+Required Language:
+The district shall post FMLA and CFRA notices in conspicuous locations and provide individual written notice to employees of their eligibility and rights within five business days of learning of the need for leave. The notice shall specify whether leave will be designated as FMLA/CFRA qualifying and count against the employee's annual entitlement.
+
+Recommended Placement: AR
+
+----------------------------------------
+

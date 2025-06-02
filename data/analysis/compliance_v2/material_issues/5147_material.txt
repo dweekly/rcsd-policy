@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5147: Dropout Prevention
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Student Success Team (SST) Process Requirements (Confidence: 90%)
+Missing from: BOTH
+California requires districts to establish Student Success Team processes for at-risk students as part of dropout prevention efforts. Neither the policy nor regulation addresses SST procedures, referral processes, or intervention planning requirements.
+
+Legal Basis:
+- Education Code Section 48321: Districts shall establish procedures for identifying students at risk of retention and provide appropriate intervention through student success teams
+
+Required Language:
+Procedures for Student Success Team referrals, composition, meeting requirements, intervention planning, and follow-up monitoring for students identified as at-risk of dropping out.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Parent/Guardian Notification Requirements (Confidence: 85%)
+Missing from: BOTH
+State law requires specific parent notification procedures when students are identified as at-risk of dropping out. Neither document addresses mandatory parent communication, notification timelines, or involvement in intervention planning.
+
+Legal Basis:
+- Education Code Section 48260.5: Parents/guardians must be notified when students are identified as at-risk and involved in intervention planning
+
+Required Language:
+Requirements for timely parent/guardian notification when students are identified as at-risk of dropping out, including notification methods, timelines, and procedures for involving parents in intervention planning and monitoring.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Data Collection and Reporting Requirements (Confidence: 80%)
+Missing from: BOTH
+Districts must collect and report specific data on dropout prevention efforts and outcomes. Neither document addresses data collection procedures, reporting requirements, or program evaluation metrics required by state law.
+
+Legal Basis:
+- Education Code Section 52052: Districts must collect and report data on student outcomes including dropout rates and intervention effectiveness as part of LCAP requirements
+
+Required Language:
+Procedures for collecting, analyzing, and reporting data on at-risk student identification, intervention implementation, and program effectiveness, including annual reporting requirements and program evaluation metrics.
+
+Recommended Placement: AR
+
+----------------------------------------
+

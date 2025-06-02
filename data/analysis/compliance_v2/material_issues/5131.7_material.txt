@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5131.7: Weapons And Dangerous Instruments
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Gun-Free Schools Act Federal Reporting Requirement (Confidence: 95%)
+Missing from: BOTH
+Federal law requires districts to report firearm expulsions to the state, but neither the policy nor regulation addresses this mandatory reporting requirement to comply with the Gun-Free Schools Act.
+
+Legal Basis:
+- 20 USC 7961 (Gun-Free Schools Act): Each State receiving Federal funds under this Act shall have in effect a State law requiring local educational agencies to expel from school for a period of not less than 1 year a student who is determined to have brought a firearm to a school... Each State shall report to the Secretary on the implementation of this section.
+
+Required Language:
+The Superintendent or designee shall report to the California Department of Education any expulsion of a student for bringing a firearm to school as required by the Gun-Free Schools Act.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Law Enforcement Notification Timeline (Confidence: 90%)
+Missing from: BOTH
+While the policy states law enforcement must be notified when students possess weapons, it lacks the specific 24-hour reporting requirement mandated by California law for certain weapon violations.
+
+Legal Basis:
+- Education Code 48902(a): The principal of a school or the principal's designee shall, prior to the suspension or expulsion of any pupil, notify the appropriate law enforcement authorities of the county or city in which the school is situated of any acts of the pupil that may violate Section 245 of the Penal Code.
+
+Required Language:
+Law enforcement notification shall occur immediately, but no later than 24 hours after discovery of the weapon possession or assault with a weapon incident.
+
+Recommended Placement: AR
+
+----------------------------------------
+

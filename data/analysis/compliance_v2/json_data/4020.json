@@ -1,0 +1,78 @@
+{
+  "code": "4020",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4020",
+    "title": "Drug And Alcohol-Free Workplace",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4020.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for a drug and alcohol-free workplace, there is no Administrative Regulation to provide specific implementation procedures. Government Code 8355 requires districts to establish detailed procedures for program implementation, employee notification, disciplinary actions, and awareness programs.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 8355",
+            "text": "Each agency shall establish a drug-free awareness program to inform employees about all of the following: (a) The dangers of drug abuse in the workplace. (b) The agency's policy of maintaining a drug-free workplace. (c) Any available drug counseling, rehabilitation, and employee assistance programs. (d) The penalties that may be imposed upon employees for drug abuse violations occurring in the workplace."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to establish specific procedures for: 1) Employee notification and training processes, 2) Investigation procedures for suspected violations, 3) Disciplinary action protocols, 4) Rehabilitation program requirements and approval processes, 5) Documentation and reporting procedures, 6) Awareness program implementation details, and 7) Procedures for handling employee notifications of convictions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Good Faith Effort Requirement for Rehabilitation",
+        "description": "Federal law requires that employers make a good faith effort to continue to maintain a drug-free workplace, which includes specific requirements for employee rehabilitation efforts that are not detailed in the current policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "41 USC 8104",
+            "text": "The contractor or grantee shall make a good faith effort to continue to maintain a drug-free workplace through implementation of this section."
+          }
+        ],
+        "required_language": "The district shall make a good faith effort to maintain a drug-free workplace through implementation of this policy, including taking appropriate personnel action against employees who violate the policy and making good faith efforts to ensure employees participate in rehabilitation programs when required.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Outdated Legal Reference",
+        "description": "The policy references \"21 USC 81\" for controlled substance definitions, but this should reference the current Controlled Substances Act at 21 USC 802 et seq.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "21 USC 802",
+            "text": "The term \"controlled substance\" means a drug or other substance, or immediate precursor, included in schedule I, II, III, IV, or V of part B of this subchapter."
+          }
+        ],
+        "required_language": "Replace \"21 USC 81\" with \"21 USC 802 et seq.\" or \"the Controlled Substances Act (21 USC 801 et seq.)\"",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Notification Procedures",
+        "description": "While the policy mentions employee notification requirements, it lacks specific procedures for how employees will be notified of the policy and their obligations under it.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 8355",
+            "text": "Each agency shall establish a drug-free awareness program to inform employees"
+          }
+        ],
+        "required_language": "Establish specific procedures for notifying employees of the drug and alcohol-free workplace policy, including initial notification upon hire, annual reminders, and documentation of receipt of notification.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:32:17.650305+00:00"
+}

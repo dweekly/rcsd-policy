@@ -1,0 +1,78 @@
+{
+  "code": "6011",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6011",
+    "title": "Academic Standards",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6011.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Academic Standards Implementation",
+        "description": "California Education Code requires districts to have procedures for implementing academic standards, including alignment with state standards, assessment methods, and reporting mechanisms. The Board Policy establishes the framework but lacks the detailed implementation procedures that should be contained in an Administrative Regulation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 51226",
+            "text": "The governing board of each school district maintaining any of grades 9 to 12, inclusive, shall adopt course of study and graduation requirements that meet or exceed the statewide minimum course of study and graduation requirements."
+          }
+        ],
+        "required_language": "Administrative procedures detailing how academic standards will be implemented, monitored, and assessed, including specific processes for curriculum alignment, teacher training, student assessment, and progress reporting.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Lack of Specific State Standards Alignment Requirements",
+        "description": "While the policy mentions \"statewide standards,\" it does not specifically reference California's current academic standards (Common Core State Standards, Next Generation Science Standards, etc.) or establish procedures for maintaining alignment with state-adopted standards as they are updated.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 60605.8",
+            "text": "The state board shall adopt academically rigorous content standards and curriculum frameworks for pupils in kindergarten and grades 1 to 12, inclusive, in English language arts, mathematics, science, and history-social science."
+          }
+        ],
+        "required_language": "District academic standards shall align with and meet or exceed California's state-adopted content standards, including but not limited to the California Common Core State Standards, Next Generation Science Standards, and California History-Social Science Standards. The district shall maintain alignment as state standards are revised or updated.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing English Learner Standards Integration",
+        "description": "The policy lacks specific reference to English Language Development standards and how academic standards will be implemented for English learners, which is required under California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 305",
+            "text": "All children in California public schools shall be taught English by being taught in English and all children shall be placed in English language classrooms."
+          }
+        ],
+        "required_language": "Academic standards shall incorporate California English Language Development Standards to ensure English learners have access to grade-level content while developing English proficiency. The district shall provide appropriate instructional support to help English learners meet academic standards.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2010, predating significant changes to California's academic standards including adoption of Common Core State Standards and Next Generation Science Standards. While not a legal compliance issue per se, the outdated nature suggests the policy may not reflect current requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current state standards and requirements, with regular review cycles established.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:29:23.384077+00:00"
+}

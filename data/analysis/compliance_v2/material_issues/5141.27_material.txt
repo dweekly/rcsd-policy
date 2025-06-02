@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5141.27: Food Allergies/Special Dietary Needs
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Stock Epinephrine Auto-Injector Authorization (Confidence: 85%)
+Missing from: BOTH
+California law requires school districts to authorize trained personnel to use stock epinephrine auto-injectors for students experiencing anaphylaxis, even if the student does not have a known allergy or prescribed auto-injector. This is a critical safety requirement that could be life-saving in emergency situations.
+
+Legal Basis:
+- Education Code Section 49414: A school district may authorize one or more trained personnel to use epinephrine auto-injectors... for any student who may be experiencing anaphylaxis, regardless of known history.
+
+Required Language:
+The district may authorize trained personnel to use stock epinephrine auto-injectors for any student experiencing anaphylaxis, regardless of whether the student has a known allergy or prescribed auto-injector. Such authorization shall include procedures for obtaining, storing, and administering stock epinephrine auto-injectors in accordance with Education Code 49414.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Liability Protection Statement (Confidence: 75%)
+Missing from: BOTH
+The policy should include the liability protections provided under state law for personnel administering epinephrine auto-injectors in good faith, which is important for staff confidence and legal clarity.
+
+Legal Basis:
+- Education Code Section 49414: A person who administers an epinephrine auto-injector... shall not be subject to professional review, be liable in a civil action, or be subject to criminal prosecution for his or her acts or omissions, except for willful acts of misconduct.
+
+Required Language:
+Personnel who administer epinephrine auto-injectors in accordance with this policy and applicable law shall not be subject to professional review, civil liability, or criminal prosecution for their acts or omissions, except for willful acts of misconduct.
+
+Recommended Placement: BP
+
+----------------------------------------
+

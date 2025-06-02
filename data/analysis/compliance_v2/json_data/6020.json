@@ -1,0 +1,84 @@
+{
+  "code": "6020",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6020",
+    "title": "Parent Involvement",
+    "type": "Policy",
+    "last_reviewed": "12/06/2023",
+    "file_path": "data/extracted/policies/6020.txt"
+  },
+  "regulation": {
+    "code": "6020",
+    "title": "Parent Involvement",
+    "type": "Regulation",
+    "last_reviewed": "10/20/2021",
+    "file_path": "data/extracted/regulations/6020.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Parent Complaint Process for Title I Programs",
+        "description": "Federal law requires districts to establish a process for parents to submit complaints about the district's Title I parent and family engagement policy or activities. Neither the Board Policy nor Administrative Regulation includes procedures for parents to file complaints or how the district will respond to such complaints.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6318(a)(2)(G)",
+            "text": "The policy shall provide for the participation of parents and family members (including parents and family members who have limited English proficiency, parents and family members with disabilities, and parents and family members of migratory children), including providing information and school reports required under section 1111 in a format and, to the extent practicable, in a language such parents understand."
+          }
+        ],
+        "required_language": "The district shall establish procedures for parents and family members to submit complaints regarding the district's Title I parent and family engagement policy or activities. The district will investigate and respond to such complaints in a timely manner and provide parents with information about how to file complaints with the California Department of Education if not satisfied with the district's response.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing School-Parent Compact Distribution Requirements",
+        "description": "While the AR mentions that school-parent compacts must be developed, it does not specify that these compacts must be distributed to all parents of participating students as required by federal law. The distribution requirement is a mandatory element of Title I compliance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6318(d)(1)",
+            "text": "Each school served under this part shall jointly develop with parents for all children served under this part a school-parent compact that outlines how parents, the entire school staff, and students will share the responsibility for improved student academic achievement and the means by which the school and parents will build and develop a partnership to help children achieve the State's high standards."
+          }
+        ],
+        "required_language": "The school-parent compact shall be distributed to all parents and family members of participating students and shall be made available to the local community. Parents shall be notified of the compact in an understandable and uniform format and, to the extent practicable, provided in a language the parents can understand.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Incomplete Reference to Parent Information and Resource Centers",
+        "description": "Both documents mention informing parents about parent information and resource centers but do not specify the requirement to inform parents about federally funded Parent Information and Resource Centers (PIRCs) and Community Parent Resource Centers (CPRCs) as required by federal law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6318(a)(2)(B)(vii)",
+            "text": "inform parents and parent organizations of the existence and purpose of parent information and resource centers in the State that provide training, information, and support to parents of participating students"
+          }
+        ],
+        "required_language": "The district shall inform parents and parent organizations of the existence and purpose of federally funded Parent Information and Resource Centers (PIRCs) and Community Parent Resource Centers (CPRCs) in the state that provide training, information, and support to parents of participating students.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Timeline for Policy Review and Updates",
+        "description": "While the AR mentions that school policies should be \"periodically updated,\" neither document specifies the required annual review and update cycle for the district-level parent and family engagement policy as implied by federal requirements for continuous improvement.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6318(a)(2)(E)",
+            "text": "use the findings of such evaluation described in subparagraph (D) to design evidence-based strategies for more effective parental involvement, and to revise, if necessary, the parent and family engagement policy"
+          }
+        ],
+        "required_language": "The district's parent and family engagement policy shall be reviewed annually based on the evaluation findings and revised as necessary to improve effectiveness. Any revisions shall be developed jointly with parents and family members of participating students.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:29:27.068024+00:00"
+}

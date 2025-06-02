@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4314: Transfers
+Last Reviewed: 07/02/2013
+================================================================================
+
+Missing Consultation Requirements for Involuntary Transfers (Confidence: 90%)
+Missing from: BOTH
+While the AR mentions consultation with affected employees for involuntary transfers, it lacks specific requirements for meaningful consultation, timing, and the employee's right to respond or request reconsideration. Education Code and collective bargaining requirements typically mandate more detailed consultation procedures.
+
+Legal Basis:
+- Education Code Section 44955: No permanent employee shall be transferred from one school to another without his consent, except in case of emergency or to prevent undue disruption of the instructional program, and then only until such emergency is ended or such disruption is prevented.
+
+Required Language:
+Involuntary transfers shall only occur in cases of emergency or to prevent undue disruption of the instructional program. The district shall provide written notice of the reasons for transfer, allow the employee opportunity to respond, and limit the transfer duration to address the specific emergency or disruption.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Transfer Criteria and Selection Process (Confidence: 85%)
+Missing from: BOTH
+Neither document establishes clear, objective criteria for selecting employees for transfer or evaluating transfer requests. This creates potential for arbitrary decisions and may violate due process requirements and collective bargaining agreements.
+
+Legal Basis:
+- Education Code Section 44955: Transfers must be based on legitimate educational or operational needs, not arbitrary decisions.
+
+Required Language:
+Transfer decisions shall be based on objective criteria including: operational needs of the district, employee qualifications and certifications, seniority, performance evaluations, and specific program requirements. Selection process shall be fair, transparent, and consistently applied.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Timeline Requirements (Confidence: 80%)
+Missing from: BOTH
+The regulation uses vague language like "as soon as practicable" without establishing specific timelines for notifications and decisions. This fails to provide adequate due process protections and may conflict with collective bargaining agreement requirements.
+
+Legal Basis:
+- Government Code Section 3543.2: Public school employers must meet and confer in good faith regarding terms and conditions of employment, including transfer procedures and timelines.
+
+Required Language:
+Specific timelines must be established for: notification of intent to transfer (minimum 30 days when possible), employee response period (minimum 10 days), final decision notification (within specified timeframe), and effective date of transfer (allowing reasonable transition time).
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,69 @@
+{
+  "code": "6116",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6116",
+    "title": "Classroom Interruptions",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6116.txt"
+  },
+  "regulation": {
+    "code": "6116",
+    "title": "Classroom Interruptions",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6116.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Emergency Communication Procedures",
+        "description": "While the regulation mentions \"except in the case of emergencies,\" it fails to define what constitutes an emergency or establish clear procedures for emergency communications that may interrupt classroom instruction. California law requires districts to have comprehensive emergency procedures that include communication protocols.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32280-32289",
+            "text": "School districts shall develop comprehensive school safety plans that include emergency procedures and communication protocols during emergencies."
+          }
+        ],
+        "required_language": "Emergency interruptions shall be defined as situations involving immediate threats to health, safety, or security. Emergency communication procedures shall be established in accordance with the district's comprehensive school safety plan and may override normal classroom interruption restrictions when necessary to protect students and staff.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Lack of Visitor Policy Cross-Reference",
+        "description": "The regulation mentions that \"school visitors and observers shall make appointments in advance\" but does not reference the district's comprehensive visitor policy or security procedures. This creates potential gaps in implementation and enforcement.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51512",
+            "text": "School districts must regulate access to school grounds and establish procedures for visitors to ensure student safety and minimize disruption to the educational program."
+          }
+        ],
+        "required_language": "All visitor appointments and classroom observations shall comply with Board Policy and Administrative Regulation 1250 (Visitors/Outsiders) and applicable security procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 60,
+        "title": "Missing Staff Training Requirements",
+        "description": "The policy and regulation establish procedures for limiting classroom interruptions but do not address training requirements for staff on implementing these procedures or understanding exceptions for mandatory communications.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44259",
+            "text": "School districts shall provide appropriate training to certificated and classified staff to ensure effective implementation of district policies and procedures."
+          }
+        ],
+        "required_language": "Staff shall receive training on classroom interruption procedures, including identification of appropriate exceptions and emergency communication protocols.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:29:43.028858+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "0200",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "0200",
+    "title": "Goals For The School District",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/0200.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Local Control and Accountability Plan (LCAP) Goals Integration",
+        "description": "California requires school districts to adopt goals that align with their Local Control and Accountability Plan (LCAP). The policy contains general district goals but lacks specific reference to LCAP alignment and the eight state priority areas required for goal-setting.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52060",
+            "text": "The governing board of a school district shall adopt a local control and accountability plan using a template adopted by the state board... The local control and accountability plan shall include... annual goals, for all pupils and each subgroup of pupils identified pursuant to Section 52052, to be achieved for each of the state priorities."
+          }
+        ],
+        "required_language": "District goals shall align with and support the Local Control and Accountability Plan (LCAP) and address the eight state priority areas: basic services, implementation of state standards, parent engagement, student achievement, student engagement, school climate, course access, and other student outcomes.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Outdated Goal Timeline",
+        "description": "The policy contains specific goals with a 2013 deadline that has long passed (policy last updated 2009). This creates compliance issues as the district appears to lack current, measurable goals with realistic timelines.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52060(a)(4)",
+            "text": "The local control and accountability plan shall include... annual goals, for all pupils and each subgroup of pupils... to be achieved for each of the state priorities."
+          }
+        ],
+        "required_language": "Goals shall be updated regularly to reflect current timelines and shall include annual measurable outcomes. Specific goal timelines and targets shall be established through the LCAP process and updated annually.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Administrative Regulation for Goal Implementation",
+        "description": "While the policy establishes that goals should be adopted, there is no corresponding administrative regulation detailing the procedures for goal development, monitoring, reporting, and revision processes required for LCAP compliance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52061",
+            "text": "The governing board of the school district shall hold at least one public hearing to solicit the recommendations and comments of members of the public regarding the specific actions and expenditures proposed to be included in the local control and accountability plan."
+          }
+        ],
+        "required_language": "Procedures shall be established for: 1) Annual review and updating of district goals through the LCAP process, 2) Public engagement in goal-setting, 3) Progress monitoring and reporting, 4) Integration with budget development, and 5) Stakeholder consultation requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Student Subgroup Goals",
+        "description": "The policy does not specifically address the requirement to establish goals for student subgroups as required by state accountability measures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52052",
+            "text": "Subgroups of pupils means English learners, pupils who are eligible for free or reduced-price meals, pupils who are foster youth, and pupils who are classified as homeless."
+          }
+        ],
+        "required_language": "Goals shall address the performance and outcomes of all students, including specific subgroups: English learners, socioeconomically disadvantaged students, foster youth, homeless students, and students with disabilities.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:17:54.138031+00:00"
+}

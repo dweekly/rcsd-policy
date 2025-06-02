@@ -1,0 +1,20 @@
+Priority Ed Code Sections to Fetch
+==================================================
+
+EDC 45125.1: 8 citations
+EDC 32282: 6 citations
+EDC 44030.5: 6 citations
+EDC 48852.7: 5 citations
+EDC 49406: 4 citations
+EDC 32001: 3 citations
+EDC 39831.5: 3 citations
+EDC 44500: 3 citations
+PEN 11165.7: 2 citations
+EDC 48852.5: 2 citations
+EDC 51938: 2 citations
+EDC 51747.5: 2 citations
+EDC 51747: 2 citations
+EDC 39831: 1 citations
+EDC 45125: 1 citations
+GOV 12945: 1 citations
+EDC 51937: 1 citations

@@ -1,0 +1,99 @@
+{
+  "code": "3515",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3515",
+    "title": "Campus Security",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3515.txt"
+  },
+  "regulation": {
+    "code": "3515",
+    "title": "Campus Security",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3515.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Comprehensive School Safety Plan Requirements",
+        "description": "California law requires specific elements in comprehensive school safety plans that are not addressed in either the policy or regulation, including child abuse reporting procedures, disaster procedures, suspension/expulsion policies, procedures to notify teachers of dangerous pupils, discrimination/harassment policies, school dress codes, and safe ingress/egress procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282",
+            "text": "The comprehensive school safety plan shall include, but not be limited to, all of the following: (a) Child abuse reporting procedures, (b) Disaster procedures, (c) Suspension and expulsion policies, (d) Procedures to notify teachers of dangerous pupils, (e) A discrimination and harassment policy, (f) School dress code policies, (g) Procedures for safe ingress and egress of pupils, parents, and school employees to and from school."
+          }
+        ],
+        "required_language": "The comprehensive safety plan shall include: child abuse reporting procedures, disaster procedures, suspension and expulsion policies, procedures to notify teachers of dangerous pupils, discrimination and harassment policies, school dress code policies, and procedures for safe ingress and egress of pupils, parents, and school employees.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing School Safety Plan Review and Update Requirements",
+        "description": "California law requires that school safety plans be reviewed and updated by March 1 of each year, with specific review procedures involving school site councils or safety committees. Neither document specifies this mandatory timeline or review process.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32288",
+            "text": "The school site council or school safety planning committee shall review and update the school safety plan by March 1 of every year."
+          }
+        ],
+        "required_language": "The school site council or school safety planning committee shall review and update the comprehensive school safety plan by March 1 of every year.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing School Safety Planning Committee Requirements",
+        "description": "California law requires establishment of school safety planning committees with specific membership requirements including representatives of teachers, parents, classified employees, and other stakeholders. Neither document addresses committee composition or establishment.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32281",
+            "text": "Each school shall establish a school safety planning committee consisting of the following members: the principal or designee, one teacher who is a representative of the recognized certificated employee organization, one parent whose child attends the school, one classified employee who is a representative of the recognized classified employee organization, and other members, if desired."
+          }
+        ],
+        "required_language": "Each school shall establish a school safety planning committee consisting of: the principal or designee, one teacher representative of the recognized certificated employee organization, one parent whose child attends the school, one classified employee representative of the recognized classified employee organization, and other members as desired.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Emergency Response Procedures",
+        "description": "Neither document addresses required emergency response procedures for various types of emergencies, including natural disasters, violent incidents, and other campus emergencies as required by California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282(a)(2)(A)",
+            "text": "Disaster procedures, routine and emergency, including adaptations for pupils with disabilities in accordance with the federal Americans with Disabilities Act."
+          }
+        ],
+        "required_language": "Emergency response procedures shall address routine and emergency disaster procedures, including adaptations for pupils with disabilities in accordance with the Americans with Disabilities Act.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Penal Code Section 627 Series",
+        "description": "The regulation mentions visitor registration and trespassing prevention but does not reference the specific Penal Code sections that govern access to school grounds and provide authority for these procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Sections 627-627.10",
+            "text": "These sections establish requirements for visitor registration, identification, and procedures for removing unauthorized persons from school grounds."
+          }
+        ],
+        "required_language": "Visitor registration and access control procedures shall be implemented in accordance with Penal Code sections 627-627.10.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:28:55.072449+00:00"
+}

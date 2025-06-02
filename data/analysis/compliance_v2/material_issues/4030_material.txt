@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4030: Nondiscrimination In Employment
+Last Reviewed: 05/24/2023
+================================================================================
+
+Missing Federal Civil Rights Laws and Compliance Statement (Confidence: 85%)
+Missing from: BOTH
+The policy lacks explicit reference to federal civil rights laws (Title VII, ADA, ADEA, etc.) and a comprehensive compliance statement. While the policy covers protected characteristics, it should explicitly state compliance with major federal employment discrimination statutes to demonstrate full legal compliance and provide clear legal foundation.
+
+Legal Basis:
+- 5 CCR 4960: Requires districts to adopt policies that comply with applicable federal and state laws prohibiting discrimination
+
+Required Language:
+The district complies with applicable federal and state laws and regulations prohibiting discrimination in employment, including but not limited to Title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act, the Age Discrimination in Employment Act, Section 504 of the Rehabilitation Act of 1973, the Fair Employment and Housing Act, and Education Code sections relating to employment discrimination.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Notification to Applicants and Employees of Rights (Confidence: 90%)
+Missing from: BOTH
+Neither document explicitly requires notification to job applicants and employees of their rights under nondiscrimination laws or how to file complaints with external agencies. While the AR mentions DFEH/EEOC filing procedures, there's no requirement to proactively notify individuals of these rights.
+
+Legal Basis:
+- 5 CCR 4960: Districts shall notify applicants for employment and employees of their rights under federal and state nondiscrimination laws
+
+Required Language:
+The district shall notify job applicants and employees of their rights under federal and state nondiscrimination laws and their right to file complaints with the California Civil Rights Department and/or the Equal Employment Opportunity Commission.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Requirement for Supervisor Training on Reporting Obligations (Confidence: 95%)
+Missing from: BOTH
+While the policy states supervisors must report incidents they observe, neither document requires specific training for supervisors on their mandatory reporting obligations and legal requirements under California law.
+
+Legal Basis:
+- Government Code 12950.1: Requires employers to provide training to supervisory employees regarding their obligations to report harassment and discrimination
+
+Required Language:
+All supervisory employees shall receive training on their legal obligations to report incidents of discrimination, harassment, and retaliation, including the procedures for making such reports and the prohibition against retaliation for reporting.
+
+Recommended Placement: AR
+
+----------------------------------------
+

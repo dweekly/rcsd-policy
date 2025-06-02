@@ -1,0 +1,63 @@
+{
+  "code": "1313",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1313",
+    "title": "Civility",
+    "type": "Policy",
+    "last_reviewed": "09/22/2021",
+    "file_path": "data/extracted/policies/1313.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy establishes expectations for civil behavior and references various implementation activities (curriculum incorporation, staff development, community communication, response procedures) but lacks the corresponding Administrative Regulation that should detail the specific procedures for implementing these requirements. California school districts typically require both policy direction and administrative procedures to ensure effective implementation and compliance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program or activity or may otherwise act in any manner which is not in conflict with or inconsistent with or preempted by any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation 1313 should include: (1) Specific procedures for incorporating civility concepts into curriculum; (2) Requirements and frequency for staff development activities on civil behavior; (3) Methods for communicating the civility policy to the school community; (4) Specific procedures for responding to violations of civility expectations; (5) Process for reporting and documenting incidents; (6) Roles and responsibilities of district personnel in implementation; (7) Methods for monitoring and evaluating the effectiveness of civility initiatives.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Lack of Specific Complaint Process Reference",
+        "description": "While the policy references discipline procedures for unlawful behavior and disruptions, it does not specifically reference the Uniform Complaint Procedures (UCP) process that may be applicable for certain civility-related complaints, particularly those involving discrimination or harassment.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 234.1",
+            "text": "It is the policy of the State of California to afford all persons in public schools, regardless of their disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes, equal rights and opportunities in the educational institutions of the state."
+          }
+        ],
+        "required_language": "Reference to appropriate complaint procedures, including Uniform Complaint Procedures where applicable, for addressing violations of civility expectations that may constitute discrimination, harassment, or other prohibited conduct.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Williams Act Complaint Process",
+        "description": "The policy addresses disruptions that may hinder educational programs but does not reference the Williams Act complaint process for situations where incivility may impact the provision of basic educational services or create unsafe conditions.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35186",
+            "text": "Each school district, county office of education, and charter school shall establish a procedure to address complaints alleging that a public school has not complied with the requirements of Section 35186 relating to instructional materials, emergency or urgent facilities conditions that pose a threat to the health and safety of pupils or staff, and teacher vacancy or misassignment."
+          }
+        ],
+        "required_language": "Reference to Williams Act complaint procedures when civility violations create conditions that threaten health and safety or significantly disrupt the educational environment.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:22:09.639302+00:00"
+}

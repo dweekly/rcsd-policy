@@ -1,0 +1,78 @@
+{
+  "code": "3314.2",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3314.2",
+    "title": "Revolving Funds",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3314.2.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for revolving funds, there is no Administrative Regulation to provide detailed implementation procedures. Education Code requires specific operational procedures for revolving funds management, including accounting methods, documentation requirements, approval processes, and audit procedures that are typically detailed in administrative regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 42800-42806, 42810",
+            "text": "These sections require detailed procedures for revolving fund management, accounting, and oversight that need operational implementation guidance beyond policy-level direction."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: procedures for fund establishment and management, documentation and record-keeping requirements, approval processes for expenditures, reconciliation procedures, audit requirements and frequency, bonding requirements implementation, and specific restrictions on fund usage.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Bonding Requirements Details",
+        "description": "While the policy mentions that revolving cash funds \"shall be subject to the bonding provisions of Education Code 42801,\" it does not specify the required bond amounts or implementation procedures. Education Code 42801 requires specific bonding amounts and procedures that need to be clearly established.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 42801",
+            "text": "Requires that persons handling revolving funds be bonded in amounts determined by the governing board, with specific minimum amounts and procedures for obtaining and maintaining bonds."
+          }
+        ],
+        "required_language": "Specific bond amounts required for different fund levels, procedures for obtaining bonds, requirements for bond maintenance and renewal, and consequences for failure to maintain proper bonding.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Detailed Audit Requirements and Procedures",
+        "description": "The policy states the Board \"shall provide an audit of revolving funds on a regular basis\" but does not specify the frequency, scope, or procedures for these audits as required by Education Code 42810.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 42810",
+            "text": "Requires regular auditing of revolving funds with specific procedures and accountability measures."
+          }
+        ],
+        "required_language": "Specific audit frequency (e.g., annually or more frequently), audit scope and procedures, documentation requirements, reporting requirements, and corrective action procedures for audit findings.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Documentation and Record-Keeping Requirements",
+        "description": "Neither the policy nor regulation specify the documentation requirements for revolving fund transactions, record retention periods, or accounting procedures, which are necessary for proper fund management and compliance verification.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 42804",
+            "text": "Requires accounting of funds upon request, implying need for proper documentation and record-keeping systems."
+          }
+        ],
+        "required_language": "Requirements for transaction documentation, receipt and invoice retention, record-keeping procedures, retention periods for revolving fund records, and procedures for providing fund accounting when requested.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:25:58.916281+00:00"
+}

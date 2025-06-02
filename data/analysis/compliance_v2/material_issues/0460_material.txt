@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 0460: Local Control And Accountability Plan
+Last Reviewed: 04/19/2023
+================================================================================
+
+Missing IDEA Addendum Development Process (Confidence: 95%)
+Missing from: BOTH
+While the BP mentions the IDEA Addendum requirement, neither document provides the required procedural details for developing, reviewing, and approving the IDEA Addendum, including stakeholder consultation requirements and timeline specifications.
+
+Legal Basis:
+- Education Code 52064.3: The IDEA addendum shall be developed, reviewed, and approved in conjunction with and in the same manner as the LCAP and the annual update to the LCAP, and shall be submitted to CDE within 15 days of adoption by the Board.
+
+Required Language:
+The IDEA Addendum shall be developed through the same stakeholder consultation process as the LCAP, including consultation with teachers, principals, administrators, other school personnel, employee bargaining units, parents/guardians, and students. The parent advisory committee and English learner parent advisory committee (if applicable) shall review and provide input on the IDEA Addendum. The Superintendent or designee shall submit the adopted IDEA Addendum to the California Department of Education within 15 days of Board adoption.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing LCFF Budget Overview Development Process (Confidence: 90%)
+Missing from: BOTH
+While the BP mentions adopting the LCFF Budget Overview for Parents, neither document specifies the procedural requirements for developing this document or its relationship to the stakeholder consultation process.
+
+Legal Basis:
+- Education Code 52064.1: The budget overview shall be adopted, reviewed, and approved in the same manner as the LCAP and the annual update.
+
+Required Language:
+The LCFF Budget Overview for Parents shall be developed using the template adopted by the State Board of Education and shall be presented to the parent advisory committee and English learner parent advisory committee (if applicable) for review and comment before Board adoption. The budget overview shall be adopted at the same meeting as the LCAP adoption.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Incomplete Student Advisory Committee Requirements (Confidence: 85%)
+Missing from: BOTH
+The BP mentions student advisory committee options but doesn't specify the procedural requirements for establishing, operating, or integrating student advisory committees into the LCAP process.
+
+Legal Basis:
+- Education Code 52063: Student members of the parent advisory committee or the student advisory committee shall represent the diversity of the district's students, including geographical, socioeconomic, cultural, physical, and educational diversity, and particular effort shall be made to reach out to at-risk or disadvantaged students to serve as members of such committees.
+
+Required Language:
+If a student advisory committee is established, it shall include students representing the diversity of the district's students, including geographical, socioeconomic, cultural, physical, and educational diversity. The district shall make particular effort to recruit at-risk or disadvantaged students. The committee shall review and provide input on LCAP development, and the Superintendent or designee shall respond in writing to comments received from the student advisory committee.
+
+Recommended Placement: AR
+
+----------------------------------------
+

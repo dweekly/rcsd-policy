@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5116: School Attendance Boundaries
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Public Notice and Hearing Requirements for Boundary Changes (Confidence: 95%)
+Missing from: BOTH
+California Education Code requires specific public notice and hearing procedures when school attendance boundaries are changed. The policy lacks required notification timelines, hearing procedures, and public participation requirements that are mandated by state law.
+
+Legal Basis:
+- Education Code Section 35160.5(b): Before adopting a policy to close a school site or to change the attendance boundaries of school sites, the governing board of a school district shall, at a regularly scheduled meeting, take public testimony from parents, teachers, and other interested parties.
+
+Required Language:
+Before adopting any changes to school attendance boundaries, the Board shall hold a public hearing at a regularly scheduled Board meeting to receive testimony from parents, teachers, and other interested parties. Notice of the proposed boundary changes and public hearing shall be provided in accordance with applicable law.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Notification Timeline Requirements (Confidence: 85%)
+Missing from: BOTH
+While the policy mentions that parents/guardians shall be notified "as soon as possible" when students are placed outside their attendance area, it lacks specific timeline requirements that provide adequate notice for families to plan.
+
+Legal Basis:
+- Education Code Section 48980: At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify the parent or guardian of a minor pupil regarding the rights and responsibilities of parents and guardians.
+
+Required Language:
+Parents/guardians shall be provided written notice of school assignment changes at least 30 days prior to the effective date when practicable, or as soon as possible in emergency situations, but in no case less than 10 days before the change takes effect.
+
+Recommended Placement: AR
+
+----------------------------------------
+

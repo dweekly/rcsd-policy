@@ -1,0 +1,108 @@
+{
+  "code": "6157",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6157",
+    "title": "Distance Learning",
+    "type": "Policy",
+    "last_reviewed": "09/23/2020",
+    "file_path": "data/extracted/policies/6157.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Distance Learning Implementation",
+        "description": "California Education Code requires specific procedural elements for distance learning programs that are typically contained in administrative regulations. While the Board Policy establishes general direction, detailed implementation procedures are missing entirely due to the absence of an Administrative Regulation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 51745-51749.3",
+            "text": "Establishes requirements for distance learning programs including specific procedures for enrollment, attendance tracking, teacher qualifications, and program evaluation."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to establish detailed procedures for implementing distance learning programs as outlined in the Board Policy.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Attendance Tracking Procedures",
+        "description": "Distance learning programs must have specific procedures for tracking and documenting student attendance and participation. Neither the policy nor regulation addresses how attendance will be measured and recorded for distance learning students.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 51747.5",
+            "text": "Requires that attendance for distance learning be based on evidence of participation in online activities, completion of assignments, or other measures of student engagement."
+          }
+        ],
+        "required_language": "Procedures for measuring and documenting student attendance in distance learning programs, including specific criteria for determining daily participation and engagement.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Teacher Certification Requirements",
+        "description": "Distance learning programs must specify that teachers hold appropriate California teaching credentials. While the policy mentions teacher training, it does not address the fundamental requirement for proper certification.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 51747.5(a)",
+            "text": "Requires that distance learning courses be taught by teachers who hold appropriate California teaching credentials for the subject area and grade level."
+          }
+        ],
+        "required_language": "All distance learning instruction shall be provided by teachers who hold appropriate California teaching credentials for the subject area and grade level being taught.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Instructional Time Requirements",
+        "description": "Distance learning programs must meet minimum instructional time requirements equivalent to in-person instruction. Neither document addresses how instructional minutes will be calculated and documented for distance learning.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 47612.5",
+            "text": "Distance learning instructional time shall be calculated based on time value of assignments as determined by the certificated employee."
+          }
+        ],
+        "required_language": "Distance learning programs shall meet minimum instructional time requirements, with instructional time calculated based on the time value of assignments as determined by certificated staff.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 92,
+        "title": "Missing Student-Teacher Interaction Requirements",
+        "description": "California law requires specific minimum levels of synchronous and asynchronous interaction between teachers and students in distance learning programs. The policy mentions interaction but does not specify required frequencies or types.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 43503(b)(2)",
+            "text": "Distance learning must include daily live interaction between students and certificated employees and peers for purposes of instruction, progress monitoring, and maintaining school connectedness."
+          }
+        ],
+        "required_language": "Distance learning programs shall include daily live interaction between students and certificated employees, and regular interaction with peers, for purposes of instruction, progress monitoring, and maintaining school connectedness.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Parent Notification Procedures",
+        "description": "While the policy mentions communication with parents/guardians, it lacks specific procedures for notifying parents about distance learning program enrollment, expectations, and student progress monitoring.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 51747",
+            "text": "Requires specific parent notification and consent procedures for distance learning enrollment."
+          }
+        ],
+        "required_language": "Procedures for notifying parents/guardians about distance learning program enrollment, obtaining necessary consents, and providing regular progress updates.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:32:42.484522+00:00"
+}

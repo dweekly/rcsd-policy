@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4319.11: Sex Discrimination and Sex-Based Harassment
+Last Reviewed: 04/27/2022
+================================================================================
+
+Missing Mandatory Reporting Requirements for Sexual Assault (Confidence: 95%)
+Missing from: BOTH
+California law requires that employees who are mandated reporters must report suspected sexual assault to law enforcement and child protective services when it involves minors. The policy and regulation fail to address the intersection between sexual harassment complaints and mandatory reporting obligations, which could result in failure to comply with legal reporting requirements.
+
+Legal Basis:
+- Penal Code Section 11166: A mandated reporter who has knowledge of or observes a child whom the mandated reporter knows or reasonably suspects has been the victim of child abuse or neglect shall report the known or suspected instance of child abuse or neglect to a child protective agency immediately or as soon as practically possible by telephone and shall prepare and send a written report thereof within 36 hours of receiving the information concerning the incident.
+
+Required Language:
+When a complaint of sexual harassment involves suspected child abuse or sexual assault of a minor, employees who are mandated reporters must comply with child abuse reporting requirements under Penal Code Section 11166, including immediate reporting to child protective services and law enforcement, in addition to following district complaint procedures.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Specific Prohibition Against Discrimination Based on Pregnancy (Confidence: 90%)
+Missing from: BOTH
+While the BP mentions harassment based on pregnancy, neither document explicitly prohibits discrimination in employment decisions based on pregnancy, childbirth, or related medical conditions as required by the Fair Employment and Housing Act.
+
+Legal Basis:
+- Government Code Section 12945: It shall be an unlawful employment practice for an employer to refuse to hire or employ a person or to refuse to select a person for a training program leading to employment, or to bar or to discharge a person from employment or from a training program leading to employment, or to discriminate against a person in compensation or in terms, conditions, or privileges of employment because of pregnancy, childbirth, or related medical conditions.
+
+Required Language:
+The district prohibits discrimination in employment decisions based on pregnancy, childbirth, or related medical conditions, including but not limited to hiring, promotion, termination, compensation, and terms and conditions of employment.
+
+Recommended Placement: BP
+
+----------------------------------------
+

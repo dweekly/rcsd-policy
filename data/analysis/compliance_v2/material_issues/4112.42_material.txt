@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4112.42: Drug And Alcohol Testing For School Bus Drivers
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Supervisor Training Requirements (Confidence: 90%)
+Missing from: BOTH
+Federal regulations mandate specific training for supervisors who may be required to make reasonable suspicion determinations. This training requirement is not addressed in either the policy or regulation.
+
+Legal Basis:
+- 49 CFR 382.113: Each employer shall ensure that all persons designated to supervise drivers receive at least 60 minutes of training on alcohol misuse and receive at least an additional 60 minutes of training on controlled substances use. The training will be used by the supervisors to determine whether reasonable suspicion exists to require a driver to undergo testing.
+
+Required Language:
+All supervisors designated to make reasonable suspicion determinations shall receive at least 60 minutes of training on alcohol misuse and at least 60 minutes of training on controlled substances use, covering the physical, behavioral, speech, and performance indicators of probable alcohol misuse and use of controlled substances.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Employee Assistance Program Information (Confidence: 85%)
+Missing from: BOTH
+Federal regulations require employers to provide information about available resources for evaluating and resolving problems associated with alcohol and controlled substance misuse, including names and telephone numbers of substance abuse professionals and counseling services.
+
+Legal Basis:
+- 49 CFR 382.605: Each employer shall provide educational materials that explain the requirements of this part together with a copy of the employer's policy and procedures with respect to meeting those requirements... The employer shall ensure that a copy of these materials is distributed to each driver prior to the start of alcohol and controlled substances testing under the employer's program and to each driver subsequently hired or transferred into a position requiring driving a commercial motor vehicle.
+
+Required Language:
+The district shall provide information to drivers about available resources for evaluating and resolving problems associated with alcohol misuse and controlled substance use, including names, addresses, and telephone numbers of substance abuse professionals and counseling and treatment programs.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Record Retention Requirements (Confidence: 90%)
+Missing from: BOTH
+Federal regulations specify detailed record retention requirements for drug and alcohol testing programs, including specific timeframes for different types of records. These requirements are not addressed in the policy.
+
+Legal Basis:
+- 49 CFR 382.401: Each employer shall maintain records of its alcohol misuse and controlled substances use prevention program as provided in this section. The records shall be maintained in a secure location with controlled access.
+
+Required Language:
+The district shall maintain records of alcohol and controlled substance testing in a secure location with controlled access for the periods specified in federal regulations: five years for records of driver alcohol test results showing an alcohol concentration of 0.02 or greater, records of driver controlled substance test results showing a verified positive result, documentation of refusals to take required tests, calibration documentation, and driver evaluation and referrals.
+
+Recommended Placement: AR
+
+----------------------------------------
+

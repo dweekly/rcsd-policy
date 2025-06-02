@@ -1,0 +1,63 @@
+{
+  "code": "4135",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4135",
+    "title": "Soliciting And Selling",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4135.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the general prohibition against soliciting and selling, there is no Administrative Regulation to provide specific implementation procedures, enforcement mechanisms, or consequences for violations. This creates a gap in how the policy should be operationalized by administrators and staff.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: (1) Procedures for reporting violations; (2) Investigation process for alleged violations; (3) Disciplinary consequences for violations; (4) Process for requesting exceptions or approvals for charitable solicitations; (5) Guidelines for what constitutes acceptable vs. prohibited solicitation activities; (6) Supervisor responsibilities for monitoring compliance.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Lack of Specific Reference to Charitable Organization Approval Process",
+        "description": "The policy mentions that solicitation \"on behalf of the school or other charitable organizations shall be conducted in accordance with applicable Board policy and administrative regulation\" but does not specify which policy/regulation governs this process or provide clear criteria for approval.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51520",
+            "text": "No person shall solicit pupils or parents of pupils of any public school to purchase or sell any goods, wares, merchandise or services, or to contribute money or anything of value, except as provided in this article."
+          }
+        ],
+        "required_language": "Reference to specific board policy governing charitable solicitations (typically BP 1321 - Solicitation of Funds from and by Students) or establish clear criteria and approval process for charitable organization solicitations within this policy framework.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 60,
+        "title": "Missing Definition of Key Terms",
+        "description": "The policy uses terms like \"solicitation,\" \"general merchandise,\" and \"charitable organizations\" without providing clear definitions, which could lead to inconsistent interpretation and enforcement.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.1",
+            "text": "In enacting any rule, regulation, or policy, the governing board of a school district shall ensure that the rule, regulation, or policy is stated in a clear and coherent manner."
+          }
+        ],
+        "required_language": "Definitions section clarifying: \"Solicitation\" means any request for purchase, donation, or participation in commercial activities; \"General merchandise\" includes but is not limited to personal items, services, or business opportunities; \"Charitable organizations\" means qualified tax-exempt organizations under Internal Revenue Code Section 501(c)(3).",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:11:54.294362+00:00"
+}

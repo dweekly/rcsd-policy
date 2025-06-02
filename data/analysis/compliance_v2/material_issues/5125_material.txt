@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5125: Student Records
+Last Reviewed: 06/27/2018
+================================================================================
+
+Missing Annual Notification Requirements (Confidence: 95%)
+Missing from: BOTH
+California law requires districts to provide annual written notification to parents/guardians and adult students about their rights under FERPA and state law regarding student records. Neither the policy nor regulation specifies this mandatory annual notification requirement or its required contents.
+
+Legal Basis:
+- Education Code 49063: The parent or guardian of a pupil, or a pupil who is 18 years of age or older, shall be notified by the school district in writing of the rights accorded them by this chapter. The notification shall include, but not be limited to, the right to inspect and review the pupil's educational records and the procedures for challenging the content of those records.
+
+Required Language:
+The district shall provide annual written notification to parents/guardians and adult students of their rights under state and federal law regarding student records, including but not limited to: the right to inspect and review educational records, procedures for challenging record content, categories of information designated as directory information, and procedures for requesting that directory information not be released without prior consent.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Directory Information Definition and Opt-Out Procedures (Confidence: 90%)
+Missing from: BOTH
+While the regulation mentions "directory information" in exclusions from student records, neither document defines what constitutes directory information or establishes procedures for parents/students to opt out of directory information disclosure, as required by law.
+
+Legal Basis:
+- Education Code 49073: Each school district shall inform parents and guardians of pupils in attendance and pupils in attendance who are 18 years of age or older of the categories of directory information which it has designated and of their right to refuse to let the district disclose any or all of such directory information upon written notification to the district.
+
+Required Language:
+Directory information includes: student's name, address, telephone number, email address, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and most recent previous educational agency or institution attended. Parents/guardians and adult students may refuse disclosure of directory information by providing written notification to the district within 30 days of receiving annual notification.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Record Challenge and Hearing Procedures (Confidence: 85%)
+Missing from: BOTH
+Neither document establishes specific procedures for parents/students to challenge the content of student records or request hearings when they believe records are inaccurate, misleading, or violate privacy rights, as required by state and federal law.
+
+Legal Basis:
+- Education Code 49070: The parent or guardian of a pupil or former pupil, or the pupil if he is 18 years of age or older, may file a written request with the superintendent of the school district to correct or remove from any pupil record any information concerning the pupil which is alleged to be any of the following: (a) Inaccurate. (b) An unsubstantiated personal conclusion or inference. (c) A conclusion or inference outside of the observer's area of competence. (d) Not based on the personal observation of a named person with the time and place of the observation noted. (e) Misleading. (f) In violation of the privacy or other rights of the pupil.
+
+Required Language:
+Parents/guardians and adult students may request correction or removal of student record information by filing a written request with the Superintendent. If the district refuses the request, the parent/guardian or adult student may request a hearing before a hearing panel. The hearing panel shall consist of persons who do not have a direct interest in the outcome of the hearing. Specific procedures for requesting hearings, notice requirements, and appeal processes shall be established and communicated to parents/students.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Record Retention and Destruction Schedule (Confidence: 80%)
+Missing from: BOTH
+While the regulation defines mandatory permanent, mandatory interim, and permitted records, neither document specifies the required retention periods or destruction procedures for different categories of student records as mandated by California regulations.
+
+Legal Basis:
+- 5 CCR 432: Mandatory interim pupil records shall be maintained for a minimum period of five years after the pupil completes or withdraws from the educational program, whereupon they shall be destroyed. Permitted pupil records shall be destroyed no later than one year after the pupil completes or withdraws from the educational program.
+
+Required Language:
+Mandatory permanent records shall be maintained in perpetuity. Mandatory interim records shall be maintained for a minimum of five years after the student completes or withdraws from the educational program, then destroyed. Permitted records shall be destroyed no later than one year after the student completes or withdraws from the educational program. The district shall establish procedures for secure destruction of records and maintain logs of destroyed records.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,93 @@
+{
+  "code": "5131",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5131",
+    "title": "Conduct",
+    "type": "Policy",
+    "last_reviewed": "05/06/2020",
+    "file_path": "data/extracted/policies/5131.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Student Conduct Implementation",
+        "description": "California Education Code requires detailed procedures for implementing student conduct policies, including specific disciplinary procedures, due process requirements, and implementation guidelines. The Board Policy establishes the framework but lacks the detailed \"how\" of implementation that must be contained in an Administrative Regulation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48900 et seq.",
+            "text": "Requires specific procedures for student discipline, including grounds for suspension/expulsion and due process requirements"
+          }
+        ],
+        "required_language": "Administrative Regulation must include: detailed disciplinary procedures, progressive discipline guidelines, due process requirements, notification procedures to parents/guardians, appeal processes, and specific implementation steps for each type of misconduct listed in the policy.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Due Process Procedures",
+        "description": "While the policy references that students may be subject to discipline, it lacks specific due process procedures required by California law, including notice requirements, hearing procedures, and appeal rights that must be detailed in either policy or regulation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48911",
+            "text": "Requires specific notice and hearing procedures before suspension or expulsion"
+          }
+        ],
+        "required_language": "Must include specific procedures for providing notice to students and parents/guardians, informal conference requirements, formal hearing procedures, and timeline requirements for disciplinary actions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Progressive Discipline Framework",
+        "description": "California law emphasizes alternatives to suspension and progressive discipline approaches. The policy lacks specific guidance on when different disciplinary measures should be applied and what alternatives must be considered before suspension or expulsion.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48900.5",
+            "text": "Requires consideration of alternatives to suspension and expulsion, including restorative justice practices"
+          }
+        ],
+        "required_language": "Must include progressive discipline procedures, alternatives to suspension/expulsion that must be considered, restorative justice options, and criteria for determining appropriate disciplinary responses.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Specific Notification Requirements",
+        "description": "While the policy states that students and parents will be notified of rules, it lacks specific requirements for how, when, and what information must be provided in disciplinary notifications as required by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48900.8",
+            "text": "Requires specific notification procedures and content for disciplinary actions"
+          }
+        ],
+        "required_language": "Must specify notification timelines, required content of disciplinary notices, methods of delivery, language translation requirements, and documentation requirements for all notifications.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Special Education Protections",
+        "description": "The policy should reference additional protections and procedures required for students with disabilities under IDEA and Section 504 when implementing disciplinary measures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48915.5",
+            "text": "Requires additional procedures for students with disabilities in disciplinary matters"
+          }
+        ],
+        "required_language": "Must reference that students with disabilities are subject to additional protections under federal and state law, and that disciplinary procedures must comply with IEP and 504 plan requirements.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:21:35.270698+00:00"
+}

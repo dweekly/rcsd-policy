@@ -1,0 +1,63 @@
+{
+  "code": "4112.62",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4112.62",
+    "title": "Maintenance of Criminal Offender Records",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4112.62.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Framework",
+        "description": "California Education Code requires school districts to establish board policies for criminal background check procedures. The district has only an Administrative Regulation without the foundational Board Policy that should establish the district's commitment to maintaining criminal offender records in compliance with state law, define roles and responsibilities at the governance level, and provide the policy framework that the regulation implements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44830.1, 45125",
+            "text": "Districts must establish procedures for maintaining confidential criminal history information received from the Department of Justice, requiring both policy direction and implementation procedures."
+          }
+        ],
+        "required_language": "The Board recognizes its responsibility to maintain criminal offender records in accordance with state law. The district shall establish procedures to ensure the confidential handling, storage, and destruction of criminal history information received from the Department of Justice. The Superintendent or designee shall implement administrative regulations to ensure compliance with all applicable state and federal requirements regarding criminal offender record information.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Outdated Regulatory References",
+        "description": "The regulation references 11 CCR 701-708, but these regulations have been updated and renumbered over time. The district should verify current regulatory citations to ensure compliance with the most recent Department of Justice requirements for criminal offender record information handling.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "11 CCR 701-708 (now potentially renumbered)",
+            "text": "Current California Code of Regulations requirements for destruction, storage, dissemination, auditing, backgrounding and training requirements for criminal offender records."
+          }
+        ],
+        "required_language": "Update regulatory citations to current California Code of Regulations sections governing criminal offender record information handling and verify compliance with current Department of Justice requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Training Requirements Detail",
+        "description": "While the regulation mentions training requirements in reference to 11 CCR 701-708, it does not specify the training requirements for the record custodian and other personnel who may have access to criminal offender records. Current regulations require specific training protocols.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "11 CCR 701-708",
+            "text": "Regulations require specific training for personnel handling criminal offender record information to ensure proper security and handling procedures."
+          }
+        ],
+        "required_language": "The record custodian and any personnel with access to criminal offender records shall receive training on the proper handling, security, and legal requirements for criminal history information as required by current Department of Justice regulations. Training shall be documented and updated as required by law.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:34:43.161917+00:00"
+}

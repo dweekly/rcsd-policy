@@ -1,0 +1,84 @@
+{
+  "code": "5141.31",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5141.31",
+    "title": "Immunizations",
+    "type": "Policy",
+    "last_reviewed": "02/09/2022",
+    "file_path": "data/extracted/policies/5141.31.txt"
+  },
+  "regulation": {
+    "code": "5141.31",
+    "title": "Immunizations",
+    "type": "Regulation",
+    "last_reviewed": "02/09/2022",
+    "file_path": "data/extracted/regulations/5141.31.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Notification Requirements for Disease Outbreaks",
+        "description": "California law requires school districts to notify parents/guardians when students are excluded due to disease exposure or outbreak situations. The policy and regulation address exclusion procedures but do not include the required notification to parents/guardians about the exclusion or the conditions for readmission.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code 120325",
+            "text": "The governing authority shall notify the parent or guardian of any minor excluded from school of the reason for exclusion and the conditions of readmission."
+          }
+        ],
+        "required_language": "When a student is excluded due to disease exposure, the Superintendent or designee shall notify the parent/guardian of the reason for exclusion and the conditions for readmission.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Requirement for Tuberculosis Risk Assessment",
+        "description": "California law requires tuberculosis risk assessment for school entry. While the regulation lists required immunizations, it does not address the mandatory tuberculosis risk assessment that must be completed before school entry.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code 121525",
+            "text": "No person shall be admitted to any public or private elementary or secondary school in this state unless he or she has been examined for tuberculosis."
+          }
+        ],
+        "required_language": "Students shall complete a tuberculosis risk assessment before admission to school. Students identified as high risk shall provide documentation of tuberculosis examination as required by the California Department of Public Health.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Annual Notification Requirements",
+        "description": "Education Code requires annual notification to parents about immunization requirements and their rights. While the regulation mentions providing notice upon registration, it does not address the required annual notification to all parents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48980",
+            "text": "At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify the parent or guardian of a minor pupil regarding rights and responsibilities including immunization requirements."
+          }
+        ],
+        "required_language": "At the beginning of each school year, parents/guardians shall be provided written notification of immunization requirements, exemption procedures, and their rights regarding immunizations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Grade Span Requirements",
+        "description": "The regulation references \"grade spans\" for exemptions but does not clearly define what constitutes each grade span as specified in state regulations. This could lead to confusion in implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "17 CCR 6000",
+            "text": "Grade span means birth to preschool, kindergarten through grade 6, and grades 7 through 12."
+          }
+        ],
+        "required_language": "For purposes of this regulation, \"grade span\" means: birth to preschool, kindergarten through grade 6, and grades 7 through 12.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:24:43.017416+00:00"
+}

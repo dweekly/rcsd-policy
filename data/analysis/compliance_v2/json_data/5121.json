@@ -1,0 +1,69 @@
+{
+  "code": "5121",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5121",
+    "title": "Grades/Evaluation Of Student Achievement",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5121.txt"
+  },
+  "regulation": {
+    "code": "5121",
+    "title": "Grades/Evaluation Of Student Achievement",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/5121.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Foster Care Student Grade Protection - Incomplete Regulation Text",
+        "description": "The Administrative Regulation begins to address foster care student grade protection under Education Code 49069.5 but the text is incomplete. It starts to list circumstances where foster care students' grades cannot be lowered due to absences but cuts off mid-sentence after only listing item 1 without completing it or providing item 2.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49069.5",
+            "text": "The grades of a pupil in foster care shall not be lowered due to absence from school that is due to either of the following circumstances: (1) A decision by a court or placement agency to change the pupil's placement, in which case the pupil's grades shall not be lowered for any absence that is attributable to the change in placement. (2) The pupil is attending a court proceeding."
+          }
+        ],
+        "required_language": "Complete the existing section: \"1. A decision by a court or placement agency to change the student's placement, in which case the student's grades shall not be lowered for any absence that is attributable to the change in placement. 2. The student is attending a court proceeding.\"",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Grade Change Procedures and Limitations",
+        "description": "While the Board Policy references that grades can only be changed \"as provided by law, Board policy and administrative regulation,\" neither document specifies the actual procedures for when and how grades may be changed, the timeline for grade changes, or the specific circumstances that would justify a grade change.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49066",
+            "text": "When grades are given for any course of instruction taught in a school district, the grade given to each pupil shall be the grade determined by the teacher of the course and the determination of the pupil's grade by the teacher, in the absence of clerical or mechanical mistake, fraud, bad faith, or incompetency, shall be final."
+          }
+        ],
+        "required_language": "Procedures for grade changes shall specify that grades may only be changed in cases of: (1) clerical or mechanical mistake, (2) fraud, (3) bad faith, or (4) incompetency. The procedure for requesting and approving grade changes, including timelines and required documentation, shall be established.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Parent/Guardian Conference Timeline Requirements",
+        "description": "The Administrative Regulation states that teachers must arrange a conference or send written report when a student is in danger of failing, but does not specify the timeline for when this notification must occur during the grading period.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49067",
+            "text": "Whenever it becomes evident to a teacher that a pupil assigned to his or her class is in danger of failing, the teacher shall arrange a conference with the pupil's parent or guardian, or shall send the parent or guardian a written report."
+          }
+        ],
+        "required_language": "Specify a reasonable timeline for parent/guardian notification when a student is in danger of failing, such as \"as soon as practicable\" or within a specific number of school days after it becomes evident.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:20:28.383029+00:00"
+}

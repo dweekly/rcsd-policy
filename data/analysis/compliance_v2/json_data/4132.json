@@ -1,0 +1,63 @@
+{
+  "code": "4132",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4132",
+    "title": "Publication Or Creation Of Materials",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4132.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy establishes ownership principles for copyrightable materials but lacks detailed administrative procedures for implementation. California Education Code 60076 requires districts to have procedures for handling copyrightable materials, including approval processes, documentation requirements, and revenue distribution mechanisms.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 60076",
+            "text": "The governing board of a school district may adopt rules and regulations regarding the development of copyrightable materials by employees of the district."
+          }
+        ],
+        "required_language": "Administrative procedures should include: (1) Process for obtaining Superintendent approval for copyrightable material development; (2) Documentation requirements for joint ownership agreements; (3) Procedures for establishing partnership entities; (4) Revenue distribution mechanisms; (5) Marketing and licensing procedures for software; (6) Employee notification requirements regarding copyright ownership policies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009, which is over 14 years ago. While not legally mandated, regular policy review ensures continued compliance with evolving copyright law and educational technology developments.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with or preempted by any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and technological developments in copyright and intellectual property law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Employee Notification Requirements",
+        "description": "While the policy establishes copyright ownership rules, it does not specify how employees will be notified of these requirements. Clear notification helps ensure compliance and prevents disputes over intellectual property ownership.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 60076",
+            "text": "The governing board of a school district may adopt rules and regulations regarding the development of copyrightable materials by employees of the district."
+          }
+        ],
+        "required_language": "Employees shall be notified of copyright ownership policies through employee handbooks, contracts, or other appropriate means. New employees shall receive notification during orientation.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:11:47.294987+00:00"
+}

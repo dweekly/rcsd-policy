@@ -1,0 +1,78 @@
+{
+  "code": "9324",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9324",
+    "title": "Minutes And Recordings",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9324.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Closed Session Minutes Retention Requirements",
+        "description": "Government Code 54957.2 requires that closed session minutes or recordings be retained for at least one year from the date of the closed session meeting. The policy states that closed session minutes are kept separate and are not public records, but fails to specify the mandatory retention period.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54957.2(b)(1)",
+            "text": "Minutes or a recording shall be kept of all closed sessions of legislative bodies of local agencies. The minutes or recording shall be kept for the period of time required for retention of minutes or recordings of regular meetings of the legislative body, but in no case for less than one year."
+          }
+        ],
+        "required_language": "Minutes or recordings of closed sessions shall be retained for at least one year from the date of the closed session meeting.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Action Item Documentation Requirements",
+        "description": "Education Code 35145 requires that minutes include a brief general description of each item of business transacted or discussed, including items discussed in closed session (with appropriate confidentiality protections). The policy does not specify what content must be included in the minutes beyond recording official actions.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35145(a)",
+            "text": "The governing board of each school district shall cause to be made a brief record of each of its meetings. The record shall include the time and place of the meeting, the members present, the subjects considered, the actions taken, the votes of the members, and such other information as the governing board may deem of value."
+          }
+        ],
+        "required_language": "Minutes shall include the time and place of the meeting, members present, subjects considered, actions taken, votes of members, and other information the Board deems of value.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Public Access and Inspection Procedures",
+        "description": "Government Code 54957.5 requires that minutes be made available for public inspection. While the policy addresses recordings, it does not specify procedures for public access to written minutes, which are also public records under the Public Records Act.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54957.5",
+            "text": "Minutes of open sessions of meetings of legislative bodies of local agencies shall be available for public inspection, and any person may obtain copies thereof upon payment of a fee covering direct costs of duplication."
+          }
+        ],
+        "required_language": "Minutes of open sessions shall be available for public inspection, and copies shall be provided upon request and payment of direct duplication costs.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The policy lacks corresponding administrative regulations that would typically contain detailed procedures for minute preparation, review, approval, storage, and public access processes. While not legally required, this creates implementation gaps.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "On or before July 1, 1976, the governing board of each school district shall adopt rules and regulations as it may deem necessary and proper for the government and control of the schools of the district."
+          }
+        ],
+        "required_language": "Administrative procedures should detail the process for preparing, reviewing, approving, storing, and providing public access to meeting minutes and recordings.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:41:11.270403+00:00"
+}

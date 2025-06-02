@@ -1,0 +1,78 @@
+{
+  "code": "4119.1",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4119.1",
+    "title": "Civil And Legal Rights",
+    "type": "Policy",
+    "last_reviewed": "12/07/2022",
+    "file_path": "data/extracted/policies/4119.1.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Civil and Legal Rights Implementation",
+        "description": "The Board Policy establishes employee civil and legal rights but lacks corresponding administrative regulation detailing implementation procedures. Key procedural elements missing include: complaint filing procedures for whistleblower retaliation, investigation processes, timeline requirements, appeal procedures, and specific steps for handling disclosures of improper governmental activity.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44112-44114",
+            "text": "Requires districts to establish procedures for handling whistleblower complaints and investigations of retaliation claims"
+          }
+        ],
+        "required_language": "Administrative regulation should include: (1) Specific procedures for filing whistleblower complaints, (2) Investigation timelines and processes, (3) Appeal procedures, (4) Documentation requirements, (5) Confidentiality protections, (6) Interim protective measures during investigations",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Complaint Procedures Reference",
+        "description": "The policy references \"district's complaint procedures\" for whistleblower retaliation complaints but does not specify which complaint procedure applies or provide cross-reference to the applicable policy/regulation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44114",
+            "text": "Requires clear procedures for employees to file complaints regarding retaliation for whistleblower activities"
+          }
+        ],
+        "required_language": "Specific reference to applicable complaint procedure (e.g., \"in accordance with BP/AR 4144 - Complaints\" or establishment of specific whistleblower complaint procedure)",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Whistleblower Hotline Display Requirements Implementation",
+        "description": "While the policy states the requirement to display whistleblower rights and hotline information, there are no implementation details regarding where, how, and who is responsible for maintaining these displays.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Labor Code 1102.8",
+            "text": "Requires prominent display in lettering larger than size 14 point type of employees' rights and responsibilities under whistleblower laws, including Attorney General hotline number"
+          }
+        ],
+        "required_language": "Procedures specifying: (1) Locations for posting (employee break rooms, main offices, etc.), (2) Responsible party for posting and updating, (3) Format requirements, (4) Update schedule for hotline numbers",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Cross-References to Related Policies",
+        "description": "The policy lacks cross-references to related policies that may impact employee civil rights, such as personnel evaluation, disciplinary procedures, or discrimination policies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44112-44114",
+            "text": "Comprehensive protection requires coordination with other personnel policies"
+          }
+        ],
+        "required_language": "Cross-references to related policies such as: BP 4118 - Dismissal/Suspension/Disciplinary Action, BP 4030 - Nondiscrimination in Employment, BP 1312.3 - Uniform Complaint Procedures",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:09:59.203761+00:00"
+}

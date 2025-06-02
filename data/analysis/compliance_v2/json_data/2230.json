@@ -1,0 +1,78 @@
+{
+  "code": "2230",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "2230",
+    "title": "Representative And Deliberative Groups",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/2230.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing School Site Council Requirements",
+        "description": "California Education Code requires specific provisions for School Site Councils, including composition requirements, selection procedures, and responsibilities. These statutory requirements are not addressed in the current policy, which only provides general authority for establishing advisory groups.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52852",
+            "text": "The school site council shall be composed of the principal and representatives of: parents or guardians of pupils attending the school selected by such parents or guardians; teachers in the school selected by such teachers; other school personnel selected by such personnel; and in secondary schools, pupils selected by pupils attending the school."
+          }
+        ],
+        "required_language": "School Site Councils shall be established at each school site receiving categorical funding. The composition, selection procedures, and responsibilities of School Site Councils shall comply with Education Code requirements, including equal representation of school personnel and parents/community members, with student representation at secondary schools.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing District English Learner Advisory Committee (DELAC) Requirements",
+        "description": "Districts with 51 or more English learners must establish a District English Learner Advisory Committee with specific composition and responsibilities. This is a mandatory committee, not optional like the general advisory groups described in the policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52176",
+            "text": "In any school district in which the number of pupils who are English learners is 15 percent or more of the total number of pupils enrolled in the district, there shall be established a district English learner advisory committee."
+          }
+        ],
+        "required_language": "A District English Learner Advisory Committee (DELAC) shall be established when required by Education Code Section 52176. The DELAC shall be composed of parents/guardians of English learners and shall advise the district on programs and services for English learners.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Parent Advisory Committee Requirements for Title I",
+        "description": "Districts receiving Title I funds must establish parent advisory committees with specific composition and consultation requirements. The current policy does not address these federally mandated committees.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC Section 6318 (Federal); Education Code Section 52852",
+            "text": "Districts receiving Title I funds shall establish procedures for meaningful consultation with parents in the planning, implementation, and evaluation of Title I programs."
+          }
+        ],
+        "required_language": "Parent advisory committees for Title I programs shall be established as required by federal law, with procedures ensuring meaningful parent participation in program planning, implementation, and evaluation.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While not legally required, best practice suggests having an Administrative Regulation to provide specific procedures for establishing, operating, and dissolving advisory groups, including meeting requirements, reporting procedures, and member selection processes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Procedures for establishing advisory groups, including member selection, meeting schedules, reporting requirements, and dissolution procedures should be detailed in administrative regulation.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:23:58.102123+00:00"
+}

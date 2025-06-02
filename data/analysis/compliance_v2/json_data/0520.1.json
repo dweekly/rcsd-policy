@@ -1,0 +1,93 @@
+{
+  "code": "0520.1",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "0520.1",
+    "title": "Comprehensive And Targeted School Improvement",
+    "type": "Policy",
+    "last_reviewed": "06/23/2021",
+    "file_path": "data/extracted/policies/0520.1.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for comprehensive and targeted school improvement, there is no corresponding Administrative Regulation to provide detailed implementation procedures. Federal law requires specific procedural elements that are typically housed in administrative regulations, including stakeholder engagement processes, timeline requirements, and detailed monitoring procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6311(d)(1)-(2)",
+            "text": "Each State plan shall describe how the State will ensure that local educational agencies identify and carry out school improvement activities for schools identified for comprehensive support and improvement, targeted support and improvement, and additional targeted support and improvement."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: (1) Specific timelines for plan development and submission; (2) Detailed stakeholder engagement procedures; (3) Needs assessment methodology and requirements; (4) Evidence-based intervention selection criteria; (5) Resource inequity review procedures; (6) Monitoring and evaluation protocols; (7) Communication procedures with CDE; (8) Annual review and revision processes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Stakeholder Engagement Requirements",
+        "description": "The policy mentions developing plans \"in partnership with principals, other school leaders, teachers, and parents/guardians\" but lacks specific requirements for meaningful stakeholder engagement, including community members and students where appropriate, as required by federal law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6311(d)(1)(B)",
+            "text": "School improvement plans shall be developed with timely and meaningful consultation with parents, community members, school leaders, teachers, and other school personnel."
+          }
+        ],
+        "required_language": "Plans shall be developed with timely and meaningful consultation with parents, community members, school leaders, teachers, other school personnel, and where appropriate, students. The district shall establish procedures to ensure meaningful stakeholder engagement throughout the plan development, implementation, and monitoring process.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Public Availability and Translation Requirements",
+        "description": "Federal law requires that school improvement plans be made publicly available and provided in languages that parents can understand. Neither the policy nor regulation addresses these accessibility requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6311(d)(1)(C)",
+            "text": "School improvement plans shall be made publicly available and provided in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand."
+          }
+        ],
+        "required_language": "School improvement plans shall be made publicly available on the district website and provided in an understandable and uniform format. To the extent practicable, plans shall be provided in a language that parents can understand, consistent with the district's translation and interpretation procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Annual Review and Revision Requirements",
+        "description": "While the policy mentions regular review and monitoring, it does not specifically address the federal requirement for annual review and revision of school improvement plans based on student needs and progress.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6311(d)(1)(D)",
+            "text": "School improvement plans shall be reviewed and revised, as appropriate, based on student needs and progress."
+          }
+        ],
+        "required_language": "School improvement plans shall be reviewed annually and revised as appropriate based on student needs and progress. The annual review shall include analysis of student outcome data, implementation fidelity, and stakeholder feedback to determine necessary plan modifications.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Timeline Specifications",
+        "description": "The policy does not specify timelines for plan development, submission, and implementation following school identification. While not explicitly required by statute, timelines are important for ensuring compliance with federal expectations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6311(d)(1)",
+            "text": "States must ensure that local educational agencies carry out school improvement activities in a timely manner."
+          }
+        ],
+        "required_language": "Upon notification of school identification, the district shall develop and submit the required improvement plan within [specific timeframe] and begin implementation no later than the beginning of the following school year.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:19:34.833277+00:00"
+}

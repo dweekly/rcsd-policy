@@ -1,0 +1,78 @@
+{
+  "code": "2121",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "2121",
+    "title": "Superintendent's Contract",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/2121.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Public Notice Requirements for Contract Ratification",
+        "description": "California law requires specific public notice procedures when ratifying superintendent contracts. While the policy mentions ratification in open session, it lacks the mandatory notice requirements including posting the agenda item and making contract terms available for public inspection before the meeting.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54954.2",
+            "text": "The agenda shall be posted at least 72 hours before a regular meeting in a location that is freely accessible to members of the public and on the local agency's internet website, if the local agency has one."
+          }
+        ],
+        "required_language": "The Board shall provide public notice of contract ratification in accordance with the Brown Act, including posting the agenda at least 72 hours in advance and making contract terms available for public inspection prior to the ratification meeting.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The policy establishes board direction but lacks corresponding administrative procedures for contract negotiation, evaluation processes, and termination procedures. An AR is needed to specify the \"how\" of implementing the board's policy directives.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35031",
+            "text": "The governing board of any school district may employ a superintendent of schools for a term not to exceed four years."
+          }
+        ],
+        "required_language": "Administrative procedures shall be established to implement contract negotiation processes, evaluation timelines and criteria, notice procedures, and termination protocols as directed by Board Policy.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Evaluation Standards",
+        "description": "While the policy mentions annual evaluations and satisfactory performance for contract extension, it doesn't reference specific evaluation criteria or standards that should be established in accordance with Education Code requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35031.5",
+            "text": "The governing board shall evaluate the performance of the superintendent at least annually using criteria that relate to the superintendent's job description and goals."
+          }
+        ],
+        "required_language": "Annual evaluations shall be conducted using criteria that relate to the superintendent's job description and established performance goals, in accordance with Education Code 35031.5.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Conflict of Interest Requirements",
+        "description": "The policy should address potential conflicts of interest in contract negotiations and require compliance with the Political Reform Act, particularly regarding financial disclosure requirements for the superintendent position.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 87100",
+            "text": "No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest."
+          }
+        ],
+        "required_language": "Contract negotiations and terms shall comply with conflict of interest requirements under the Political Reform Act, and the superintendent shall file required financial disclosure statements.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:23:41.186046+00:00"
+}

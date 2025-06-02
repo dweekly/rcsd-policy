@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3000: Concepts And Roles
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Specific Public Input Requirements for Budget Process (Confidence: 90%)
+Missing from: BOTH
+The policy mentions "opportunities for public input" but lacks specific requirements for public hearings, notice periods, and community engagement procedures required by California Education Code for budget adoption.
+
+Legal Basis:
+- Education Code Section 42103: The governing board shall hold a public hearing on the proposed budget prior to adoption. Notice of the time and place of hearing shall be posted in three public places in the district at least 72 hours before the hearing.
+
+Required Language:
+The district shall conduct public hearings on the proposed budget with at least 72 hours advance notice posted in three public places within the district. The hearing shall provide opportunity for public comment before budget adoption.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Budget Adoption Timeline Requirements (Confidence: 95%)
+Missing from: BOTH
+The policy lacks specific statutory deadlines for budget adoption and submission to the county office of education, which are mandatory under California Education Code.
+
+Legal Basis:
+- Education Code Section 42127(a): On or before July 1, the governing board of each school district shall hold a public hearing on and adopt a budget for the subsequent fiscal year.
+
+Required Language:
+The Board shall adopt the annual budget on or before July 1 for the subsequent fiscal year. The adopted budget shall be submitted to the county superintendent of schools by July 1.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Independent Audit Requirements Detail (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions facilitating the independent audit process, it lacks specific requirements for annual independent audits mandated by California Education Code, including audit committee responsibilities and reporting requirements.
+
+Legal Basis:
+- Education Code Section 41020: The governing board of each school district shall provide for an annual independent audit of the financial statements of the school district to be conducted by a certified public accountant.
+
+Required Language:
+The district shall provide for an annual independent audit of financial statements conducted by a certified public accountant. The audit shall be completed and submitted to appropriate agencies within required timeframes.
+
+Recommended Placement: AR
+
+----------------------------------------
+

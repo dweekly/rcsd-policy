@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6174: Education For English Learners
+Last Reviewed: 01/22/2020
+================================================================================
+
+Missing Parental Exception/Waiver Process (Confidence: 85%)
+Missing from: BOTH
+California Education Code allows parents to request that their child be placed in English-only classes or removed from language acquisition programs through a waiver process. Neither the BP nor AR contains procedures for handling parental exception requests or waivers from language acquisition programs, which is a fundamental parental right under California law.
+
+Legal Basis:
+- Education Code Section 311: On written request by a parent or legal guardian, a child may be transferred to an English language classroom... The school district shall inform parents and legal guardians of their right to request such a transfer and of the availability of such transfers.
+
+Required Language:
+Parents/guardians have the right to request that their child be transferred to an English-only classroom. Upon written request by a parent or legal guardian, the district shall transfer the student to an English language classroom. The district shall inform parents/guardians of this right and the process for requesting such transfers. The district shall establish procedures for processing and responding to such requests in a timely manner.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Long-Term English Learner Identification and Support Requirements (Confidence: 90%)
+Missing from: BOTH
+While the BP mentions reporting on long-term English learners, neither document contains the required specific identification criteria, timeline, or specialized support services for long-term English learners as mandated by state law.
+
+Legal Basis:
+- Education Code Section 313.1: A pupil who is classified as an English learner may be classified as a long-term English learner if the pupil is enrolled in any of grades 6 to 12, inclusive, has been enrolled in schools in the United States for more than six years, and has remained at the same English language proficiency level for two or more consecutive years...
+
+Required Language:
+The district shall identify long-term English learners as students in grades 6-12 who have been enrolled in U.S. schools for more than six years and have remained at the same English proficiency level for two or more consecutive years, or students who have been classified as English learners for six or more years but have not achieved English proficiency. The district shall provide specialized support and interventions for long-term English learners, including individualized learning plans and additional academic support services.
+
+Recommended Placement: AR
+
+----------------------------------------
+

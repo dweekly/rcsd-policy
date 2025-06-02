@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4112.2: Certification
+Last Reviewed: 10/20/2021
+================================================================================
+
+Missing Assignment Monitoring and Reporting Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires districts to monitor teacher assignments and report misassignments annually to the County Superintendent. While the AR mentions reporting for TPSL permits specifically, there is no comprehensive assignment monitoring system or annual reporting requirement for all teacher assignments as mandated by Education Code 44258.9.
+
+Legal Basis:
+- Education Code 44258.9: Each school district shall monitor teacher assignments to ensure that teachers are not assigned to teach in subject areas or at grade levels for which they do not hold appropriate authorization, and shall annually report data on teacher assignments to the county superintendent of schools.
+
+Required Language:
+The Superintendent or designee shall monitor teacher assignments to ensure that teachers are not assigned to teach in subject areas or at grade levels for which they do not hold appropriate authorization. The district shall annually report data on teacher assignments to the County Superintendent of Schools in accordance with Education Code 44258.9.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Williams Act Quarterly Reporting Requirements (Confidence: 90%)
+Missing from: BOTH
+The Williams Act requires districts to report quarterly on teacher misassignments and vacant positions to the County Superintendent. This critical compliance requirement for monitoring teacher assignments and ensuring proper credentialing is completely absent from both documents.
+
+Legal Basis:
+- Education Code 35186: Each school district shall report to the county superintendent of schools on a quarterly basis the number of teacher misassignments and the number of vacant teacher positions in the district.
+
+Required Language:
+The Superintendent or designee shall report quarterly to the County Superintendent of Schools the number of teacher misassignments and vacant teacher positions in the district, as required by Education Code 35186.
+
+Recommended Placement: AR
+
+----------------------------------------
+

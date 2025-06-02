@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4033: Lactation Accommodation
+Last Reviewed: 11/06/2024
+================================================================================
+
+Missing Temporary Space Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy does not address requirements for temporary lactation spaces when permanent spaces are unavailable, which is required under California Labor Code.
+
+Legal Basis:
+- Labor Code Section 1031(c): "If a lactation location is not available, the employer may use a temporary lactation location that meets the requirements of subdivision (b)."
+
+Required Language:
+When a permanent lactation space is not available, the district may provide a temporary lactation location that meets all the requirements specified for permanent lactation spaces.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Specific Timeline for Accommodation Provision (Confidence: 95%)
+Missing from: BOTH
+The policy lacks the specific timeline requirement for providing lactation accommodations after an employee's request, as mandated by California Labor Code.
+
+Legal Basis:
+- Labor Code Section 1033: "An employer shall provide the lactation accommodation as soon as reasonably possible after the employee's request."
+
+Required Language:
+The district shall provide the lactation accommodation as soon as reasonably possible after the employee's request.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Specific Denial Criteria (Confidence: 88%)
+Missing from: BOTH
+While the policy mentions that accommodations may be denied in "limited circumstances," it does not specify the exact criteria from Labor Code that would justify denial.
+
+Legal Basis:
+- Labor Code Section 1032: Specifies that accommodations may only be denied if they would cause an undue hardship considering difficulty or expense relative to the employer's size, financial resources, nature, or structure of business.
+
+Required Language:
+Lactation accommodations may only be denied if providing the accommodation would impose an undue hardship on the district when considered in relation to the difficulty or expense of the accommodation, relative to the size, financial resources, nature, or structure of the district's business.
+
+Recommended Placement: BP
+
+----------------------------------------
+

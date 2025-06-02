@@ -1,0 +1,78 @@
+{
+  "code": "5000",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5000",
+    "title": "Concepts And Roles",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5000.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Student Services Implementation",
+        "description": "While the Board Policy establishes broad concepts and roles for student services, there is no corresponding Administrative Regulation to provide implementation procedures. California Education Code requires districts to have specific procedures for maintaining safe school environments, student conduct expectations, and due process procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35291",
+            "text": "The governing board of any school district may prescribe rules not inconsistent with law or with the rules prescribed by the State Board of Education, for its own government and the government of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "Administrative procedures should be established to implement the board's commitment to maintaining safe, positive school environments and providing equal educational opportunities, including specific procedures for informing parents/guardians and students about rules and regulations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Due Process Procedures",
+        "description": "The policy mentions that due process rights will be afforded \"in accordance with the law\" but provides no specific procedures. California Education Code requires districts to establish clear due process procedures for disciplinary hearings and other student matters.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48918",
+            "text": "The governing board shall provide the pupil with written notice of the hearing, which shall include the charges against the pupil and a statement that the pupil may be represented by counsel, may inspect and obtain copies of all documents to be used at the hearing, may confront and question all witnesses who testify against the pupil, and may present evidence and witnesses on his or her own behalf."
+          }
+        ],
+        "required_language": "Specific due process procedures must be established including written notice requirements, right to representation, right to inspect documents, right to confront witnesses, and right to present evidence and witnesses.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Nondiscrimination Statement and Complaint Procedures",
+        "description": "While the policy states commitment to equal educational opportunities and prohibits intimidation/harassment, it lacks the required comprehensive nondiscrimination statement and complaint procedures mandated by state and federal law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 234.1",
+            "text": "Each school district shall adopt a policy that prohibits discrimination, harassment, intimidation, and bullying based on actual or perceived characteristics and shall post the policy on the school district's Internet Web site in a prominent location that maximizes visibility to pupils, parents, and guardians."
+          }
+        ],
+        "required_language": "The district prohibits discrimination, harassment, intimidation, and bullying based on actual or perceived race, color, ancestry, nationality, national origin, immigration status, ethnic group identification, ethnicity, age, religion, marital status, pregnancy, parental status, physical or mental disability, medical condition, sex, sexual orientation, gender, gender identity, gender expression, or genetic information, or association with a person or group with one or more of these actual or perceived characteristics.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Parent/Guardian Notification Procedures",
+        "description": "The policy states that the Superintendent shall keep parents/guardians informed about rules and regulations but provides no specific procedures for how this communication will occur, what information must be provided, or timing requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48980",
+            "text": "At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify the parent or guardian of a minor pupil regarding the rights and responsibilities of parents and guardians."
+          }
+        ],
+        "required_language": "Procedures must be established for annual notification to parents/guardians regarding rights and responsibilities, including timing, method of delivery, language requirements, and content specifications as required by Education Code Section 48980.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:17:59.017112+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "4236",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4236",
+    "title": "Nonschool Employment",
+    "type": "Policy",
+    "last_reviewed": "06/15/2022",
+    "file_path": "data/extracted/policies/4236.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Government Code Section 1126 requires districts to establish procedures for reviewing and approving outside employment requests. While the Board Policy establishes the framework and criteria, there is no Administrative Regulation providing detailed implementation procedures for supervisors and employees to follow.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 1126",
+            "text": "No officer or employee shall engage in any employment, activity or enterprise from which the officer or employee receives compensation or has a financial interest and which is sponsored or funded by any state agency, unless the employment, activity or enterprise is required as a condition of regular state employment."
+          }
+        ],
+        "required_language": "Administrative procedures detailing: (1) specific forms and documentation required for outside employment requests, (2) timeline for supervisor review and response, (3) criteria and process for evaluation, (4) appeal procedures to Superintendent, (5) documentation and record-keeping requirements, and (6) monitoring and compliance procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Conflict of Interest Disclosure Requirements",
+        "description": "Government Code Section 87100 requires public employees to disclose financial interests that could create conflicts of interest. The policy lacks provisions requiring employees to disclose potential conflicts of interest related to outside employment.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 87100",
+            "text": "No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest."
+          }
+        ],
+        "required_language": "Employees must disclose any financial interests or relationships that could create a conflict of interest with their district duties. This includes disclosure of outside employment that involves entities doing business with or seeking to do business with the district.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Annual Disclosure and Reporting Requirements",
+        "description": "Education Code Section 87406.3 and Government Code provisions require ongoing disclosure and monitoring of outside employment. The policy lacks requirements for annual reporting or ongoing disclosure of outside employment activities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 87406.3",
+            "text": "Community college district employees must file statements of economic interests as required by the Political Reform Act when outside activities could create conflicts with official duties."
+          }
+        ],
+        "required_language": "Employees shall annually disclose outside employment and update disclosures when changes occur. The district shall maintain records of approved outside employment and conduct periodic reviews to ensure ongoing compliance.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Definition of \"Inimical\" Activities",
+        "description": "While the policy uses the term \"inimical\" as required by Government Code Section 1126, it could benefit from more specific examples or clarification of what constitutes activities that are inimical to district duties, particularly regarding competitive activities or conflicting loyalties.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 1126",
+            "text": "Activities that are \"inimical\" include those that are harmful, adverse, or hostile to the public agency's interests or mission."
+          }
+        ],
+        "required_language": "Additional examples of inimical activities including: employment with competitors, vendors, or entities with adverse interests to the district; activities that could compromise professional judgment; or employment requiring advocacy against district interests.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:15:38.777677+00:00"
+}

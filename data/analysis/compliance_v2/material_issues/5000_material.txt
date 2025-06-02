@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5000: Concepts And Roles
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Specific Due Process Procedures (Confidence: 90%)
+Missing from: BOTH
+The policy mentions that due process rights will be afforded "in accordance with the law" but provides no specific procedures. California Education Code requires districts to establish clear due process procedures for disciplinary hearings and other student matters.
+
+Legal Basis:
+- Education Code Section 48918: The governing board shall provide the pupil with written notice of the hearing, which shall include the charges against the pupil and a statement that the pupil may be represented by counsel, may inspect and obtain copies of all documents to be used at the hearing, may confront and question all witnesses who testify against the pupil, and may present evidence and witnesses on his or her own behalf.
+
+Required Language:
+Specific due process procedures must be established including written notice requirements, right to representation, right to inspect documents, right to confront witnesses, and right to present evidence and witnesses.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Nondiscrimination Statement and Complaint Procedures (Confidence: 95%)
+Missing from: BOTH
+While the policy states commitment to equal educational opportunities and prohibits intimidation/harassment, it lacks the required comprehensive nondiscrimination statement and complaint procedures mandated by state and federal law.
+
+Legal Basis:
+- Education Code Section 234.1: Each school district shall adopt a policy that prohibits discrimination, harassment, intimidation, and bullying based on actual or perceived characteristics and shall post the policy on the school district's Internet Web site in a prominent location that maximizes visibility to pupils, parents, and guardians.
+
+Required Language:
+The district prohibits discrimination, harassment, intimidation, and bullying based on actual or perceived race, color, ancestry, nationality, national origin, immigration status, ethnic group identification, ethnicity, age, religion, marital status, pregnancy, parental status, physical or mental disability, medical condition, sex, sexual orientation, gender, gender identity, gender expression, or genetic information, or association with a person or group with one or more of these actual or perceived characteristics.
+
+Recommended Placement: BP
+
+----------------------------------------
+

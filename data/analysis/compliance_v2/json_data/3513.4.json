@@ -1,0 +1,93 @@
+{
+  "code": "3513.4",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3513.4",
+    "title": "Drug And Alcohol Free Schools",
+    "type": "Policy",
+    "last_reviewed": "08/25/2021",
+    "file_path": "data/extracted/policies/3513.4.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Federal law requires specific implementation procedures for drug and alcohol-free schools policies, including detailed disciplinary procedures, intervention programs, and notification requirements. While the Board Policy establishes the framework, an Administrative Regulation is needed to specify the \"how\" of implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "20 USC 7114 (Drug-Free Schools and Communities Act)",
+            "text": "Requires local educational agencies to adopt and implement a policy to prevent the unlawful possession, use, or distribution of illicit drugs and alcohol by students and employees on school premises or as part of any school activities."
+          }
+        ],
+        "required_language": "Administrative procedures detailing: investigation protocols, progressive discipline procedures, referral processes to counseling/intervention programs, notification requirements to parents/guardians and law enforcement, and staff training requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Disciplinary Standards and Sanctions",
+        "description": "Federal law requires clear specification of disciplinary sanctions for violations. The policy only states students \"may be subject to discipline\" without detailing specific consequences or progressive discipline standards.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 7114(d)(1)(A)",
+            "text": "Standards of conduct that clearly prohibit, at a minimum, the unlawful possession, use, or distribution of illicit drugs and alcohol by students and employees on school premises or as part of any school activities."
+          }
+        ],
+        "required_language": "Clear statement of disciplinary sanctions that will be imposed on students and employees who violate the standards of conduct, including but not limited to: suspension, expulsion, referral to law enforcement, and mandatory participation in drug/alcohol abuse assistance or rehabilitation programs.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Health Risks and Legal Consequences Information",
+        "description": "Federal law requires the policy to include information about health risks associated with drug and alcohol use and legal sanctions under local, state, and federal law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 7114(d)(1)(B)(i)(ii)",
+            "text": "A description of the health risks associated with the use of illicit drugs and the abuse of alcohol; and a description of any drug or alcohol counseling, treatment, or rehabilitation or re-entry programs that are available."
+          }
+        ],
+        "required_language": "Description of health risks associated with illicit drug use and alcohol abuse, applicable legal sanctions under local, state and federal law, and available drug/alcohol counseling, treatment, rehabilitation and re-entry programs.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Annual Distribution and Notification Requirements",
+        "description": "Federal law requires annual distribution of policy information to all students and employees. The policy mentions communication but lacks specific annual distribution requirements and acknowledgment procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "20 USC 7114(d)(1)(C)",
+            "text": "A statement that compliance with the standards of conduct is mandatory and a description of disciplinary sanctions."
+          }
+        ],
+        "required_language": "Procedures for annual distribution of policy information to all students and employees, including acknowledgment requirements and documentation of receipt.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Tobacco Products",
+        "description": "While not federally required for drug-free schools compliance, California Education Code requires tobacco-free school policies, and it's common practice to include tobacco with drug and alcohol prohibitions for comprehensive substance-free policies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48901",
+            "text": "Prohibits the use of tobacco products at school or school-sponsored activities."
+          }
+        ],
+        "required_language": "Tobacco products and electronic cigarettes/vaping devices should be included in the list of prohibited substances.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:28:04.276170+00:00"
+}

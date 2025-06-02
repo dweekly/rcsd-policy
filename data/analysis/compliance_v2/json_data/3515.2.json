@@ -1,0 +1,99 @@
+{
+  "code": "3515.2",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3515.2",
+    "title": "Disruptions",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3515.2.txt"
+  },
+  "regulation": {
+    "code": "3515.2",
+    "title": "Disruptions",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3515.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Required Registration Requirements for Visitors",
+        "description": "California law requires school districts to post registration requirements for visitors and establish procedures for visitor registration. While the AR references \"posted registration requirements,\" neither document establishes what those requirements are or the registration procedures that must be followed.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 627.2",
+            "text": "Every public school shall post at every entrance to the school grounds a notice setting forth visitor registration requirements and the hours during which registration is required."
+          }
+        ],
+        "required_language": "The district shall post at every entrance to school grounds a notice setting forth visitor registration requirements and the hours during which registration is required. All visitors must register with the main office upon entering school grounds during designated hours, provide identification, and receive authorization before proceeding to other areas of campus.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Notification Requirements for Sex Offenders",
+        "description": "The AR mentions directing registered sex offenders to leave but fails to include the required specific notification language about criminal penalties. California law requires specific notification about potential felony charges.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 626.81",
+            "text": "Any person required to register as a sex offender who enters upon any school ground without lawful business thereon, or written permission from the chief administrative official of the school, is guilty of a felony."
+          }
+        ],
+        "required_language": "When directing a registered sex offender to leave school grounds, the principal or designee shall inform the person that remaining on or returning to school grounds without written permission constitutes a felony under Penal Code Section 626.81.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Incomplete Gun-Free School Zone Provisions",
+        "description": "The BP mentions gun-free school zones but lacks required comprehensive language about the federal Gun-Free School Zones Act and its specific prohibitions and exceptions.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "18 USC Section 922(q) and Education Code Section 48915",
+            "text": "Federal law prohibits possession of firearms in school zones, with specific exceptions for law enforcement and licensed individuals with proper authorization."
+          }
+        ],
+        "required_language": "In accordance with the federal Gun-Free School Zones Act, it is unlawful for any individual to knowingly possess a firearm in a school zone, except for authorized law enforcement personnel and individuals with proper federal and state licensing who are not otherwise prohibited from possessing firearms.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Emergency Procedures Integration",
+        "description": "While the BP mentions establishing a plan for disruptions, it should reference integration with the district's comprehensive emergency response procedures and crisis management protocols.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282",
+            "text": "School districts shall develop comprehensive school safety plans that include procedures for responding to emergencies and disruptions."
+          }
+        ],
+        "required_language": "The disruption response plan shall be integrated with the district's comprehensive school safety plan and emergency response procedures established under Education Code Section 32282.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "Both documents were last reviewed in 2009, which is significantly outdated given changes in relevant laws and best practices for school safety and disruption management.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "School boards have authority and responsibility to ensure policies remain current and compliant with applicable laws."
+          }
+        ],
+        "required_language": "Policy and regulation should be reviewed and updated to reflect current legal requirements and best practices.",
+        "recommended_placement": "BOTH"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:28:54.841994+00:00"
+}

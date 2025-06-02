@@ -1,0 +1,84 @@
+{
+  "code": "6145",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6145",
+    "title": "Extracurricular And Cocurricular Activities",
+    "type": "Policy",
+    "last_reviewed": "03/11/2020",
+    "file_path": "data/extracted/policies/6145.txt"
+  },
+  "regulation": {
+    "code": "6145",
+    "title": "Extracurricular And Cocurricular Activities",
+    "type": "Regulation",
+    "last_reviewed": "03/11/2020",
+    "file_path": "data/extracted/regulations/6145.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Complete Content Mismatch - Policy Contains Homework Content Instead of Extracurricular Activities",
+        "description": "The Board Policy 6145 is titled \"Extracurricular And Cocurricular Activities\" but contains entirely unrelated content about homework policy. This creates a fundamental compliance failure as the policy does not address any requirements for extracurricular and cocurricular activities that are mandated by California Education Code.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160.5",
+            "text": "The governing board of a school district may adopt rules and regulations governing pupil participation in extracurricular and cocurricular activities, including, but not limited to, a requirement that pupils maintain minimum academic achievement standards as a condition of participation."
+          }
+        ],
+        "required_language": "The Board Policy must be completely rewritten to address extracurricular and cocurricular activities, including: board philosophy on student participation, academic eligibility standards, supervision requirements, and alignment with the existing Administrative Regulation content.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Academic Eligibility Standards Policy Direction",
+        "description": "While the Administrative Regulation contains detailed procedures for GPA-based eligibility, there is no Board Policy establishing the board's direction on whether and what type of academic standards should be required for participation in extracurricular activities.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160.5",
+            "text": "The governing board of a school district may adopt rules and regulations governing pupil participation in extracurricular and cocurricular activities, including, but not limited to, a requirement that pupils maintain minimum academic achievement standards as a condition of participation."
+          }
+        ],
+        "required_language": "The Board believes that participation in extracurricular and cocurricular activities should support and not interfere with academic achievement. Students must maintain satisfactory academic progress to remain eligible for participation in extracurricular and cocurricular activities.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Specific GPA Threshold in Eligibility Requirements",
+        "description": "The Administrative Regulation references using GPA to determine eligibility but does not specify what minimum GPA is required. This creates ambiguity in implementation and potential inconsistent application across the district.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160.5",
+            "text": "The governing board of a school district may adopt rules and regulations governing pupil participation in extracurricular and cocurricular activities, including, but not limited to, a requirement that pupils maintain minimum academic achievement standards as a condition of participation."
+          }
+        ],
+        "required_language": "Students must maintain a minimum grade point average of [X.X] based on a 4.0 scale to be eligible for participation in extracurricular and cocurricular activities.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Board Philosophy on Educational Value of Activities",
+        "description": "The policy lacks a statement of the board's belief in the educational value and benefits of extracurricular and cocurricular activities, which is typically expected in comprehensive board policies on this topic.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 51220",
+            "text": "The adopted course of study for grades 1 to 6, inclusive, shall include instruction, beginning in grade 1 and continuing through grade 6, in the following areas of study... and may include instruction in other studies which the governing board may prescribe."
+          }
+        ],
+        "required_language": "The Board recognizes that extracurricular and cocurricular activities are an integral part of the total educational program and provide opportunities for students to develop leadership skills, social responsibility, and personal interests while representing the school district.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:31:38.908936+00:00"
+}

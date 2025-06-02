@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+AR 3543: Transportation Safety And Emergencies
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Emergency Response Procedures (Confidence: 90%)
+Missing from: BOTH
+While the regulation covers safety equipment and general safety procedures, it lacks specific emergency response procedures for various transportation emergencies (accidents, medical emergencies, severe weather, mechanical breakdowns, etc.). California requires districts to have comprehensive emergency response procedures for student transportation.
+
+Legal Basis:
+- Education Code Section 32282: Each school district and county office of education is responsible for the overall development of all comprehensive school safety plans for its schools operating kindergarten or any of grades 1 to 12, inclusive.
+
+Required Language:
+Procedures for responding to transportation emergencies including: (1) Accident response procedures; (2) Medical emergency protocols; (3) Severe weather response; (4) Mechanical breakdown procedures; (5) Communication protocols with emergency services; (6) Parent notification procedures; (7) Student accountability during emergencies.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Driver Training and Certification Requirements (Confidence: 85%)
+Missing from: BOTH
+The regulation mentions informing drivers about passenger restraint procedures but lacks comprehensive driver training, certification, and ongoing professional development requirements mandated by California law.
+
+Legal Basis:
+- Education Code Section 39834: No person shall drive a school bus transporting pupils unless he or she holds a valid school bus driver's certificate issued by the Department of the California Highway Patrol.
+
+Required Language:
+Requirements for: (1) Valid school bus driver certification; (2) Initial driver training programs; (3) Annual refresher training; (4) Emergency response training; (5) Student management training; (6) Documentation of training completion; (7) Procedures for driver performance evaluation.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Vehicle Maintenance and Inspection Requirements (Confidence: 80%)
+Missing from: BOTH
+The regulation addresses safety equipment but lacks comprehensive vehicle maintenance, inspection, and safety compliance procedures required by California law to ensure ongoing vehicle safety.
+
+Legal Basis:
+- Vehicle Code Section 34501.12: Every school bus shall be inspected at least once every 45 days by a qualified person to determine that it is in safe operating condition.
+
+Required Language:
+Procedures for: (1) Regular 45-day safety inspections; (2) Daily pre-trip inspections; (3) Preventive maintenance schedules; (4) Documentation of inspections and maintenance; (5) Procedures for removing unsafe vehicles from service; (6) Compliance with CHP terminal inspections.
+
+Recommended Placement: AR
+
+----------------------------------------
+

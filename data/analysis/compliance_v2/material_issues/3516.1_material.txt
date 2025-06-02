@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+AR 3516.1: Fire Drills And Fires
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Fire Department Notification Requirement (Confidence: 90%)
+Missing from: BOTH
+Neither the BP nor AR addresses the requirement to notify the fire department about fire drill schedules and procedures. California regulations require coordination with local fire authorities.
+
+Legal Basis:
+- 5 CCR Section 550: Fire drills shall be conducted in cooperation with the local fire department having jurisdiction.
+
+Required Language:
+Fire drills shall be conducted in cooperation with the local fire department having jurisdiction. The principal or designee shall coordinate with local fire authorities regarding drill procedures and schedules as appropriate.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing High School Fire Drill Requirements (Confidence: 85%)
+Missing from: BOTH
+The AR only specifies fire drill frequency for elementary (monthly) and intermediate (four times per year) levels but omits requirements for high schools, which must also conduct fire drills four times per school year.
+
+Legal Basis:
+- Education Code Section 32001: Fire drills shall be conducted at least once each school month in elementary schools and at least four times during each school year in secondary schools.
+
+Required Language:
+Fire drills shall be held at least once a month at the elementary level and at least four times every school year at the secondary level (intermediate and high school).
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Earthquake Drill Integration (Confidence: 80%)
+Missing from: BOTH
+California law requires that fire drills include earthquake emergency procedures, but neither document addresses this integration requirement.
+
+Legal Basis:
+- Education Code Section 32001: Such fire drills shall include the procedures to be followed in earthquakes.
+
+Required Language:
+Fire drills shall include procedures to be followed in earthquakes. Staff shall be trained on when to implement earthquake safety procedures (drop, cover, hold) before evacuation and when immediate evacuation is appropriate.
+
+Recommended Placement: AR
+
+----------------------------------------
+

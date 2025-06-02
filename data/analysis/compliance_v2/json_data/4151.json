@@ -1,0 +1,78 @@
+{
+  "code": "4151",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4151",
+    "title": "Employee Compensation",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4151.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Employee Compensation Implementation",
+        "description": "While the Board Policy establishes the framework for employee compensation, there is no Administrative Regulation to provide implementation procedures. California school districts typically need detailed procedures for salary schedule administration, benefit enrollment, payroll processing, and compensation adjustments to ensure consistent and lawful implementation of the board's compensation policy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45028",
+            "text": "The governing board of a school district shall establish rules and regulations for the government and discipline of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "Administrative procedures should address: salary schedule placement and advancement, benefit enrollment processes, payroll administration, overtime compensation procedures, substitute pay rates, and documentation requirements for compensation changes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Overtime and Extra Duty Compensation Provisions",
+        "description": "Neither the policy nor regulation addresses overtime compensation, extra duty pay, or stipend arrangements. California school districts must comply with Fair Labor Standards Act (FLSA) requirements for overtime pay and establish clear procedures for additional compensation beyond regular salary schedules.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45128",
+            "text": "The governing board may authorize additional compensation for additional services performed by any employee."
+          }
+        ],
+        "required_language": "The district shall provide overtime compensation in accordance with federal and state law. Additional compensation for extra duties, stipends, and supplemental assignments shall be authorized by the superintendent or designee according to established procedures.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Substitute Employee Compensation Framework",
+        "description": "The policy does not address compensation for substitute employees, which is a significant component of district operations. Clear policies are needed for substitute teacher and classified substitute pay rates and procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44918",
+            "text": "The governing board of a school district may employ substitute teachers and fix their compensation."
+          }
+        ],
+        "required_language": "The Board shall establish compensation rates for substitute certificated and classified employees. Substitute pay rates shall be reviewed annually and adjusted as appropriate.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Annual Review Requirement for Salary Schedules",
+        "description": "While the policy establishes that salary schedules will be adopted, it does not specify that they should be reviewed annually or updated as needed. Regular review ensures schedules remain competitive and compliant with changing laws and agreements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45023",
+            "text": "The governing board shall fix and order paid the compensation of all employees of the district."
+          }
+        ],
+        "required_language": "Salary schedules shall be reviewed annually and updated as necessary to reflect negotiated agreements, market conditions, and legal requirements.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:12:30.120812+00:00"
+}

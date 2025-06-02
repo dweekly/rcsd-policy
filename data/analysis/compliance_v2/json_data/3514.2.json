@@ -1,0 +1,78 @@
+{
+  "code": "3514.2",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3514.2",
+    "title": "Integrated Pest Management",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3514.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "California Education Code requires school districts to adopt board policies for integrated pest management. While the administrative regulation contains detailed procedures, there is no corresponding board policy establishing the district's commitment to IPM, board direction, or policy framework. Board policies typically contain the \"what\" and \"why\" while regulations contain the \"how\" - both are needed for complete compliance.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17608",
+            "text": "Each school district and county office of education shall adopt an integrated pest management policy for schools under its jurisdiction."
+          }
+        ],
+        "required_language": "The Board of Education adopts this integrated pest management policy to protect the health and safety of students, staff, and the public while maintaining effective pest control on school grounds. The district shall implement IPM strategies that emphasize prevention and use of least-toxic methods, with pesticides used only when necessary and in accordance with established protocols.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Emergency Application Authority and Criteria",
+        "description": "While the regulation mentions emergency pesticide use, it lacks specific criteria for determining what constitutes an emergency and clear authority delegation. Education Code requires districts to establish when immediate pesticide use is necessary for health and safety protection.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17612(c)",
+            "text": "If a person designated by a school district or county office of education determines that there exists an immediate threat to the health or safety of pupils, staff, or other persons, pesticides may be applied without complying with the notice requirements of subdivisions (a) and (b)."
+          }
+        ],
+        "required_language": "Emergency pesticide applications may be made without advance notice only when there is an immediate threat to health or safety, such as: (1) venomous pest infestations, (2) disease vector control, or (3) structural pest damage creating safety hazards. The IPM Coordinator or designated administrator must document the emergency conditions and provide notification as soon as practicable after application.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing IPM Coordinator Qualifications",
+        "description": "The regulation designates an IPM Coordinator but does not specify required qualifications, training, or certification requirements. While not explicitly required by Education Code, best practices suggest establishing minimum qualifications for this critical role.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17608",
+            "text": "The policy shall include, but need not be limited to, both of the following: (a) A requirement that effective, least toxic pest management practices be employed."
+          }
+        ],
+        "required_language": "The IPM Coordinator shall possess knowledge of pest management principles and shall complete training in integrated pest management practices. The coordinator shall maintain current knowledge of applicable regulations and safe pesticide handling procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Annual Program Review Requirement",
+        "description": "The regulation lacks provisions for regular program evaluation and improvement. While not explicitly mandated, ongoing assessment helps ensure program effectiveness and regulatory compliance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17608",
+            "text": "Each school district and county office of education shall adopt an integrated pest management policy for schools under its jurisdiction."
+          }
+        ],
+        "required_language": "The IPM Coordinator shall conduct an annual review of the district's integrated pest management program, including evaluation of pest management effectiveness, pesticide use reduction opportunities, and compliance with notification and record-keeping requirements. A summary report shall be provided to the Superintendent annually.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:28:54.554706+00:00"
+}

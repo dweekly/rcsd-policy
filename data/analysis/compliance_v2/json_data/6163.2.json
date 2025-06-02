@@ -1,0 +1,99 @@
+{
+  "code": "6163.2",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6163.2",
+    "title": "Animals At School",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6163.2.txt"
+  },
+  "regulation": {
+    "code": "6163.2",
+    "title": "Animals At School",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6163.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Service Animal Legal Requirements and Definitions",
+        "description": "The policy mentions \"seeing-eye dogs and service dogs\" but fails to comply with current ADA definitions and requirements. California law requires districts to follow federal ADA requirements which define service animals specifically as dogs (and in limited cases miniature horses) trained to perform specific tasks for individuals with disabilities. The policy uses outdated terminology and lacks proper legal framework.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49001",
+            "text": "School districts must comply with federal civil rights laws including the Americans with Disabilities Act"
+          }
+        ],
+        "required_language": "Service animals are defined as dogs that are individually trained to do work or perform tasks for people with disabilities. Service animals are working animals, not pets. The work or task a dog has been trained to provide must be directly related to the person's disability. The district shall allow service animals to accompany students and staff with disabilities in all areas where the public is normally allowed to go.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Emotional Support Animal Distinction",
+        "description": "The policy fails to distinguish between service animals and emotional support animals, which have different legal protections and requirements under federal law. This creates potential compliance issues and confusion.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49001",
+            "text": "Districts must comply with Section 504 and ADA requirements regarding assistance animals"
+          }
+        ],
+        "required_language": "Emotional support animals, comfort animals, and therapy dogs are not service animals under the ADA. These animals may be considered as reasonable accommodations under Section 504 on a case-by-case basis through the IEP or 504 plan process.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Health Department Notification Requirements",
+        "description": "California requires school districts to coordinate with local health departments regarding animals on campus, particularly for ongoing animal presence and potential disease exposure incidents.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49403",
+            "text": "School districts shall cooperate with local health departments in matters affecting student health and safety"
+          }
+        ],
+        "required_language": "The district shall notify the local health department of any animal bite incidents or suspected animal-related disease exposure. For animals remaining on campus longer than one day, the principal shall notify the local health department and maintain records of animal health documentation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Prohibited Animals List and Safety Requirements",
+        "description": "The regulation mentions \"poisonous or wild animals\" but lacks a comprehensive prohibited animals list and specific safety protocols required by California health and safety codes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 121875",
+            "text": "Schools must maintain safe environments and prevent exposure to dangerous animals and zoonotic diseases"
+          }
+        ],
+        "required_language": "Prohibited animals include but are not limited to: venomous animals, wild or exotic animals, primates, reptiles, amphibians, birds of prey, and any animal prohibited by local health department regulations. All animal activities must include hand-washing facilities and protocols.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Last Review Date",
+        "description": "The policy and regulation were last reviewed in 2010, which predates significant changes in ADA service animal regulations (2011) and other legal developments. Regular review ensures compliance with current law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "School boards shall regularly review and update policies to ensure legal compliance"
+          }
+        ],
+        "required_language": "This policy should be reviewed and updated to reflect current legal requirements, particularly ADA service animal regulations effective 2011.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:34:32.536109+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "code": "5132",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5132",
+    "title": "Dress And Grooming",
+    "type": "Policy",
+    "last_reviewed": "10/20/2021",
+    "file_path": "data/extracted/policies/5132.txt"
+  },
+  "regulation": {
+    "code": "5132",
+    "title": "Dress And Grooming",
+    "type": "Regulation",
+    "last_reviewed": "10/20/2021",
+    "file_path": "data/extracted/regulations/5132.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Required Notification Language for Uniform Policy Implementation",
+        "description": "Education Code 35183 requires specific notification language about parents' rights when implementing a uniform policy. While the AR mentions that parents must be notified \"at least six months before\" implementation and informed of exemption rights, it lacks the mandatory specific language about the exemption process and consequences.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35183(f)",
+            "text": "The notification shall inform parents and guardians of their right to have their child exempted from the school uniform policy and shall contain information about the process for requesting an exemption. Pupils shall not be penalized academically, otherwise discriminated against, or denied attendance to school if their parents or guardians so decide."
+          }
+        ],
+        "required_language": "The notification to parents/guardians shall inform them of their right to have their child exempted from the school uniform policy and shall contain information about the process for requesting an exemption. The notification shall clearly state that pupils will not be penalized academically, otherwise discriminated against, or denied attendance to school if their parents or guardians choose to exempt their child from the uniform requirement.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Required Consultation Process for Uniform Policy Adoption",
+        "description": "Education Code 35183 requires specific consultation procedures before adopting a uniform policy, including involvement of parents, students, and school personnel. The policy mentions Board approval but lacks the mandatory consultation process requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35183(a)",
+            "text": "The governing board of a school district may adopt a policy authorizing a school to require pupils to wear schoolwide uniforms, only if the governing board does both of the following: (1) Holds a public hearing before adopting the policy. (2) After the public hearing, finds and declares that the policy is necessary to improve the learning environment, to enhance pupils' self-esteem, or to promote uniformity of dress."
+          }
+        ],
+        "required_language": "Before adopting any school uniform policy, the Board shall hold a public hearing and, after the hearing, find and declare that the policy is necessary to improve the learning environment, to enhance pupils' self-esteem, or to promote uniformity of dress. The uniform policy shall be developed in consultation with parents, pupils, and school personnel.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Incomplete Sun-Protective Clothing Requirements",
+        "description": "While the AR mentions allowing sun-protective clothing including hats for outdoor use, Education Code 35183.5 has additional specific requirements about not restricting such clothing that could be more explicitly stated.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35183.5",
+            "text": "Each school shall allow pupils to wear sun-protective clothing, including, but not limited to, hats, for outdoor use during the school day. This section shall not restrict a school's ability to prohibit pupils from wearing sun-protective clothing indoors."
+          }
+        ],
+        "required_language": "Each school shall allow students to wear sun-protective clothing, including but not limited to hats, for outdoor use during the school day. Schools may prohibit students from wearing sun-protective clothing indoors.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Reference to Protected Characteristics in Hair Discrimination",
+        "description": "While the policy references Education Code 212.1 regarding hair texture and protective hairstyles, it could be more explicit about the full scope of protected characteristics under the CROWN Act.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 212.1(a)",
+            "text": "A pupil shall not be subjected to discrimination on the basis of race, including, but not limited to, hair texture and protective hairstyles such as braids, locks, and twists."
+          }
+        ],
+        "required_language": "Students shall not be subjected to discrimination on the basis of race, including, but not limited to, hair texture and protective hairstyles such as braids, locks, and twists.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:23:12.042205+00:00"
+}

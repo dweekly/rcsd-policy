@@ -1,0 +1,63 @@
+{
+  "code": "1400",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1400",
+    "title": "Relations Between Other Governmental Agencies And The Schools",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1400.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Policy Implementation",
+        "description": "Board Policy 1400 establishes the framework for relations with governmental agencies and polling place requirements, but lacks the corresponding Administrative Regulation that should detail implementation procedures. This creates a compliance gap as the policy references actions by the \"Superintendent or designee\" without providing procedural guidance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Elections Code 12283",
+            "text": "The governing board of a school district shall allow the use of school buildings under its control as polling places when specifically requested by city or county elections officials, and shall provide adequate space and telephone/Internet access."
+          }
+        ],
+        "required_language": "Administrative procedures should include: (1) Process for receiving and responding to elections official requests; (2) Criteria for identifying appropriate polling locations within school buildings; (3) Procedures for coordinating with elections officials on space allocation and accessibility; (4) Process for providing telephone/Internet access; (5) Safety and security protocols when school is in session during elections; (6) Procedures for executing written agreements with other governmental agencies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009 (over 14 years ago). While not legally mandated, regular policy review ensures continued compliance with evolving legal requirements and best practices for intergovernmental relations.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "Governing boards have authority to establish policies for district governance, which should be regularly reviewed to ensure effectiveness and legal compliance."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and best practices. Consider establishing regular review cycles for governance policies.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Limited Scope of Intergovernmental Relations",
+        "description": "While the policy addresses elections and general agency cooperation, it could be enhanced to address other common intergovernmental relationships such as law enforcement partnerships, health department coordination, and emergency services cooperation that are typical for school districts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32280-32288",
+            "text": "School districts are required to coordinate with law enforcement and emergency services for comprehensive school safety plans and emergency response."
+          }
+        ],
+        "required_language": "Consider expanding policy to address coordination with law enforcement, emergency services, health departments, and other agencies that regularly interact with schools for student safety and welfare purposes.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:22:41.592604+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "code": "0440",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "0440",
+    "title": "District Technology Plan",
+    "type": "Policy",
+    "last_reviewed": "02/15/2017",
+    "file_path": "data/extracted/policies/0440.txt"
+  },
+  "regulation": {
+    "code": "0440",
+    "title": "District Technology Plan",
+    "type": "Regulation",
+    "last_reviewed": "02/15/2017",
+    "file_path": "data/extracted/regulations/0440.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Accessibility and Assistive Technology Requirements",
+        "description": "California requires technology plans to address accessibility for students with disabilities and ensure assistive technology is available. Neither the policy nor regulation addresses accessibility compliance, assistive technology provisions, or accommodations for students with disabilities in technology planning.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 56040",
+            "text": "Each local plan shall include provisions for assistive technology devices and assistive technology services for individuals with exceptional needs as required by federal law."
+          }
+        ],
+        "required_language": "The technology plan shall ensure accessibility for all students, including those with disabilities, and shall address the provision of assistive technology devices and services as required by federal and state law. The plan shall include strategies for ensuring technology resources are accessible and comply with applicable accessibility standards.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Digital Citizenship and Acceptable Use Policy Integration",
+        "description": "While the regulation mentions \"Internet safety and appropriate and ethical use,\" California law requires more comprehensive digital citizenship education and clear integration with acceptable use policies. The current language is insufficient to meet statutory requirements for comprehensive digital citizenship instruction.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51006",
+            "text": "It is the intent of the Legislature that pupils develop the skills and knowledge to use technology appropriately, safely, and effectively, including digital citizenship skills."
+          }
+        ],
+        "required_language": "The technology plan shall include comprehensive digital citizenship education addressing online safety, digital literacy, ethical use of technology, cyberbullying prevention, and responsible digital participation. The plan shall integrate with the district's acceptable use policy and ensure age-appropriate instruction in digital citizenship skills.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Student Data Privacy and Security Specifications",
+        "description": "While the policy mentions protecting \"private and confidential information,\" it lacks specific requirements for student data privacy, security protocols, and compliance with California's Student Data Privacy laws. The regulation contains no data privacy provisions.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49073.1",
+            "text": "A school service or digital service provider shall implement and maintain reasonable security procedures and practices appropriate to the nature of the covered information."
+          }
+        ],
+        "required_language": "The technology plan shall include specific procedures for protecting student data privacy and security, including vendor compliance requirements, data breach protocols, parental notification procedures, and compliance with the Student Data Privacy Act. The plan shall address data collection, use, storage, and disposal practices.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Technology Refresh and Sustainability Planning",
+        "description": "The regulation addresses cost estimates but lacks specific requirements for technology refresh cycles, sustainability planning, and long-term budget forecasting that are recommended best practices under California technology planning guidance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52870",
+            "text": "Technology plans should address the ongoing costs of technology implementation, including replacement and upgrade cycles."
+          }
+        ],
+        "required_language": "The cost component shall include technology refresh cycles, replacement schedules, and long-term sustainability planning to ensure continued effectiveness of technology investments.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:19:02.102955+00:00"
+}

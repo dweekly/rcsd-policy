@@ -1,0 +1,78 @@
+{
+  "code": "4119.21",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4119.21",
+    "title": "Professional Standards",
+    "type": "Policy",
+    "last_reviewed": "11/20/2019",
+    "file_path": "data/extracted/policies/4119.21.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Professional Standards Implementation",
+        "description": "Education Code 44050 requires specific procedures for implementing professional standards, including detailed processes for reporting, investigating misconduct, and disciplinary actions. While the Board Policy establishes the framework and standards, there is no Administrative Regulation to provide the procedural \"how-to\" implementation details required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44050",
+            "text": "The governing board of each school district shall adopt policies and procedures regarding the interactions between district employees and pupils... The policies and procedures shall include, but not necessarily be limited to... procedures for receiving and investigating complaints... procedures for disciplinary action."
+          }
+        ],
+        "required_language": "Administrative Regulation 4119.21 must be created to include: (1) Detailed procedures for receiving, documenting, and investigating complaints of employee misconduct; (2) Step-by-step disciplinary procedures including timelines and due process requirements; (3) Specific notification procedures to law enforcement and regulatory agencies; (4) Documentation and record-keeping requirements; (5) Training requirements and schedules for employees on professional standards; (6) Procedures for monitoring and ensuring compliance with technology use policies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Mandatory Reporting Training Requirements",
+        "description": "California law requires specific training on mandatory reporting obligations, but neither the policy nor regulation (which doesn't exist) addresses the required training components, frequency, or documentation requirements for employees regarding their mandatory reporting duties.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11165.7",
+            "text": "On or before January 1, 2021, school districts... shall provide training on the mandated reporting requirements... to employees who are mandated reporters."
+          }
+        ],
+        "required_language": "All employees who are mandated reporters shall receive training on mandatory reporting requirements within six weeks of initial employment and at least once every two years thereafter. Training shall include identification of child abuse and neglect, reporting procedures, and legal obligations. Documentation of completed training shall be maintained in personnel files.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Commission on Teacher Credentialing Reporting Procedures",
+        "description": "While the policy mentions that certificated employees \"may be subject to a report to the Commission on Teacher Credentialing,\" it lacks the mandatory reporting requirements and specific procedures required by law for certain types of misconduct.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44030.5",
+            "text": "The governing board of a school district shall report to the Commission on Teacher Credentialing... any change in the employment status of a certificated employee... as a result of an allegation of misconduct."
+          }
+        ],
+        "required_language": "The district shall report to the Commission on Teacher Credentialing within 30 days any change in employment status of a certificated employee that results from allegations of misconduct, including resignation, dismissal, non-reelection, or suspension without pay for more than 10 days. Reports shall include all required documentation and follow CTC reporting procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Specific Child Abuse Reporting Timeline",
+        "description": "The policy references AR 5141.4 for child abuse reporting procedures but doesn't include the mandatory 48-hour reporting timeline required by law, which should be emphasized in professional standards.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11166",
+            "text": "Reports shall be made immediately or as soon as practically possible by telephone to the agency and shall be prepared and sent... within 48 hours of receiving the information concerning the incident."
+          }
+        ],
+        "required_language": "Reports of suspected child abuse or neglect must be made immediately by telephone and followed by a written report within 48 hours as detailed in AR 5141.4.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:10:24.634898+00:00"
+}

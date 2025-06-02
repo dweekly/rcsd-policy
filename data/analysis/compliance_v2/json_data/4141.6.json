@@ -1,0 +1,63 @@
+{
+  "code": "4141.6",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4141.6",
+    "title": "Concerted Action/Work Stoppage",
+    "type": "Policy",
+    "last_reviewed": "06/15/2022",
+    "file_path": "data/extracted/policies/4141.6.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for handling work stoppages, there is no Administrative Regulation to provide detailed implementation procedures. The policy references that the Superintendent \"shall develop a written plan\" but lacks the procedural details typically found in AR documents for executing this plan, notification timelines, specific roles and responsibilities, and operational procedures during a work stoppage.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 3543.1",
+            "text": "Public school employers shall provide reasonable notice to the public of a pending strike by an employee organization."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: specific notification procedures and timelines; detailed emergency plan implementation steps; roles and responsibilities of administrators during work stoppages; procedures for maintaining student safety and supervision; communication protocols with various stakeholders; and documentation requirements for any disciplinary actions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Public Notification Requirements",
+        "description": "The policy mentions notifying various parties but lacks specific timing requirements for public notification. California law requires \"reasonable notice\" to the public, but the policy doesn't specify what constitutes reasonable notice or the minimum timeframes for different types of notifications.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 3543.1",
+            "text": "Public school employers shall provide reasonable notice to the public of a pending strike by an employee organization."
+          }
+        ],
+        "required_language": "The district shall provide reasonable notice to the public of a pending strike, typically no less than 10 days before the anticipated work stoppage, unless circumstances make such notice impracticable. Notice shall include the nature of the dispute, anticipated duration, and measures taken to maintain educational services.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Collective Bargaining Process",
+        "description": "The policy could be strengthened by explicitly referencing the district's commitment to the collective bargaining process and good faith negotiations as required under the Educational Employment Relations Act (EERA).",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 3543.6",
+            "text": "It shall be unlawful for a public school employer to refuse or fail to meet and negotiate in good faith with an exclusive representative."
+          }
+        ],
+        "required_language": "The district is committed to meeting and negotiating in good faith with exclusive representatives as required by the Educational Employment Relations Act.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:12:26.913047+00:00"
+}

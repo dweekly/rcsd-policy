@@ -1,0 +1,69 @@
+{
+  "code": "3515.4",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3515.4",
+    "title": "Recovery For Property Loss Or Damage",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3515.4.txt"
+  },
+  "regulation": {
+    "code": "3515.4",
+    "title": "Recovery For Property Loss Or Damage",
+    "type": "Regulation",
+    "last_reviewed": "09/16/2019",
+    "file_path": "data/extracted/regulations/3515.4.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Extraneous Sex Offender Content in Administrative Regulation",
+        "description": "The Administrative Regulation contains several paragraphs about registered sex offenders that are completely unrelated to property loss or damage recovery. This appears to be content that belongs in a different policy/regulation (likely related to student safety or community notifications) and creates confusion about the scope and purpose of this regulation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Remove the following unrelated content from AR 3515.4: \"In order to protect students while they are traveling to and from school, or attending school or a school-related activity, the Board of Education believes it is important that the district respond appropriately when a law enforcement agency notifies the district about registered sex offenders who may reside or work within district boundaries. The Superintendent or designee shall establish an ongoing relationship with law enforcement officials to coordinate the receipt and dissemination of such information. To the extent authorized by law, the Superintendent or designee also shall establish procedures for notifying appropriate staff as necessary. To protect the district and its employees from liability, employees shall disseminate sex offender information in good faith, and only in the manner and to the extent authorized by the law enforcement agency. The Superintendent or designee may annually notify parents/guardians of the availability of information about registered sex offenders on the Department of Justice's Internet website.\"",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Reference to Civil Code Section 1714.1",
+        "description": "While the regulation references Education Code 48904 for recovery from parents/guardians of minors, it does not specifically cite Civil Code Section 1714.1, which provides the broader legal foundation for parental liability for willful misconduct of minors. Including this reference would strengthen the legal basis for recovery efforts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Civil Code Section 1714.1",
+            "text": "Any act of willful misconduct of a minor that results in injury or death to another person or in any injury to the property of another, shall be imputed to the parent or guardian having custody and control of the minor for all purposes of civil damages, and such parent or guardian shall be jointly and severally liable with such minor for any damages resulting from such willful misconduct."
+          }
+        ],
+        "required_language": "Add reference: \"Recovery from parents/guardians may be sought in accordance with Education Code 48904 and Civil Code 1714.1.\"",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Documentation and Record-Keeping Requirements",
+        "description": "The regulation does not specify requirements for documenting damage assessments, maintaining records of recovery efforts, or establishing timelines for pursuing reimbursement. Proper documentation is essential for successful recovery and legal compliance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35256",
+            "text": "The governing board of each school district shall establish and maintain a uniform system of accounting and reporting for all school district funds which complies with the criteria and standards adopted by the state board pursuant to Section 41010."
+          }
+        ],
+        "required_language": "Add language requiring: \"The district shall maintain complete documentation of all property damage or loss, including photographs, repair estimates, actual costs incurred, and records of all recovery efforts. Recovery efforts should be initiated promptly after damage assessment is complete and responsible parties are identified.\"",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:29:16.415926+00:00"
+}

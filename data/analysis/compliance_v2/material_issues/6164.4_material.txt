@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6164.4: Identification And Evaluation Of Individuals For Special Education
+Last Reviewed: 12/08/2021
+================================================================================
+
+Missing Child Find Public Awareness Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires districts to conduct public awareness activities to inform the community about special education services and how to refer children for evaluation. Neither the policy nor regulation addresses the required public awareness component of the child find system.
+
+Legal Basis:
+- Education Code 56301: Each local plan shall include...procedures for the identification, screening, referral, assessment, and triennial assessment of individuals...including public awareness activities
+
+Required Language:
+The district shall conduct public awareness activities to inform parents, teachers, and other members of the community about special education services and procedures for referring children who may need special education evaluation.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Coordination with Community Agencies (Confidence: 80%)
+Missing from: BOTH
+California requires districts to coordinate child find activities with community agencies and organizations. Neither document addresses this required coordination component.
+
+Legal Basis:
+- Education Code 56301: Procedures shall include coordination with agencies and organizations involved with individuals with exceptional needs
+
+Required Language:
+The district shall coordinate child find activities with community agencies, organizations, and service providers involved with individuals with disabilities, including early intervention programs and health care providers.
+
+Recommended Placement: AR
+
+----------------------------------------
+

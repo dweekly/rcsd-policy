@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9100: Organization
+Last Reviewed: 12/07/2022
+================================================================================
+
+Missing Oath of Office Administration Requirements (Confidence: 95%)
+Missing from: BOTH
+California Education Code requires that newly elected or appointed board members take an oath of office before assuming their duties. The policy lacks any reference to oath administration procedures, timing, or requirements for the organizational meeting.
+
+Legal Basis:
+- Education Code Section 35141: Each member of a governing board of a school district, before entering upon the duties of his or her office, shall take and subscribe the oath of office prescribed by the Constitution.
+
+Required Language:
+Before entering upon their duties, newly elected or appointed Board members shall take and subscribe to the oath of office as prescribed by the California Constitution. The oath shall be administered at or before the organizational meeting.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Quorum Requirements for Organizational Meeting (Confidence: 90%)
+Missing from: BOTH
+The policy does not specify quorum requirements for conducting the organizational meeting, which is essential for ensuring the meeting can legally proceed and conduct official business including officer selection.
+
+Legal Basis:
+- Education Code Section 35145: A majority of the members of the governing board of a school district constitutes a quorum for the transaction of business.
+
+Required Language:
+A majority of Board members shall constitute a quorum for conducting the organizational meeting and transacting business.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Incomplete Brown Act Compliance for Meeting Notice (Confidence: 85%)
+Missing from: BOTH
+While the policy addresses notification to board members, it does not address public notice requirements under the Brown Act for the organizational meeting, which is a public meeting subject to open meeting laws.
+
+Legal Basis:
+- Government Code Section 54954.2: At least 72 hours before a regular meeting, the legislative body of the local agency, or its designee, shall post an agenda containing a brief general description of each item of business to be transacted or discussed at the meeting.
+
+Required Language:
+The organizational meeting shall comply with all Brown Act requirements including proper public notice and agenda posting at least 72 hours in advance of the meeting.
+
+Recommended Placement: BP
+
+----------------------------------------
+

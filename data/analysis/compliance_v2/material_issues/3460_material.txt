@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3460: Financial Reports And Accountability
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Unaudited Actuals Financial Report Requirement (Confidence: 85%)
+Missing from: BOTH
+California school districts are required to file an unaudited actuals financial report by September 15 each year. While the AR includes the annual statement of receipts and expenditures, it does not specifically address the comprehensive unaudited actuals report required by Education Code 42100, which must include detailed financial data in the format prescribed by the State Superintendent.
+
+Legal Basis:
+- Education Code 42100: On or before September 15 of each year, each school district shall file with the county superintendent of schools a report of its financial condition showing receipts and expenditures for the preceding fiscal year in the form prescribed by the Superintendent of Public Instruction.
+
+Required Language:
+The Superintendent or designee shall prepare and file with the County Superintendent of Schools an unaudited actuals financial report by September 15 of each year, showing the district's financial condition including all receipts and expenditures for the preceding fiscal year in the format prescribed by the State Superintendent of Public Instruction.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Financial Emergency and State Intervention Procedures (Confidence: 80%)
+Missing from: BOTH
+The policy mentions working with the County Superintendent when fiscal distress is predicted, but neither document contains specific procedures for state intervention scenarios, emergency apportionment processes, or the district's obligations when placed under state oversight.
+
+Legal Basis:
+- Education Code 42127.6, 42127.8: Districts under state oversight must comply with specific reporting requirements and intervention procedures when facing fiscal emergency or insolvency.
+
+Required Language:
+If the district receives a negative certification or is subject to state intervention, the Superintendent or designee shall comply with all additional reporting requirements and shall work with the assigned state administrator or fiscal advisor. The Board shall cooperate fully with state oversight procedures and implement all required corrective actions within specified timeframes.
+
+Recommended Placement: AR
+
+----------------------------------------
+

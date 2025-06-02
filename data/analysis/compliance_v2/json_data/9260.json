@@ -1,0 +1,78 @@
+{
+  "code": "9260",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9260",
+    "title": "Legal Protection",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9260.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Employee Legal Protection Provisions",
+        "description": "The policy references providing legal protection for both Board members and employees under Education Code 35208, but only details liability protection for Board members. Employees are entitled to the same legal protections and liability coverage when acting within the scope of their employment, but these protections are not specified in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35208",
+            "text": "The governing board of any school district may provide for insurance against liability of the district and the members of the governing board and employees of the district for injury to persons or damage to property."
+          }
+        ],
+        "required_language": "Employees shall receive the same liability protection as Board members when acting within the scope of their employment. No employee shall be liable for harm caused by his/her act or omission when acting within the scope of district responsibilities, subject to the same conditions and exceptions that apply to Board members.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Legal Defense and Indemnification Procedures",
+        "description": "Education Code 35208 allows districts to provide legal defense and indemnification for Board members and employees. The policy mentions insurance but lacks specific procedures for when and how the district will provide legal defense, retain counsel, or indemnify Board members and employees facing legal action while acting within their official capacity.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35208",
+            "text": "The governing board of any school district may provide for insurance against liability of the district and the members of the governing board and employees of the district for injury to persons or damage to property."
+          }
+        ],
+        "required_language": "The district shall provide legal defense and may provide indemnification for Board members and employees when they are named as defendants in legal proceedings arising from acts or omissions occurring within the scope of their official duties, unless such acts fall within the specified exceptions to liability protection.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Reference to Government Code Section 995 et seq.",
+        "description": "California Government Code sections 995-996.6 provide additional framework for public entity defense and indemnification obligations. While not strictly required to be cited, referencing these sections would provide more comprehensive legal foundation for the district's legal protection obligations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 995",
+            "text": "A public entity shall provide for the defense of any civil action or proceeding brought against any of its employees or former employees on account of an act or omission in the scope of his employment as such employee."
+          }
+        ],
+        "required_language": "Legal protection shall be provided in accordance with Government Code sections 995-996.6 regarding public entity defense and indemnification obligations.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Administrative Regulation Document",
+        "description": "Given the complexity of legal protection procedures, including when to provide defense, how to select counsel, coordination with insurance carriers, and claims processing, an Administrative Regulation should exist to detail implementation procedures for the Board Policy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35208",
+            "text": "The governing board of any school district may provide for insurance against liability of the district and the members of the governing board and employees of the district."
+          }
+        ],
+        "required_language": "Administrative procedures should detail: notification requirements when legal action is threatened or filed; procedures for requesting legal defense; coordination with insurance carriers; selection and retention of legal counsel; and documentation requirements for legal protection claims.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:40:14.468662+00:00"
+}

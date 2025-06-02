@@ -1,0 +1,93 @@
+{
+  "code": "3451",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3451",
+    "title": "Petty Cash Funds",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3451.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy for Petty Cash Funds",
+        "description": "California Education Code requires school districts to establish board policies for financial management practices including petty cash funds. The district has only an Administrative Regulation but lacks the foundational Board Policy that should establish the board's direction on petty cash fund authorization, oversight, and accountability requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 42600",
+            "text": "The governing board of each school district shall prescribe and enforce rules for the management of the property and business of the district."
+          }
+        ],
+        "required_language": "The Board authorizes the Superintendent or designee to establish petty cash funds to facilitate minor purchases and operational needs. All petty cash funds shall be subject to appropriate controls, documentation, and periodic review to ensure accountability and proper stewardship of district funds.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Audit and Internal Control Requirements",
+        "description": "California Government Code requires specific internal controls and audit procedures for cash funds. The current regulation lacks provisions for periodic audits, segregation of duties, and formal internal control procedures that are mandated for public agencies handling cash.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 26909",
+            "text": "Public agencies must maintain adequate internal controls over cash handling and provide for periodic audits of cash funds."
+          }
+        ],
+        "required_language": "Petty cash funds shall be subject to periodic unannounced audits by district personnel. Internal controls shall include segregation of duties where feasible, dual authorization for fund establishment, and mandatory reporting of discrepancies. All funds shall be audited at least annually as part of the district's financial audit.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Prohibited Use Restrictions",
+        "description": "Public fund management requires explicit restrictions on prohibited uses of petty cash to prevent misuse of public funds. The regulation lacks specific prohibitions required under California public finance law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 1090",
+            "text": "Public funds must be used only for authorized public purposes, and agencies must establish clear restrictions on prohibited uses."
+          }
+        ],
+        "required_language": "Petty cash funds shall not be used for: personal expenses, loans to employees, cash advances, alcoholic beverages, gifts or donations, or any expenses that could constitute a conflict of interest or violation of public trust.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Documentation Retention Requirements",
+        "description": "The regulation mentions \"appropriate documentation\" but lacks specific requirements for documentation retention periods as required under California records retention laws.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35250",
+            "text": "School districts must maintain financial records in accordance with established retention schedules."
+          }
+        ],
+        "required_language": "All petty cash documentation, including receipts, vouchers, and reconciliation records, shall be retained for a minimum of three years or as required by the district's records retention schedule, whichever is longer.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Typographical Error",
+        "description": "The regulation contains a spelling error that should be corrected for professional standards.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "N/A",
+            "text": "Professional document standards"
+          }
+        ],
+        "required_language": "Change \"unforeseen\" to \"unforeseen\" should be \"unforeseen\" to \"unforeseen\"",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:26:50.397969+00:00"
+}

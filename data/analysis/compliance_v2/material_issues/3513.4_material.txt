@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3513.4: Drug And Alcohol Free Schools
+Last Reviewed: 08/25/2021
+================================================================================
+
+Missing Specific Disciplinary Standards and Sanctions (Confidence: 90%)
+Missing from: BOTH
+Federal law requires clear specification of disciplinary sanctions for violations. The policy only states students "may be subject to discipline" without detailing specific consequences or progressive discipline standards.
+
+Legal Basis:
+- 20 USC 7114(d)(1)(A): Standards of conduct that clearly prohibit, at a minimum, the unlawful possession, use, or distribution of illicit drugs and alcohol by students and employees on school premises or as part of any school activities.
+
+Required Language:
+Clear statement of disciplinary sanctions that will be imposed on students and employees who violate the standards of conduct, including but not limited to: suspension, expulsion, referral to law enforcement, and mandatory participation in drug/alcohol abuse assistance or rehabilitation programs.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Health Risks and Legal Consequences Information (Confidence: 85%)
+Missing from: BOTH
+Federal law requires the policy to include information about health risks associated with drug and alcohol use and legal sanctions under local, state, and federal law.
+
+Legal Basis:
+- 20 USC 7114(d)(1)(B)(i)(ii): A description of the health risks associated with the use of illicit drugs and the abuse of alcohol; and a description of any drug or alcohol counseling, treatment, or rehabilitation or re-entry programs that are available.
+
+Required Language:
+Description of health risks associated with illicit drug use and alcohol abuse, applicable legal sanctions under local, state and federal law, and available drug/alcohol counseling, treatment, rehabilitation and re-entry programs.
+
+Recommended Placement: AR
+
+----------------------------------------
+

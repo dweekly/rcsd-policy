@@ -1,0 +1,93 @@
+{
+  "code": "6190",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6190",
+    "title": "Evaluation Of The Instructional Program",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6190.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy establishes the framework for instructional program evaluation but lacks the detailed administrative regulation that should specify implementation procedures, timelines, responsibilities, and specific processes for conducting evaluations. This creates a gap in operational guidance for staff.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation 6190 should include: specific procedures for conducting curriculum evaluation, timelines for evaluation activities, assignment of responsibilities to staff positions, data collection and analysis procedures, reporting formats and schedules, community engagement processes, and procedures for implementing program improvements based on evaluation results.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Local Control and Accountability Plan (LCAP) Integration",
+        "description": "The policy does not reference the Local Control and Accountability Plan (LCAP) or Local Control Funding Formula (LCFF) requirements for program evaluation and reporting, which are now central to California's accountability system. This is a significant omission given the policy's 2010 date predates these requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52060",
+            "text": "On or before July 1, 2014, and each year thereafter, the governing board of a school district shall adopt a local control and accountability plan using a template adopted by the state board."
+          }
+        ],
+        "required_language": "The district's evaluation of the instructional program shall align with and support the Local Control and Accountability Plan (LCAP) and shall include assessment of progress on state priority areas and locally identified priorities. Evaluation results shall inform LCAP development and annual updates.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Outdated Assessment References",
+        "description": "The policy references the Academic Performance Index (API), which was suspended in 2013 and replaced by the California School Dashboard. The evaluation framework needs updating to reflect current state accountability measures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52052",
+            "text": "The Superintendent shall establish the California School Dashboard to identify schools and local educational agencies for assistance and support and to assist schools and local educational agencies in identifying areas of need."
+          }
+        ],
+        "required_language": "Replace references to \"Academic Performance Index\" with \"California School Dashboard indicators and performance levels\" and include evaluation based on Dashboard performance indicators including academic achievement, academic progress, graduation rates, suspension rates, chronic absenteeism, and English learner progress.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to California Assessment of Student Performance and Progress (CAASPP)",
+        "description": "The policy does not specifically reference the CAASPP system, which is California's primary assessment system for measuring student achievement and should be included in instructional program evaluation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60640",
+            "text": "The California Assessment of Student Performance and Progress system shall measure pupil progress toward achieving the state-adopted academic content standards."
+          }
+        ],
+        "required_language": "Evaluation shall include analysis of student performance on the California Assessment of Student Performance and Progress (CAASPP) and other state-required assessments to measure progress toward state academic standards.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Stakeholder Engagement Requirements",
+        "description": "While the policy mentions reporting to the community, it lacks specific requirements for stakeholder engagement in the evaluation process, which is emphasized in current California education accountability frameworks.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52062",
+            "text": "The governing board of a school district shall ensure that a local control and accountability plan and any revisions are developed with meaningful engagement of parents, pupils, and other stakeholders."
+          }
+        ],
+        "required_language": "The evaluation process shall include meaningful engagement of parents/guardians, students, staff, and community stakeholders in reviewing program effectiveness and identifying areas for improvement.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:37:25.856235+00:00"
+}

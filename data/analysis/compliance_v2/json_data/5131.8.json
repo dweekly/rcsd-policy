@@ -1,0 +1,93 @@
+{
+  "code": "5131.8",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5131.8",
+    "title": "Mobile Communication Devices",
+    "type": "Policy",
+    "last_reviewed": "01/13/2021",
+    "file_path": "data/extracted/policies/5131.8.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Mobile Communication Device Policy Implementation",
+        "description": "Education Code 35291 requires that board policies be implemented through administrative regulations that provide specific procedures. The mobile communication device policy references several procedural elements that require detailed implementation guidance, but no administrative regulation exists to provide the \"how\" for policy implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35291",
+            "text": "The governing board of any school district may prescribe and enforce rules not inconsistent with law or with the rules prescribed by the State Board of Education, for the government and discipline of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "Administrative Regulation 5131.8 should be created to provide specific procedures for: confiscation and return processes, storage requirements, parent notification procedures, disciplinary consequences, emergency use protocols, and staff training requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Confiscation and Return Procedures",
+        "description": "The policy states that devices may be confiscated and stored securely, but provides no specific procedures for how long devices may be held, parent notification requirements, or return processes. This creates potential due process issues and inconsistent implementation across schools.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48901",
+            "text": "A teacher may exercise the same physical control over a pupil that a parent would be legally privileged to exercise but which in no event shall exceed the amount of physical control reasonably necessary to maintain order, protect property, or protect the health and safety of pupils."
+          }
+        ],
+        "required_language": "Specific procedures must be established for: maximum duration of confiscation, parent/guardian notification requirements, secure storage protocols, documentation requirements, and return procedures including any conditions for return.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Parent Notification Requirements",
+        "description": "When mobile devices are confiscated from students, parents have a right to be notified. The policy does not address when and how parents will be informed of confiscation, which could violate due process requirements and create liability issues.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48900.5",
+            "text": "Suspension, including supervised suspension, or expulsion may be imposed only when other means of correction fail to bring about proper conduct."
+          }
+        ],
+        "required_language": "Parents/guardians must be notified within [specific timeframe] when a student's mobile communication device is confiscated. Notification shall include the reason for confiscation, duration of confiscation, and procedures for return.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Definition of \"Noninstructional Time\"",
+        "description": "The policy permits use during \"noninstructional time\" but does not define this term, which could lead to inconsistent interpretation and enforcement across schools and classrooms.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48901.5",
+            "text": "Except as provided in subdivision (b), a pupil shall not be prohibited from possessing or using an electronic signaling device while on school grounds or while attending a school-sponsored activity."
+          }
+        ],
+        "required_language": "\"Noninstructional time\" means periods before and after school, lunch periods, passing periods between classes, and other times when students are not engaged in classroom instruction or school-sponsored activities requiring attention.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Emergency Use Procedures",
+        "description": "While the policy allows emergency use per Education Code 48901.5, it does not provide guidance on what constitutes an emergency or procedures for emergency use, which could lead to inconsistent application.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48901.5(b)(1)",
+            "text": "In the case of an emergency, or in response to a perceived threat of danger."
+          }
+        ],
+        "required_language": "Procedures should specify what constitutes an emergency, how students should seek permission for emergency use when possible, and post-incident reporting requirements for emergency device usage.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:23:04.733182+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "code": "5123",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5123",
+    "title": "Promotion/Acceleration/Retention",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5123.txt"
+  },
+  "regulation": {
+    "code": "5123",
+    "title": "Promotion/Acceleration/Retention",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5123.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Supplemental Instruction Program Requirements",
+        "description": "Education Code 37252.2 requires specific components for supplemental instruction programs offered to retained students in grades 2-8, including direct instruction, systematic instruction, intensive instruction, and daily assessments. While the BP mentions offering supplemental instruction \"in accordance with Education Code 37252.2,\" neither document specifies the required program components.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 37252.2(a)",
+            "text": "The program of supplemental instruction shall include direct instruction, systematic instruction, and intensive instruction and shall provide daily assessments of pupil progress."
+          }
+        ],
+        "required_language": "Supplemental instruction programs for retained students in grades 2-8 shall include: (1) Direct instruction, (2) Systematic instruction, (3) Intensive instruction, and (4) Daily assessments of pupil progress.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Parent Notification Requirements for Supplemental Instruction",
+        "description": "Education Code 37252.2 requires districts to notify parents/guardians about supplemental instruction programs, including information about the program and the option to decline participation. This notification requirement is completely absent from both documents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 37252.2(b)",
+            "text": "The school district shall notify the parent or guardian of a pupil who is recommended for or who is retained in the same grade level for a second or subsequent time that supplemental instruction will be made available to the pupil. The parent or guardian may decline to have the pupil participate in the supplemental instruction."
+          }
+        ],
+        "required_language": "The district shall notify parents/guardians of students recommended for or retained in grades 2-8 that supplemental instruction will be made available. Parents/guardians may decline to have their child participate in supplemental instruction.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Specific Identification Timeline Requirements",
+        "description": "While the AR mentions notifying parents \"as early in the school year as practicable,\" Education Code 48070.5 requires more specific timing for identification of at-risk students. The regulation should specify the systematic process for early identification.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48070.5(a)",
+            "text": "As early as possible in the school year, but not later than the completion of the first semester of the school year, the superintendent of the school district or his or her designee shall identify those pupils who should be retained in their current grade level or who are at risk of being retained."
+          }
+        ],
+        "required_language": "Students who should be retained or are at risk of retention shall be identified as early as possible in the school year, but not later than the completion of the first semester.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Incomplete Academic Achievement Indicators",
+        "description": "The BP mentions \"informal assessment test results\" as indicators but does not complete the sentence or provide a comprehensive list of academic achievement indicators as referenced in the regulation.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48070.5(b)",
+            "text": "Students shall be identified on the basis of either statewide assessment results or grades and other indicators of academic achievement, as established by the governing board of the school district."
+          }
+        ],
+        "required_language": "Academic achievement indicators shall include grades, statewide assessment results, informal assessment test results, and other measures as determined appropriate by the district.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:20:44.219451+00:00"
+}

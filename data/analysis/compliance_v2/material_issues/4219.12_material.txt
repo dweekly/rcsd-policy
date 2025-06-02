@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4219.12: Title IX Sex Discrimination and Sex-Based Harassment Complaint Procedures
+Last Reviewed: 05/19/2021
+================================================================================
+
+Missing Title IX Coordinator Contact Information (Confidence: 90%)
+Missing from: BOTH
+While the regulation references that contact information for the Title IX Coordinator is listed in AR 4119.11/4219.11/4319.11, this information should also be readily available in the Title IX policy/regulation itself. Federal regulations require that districts prominently display Title IX Coordinator contact information.
+
+Legal Basis:
+- 34 CFR 106.8(a): Each recipient must designate and authorize at least one employee to coordinate its efforts to comply with its responsibilities under this part, which employee must be referred to as the "Title IX Coordinator." The recipient must notify applicants for admission and employment, students, parents or legal guardians of elementary and secondary school students, employees, and all unions or professional organizations holding collective bargaining or professional agreements with the recipient, of the name or title, office address, electronic mail address, and telephone number of the employee or employees designated as the Title IX Coordinator.
+
+Required Language:
+The policy or regulation must include the Title IX Coordinator's name or title, office address, email address, and telephone number, or state where this information can be found and ensure it is readily accessible.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Non-Retaliation Statement (Confidence: 85%)
+Missing from: BOTH
+While the regulation mentions prohibition against false statements, it lacks a clear, prominent statement prohibiting retaliation against individuals who report sex discrimination or harassment, file complaints, or participate in the complaint process. This is a fundamental protection required by Title IX.
+
+Legal Basis:
+- 34 CFR 106.71: No recipient or other person may intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right or privilege secured by title IX or this part, or because the individual has made a report or complaint, testified, assisted, or participated or refused to participate in any manner in an investigation, proceeding, or hearing under this part.
+
+Required Language:
+The district prohibits retaliation against any person who reports sex discrimination or harassment, files a complaint, or participates in the complaint process. Retaliation is a violation of federal law and district policy and will result in disciplinary action.
+
+Recommended Placement: BP
+
+----------------------------------------
+

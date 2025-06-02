@@ -1,0 +1,96 @@
+{
+  "code": "5142",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5142",
+    "title": "Safety",
+    "type": "Policy",
+    "last_reviewed": "05/24/2023",
+    "file_path": "data/extracted/policies/5142.txt"
+  },
+  "regulation": {
+    "code": "5142",
+    "title": "Safety",
+    "type": "Regulation",
+    "last_reviewed": "05/24/2023",
+    "file_path": "data/extracted/regulations/5142.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Student ID Card Safety Information Requirements",
+        "description": "The Board Policy mentions that student ID cards for grades 7-8 shall include safety information including National Suicide Prevention Lifeline and National Domestic Violence Hotline, but the policy is incomplete and cuts off mid-sentence. The Administrative Regulation contains no implementation procedures for this requirement. This is a specific statutory mandate that must be fully addressed.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 215.5",
+            "text": "Pupil identification cards issued by public and private schools serving pupils in any of grades 7 to 12, inclusive, shall have printed on either side the telephone number for a national suicide prevention hotline, and may also have printed on either side the telephone numbers for one or more local suicide prevention hotlines or the Crisis Text Line."
+          },
+          {
+            "citation": "Education Code Section 217",
+            "text": "Pupil identification cards issued by public and private schools serving pupils in any of grades 7 to 12, inclusive, shall have printed on either side the telephone number for the National Domestic Violence Hotline."
+          }
+        ],
+        "required_language": "Complete the policy language and add AR procedures: Student identification cards for grades 7-8 shall have printed on them: (1) The National Suicide Prevention Lifeline telephone number (988) and may include Crisis Text Line and/or local suicide prevention hotline numbers; (2) The National Domestic Violence Hotline telephone number (1-800-799-7233). The AR should specify implementation procedures including card design, printing requirements, and distribution processes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Comprehensive Emergency Procedures and Drills",
+        "description": "While the AR mentions that principals shall establish emergency procedures, there are no specific requirements for mandatory emergency drills (fire, earthquake, lockdown) or comprehensive emergency response plans as required by state law. This is a critical safety compliance gap.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32001",
+            "text": "The governing board of every school district shall cause all buildings and grounds under its jurisdiction to be inspected for safety by July 1 of each year by persons competent to detect hazardous or unsafe conditions and shall cause such conditions to be corrected immediately or shall close any building in which such conditions exist and which cannot be immediately corrected."
+          },
+          {
+            "citation": "Education Code Section 35295-35297",
+            "text": "Requires school districts to develop comprehensive school safety plans and conduct emergency drills including fire drills and earthquake emergency procedure drills."
+          }
+        ],
+        "required_language": "Add to AR: Emergency drill requirements including monthly fire drills, earthquake drills at least once per quarter, and lockdown drills as appropriate. Specify procedures for comprehensive school safety plan development, annual safety inspections, and emergency response protocols.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mandated Reporter Training Requirements",
+        "description": "While the AR mentions training for staff on reporting potential homicidal acts, there is no mention of mandated reporter training requirements for child abuse reporting, which is required for all school personnel.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11165.7",
+            "text": "Training regarding the mandated reporting requirements shall be provided to persons who are mandated reporters as a condition of employment."
+          },
+          {
+            "citation": "Education Code Section 44691",
+            "text": "Requires training for school personnel on child abuse identification and reporting."
+          }
+        ],
+        "required_language": "Add to AR: All school personnel shall receive mandated reporter training regarding child abuse identification and reporting requirements as a condition of employment and periodically thereafter. Training shall be documented and records maintained.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Cybersecurity Guidance Implementation",
+        "description": "The BP mentions that the Superintendent shall review cybersecurity guidance and incorporate practices, but the AR contains no specific implementation procedures for cybersecurity measures, digital media monitoring, or incident response protocols.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51006",
+            "text": "Requires instruction on digital citizenship, including appropriate online behavior and cybersecurity awareness."
+          }
+        ],
+        "required_language": "Add to AR: Specific procedures for implementing cybersecurity measures, monitoring digital media content, responding to cyber threats, and providing digital citizenship instruction to students.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:26:11.539870+00:00"
+}

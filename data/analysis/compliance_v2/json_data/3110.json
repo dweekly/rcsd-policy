@@ -1,0 +1,63 @@
+{
+  "code": "3110",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3110",
+    "title": "Transfer Of Funds",
+    "type": "Policy",
+    "last_reviewed": "06/23/2021",
+    "file_path": "data/extracted/policies/3110.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Complete Mismatch Between Policy Title and Content",
+        "description": "The policy is titled \"Transfer of Funds\" but contains content about school monitoring and intervention for underperforming schools (CSI, TSI, ATSI). This appears to be a data entry error where content from a different policy was inserted. The policy lacks any content related to fund transfers, which are governed by specific Education Code requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 42600-42603",
+            "text": "Governs transfers between funds and requires board approval for interfund transfers, with specific procedures and limitations on transfers between restricted and unrestricted funds."
+          }
+        ],
+        "required_language": "The entire policy content must be replaced with provisions addressing: (1) Board approval requirements for fund transfers, (2) Procedures for interfund transfers, (3) Restrictions on transfers from restricted funds, (4) Documentation and reporting requirements, and (5) Compliance with Education Code sections 42600-42603.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Administrative Regulation",
+        "description": "No Administrative Regulation exists to provide implementation procedures for fund transfers. Given the technical and procedural nature of fund transfers, detailed administrative procedures are essential for compliance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 42600",
+            "text": "Requires specific procedures for interfund transfers and board oversight, necessitating detailed administrative procedures."
+          }
+        ],
+        "required_language": "Administrative regulation should include: (1) Step-by-step procedures for requesting and processing fund transfers, (2) Required documentation and forms, (3) Timeline requirements, (4) Staff responsibilities and approval hierarchy, (5) Monitoring and reporting procedures, and (6) Record-keeping requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Board Approval Requirements",
+        "description": "The policy fails to address the fundamental requirement that interfund transfers must receive board approval, which is a core legal requirement for fund transfer policies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 42600",
+            "text": "Requires board approval for transfers between funds, with specific limitations on transfers from restricted to unrestricted funds."
+          }
+        ],
+        "required_language": "All interfund transfers shall require prior approval by the Board of Education, except for transfers specifically authorized by law or previously approved by the Board through established procedures.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:24:15.112680+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "code": "9323",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9323",
+    "title": "Meeting Conduct",
+    "type": "Policy",
+    "last_reviewed": "04/19/2023",
+    "file_path": "data/extracted/policies/9323.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation Document",
+        "description": "California school districts are required to have both Board Policy and Administrative Regulation documents to properly implement meeting conduct procedures. While the Board Policy establishes the framework and requirements, an Administrative Regulation should provide detailed implementation procedures, forms, and operational guidance for staff and the public.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to provide detailed procedures for: meeting setup and logistics, public comment registration processes, time management procedures, disruption response protocols, recording equipment guidelines, and staff responsibilities during meetings.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Incomplete Remote Meeting Participation Procedures",
+        "description": "While the policy mentions remote participation requirements under Government Code 54953, it lacks comprehensive procedures for hybrid meetings, technical requirements, and public access during remote participation scenarios.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54953(f)",
+            "text": "A member of a legislative body who attends a meeting solely by teleconference, or by other electronic means, shall be considered absent from the meeting for purposes of establishing a quorum."
+          }
+        ],
+        "required_language": "Detailed procedures for remote participation including: technical requirements for board members participating remotely, public access to remote meetings, procedures for public comment during remote meetings, and requirements for posting remote access information.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Closed Session Transition Procedures",
+        "description": "The policy lacks specific procedures for transitioning between open and closed sessions, including required announcements and procedural steps.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54957.7",
+            "text": "Prior to holding any closed session, the legislative body of a local agency shall disclose, in an open meeting, the item or items to be discussed in the closed session."
+          }
+        ],
+        "required_language": "Procedures for announcing closed session items, transitioning between open and closed sessions, and reporting actions taken in closed session as required by law.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:40:50.476432+00:00"
+}

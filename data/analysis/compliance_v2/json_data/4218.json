@@ -1,0 +1,99 @@
+{
+  "code": "4218",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4218",
+    "title": "Dismissal/Suspension/Disciplinary Action",
+    "type": "Policy",
+    "last_reviewed": "12/07/2022",
+    "file_path": "data/extracted/policies/4218.txt"
+  },
+  "regulation": {
+    "code": "4218",
+    "title": "Dismissal/Suspension/Disciplinary Action",
+    "type": "Regulation",
+    "last_reviewed": "12/07/2022",
+    "file_path": "data/extracted/regulations/4218.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Compulsory Leave Pay Status Requirements",
+        "description": "California law requires specific provisions regarding pay status during compulsory leave of absence for employees charged with certain offenses. The regulation addresses when compulsory leave must be imposed but fails to specify the required pay status distinctions between mandatory and optional leave offenses.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45304",
+            "text": "For mandatory leave offenses, the employee shall be placed on leave without pay. For optional leave offenses, the employee may be placed on leave with or without pay at the district's discretion."
+          }
+        ],
+        "required_language": "For mandatory leave of absence offenses, the employee shall be placed on compulsory leave without pay. For optional leave of absence offenses, the employee may be placed on compulsory leave with or without pay at the discretion of the Superintendent or designee.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Notice Requirements for Compulsory Leave",
+        "description": "Education Code requires specific notice procedures when placing an employee on compulsory leave of absence, including written notice with specific content requirements. The regulation describes when compulsory leave applies but does not include the mandatory notice procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45304",
+            "text": "The governing board shall provide written notice to the employee of the compulsory leave, including the specific charges and the employee's right to a hearing."
+          }
+        ],
+        "required_language": "Written notice of compulsory leave shall be served upon the employee either personally or by registered or certified mail. The notice shall include the specific criminal charges, the basis for the compulsory leave, and information regarding the employee's rights during the leave period.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Rehabilitation and Return to Work Provisions",
+        "description": "California law requires districts to address procedures for employee rehabilitation and return to work following disciplinary actions, particularly for substance abuse issues. Neither document addresses these required rehabilitation considerations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45113",
+            "text": "The governing board may require an employee to participate in rehabilitation programs as a condition of continued employment or return to work following disciplinary action."
+          }
+        ],
+        "required_language": "As an alternative to dismissal or in conjunction with other disciplinary action, the Board may require an employee to participate in appropriate rehabilitation programs, including but not limited to substance abuse counseling or anger management, as a condition of continued employment.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Appeal Rights Information",
+        "description": "While the policy addresses Board hearing procedures, it does not clearly inform employees of their rights to appeal Board decisions to outside agencies or courts as provided by law.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45117",
+            "text": "An employee may appeal a Board's disciplinary decision to the superior court or other appropriate appellate body as provided by law."
+          }
+        ],
+        "required_language": "Following a final Board decision on disciplinary action, employees retain the right to appeal the decision to appropriate courts or agencies as provided by law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Progressive Discipline Framework",
+        "description": "While the policy lists types of disciplinary actions, it lacks guidance on progressive discipline principles that should generally be followed, except for the most serious offenses.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45113",
+            "text": "Disciplinary actions should generally be progressive in nature, with more severe penalties reserved for repeated violations or serious misconduct."
+          }
+        ],
+        "required_language": "Except for serious misconduct warranting immediate severe discipline, disciplinary actions shall generally be progressive, beginning with less severe measures and escalating based on the severity of the offense and the employee's disciplinary history.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:14:31.016982+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "0510",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "0510",
+    "title": "School Accountability Report Card",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/0510.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for SARC Implementation",
+        "description": "While the Board Policy establishes the framework for School Accountability Report Cards, there is no Administrative Regulation to provide detailed implementation procedures. This creates a significant gap in operational guidance for staff responsible for preparing, reviewing, and disseminating SARCs, potentially leading to inconsistent compliance with state requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35256",
+            "text": "Requires specific procedures for SARC preparation, content requirements, timelines, and dissemination methods that need detailed implementation guidance beyond policy-level direction."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: detailed procedures for data collection and verification; specific content requirements and formatting standards; timeline for preparation and review process; methods for ensuring accuracy of reported data; procedures for Board approval process; specific dissemination methods and notification requirements; language accessibility provisions; and procedures for addressing data corrections or updates.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Language Accessibility Requirements",
+        "description": "Neither the policy nor regulation addresses requirements for providing SARCs in languages other than English for communities with significant non-English speaking populations, which is required under federal and state accessibility laws.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35256(d)",
+            "text": "School districts must ensure meaningful access to school information for parents with limited English proficiency, which includes translation of SARCs when required by federal civil rights laws."
+          }
+        ],
+        "required_language": "The district shall provide SARCs in languages other than English when required by federal civil rights laws, including when the district serves a significant number of parents who speak a language other than English. Translation requirements shall be determined based on district demographics and federal guidance.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Specific Content Requirements",
+        "description": "The policy references using the state template but does not specify the mandatory content elements required by Education Code, creating risk of non-compliance with specific reporting requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35256(b)",
+            "text": "Specifies mandatory content including student achievement data, school conditions, teacher qualifications, curriculum information, and other required elements that must be included in every SARC."
+          }
+        ],
+        "required_language": "Each SARC shall include all content required by Education Code Section 35256, including but not limited to: student achievement data by grade and subject; school safety and climate information; teacher and staff qualification data; curriculum and instructional materials information; school facilities conditions; and other elements specified in current state requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2009, which predates significant changes to SARC requirements and state accountability systems. While not a legal compliance issue, this suggests the policy may not reflect current best practices or recent statutory changes.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35256",
+            "text": "SARC requirements have been updated multiple times since 2009, including changes related to new accountability systems and reporting requirements."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to ensure alignment with current Education Code requirements and state guidance for SARC preparation and dissemination.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:19:25.330086+00:00"
+}

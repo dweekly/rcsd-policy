@@ -1,0 +1,63 @@
+{
+  "code": "3440",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3440",
+    "title": "Inventories",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3440.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy for Inventories",
+        "description": "Education Code 35168 requires the governing board to adopt policies for inventory management. While the Administrative Regulation provides detailed procedures, there is no corresponding Board Policy establishing the board's direction, authority delegation, or policy framework for inventory management. The regulation cannot stand alone without board policy authorization.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35168",
+            "text": "\"The governing board of any school district may provide for...the establishment and maintenance of inventories of supplies, materials, and equipment...\""
+          }
+        ],
+        "required_language": "The Board recognizes the importance of maintaining accurate inventories of district property to ensure proper control, conservation, and accountability of public assets. The Superintendent or designee shall establish and maintain comprehensive inventories of district property in accordance with state and federal requirements. The Board delegates to the Superintendent the authority to establish procedures for inventory management, including periodic physical inventories and reconciliation of property records.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Board Notification Requirements",
+        "description": "While the regulation covers inventory procedures, there is no provision for reporting inventory results, discrepancies, or disposal activities to the Board. Best practice and accountability principles suggest the Board should receive periodic reports on inventory status and any significant issues.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35168",
+            "text": "Governing board authority over district property implies oversight responsibility for inventory management and disposal activities."
+          }
+        ],
+        "required_language": "The Superintendent shall provide periodic reports to the Board on inventory status, including results of physical inventories, significant discrepancies, and disposal of district property.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Federal Threshold Reference",
+        "description": "The regulation references 34 CFR 80.3 and 80.32 for federal property requirements, but these regulations have been superseded by 2 CFR 200 (Uniform Administrative Requirements). While the $5,000 threshold remains current, the citation should be updated for accuracy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "2 CFR 200.313 and 200.314",
+            "text": "Current federal regulations governing equipment and property management for federal awards, replacing the former 34 CFR 80 requirements."
+          }
+        ],
+        "required_language": "Update citations from \"34 CFR 80.3\" to \"2 CFR 200.1\" and from \"34 CFR 80.32\" to \"2 CFR 200.313\" while maintaining the same substantive requirements.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:26:35.650339+00:00"
+}

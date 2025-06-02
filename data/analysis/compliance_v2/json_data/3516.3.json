@@ -1,0 +1,63 @@
+{
+  "code": "3516.3",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3516.3",
+    "title": "Earthquake Emergency Procedure System",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3516.3.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "California Education Code requires school districts to establish earthquake emergency procedures through formal board policy adoption. While the Administrative Regulation contains comprehensive implementation procedures, there is no corresponding Board Policy to provide the foundational policy framework, board direction, and formal adoption of the earthquake emergency procedure system as required by law.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282",
+            "text": "\"Earthquake emergency procedure systems shall be established in every school building having an occupant capacity of 50 or more students or more than one classroom.\" This statutory requirement necessitates formal board adoption through policy."
+          }
+        ],
+        "required_language": "The Board of Education recognizes the importance of earthquake preparedness and hereby establishes an earthquake emergency procedure system for all district schools. The Board directs the Superintendent or designee to develop and implement comprehensive earthquake emergency procedures in accordance with Education Code 32282 and Government Code 8607. These procedures shall be incorporated into each school's comprehensive safety plan and shall comply with the Standardized Emergency Management System and National Incident Management System requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Annual Review and Update Requirements",
+        "description": "While the regulation contains comprehensive earthquake procedures, it lacks provisions for annual review and updates of the earthquake emergency procedures. Best practices and legal compliance typically require regular review to ensure procedures remain current with changing conditions, staff, and facilities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32288",
+            "text": "School safety plans must be reviewed and updated annually, and earthquake emergency procedures as part of the comprehensive school safety plan should follow similar review requirements."
+          }
+        ],
+        "required_language": "Earthquake emergency procedures shall be reviewed annually and updated as necessary to reflect changes in school facilities, enrollment, staffing, and identified hazards. The annual review shall include evaluation of drill effectiveness and coordination with local emergency response agencies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Communication with Parents/Guardians",
+        "description": "The regulation does not address communication procedures with parents/guardians during or after an earthquake emergency. This is important for family reunification and reducing confusion during emergency situations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282",
+            "text": "Earthquake emergency procedures must include comprehensive safety and care provisions, which should encompass parent communication and student release procedures."
+          }
+        ],
+        "required_language": "Earthquake emergency procedures shall include protocols for communicating with parents/guardians about the emergency situation and student status, including procedures for student release and family reunification. Communication methods may include emergency notification systems, website updates, and coordination with local media when appropriate.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:29:41.268924+00:00"
+}

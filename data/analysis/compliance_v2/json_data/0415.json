@@ -1,0 +1,99 @@
+{
+  "code": "0415",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "0415",
+    "title": "Equity",
+    "type": "Policy",
+    "last_reviewed": "11/18/2020",
+    "file_path": "data/extracted/policies/0415.txt"
+  },
+  "regulation": {
+    "code": "0415",
+    "title": "Equity",
+    "type": "Regulation",
+    "last_reviewed": "03/24/2021",
+    "file_path": "data/extracted/regulations/0415.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Annual Equity Report Requirement",
+        "description": "California Education Code requires districts to annually report on equity progress and outcomes. Neither the policy nor regulation establishes procedures for creating, reviewing, or submitting annual equity reports to demonstrate compliance with state equity mandates.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52052",
+            "text": "The governing board of a school district shall annually consider the progress of pupils in each of the state priorities and shall approve goals for the school district and all schools operated by the school district for each of the state priorities, as applicable."
+          }
+        ],
+        "required_language": "The district shall prepare and submit an annual equity report documenting progress toward eliminating achievement gaps and ensuring equitable outcomes for all student groups, including specific metrics and timelines for improvement.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Complaint Procedures for Equity Violations",
+        "description": "The policy and regulation lack specific procedures for filing, investigating, and resolving complaints related to equity violations or discriminatory practices. This is required under the Uniform Complaint Procedures and civil rights laws.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 234.1",
+            "text": "It is the policy of the State of California to afford all persons in public schools, regardless of their disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes, equal rights and opportunities in the educational institutions of the state."
+          }
+        ],
+        "required_language": "The district shall establish clear procedures for filing complaints related to equity violations, including timelines for investigation, resolution processes, and appeal rights. All complaints shall be handled in accordance with the district's Uniform Complaint Procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Title IX Coordinator and Civil Rights Compliance Officer Designation",
+        "description": "Federal law requires districts to designate specific individuals responsible for coordinating compliance with civil rights laws, including Title IX. The policy mentions equity generally but does not designate responsible compliance officers.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 221.61",
+            "text": "Each local educational agency shall designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under Title IX, including any investigation of any complaint filed with the local educational agency alleging its noncompliance with Title IX or alleging any actions which would be prohibited by Title IX."
+          }
+        ],
+        "required_language": "The district shall designate a Title IX Coordinator and Civil Rights Compliance Officer responsible for coordinating compliance with federal and state civil rights laws, investigating complaints, and ensuring equitable treatment of all students and staff.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Timeline for Policy Review",
+        "description": "While the regulation mentions \"ongoing review\" and \"regularly conduct a review,\" it lacks specific timelines for systematic policy review to ensure continued compliance with evolving equity requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "On or before July 1 of each year, the governing board of each school district shall hold a public hearing to adopt a budget for the subsequent fiscal year."
+          }
+        ],
+        "required_language": "The district shall conduct a comprehensive review of all equity-related policies and procedures at least annually, with results reported to the Board by a specified date each year.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Data Privacy Protections for Disaggregated Student Data",
+        "description": "The policy requires data disaggregation by race, ethnicity, and socio-economic status but does not address privacy protections and confidentiality requirements when handling sensitive demographic data.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49073",
+            "text": "Each school district shall inform the parent or guardian of a pupil of the information contained in the pupil record and of his or her rights pursuant to this chapter."
+          }
+        ],
+        "required_language": "All disaggregated student data shall be collected, stored, and analyzed in compliance with state and federal privacy laws, with appropriate safeguards to protect student confidentiality while enabling equity analysis.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:18:22.465550+00:00"
+}

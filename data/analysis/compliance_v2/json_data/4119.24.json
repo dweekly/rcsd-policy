@@ -1,0 +1,78 @@
+{
+  "code": "4119.24",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4119.24",
+    "title": "Maintaining Appropriate Adult-Student Interactions",
+    "type": "Policy",
+    "last_reviewed": "11/20/2019",
+    "file_path": "data/extracted/policies/4119.24.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 44050 requires districts to establish procedures for implementing appropriate adult-student interaction policies. While the Board Policy establishes the framework and expectations, there is no Administrative Regulation providing specific implementation procedures, complaint processes, investigation protocols, or training requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44050",
+            "text": "The governing board of a school district shall establish a policy on interactions between district employees and pupils... The policy shall include procedures for receiving and investigating complaints alleging violations of the policy."
+          }
+        ],
+        "required_language": "Administrative Regulation must include: (1) Specific procedures for receiving complaints alleging violations; (2) Investigation protocols and timelines; (3) Training requirements for employees on appropriate interactions; (4) Monitoring and supervision procedures; (5) Documentation and record-keeping requirements; (6) Notification procedures to parents/guardians and law enforcement when appropriate.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Complaint Investigation Procedures",
+        "description": "Education Code 44050 specifically requires procedures for receiving and investigating complaints. While the BP mentions reporting to the Superintendent, it lacks detailed procedural requirements for how complaints will be processed, investigated, and resolved.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44050(b)",
+            "text": "The policy shall include procedures for receiving and investigating complaints alleging violations of the policy."
+          }
+        ],
+        "required_language": "Specific procedures must be established for: (1) How complaints are received and documented; (2) Who conducts investigations; (3) Investigation timelines; (4) Rights of complainants and accused parties; (5) Evidence gathering procedures; (6) Decision-making process; (7) Appeal procedures; (8) Documentation requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Training Requirements",
+        "description": "While the policy references providing the employee code of conduct to parents, there are no specific training requirements for employees, contractors, and volunteers on appropriate adult-student interactions, which is essential for effective implementation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44050",
+            "text": "The governing board shall establish a policy on interactions between district employees and pupils that promotes appropriate relationships and boundaries."
+          }
+        ],
+        "required_language": "Requirements for mandatory training on appropriate adult-student interactions for all employees, contractors, and volunteers, including: (1) Initial training upon hire/assignment; (2) Annual refresher training; (3) Training content requirements; (4) Documentation of training completion; (5) Consequences for failure to complete required training.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Mandated Reporting Requirements",
+        "description": "The policy does not explicitly reference mandated reporting requirements under Penal Code 11166, which may apply when inappropriate adult-student interactions constitute child abuse or neglect.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11166",
+            "text": "A mandated reporter shall make a report to an agency specified in Section 11165.9 whenever the mandated reporter, in the mandated reporter's professional capacity or within the scope of the mandated reporter's employment, has knowledge of or observes a child whom the mandated reporter knows or reasonably suspects has been the victim of child abuse or neglect."
+          }
+        ],
+        "required_language": "Reference that violations of this policy may trigger mandated reporting requirements under Penal Code 11166, and that employees must comply with all mandated reporting obligations in addition to district reporting procedures.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:10:48.002787+00:00"
+}

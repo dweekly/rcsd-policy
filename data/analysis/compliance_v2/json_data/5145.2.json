@@ -1,0 +1,84 @@
+{
+  "code": "5145.2",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5145.2",
+    "title": "Freedom Of Speech/Expression",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5145.2.txt"
+  },
+  "regulation": {
+    "code": "5145.2",
+    "title": "Freedom Of Speech/Expression",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5145.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Student Appeal Process for Publication Restrictions",
+        "description": "Education Code 48907 requires districts to establish a clear appeal process when student expression is restricted in school publications. While the AR mentions students can \"seek review\" from the Superintendent, it lacks the required formal appeal procedures, timelines, and process details mandated by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48907(b)",
+            "text": "\"Each governing board shall adopt rules and regulations which shall include reasonable provisions for the time, place, and manner of conducting such activities within its respective jurisdiction.\""
+          }
+        ],
+        "required_language": "Students may appeal restrictions on expression through a formal process that includes: (1) written appeal to the Superintendent within 5 school days of restriction, (2) Superintendent review and written response within 10 school days, (3) final appeal to the Board of Education if desired, with decision rendered within 30 days.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Time, Place, and Manner Regulations",
+        "description": "Education Code 48907 requires governing boards to adopt specific rules regarding the time, place, and manner of student expression activities. While the AR addresses some distribution guidelines, it lacks comprehensive time, place, and manner regulations for all forms of student expression covered in the policy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48907(b)",
+            "text": "\"Each governing board shall adopt rules and regulations which shall include reasonable provisions for the time, place, and manner of conducting such activities within its respective jurisdiction.\""
+          }
+        ],
+        "required_language": "Specific time, place, and manner regulations for all forms of student expression including: bulletin board usage procedures, assembly and demonstration guidelines, petition circulation rules, and online expression protocols with clear parameters for each activity type.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Documentation Requirements for Off-Campus Expression Discipline",
+        "description": "While the BP states that off-campus expression discipline requires documentation of impact, neither document provides the specific procedural requirements for how this documentation must be collected, reviewed, and maintained as required for due process protections.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48900 et seq.",
+            "text": "Student discipline procedures must include proper documentation and due process requirements for any disciplinary action."
+          }
+        ],
+        "required_language": "Procedures for documenting off-campus expression impacts shall include: (1) written documentation of specific disruption or threat, (2) evidence collection protocols, (3) student notification and hearing procedures, (4) record retention requirements, and (5) appeal processes consistent with general discipline procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Legal References",
+        "description": "The policy references Education Code 48950, but this section was repealed and its provisions incorporated into other sections. While not affecting substantive compliance, this creates potential confusion and should be updated for accuracy.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48907",
+            "text": "Current law governing student expression is primarily contained in Education Code 48907, with 48950 having been repealed."
+          }
+        ],
+        "required_language": "Remove reference to Education Code 48950 and ensure all citations reference current applicable law, primarily Education Code 48907.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:27:24.055158+00:00"
+}

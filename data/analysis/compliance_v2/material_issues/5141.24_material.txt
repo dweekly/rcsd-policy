@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+AR 5141.24: Specialized Health Care Services
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Emergency Response Procedures (Confidence: 90%)
+Missing from: BOTH
+Neither the BP nor AR contains specific procedures for medical emergencies related to specialized health care services. California regulations require districts to establish emergency response protocols for students receiving specialized health care services.
+
+Legal Basis:
+- 5 CCR Section 3051.12(c): Emergency care procedures shall be established for each student.
+
+Required Language:
+Emergency care procedures shall be established for each student receiving specialized health care services. These procedures shall be developed in consultation with the student's physician, included in the student's health care plan, and communicated to all relevant school personnel.
+
+Recommended Placement: AR
+
+----------------------------------------
+

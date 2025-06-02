@@ -1,0 +1,78 @@
+{
+  "code": "6172",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "6172",
+    "title": "Gifted And Talented Student Program",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6172.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The district has only an Administrative Regulation (AR 6172) but no corresponding Board Policy (BP 6172). California law requires board policies to establish the district's commitment to serving gifted and talented students, including board direction on program goals, student rights, and parental notification requirements. The AR alone cannot fulfill the governance requirements that must be established at the board policy level.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 52200",
+            "text": "It is the intent of the Legislature to provide educational opportunities for gifted and talented pupils enrolled in the public schools of California."
+          }
+        ],
+        "required_language": "The Board of Education recognizes that gifted and talented students have unique educational needs that require specially designed instruction and services. The district shall provide programs and services to meet the needs of gifted and talented students as defined in Education Code 52201. The Board shall ensure equal access to gifted and talented programs regardless of economic, linguistic, or cultural background.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Program Standards and Evaluation Requirements",
+        "description": "While the AR references that the program plan shall be \"designed in accordance with state program standards,\" it does not specify the actual program standards required by 5 CCR 3832 or include provisions for program evaluation and reporting as required by state regulations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 3832",
+            "text": "Programs for gifted and talented pupils shall be designed to meet program standards including: differentiated curriculum and instruction, ongoing assessment, professional development, and program evaluation."
+          }
+        ],
+        "required_language": "The district's gifted and talented program shall meet state program standards including: (1) differentiated curriculum and instruction appropriate to students' needs, (2) ongoing assessment of student progress, (3) professional development for staff, and (4) regular program evaluation. The Superintendent shall annually evaluate program effectiveness and report to the Board.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Appeal Process for Identification Decisions",
+        "description": "The regulation describes the identification process but does not include an appeal or review process for parents who disagree with identification decisions, which is a standard requirement for special programs and due process protections.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 3825",
+            "text": "Districts shall establish procedures for reviewing identification decisions and resolving disagreements regarding student eligibility for gifted and talented programs."
+          }
+        ],
+        "required_language": "Parents/guardians may request review of identification decisions. The Superintendent or designee shall establish procedures for reviewing eligibility determinations and resolving disagreements, including timelines for review and notification of decisions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated References and Review Date",
+        "description": "The policy was last updated in 2010 and may not reflect current legal requirements or best practices. Regular review ensures compliance with evolving legal standards and educational research.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 52200-52212",
+            "text": "Gifted and talented education requirements have been updated since 2010, and districts should regularly review policies for current compliance."
+          }
+        ],
+        "required_language": "This policy and regulation should be reviewed and updated to ensure current compliance with state law and regulations.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:35:53.289610+00:00"
+}

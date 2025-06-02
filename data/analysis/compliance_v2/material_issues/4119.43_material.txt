@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4119.43: Universal Precautions
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Exposure Control Plan Requirements (Confidence: 95%)
+Missing from: BOTH
+California requires school districts to establish and maintain a written exposure control plan that meets specific regulatory requirements. While the policy mentions "exposure control plan," neither document establishes the plan's required components, annual review process, or employee accessibility requirements mandated by state regulations.
+
+Legal Basis:
+- 8 CCR 5193(c): Each employer having an employee with occupational exposure shall establish a written Exposure Control Plan designed to eliminate or minimize employee exposure... The plan shall be reviewed and updated at least annually and whenever necessary to reflect new or modified tasks and procedures which affect occupational exposure and to reflect new or revised employee positions with occupational exposure... The plan shall be made available to employees in accordance with 8 CCR 3204.
+
+Required Language:
+The Superintendent or designee shall establish and maintain a written Exposure Control Plan designed to eliminate or minimize employee exposure to bloodborne pathogens. The plan shall: 1) Identify job classifications and tasks with occupational exposure; 2) Include methods of compliance including engineering controls, work practices, and personal protective equipment; 3) Specify procedures for evaluating exposure incidents; 4) Be reviewed and updated at least annually; 5) Be made accessible to employees upon request.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Hepatitis B Vaccination Program Requirements (Confidence: 90%)
+Missing from: BOTH
+State regulations require employers to provide hepatitis B vaccination at no cost to employees with occupational exposure. While the regulation mentions vaccine availability and cost coverage, it lacks the mandatory vaccination program requirements including timing, declination procedures, and post-exposure prophylaxis.
+
+Legal Basis:
+- 8 CCR 5193(f): The employer shall make available the hepatitis B vaccine and vaccination series to all employees who have occupational exposure, and post-exposure evaluation and follow-up to all employees who have had an exposure incident... The employer shall ensure that employees who decline to accept hepatitis B vaccination offered sign the declination statement.
+
+Required Language:
+The district shall provide hepatitis B vaccination at no cost to all employees with occupational exposure within 10 working days of initial assignment. Employees who decline vaccination must sign a declination statement. Post-exposure evaluation and follow-up shall be provided to employees who experience an exposure incident, including prophylaxis when medically indicated.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Training Program Requirements (Confidence: 85%)
+Missing from: BOTH
+California regulations mandate specific training programs for employees with occupational exposure. Neither document addresses the required training content, frequency, timing for new employees, or documentation requirements that must be provided at no cost to employees.
+
+Legal Basis:
+- 8 CCR 5193(g): The employer shall ensure that all employees with occupational exposure participate in a training program... Training shall be provided at the time of initial assignment to tasks where occupational exposure may take place and at least annually thereafter... Training shall be tailored to the education and language background of employees.
+
+Required Language:
+The district shall provide training at no cost to employees with occupational exposure at the time of initial assignment and annually thereafter. Training shall include: explanation of bloodborne pathogen standards, epidemiology and symptoms of bloodborne diseases, modes of transmission, exposure control plan details, recognition of exposure situations, use of personal protective equipment, hepatitis B vaccine information, emergency procedures, and post-exposure evaluation procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Medical Recordkeeping Requirements (Confidence: 90%)
+Missing from: BOTH
+State regulations require employers to maintain specific medical records for employees with occupational exposure, including vaccination status and exposure incidents. Neither document addresses these mandatory recordkeeping requirements, confidentiality protections, or retention periods.
+
+Legal Basis:
+- 8 CCR 5193(h): The employer shall establish and maintain an accurate record for each employee with occupational exposure... Medical records shall be kept confidential and shall not be disclosed or reported without the employee's express written consent to any person within or outside the workplace except as required by this section or as may be required by law.
+
+Required Language:
+The district shall maintain confidential medical records for each employee with occupational exposure, including hepatitis B vaccination status, post-exposure evaluation and follow-up records, and healthcare professional's written opinions. Records shall be maintained for the duration of employment plus 30 years and kept confidential in accordance with applicable regulations.
+
+Recommended Placement: AR
+
+----------------------------------------
+

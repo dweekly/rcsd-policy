@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5131.1: Bus Conduct
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Due Process Requirements for Transportation Suspension (Confidence: 85%)
+Missing from: BOTH
+California law requires specific due process procedures before denying transportation services to students, including written notice, opportunity for hearing, and appeal rights. While the AR mentions "notice and warning," it lacks the comprehensive due process protections mandated by law.
+
+Legal Basis:
+- Education Code Section 48915.5: Before a pupil may be denied transportation services, the pupil and the pupil's parent or guardian shall be given written notice of the intention to deny transportation services and the reasons therefor, and shall be given an opportunity for a hearing before the governing board or a person designated by the governing board.
+
+Required Language:
+Before denying transportation services, the district shall provide written notice to the student and parent/guardian stating the intention to deny services and the specific reasons. The notice shall include the right to request a hearing before the governing board or designee within a specified timeframe. The student shall have the right to present evidence and testimony at the hearing, and the right to appeal the decision.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Emergency Evacuation Procedures (Confidence: 90%)
+Missing from: BOTH
+California regulations require school districts to establish and communicate emergency evacuation procedures for school buses. Neither the policy nor regulation addresses emergency evacuation requirements, safety drills, or emergency exit procedures.
+
+Legal Basis:
+- 5 CCR Section 14103: The governing board of each school district providing pupil transportation services shall adopt rules and regulations for pupil conduct while riding on school buses, including emergency evacuation procedures.
+
+Required Language:
+Students shall be instructed in emergency evacuation procedures including location and use of emergency exits, evacuation signals, and proper evacuation techniques. Emergency evacuation drills shall be conducted as required by law. Students must follow all emergency procedures and directions from the bus driver during emergency situations.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Incomplete Video Surveillance Privacy Protections (Confidence: 80%)
+Missing from: BOTH
+While the AR addresses video surveillance procedures, it lacks specific privacy protections required under California privacy laws, including data retention limits, access restrictions, and privacy impact considerations for minors.
+
+Legal Basis:
+- Education Code Section 49073.6: Student privacy rights must be protected in the collection, maintenance, and disclosure of student information, including video recordings that may contain personally identifiable information about students.
+
+Required Language:
+Video recordings shall be maintained securely with access limited to authorized personnel only. Recordings containing no misconduct shall be erased within a specified timeframe not to exceed 30 days. Any disclosure of video recordings must comply with student privacy laws and may require parental consent for minor students.
+
+Recommended Placement: AR
+
+----------------------------------------
+

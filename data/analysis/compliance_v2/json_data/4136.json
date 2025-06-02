@@ -1,0 +1,93 @@
+{
+  "code": "4136",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4136",
+    "title": "Nonschool Employment",
+    "type": "Policy",
+    "last_reviewed": "06/15/2022",
+    "file_path": "data/extracted/policies/4136.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy establishes the framework for nonschool employment approval but lacks detailed administrative procedures for implementation. California Education Code requires districts to have clear procedures for evaluating potential conflicts of interest and managing the approval process.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 1126",
+            "text": "Requires school districts to establish procedures to prevent conflicts of interest in employment matters"
+          }
+        ],
+        "required_language": "Administrative procedures should include: application forms and timelines, specific evaluation criteria, appeal procedures, documentation requirements, monitoring and compliance processes, and consequences for violations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Political Reform Act Compliance Requirements",
+        "description": "The policy lacks reference to Political Reform Act requirements for disclosure of economic interests and potential conflicts of interest that may arise from outside employment, particularly for designated employees.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 87100",
+            "text": "No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest"
+          }
+        ],
+        "required_language": "Outside employment must comply with Political Reform Act requirements. Designated employees must disclose potential conflicts of interest arising from outside employment on Form 700 statements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Incompatible Activities Prohibition",
+        "description": "While the policy mentions activities that are \"inconsistent, incompatible, or inimical,\" it doesn't explicitly reference the Government Code prohibition on incompatible activities for public employees.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 1126",
+            "text": "Officers and employees shall not engage in any employment or activity that is inconsistent, incompatible, in conflict with, or inimical to his or her duties as an officer or employee of the agency"
+          }
+        ],
+        "required_language": "This policy is established in compliance with Government Code Section 1126 regarding incompatible activities for public employees.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Collective Bargaining Agreements",
+        "description": "The policy should acknowledge that outside employment provisions may be subject to applicable collective bargaining agreement terms for represented employees.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 3543.2",
+            "text": "Matters within the scope of representation include wages, hours of employment, and other terms and conditions of employment"
+          }
+        ],
+        "required_language": "Outside employment authorization shall be subject to applicable collective bargaining agreement provisions for represented employees.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Confidentiality and Proprietary Information Protection",
+        "description": "The policy should explicitly address protection of district confidential information and proprietary materials in outside employment contexts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49076",
+            "text": "Information concerning a pupil shall not be disclosed except as provided in this article"
+          }
+        ],
+        "required_language": "Employees engaged in outside employment shall not disclose or use confidential district information, student records, or proprietary materials in connection with outside activities.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:12:09.137455+00:00"
+}

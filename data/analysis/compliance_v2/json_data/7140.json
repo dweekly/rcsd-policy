@@ -1,0 +1,93 @@
+{
+  "code": "7140",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "7140",
+    "title": "Architectural And Engineering Services",
+    "type": "Policy",
+    "last_reviewed": "08/25/2021",
+    "file_path": "data/extracted/policies/7140.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for architectural and engineering services, there is no Administrative Regulation to provide detailed implementation procedures. California law requires specific procedural elements that are typically contained in administrative regulations, including detailed selection processes, contract requirements, and oversight procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17302",
+            "text": "The governing board of any school district may employ or contract with a licensed architect or structural engineer, or both, to prepare plans, specifications, and estimates for the construction, reconstruction, or alteration of any school building..."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to establish detailed procedures for: (1) competitive selection processes for architects and engineers, (2) contract terms and requirements, (3) oversight and supervision procedures, (4) plan review and approval processes, (5) coordination with state agencies, and (6) documentation requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Licensing and Certification Requirements",
+        "description": "The policy mentions \"licensed and certified architect and/or structural engineer\" but does not specify the California licensing requirements or verification procedures. California law requires specific professional licensing that must be verified.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17302",
+            "text": "The governing board of any school district may employ or contract with a licensed architect or structural engineer..."
+          }
+        ],
+        "required_language": "All architects must be licensed by the California Architects Board, and all structural engineers must be licensed by the California Board for Professional Engineers, Land Surveyors, and Geologists. The district shall verify current licensure status before contract execution.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Contract Terms and Professional Standards",
+        "description": "The policy lacks specific requirements for contract terms, professional liability insurance, indemnification, and performance standards that are typically required for architectural and engineering services contracts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17302",
+            "text": "...to prepare plans, specifications, and estimates for the construction, reconstruction, or alteration of any school building and for the observation of the work of construction."
+          }
+        ],
+        "required_language": "Contracts shall include requirements for professional liability insurance, errors and omissions coverage, indemnification provisions, performance standards, deliverable specifications, and compliance with all applicable building codes and accessibility requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Accessibility Compliance",
+        "description": "While the policy mentions \"applicable safety and design standards,\" it does not specifically reference accessibility requirements under the Americans with Disabilities Act and California accessibility standards, which are mandatory for school facilities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17267",
+            "text": "Plans and specifications for the construction of any school building shall be submitted to the Department of General Services for approval..."
+          }
+        ],
+        "required_language": "All architectural and engineering services shall ensure compliance with the Americans with Disabilities Act, California Building Code accessibility requirements, and all applicable federal and state accessibility standards.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Documentation and Record Retention Requirements",
+        "description": "The policy does not address requirements for maintaining records of the selection process, contracts, plan approvals, and other documentation related to architectural and engineering services.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17302",
+            "text": "The architect or structural engineer shall be responsible for preparing all construction plans, specifications, and estimates and for the observation of the work of construction."
+          }
+        ],
+        "required_language": "The district shall maintain records of all selection processes, contracts, plans, specifications, estimates, construction observation reports, and related documentation in accordance with applicable retention schedules.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:37:45.939502+00:00"
+}

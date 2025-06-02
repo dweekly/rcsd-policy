@@ -1,0 +1,63 @@
+{
+  "code": "0520",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "0520",
+    "title": "Intervention In Underperforming Schools",
+    "type": "Policy",
+    "last_reviewed": "06/23/2021",
+    "file_path": "data/extracted/policies/0520.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for intervention in underperforming schools, there is no corresponding Administrative Regulation to provide detailed implementation procedures. Given the complexity of state and federal accountability requirements, specific procedures are needed for identifying schools, implementing interventions, monitoring progress, and coordinating with external agencies.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 52064.5, 52071, 52072",
+            "text": "These sections establish detailed requirements for technical assistance, intervention processes, and coordination with county and state agencies that require procedural implementation guidance."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: procedures for identifying underperforming schools and student subgroups; timelines for requesting and implementing technical assistance; documentation requirements for county and state reporting; procedures for coordinating with external service providers; monitoring and evaluation processes for intervention effectiveness; and staff responsibilities for implementation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Federal School Improvement Requirements",
+        "description": "The policy mentions schools identified for comprehensive support and improvement, targeted support and improvement, or additional targeted support and improvement under federal law (20 USC 6311) but lacks detail about the specific requirements and timelines for these federal accountability measures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6311 (Every Student Succeeds Act)",
+            "text": "Federal law requires specific procedures and timelines for schools identified for improvement, including stakeholder engagement, evidence-based interventions, and progress monitoring."
+          }
+        ],
+        "required_language": "Schools identified under federal accountability requirements shall develop school improvement plans within specified timelines, engage stakeholders in the planning process, implement evidence-based interventions, and undergo regular progress monitoring as required by federal regulations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Stakeholder Engagement Procedures",
+        "description": "The policy does not address requirements for engaging parents, students, and community members in the intervention and improvement planning process, which is typically required under both state and federal accountability systems.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 52060, 20 USC 6311",
+            "text": "Both state LCAP requirements and federal school improvement requirements mandate meaningful stakeholder engagement in planning and implementation processes."
+          }
+        ],
+        "required_language": "The district shall ensure meaningful engagement of parents, students, teachers, and community members in the development and implementation of school improvement plans and intervention strategies, including opportunities for input and feedback throughout the process.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:19:22.565898+00:00"
+}

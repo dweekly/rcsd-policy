@@ -1,0 +1,78 @@
+{
+  "code": "4313.2",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4313.2",
+    "title": "Demotion/Reassignment",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4313.2.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy establishes the authority for demotion/reassignment but lacks the detailed procedural requirements mandated by Education Code. An Administrative Regulation is needed to specify the implementation procedures, timelines, notice requirements, and due process protections that must be followed when demoting or reassigning administrative employees.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44951",
+            "text": "Requires specific procedures for demotion of certificated administrative employees, including written notice, statement of reasons, and opportunity for hearing"
+          }
+        ],
+        "required_language": "Administrative Regulation should include: (1) Written notice requirements and timelines; (2) Statement of specific reasons for demotion/reassignment; (3) Due process procedures including hearing rights; (4) Appeal processes; (5) Documentation requirements; (6) Distinction between voluntary and involuntary actions; (7) Compliance with collective bargaining agreements",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Notice and Timeline Requirements",
+        "description": "Neither the BP nor AR specify the mandatory notice periods and procedural timelines required by Education Code for administrative demotions. The policy's general reference to \"statutory deadlines\" is insufficient without specific implementation details.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44951(a)",
+            "text": "Requires written notice at least 30 days before the effective date of demotion for certificated administrative employees"
+          }
+        ],
+        "required_language": "Written notice of demotion shall be given at least 30 days before the effective date. Notice shall include specific reasons for the action and inform the employee of their right to request a hearing before the governing board.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Hearing Rights and Due Process Procedures",
+        "description": "The documents lack specific provisions for employee hearing rights and due process procedures required when demoting administrative employees. While the BP mentions \"due process procedures\" generally, it doesn't specify the actual procedural protections.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44951(b)",
+            "text": "Provides that demoted employees may request a hearing before the governing board within 30 days of receiving notice"
+          }
+        ],
+        "required_language": "An employee subject to demotion may request a hearing before the governing board within 30 days of receiving written notice. The hearing shall provide the employee opportunity to be heard and present evidence regarding the proposed demotion.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Lack of Distinction Between Voluntary and Involuntary Actions",
+        "description": "The policy does not distinguish between voluntary reassignments (which may not require the same procedural protections) and involuntary demotions or reassignments that constitute disciplinary actions requiring full due process.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44951",
+            "text": "Due process requirements apply specifically to involuntary demotions, while voluntary reassignments may have different procedural requirements"
+          }
+        ],
+        "required_language": "Distinguish between voluntary reassignments (with employee consent) and involuntary demotions/reassignments, with full due process procedures applying to involuntary actions.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:16:20.445380+00:00"
+}

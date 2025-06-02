@@ -1,0 +1,63 @@
+{
+  "code": "9320",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9320",
+    "title": "Meetings And Notices",
+    "type": "Policy",
+    "last_reviewed": "05/24/2023",
+    "file_path": "data/extracted/policies/9320.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Meeting Procedures Implementation",
+        "description": "While the Board Policy provides comprehensive coverage of meeting requirements under the Brown Act, there is no corresponding Administrative Regulation to establish specific implementation procedures. This creates a gap in operational guidance for staff responsible for executing meeting requirements, particularly for complex procedures like teleconferencing, emergency meetings, and public accommodation processes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54950 et seq. (Brown Act)",
+            "text": "The Brown Act requires specific procedural compliance that benefits from detailed administrative implementation guidance to ensure consistent execution of legal requirements."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to provide specific procedures for: agenda preparation and posting timelines, public notification processes, teleconference setup and technical requirements, emergency meeting notification procedures, public accommodation request handling, and meeting documentation requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Incomplete Reference to Outdated Teleconferencing Provisions",
+        "description": "The policy references teleconferencing provisions that expire January 1, 2024, and January 1, 2026, but lacks clarity on what procedures will apply after these sunset dates. This could create confusion for ongoing implementation.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54953",
+            "text": "Teleconferencing provisions under AB 2449 include specific sunset dates, requiring districts to plan for transition back to traditional teleconferencing requirements."
+          }
+        ],
+        "required_language": "Add language clarifying that after the sunset dates specified in Government Code 54953, teleconferencing will revert to traditional Brown Act requirements unless extended or modified by subsequent legislation.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Language on Translation Services",
+        "description": "While the policy addresses disability accommodations, it does not specifically address language interpretation services for non-English speaking community members, which may be required in districts with significant non-English speaking populations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54954.2",
+            "text": "Public agencies should provide reasonable accommodations to ensure meaningful public participation, which may include language interpretation services."
+          }
+        ],
+        "required_language": "Add provisions for language interpretation services when requested in advance or when needed to ensure meaningful public participation in board meetings.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:40:33.331198+00:00"
+}

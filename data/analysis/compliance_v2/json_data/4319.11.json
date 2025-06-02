@@ -1,0 +1,84 @@
+{
+  "code": "4319.11",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4319.11",
+    "title": "Sex Discrimination and Sex-Based Harassment",
+    "type": "Policy",
+    "last_reviewed": "04/27/2022",
+    "file_path": "data/extracted/policies/4319.11.txt"
+  },
+  "regulation": {
+    "code": "4319.11",
+    "title": "Sex Discrimination and Sex-Based Harassment",
+    "type": "Regulation",
+    "last_reviewed": "04/27/2022",
+    "file_path": "data/extracted/regulations/4319.11.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Mandatory Reporting Requirements for Sexual Assault",
+        "description": "California law requires that employees who are mandated reporters must report suspected sexual assault to law enforcement and child protective services when it involves minors. The policy and regulation fail to address the intersection between sexual harassment complaints and mandatory reporting obligations, which could result in failure to comply with legal reporting requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11166",
+            "text": "A mandated reporter who has knowledge of or observes a child whom the mandated reporter knows or reasonably suspects has been the victim of child abuse or neglect shall report the known or suspected instance of child abuse or neglect to a child protective agency immediately or as soon as practically possible by telephone and shall prepare and send a written report thereof within 36 hours of receiving the information concerning the incident."
+          }
+        ],
+        "required_language": "When a complaint of sexual harassment involves suspected child abuse or sexual assault of a minor, employees who are mandated reporters must comply with child abuse reporting requirements under Penal Code Section 11166, including immediate reporting to child protective services and law enforcement, in addition to following district complaint procedures.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Prohibition Against Discrimination Based on Pregnancy",
+        "description": "While the BP mentions harassment based on pregnancy, neither document explicitly prohibits discrimination in employment decisions based on pregnancy, childbirth, or related medical conditions as required by the Fair Employment and Housing Act.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12945",
+            "text": "It shall be an unlawful employment practice for an employer to refuse to hire or employ a person or to refuse to select a person for a training program leading to employment, or to bar or to discharge a person from employment or from a training program leading to employment, or to discriminate against a person in compensation or in terms, conditions, or privileges of employment because of pregnancy, childbirth, or related medical conditions."
+          }
+        ],
+        "required_language": "The district prohibits discrimination in employment decisions based on pregnancy, childbirth, or related medical conditions, including but not limited to hiring, promotion, termination, compensation, and terms and conditions of employment.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Reference to Lactation Accommodation Rights",
+        "description": "The regulation should include information about lactation accommodation rights as part of pregnancy-related protections, as this is closely related to sex discrimination and pregnancy discrimination.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 1030",
+            "text": "An employer shall provide a reasonable amount of break time to accommodate an employee desiring to express breast milk for the employee's infant child. The break time shall, if possible, run concurrently with any break time already provided to the employee."
+          }
+        ],
+        "required_language": "The district shall provide reasonable break time and appropriate facilities for employees who need to express breast milk, in accordance with Labor Code Section 1030.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Timeline for Initial Response to Complaints",
+        "description": "While the AR references other complaint procedures, it should specify the initial response timeline for acknowledging receipt of sexual harassment complaints to ensure prompt handling.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "2 CCR 11023",
+            "text": "The employer shall take all reasonable steps to prevent harassment from occurring and shall have in place procedures for the investigation of harassment complaints that are adequate, reliable, and impartial."
+          }
+        ],
+        "required_language": "The Title IX Coordinator or designee shall acknowledge receipt of all sexual harassment complaints within [specific timeframe, typically 5-10 business days] and inform the complainant of the applicable complaint procedure and next steps.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:16:46.426925+00:00"
+}

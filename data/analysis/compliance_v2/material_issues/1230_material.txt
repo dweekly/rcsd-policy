@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1230: School-Connected Organizations
+Last Reviewed: 06/15/2022
+================================================================================
+
+Missing Prohibition on Political Activities (Confidence: 85%)
+Missing from: BOTH
+California law requires that school-connected organizations be prohibited from engaging in political activities on school premises or using school resources. This is a fundamental requirement to maintain the separation between educational activities and political advocacy, and to protect the district's tax-exempt status.
+
+Legal Basis:
+- Education Code Section 7054: No school district funds, services, supplies, or equipment shall be used for the purpose of urging the support or defeat of any ballot measure or candidate, including, but not limited to, any candidate for election to the governing board of the district.
+
+Required Language:
+School-connected organizations shall not engage in political activities on school premises or use school resources for political purposes, including urging support or defeat of any ballot measure or candidate for public office.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Conflict of Interest Requirements (Confidence: 90%)
+Missing from: BOTH
+The regulation requires disclosure of officers but lacks specific conflict of interest provisions required when school-connected organizations interact with district employees or board members. This is essential to prevent improper influence and ensure transparency in decision-making.
+
+Legal Basis:
+- Government Code Section 1090: Members of the Legislature, state, county, district, judicial district, and city officers or employees shall not be financially interested in any contract made by them in their official capacity.
+
+Required Language:
+School-connected organization officers and members must disclose any potential conflicts of interest involving district employees, board members, or district contracts. Organizations shall not enter into contracts or arrangements that would create conflicts of interest for district personnel.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Incomplete Nondiscrimination Requirements (Confidence: 80%)
+Missing from: BOTH
+While the AR mentions an agreement not to engage in "unlawful discrimination," it lacks the comprehensive nondiscrimination language required by California law, including specific protected categories and compliance with state civil rights laws.
+
+Legal Basis:
+- Education Code Section 220: No person shall be subjected to discrimination on the basis of disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes in Section 422.55 of the Penal Code in any program or activity conducted by an educational institution that receives, or benefits from, state financial assistance or enrolls pupils who receive state student financial aid.
+
+Required Language:
+School-connected organizations shall not discriminate against any person on the basis of actual or perceived disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic protected by law in their membership, activities, or services.
+
+Recommended Placement: AR
+
+----------------------------------------
+

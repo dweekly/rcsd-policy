@@ -1,0 +1,123 @@
+{
+  "code": "5111.16",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "5111.16",
+    "title": "Residency For Homeless Children",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5111.16.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) 5111.16 document is entirely missing. While an Administrative Regulation exists, California law requires both policy-level direction from the governing board and implementing procedures. The missing BP should establish the district's commitment to serving homeless students and provide board-level direction on residency requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48852.5",
+            "text": "The governing board of each school district shall adopt a policy for the placement of homeless children in schools"
+          }
+        ],
+        "required_language": "The Board recognizes that homeless children face barriers to school enrollment, attendance, and success. The district shall ensure that homeless students are provided equal access to educational programs and shall not be segregated in separate schools or programs based on their housing status.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing School of Origin Rights",
+        "description": "Neither document addresses the fundamental right of homeless students to remain in their school of origin or enroll in the school where they are currently staying. This is a core requirement of both federal McKinney-Vento Act and California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48852.7",
+            "text": "Each homeless child or youth shall have the right to either remain in his or her school of origin for the duration of homelessness, or enroll in any public school that nonhomeless students who live in the attendance area in which the child or youth is actually living are eligible to attend"
+          }
+        ],
+        "required_language": "Homeless students have the right to: (1) remain in their school of origin for the duration of their homelessness, or (2) enroll in the school where they are currently staying. Transportation shall be provided to the school of origin upon request.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Homeless Liaison Designation",
+        "description": "Neither document identifies the district's homeless education liaison or their responsibilities. Federal and state law require districts to designate a liaison to ensure proper implementation of homeless student rights.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48852.5(a)",
+            "text": "Each school district shall designate a staff person as a liaison for homeless children"
+          }
+        ],
+        "required_language": "The Superintendent or designee shall appoint a district liaison for homeless students who shall ensure that homeless children and youth are identified, enrolled in school, and have equal opportunity to succeed academically.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Immediate Enrollment Requirements",
+        "description": "While the AR lists acceptable documentation, it doesn't clearly state that homeless students must be enrolled immediately even without typical enrollment documentation. This immediate enrollment right is fundamental under McKinney-Vento.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48852.7",
+            "text": "The school selected shall immediately enroll the homeless child or youth, even if the child or youth is unable to produce records normally required for enrollment"
+          }
+        ],
+        "required_language": "Homeless students shall be enrolled immediately, even without normally required documents such as proof of residency, immunization records, birth certificates, or previous school records. Missing documents shall be obtained after enrollment.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Dispute Resolution Process",
+        "description": "Neither document provides a process for resolving disputes about school selection, enrollment, or services for homeless students. This is required by both federal and state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48852.7",
+            "text": "If a dispute arises over school selection or enrollment, the child or youth shall be immediately enrolled in the school in which enrollment is sought, pending resolution of the dispute"
+          }
+        ],
+        "required_language": "If a dispute arises regarding school selection or enrollment, the student shall be immediately enrolled in the requested school pending dispute resolution. The district shall provide a written explanation of decisions and inform parents/students of their right to appeal.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Transportation Requirements",
+        "description": "Neither document addresses the district's obligation to provide transportation for homeless students to their school of origin when requested.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48852.7",
+            "text": "If the homeless child or youth continues to live in the area served by the school district in which the school of origin is located, that school district shall provide or arrange for the provision of transportation to the school of origin"
+          }
+        ],
+        "required_language": "The district shall provide transportation to the school of origin for homeless students upon request, including when the student moves outside the district's boundaries during the school year.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date",
+        "description": "The regulation was last updated in 2010, which predates significant changes to California homeless education law. While not a compliance violation per se, the age suggests the policy may not reflect current legal requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48852 et seq.",
+            "text": "Various amendments to homeless education requirements have been enacted since 2010"
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:19:18.219655+00:00"
+}

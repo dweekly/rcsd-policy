@@ -1,0 +1,78 @@
+{
+  "code": "4161.8",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4161.8",
+    "title": "Family Care And Medical Leave",
+    "type": "Regulation",
+    "last_reviewed": "11/06/2024",
+    "file_path": "data/extracted/regulations/4161.8.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The district has only an Administrative Regulation (AR 4161.8) but no corresponding Board Policy (BP 4161.8) for Family Care and Medical Leave. California Education Code requires that districts adopt board policies establishing the framework and authority for family and medical leave programs. The AR cannot stand alone without board-level policy direction.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The Board recognizes the importance of enabling employees to take job-protected leave for family care and medical reasons as provided by federal and state law. The district shall provide eligible employees with family care and medical leave in accordance with the Family and Medical Leave Act (FMLA), California Family Rights Act (CFRA), and Pregnancy Disability Leave (PDL) laws. The Superintendent or designee shall establish procedures to implement this policy in compliance with applicable laws.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Military Family Leave Provisions",
+        "description": "While the regulation mentions qualifying exigency and military caregiver leave briefly, it lacks comprehensive coverage of military family leave rights required under both FMLA and California Military Family Leave Act. The regulation does not adequately define \"qualifying exigency\" or provide detailed procedures for military family leave.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Military and Veterans Code Section 395.10",
+            "text": "An employee shall be entitled to up to 10 days of unpaid leave while the employee's spouse or registered domestic partner is on leave from deployment during a period of military conflict."
+          }
+        ],
+        "required_language": "Eligible employees shall be entitled to military family leave including: (1) up to 10 days unpaid leave when spouse/domestic partner is on leave from military deployment, (2) qualifying exigency leave for military deployment activities, and (3) up to 26 weeks to care for covered servicemembers. Qualifying exigencies include short-notice deployment, military events, childcare arrangements, financial arrangements, counseling, rest and recuperation, and post-deployment activities.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Incomplete Notice Requirements to Employees",
+        "description": "The regulation lacks specific requirements for notices that must be provided to employees about their FMLA/CFRA rights, including general notice posting requirements and individual eligibility/rights notices required by federal and state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "2 CCR Section 11091",
+            "text": "Every covered employer shall post and keep posted on its premises, in conspicuous places where employees are employed, a notice setting forth pertinent provisions of the CFRA and information pertaining to the filing of a complaint."
+          }
+        ],
+        "required_language": "The district shall post FMLA and CFRA notices in conspicuous locations and provide individual written notice to employees of their eligibility and rights within five business days of learning of the need for leave. The notice shall specify whether leave will be designated as FMLA/CFRA qualifying and count against the employee's annual entitlement.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Coordination with Workers' Compensation",
+        "description": "The regulation does not address how family and medical leave coordinates with workers' compensation leave when an employee has a work-related injury or illness, which is required for comprehensive compliance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "2 CCR Section 11087",
+            "text": "CFRA leave may run concurrently with a workers' compensation temporary disability leave when the injury or illness qualifies as a serious health condition."
+          }
+        ],
+        "required_language": "When an employee's work-related injury or illness qualifies as a serious health condition under FMLA/CFRA, the family and medical leave shall run concurrently with workers' compensation temporary disability leave. The employee's right to reinstatement and benefit continuation under FMLA/CFRA shall apply.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:14:05.218936+00:00"
+}

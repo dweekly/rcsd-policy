@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5138: Conflict Resolution/Peer Mediation
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Mandatory Reporting and Safety Limitations (Confidence: 90%)
+Missing from: BOTH
+The policy states that participation "shall be kept confidential by all parties involved" but fails to specify mandatory reporting exceptions when child abuse, threats of violence, or other serious safety concerns arise during mediation sessions. This creates potential liability and conflicts with mandatory reporting requirements.
+
+Legal Basis:
+- Penal Code Section 11166 (Child Abuse and Neglect Reporting Act): Mandated reporters, including school personnel, must report suspected child abuse regardless of confidentiality agreements or mediation processes.
+
+Required Language:
+Confidentiality in peer mediation is subject to mandatory reporting requirements under state law, including but not limited to suspected child abuse, threats of violence, or other safety concerns that require immediate intervention by school authorities or law enforcement.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Parental Notification and Consent Procedures (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions "appropriate involvement of parents/guardians," it lacks specific requirements for parental notification when students participate in peer mediation, especially for conflicts involving potential disciplinary consequences or safety concerns.
+
+Legal Basis:
+- Education Code Section 48900.1 and 48911: Parents have rights to be informed about disciplinary matters and alternative resolution processes involving their children.
+
+Required Language:
+Parents/guardians shall be notified when their student participates in peer mediation for conflicts that could result in disciplinary action or involve safety concerns. Procedures shall specify when parental consent is required versus notification only.
+
+Recommended Placement: AR
+
+----------------------------------------
+

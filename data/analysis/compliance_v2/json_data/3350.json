@@ -1,0 +1,63 @@
+{
+  "code": "3350",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3350",
+    "title": "Travel Expenses",
+    "type": "Policy",
+    "last_reviewed": "03/11/2020",
+    "file_path": "data/extracted/policies/3350.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Travel Expense Implementation",
+        "description": "Education Code 44033 requires districts to establish detailed procedures for travel expense reimbursement. While the Board Policy provides general framework and authorization, there is no Administrative Regulation to specify the implementation procedures, forms, documentation requirements, approval processes, and specific reimbursement rates that employees need to follow.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44033",
+            "text": "The governing board of any school district may reimburse any employee of the district for traveling expenses necessarily incurred by the employee in the performance of services for the district, and may establish rules and regulations for the reimbursement."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to establish specific procedures including: detailed expense claim submission processes, required forms and documentation, specific reimbursement rates and limits, approval workflows, cash advance procedures, and verification requirements for travel expenses.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Policy Text - Missing Conclusion",
+        "description": "The Board Policy text appears to be cut off mid-sentence at \"If an expense claim is disallowed\" without completing the thought or providing the full policy framework. This creates ambiguity about procedures when expense claims are rejected.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44033",
+            "text": "The governing board may establish rules and regulations for the reimbursement, which must be complete and provide clear guidance."
+          }
+        ],
+        "required_language": "Complete the policy statement regarding disallowed expense claims, including procedures for notification to employees, appeal processes, and requirements for repayment of inappropriate expenses.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Specific Maximum Reimbursement Rates",
+        "description": "While the policy references \"maximum amounts established by the Superintendent\" for meals and other expenses, neither the policy nor regulation specify what these maximum rates are or reference where they can be found, creating potential confusion for employees.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44033",
+            "text": "Districts may establish rules and regulations for reimbursement, which should include clear limits and procedures."
+          }
+        ],
+        "required_language": "Include specific maximum reimbursement rates for meals, lodging, and other expenses, or reference where current rates are maintained and published (such as in an annual schedule or district website).",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:26:17.605423+00:00"
+}

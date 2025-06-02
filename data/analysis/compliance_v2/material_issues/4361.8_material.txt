@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4361.8: Family Care And Medical Leave
+Last Reviewed: 05/19/2021
+================================================================================
+
+Missing Military Family Leave Provisions (Confidence: 90%)
+Missing from: BOTH
+While the regulation mentions military caregiver leave briefly, it lacks comprehensive coverage of military family leave entitlements, including the extended 26-week leave period for caring for covered servicemembers and specific definitions related to military family leave.
+
+Legal Basis:
+- 29 USC 2612(a)(3) and Government Code 12945.2: Provides for up to 26 workweeks of leave during a single 12-month period to care for a covered servicemember with a serious injury or illness
+
+Required Language:
+Military Caregiver Leave: An eligible employee shall be entitled to a total of 26 work weeks of leave during a single 12-month period to care for a covered servicemember with a serious injury or illness if the covered servicemember is the employee's spouse, son, daughter, parent, or next of kin.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Incomplete Notice Requirements to Employees (Confidence: 85%)
+Missing from: BOTH
+The regulation lacks specific requirements for the district to provide written notice to employees about their FMLA/CFRA rights, including posting requirements and individual notice obligations when leave is designated.
+
+Legal Basis:
+- 29 CFR 825.300 and 2 CCR 11091: Requires employers to provide specific written notices to employees regarding their FMLA/CFRA rights and responsibilities
+
+Required Language:
+The district shall provide written notice to employees of their rights and responsibilities under FMLA/CFRA, including posting general notice in conspicuous locations and providing individual written notice when leave is requested or designated.
+
+Recommended Placement: AR
+
+----------------------------------------
+

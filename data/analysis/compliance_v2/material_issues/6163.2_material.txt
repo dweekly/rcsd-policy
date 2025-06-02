@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6163.2: Animals At School
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Service Animal Legal Requirements and Definitions (Confidence: 95%)
+Missing from: BOTH
+The policy mentions "seeing-eye dogs and service dogs" but fails to comply with current ADA definitions and requirements. California law requires districts to follow federal ADA requirements which define service animals specifically as dogs (and in limited cases miniature horses) trained to perform specific tasks for individuals with disabilities. The policy uses outdated terminology and lacks proper legal framework.
+
+Legal Basis:
+- Education Code Section 49001: School districts must comply with federal civil rights laws including the Americans with Disabilities Act
+
+Required Language:
+Service animals are defined as dogs that are individually trained to do work or perform tasks for people with disabilities. Service animals are working animals, not pets. The work or task a dog has been trained to provide must be directly related to the person's disability. The district shall allow service animals to accompany students and staff with disabilities in all areas where the public is normally allowed to go.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Emotional Support Animal Distinction (Confidence: 90%)
+Missing from: BOTH
+The policy fails to distinguish between service animals and emotional support animals, which have different legal protections and requirements under federal law. This creates potential compliance issues and confusion.
+
+Legal Basis:
+- Education Code Section 49001: Districts must comply with Section 504 and ADA requirements regarding assistance animals
+
+Required Language:
+Emotional support animals, comfort animals, and therapy dogs are not service animals under the ADA. These animals may be considered as reasonable accommodations under Section 504 on a case-by-case basis through the IEP or 504 plan process.
+
+Recommended Placement: BP
+
+----------------------------------------
+

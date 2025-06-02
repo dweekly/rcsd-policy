@@ -1,0 +1,63 @@
+{
+  "code": "1100",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1100",
+    "title": "Communication With The Public",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1100.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Communication Procedures",
+        "description": "The Board Policy establishes comprehensive communication requirements and references \"communications protocols and procedures\" that should be distributed to Board and staff, but no Administrative Regulation exists to provide the detailed implementation procedures. This creates a gap between policy direction and operational implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: specific procedures for media communications, detailed roles and responsibilities for public information officers, step-by-step processes for emergency communications, procedures for ensuring accessibility compliance, and implementation timelines for the communications plan evaluation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Policy Text - Communications Plan Evaluation",
+        "description": "The Board Policy text appears to be cut off mid-sentence in the final paragraph regarding annual evaluation of the communications plan. The sentence \"recommend to the Board whether the goals and key issues identified in the plan need to be\" is incomplete, leaving unclear what specific evaluation criteria and processes are required.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "School districts must have clear policies that provide adequate direction for implementation and evaluation of district programs and activities."
+          }
+        ],
+        "required_language": "Complete the final sentence and add: \"...need to be revised or updated. The evaluation shall assess the effectiveness of communication strategies, community engagement levels, and achievement of identified communication goals. The Superintendent shall present evaluation findings and recommendations to the Board annually.\"",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009, which is over 14 years ago. While not legally required, regular policy review ensures continued relevance and compliance with evolving legal requirements and best practices, particularly for communication technologies and accessibility standards.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "School districts should regularly review and update policies to ensure continued effectiveness and legal compliance."
+          }
+        ],
+        "required_language": "Update policy review date and consider adding provisions for digital communications, social media guidelines, and current accessibility standards under ADA and Section 504.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:19:53.839863+00:00"
+}

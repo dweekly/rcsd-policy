@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6175: Migrant Education Program
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Identification and Recruitment Procedures (Confidence: 85%)
+Missing from: BOTH
+Federal law requires districts to implement identification and recruitment procedures to find all eligible migrant children, but neither the policy nor regulation addresses systematic identification and recruitment processes beyond basic eligibility criteria.
+
+Legal Basis:
+- 20 USC 6394(c)(1): Each State that receives assistance under this part shall ensure that migratory children are identified on a statewide basis and that such children receive services that are coordinated with similar services provided by other programs.
+
+Required Language:
+The district shall implement systematic identification and recruitment procedures to locate all eligible migrant children within the district boundaries, including coordination with community organizations, agricultural employers, and other agencies serving migrant families.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Interstate and Intrastate Coordination Requirements (Confidence: 90%)
+Missing from: BOTH
+Federal law mandates coordination between states and districts to ensure continuity of services for migrant students, but neither document addresses required coordination mechanisms or data sharing protocols.
+
+Legal Basis:
+- 20 USC 6398: The Secretary shall assist States in developing effective methods for the transfer of student records and in determining the number of migratory children in each State.
+
+Required Language:
+The district shall participate in interstate and intrastate coordination activities, including the Migrant Student Information Network (MSIN), to facilitate the transfer of educational and health records and ensure continuity of services for migrant students.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Performance Target and Accountability Requirements (Confidence: 80%)
+Missing from: BOTH
+Federal regulations require specific performance targets and accountability measures for migrant education programs, but neither document establishes measurable performance goals or accountability frameworks.
+
+Legal Basis:
+- 34 CFR 200.83: A State must establish performance targets for migrant children for reading/language arts and mathematics achievement, school readiness, high school graduation, and high school graduation and college and career readiness.
+
+Required Language:
+The district shall establish performance targets for migrant students aligned with state requirements for reading/language arts achievement, mathematics achievement, school readiness, high school graduation rates, and college and career readiness, and shall implement accountability measures to track progress toward these targets.
+
+Recommended Placement: AR
+
+----------------------------------------
+

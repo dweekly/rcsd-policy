@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+AR 3512: Equipment
+Last Reviewed: 03/11/2020
+================================================================================
+
+Missing Federal Equipment Management Requirements (Confidence: 90%)
+Missing from: BOTH
+The regulation lacks comprehensive federal equipment management requirements for equipment purchased with federal funds, including required disposition procedures, fair market value determinations, and federal agency notification requirements when equipment is no longer needed.
+
+Legal Basis:
+- 2 CFR 200.313(e): When original or replacement equipment acquired under a Federal award is no longer needed for the original project or program or for other activities currently or previously supported by a Federal agency, the recipient or subrecipient must request disposition instructions from the Federal agency or pass-through entity.
+
+Required Language:
+When federally-funded equipment is no longer needed for the original project or other federally-supported activities, the district shall request disposition instructions from the federal agency or pass-through entity. If the equipment has a current fair market value of $5,000 or less, it may be retained, sold, or otherwise disposed of with no further obligation to the federal agency. For equipment with fair market value exceeding $5,000, disposition shall be in accordance with federal agency instructions.
+
+Recommended Placement: AR
+
+----------------------------------------
+

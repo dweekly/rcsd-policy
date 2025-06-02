@@ -1,0 +1,99 @@
+{
+  "code": "6164.4",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6164.4",
+    "title": "Identification And Evaluation Of Individuals For Special Education",
+    "type": "Policy",
+    "last_reviewed": "12/08/2021",
+    "file_path": "data/extracted/policies/6164.4.txt"
+  },
+  "regulation": {
+    "code": "6164.4",
+    "title": "Identification And Evaluation Of Individuals For Special Education",
+    "type": "Regulation",
+    "last_reviewed": "12/08/2021",
+    "file_path": "data/extracted/regulations/6164.4.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Child Find Public Awareness Requirements",
+        "description": "California law requires districts to conduct public awareness activities to inform the community about special education services and how to refer children for evaluation. Neither the policy nor regulation addresses the required public awareness component of the child find system.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 56301",
+            "text": "Each local plan shall include...procedures for the identification, screening, referral, assessment, and triennial assessment of individuals...including public awareness activities"
+          }
+        ],
+        "required_language": "The district shall conduct public awareness activities to inform parents, teachers, and other members of the community about special education services and procedures for referring children who may need special education evaluation.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Age Range for Child Find",
+        "description": "While the policy mentions \"birth to age 21,\" California law specifically requires child find activities for individuals from birth through age 21 who are not receiving a free appropriate public education. The regulation lacks this specific age range requirement.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 56301",
+            "text": "Each local plan shall include...procedures for the identification...of individuals with exceptional needs from birth to 21 years of age"
+          }
+        ],
+        "required_language": "Child find procedures shall identify individuals with disabilities from birth through age 21 who are not receiving a free appropriate public education and who reside within the district's boundaries.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Coordination with Community Agencies",
+        "description": "California requires districts to coordinate child find activities with community agencies and organizations. Neither document addresses this required coordination component.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 56301",
+            "text": "Procedures shall include coordination with agencies and organizations involved with individuals with exceptional needs"
+          }
+        ],
+        "required_language": "The district shall coordinate child find activities with community agencies, organizations, and service providers involved with individuals with disabilities, including early intervention programs and health care providers.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Notice Requirements for Assessment Plan",
+        "description": "The regulation is missing the specific requirement that the assessment plan must include notice that no IEP services will be provided without a separate consent after the assessment is completed.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 56321(c)(4)",
+            "text": "The proposed assessment plan shall...state that no individualized education program will result from the assessment without the consent of the parent"
+          }
+        ],
+        "required_language": "The assessment plan shall clearly state that no individualized education program will result from the assessment without the separate written consent of the parent/guardian.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Referral Documentation Requirements",
+        "description": "The regulation mentions documentation requirements for staff referrals but does not fully specify all required elements for referral documentation as outlined in California regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 3021(b)",
+            "text": "Documentation shall include attempts to remediate the pupil's performance prior to referral, including any supplementary aids or support services provided for this purpose"
+          }
+        ],
+        "required_language": "Referral documentation shall include specific attempts to remediate the student's performance prior to referral, including any supplementary aids or support services provided for this purpose.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:34:57.104441+00:00"
+}

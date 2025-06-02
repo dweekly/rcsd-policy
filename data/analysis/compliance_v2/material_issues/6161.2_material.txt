@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6161.2: Damaged Or Lost Instructional Materials
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Due Process Protections for Withholding Academic Records (Confidence: 90%)
+Missing from: BOTH
+The policy allows withholding of grades, diploma, and transcripts but fails to specify required due process protections. California law requires specific procedural safeguards before academic records can be withheld, including notice and opportunity to be heard.
+
+Legal Basis:
+- Education Code Section 48904.3: Requires due process procedures including written notice and opportunity for hearing before withholding grades or transcripts for unpaid fees or charges
+
+Required Language:
+Before withholding any academic records, the district shall provide written notice to the student and parent/guardian of the intent to withhold records, the reason for withholding, and the right to a hearing. The student/parent shall have the right to challenge the charges and present evidence regarding the condition of materials.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Financial Hardship Provisions (Confidence: 85%)
+Missing from: BOTH
+The policy lacks provisions for students who cannot afford to pay for damaged or lost materials due to financial hardship. California law requires consideration of a student's ability to pay and alternative arrangements for economically disadvantaged students.
+
+Legal Basis:
+- Education Code Section 49013: Prohibits requiring payment of fees that would prevent a student's participation in educational activities, with provisions for financial hardship
+
+Required Language:
+The district shall consider the financial circumstances of the student and family. For students who qualify for free or reduced-price meals or demonstrate financial hardship, the district may waive charges, establish payment plans, or provide alternative arrangements such as community service in lieu of payment.
+
+Recommended Placement: BP
+
+----------------------------------------
+

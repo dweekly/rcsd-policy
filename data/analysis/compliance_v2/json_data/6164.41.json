@@ -1,0 +1,84 @@
+{
+  "code": "6164.41",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6164.41",
+    "title": "Children With Disabilities Enrolled By Their Parents In Private School",
+    "type": "Policy",
+    "last_reviewed": "12/08/2021",
+    "file_path": "data/extracted/policies/6164.41.txt"
+  },
+  "regulation": {
+    "code": "6164.41",
+    "title": "Children With Disabilities Enrolled By Their Parents In Private School",
+    "type": "Regulation",
+    "last_reviewed": "12/08/2021",
+    "file_path": "data/extracted/regulations/6164.41.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Procedural Safeguards for Private School Children",
+        "description": "Federal law requires that parents of parentally-placed private school children with disabilities receive procedural safeguards notice, but the policy and regulation do not adequately address the full scope of procedural safeguards requirements specific to private school children, including dispute resolution procedures and complaint processes available to these parents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 300.148",
+            "text": "Each LEA must provide procedural safeguards in accordance with \u00a7\u00a7 300.504 through 300.519 to children with disabilities who are parentally-placed in private schools."
+          }
+        ],
+        "required_language": "The district shall provide procedural safeguards to parents of parentally-placed private school children with disabilities in accordance with federal requirements, including due process procedures, complaint processes, and all rights afforded under IDEA procedural safeguards provisions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Dispute Resolution Process for Service Disagreements",
+        "description": "While the regulation mentions providing written explanation when the district disagrees with private schools on services, it lacks the required formal dispute resolution process that must be available when disagreements occur regarding the provision of equitable services.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 300.136",
+            "text": "If the LEA disagrees with the views of the private school officials on the provision of services or the types of services (whether provided directly or through a contract), the LEA shall provide to the private school officials a written explanation of the reasons why the LEA chose not to provide services directly or through a contract."
+          }
+        ],
+        "required_language": "When disagreements arise regarding equitable services, the district shall provide private school officials with a written explanation of its decision and inform them of available dispute resolution options, including the right to file a complaint with the state educational agency.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Requirements for Proportionate Share Calculation and Expenditure",
+        "description": "The policy mentions developing a budget based on proportionate share but lacks specific requirements for how the proportionate share must be calculated, the obligation to spend the full amount, and carryover provisions as required by federal law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 300.133",
+            "text": "Each LEA must spend on providing special education and related services to parentally-placed private school children with disabilities an amount that is the same proportion of the LEA's total subgrant under section 611 of the Act as the number of private school children with disabilities aged 3 through 21 who are enrolled by their parents in private elementary schools and secondary schools located in the school district served by the LEA is to the total number of children with disabilities in its jurisdiction aged 3 through 21."
+          }
+        ],
+        "required_language": "The district shall calculate the proportionate share of federal IDEA funds based on the ratio of parentally-placed private school children with disabilities to the total number of children with disabilities in the district, and shall expend the full proportionate share amount on equitable services. Any funds not expended in one fiscal year shall be carried over to the following fiscal year for the same purpose.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Timeline for Consultation Process",
+        "description": "While the regulation addresses consultation requirements, it lacks specific timelines for when consultation must occur and be completed, which helps ensure meaningful and timely consultation as required by federal law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 300.134(a)",
+            "text": "To ensure timely and meaningful consultation, an LEA must consult with private school representatives and representatives of parents of parentally-placed private school children with disabilities during the design and development of special education and related services for the children."
+          }
+        ],
+        "required_language": "The consultation process shall be completed annually by [specific date] to ensure timely planning and implementation of equitable services for the upcoming school year.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:34:58.865927+00:00"
+}

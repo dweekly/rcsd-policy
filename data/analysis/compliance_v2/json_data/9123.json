@@ -1,0 +1,78 @@
+{
+  "code": "9123",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9123",
+    "title": "Clerk",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9123.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Clerk Election Process and Term Requirements",
+        "description": "Education Code 35143 requires specific procedures for clerk election including timing, term length, and succession. The policy mentions election at the annual organizational meeting but lacks required details about the clerk's term of office and election procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35143",
+            "text": "The governing board of each school district shall annually elect from its members a president, a clerk, and such other officers as it deems necessary. The term of office of each officer shall be one year or until a successor is elected."
+          }
+        ],
+        "required_language": "The clerk shall serve a term of one year or until a successor is elected. The clerk shall be elected annually at the organizational meeting by majority vote of the board members.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Clerk Vacancy Procedures",
+        "description": "The policy does not address what happens when the clerk position becomes vacant during the term, which is required for proper board governance and continuity of operations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35143",
+            "text": "The governing board of each school district shall annually elect from its members a president, a clerk, and such other officers as it deems necessary."
+          }
+        ],
+        "required_language": "In the event of a vacancy in the office of clerk, the board shall elect a replacement clerk from its membership at the next regular board meeting.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Incomplete Record-Keeping Specifications",
+        "description": "While the policy mentions maintaining records \"as required by law,\" it lacks specific reference to key statutory record-keeping requirements that would provide clearer guidance to the clerk.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35145",
+            "text": "The governing board of each school district shall cause to be kept a record of all its proceedings and of all meetings of the governing board."
+          }
+        ],
+        "required_language": "Maintain a record of all board proceedings and meetings as required by Education Code 35145, including ensuring proper documentation of all board actions and votes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Administrative Regulation",
+        "description": "The policy would benefit from a corresponding administrative regulation that provides procedural details for clerk duties, particularly regarding document signing procedures, record maintenance protocols, and meeting minute processes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35145, 35163",
+            "text": "Various sections require specific procedures for record-keeping, document authentication, and meeting documentation that would benefit from detailed implementation procedures."
+          }
+        ],
+        "required_language": "Develop Administrative Regulation 9123 to specify procedures for: minute preparation and review timelines, document signing protocols, record retention schedules, and certification processes.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:38:59.387903+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "code": "6164.6",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6164.6",
+    "title": "Identification And Education Under Section 504",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6164.6.txt"
+  },
+  "regulation": {
+    "code": "6164.6",
+    "title": "Identification And Education Under Section 504",
+    "type": "Regulation",
+    "last_reviewed": "03/09/2011",
+    "file_path": "data/extracted/regulations/6164.6.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Notice of Rights and Procedural Safeguards",
+        "description": "Section 504 requires districts to provide parents with written notice of their rights and procedural safeguards at specific times during the process. While the AR describes what rights must be included in notifications, neither document establishes when these notices must be provided or requires annual distribution of procedural safeguards.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 104.36",
+            "text": "A recipient that operates a public elementary or secondary education program or activity shall establish and implement, with respect to actions regarding the identification, evaluation, or educational placement of persons who, because of disability, need or are believed to need special instruction or related services, a system of procedural safeguards that includes notice..."
+          }
+        ],
+        "required_language": "The district shall provide written notice of procedural safeguards to parents/guardians: (1) upon initial referral or parent request for evaluation; (2) upon each notification of a Section 504 team meeting; (3) upon reevaluation; (4) upon receipt of a request for due process hearing; and (5) when a disciplinary action constitutes a significant change of placement. The district shall also provide annual notice of procedural safeguards to parents of students with Section 504 plans.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Grievance Procedure Requirements",
+        "description": "Section 504 requires districts to adopt and publish grievance procedures for resolving complaints of discrimination. While the AR mentions parents' right to file a grievance, neither document establishes the required grievance procedure or designates a Section 504 coordinator as required by federal law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 104.7(b)",
+            "text": "A recipient that employs fifteen or more persons shall designate at least one person to coordinate its efforts to comply with this section and shall adopt and publish grievance procedures that incorporate appropriate due process standards and that provide for the prompt and equitable resolution of complaints alleging any action prohibited by this part."
+          }
+        ],
+        "required_language": "The district shall adopt and publish grievance procedures that provide for prompt and equitable resolution of complaints alleging discrimination based on disability. The district shall designate a Section 504 Coordinator to oversee compliance efforts and coordinate the grievance process. The grievance procedure and coordinator contact information shall be published and made available to students, parents, and staff.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Child Find Obligations",
+        "description": "The district has an affirmative duty to identify and locate students who may need Section 504 services. While the BP mentions the need to \"identify and evaluate,\" neither document establishes systematic child find procedures or annual notification requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 104.32",
+            "text": "A recipient that operates a public elementary or secondary education program or activity shall provide a free appropriate public education to each qualified disabled person who is in the recipient's jurisdiction, regardless of the nature or severity of the person's disability."
+          }
+        ],
+        "required_language": "The district shall establish and implement procedures to identify, locate, and evaluate all students within its jurisdiction who may need services under Section 504, regardless of the severity of their disability. The district shall provide annual public notice of its child find responsibilities and the availability of Section 504 services.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 75,
+        "title": "Missing Disciplinary Protections",
+        "description": "Students with Section 504 plans are entitled to specific protections before disciplinary actions that constitute a significant change in placement. Neither document addresses these required protections or the manifestation determination process.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 104.35(a)",
+            "text": "A recipient shall conduct an evaluation in accordance with the requirements of paragraph (b) of this section before any action is taken with respect to the initial placement of a person who has a disability or is believed to have a disability in a regular or special education program and any subsequent significant change in placement."
+          }
+        ],
+        "required_language": "Before imposing disciplinary action that would result in a significant change of placement for a student with a Section 504 plan, the district shall convene the Section 504 team to determine whether the misconduct was a manifestation of the student's disability and whether the current plan is appropriate. Students with Section 504 plans may not be expelled or suspended for more than 10 consecutive days without these procedural protections.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Incomplete Evaluation Timeline",
+        "description": "The AR states evaluations must be completed within a \"reasonable time frame\" but does not specify what constitutes reasonable. While not legally mandated, best practice suggests establishing specific timelines for consistency and accountability.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 104.35",
+            "text": "Evaluation procedures must ensure appropriate evaluation within a reasonable time of a person's receipt of a referral for evaluation."
+          }
+        ],
+        "required_language": "The district shall complete initial evaluations within 60 calendar days of receiving written parental consent, unless extended by mutual written agreement of the parties.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:35:28.669763+00:00"
+}

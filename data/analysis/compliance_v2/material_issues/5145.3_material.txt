@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5145.3: Nondiscrimination/Harassment
+Last Reviewed: 11/06/2019
+================================================================================
+
+Missing Specific Complaint Filing Timeline Requirements (Confidence: 85%)
+Missing from: BOTH
+California Education Code requires districts to specify that discrimination complaints may be filed within one year of the alleged incident or within one year of when the complainant first obtained knowledge of the facts. While the policy states complaints will be investigated regardless of timeline compliance, it must still inform complainants of the statutory timeline requirements.
+
+Legal Basis:
+- Education Code Section 262.3: A complaint alleging discrimination...may be filed by any person, public agency, or organization. The complaint shall be filed within one year from the date the alleged discrimination occurred, or the complainant first obtained knowledge of the facts of the alleged discrimination.
+
+Required Language:
+Complaints alleging unlawful discrimination may be filed within one year from the date the alleged discrimination occurred, or within one year from the date the complainant first obtained knowledge of the facts of the alleged discrimination. However, in cases involving a continuing course of conduct, the complaint shall be filed within one year from the date of the last act of alleged discrimination.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Required Annual Board Report on Discrimination Complaints (Confidence: 90%)
+Missing from: BOTH
+Education Code requires the district to provide an annual summary report to the governing board on the nature and resolution of all discrimination complaints filed during the previous year. This requirement is not addressed in either the policy or regulation.
+
+Legal Basis:
+- Education Code Section 262.3(c): The superintendent or designee shall provide an annual summary report to the governing board on the nature and resolution of all complaints filed with the district pursuant to this section.
+
+Required Language:
+The Superintendent or designee shall provide an annual summary report to the Board on the nature and resolution of all discrimination complaints filed with the district during the previous year, including the number of complaints by category and their resolution.
+
+Recommended Placement: BP
+
+----------------------------------------
+

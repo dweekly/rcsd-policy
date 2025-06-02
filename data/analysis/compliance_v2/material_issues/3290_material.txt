@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3290: Gifts, Grants And Bequests
+Last Reviewed: 11/06/2024
+================================================================================
+
+Missing Gift Valuation and Tax Implications (Confidence: 90%)
+Missing from: BOTH
+IRS regulations and California Revenue and Taxation Code require districts to properly value gifts and handle tax implications. The policy lacks procedures for gift valuation, tax documentation, and donor acknowledgment requirements for tax-deductible contributions.
+
+Legal Basis:
+- Revenue and Taxation Code 214; IRS Publication 526: Public agencies must properly document and value gifts for tax purposes and provide appropriate donor acknowledgments
+
+Required Language:
+Procedures for: (1) Professional appraisal of non-monetary gifts over specified thresholds; (2) Issuance of tax acknowledgment letters to donors; (3) Documentation of gift fair market value; (4) Coordination with county assessor for property gifts
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Conflict of Interest Safeguards (Confidence: 85%)
+Missing from: BOTH
+Government Code 1090 and the Political Reform Act require public agencies to have safeguards against conflicts of interest in gift acceptance. The policy lacks procedures to ensure Board members and staff do not have financial interests in gift sources.
+
+Legal Basis:
+- Government Code 1090; Government Code 87100: Public officials may not have financial interests in contracts or decisions, including gift acceptance decisions
+
+Required Language:
+Procedures requiring: (1) Disclosure of any financial relationships between district officials and gift donors; (2) Recusal requirements when conflicts exist; (3) Review process to identify potential conflicts before gift acceptance
+
+Recommended Placement: AR
+
+----------------------------------------
+

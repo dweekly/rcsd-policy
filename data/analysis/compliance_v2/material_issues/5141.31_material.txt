@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5141.31: Immunizations
+Last Reviewed: 02/09/2022
+================================================================================
+
+Missing Notification Requirements for Disease Outbreaks (Confidence: 85%)
+Missing from: BOTH
+California law requires school districts to notify parents/guardians when students are excluded due to disease exposure or outbreak situations. The policy and regulation address exclusion procedures but do not include the required notification to parents/guardians about the exclusion or the conditions for readmission.
+
+Legal Basis:
+- Health and Safety Code 120325: The governing authority shall notify the parent or guardian of any minor excluded from school of the reason for exclusion and the conditions of readmission.
+
+Required Language:
+When a student is excluded due to disease exposure, the Superintendent or designee shall notify the parent/guardian of the reason for exclusion and the conditions for readmission.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Requirement for Tuberculosis Risk Assessment (Confidence: 90%)
+Missing from: BOTH
+California law requires tuberculosis risk assessment for school entry. While the regulation lists required immunizations, it does not address the mandatory tuberculosis risk assessment that must be completed before school entry.
+
+Legal Basis:
+- Health and Safety Code 121525: No person shall be admitted to any public or private elementary or secondary school in this state unless he or she has been examined for tuberculosis.
+
+Required Language:
+Students shall complete a tuberculosis risk assessment before admission to school. Students identified as high risk shall provide documentation of tuberculosis examination as required by the California Department of Public Health.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Annual Notification Requirements (Confidence: 80%)
+Missing from: BOTH
+Education Code requires annual notification to parents about immunization requirements and their rights. While the regulation mentions providing notice upon registration, it does not address the required annual notification to all parents.
+
+Legal Basis:
+- Education Code 48980: At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify the parent or guardian of a minor pupil regarding rights and responsibilities including immunization requirements.
+
+Required Language:
+At the beginning of each school year, parents/guardians shall be provided written notification of immunization requirements, exemption procedures, and their rights regarding immunizations.
+
+Recommended Placement: AR
+
+----------------------------------------
+

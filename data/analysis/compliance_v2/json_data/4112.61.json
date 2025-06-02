@@ -1,0 +1,84 @@
+{
+  "code": "4112.61",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4112.61",
+    "title": "Employment References",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4112.61.txt"
+  },
+  "regulation": {
+    "code": "4112.61",
+    "title": "Employment References",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4112.61.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Mandatory Reference Disclosure Requirements",
+        "description": "California Education Code Section 44031 requires school districts to disclose specific information when providing employment references for certificated employees, including whether the employee was terminated or resigned while under investigation for misconduct. The policy and regulation lack procedures for mandatory disclosure of dismissal, resignation during investigation, or suspension without pay related to misconduct involving minors.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44031",
+            "text": "When a school district provides a reference for a certificated employee, the district shall disclose whether the employee was dismissed or resigned after notice of dismissal or while under investigation for misconduct, and whether the employee was suspended without pay for misconduct involving a minor."
+          }
+        ],
+        "required_language": "When providing employment references for certificated employees, the district shall disclose: (1) whether the employee was dismissed or resigned after notice of dismissal, (2) whether the employee resigned while under investigation for misconduct, and (3) whether the employee was suspended without pay for misconduct involving a minor. The district shall maintain records of such disclosures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Immunity Protection Provisions",
+        "description": "California Education Code provides immunity protections for school districts and employees when providing employment references in good faith. The policy should reference these protections to encourage complete and honest references while protecting district interests.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44031(f)",
+            "text": "A school district, or an employee of a school district acting within the scope of his or her employment, is immune from civil liability for providing information under this section unless it is proven that the information was false and that the district or employee knew or should have known that the information was false, or the information was provided with reckless disregard for truth or falsity of the information."
+          }
+        ],
+        "required_language": "The district and its employees acting within the scope of employment are immune from civil liability when providing employment reference information in good faith, unless the information is proven false and provided with knowledge of its falsity or reckless disregard for the truth.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Record Retention Requirements",
+        "description": "The policy lacks specific requirements for maintaining records of employment references provided, which is necessary for legal compliance and potential future inquiries or litigation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44031(e)",
+            "text": "A school district shall maintain a record of any information disclosed pursuant to this section."
+          }
+        ],
+        "required_language": "The district shall maintain records of all employment reference information disclosed, including copies of written references and documentation of oral references provided.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Regulatory Citation",
+        "description": "The regulation cites 5 CCR Section 80332, but should verify this is the current citation and that all relevant professional conduct standards are included.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 80331-80332",
+            "text": "Professional conduct standards for certificated employees regarding employment recommendations and references."
+          }
+        ],
+        "required_language": "Review and update regulatory citations to ensure current California Code of Regulations sections are referenced.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:34:22.270653+00:00"
+}

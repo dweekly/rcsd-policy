@@ -1,0 +1,78 @@
+{
+  "code": "6142.3",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6142.3",
+    "title": "Civic Education",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6142.3.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for civic education, there is no Administrative Regulation to provide specific implementation procedures, curriculum details, assessment methods, or operational guidance for staff. This creates a gap in how the policy directives should be carried out in practice.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51210",
+            "text": "The adopted course of study for grades 1 to 6, inclusive, shall include instruction in social sciences, drawing upon the disciplines of anthropology, economics, geography, history, political science, psychology, and sociology, designed to fit the maturity of the pupils."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: specific curriculum implementation procedures, assessment methods for civic education standards, staff training requirements, resource allocation guidelines, and procedures for integrating civic education across subject areas.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Constitution Day Mandatory Language Missing",
+        "description": "The policy states the district \"may\" hold Constitution Day programs, but federal law requires educational programs about the Constitution. The language should be mandatory rather than optional.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 37221",
+            "text": "Each school district and county office of education shall, on or before the last Friday in April of each year, conduct oral or written exercises for pupils in grades 4 to 12, inclusive, pertaining to the Constitution of the United States."
+          }
+        ],
+        "required_language": "Replace \"the district may hold\" with \"the district shall hold\" to reflect the mandatory nature of Constitution Day observance.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing April Constitution Exercise Requirement",
+        "description": "The policy only addresses September 17 Constitution Day but fails to include the mandatory Constitution exercises required before the last Friday in April each year for grades 4-12.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 37221",
+            "text": "Each school district and county office of education shall, on or before the last Friday in April of each year, conduct oral or written exercises for pupils in grades 4 to 12, inclusive, pertaining to the Constitution of the United States."
+          }
+        ],
+        "required_language": "Add provision: \"On or before the last Friday in April of each year, the district shall conduct oral or written exercises for pupils in grades 4 to 8, inclusive, pertaining to the Constitution of the United States.\"",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2010 and may not reflect current state standards, curriculum frameworks, or legal requirements that have been updated since then.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51210",
+            "text": "Current state academic standards and curriculum frameworks should be reflected in district policies to ensure alignment with state requirements."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current state academic standards and curriculum frameworks adopted since 2010.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:30:18.143684+00:00"
+}

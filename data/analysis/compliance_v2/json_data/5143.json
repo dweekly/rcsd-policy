@@ -1,0 +1,78 @@
+{
+  "code": "5143",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5143",
+    "title": "Insurance",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5143.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Minimum Insurance Coverage Amounts for Athletic Teams",
+        "description": "Education Code 32221 requires specific minimum insurance coverage amounts for athletic team participants, but these amounts are not specified in the policy. The policy references \"amounts specified in law and administrative regulation\" but no administrative regulation exists, and the specific amounts are not stated in the policy itself.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32221(a)",
+            "text": "Each pupil participating on a school athletic team shall have insurance protection in the amount of at least ten thousand dollars ($10,000) for medical expenses and at least ten thousand dollars ($10,000) for hospital expenses resulting from accidental bodily injury incurred while participating as a member of such athletic team."
+          }
+        ],
+        "required_language": "Each student participating on a school athletic team shall have insurance protection of at least $10,000 for medical expenses and at least $10,000 for hospital expenses resulting from accidental bodily injury incurred while participating as a member of such athletic team.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy references administrative regulation for specific insurance amounts and implementation details, but no Administrative Regulation 5143 exists. This creates a gap in implementation guidance for staff regarding insurance procedures, enrollment processes, financial hardship determinations, and coverage verification.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32221, 35331",
+            "text": "These sections require districts to implement insurance programs with specific procedures for enrollment, payment, and coverage verification that typically require detailed administrative procedures."
+          }
+        ],
+        "required_language": "Administrative regulation should include: procedures for verifying insurance coverage, enrollment processes for district-offered insurance, criteria and procedures for determining financial inability to pay, documentation requirements, and coordination with student body organizations for payment assistance.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Reference to Insurance Information Distribution Requirements",
+        "description": "While the policy mentions providing information about available insurance, it lacks specific requirements about timing and method of distribution that would ensure consistent implementation across the district.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32221, 35331",
+            "text": "These sections imply districts must have systematic procedures for informing parents about insurance requirements and options."
+          }
+        ],
+        "required_language": "Procedures for distributing insurance information to parents/guardians, including timing (e.g., at registration, before athletic participation, prior to field trips) and methods of distribution.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2010 and has not been reviewed since adoption. Insurance requirements and best practices may have changed, and regular review ensures continued compliance and effectiveness.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "General governance best practices",
+            "text": "Regular policy review ensures continued legal compliance and operational effectiveness."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and operational practices.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:26:32.473161+00:00"
+}

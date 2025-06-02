@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1240: Volunteer Assistance
+Last Reviewed: 02/09/2022
+================================================================================
+
+Missing Criminal Background Check Requirements (Confidence: 95%)
+Missing from: BOTH
+California law requires criminal background checks for volunteers who have frequent or prolonged contact with students. While the policy mentions screening and the regulation addresses sex offender verification, neither document establishes the required criminal background check process for volunteers with frequent/prolonged student contact.
+
+Legal Basis:
+- Education Code 45125.1: Requires criminal background checks for volunteers who have frequent or prolonged contact with students, including DOJ and FBI fingerprinting requirements.
+
+Required Language:
+Volunteers who will have frequent or prolonged contact with students shall submit to criminal background investigation including fingerprinting through the California Department of Justice and Federal Bureau of Investigation. The Superintendent or designee shall determine which volunteer positions require such background checks based on the nature and frequency of student contact.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Mandated Reporter Training Requirements (Confidence: 90%)
+Missing from: BOTH
+Volunteers who have frequent contact with students may be considered mandated reporters under California law and must receive appropriate training on child abuse reporting requirements. Neither document addresses this training requirement.
+
+Legal Basis:
+- Penal Code 11165.7, 11166.5: Defines mandated reporters to include school volunteers and requires training on child abuse identification and reporting procedures.
+
+Required Language:
+Volunteers who have frequent contact with students shall receive training on mandated reporting requirements, including identification of signs of child abuse and neglect and procedures for reporting suspected abuse to appropriate authorities.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Volunteer Application and Approval Process (Confidence: 85%)
+Missing from: BOTH
+While the policy mentions screening procedures, neither document establishes a formal application and approval process that documents volunteer qualifications, assigns specific duties, and ensures proper authorization before volunteers begin service.
+
+Legal Basis:
+- Education Code 35021, 45344: Requires governing boards to establish procedures for volunteer service and ensure volunteers meet qualifications for their assigned duties.
+
+Required Language:
+All volunteers must complete a district application form and receive written approval from the Superintendent or designee before beginning service. The application shall document the volunteer's qualifications, proposed duties, and completion of required screening and training.
+
+Recommended Placement: AR
+
+----------------------------------------
+

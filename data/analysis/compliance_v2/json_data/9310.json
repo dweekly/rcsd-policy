@@ -1,0 +1,78 @@
+{
+  "code": "9310",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9310",
+    "title": "Board Policies",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9310.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Annual Policy Review Requirements",
+        "description": "Education Code 35160.5 requires specific policies to be reviewed annually, but the district has not identified which specific policies must be reviewed annually or established procedures to ensure compliance with this mandate. While the BP mentions this requirement generally, it lacks the specificity needed for implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160.5",
+            "text": "The governing board of a school district shall review, and revise or readopt, as appropriate, all of the policies and administrative regulations of the school district in order to ensure that these policies and administrative regulations comply with current law."
+          }
+        ],
+        "required_language": "Administrative regulations shall specify which policies require annual review pursuant to Education Code 35160.5, establish a schedule for such reviews, and define procedures to ensure compliance with the annual review requirement including documentation in Board minutes when no revisions are deemed necessary.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Public Access and Notification Procedures",
+        "description": "While the BP states that policies shall be accessible to employees and the public, there are no detailed procedures for ensuring public access, notification methods, or specific requirements for maintaining current copies at all required locations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35010",
+            "text": "The governing board of any school district may prescribe and enforce rules not inconsistent with law or with the rules prescribed by the State Board of Education, for its own government, and the government of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "Administrative regulations shall establish specific procedures for: (1) maintaining current policy manuals at the district office and each school site, (2) ensuring electronic and/or paper access to policies, (3) notification procedures when policies are adopted or revised, and (4) methods for communicating policy changes to affected stakeholders.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Policy Development Implementation Procedures",
+        "description": "The BP outlines basic steps for policy development but lacks detailed administrative procedures for implementation, including timelines, responsible parties, documentation requirements, and coordination between the Board Policy Committee and administration.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "On and after January 1, 1976, the governing board of each school district shall adopt rules and regulations as it may deem necessary and proper for the government and control of the schools of the district."
+          }
+        ],
+        "required_language": "Administrative regulations shall establish detailed procedures for policy development including: (1) timelines for each step in the development process, (2) specific roles and responsibilities of staff and Board Policy Committee members, (3) documentation requirements for policy review and input gathering, (4) procedures for legal review coordination, and (5) methods for tracking policy development through completion.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Policy Evaluation Implementation Procedures",
+        "description": "While the BP mentions that evaluation timelines and measures should be determined when policies are adopted, there are no administrative procedures for implementing policy evaluation, tracking evaluation schedules, or reporting results.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160.5",
+            "text": "The governing board of a school district shall review, and revise or readopt, as appropriate, all of the policies and administrative regulations of the school district in order to ensure that these policies and administrative regulations comply with current law."
+          }
+        ],
+        "required_language": "Administrative regulations should establish procedures for implementing policy evaluation including: (1) methods for tracking evaluation schedules, (2) procedures for conducting policy effectiveness assessments, (3) reporting mechanisms for evaluation results, and (4) processes for recommending policy revisions based on evaluation findings.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:40:32.226662+00:00"
+}

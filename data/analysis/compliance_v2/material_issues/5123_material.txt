@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5123: Promotion/Acceleration/Retention
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Supplemental Instruction Program Requirements (Confidence: 85%)
+Missing from: BOTH
+Education Code 37252.2 requires specific components for supplemental instruction programs offered to retained students in grades 2-8, including direct instruction, systematic instruction, intensive instruction, and daily assessments. While the BP mentions offering supplemental instruction "in accordance with Education Code 37252.2," neither document specifies the required program components.
+
+Legal Basis:
+- Education Code 37252.2(a): The program of supplemental instruction shall include direct instruction, systematic instruction, and intensive instruction and shall provide daily assessments of pupil progress.
+
+Required Language:
+Supplemental instruction programs for retained students in grades 2-8 shall include: (1) Direct instruction, (2) Systematic instruction, (3) Intensive instruction, and (4) Daily assessments of pupil progress.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Parent Notification Requirements for Supplemental Instruction (Confidence: 90%)
+Missing from: BOTH
+Education Code 37252.2 requires districts to notify parents/guardians about supplemental instruction programs, including information about the program and the option to decline participation. This notification requirement is completely absent from both documents.
+
+Legal Basis:
+- Education Code 37252.2(b): The school district shall notify the parent or guardian of a pupil who is recommended for or who is retained in the same grade level for a second or subsequent time that supplemental instruction will be made available to the pupil. The parent or guardian may decline to have the pupil participate in the supplemental instruction.
+
+Required Language:
+The district shall notify parents/guardians of students recommended for or retained in grades 2-8 that supplemental instruction will be made available. Parents/guardians may decline to have their child participate in supplemental instruction.
+
+Recommended Placement: AR
+
+----------------------------------------
+

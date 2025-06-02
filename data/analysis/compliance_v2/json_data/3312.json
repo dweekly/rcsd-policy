@@ -1,0 +1,93 @@
+{
+  "code": "3312",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3312",
+    "title": "Contracts",
+    "type": "Policy",
+    "last_reviewed": "05/08/2019",
+    "file_path": "data/extracted/policies/3312.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation Document",
+        "description": "Policy 3312 contains extensive procedural requirements and implementation details that should be organized into an Administrative Regulation. The policy currently mixes board-level policy direction with detailed administrative procedures, making it difficult to manage and update operational requirements separately from governance decisions.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to contain the detailed procedures for contract implementation, internal controls, competitive bidding processes, public hearing procedures, and other operational requirements currently embedded in the policy.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Public Hearing Requirements for Non-Nutritious Food/Beverage Contracts",
+        "description": "The policy mentions public hearing requirements for non-nutritious food and beverage contracts but fails to include all required elements. The policy discusses hearing content but doesn't clearly establish the requirement for a noticed public hearing before entering such contracts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35182.5(a)",
+            "text": "Before a school district or a school enters into or renews a contract that grants exclusive or nonexclusive advertising or sale of beverages or food, the governing board of the school district shall hold a public hearing."
+          }
+        ],
+        "required_language": "Before the district or a district school enters into or renews a contract for non-nutritious food or beverages, the Board shall hold a noticed public hearing. The hearing shall include discussion of nutritional value, availability of fresh produce, fat/sugar/additive content, and barriers to meal program participation.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Parent Opt-Out Procedures for Electronic Products with Advertising",
+        "description": "While the policy mentions that parents/guardians must be offered the opportunity to request their child not be exposed to advertising programs, it lacks clear procedures for how this opt-out process will be implemented and managed.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35182.5(b)(4)",
+            "text": "Offers parents and guardians the opportunity to request in writing that their child not be exposed to the program that contains the advertising."
+          }
+        ],
+        "required_language": "Detailed procedures for processing, tracking, and implementing parent/guardian requests to opt their children out of programs containing advertising, including forms, timelines, and communication protocols.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Duplicated Content Within Policy",
+        "description": "The policy contains significant duplication of content, particularly regarding non-discrimination clauses, non-nutritious food contracts, and electronic products. This creates potential confusion and maintenance issues.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "Governing boards should maintain clear and organized policies for effective governance."
+          }
+        ],
+        "required_language": "Reorganize policy to eliminate duplication and present requirements in a clear, logical sequence.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Contract Approval Threshold Review Mechanism",
+        "description": "The policy sets a $60,000 threshold for board approval but doesn't include a mechanism for periodic review and adjustment of this threshold to account for inflation or changing district needs.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "School districts should maintain effective business practices and fiscal oversight."
+          }
+        ],
+        "required_language": "The contract approval threshold shall be reviewed periodically and adjusted as necessary to maintain appropriate fiscal oversight.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:25:35.456951+00:00"
+}

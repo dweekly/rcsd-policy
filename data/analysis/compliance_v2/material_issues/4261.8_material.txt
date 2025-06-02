@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4261.8: Family Care And Medical Leave
+Last Reviewed: 05/19/2021
+================================================================================
+
+Missing New Parent Leave Provisions (Confidence: 90%)
+Missing from: BOTH
+Neither document addresses the California New Parent Leave Act (NPLA) requirements that became effective January 1, 2018. This law provides job-protected leave for employees of employers with 20-49 employees for bonding with a new child, which may apply to smaller school districts.
+
+Legal Basis:
+- Government Code 12945.6: Employers with 20 to 49 employees must provide up to 12 weeks of unpaid parental leave for bonding with a new child within one year of birth, adoption, or foster care placement.
+
+Required Language:
+If the district employs 20-49 employees, provisions must be added addressing New Parent Leave Act requirements, including eligibility criteria, leave duration, job protection, and benefit continuation requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Kin Care Provisions (Confidence: 85%)
+Missing from: BOTH
+The regulation does not address California's Kin Care law, which allows employees to use accrued sick leave to care for family members. This is a separate requirement from CFRA that applies to all California employers.
+
+Legal Basis:
+- Labor Code 233: Employees may use accrued sick leave to attend to illness of child, parent, spouse, registered domestic partner, grandparent, grandchild, or sibling.
+
+Required Language:
+Provisions allowing employees to use accrued sick leave for family care purposes, including definition of eligible family members (child, parent, spouse, registered domestic partner, grandparent, grandchild, sibling) and procedures for requesting such leave.
+
+Recommended Placement: AR
+
+----------------------------------------
+

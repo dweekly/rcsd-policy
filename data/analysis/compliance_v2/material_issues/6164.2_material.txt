@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6164.2: Guidance/Counseling Services
+Last Reviewed: 03/08/2023
+================================================================================
+
+Missing Specific Procedures for Confidentiality and Record-Keeping (Confidence: 90%)
+Missing from: BOTH
+While BP mentions confidentiality requirements under Ed Code 49602, neither document provides specific procedures for handling, storing, and disclosing confidential counseling information, which is required for compliance.
+
+Legal Basis:
+- Education Code 49602: Information of a personal nature disclosed by a student 12 years or older is confidential and shall not become part of the student record without written consent, with specific exceptions for disclosure
+
+Required Language:
+Specific procedures for: (1) Securing and storing confidential counseling information separately from student records; (2) Obtaining written consent for disclosure; (3) Documenting exceptions to confidentiality; (4) Training staff on confidentiality requirements; (5) Procedures for when disclosure is required by law.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Mandatory Reporting Procedures (Confidence: 85%)
+Missing from: BOTH
+Neither document addresses mandatory reporting requirements for counselors when they become aware of child abuse, neglect, or threats of harm, which are legally required procedures.
+
+Legal Basis:
+- Penal Code 11164-11174.3 (Child Abuse and Neglect Reporting Act): School counselors are mandated reporters and must report suspected child abuse or neglect within specified timeframes
+
+Required Language:
+Procedures for mandatory reporting including: (1) Recognition of signs of abuse/neglect; (2) Immediate reporting requirements and timelines; (3) Documentation procedures; (4) Follow-up requirements; (5) Training for counseling staff on mandatory reporting obligations.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Consent Procedures for Mental Health Services (Confidence: 88%)
+Missing from: BOTH
+While BP mentions written parent consent is required for mental health services, neither document provides specific procedures for obtaining, documenting, and maintaining such consent, or exceptions when students can self-consent.
+
+Legal Basis:
+- Family Code 6920-6929: Specifies when minors can consent to mental health treatment without parental consent
+
+Required Language:
+Detailed procedures for: (1) Obtaining written parental consent for mental health services; (2) Determining when students age 12+ can self-consent; (3) Documentation and record-keeping of consent; (4) Procedures when consent is refused; (5) Emergency mental health intervention procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+

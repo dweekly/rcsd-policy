@@ -1,0 +1,78 @@
+{
+  "code": "6111",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6111",
+    "title": "School Calendar",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6111.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Minimum Instructional Days Requirement",
+        "description": "The policy states the district shall \"meet or exceed the minimum days of instruction as required by the State\" but fails to specify the actual minimum requirements. California law requires specific minimum instructional days/minutes that must be clearly stated in district policy.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 46200",
+            "text": "The governing board of each school district maintaining kindergarten or any of grades 1 to 12, inclusive, shall offer, for a minimum of 180 days, instruction in the kindergarten and grades so maintained."
+          }
+        ],
+        "required_language": "The district shall provide a minimum of 180 instructional days per school year for kindergarten through grade 12, and shall meet the minimum instructional minutes requirements specified in Education Code sections 46201-46208.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Administrative Regulation",
+        "description": "School calendar policies require detailed administrative procedures for implementation, including calendar development process, approval timelines, emergency closure procedures, and makeup day requirements. The absence of an AR leaves critical implementation gaps.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 37223",
+            "text": "If any school is closed for any cause, the governing board of the school district may require the school to be taught for the number of days lost by the closing."
+          }
+        ],
+        "required_language": "Administrative regulation should include: calendar development procedures, emergency closure protocols, makeup day requirements, and processes for calendar modifications during the school year.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Emergency Closure and Makeup Day Procedures",
+        "description": "Neither the policy nor regulation addresses procedures for emergency school closures or requirements for makeup days to ensure minimum instructional time is maintained, which is required by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 37223",
+            "text": "If any school is closed for any cause, the governing board of the school district may require the school to be taught for the number of days lost by the closing."
+          }
+        ],
+        "required_language": "The district shall establish procedures for emergency school closures and shall determine when makeup days are required to ensure compliance with minimum instructional day requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Minimum Day Notification Requirements",
+        "description": "While the policy addresses minimum day notifications, it doesn't specify the method of notification or language requirements for non-English speaking families as required by Education Code 48985.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48985",
+            "text": "All notices, reports, statements, or records sent to the parent or guardian of any pupil by a school district or by a school or attendance supervisor shall be written in English and in the primary language of the pupil when 15 percent or more of the pupils enrolled in the public school to which the notice, report, statement, or record relates speak a single primary language other than English."
+          }
+        ],
+        "required_language": "Notifications shall be provided in English and in the primary language of students as required by Education Code 48985.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:29:35.937210+00:00"
+}

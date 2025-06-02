@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6162.6: Use Of Copyrighted Materials
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Digital Millennium Copyright Act (DMCA) Safe Harbor Provisions (Confidence: 85%)
+Missing from: BOTH
+California school districts must comply with federal DMCA requirements, including designation of a copyright agent and implementation of notice-and-takedown procedures for online content. This is particularly critical given the district's use of digital platforms and online educational materials. The policy/regulation set lacks any reference to DMCA compliance procedures.
+
+Legal Basis:
+- 17 USC § 512 (DMCA Safe Harbor Provisions): Service providers must designate an agent to receive notifications of claimed infringement and implement notice-and-takedown procedures to maintain safe harbor protections.
+
+Required Language:
+The district shall designate a copyright agent to receive notices of claimed copyright infringement and shall implement procedures for responding to such notices in accordance with the Digital Millennium Copyright Act. The district shall maintain current registration of its designated agent with the U.S. Copyright Office.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Technology, Education and Copyright Harmonization (TEACH) Act Provisions (Confidence: 90%)
+Missing from: BOTH
+The TEACH Act provides specific exemptions for educational institutions' use of copyrighted materials in distance learning and online education. Given the prevalence of online and hybrid learning, districts must have policies addressing TEACH Act compliance requirements, including technological safeguards and access restrictions.
+
+Legal Basis:
+- 17 USC § 110(2) (TEACH Act): Educational institutions may use copyrighted works in distance education under specific conditions including technological safeguards, access restrictions, and institutional copyright policies.
+
+Required Language:
+For distance learning and online educational activities, the district shall comply with TEACH Act requirements including: implementing technological measures to prevent retention and redistribution of transmitted materials, limiting access to enrolled students, providing copyright information to faculty and students, and ensuring materials are directly related to teaching content.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Creative Commons and Open Educational Resources Guidelines (Confidence: 80%)
+Missing from: BOTH
+Modern educational environments extensively use Creative Commons licensed materials and Open Educational Resources (OER). The policy lacks guidance on proper attribution, license compliance, and use restrictions for these materials, which have become standard in K-12 education.
+
+Legal Basis:
+- Education Code § 60119 (Open Educational Resources): California encourages the use of open educational resources and requires proper compliance with licensing terms.
+
+Required Language:
+Staff shall comply with Creative Commons and other open licensing terms when using Open Educational Resources, including proper attribution, adherence to license restrictions (commercial use, derivative works, share-alike requirements), and verification of license compatibility when combining materials.
+
+Recommended Placement: AR
+
+----------------------------------------
+

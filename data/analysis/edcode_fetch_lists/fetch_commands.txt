@@ -1,0 +1,28 @@
+# Commands to fetch Ed Code sections
+# Run these one at a time in Claude Code using WebFetch
+
+# HIGH PRIORITY - 6 sections
+
+# Section 35160
+WebFetch URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35160&lawCode=EDC
+Prompt: Extract the complete text of Education Code Section 35160, including all subsections.
+
+# Section 44050
+WebFetch URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44050&lawCode=EDC
+Prompt: Extract the complete text of Education Code Section 44050, including all subsections.
+
+# Section 35160.5
+WebFetch URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35160.5&lawCode=EDC
+Prompt: Extract the complete text of Education Code Section 35160.5, including all subsections.
+
+# Section 35186
+WebFetch URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35186&lawCode=EDC
+Prompt: Extract the complete text of Education Code Section 35186, including all subsections.
+
+# Section 48980
+WebFetch URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=48980&lawCode=EDC
+Prompt: Extract the complete text of Education Code Section 48980, including all subsections.
+
+# Section 48900
+WebFetch URL: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=48900&lawCode=EDC
+Prompt: Extract the complete text of Education Code Section 48900, including all subsections.

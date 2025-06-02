@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4158: Employee Security
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Mandatory Reporting Requirements for Attacks on School Personnel (Confidence: 85%)
+Missing from: BOTH
+Education Code 44014 requires that when any person willfully disturbs a public school or public school meeting, or commits certain acts against school personnel, the principal or superintendent must report to appropriate law enforcement AND to the county superintendent of schools. The current documents only mention reporting to law enforcement but omit the mandatory reporting to the county superintendent.
+
+Legal Basis:
+- Education Code 44014: The principal of a school or the superintendent of the school district shall report any instance of assault or battery committed against any school employee to appropriate local law enforcement authorities and to the county superintendent of schools.
+
+Required Language:
+Both the employee and the principal or other immediate supervisor shall promptly report such instances to the appropriate local law enforcement agency and to the county superintendent of schools.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Workers' Compensation Notification Requirements (Confidence: 90%)
+Missing from: BOTH
+Labor Code 3550 requires employers to notify employees of their rights under workers' compensation, particularly when workplace injuries occur. This is especially critical for employee security policies as they deal with potential workplace violence and injuries.
+
+Legal Basis:
+- Labor Code 3550: Every employer shall secure the payment of compensation in one or more of the following ways: (a) By being insured against liability to pay compensation by one or more insurers duly authorized to write compensation insurance in this state.
+
+Required Language:
+Employees who suffer work-related injuries, including those resulting from workplace violence or threats, shall be informed of their rights under workers' compensation and assisted in filing appropriate claims.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,84 @@
+{
+  "code": "5148.3",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5148.3",
+    "title": "Preschool/Early Childhood Education",
+    "type": "Policy",
+    "last_reviewed": "04/04/2018",
+    "file_path": "data/extracted/policies/5148.3.txt"
+  },
+  "regulation": {
+    "code": "5148.3",
+    "title": "Preschool/Early Childhood Education",
+    "type": "Regulation",
+    "last_reviewed": "04/04/2018",
+    "file_path": "data/extracted/regulations/5148.3.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mandated Reporter Training Requirements",
+        "description": "California law requires all preschool staff to receive mandated reporter training regarding child abuse and neglect reporting. While the policy mentions staff qualifications and professional development, neither document specifically addresses the mandatory training requirements for identifying and reporting suspected child abuse.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11165.7",
+            "text": "Any person who enters into employment on or after January 1, 1985, and is a mandated reporter shall sign a statement on a form prescribed by the Department of Justice stating that he or she has knowledge of the reporting requirements and will comply with those provisions."
+          }
+        ],
+        "required_language": "All preschool staff shall receive training on mandated reporting requirements for child abuse and neglect, including initial training upon employment and periodic refresher training. Staff shall sign acknowledgment forms confirming their understanding of reporting obligations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Health and Safety Requirements",
+        "description": "The regulation lacks specific health and safety requirements mandated for preschool programs, including emergency procedures, health screening requirements, and safety protocols that are required by California Code of Regulations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 18275",
+            "text": "Each program shall have written policies and procedures for health and safety, including but not limited to emergency procedures, health screening, medication administration, and injury reporting."
+          }
+        ],
+        "required_language": "The preschool program shall maintain written health and safety policies including: emergency evacuation procedures, health screening protocols, medication administration procedures, injury reporting requirements, and infectious disease control measures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Parent Grievance Procedures",
+        "description": "Neither document establishes a formal grievance procedure for parents/guardians to appeal decisions regarding enrollment, services, or other program matters, which is required for state-funded preschool programs.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 18096",
+            "text": "Each contractor shall establish a grievance procedure to resolve complaints by parents regarding the provision of services. The procedure shall include timelines and appeal processes."
+          }
+        ],
+        "required_language": "The district shall establish a grievance procedure allowing parents/guardians to appeal decisions regarding enrollment, fees, services, or program policies. The procedure shall include specific timelines, steps for resolution, and appeal rights.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Developmental Assessment Requirements",
+        "description": "While the regulation mentions creating developmental profiles, it lacks specific details about the timing, methods, and parent notification requirements for developmental assessments as required by state regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 18274",
+            "text": "A developmental profile shall be completed for each child within 60 days of enrollment and updated periodically. Parents shall be informed of assessment results and involved in planning."
+          }
+        ],
+        "required_language": "Developmental profiles shall be completed within 60 days of enrollment and updated at least twice annually. Parents/guardians shall receive written reports of assessments and participate in planning meetings to discuss their child's progress and goals.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:28:51.661111+00:00"
+}

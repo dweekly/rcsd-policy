@@ -1,0 +1,93 @@
+{
+  "code": "6162.5",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6162.5",
+    "title": "Student Assessment",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6162.5.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing State Assessment Requirements",
+        "description": "California requires districts to administer state-mandated assessments including CAASPP (California Assessment of Student Performance and Progress). The policy lacks any reference to required state testing programs, administration procedures, or compliance obligations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60640",
+            "text": "The Superintendent shall develop a statewide pupil assessment program... Each school district shall administer the assessments pursuant to this article to pupils enrolled in the school district."
+          }
+        ],
+        "required_language": "The district shall administer all state-mandated assessments including the California Assessment of Student Performance and Progress (CAASPP) and any other assessments required by the State Board of Education in accordance with state timelines and procedures.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Parent Notification Requirements",
+        "description": "State law requires specific parent notifications regarding student assessments, including rights to review tests and receive results. The policy mentions providing supplementary information but lacks required formal notification procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60615",
+            "text": "Parents or guardians of pupils have the right to inspect any test or testing material used in their child's classroom... The governing board shall provide written notification to parents or guardians of their rights."
+          }
+        ],
+        "required_language": "Parents/guardians shall be notified in writing of their rights to inspect testing materials, receive assessment results, and understand how results will be used. The district shall provide annual notification of assessment schedules and parent rights.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation",
+        "description": "The policy establishes broad assessment goals but lacks implementing procedures. State compliance requires detailed procedures for test administration, security, accommodations, data handling, and reporting that should be contained in an Administrative Regulation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60615.5",
+            "text": "Test security procedures shall be established to ensure the integrity of the testing process, including procedures for test administration, handling, and storage."
+          }
+        ],
+        "required_language": "Detailed procedures covering: test security and administration protocols, accommodations for students with disabilities and English learners, data collection and reporting procedures, staff training requirements, and timelines for state and local assessments.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Accommodations for Students with Disabilities and English Learners",
+        "description": "Federal and state law requires districts to provide appropriate testing accommodations for students with disabilities and English learners. The policy contains no reference to accommodation requirements or procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60640(d)",
+            "text": "Appropriate accommodations shall be provided for pupils with disabilities and English learners as specified in federal and state law and regulations."
+          }
+        ],
+        "required_language": "The district shall provide appropriate testing accommodations for students with disabilities in accordance with their IEPs or Section 504 plans, and for English learners as specified in state guidelines, to ensure equitable access to assessments.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Assessment References",
+        "description": "The policy was last updated in 2010 and lacks reference to current state assessment systems. While not legally non-compliant, this creates confusion about which assessments are actually required.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60640",
+            "text": "References to current state assessment programs including CAASPP, ELPAC, and other state-mandated assessments."
+          }
+        ],
+        "required_language": "Update policy to reference current assessment programs including CAASPP (English language arts, mathematics, science), ELPAC (English Language Proficiency Assessments for California), and other state-required assessments.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:33:34.421061+00:00"
+}

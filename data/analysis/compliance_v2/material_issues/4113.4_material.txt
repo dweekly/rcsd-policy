@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4113.4: Temporary Modified/Light-Duty Assignment
+Last Reviewed: 12/11/2024
+================================================================================
+
+Missing Interactive Process Requirements Under ADA (Confidence: 90%)
+Missing from: BOTH
+The policy lacks reference to the required interactive process under the Americans with Disabilities Act and California Fair Employment and Housing Act. When an employee requests modified duty due to a medical condition, the district must engage in an interactive process to determine reasonable accommodations, even for temporary assignments.
+
+Legal Basis:
+- Government Code Section 12940(n): It shall be an unlawful employment practice for an employer to fail to engage in a timely, good faith, interactive process with the employee or applicant to determine effective reasonable accommodations.
+
+Required Language:
+The district shall engage in an interactive process with employees requesting temporary modified/light-duty assignments to identify and evaluate potential reasonable accommodations. This process shall include discussing the employee's functional limitations, exploring available accommodations, and considering modifications to existing positions or alternative assignments.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Non-Discrimination and Equal Treatment Provisions (Confidence: 80%)
+Missing from: BOTH
+The policy does not include required non-discrimination language ensuring that temporary modified/light-duty assignments are provided without regard to protected characteristics and that employees are not penalized for requesting accommodations.
+
+Legal Basis:
+- Government Code Section 12940(a): It shall be an unlawful employment practice for an employer to refuse to hire or employ a person or to refuse to select a person for a training program leading to employment, or to bar or to discharge a person from employment or from a training program leading to employment, or to discriminate against a person in compensation or in terms, conditions, or privileges of employment because of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, or military and veteran status.
+
+Required Language:
+Temporary modified/light-duty assignments shall be provided without discrimination based on race, color, national origin, religion, sex, gender identity, sexual orientation, age, disability, or other protected characteristics. No employee shall be retaliated against for requesting a temporary modified assignment or accommodation.
+
+Recommended Placement: BP
+
+----------------------------------------
+

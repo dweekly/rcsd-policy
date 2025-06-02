@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4151: Employee Compensation
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Overtime and Extra Duty Compensation Provisions (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation addresses overtime compensation, extra duty pay, or stipend arrangements. California school districts must comply with Fair Labor Standards Act (FLSA) requirements for overtime pay and establish clear procedures for additional compensation beyond regular salary schedules.
+
+Legal Basis:
+- Education Code Section 45128: The governing board may authorize additional compensation for additional services performed by any employee.
+
+Required Language:
+The district shall provide overtime compensation in accordance with federal and state law. Additional compensation for extra duties, stipends, and supplemental assignments shall be authorized by the superintendent or designee according to established procedures.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Substitute Employee Compensation Framework (Confidence: 85%)
+Missing from: BOTH
+The policy does not address compensation for substitute employees, which is a significant component of district operations. Clear policies are needed for substitute teacher and classified substitute pay rates and procedures.
+
+Legal Basis:
+- Education Code Section 44918: The governing board of a school district may employ substitute teachers and fix their compensation.
+
+Required Language:
+The Board shall establish compensation rates for substitute certificated and classified employees. Substitute pay rates shall be reviewed annually and adjusted as appropriate.
+
+Recommended Placement: BP
+
+----------------------------------------
+

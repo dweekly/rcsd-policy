@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6142.91: Reading/Language Arts Instruction
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing English Learner Instructional Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation addresses specific instructional requirements for English Learners in reading/language arts, which is mandated by state law for districts serving EL students.
+
+Legal Basis:
+- Education Code Section 306(c): It is the policy of the state to ensure the mastery of English by all pupils in the schools; provided that bilingual education or special instruction is permitted in those situations when such instruction is educationally advantageous to the pupils.
+
+Required Language:
+Provisions for English Learners shall include designated and integrated English Language Development instruction, appropriate instructional materials and strategies for EL students at varying proficiency levels, and coordination between ELD and core reading/language arts instruction.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Special Education Integration Requirements (Confidence: 95%)
+Missing from: BOTH
+The policy lacks required provisions for students with disabilities in reading/language arts instruction, including IEP implementation and specialized instruction requirements.
+
+Legal Basis:
+- Education Code Section 56000: It is the intent of the Legislature to ensure that all individuals with exceptional needs have access to the services and supports they need to be prepared for and to participate in integrated employment and independent living.
+
+Required Language:
+Reading/language arts instruction for students with disabilities shall be provided in accordance with each student's Individualized Education Program (IEP) or Section 504 plan, including specialized academic instruction, accommodations, modifications, and assistive technology as appropriate.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Parent Notification Requirements (Confidence: 80%)
+Missing from: BOTH
+The policy does not address required parent notifications regarding reading deficiencies, intervention placements, or progress reporting as mandated by state law.
+
+Legal Basis:
+- Education Code Section 48070.5: The parent or guardian of a pupil has the right to receive information concerning the academic performance of the pupil's class and the school that the pupil attends.
+
+Required Language:
+Parents/guardians shall be notified when students are identified as at-risk in reading, when students are placed in intervention programs, and shall receive regular progress reports on their child's reading development and achievement.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,63 @@
+{
+  "code": "4117.7",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4117.7",
+    "title": "Employment Status Reports",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4117.7.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "There is no Board Policy (BP) 4117.7 document found, only an Administrative Regulation (AR). California school districts are required to have both policy and regulation components for employment status reporting requirements. The Board Policy should establish the district's commitment to reporting requirements and provide board-level direction, while the AR contains implementation procedures.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44242.5",
+            "text": "Requires school districts to report changes in employment status of credential holders due to misconduct allegations"
+          }
+        ],
+        "required_language": "The Board is committed to ensuring compliance with state reporting requirements regarding changes in employment status of credential holders. The district shall report to the Commission on Teacher Credentialing any changes in employment status of credential holders working in positions requiring credentials when such changes result from allegations of misconduct, in accordance with Education Code 44242.5 and applicable regulations.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Reference to Board Policy in Administrative Regulation",
+        "description": "The Administrative Regulation does not reference or cross-reference the corresponding Board Policy, which is standard practice in California school district policy organization to show the relationship between policy direction and implementation procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44242.5",
+            "text": "Establishes reporting requirements that should be reflected in both policy and regulation structure"
+          }
+        ],
+        "required_language": "Add reference such as: \"This regulation implements Board Policy 4117.7 - Employment Status Reports\"",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Outdated Last Review Date",
+        "description": "The regulation was last reviewed in 2009, which is over 14 years ago. While not a legal compliance issue, California school districts typically review policies and regulations more frequently to ensure continued compliance with evolving legal requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44242.5 and 5 CCR 80303-80304",
+            "text": "Regulations may have been updated since 2009, requiring review of district procedures"
+          }
+        ],
+        "required_language": "Update last reviewed date and verify all regulatory citations and requirements are current",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:09:50.104669+00:00"
+}

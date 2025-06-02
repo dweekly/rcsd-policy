@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3314.2: Revolving Funds
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Specific Bonding Requirements Details (Confidence: 90%)
+Missing from: BOTH
+While the policy mentions that revolving cash funds "shall be subject to the bonding provisions of Education Code 42801," it does not specify the required bond amounts or implementation procedures. Education Code 42801 requires specific bonding amounts and procedures that need to be clearly established.
+
+Legal Basis:
+- Education Code 42801: Requires that persons handling revolving funds be bonded in amounts determined by the governing board, with specific minimum amounts and procedures for obtaining and maintaining bonds.
+
+Required Language:
+Specific bond amounts required for different fund levels, procedures for obtaining bonds, requirements for bond maintenance and renewal, and consequences for failure to maintain proper bonding.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Detailed Audit Requirements and Procedures (Confidence: 85%)
+Missing from: BOTH
+The policy states the Board "shall provide an audit of revolving funds on a regular basis" but does not specify the frequency, scope, or procedures for these audits as required by Education Code 42810.
+
+Legal Basis:
+- Education Code 42810: Requires regular auditing of revolving funds with specific procedures and accountability measures.
+
+Required Language:
+Specific audit frequency (e.g., annually or more frequently), audit scope and procedures, documentation requirements, reporting requirements, and corrective action procedures for audit findings.
+
+Recommended Placement: AR
+
+----------------------------------------
+

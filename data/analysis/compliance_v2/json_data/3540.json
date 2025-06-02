@@ -1,0 +1,99 @@
+{
+  "code": "3540",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3540",
+    "title": "Transportation",
+    "type": "Policy",
+    "last_reviewed": "03/26/2025",
+    "file_path": "data/extracted/policies/3540.txt"
+  },
+  "regulation": {
+    "code": "3540",
+    "title": "Transportation",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3540.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Transportation Plan Implementation Procedures",
+        "description": "While the Board Policy establishes the requirement for a transportation plan and its contents per Education Code 39800.1, the Administrative Regulation lacks any implementation procedures for developing, updating, consulting with stakeholders, or presenting the plan to the Board.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 39800.1",
+            "text": "The governing board of a school district shall develop a transportation plan in consultation with classified staff, teachers, school administrators, regional local transit authorities, local air pollution control districts and air quality management districts, parents and guardians, students, and other stakeholders."
+          }
+        ],
+        "required_language": "Procedures for developing the annual transportation plan including: consultation process with required stakeholders, timeline for plan development and updates, process for presenting to Board at open meeting with public comment opportunities, and annual update requirements by April 1.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Private Transportation Contract Attestation Procedures",
+        "description": "The Board Policy references Education Code 39879 requirements for written attestations from private transportation entities, but the Administrative Regulation contains no implementation procedures for obtaining, verifying, or maintaining these attestations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 39879",
+            "text": "Prior to contracting with a private entity for student transportation services, a school district shall obtain written attestations from the entity regarding compliance with applicable laws, driver qualifications, and required documentation."
+          }
+        ],
+        "required_language": "Procedures for obtaining written attestations from private transportation contractors including verification of no law violations, compliance maintenance commitments, driver qualification requirements, and documentation availability for district inspection.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Vehicle Inspection and Safety Equipment Procedures",
+        "description": "The Board Policy establishes vehicle inspection and safety equipment requirements per Education Code 39879, but the Administrative Regulation lacks implementation procedures for ensuring 12-month/50,000-mile inspections and first aid kit/fire extinguisher requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 39879",
+            "text": "Any vehicle used to provide student transportation for compensation shall be inspected every 12 months, or every 50,000 miles, whichever comes first, and be equipped with a first aid kit and a fire extinguisher."
+          }
+        ],
+        "required_language": "Procedures for ensuring contracted transportation vehicles meet inspection requirements (12 months/50,000 miles at Bureau of Automotive Repair licensed facility) and safety equipment requirements (first aid kit and fire extinguisher), including verification and monitoring processes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Safety Procedures Implementation",
+        "description": "The Board Policy directs the Superintendent to develop safety procedures for students on school buses, but the Administrative Regulation contains no actual safety procedures or implementation details.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 39831.5",
+            "text": "The governing board of each school district shall adopt rules and regulations for the conduct of pupils transported in school buses owned or operated by the district."
+          }
+        ],
+        "required_language": "Specific safety procedures for students traveling on school buses including conduct rules, emergency procedures, boarding/alighting protocols, and disciplinary measures for safety violations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Administrative Regulation",
+        "description": "The Administrative Regulation was last reviewed in 2009 while the Board Policy was updated in 2025, creating potential inconsistencies and missing recent legal requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 39800.1",
+            "text": "Transportation plan requirements were added/modified in recent years and are not reflected in the 2009 regulation."
+          }
+        ],
+        "required_language": "Administrative Regulation should be updated to align with current Board Policy and incorporate all recent legal requirements.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:30:25.289534+00:00"
+}

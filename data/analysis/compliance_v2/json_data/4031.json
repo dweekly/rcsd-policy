@@ -1,0 +1,93 @@
+{
+  "code": "4031",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4031",
+    "title": "Complaints Concerning Discrimination In Employment",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4031.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP 4031) document is entirely missing. California law requires school districts to adopt formal board policies addressing discrimination complaints in employment. While the Administrative Regulation provides detailed procedures, the foundational policy establishing the district's commitment, rights, and basic framework must be contained in a Board Policy.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 262.3",
+            "text": "The governing board of each school district shall adopt policies and procedures for receiving and investigating complaints alleging discrimination in employment."
+          }
+        ],
+        "required_language": "A Board Policy must be adopted that includes: (1) Statement of nondiscrimination commitment, (2) Designation of complaint coordinator, (3) Notice requirements, (4) Reference to detailed procedures in AR, (5) Board's authority and responsibility for final decisions, (6) Protection against retaliation, (7) Alternative remedies available to complainants.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Coordinator Designation",
+        "description": "Neither document clearly designates who serves as the discrimination complaint coordinator. The AR references \"the coordinator\" and mentions a \"designee designated by the Board of Education in BP 4030,\" but does not specifically identify the coordinator for employment discrimination complaints as required by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 262.3",
+            "text": "The governing board shall designate the employee responsible for coordinating the district's response to complaints and for complying with state and federal civil rights laws."
+          }
+        ],
+        "required_language": "The Superintendent or designee shall designate a specific employee to serve as the coordinator for employment discrimination complaints. The coordinator's name, position, address, and telephone number shall be publicized.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Retaliation Protection",
+        "description": "Neither the BP (missing) nor AR contains explicit language prohibiting retaliation against individuals who file discrimination complaints or participate in complaint investigations. This protection is required by state and federal law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12940(h)",
+            "text": "It shall be an unlawful employment practice for any person to discharge, expel, or otherwise discriminate against any person because the person has opposed any practices forbidden under this part or because the person has filed a complaint, testified, or assisted in any proceeding under this part."
+          }
+        ],
+        "required_language": "The district prohibits retaliation against anyone who files a complaint, participates in the complaint process, or otherwise opposes discrimination. Retaliatory action will be subject to disciplinary measures.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Incomplete Notice Requirements",
+        "description": "While the AR mentions that information about civil remedies \"shall be published with the district's nondiscrimination complaint procedures,\" it lacks specific requirements for annual notification and posting of the complaint procedures as required by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 262.3",
+            "text": "The district shall ensure that employees and job applicants are notified of the district's policy against discrimination and the complaint procedures."
+          }
+        ],
+        "required_language": "The district shall annually notify employees and job applicants of the complaint procedures through employee handbooks, posting in employee areas, and other appropriate means. The notice shall include the coordinator's contact information and available remedies.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Protected Classes",
+        "description": "The AR references \"any basis specified in the district's nondiscrimination policies\" but does not enumerate the specific protected classes. While this may be covered in BP 4030, best practice includes listing protected categories in the complaint policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 262.3",
+            "text": "Complaints alleging discrimination based on race, color, ancestry, national origin, ethnic group identification, age, religion, marital or parental status, physical or mental disability, sex, sexual orientation, gender, gender identity, or gender expression."
+          }
+        ],
+        "required_language": "These procedures apply to complaints alleging discrimination based on the actual or perceived characteristics of race, color, ancestry, national origin, ethnic group identification, age, religion, marital or parental status, physical or mental disability, sex, sexual orientation, gender, gender identity, gender expression, or genetic information.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:32:40.617674+00:00"
+}

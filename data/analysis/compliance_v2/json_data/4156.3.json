@@ -1,0 +1,63 @@
+{
+  "code": "4156.3",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4156.3",
+    "title": "Employee Property Reimbursement",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4156.3.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Employee Property Reimbursement Implementation",
+        "description": "While the Board Policy establishes that the district does not authorize reimbursement for employee personal property, there is no Administrative Regulation to provide implementation procedures. This creates a gap in how claims should be processed, documented, and communicated to employees. Without clear procedures, the district may face inconsistent application of the policy and potential legal challenges.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative procedures should include: (1) Process for employees to report property damage/theft incidents; (2) Documentation requirements for any claims submitted; (3) Investigation procedures; (4) Timeline for claim review and response; (5) Appeal process if applicable; (6) Communication procedures to inform employees of policy; (7) Record retention requirements for claims and investigations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Policy Lacks Clarity on Exceptions or Alternative Protections",
+        "description": "The policy provides a blanket prohibition on reimbursement but does not address potential exceptions (such as required use of personal property) or alternative protections the district might provide (such as insurance information or safety guidelines). This could create confusion for employees who must use personal property for work purposes.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 2802",
+            "text": "An employer shall indemnify his or her employee for all necessary expenditures or losses incurred by the employee in direct consequence of the discharge of his or her duties."
+          }
+        ],
+        "required_language": "The policy should clarify whether there are any circumstances where reimbursement might be considered, address situations where personal property use is required versus voluntary, and provide guidance on alternative protections or insurance options available to employees.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 60,
+        "title": "Missing Employee Notification Requirements",
+        "description": "The policy does not specify how employees will be informed of this policy, which is important since it affects their decision-making about bringing personal property to work. Clear notification helps protect the district from claims based on lack of awareness.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "The governing board of a school district shall provide a fair and reasonable process for addressing complaints and concerns regarding district policies and procedures."
+          }
+        ],
+        "required_language": "Procedures for notifying all employees of this policy, including new employee orientation and periodic reminders, should be established. The notification should be documented to demonstrate employee awareness.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:12:48.572886+00:00"
+}

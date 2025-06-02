@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3516: Emergencies And Disaster Preparedness Plan
+Last Reviewed: 11/09/2022
+================================================================================
+
+Missing Annual Review and Update Requirement (Confidence: 85%)
+Missing from: BOTH
+California Education Code requires that comprehensive school safety plans be reviewed and updated at least annually. While the policy mentions developing and maintaining a disaster preparedness plan, neither the BP nor AR explicitly states the annual review and update requirement for the disaster preparedness components of the comprehensive school safety plan.
+
+Legal Basis:
+- Education Code Section 32286(a): The comprehensive school safety plan shall be reviewed and updated by March 1 of every year by the school site council or school safety planning committee.
+
+Required Language:
+The disaster preparedness plan components of each school's comprehensive school safety plan shall be reviewed and updated at least annually by March 1 by the school site council or school safety planning committee, as applicable.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing School Site Council/Safety Planning Committee Involvement (Confidence: 90%)
+Missing from: BOTH
+Education Code requires involvement of school site councils or school safety planning committees in developing comprehensive school safety plans. While the policy mentions involving various staff and community members, it does not specifically reference the required involvement of school site councils or school safety planning committees.
+
+Legal Basis:
+- Education Code Section 32288(a): The comprehensive school safety plan shall be developed by the school site council or a school safety planning committee.
+
+Required Language:
+The disaster preparedness components of the comprehensive school safety plan shall be developed by the school site council or a school safety planning committee, as applicable to each school site.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Public Meeting and Adoption Requirements (Confidence: 80%)
+Missing from: BOTH
+Education Code requires that comprehensive school safety plans be adopted at a public meeting and that the public be given opportunity to attend and express opinions. Neither document addresses these public participation requirements for the disaster preparedness components.
+
+Legal Basis:
+- Education Code Section 32288(c): The comprehensive school safety plan shall be adopted by the school district governing board at a public meeting. Before adopting the comprehensive school safety plan, the governing board shall allow members of the public to review the plan and express opinions about the plan at a regularly scheduled meeting of the governing board.
+
+Required Language:
+The comprehensive school safety plan, including disaster preparedness components, shall be adopted by the governing board at a public meeting. Before adoption, the board shall allow members of the public to review the plan and express opinions about the plan at a regularly scheduled board meeting.
+
+Recommended Placement: BP
+
+----------------------------------------
+

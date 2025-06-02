@@ -1,0 +1,93 @@
+{
+  "code": "4314",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4314",
+    "title": "Transfers",
+    "type": "Regulation",
+    "last_reviewed": "07/02/2013",
+    "file_path": "data/extracted/regulations/4314.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP 4314) document is entirely missing. California Education Code requires school boards to adopt policies governing personnel transfers, including the authority, criteria, and procedures for both voluntary and involuntary transfers. Without a board policy, there is no formal board direction or framework for transfer decisions.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "A comprehensive Board Policy should include: board's authority to transfer employees, criteria for transfers (operational needs, employee qualifications, etc.), distinction between voluntary and involuntary transfers, employee rights and notification requirements, and delegation of authority to superintendent for implementation.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Consultation Requirements for Involuntary Transfers",
+        "description": "While the AR mentions consultation with affected employees for involuntary transfers, it lacks specific requirements for meaningful consultation, timing, and the employee's right to respond or request reconsideration. Education Code and collective bargaining requirements typically mandate more detailed consultation procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44955",
+            "text": "No permanent employee shall be transferred from one school to another without his consent, except in case of emergency or to prevent undue disruption of the instructional program, and then only until such emergency is ended or such disruption is prevented."
+          }
+        ],
+        "required_language": "Involuntary transfers shall only occur in cases of emergency or to prevent undue disruption of the instructional program. The district shall provide written notice of the reasons for transfer, allow the employee opportunity to respond, and limit the transfer duration to address the specific emergency or disruption.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Transfer Criteria and Selection Process",
+        "description": "Neither document establishes clear, objective criteria for selecting employees for transfer or evaluating transfer requests. This creates potential for arbitrary decisions and may violate due process requirements and collective bargaining agreements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44955",
+            "text": "Transfers must be based on legitimate educational or operational needs, not arbitrary decisions."
+          }
+        ],
+        "required_language": "Transfer decisions shall be based on objective criteria including: operational needs of the district, employee qualifications and certifications, seniority, performance evaluations, and specific program requirements. Selection process shall be fair, transparent, and consistently applied.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Timeline Requirements",
+        "description": "The regulation uses vague language like \"as soon as practicable\" without establishing specific timelines for notifications and decisions. This fails to provide adequate due process protections and may conflict with collective bargaining agreement requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 3543.2",
+            "text": "Public school employers must meet and confer in good faith regarding terms and conditions of employment, including transfer procedures and timelines."
+          }
+        ],
+        "required_language": "Specific timelines must be established for: notification of intent to transfer (minimum 30 days when possible), employee response period (minimum 10 days), final decision notification (within specified timeframe), and effective date of transfer (allowing reasonable transition time).",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Appeal Process",
+        "description": "The documents do not provide any mechanism for employees to appeal or grieve transfer decisions, which may be required under collective bargaining agreements and general due process principles.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44944",
+            "text": "Certificated employees have rights to due process in employment decisions that may be construed to include transfer decisions affecting terms and conditions of employment."
+          }
+        ],
+        "required_language": "Employees may appeal transfer decisions through the district's grievance procedure or as provided in applicable collective bargaining agreements. Appeals must be filed within specified timeframes and follow established due process procedures.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:16:51.081836+00:00"
+}

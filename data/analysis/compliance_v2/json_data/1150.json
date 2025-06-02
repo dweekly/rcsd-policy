@@ -1,0 +1,54 @@
+{
+  "code": "1150",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "1150",
+    "title": "Commendations And Awards",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1150.txt"
+  },
+  "regulation": {
+    "code": "1150",
+    "title": "Commendations And Awards",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/1150.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Formal Nomination Process and Criteria",
+        "description": "While the policy allows for suggestions and the regulation identifies who may submit names, neither document establishes formal procedures for how nominations should be submitted, what criteria will be used for evaluation, or timelines for consideration. This creates potential inconsistency in recognition practices and may not provide adequate transparency for the community.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program or activity or may otherwise act in any manner which is not in conflict with or inconsistent with or preempted by any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The administrative regulation should include: (1) specific procedures for submitting nominations including required information and deadlines; (2) criteria for evaluation of nominees; (3) review process and timeline; and (4) notification procedures for nominees and nominators.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Administrative Regulation",
+        "description": "The administrative regulation is unusually brief and does not provide the implementation procedures typically expected in an AR. It only identifies who may submit nominations but lacks the procedural details needed for consistent implementation of the board's policy direction.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "In enacting any rule, regulation, or policy, the governing board of a school district shall follow established policies and procedures."
+          }
+        ],
+        "required_language": "The administrative regulation should be expanded to include detailed procedures for: nomination submission process, evaluation criteria, review timelines, decision-making process, and award presentation procedures.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:20:24.291132+00:00"
+}

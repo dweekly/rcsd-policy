@@ -1,0 +1,99 @@
+{
+  "code": "3260",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3260",
+    "title": "Fees And Charges",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3260.txt"
+  },
+  "regulation": {
+    "code": "3260",
+    "title": "Fees And Charges",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3260.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Prohibition on Fees for Educational Activities",
+        "description": "California Education Code explicitly prohibits charging fees for educational activities that are an integral fundamental part of the district's educational program. The policy and regulation focus on permissible fees but fail to clearly state the fundamental prohibition against charging fees for required educational activities, materials, and supplies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49011",
+            "text": "A pupil enrolled in a school shall not be required to pay any fee, deposit, or other charge for his or her participation in an educational activity that constitutes an integral fundamental part of elementary and secondary education, including curricular and extracurricular activities."
+          }
+        ],
+        "required_language": "The district shall not require students to pay any fee, deposit, or other charge for participation in educational activities that constitute an integral fundamental part of elementary and secondary education, including curricular and extracurricular activities, or for materials, supplies, equipment, or uniforms associated with such activities.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Fee Waiver and Financial Hardship Procedures",
+        "description": "While the policy mentions considering ability to pay, there are no specific procedures for fee waivers, financial hardship determinations, or processes for students who cannot afford permissible fees. This is required to ensure equal access to educational opportunities.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49013",
+            "text": "If a school district requires a fee, deposit, or other charge for participation in an educational activity, the district shall provide an alternative means for participation to pupils who cannot afford to pay the fee, deposit, or charge."
+          }
+        ],
+        "required_language": "For any permissible fee charged by the district, the district shall: 1) Provide fee waivers or alternative means of participation for students who cannot afford the fee; 2) Establish procedures for determining financial hardship; 3) Ensure no student is denied participation due to inability to pay; 4) Maintain confidentiality of financial hardship determinations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Complaint Process for Illegal Fees",
+        "description": "The policy and regulation do not include information about the complaint process available to parents and students when they believe illegal fees are being charged, as required by the Uniform Complaint Procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 4630",
+            "text": "Pupil fees complaints may be filed pursuant to the district's uniform complaint procedures... The district shall post a standardized notice of the uniform complaint procedures."
+          }
+        ],
+        "required_language": "Complaints regarding alleged violations of laws relating to pupil fees may be filed under the district's Uniform Complaint Procedures. Information about the complaint process is available at school sites and the district office.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Outdated Legal References",
+        "description": "The regulation references specific Education Code sections that may have been updated since 2009. Some citations should be verified for current accuracy, particularly regarding transportation fees and other provisions.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 39807.5",
+            "text": "This section has been subject to amendments since 2009 and current language should be verified for transportation fee provisions."
+          }
+        ],
+        "required_language": "All legal citations should be updated to reflect current law as of the policy review date.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Annual Notification Requirement",
+        "description": "The district must provide annual notification to parents about pupil fee policies and complaint procedures, but this requirement is not addressed in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 4622",
+            "text": "Each school district shall annually provide written notification to pupils, parents, and guardians of pupils enrolled in the district of pupil fees that may and may not be charged."
+          }
+        ],
+        "required_language": "The district shall annually notify students, parents, and guardians in writing of: 1) Pupil fees that may and may not be charged; 2) Procedures for filing complaints regarding pupil fees; 3) Available fee waivers and financial assistance.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:24:43.136897+00:00"
+}

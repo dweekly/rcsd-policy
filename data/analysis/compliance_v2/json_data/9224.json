@@ -1,0 +1,63 @@
+{
+  "code": "9224",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9224",
+    "title": "Oath Or Affirmation",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9224.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Specific Oath Language",
+        "description": "The policy references that board members must take \"the oath or affirmation required by law\" but does not include the actual text of the constitutional oath that must be administered. California law requires the specific oath language from the California Constitution to be available for administration.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "California Constitution Article 20, Section 3",
+            "text": "\"Members of the Legislature, and all public officers and employees, executive, legislative, and judicial, except such inferior officers and employees as may be by law exempted, shall, before they enter upon the duties of their respective offices, take and subscribe the following oath or affirmation: 'I, (name), do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and the Constitution of the State of California against all enemies, foreign and domestic; that I will bear true faith and allegiance to the Constitution of the United States and the Constitution of the State of California; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties upon which I am about to enter.'\""
+          }
+        ],
+        "required_language": "The oath or affirmation shall be as follows: \"I, (name), do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and the Constitution of the State of California against all enemies, foreign and domestic; that I will bear true faith and allegiance to the Constitution of the United States and the Constitution of the State of California; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties upon which I am about to enter.\"",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Administrative Procedures",
+        "description": "While the policy covers the basic requirements, there is no Administrative Regulation providing detailed procedures for oath administration, timing, record-keeping, and handling of oath documents. This would help ensure consistent implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 1363",
+            "text": "\"Every person having taken and subscribed an oath of office, shall cause the oath to be filed in the office of the Secretary of State, or if the oath is taken by a county, city, or district officer, in the office of the county clerk of the county in which the county, city, or district is situated.\""
+          }
+        ],
+        "required_language": "Administrative procedures should include: timing of oath administration (before first meeting or within specified timeframe), process for scheduling oath ceremonies, responsibility for ensuring filing with County Clerk, record retention requirements, and procedures for replacement of lost oath documents.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Reference to Authorized Administrators",
+        "description": "The policy references \"any other person authorized in Education Code 60\" but Education Code Section 60 has been repealed. The policy should reference current law regarding who may administer oaths.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 1368",
+            "text": "Specifies various officials authorized to administer oaths, including notaries public, judges, and other designated officials."
+          }
+        ],
+        "required_language": "Update reference from \"Education Code 60\" to current Government Code sections specifying authorized oath administrators, or reference \"any other person authorized by law to administer oaths.\"",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:40:05.174232+00:00"
+}

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4119.25: Political Activities Of Employees
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Hatch Act Compliance for Federally Funded Employees (Confidence: 85%)
+Missing from: BOTH
+The policy and regulation fail to address federal Hatch Act requirements that apply to school district employees whose salaries are paid in whole or part with federal funds. This is a significant compliance gap as many school employees receive federal funding through Title I, IDEA, and other federal programs.
+
+Legal Basis:
+- 5 U.S.C. § 1502-1508 (Hatch Act): Federal employees and state/local employees whose principal employment is in connection with an activity financed in whole or part by federal loans or grants are subject to political activity restrictions under the Hatch Act.
+
+Required Language:
+Employees whose salaries are paid in whole or in part with federal funds shall comply with the federal Hatch Act, which restricts certain political activities including: running for partisan political office, engaging in political activity while on duty or in a government office, soliciting or receiving political contributions, and using official authority to influence elections.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Government Code 3206 Prohibition (Confidence: 90%)
+Missing from: BOTH
+The regulation fails to include the specific prohibition from Government Code 3206 regarding the use of public resources for campaign purposes, which provides more comprehensive coverage than Education Code 7054 alone.
+
+Legal Basis:
+- Government Code 3206: It is unlawful for any person to expend or authorize the expenditure of any public moneys for purposes of urging the passage or defeat of any ballot measure or candidate for public office.
+
+Required Language:
+Employees shall not expend or authorize the expenditure of any public moneys, including district funds, time, facilities, equipment, or services, for purposes of urging the passage or defeat of any ballot measure or candidate for public office. (Government Code 3206)
+
+Recommended Placement: AR
+
+----------------------------------------
+

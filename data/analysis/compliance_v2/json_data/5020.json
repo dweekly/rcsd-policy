@@ -1,0 +1,99 @@
+{
+  "code": "5020",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5020",
+    "title": "Parent Rights And Responsibilities",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5020.txt"
+  },
+  "regulation": {
+    "code": "5020",
+    "title": "Parent Rights And Responsibilities",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5020.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Specific Parent Rights Under Education Code 51101",
+        "description": "Several mandatory parent rights enumerated in Education Code 51101 are missing from both the policy and regulation, including rights related to transfers due to dangerous conditions, notification of teacher qualifications, and participation in complaint processes.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 51101(a)",
+            "text": "The rights of parents and guardians of pupils enrolled in public schools include, but are not limited to, all of the following: [...] (21) To have their child transferred to another classroom or school if their child becomes the victim of an act of violence committed by another student. (22) To receive information about the professional qualifications of their child's teachers and paraprofessionals. (23) To participate in the complaint process established pursuant to Section 35186."
+          }
+        ],
+        "required_language": "21. To have their child transferred to another classroom or school if their child becomes the victim of an act of violence committed by another student (Education Code 51101)\n\n22. To receive information about the professional qualifications of their child's teachers and paraprofessionals (Education Code 51101)\n\n23. To participate in the complaint process established pursuant to Education Code 35186 regarding instructional materials, emergency or urgent facilities conditions, and teacher vacancy or misassignment issues (Education Code 51101)",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Parent Rights Under Education Code 48982",
+        "description": "The regulation fails to include parent rights related to excusing students from comprehensive sexual health education and HIV prevention education as required by Education Code 48982.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48982",
+            "text": "A parent or guardian of a pupil has the right to excuse their child from all or part of comprehensive sexual health education, HIV prevention education, and assessments related to that education through a passive consent (\"opt-out\") process."
+          }
+        ],
+        "required_language": "To excuse their child from all or part of comprehensive sexual health education, HIV prevention education, and related assessments (Education Code 48982)",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Parent Rights Under Education Code 46010.1",
+        "description": "The documents do not include parent rights related to requesting alternative means of transportation when regular transportation poses a safety threat to their child.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46010.1",
+            "text": "A parent or guardian may request that the school district provide alternative means of transportation for their child if the parent or guardian provides documentation that their child would be subject to harassment, intimidation, or bullying on the regular means of transportation provided by the district."
+          }
+        ],
+        "required_language": "To request alternative means of transportation if their child would be subject to harassment, intimidation, or bullying on regular district transportation, upon providing appropriate documentation (Education Code 46010.1)",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Education Code 48980 Annual Notification",
+        "description": "While the policy mentions notification requirements generally, it should specifically reference the comprehensive annual notification requirements under Education Code 48980.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48980",
+            "text": "At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify the parent or guardian of a minor pupil regarding the rights or obligations of parents and guardians under specified Education Code sections."
+          }
+        ],
+        "required_language": "The Superintendent or designee shall ensure that parents/guardians receive annual notification of their rights and responsibilities as required by Education Code 48980.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Last Review Date",
+        "description": "Both the policy and regulation were last reviewed in 2010, which is significantly outdated given the numerous changes to Education Code requirements over the past 13+ years.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Policy and regulation should be reviewed and updated to reflect current legal requirements and best practices.",
+        "recommended_placement": "BOTH"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:18:15.439396+00:00"
+}

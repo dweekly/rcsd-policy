@@ -1,0 +1,78 @@
+{
+  "code": "5145.9",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5145.9",
+    "title": "Hate-Motivated Behavior",
+    "type": "Policy",
+    "last_reviewed": "09/22/2021",
+    "file_path": "data/extracted/policies/5145.9.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 234.6 requires districts to adopt policies that include specific procedures for reporting hate-motivated incidents. While the Board Policy establishes the framework and general reporting requirements, there is no Administrative Regulation to provide detailed implementation procedures, investigation protocols, timelines, and specific staff responsibilities for handling hate-motivated behavior incidents.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 234.6",
+            "text": "Each local educational agency shall adopt policies that prohibit discrimination, harassment, intimidation, and bullying based on the actual or perceived characteristics set forth in Section 422.55 of the Penal Code and disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or association with a person or group with one or more of these actual or perceived characteristics. The policy shall include a procedure for filing complaints."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed that includes: (1) Detailed procedures for filing complaints of hate-motivated behavior; (2) Investigation timelines and protocols; (3) Specific roles and responsibilities of staff members; (4) Documentation requirements; (5) Notification procedures to parents/guardians; (6) Appeal processes; (7) Interim measures to protect victims during investigations; (8) Follow-up procedures; and (9) Record-keeping requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Complaint Filing Procedures",
+        "description": "While the Board Policy mentions that complaints shall be resolved in accordance with uniform complaint procedures, it lacks the specific procedural details required by Education Code 234.6 for filing complaints of hate-motivated behavior, including where to file, required forms, timelines, and alternative reporting methods.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 234.6",
+            "text": "The policy shall include a procedure for filing complaints."
+          }
+        ],
+        "required_language": "Specific procedures for filing complaints must include: (1) Identification of where complaints can be filed (specific office/person); (2) Available complaint forms or alternative methods of filing; (3) Timelines for filing complaints; (4) Anonymous reporting options; (5) Contact information for the compliance officer; and (6) Alternative reporting methods for situations where the complainant cannot use standard procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Investigation Timeline Requirements",
+        "description": "Neither the Board Policy nor Administrative Regulation (which doesn't exist) specifies required timelines for investigating hate-motivated behavior complaints, which is necessary for ensuring prompt resolution as required by law and due process protections.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 234.1",
+            "text": "It is the intent of the Legislature that all pupils attend school in a safe and supportive environment and that effective prevention and intervention programs be implemented to ensure pupil safety."
+          }
+        ],
+        "required_language": "Investigation procedures must include specific timelines: (1) Initial response within 24-48 hours of receiving a complaint; (2) Completion of investigation within a reasonable timeframe (typically 30-60 days); (3) Interim measures implemented immediately when necessary; and (4) Written notification to complainant of investigation outcomes within specified timeframes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Penal Code Reporting Requirements",
+        "description": "The policy does not explicitly reference the requirement to report hate crimes to law enforcement when incidents may constitute criminal activity under Penal Code 422.6, though it does mention contacting law enforcement \"as appropriate.\"",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code 422.6",
+            "text": "No person, whether or not acting under color of law, shall by force or threat of force, willfully injure, intimidate, interfere with, oppress, or threaten any other person in the free exercise or enjoyment of any right or privilege secured to him or her by the Constitution or laws of this state or by the Constitution or laws of the United States in whole or in part because of one or more of the actual or perceived characteristics of the victim."
+          }
+        ],
+        "required_language": "When hate-motivated behavior may constitute a hate crime under Penal Code 422.6 or related statutes, the incident shall be reported to appropriate law enforcement agencies in accordance with legal requirements and district protocols for mandatory reporting.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:28:09.479667+00:00"
+}

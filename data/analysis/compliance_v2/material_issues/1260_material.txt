@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1260: Educational Foundation
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Conflict of Interest Provisions (Confidence: 90%)
+Missing from: BOTH
+The policy lacks provisions addressing potential conflicts of interest between district personnel and foundation board members or activities, which is required under California's conflict of interest laws for public agencies.
+
+Legal Basis:
+- Government Code Section 1090: Members of the Legislature, state, county, district, judicial district, and city officers or employees shall not be financially interested in any contract made by them in their official capacity.
+
+Required Language:
+District employees and Board members must disclose any financial interest or board service with the educational foundation. No district employee or Board member may participate in decisions involving foundation contracts or agreements in which they have a financial interest.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Gift and Donation Acceptance Procedures (Confidence: 80%)
+Missing from: BOTH
+The policy references foundation funds but lacks procedures for accepting gifts and donations, including restrictions on types of acceptable donations and approval processes, as required under Education Code provisions governing public school funding.
+
+Legal Basis:
+- Education Code Section 35160.5: A school district may accept gifts, grants, and donations from private sources, including, but not limited to, gifts, grants, and donations for the purpose of establishing a scholarship fund.
+
+Required Language:
+The district may accept gifts and donations from the educational foundation provided they: (1) Support the educational mission of the district; (2) Do not create ongoing financial obligations for the district; (3) Are approved by the Superintendent or designee; (4) Comply with all applicable laws and Board policies.
+
+Recommended Placement: BP
+
+----------------------------------------
+

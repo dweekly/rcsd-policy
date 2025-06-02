@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4112.21: Interns
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Criminal Background Check and Fingerprinting Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires specific criminal background check and fingerprinting procedures for interns before they can be employed. While the AR mentions "teacher fitness" requirements generally, neither document contains the mandatory specific procedures for criminal background checks, fingerprinting, and DOJ/FBI clearance that must be completed before employment.
+
+Legal Basis:
+- Education Code 44830.1(f): A school district shall not employ a person as a district intern until that person has been cleared by the Department of Justice pursuant to Section 44237.
+
+Required Language:
+The district shall not employ any intern until the person has been cleared by the Department of Justice pursuant to Education Code 44237. All interns must complete criminal background checks and fingerprinting requirements before beginning employment.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Preservice Training Requirements (Confidence: 90%)
+Missing from: BOTH
+Education Code requires specific minimum preservice training hours and content areas for district interns. While the AR mentions "mandatory preservice training," it lacks the required specificity regarding the 120-hour minimum and required subject areas mandated by law.
+
+Legal Basis:
+- Education Code 44830.3(a)(1): Preservice preparation of not less than 120 clock hours of training and coursework that addresses the teaching of the adopted academic content standards.
+
+Required Language:
+District interns shall complete preservice preparation of not less than 120 clock hours of training and coursework that addresses the teaching of the adopted academic content standards, classroom management, and other areas specified in Education Code 44830.3.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Support Provider Qualification Requirements (Confidence: 80%)
+Missing from: BOTH
+The AR mentions support providers but lacks the specific qualification requirements mandated by law, including the requirement for three years of successful teaching experience and completion of training programs.
+
+Legal Basis:
+- Education Code 44830.3(a)(2): Each district intern shall be provided support by a support provider who has completed a commission-approved training program and has a minimum of three years of successful teaching experience.
+
+Required Language:
+Support providers for district interns must have completed a Commission-approved training program and possess a minimum of three years of successful teaching experience. Support providers must hold appropriate certification and complete ongoing professional development as required by the Commission.
+
+Recommended Placement: AR
+
+----------------------------------------
+

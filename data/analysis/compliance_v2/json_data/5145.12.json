@@ -1,0 +1,108 @@
+{
+  "code": "5145.12",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5145.12",
+    "title": "Search And Seizure",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5145.12.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation Document",
+        "description": "California Education Code requires districts to have administrative regulations that implement board policies. The complete absence of AR 5145.12 means there are no procedural guidelines for staff to follow when conducting searches, which creates significant legal and operational risks.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35291",
+            "text": "The governing board of any school district may prescribe and enforce rules not inconsistent with law or with the rules prescribed by the State Board of Education, for its own government and the government of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "A comprehensive Administrative Regulation must be created covering: search procedures, documentation requirements, evidence handling, parent notification protocols, and staff training requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Locker and Property Search Provisions",
+        "description": "The policy lacks specific provisions for searching lockers, desks, and other school property assigned to students. California law requires clear policies distinguishing between personal property searches and school property searches.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49050",
+            "text": "No school employee shall conduct a search that involves removing or arranging any or all of the clothing of a pupil to permit a visual inspection of the undergarments, breasts, buttocks, or genitalia of the pupil."
+          }
+        ],
+        "required_language": "School lockers, desks, and other school property are subject to inspection at any time without notice. Students have no expectation of privacy in school-owned property. Procedures for locker searches and inventory of contents must be established.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Documentation and Record-Keeping Requirements",
+        "description": "There are no requirements for documenting searches, maintaining records, or reporting procedures. This creates liability issues and prevents proper oversight of search activities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48900",
+            "text": "Requires documentation of disciplinary actions and evidence collection for violations of school rules."
+          }
+        ],
+        "required_language": "All searches must be documented in writing, including: date, time, persons present, reason for search, items found, and disposition of evidence. Records must be maintained according to district retention policies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Law Enforcement Coordination Procedures",
+        "description": "The policy lacks provisions for when and how to involve law enforcement in searches, which is critical for maintaining proper jurisdiction and protecting student rights.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48902",
+            "text": "Addresses coordination between school officials and law enforcement regarding student discipline and searches."
+          }
+        ],
+        "required_language": "Procedures must be established for coordinating with law enforcement, including when police involvement is required, who has authority to conduct searches when officers are present, and protocols for evidence transfer.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 92,
+        "title": "Missing Emergency/Exigent Circumstances Provisions",
+        "description": "The policy does not address searches conducted under emergency circumstances where immediate action is needed to prevent harm, which may have different procedural requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44807",
+            "text": "School employees have authority to take immediate action to protect student safety and welfare."
+          }
+        ],
+        "required_language": "In emergency situations where immediate danger exists, school officials may conduct searches without following normal procedures. Emergency searches must be documented and reviewed by administration within 24 hours.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2010 and has not been reviewed since adoption. Given changes in technology and legal precedents, regular review is recommended.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "Governing boards must ensure policies remain current and legally compliant."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal standards and technological considerations (electronic devices, social media, etc.).",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:27:12.485155+00:00"
+}

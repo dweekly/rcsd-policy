@@ -1,0 +1,93 @@
+{
+  "code": "4216",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4216",
+    "title": "Probationary/Permanent Status",
+    "type": "Policy",
+    "last_reviewed": "12/07/2022",
+    "file_path": "data/extracted/policies/4216.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 45113 requires districts to adopt rules and regulations for implementing probationary/permanent status provisions. While the Board Policy establishes the framework, there is no Administrative Regulation to provide specific implementation procedures, evaluation processes, notification requirements, and operational details.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45113",
+            "text": "\"The governing board of each school district shall adopt rules and regulations for the implementation of this section.\""
+          }
+        ],
+        "required_language": "The district must adopt Administrative Regulation 4216 containing specific procedures for: probationary period tracking, evaluation schedules and forms, notification processes for permanent status, dismissal procedures during probationary period, promotional probationary period management, and record-keeping requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Evaluation Timeline and Process Details",
+        "description": "While the policy mentions that probationary employees \"shall receive written performance evaluations,\" it lacks specific timelines, frequency, and procedural details required for proper implementation. Education Code requires clear evaluation processes during probationary periods.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45113",
+            "text": "Requires districts to establish clear procedures for evaluating probationary employees to determine suitability for permanent status."
+          }
+        ],
+        "required_language": "Administrative Regulation must specify: evaluation schedule (e.g., at 90 days, 120 days), evaluation forms and criteria, supervisor responsibilities, employee notification requirements, and documentation standards for probationary evaluations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Notification Procedures for Permanent Status",
+        "description": "The policy does not specify how employees will be notified when they achieve permanent status, nor does it establish procedures for tracking and documenting the transition from probationary to permanent status.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45113",
+            "text": "Districts must have clear procedures for determining and documenting when employees achieve permanent status after completing probationary requirements."
+          }
+        ],
+        "required_language": "Procedures must be established for: tracking probationary period completion, notifying employees of permanent status achievement, updating personnel records, and documenting the effective date of permanent status.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Dismissal Procedures During Probationary Period",
+        "description": "While the policy states that probationary employees may be dismissed \"without cause,\" it lacks specific procedures for how such dismissals will be conducted, including notice requirements and due process considerations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45113",
+            "text": "Districts must establish procedures for probationary employee dismissal while ensuring compliance with due process requirements."
+          }
+        ],
+        "required_language": "Administrative Regulation must specify: notice requirements for probationary dismissal, documentation requirements, final pay and benefit procedures, and any applicable appeal or review processes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Record-Keeping Requirements",
+        "description": "The policy lacks specific requirements for maintaining records related to probationary periods, evaluations, and status changes, which are important for legal compliance and personnel management.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45113, 44031",
+            "text": "Districts must maintain adequate personnel records documenting employment status changes and evaluations."
+          }
+        ],
+        "required_language": "Administrative Regulation should specify: required documentation for probationary files, retention periods for probationary records, access and confidentiality requirements, and transfer procedures for records when employees achieve permanent status.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:14:29.521200+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "code": "3541.2",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3541.2",
+    "title": "Transportation For Students With Disabilities",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3541.2.txt"
+  },
+  "regulation": {
+    "code": "3541.2",
+    "title": "Transportation For Students With Disabilities",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3541.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Safety and Emergency Procedures for Students with Disabilities",
+        "description": "California law requires specific safety protocols and emergency evacuation procedures for students with disabilities during transportation. Neither the BP nor AR addresses safety requirements, emergency procedures, or staff training for transporting students with disabilities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 39831.5",
+            "text": "The governing board of any school district maintaining any school bus shall establish emergency evacuation procedures for pupils who are transported and who may need assistance in the event of an emergency, including, but not limited to, pupils with disabilities."
+          }
+        ],
+        "required_language": "The district shall establish emergency evacuation procedures for students with disabilities who are transported and who may need assistance in the event of an emergency. These procedures shall address the specific needs of students with various types of disabilities and ensure appropriate staff training.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Driver and Aide Training Requirements",
+        "description": "Federal and state law requires specific training for personnel transporting students with disabilities. Neither document addresses mandatory training requirements for drivers and aides working with students with disabilities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 56001(a)",
+            "text": "It is the intent of the Legislature that all individuals with exceptional needs have access to the programs and services necessary to meet their educational needs... including appropriate training of personnel."
+          }
+        ],
+        "required_language": "All drivers and aides transporting students with disabilities shall receive appropriate training regarding the specific needs of students with disabilities, proper use of safety equipment, emergency procedures, and behavior management techniques. Training shall be provided before assignment and updated regularly.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Transportation Safety Equipment Requirements",
+        "description": "State law requires specific safety equipment and securement systems for students with disabilities. While the BP mentions \"compatibility between mobile seating devices and bus securement systems,\" neither document provides comprehensive safety equipment requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 39831.3",
+            "text": "Pupils who use wheelchairs and who are transported in school buses shall be secured by wheelchair securement systems and occupant restraint systems that meet federal standards."
+          }
+        ],
+        "required_language": "Students who use wheelchairs and are transported in school buses shall be secured by wheelchair securement systems and occupant restraint systems that meet applicable federal standards. All safety equipment shall be regularly inspected and maintained according to manufacturer specifications and applicable regulations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 75,
+        "title": "Missing Parent Notification and Consent Procedures",
+        "description": "Neither document addresses required parent notification procedures regarding transportation services, changes to transportation, or consent requirements for certain transportation arrangements for students with disabilities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 56341.1(f)(1)",
+            "text": "The individualized education program team shall consider... whether the child requires assistive technology devices and services... [and] in the case of a child whose behavior impedes his or her learning or that of others, consider, when appropriate, strategies, including positive behavioral interventions, strategies, and supports to address that behavior."
+          }
+        ],
+        "required_language": "Parents/guardians shall be notified of transportation arrangements and any changes to transportation services. Written consent may be required for certain specialized transportation arrangements. Parents/guardians shall be informed of their rights regarding transportation services and dispute resolution procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Related Services Definition",
+        "description": "The documents do not explicitly reference that transportation may constitute a \"related service\" under IDEA when necessary for a student to benefit from special education, which provides important legal context.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 56363(a)",
+            "text": "Related services means transportation and such developmental, corrective, and other supportive services as are required to assist an individual with exceptional needs to benefit from special education."
+          }
+        ],
+        "required_language": "Transportation shall be provided as a related service when necessary for a student with disabilities to benefit from special education, as determined by the IEP team.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:30:51.698105+00:00"
+}

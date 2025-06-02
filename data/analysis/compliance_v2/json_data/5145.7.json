@@ -1,0 +1,99 @@
+{
+  "code": "5145.7",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5145.7",
+    "title": "Sex Discrimination and Sex-Based Harassment",
+    "type": "Policy",
+    "last_reviewed": "04/27/2022",
+    "file_path": "data/extracted/policies/5145.7.txt"
+  },
+  "regulation": {
+    "code": "5145.7",
+    "title": "Sex Discrimination and Sex-Based Harassment",
+    "type": "Regulation",
+    "last_reviewed": "04/27/2022",
+    "file_path": "data/extracted/regulations/5145.7.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Definition of Sex Discrimination",
+        "description": "California law requires districts to address both sex discrimination and sexual harassment, but the policy and regulation only define sexual harassment. The definition of sex discrimination must be included to ensure comprehensive coverage of prohibited conduct.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 230",
+            "text": "\"Sex discrimination\" means any act that unreasonably has a disproportionate adverse impact on persons of a particular sex."
+          }
+        ],
+        "required_language": "Sex discrimination means any act that unreasonably has a disproportionate adverse impact on persons of a particular sex.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Interim Measures/Emergency Removal Authority",
+        "description": "The policy mentions supportive measures but lacks specific authority for interim measures and emergency removal procedures required under Title IX, which are critical for ensuring student safety during investigations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 106.44(a)",
+            "text": "A recipient must treat complainants and respondents equitably by offering supportive measures to a complainant, and by following a grievance process that complies with this section before the imposition of any disciplinary sanctions or other actions that are not supportive measures against a respondent."
+          }
+        ],
+        "required_language": "The district may remove a respondent from the district's education program or activity on an emergency basis, provided that the district undertakes an individualized safety and risk analysis, determines that an immediate threat to the physical health or safety of any student or other individual arising from the allegations of sexual harassment justifies removal, and provides the respondent with notice and an opportunity to challenge the decision immediately following the removal.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Specific Complaint Filing Timeframes",
+        "description": "While the policy states that complaints will be addressed regardless of timeline compliance, it lacks the specific statutory timeframes required under the Uniform Complaint Procedures, which could lead to procedural violations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 4630",
+            "text": "A complaint alleging unlawful discrimination, harassment, intimidation, or bullying shall be initiated no later than six months from the date when the alleged discrimination, harassment, intimidation, or bullying occurred, or six months from the date when the complainant first obtained knowledge of the facts of the alleged discrimination, harassment, intimidation, or bullying."
+          }
+        ],
+        "required_language": "A complaint alleging sex discrimination or sexual harassment shall be filed no later than six months from the date of the alleged conduct or six months from the date the complainant first obtained knowledge of the facts. The district may extend this timeline for good cause.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Training Requirements Specification",
+        "description": "The policy states that \"all district staff shall be trained\" but lacks specificity about the content and frequency of training required by law, which could result in inadequate staff preparation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 231.5(b)",
+            "text": "The policy shall include a requirement that, in the investigation of a complaint of discrimination or harassment, the standard of evidence used to determine whether discrimination or harassment occurred shall be the preponderance of the evidence standard."
+          }
+        ],
+        "required_language": "All staff shall receive training on the district's sex discrimination and sexual harassment policies, complaint procedures, appropriate responses to reports of prohibited conduct, and their mandatory reporting obligations. Training shall be provided annually and to all new employees during orientation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Standard of Evidence Statement",
+        "description": "California law specifically requires districts to include the preponderance of evidence standard in their discrimination and harassment policies, but this is not explicitly stated in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 231.5(b)",
+            "text": "The policy shall include a requirement that, in the investigation of a complaint of discrimination or harassment, the standard of evidence used to determine whether discrimination or harassment occurred shall be the preponderance of the evidence standard."
+          }
+        ],
+        "required_language": "In investigating complaints of sex discrimination or sexual harassment, the district shall use the preponderance of the evidence standard to determine whether the prohibited conduct occurred.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:27:50.586728+00:00"
+}

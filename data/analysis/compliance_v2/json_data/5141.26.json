@@ -1,0 +1,84 @@
+{
+  "code": "5141.26",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5141.26",
+    "title": "Tuberculosis Testing",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5141.26.txt"
+  },
+  "regulation": {
+    "code": "5141.26",
+    "title": "Tuberculosis Testing",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5141.26.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mandatory TB Testing Requirements for School Entry",
+        "description": "California law requires specific tuberculosis testing for students entering school for the first time, including kindergarten and transfer students. The policy mentions county requirements but lacks the specific mandatory testing requirements and procedures mandated by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 121525",
+            "text": "Every person entering a public or private elementary or secondary school in this state for the first time shall be required to have a tuberculin skin test or chest X-ray examination for tuberculosis within 60 days prior to, or 90 days after, enrollment."
+          }
+        ],
+        "required_language": "Students entering school for the first time in California, including kindergarten students and transfer students from out-of-state or out-of-country, shall be required to have tuberculosis testing (tuberculin skin test or chest X-ray) within 60 days prior to or 90 days after enrollment, unless exempted by law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing TB Testing Exemption Provisions",
+        "description": "State law provides specific exemptions from TB testing requirements that must be recognized by school districts. The policy and regulation do not address these mandatory exemptions.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 121530",
+            "text": "The tuberculin skin test or chest X-ray examination shall not be required if the parent or guardian files with the governing authority a written statement by a licensed physician to the effect that the physical condition of the child is such that the test or examination is not considered safe."
+          }
+        ],
+        "required_language": "TB testing shall not be required if the parent/guardian provides a written statement from a licensed physician indicating that the child's physical condition makes the test unsafe, or if the parent/guardian objects on personal beliefs grounds as permitted by law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Specific Timeline for School Exclusion",
+        "description": "While the regulation mentions a two-week follow-up period, it lacks the specific statutory timeline for excluding students who fail to comply with TB testing requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 121535",
+            "text": "Any pupil who has not complied with the tuberculosis testing requirement within 90 days after enrollment may be excluded from further attendance until the requirement is met."
+          }
+        ],
+        "required_language": "Students who fail to comply with TB testing requirements within 90 days of enrollment may be excluded from school attendance until the requirement is satisfied or a valid exemption is provided.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Reference to \"TB Skin Test\" Only",
+        "description": "The policy and regulation primarily reference tuberculin skin tests but should acknowledge that other approved testing methods may be acceptable under current medical standards and county health department guidelines.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 121525",
+            "text": "tuberculin skin test or chest X-ray examination for tuberculosis"
+          }
+        ],
+        "required_language": "TB testing may include tuberculin skin test, interferon-gamma release assays (IGRAs), chest X-ray, or other methods approved by the county health officer.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:24:19.945777+00:00"
+}

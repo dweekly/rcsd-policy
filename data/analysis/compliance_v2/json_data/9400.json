@@ -1,0 +1,48 @@
+{
+  "code": "9400",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9400",
+    "title": "Board Self-Evaluation",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9400.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Board Self-Evaluation Implementation",
+        "description": "While the Board Policy establishes the requirement for annual self-evaluation, there is no Administrative Regulation providing specific procedures for implementation. Education Code Section 35160 requires districts to establish procedures for implementing board policies, and effective governance requires clear implementation procedures for board self-evaluation processes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: (1) Timeline for conducting annual evaluation (specific months/deadlines), (2) Process for selecting evaluation instruments or methods, (3) Procedures for gathering input from superintendent and others, (4) Documentation requirements for evaluation results, (5) Process for developing improvement strategies and next year's objectives, (6) Procedures for conducting evaluation discussions in open session, and (7) Process for obtaining consent when videotaping is considered.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The Board Policy was last reviewed in 2009, over 14 years ago. While not legally mandated, regular policy review ensures continued relevance and compliance with evolving best practices in board governance and legal requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "The governing board of a school district shall ensure that the policies of the district are current and necessary for the effective operation of the district."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current best practices in board self-evaluation and ensure alignment with contemporary governance standards.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:41:04.050851+00:00"
+}

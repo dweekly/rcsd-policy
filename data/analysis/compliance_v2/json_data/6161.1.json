@@ -1,0 +1,84 @@
+{
+  "code": "6161.1",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6161.1",
+    "title": "Selection And Evaluation Of Instructional Materials",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6161.1.txt"
+  },
+  "regulation": {
+    "code": "6161.1",
+    "title": "Selection And Evaluation Of Instructional Materials",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6161.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Public Complaint Process for Instructional Materials",
+        "description": "While the BP mentions that complaints shall be handled \"in accordance with law, Board policy, and administrative regulation,\" neither document provides the specific complaint process required by Education Code 35186. The law mandates specific procedures for complaints about instructional materials sufficiency, including forms, timelines, and resolution processes.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35186",
+            "text": "A complaint may be filed with the principal of the school or his or her designee pursuant to the uniform complaint procedures adopted by the school district pursuant to Section 4600 et seq. of Title 5 of the California Code of Regulations. A complaint form shall be available at each school. The complaint and response are public records."
+          }
+        ],
+        "required_language": "The district shall establish uniform complaint procedures for complaints regarding instructional materials sufficiency pursuant to Education Code 35186. Complaint forms shall be available at each school site and the district office. Complaints and responses are public records. The complaint process shall include investigation procedures, timelines for response, and appeal rights.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Williams Act Posting Requirements",
+        "description": "Education Code 35186 requires specific posting of information about instructional materials sufficiency and complaint procedures. Neither document addresses the mandatory posting requirements for schools regarding textbook sufficiency and complaint forms.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35186(d)",
+            "text": "Each school shall post a notice in each classroom in each school stating that there should be sufficient textbooks and instructional materials in each class and that a complaint form may be obtained at the school office."
+          }
+        ],
+        "required_language": "Each school shall post a notice in each classroom stating that there should be sufficient textbooks and instructional materials in each class and that a complaint form may be obtained at the school office. The Superintendent or designee shall ensure compliance with all posting requirements under Education Code 35186.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Resolution Timeline for Instructional Materials Complaints",
+        "description": "Education Code 35186 requires specific timelines for resolving complaints about instructional materials. The policy mentions complaints will be handled per law but doesn't specify the required 30-day resolution timeline.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35186(f)",
+            "text": "A complaint regarding instructional materials may be filed anonymously if the complaint provides evidence or information leading to evidence to support an allegation of noncompliance. A complaint shall be filed no later than one year from the date the alleged violation occurred. A person may file a complaint on behalf of pupils, parents, guardians, or teachers. The complaint shall be investigated and resolved within 30 days of receipt."
+          }
+        ],
+        "required_language": "Complaints regarding instructional materials sufficiency shall be investigated and resolved within 30 days of receipt. Complaints may be filed anonymously if they provide evidence supporting the allegation. Complaints must be filed within one year of the alleged violation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Digital/Electronic Instructional Materials Standards",
+        "description": "The regulation's criteria focus primarily on traditional textbooks but don't adequately address the specific requirements for digital and electronic instructional materials that have become increasingly important and are addressed in Education Code provisions.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 60200.7",
+            "text": "Digital instructional materials shall meet the same content standards and adoption criteria as traditional textbooks, and shall be accessible to students with disabilities in accordance with Section 508 of the federal Rehabilitation Act."
+          }
+        ],
+        "required_language": "Digital and electronic instructional materials shall meet the same content standards and adoption criteria as traditional textbooks and shall be accessible to students with disabilities in accordance with federal accessibility requirements.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:33:08.275457+00:00"
+}

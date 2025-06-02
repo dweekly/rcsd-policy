@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5149: At-Risk Students
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Specific Identification Criteria and Procedures (Confidence: 90%)
+Missing from: BOTH
+The policy mentions using "district assessments and ongoing classroom evaluations" but lacks specific criteria, procedures, and timelines for identifying at-risk students. California law requires clear identification procedures to ensure consistent and equitable identification of students needing additional support.
+
+Legal Basis:
+- Education Code Section 52052(a): Each school district shall establish procedures for the early identification of pupils who are at risk of retention, including, but not limited to, pupils who are not meeting grade level standards.
+
+Required Language:
+Specific procedures shall be established for early identification of at-risk students, including: (1) Multiple measures for identification (academic performance, attendance, behavior indicators); (2) Specific grade-level benchmarks and standards; (3) Timeline for identification (e.g., within first 30 days of enrollment, quarterly reviews); (4) Staff responsible for identification process; (5) Documentation requirements for identification decisions.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Parent Notification Requirements (Confidence: 80%)
+Missing from: BOTH
+The policy mentions "parent involvement" but does not specify required notifications to parents when their child is identified as at-risk or placed in intervention programs. California law requires specific parent notification and involvement procedures.
+
+Legal Basis:
+- Education Code Section 48070.5: Parents have the right to be notified if their child is identified as being at risk of retention and to be informed of all available options.
+
+Required Language:
+Parents/guardians shall be notified in writing within [specific timeframe] when their child is identified as at-risk or recommended for intervention services. Notification shall include: (1) Specific reasons for identification; (2) Available intervention options; (3) Parent rights and opportunities for involvement; (4) Contact information for questions or conferences; (5) Information provided in the parent's primary language when feasible.
+
+Recommended Placement: AR
+
+----------------------------------------
+

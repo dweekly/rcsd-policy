@@ -1,0 +1,84 @@
+{
+  "code": "3312.2",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3312.2",
+    "title": "Educational Travel Program Contracts",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3312.2.txt"
+  },
+  "regulation": {
+    "code": "3312.2",
+    "title": "Educational Travel Program Contracts",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3312.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Financial Security Requirements",
+        "description": "California law requires educational travel organizations to maintain financial security (bond, trust account, or insurance) of at least $50,000 to protect against financial default. The contract must include verification of this financial security, but neither the policy nor regulation addresses this mandatory requirement.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Business and Professions Code Section 17554(a)(3)",
+            "text": "The contract shall include... A statement as to whether or not the educational travel organization maintains financial security pursuant to Section 17555 and, if so, the type and amount of the financial security and the name and telephone number of the person or organization which is able to verify the financial security."
+          }
+        ],
+        "required_language": "A statement as to whether or not the educational travel organization maintains financial security pursuant to Business and Professions Code Section 17555 and, if so, the type and amount of the financial security and the name and telephone number of the person or organization which is able to verify the financial security.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Contract Cancellation and Refund Policy Requirements",
+        "description": "State law mandates that contracts must include the educational travel organization's cancellation and refund policy. This protects students and families by ensuring clear understanding of financial obligations if travel plans change. This requirement is absent from both documents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Business and Professions Code Section 17554(a)(8)",
+            "text": "The contract shall include... The educational travel organization's cancellation and refund policy."
+          }
+        ],
+        "required_language": "The educational travel organization's cancellation and refund policy.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Incomplete Insurance Coverage Statement",
+        "description": "While the regulation mentions insurance coverage requirements, it appears to be incorrectly formatted and incomplete. The insurance statement is listed as item 2c but seems to be misplaced within the itemized statement section, potentially causing confusion about this critical safety requirement.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Business and Professions Code Section 17554(a)(4)",
+            "text": "The contract shall include... A statement as to whether or not the educational travel organization maintains insurance that supplies coverage in the event of injury to any student traveler, including the type and amount of coverage, the policy number and issuer, and the name and telephone number of the person or organization which is able to verify coverage."
+          }
+        ],
+        "required_language": "A statement as to whether or not the educational travel organization maintains insurance that supplies coverage in the event of injury to any student traveler, including the type and amount of coverage, the policy number and issuer, and the name and telephone number of the person or organization which is able to verify coverage.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Financial Security Requirements in Policy",
+        "description": "While the policy mentions adherence to state law, it would be beneficial to explicitly reference the financial security requirements in the policy section to provide board-level direction on this important consumer protection measure.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Business and Professions Code Section 17555",
+            "text": "An educational travel organization shall maintain financial security in an amount of not less than fifty thousand dollars ($50,000)..."
+          }
+        ],
+        "required_language": "The district shall verify that educational travel organizations maintain required financial security as specified in state law.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:25:59.438422+00:00"
+}

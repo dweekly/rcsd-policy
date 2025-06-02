@@ -1,0 +1,99 @@
+{
+  "code": "3580",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3580",
+    "title": "District Records",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3580.txt"
+  },
+  "regulation": {
+    "code": "3580",
+    "title": "District Records",
+    "type": "Regulation",
+    "last_reviewed": "09/16/2019",
+    "file_path": "data/extracted/regulations/3580.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Public Records Act Compliance Requirements",
+        "description": "California school districts must establish procedures for responding to public records requests under the California Public Records Act, including timelines for response, fee structures, and exemption determinations. Neither the policy nor regulation addresses these mandatory requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 6253",
+            "text": "Public records are open to inspection at all times during the office hours of the state or local agency and every person has a right to inspect any public record, except as hereafter provided."
+          }
+        ],
+        "required_language": "The district shall respond to public records requests within 10 days, either providing the records, providing a date when records will be available, or explaining why the request is denied. The district may charge fees for duplication costs and staff time for extensive requests as permitted by law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Student Records Privacy Requirements",
+        "description": "The policy lacks specific requirements for protecting student record privacy under FERPA and California Education Code, including parental notification rights, consent requirements, and directory information procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49073",
+            "text": "A pupil's records obtained, maintained, or used by any school district shall be confidential. Information from pupil records shall not be disclosed except as provided in this article."
+          }
+        ],
+        "required_language": "Student records shall be kept confidential and disclosed only with written parental consent or as otherwise permitted by law. Parents shall be notified annually of their rights regarding student records and directory information.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Records Retention Schedule",
+        "description": "While the regulation references classification requirements, it lacks a comprehensive retention schedule specifying exact timeframes for different types of records as required by California Code of Regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 16020",
+            "text": "Each school district shall establish and maintain a records management program which provides for the systematic review, retention, and disposal of records received or created in the conduct of district business."
+          }
+        ],
+        "required_language": "The district shall maintain a comprehensive records retention schedule specifying minimum retention periods for all categories of district records, including but not limited to financial records (3 years), personnel records (varies by type), and student records (permanent for transcripts, 5 years for other records after graduation).",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Technology References",
+        "description": "The regulation references \"microfilm\" and basic computer security measures but lacks current requirements for electronic records management, cloud storage, and cybersecurity protections.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49073.1",
+            "text": "The governing board of each school district shall ensure that computerized pupil records are protected by reasonable security procedures."
+          }
+        ],
+        "required_language": "Electronic records shall be protected through appropriate cybersecurity measures including encryption, access controls, backup procedures, and staff training on data security protocols.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Emergency Access Procedures",
+        "description": "The documents do not address procedures for accessing critical records during emergencies or disasters, which is important for business continuity.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282",
+            "text": "Each school district shall develop a comprehensive school safety plan that includes procedures for responding to natural disasters and emergencies."
+          }
+        ],
+        "required_language": "The district shall establish procedures for accessing essential records during emergencies, including off-site storage or backup systems for critical documents needed for district operations and student services.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:31:56.517577+00:00"
+}

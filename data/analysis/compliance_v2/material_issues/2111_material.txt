@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 2111: Superintendent Governance Standards
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Superintendent Evaluation Process and Criteria (Confidence: 85%)
+Missing from: BOTH
+California Education Code requires school boards to evaluate the superintendent's performance at least annually. The policy establishes governance standards but lacks any framework for how these standards will be used in evaluation, what criteria will be applied, or the evaluation timeline and process.
+
+Legal Basis:
+- Education Code Section 35031: The governing board of a school district shall evaluate the performance of the superintendent at least once each year.
+
+Required Language:
+The Board shall evaluate the Superintendent's performance at least annually based on these governance standards and other established criteria. The evaluation process shall include specific performance indicators, timeline for evaluation, and procedures for conducting the evaluation.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Professional Development Requirements (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions supporting the Board's professional development, it lacks specific requirements for the Superintendent's own mandatory professional development as required by state law for administrative credential holders.
+
+Legal Basis:
+- Education Code Section 44279.1: Each person employed in a position requiring an administrative services credential shall complete 40 hours of professional growth activities every five years.
+
+Required Language:
+The Superintendent shall complete required professional development activities as mandated by Education Code, including 40 hours of professional growth activities every five years to maintain administrative credential requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Conflict of Interest and Ethics Compliance (Confidence: 90%)
+Missing from: BOTH
+The policy mentions "highest standards of ethical conduct" but lacks specific reference to mandatory ethics training, conflict of interest requirements, and compliance with the Political Reform Act that applies to superintendents as public officials.
+
+Legal Basis:
+- Government Code Section 53235: Each local agency official shall receive at least two hours of training in ethics laws and requirements within one year of taking office and every two years thereafter.
+
+Required Language:
+The Superintendent shall comply with all applicable ethics laws, complete mandatory ethics training every two years, file required conflict of interest statements, and adhere to the district's conflict of interest code and Political Reform Act requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+

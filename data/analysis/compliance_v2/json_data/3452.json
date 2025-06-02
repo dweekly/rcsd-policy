@@ -1,0 +1,93 @@
+{
+  "code": "3452",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3452",
+    "title": "Student Activity Funds",
+    "type": "Policy",
+    "last_reviewed": "06/23/2021",
+    "file_path": "data/extracted/policies/3452.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Student Activity Funds",
+        "description": "Education Code 48933 requires districts to establish detailed procedures for student body fund management, but no Administrative Regulation exists to provide the \"how\" implementation details referenced in the Board Policy. The BP references procedures that \"shall be developed\" but these detailed procedures are missing entirely.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48933",
+            "text": "The governing board of each school district maintaining any high school shall provide for the management and control of funds raised by and for the student body organization... and shall require that proper standards of business procedure shall be followed in the raising and expending of such funds."
+          }
+        ],
+        "required_language": "A comprehensive Administrative Regulation must be created detailing: specific fundraising approval procedures, detailed accounting and record-keeping requirements, cash handling procedures, expenditure approval workflows, audit procedures, training requirements for staff and students, and specific internal controls to prevent fraud and abuse.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Disbursement Procedures",
+        "description": "While BP 3452 references that disbursements must be approved by designated parties per Education Code 48933, neither the BP nor AR (which doesn't exist) contains the specific procedures for how disbursements are processed, documented, and controlled.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48933",
+            "text": "No funds so raised shall be expended except upon the approval of the certificated employee who is the designated student body advisor and of a student body representative and of a board-designated employee or official."
+          }
+        ],
+        "required_language": "Detailed procedures specifying the disbursement approval process, required documentation, signature requirements, spending limits, emergency procedures, and the specific roles and responsibilities of the board-designated employee, certificated advisor, and student representative in the approval process.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Cash Handling and Deposit Procedures",
+        "description": "Neither document contains specific procedures for handling cash from fundraising activities, deposit requirements, or safeguarding of funds - critical elements for preventing fraud and ensuring proper fiduciary responsibility.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48933",
+            "text": "Proper standards of business procedure shall be followed in the raising and expending of such funds."
+          }
+        ],
+        "required_language": "Specific procedures for cash collection, counting, verification, deposit timelines, dual custody requirements, receipt documentation, and secure storage of funds pending deposit.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Record Retention Requirements",
+        "description": "Neither document specifies how long student activity fund records must be retained, which is essential for audit compliance and legal requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 60201",
+            "text": "Public records shall be retained in accordance with approved records retention schedules."
+          }
+        ],
+        "required_language": "Specific record retention periods for student activity fund documents including receipts, disbursement records, bank statements, audit reports, and supporting documentation, in accordance with applicable state retention schedules.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Training Requirements Detail",
+        "description": "While the BP mentions \"provision of training for staff and students,\" neither document specifies what training is required, how often, or who provides it.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48933",
+            "text": "Proper standards of business procedure shall be followed in the raising and expending of such funds."
+          }
+        ],
+        "required_language": "Specific training requirements for staff advisors and student officers including topics to be covered, frequency of training, documentation requirements, and responsible parties for providing training.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:26:56.299197+00:00"
+}

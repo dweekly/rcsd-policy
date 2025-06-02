@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 5131.41: Use Of Seclusion And Restraint
+Last Reviewed: 05/10/2023
+================================================================================
+
+Missing Specific Training Requirements (Confidence: 90%)
+Missing from: BOTH
+While the AR mentions that training shall be provided "as appropriate," it lacks specific requirements for what the training must include, who must receive it, frequency of training, and certification requirements. Education Code requires specific training components for staff who may use seclusion or restraint.
+
+Legal Basis:
+- Education Code Section 49005.8: Staff training requirements must include specific elements such as de-escalation techniques, positive behavioral interventions, safe restraint techniques, monitoring for physical distress, and alternatives to restraint.
+
+Required Language:
+Training shall include: (1) positive behavioral intervention techniques, (2) de-escalation techniques, (3) conflict prevention, (4) understanding trauma-informed care, (5) first aid and cardiopulmonary resuscitation, (6) identification of events that may trigger emergency interventions, (7) monitoring physical signs of distress, and (8) standards for ending restraint or seclusion.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Debriefing Requirements (Confidence: 85%)
+Missing from: BOTH
+The regulation lacks required debriefing procedures that must occur after each incident of seclusion or restraint. This is a mandatory requirement under California law to ensure continuous improvement and prevent future incidents.
+
+Legal Basis:
+- Education Code Section 49005.8: Following each incident involving seclusion or behavioral restraint, the school shall conduct a debriefing session to review the incident and consider whether changes are needed to prevent similar incidents.
+
+Required Language:
+Following each incident of seclusion or restraint, staff shall conduct a debriefing session within two school days that includes: (1) review of the incident and factors leading to it, (2) consideration of alternative responses, (3) determination of whether policy was followed, (4) identification of any needed changes to prevent recurrence, and (5) documentation of the debriefing outcomes.
+
+Recommended Placement: AR
+
+----------------------------------------
+

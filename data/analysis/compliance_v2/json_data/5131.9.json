@@ -1,0 +1,78 @@
+{
+  "code": "5131.9",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5131.9",
+    "title": "Academic Honesty",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5131.9.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Academic Honesty Implementation",
+        "description": "While the Board Policy establishes the district's commitment to academic honesty, there is no Administrative Regulation to provide specific procedures for defining, preventing, detecting, and responding to academic dishonesty. This creates a significant gap in implementation guidance for staff and administrators.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35291",
+            "text": "The governing board of any school district may prescribe rules not inconsistent with law or with the rules prescribed by the State Board of Education, for the government and discipline of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "Administrative Regulation 5131.9 should include: (1) Clear definitions of academic dishonesty including cheating, plagiarism, fabrication, and unauthorized collaboration; (2) Prevention strategies and educational components; (3) Detection procedures and investigation protocols; (4) Progressive disciplinary consequences aligned with Education Code requirements; (5) Due process procedures for students; (6) Appeal processes; (7) Record-keeping requirements; (8) Staff training requirements; and (9) Parent/guardian notification procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Due Process Protections",
+        "description": "Neither the policy nor regulation contains specific due process protections required when disciplining students for academic dishonesty, including notice requirements, hearing procedures, and appeal rights.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48911",
+            "text": "The pupil and the pupil's parent or guardian shall be notified of the pupil's right to a hearing before the principal or the principal's designee at which the pupil and the pupil's parent or guardian may present the pupil's version of the incident."
+          }
+        ],
+        "required_language": "Students accused of academic dishonesty shall receive written notice of the allegations and have the right to a hearing before disciplinary action is taken. The notice shall include the specific charges, evidence, potential consequences, and the student's right to present their version of events. Parents/guardians must be notified and may participate in the hearing process.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Specific Definitions of Academic Dishonesty",
+        "description": "The policy mentions cheating, lying, and plagiarism but lacks comprehensive definitions that would help students, staff, and parents understand what constitutes academic dishonesty in various contexts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35291",
+            "text": "Rules for student discipline must be clearly defined to ensure fair and consistent application."
+          }
+        ],
+        "required_language": "Academic dishonesty includes but is not limited to: (1) Cheating - using unauthorized materials, information, or assistance on academic work; (2) Plagiarism - presenting another's work, ideas, or words as one's own without proper attribution; (3) Fabrication - falsifying or inventing information, data, or citations; (4) Unauthorized collaboration - working with others when individual work is required; (5) Multiple submission - submitting the same work for multiple assignments without permission.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Prevention and Education Components",
+        "description": "The policy lacks provisions for proactive education about academic integrity and prevention strategies, which are important for creating the positive school climate mentioned in the policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51210",
+            "text": "Schools should provide instruction that develops character and civic responsibility."
+          }
+        ],
+        "required_language": "The district shall implement educational programs to teach students about academic integrity, proper citation methods, and the importance of honest academic work. Staff shall receive training on recognizing and preventing academic dishonesty while promoting a culture of integrity.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:23:06.131545+00:00"
+}

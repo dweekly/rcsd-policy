@@ -1,0 +1,48 @@
+{
+  "code": "9010",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9010",
+    "title": "Public Statements",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9010.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Public Statements Implementation",
+        "description": "While the Board Policy establishes the framework for public statements, there is no Administrative Regulation to provide specific procedures for implementation. California school districts typically need detailed procedures for how public statements are coordinated, approved, and disseminated, especially regarding media relations, crisis communications, and the process for designating spokespersons.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: (1) Procedures for coordinating public statements and media responses; (2) Process for designating authorized spokespersons beyond the Board President and Superintendent; (3) Guidelines for emergency or crisis communications; (4) Procedures for Board members to clarify when expressing personal vs. official Board positions; (5) Media relations protocols and contact procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Lack of Specific Reference to Brown Act Requirements",
+        "description": "The policy does not explicitly reference Brown Act requirements regarding public statements and communications between Board members. While the current language is not non-compliant, best practice includes explicit reference to avoid serial meetings through public statements or coordinated communications.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 54952.2",
+            "text": "A majority of the members of a legislative body shall not, outside a meeting authorized by this chapter, use a series of communications of any kind, directly or through intermediaries, to discuss, deliberate, or take action on any item of business that is within the subject matter jurisdiction of the legislative body."
+          }
+        ],
+        "required_language": "Board members shall ensure that public statements and communications do not constitute a serial meeting in violation of the Ralph M. Brown Act, and shall avoid using public statements to discuss, deliberate, or take action on matters within the Board's jurisdiction outside of properly noticed public meetings.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:38:18.572045+00:00"
+}

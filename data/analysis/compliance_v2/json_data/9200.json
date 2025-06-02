@@ -1,0 +1,78 @@
+{
+  "code": "9200",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9200",
+    "title": "Limits Of Board Member Authority",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9200.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Conflict of Interest Training Requirements",
+        "description": "California law requires that board members complete ethics training within specified timeframes. The policy lacks any reference to the mandatory ethics training requirements for board members, including initial training deadlines and biennial renewal requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 53235",
+            "text": "Each local agency official shall receive at least two hours of training in general ethics principles and ethics laws relevant to public service every two years. New officials must complete this training within one year of taking office."
+          }
+        ],
+        "required_language": "Board members shall complete at least two hours of ethics training every two years as required by Government Code 53235. Newly elected or appointed board members must complete this training within one year of taking office. The Superintendent or designee shall ensure that appropriate training opportunities are made available and shall maintain records of compliance.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Financial Interest Disclosure Requirements",
+        "description": "Board members must comply with conflict of interest laws and file required financial disclosure statements. The policy should address these legal obligations to ensure board members understand their responsibilities regarding financial conflicts and disclosure requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 87200 et seq. (Political Reform Act)",
+            "text": "Designated employees and officials must file statements of economic interests (Form 700) and comply with conflict of interest provisions, including disqualification from participating in decisions that could affect their financial interests."
+          }
+        ],
+        "required_language": "Board members shall comply with conflict of interest laws including filing required statements of economic interests (Form 700) and shall disqualify themselves from participating in any decision that could reasonably affect their financial interests as defined by the Political Reform Act.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Incomplete Brown Act Compliance Framework",
+        "description": "While the policy mentions providing Brown Act information to board members, it lacks comprehensive guidance on board member responsibilities under the Brown Act, including prohibitions on serial meetings, closed session confidentiality, and communication restrictions.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 54952.2",
+            "text": "Board members are prohibited from using a series of communications to discuss, deliberate, or take action on matters within the board's jurisdiction outside of properly noticed public meetings."
+          }
+        ],
+        "required_language": "Board members shall not engage in serial meetings or use electronic communications to discuss, deliberate, or take action on matters within the Board's jurisdiction outside of properly noticed public meetings. Board members shall maintain confidentiality of closed session discussions and comply with all Brown Act requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Incompatible Activities",
+        "description": "The policy could be strengthened by explicitly addressing incompatible activities and employment restrictions that apply to board members under California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 1090",
+            "text": "Public officials are prohibited from being financially interested in contracts made by them in their official capacity or by any body or board of which they are members."
+          }
+        ],
+        "required_language": "Board members shall not engage in activities incompatible with their duties as board members, including having financial interests in district contracts or employment relationships that would create conflicts of interest.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:39:26.145390+00:00"
+}

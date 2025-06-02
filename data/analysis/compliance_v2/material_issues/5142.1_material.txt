@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5142.1: Identification And Reporting Of Missing Children
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Mandatory Notification Requirements for Fingerprinting Program (Confidence: 85%)
+Missing from: BOTH
+Education Code 32390 requires specific notifications to parents/guardians about the fingerprinting program, including information about the program's purpose, voluntary nature, and data handling. The current documents lack the comprehensive notification requirements mandated by law.
+
+Legal Basis:
+- Education Code 32390(b): The governing board of a school district shall notify the parent or guardian of each pupil of the availability of the program and shall request that the parent or guardian indicate in writing whether the parent or guardian consents to the pupil's participation in the program.
+
+Required Language:
+The district shall provide written notification to parents/guardians that includes: (1) the purpose of the fingerprinting program is to facilitate location and identification of missing children, (2) participation is entirely voluntary, (3) fingerprints will not be retained by the district or shared with any other entity, (4) parents may change their decision at any time in writing, and (5) there is no penalty for non-participation.
+
+Recommended Placement: AR
+
+----------------------------------------
+

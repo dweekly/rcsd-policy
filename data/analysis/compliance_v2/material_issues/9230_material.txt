@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9230: Orientation
+Last Reviewed: 01/28/2009
+================================================================================
+
+Missing Ethics Training Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires local agency officials, including school board members, to receive ethics training within specified timeframes. The policy lacks any mention of mandatory ethics training requirements for new board members.
+
+Legal Basis:
+- Government Code Section 53235: Each local agency official shall receive at least two hours of training in general ethics principles and ethics laws relevant to public service every two years. A local agency official who serves in the first year of his or her term of office shall receive the training required by this section within one year of taking office.
+
+Required Language:
+New board members shall complete at least two hours of ethics training within one year of taking office, as required by Government Code Section 53235. The training shall cover general ethics principles and ethics laws relevant to public service.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Sexual Harassment Prevention Training (Confidence: 90%)
+Missing from: BOTH
+California law mandates sexual harassment prevention training for local agency officials. The policy does not address this mandatory training requirement for board members.
+
+Legal Basis:
+- Government Code Section 53237: Each local agency official shall receive at least two hours of training on the prevention of sexual harassment every two years. A local agency official who serves in the first year of his or her term of office shall receive the training required by this section within one year of taking office.
+
+Required Language:
+New board members shall complete at least two hours of sexual harassment prevention training within one year of taking office, as required by Government Code Section 53237.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Community College Board Training Requirements (Confidence: 80%)
+Missing from: BOTH
+If this is a community college district, specific training requirements under Education Code Section 72024.5 would apply. The policy should clarify applicability or include these requirements if relevant.
+
+Legal Basis:
+- Education Code Section 72024.5: Each person elected or appointed to serve as a member of the governing board of a community college district shall, within one year of assuming office, attend and complete a course of training and orientation prescribed by the board of governors.
+
+Required Language:
+If applicable to community college districts: New board members shall complete training and orientation prescribed by the Board of Governors within one year of assuming office, as required by Education Code Section 72024.5.
+
+Recommended Placement: BP
+
+----------------------------------------
+

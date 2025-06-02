@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5116.1: Intradistrict Open Enrollment
+Last Reviewed: 02/16/2022
+================================================================================
+
+Missing Annual Review and Reporting Requirements (Confidence: 85%)
+Missing from: BOTH
+Education Code 35160.5(f) requires the board to annually review the intradistrict open enrollment policy and submit a report to the county superintendent of schools. While the BP mentions annual review, neither document addresses the mandatory reporting requirement to the county superintendent.
+
+Legal Basis:
+- Education Code 35160.5(f): The governing board of a school district shall annually review the policy adopted pursuant to this section and shall submit a report to the county superintendent of schools that includes the number of pupils who applied for a transfer, the number of pupils who were granted a transfer, and the number of pupils who were denied a transfer.
+
+Required Language:
+The Superintendent or designee shall annually submit a report to the county superintendent of schools that includes the number of pupils who applied for a transfer, the number of pupils who were granted a transfer, and the number of pupils who were denied a transfer.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Military Family Priority (Confidence: 90%)
+Missing from: BOTH
+Education Code 46600(b) requires districts to provide enrollment priority for children of active duty military personnel. While transportation assistance for military families is mentioned in BP, the enrollment priority itself is not established in either document.
+
+Legal Basis:
+- Education Code 46600(b): A school district shall give additional consideration for the enrollment of a pupil in a school within the school district but outside of the pupil's attendance area if the pupil's parent or legal guardian is an active duty member of the armed forces and is transferred or is pending transfer to a military installation within the boundaries of the school district.
+
+Required Language:
+Is a child of an active duty member of the armed forces who is transferred or pending transfer to a military installation within the boundaries of the school district
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Incomplete Appeals Process Description (Confidence: 80%)
+Missing from: BOTH
+Education Code 35160.5 and 48980 require notification of the appeals process when attendance changes are denied. While the AR mentions that complaints should follow applicable complaint procedures, neither document establishes a specific appeals process for intradistrict transfer denials.
+
+Legal Basis:
+- Education Code 35160.5(b)(4): A description of the procedure for application for alternative attendance areas or programs and the appeals process available, if any, when a change of attendance is denied.
+
+Required Language:
+Parents/guardians may appeal a denial of an intradistrict transfer request by submitting a written appeal to the Superintendent or designee within [X] days of receiving the denial notification. The appeal shall include the basis for the appeal and any supporting documentation. The Superintendent or designee shall respond to the appeal within [X] days.
+
+Recommended Placement: AR
+
+----------------------------------------
+

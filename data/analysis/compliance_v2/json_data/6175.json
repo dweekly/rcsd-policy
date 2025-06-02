@@ -1,0 +1,99 @@
+{
+  "code": "6175",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6175",
+    "title": "Migrant Education Program",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6175.txt"
+  },
+  "regulation": {
+    "code": "6175",
+    "title": "Migrant Education Program",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6175.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Identification and Recruitment Procedures",
+        "description": "Federal law requires districts to implement identification and recruitment procedures to find all eligible migrant children, but neither the policy nor regulation addresses systematic identification and recruitment processes beyond basic eligibility criteria.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6394(c)(1)",
+            "text": "Each State that receives assistance under this part shall ensure that migratory children are identified on a statewide basis and that such children receive services that are coordinated with similar services provided by other programs."
+          }
+        ],
+        "required_language": "The district shall implement systematic identification and recruitment procedures to locate all eligible migrant children within the district boundaries, including coordination with community organizations, agricultural employers, and other agencies serving migrant families.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Interstate and Intrastate Coordination Requirements",
+        "description": "Federal law mandates coordination between states and districts to ensure continuity of services for migrant students, but neither document addresses required coordination mechanisms or data sharing protocols.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6398",
+            "text": "The Secretary shall assist States in developing effective methods for the transfer of student records and in determining the number of migratory children in each State."
+          }
+        ],
+        "required_language": "The district shall participate in interstate and intrastate coordination activities, including the Migrant Student Information Network (MSIN), to facilitate the transfer of educational and health records and ensure continuity of services for migrant students.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Performance Target and Accountability Requirements",
+        "description": "Federal regulations require specific performance targets and accountability measures for migrant education programs, but neither document establishes measurable performance goals or accountability frameworks.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 200.83",
+            "text": "A State must establish performance targets for migrant children for reading/language arts and mathematics achievement, school readiness, high school graduation, and high school graduation and college and career readiness."
+          }
+        ],
+        "required_language": "The district shall establish performance targets for migrant students aligned with state requirements for reading/language arts achievement, mathematics achievement, school readiness, high school graduation rates, and college and career readiness, and shall implement accountability measures to track progress toward these targets.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Credit Accrual and Exchange Provisions",
+        "description": "While record transfer is mentioned, specific provisions for credit accrual and exchange to facilitate grade promotion and graduation are not explicitly addressed in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6394(b)(1)",
+            "text": "Programs and projects assisted under this part shall be designed to help migratory children overcome educational disruption, cultural and language barriers, social isolation, various health-related problems, and other factors that inhibit the ability of such children to do well in school."
+          }
+        ],
+        "required_language": "The district shall implement credit accrual and exchange procedures to ensure migrant students can earn credit toward grade promotion and graduation despite educational disruptions caused by mobility.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Professional Development Specificity",
+        "description": "While the regulation mentions \"staff development plans,\" it lacks specific requirements for professional development focused on the unique needs of migrant students as required by federal guidelines.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6394(c)",
+            "text": "Such programs and projects shall provide for professional development activities for teachers and other program personnel."
+          }
+        ],
+        "required_language": "Professional development for migrant education program staff shall address the unique educational and cultural needs of migrant students, including strategies for addressing educational disruption, cultural sensitivity, and family engagement specific to migrant families.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:36:30.333279+00:00"
+}

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6011: Academic Standards
+Last Reviewed: 06/23/2010
+================================================================================
+
+Lack of Specific State Standards Alignment Requirements (Confidence: 90%)
+Missing from: BOTH
+While the policy mentions "statewide standards," it does not specifically reference California's current academic standards (Common Core State Standards, Next Generation Science Standards, etc.) or establish procedures for maintaining alignment with state-adopted standards as they are updated.
+
+Legal Basis:
+- Ed Code Section 60605.8: The state board shall adopt academically rigorous content standards and curriculum frameworks for pupils in kindergarten and grades 1 to 12, inclusive, in English language arts, mathematics, science, and history-social science.
+
+Required Language:
+District academic standards shall align with and meet or exceed California's state-adopted content standards, including but not limited to the California Common Core State Standards, Next Generation Science Standards, and California History-Social Science Standards. The district shall maintain alignment as state standards are revised or updated.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing English Learner Standards Integration (Confidence: 85%)
+Missing from: BOTH
+The policy lacks specific reference to English Language Development standards and how academic standards will be implemented for English learners, which is required under California law.
+
+Legal Basis:
+- Ed Code Section 305: All children in California public schools shall be taught English by being taught in English and all children shall be placed in English language classrooms.
+
+Required Language:
+Academic standards shall incorporate California English Language Development Standards to ensure English learners have access to grade-level content while developing English proficiency. The district shall provide appropriate instructional support to help English learners meet academic standards.
+
+Recommended Placement: BP
+
+----------------------------------------
+

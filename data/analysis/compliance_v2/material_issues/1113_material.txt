@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1113: District And School Websites
+Last Reviewed: 11/06/2024
+================================================================================
+
+Missing Required Website Content - School Accountability Report Card Publication Requirements (Confidence: 85%)
+Missing from: BOTH
+Education Code requires specific posting requirements for School Accountability Report Cards (SARCs) on district websites, including timing and accessibility requirements. While AR 1113 mentions SARCs as content to be included, neither document specifies the mandatory posting timeline or format requirements.
+
+Legal Basis:
+- Education Code Section 35256: The school accountability report card shall be posted on the school's Internet Web site, if the school maintains an Internet Web site, and on the local educational agency's Internet Web site by February 1 of each year.
+
+Required Language:
+School Accountability Report Cards shall be posted on the district website and individual school websites (if maintained) by February 1 of each year, in accordance with Education Code 35256.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Uniform Complaint Procedures Information Posting Requirement (Confidence: 90%)
+Missing from: BOTH
+California law requires districts to post information about Uniform Complaint Procedures on their websites. This is a mandatory disclosure requirement that is completely absent from both documents.
+
+Legal Basis:
+- Education Code Section 234.1(b): The local educational agency shall post information on how to file a uniform complaint on the local educational agency's Internet Web site in a prominent location that is easily accessible through the local educational agency's Internet Web site homepage.
+
+Required Language:
+District and school websites shall prominently display information on how to file a uniform complaint, including contact information for the compliance officer, in a location easily accessible from the homepage.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Title IX Information Posting Requirement (Confidence: 80%)
+Missing from: BOTH
+Federal Title IX regulations require districts to post Title IX contact information and non-discrimination notices on their websites. This mandatory federal requirement is not addressed in either document.
+
+Legal Basis:
+- 34 CFR 106.8(b)(2): A recipient must prominently display the contact information required to be designated under paragraph (a) of this section, including the Title IX Coordinator's name or title, office address, electronic mail address, and telephone number, on its website and in each handbook or catalog that it makes available to persons entitled to a notification under this section.
+
+Required Language:
+District and school websites shall prominently display Title IX Coordinator contact information, including name, office address, email address, and telephone number, along with the district's non-discrimination notice.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Local Control and Accountability Plan (LCAP) Posting Requirements (Confidence: 75%)
+Missing from: BOTH
+Education Code requires districts to post their LCAP and annual updates on the district website. This is a significant transparency requirement that is not specifically addressed in either document.
+
+Legal Basis:
+- Education Code Section 52065(a): The governing board of a school district shall post the local control and accountability plan and any revisions to the local control and accountability plan on the Internet Web site of the local educational agency.
+
+Required Language:
+The district website shall post the current Local Control and Accountability Plan (LCAP) and any revisions to the LCAP as required by Education Code 52065.
+
+Recommended Placement: AR
+
+----------------------------------------
+

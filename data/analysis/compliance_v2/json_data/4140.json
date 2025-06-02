@@ -1,0 +1,63 @@
+{
+  "code": "4140",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4140",
+    "title": "Bargaining Units",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4140.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for recognizing bargaining units and employee rights, there is no Administrative Regulation to provide implementation procedures. School districts typically need detailed procedures for processing representation petitions, conducting elections, determining appropriate bargaining units, and handling unfair practice complaints.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 3541.3",
+            "text": "The board shall determine, in each case, the appropriate unit or units for the purpose of meeting and negotiating."
+          }
+        ],
+        "required_language": "Administrative procedures should address: (1) Process for determining appropriate bargaining units; (2) Procedures for processing representation petitions; (3) Methods for verifying employee organization support; (4) Election procedures when multiple organizations seek representation; (5) Process for designating management, supervisory, and confidential positions; (6) Procedures for handling representation disputes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Public Employment Relations Board (PERB)",
+        "description": "The policy does not reference the role of PERB in resolving representation disputes, conducting elections, or handling unfair practice charges, which could be helpful for understanding the broader legal framework.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 3541",
+            "text": "There is hereby created in state government the Public Employment Relations Board... The board shall resolve disputes and unfair practice charges arising under this chapter."
+          }
+        ],
+        "required_language": "Reference that representation disputes and unfair practice charges may be filed with the Public Employment Relations Board (PERB) as provided in Government Code 3541 et seq.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Meet and Confer Process",
+        "description": "While the policy mentions negotiating in good faith, it doesn't specifically reference the \"meet and confer\" process required under the Educational Employment Relations Act, which is the specific legal framework for public school employee relations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 3543.3",
+            "text": "Employee organizations shall have the right to represent their members in their employment relations with public school employers and shall have the right to meet and confer on matters within the scope of representation."
+          }
+        ],
+        "required_language": "The district shall meet and confer with exclusive representatives on matters within the scope of representation as defined in Government Code 3543.2.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:12:10.574498+00:00"
+}

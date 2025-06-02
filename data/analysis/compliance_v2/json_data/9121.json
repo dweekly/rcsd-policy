@@ -1,0 +1,78 @@
+{
+  "code": "9121",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9121",
+    "title": "President",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9121.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Annual Election Requirement",
+        "description": "California Education Code requires that the board president be elected annually at the organizational meeting. The policy states the board \"shall elect a president\" but does not specify the required annual election timing or organizational meeting requirement.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35143",
+            "text": "At its organizational meeting, the governing board shall elect from its membership a president, a clerk, and such other officers as it deems necessary."
+          }
+        ],
+        "required_language": "The Board shall elect a president annually at its organizational meeting held in December following each regular election.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Clerk Election and Duties",
+        "description": "Education Code requires election of a clerk, and the policy references clerk duties when president/vice president are absent but does not establish the clerk position or election process. This is a mandatory officer position.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35143",
+            "text": "At its organizational meeting, the governing board shall elect from its membership a president, a clerk, and such other officers as it deems necessary."
+          }
+        ],
+        "required_language": "The Board shall also elect a clerk annually at its organizational meeting. The clerk shall perform the president's duties when both the president and vice president are absent or disabled.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Term Length Specification",
+        "description": "While the policy implies annual election through reference to organizational meetings, it should explicitly state the one-year term length for the president position as required by Education Code.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35143",
+            "text": "The term of office of each officer shall be one year or until a successor is elected."
+          }
+        ],
+        "required_language": "The president shall serve a term of one year or until a successor is elected.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Organizational Meeting Requirements",
+        "description": "The policy should reference that the organizational meeting must be held in December following regular elections, as this provides important context for the election timing.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35143",
+            "text": "The organizational meeting shall be held during the month of December following the regular election."
+          }
+        ],
+        "required_language": "The organizational meeting shall be held during the month of December following the regular election.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:38:46.858281+00:00"
+}

@@ -1,0 +1,67 @@
+{
+  "code": "0420.42",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "0420.42",
+    "title": "Charter School Renewal",
+    "type": "Policy",
+    "last_reviewed": "06/30/2021",
+    "file_path": "data/extracted/policies/0420.42.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Charter School Renewal Implementation",
+        "description": "While the Board Policy establishes comprehensive criteria and requirements for charter school renewal, there is no corresponding Administrative Regulation to provide detailed implementation procedures. This creates a significant gap in operational guidance for staff responsible for processing renewal petitions, conducting reviews, and ensuring compliance with statutory timelines and requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 47607",
+            "text": "Charter renewals shall be governed by the same standards and criteria that apply to new charter petitions as set forth in Section 47605, and shall be granted or denied by the authority that granted the original charter."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to establish specific procedures for: (1) Receipt and initial review of renewal petitions; (2) Staff evaluation processes and timelines; (3) Public hearing procedures and notification requirements; (4) Documentation requirements for written factual findings; (5) Notification procedures to CDE; (6) Coordination with charter schools regarding Dashboard Alternative School Status metrics; and (7) School closure implementation procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Incomplete Reference to School Closure Procedures",
+        "description": "The policy references school closure procedures \"specified in the charter\" but does not provide district procedures for overseeing or ensuring proper implementation of closure requirements when the district is the authorizer.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 47605(b)(5)(P)",
+            "text": "A description of the procedures to be followed by the charter school and the entity granting the charter to ensure transfer of pupil records upon closure of the charter school."
+          },
+          {
+            "citation": "5 CCR 11962",
+            "text": "Specifies detailed requirements for charter school closure procedures including asset disposition, records transfer, and final reporting."
+          }
+        ],
+        "required_language": "The district shall ensure compliance with all closure procedures including: transfer of student records, disposition of assets purchased with public funds, completion of required financial audits, and proper notification to affected parties as specified in Education Code 47605 and 5 CCR 11962.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Timeline for Dashboard Alternative School Status Notification",
+        "description": "While the policy states the Board shall notify charter schools of alternative metrics within 30 days of the meeting, it doesn't specify when this initial meeting must occur during the first year of the charter term.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 47607(a)(4)",
+            "text": "The chartering authority shall meet with the charter school during the first year of the charter school's term to mutually agree to discuss alternative metrics to be considered."
+          }
+        ],
+        "required_language": "For charter schools eligible for Dashboard Alternative School Status, the district shall schedule the required meeting to discuss alternative metrics within the first six months of the charter school's term.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:18:39.646990+00:00"
+}

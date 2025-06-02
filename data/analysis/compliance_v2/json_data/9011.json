@@ -1,0 +1,63 @@
+{
+  "code": "9011",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9011",
+    "title": "Disclosure Of Confidential/Privileged Information",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9011.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for confidentiality requirements, there is no Administrative Regulation to provide specific implementation procedures, training requirements, or enforcement mechanisms. This creates a gap in how the policy will be operationalized and enforced within the district.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54950 et seq. (Brown Act)",
+            "text": "The Brown Act requires specific procedures for handling confidential information and closed session materials, which typically require detailed implementation guidance beyond policy statements."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: procedures for identifying confidential information, training requirements for board members on confidentiality obligations, secure storage and handling procedures for confidential materials, incident reporting procedures for potential violations, and enforcement mechanisms.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Public Records Act Procedures",
+        "description": "While the policy mentions information \"subject to disclosure under the Public Records Act,\" it lacks specific guidance on how to handle Public Records Act requests that may involve confidential information, creating potential confusion about disclosure obligations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 6250 et seq. (Public Records Act)",
+            "text": "Public agencies must have procedures for responding to Public Records Act requests while protecting legitimately confidential information."
+          }
+        ],
+        "required_language": "Procedures for handling Public Records Act requests involving potentially confidential information, including coordination with legal counsel and timelines for response.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Requiring Review",
+        "description": "The policy was last updated in 2009 and has not been reviewed since adoption. Given changes in technology, communication methods, and legal requirements over the past 15 years, the policy may not address current confidentiality challenges such as electronic communications, social media, and digital storage of confidential information.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "School districts have authority and responsibility to establish policies that reflect current legal requirements and operational needs."
+          }
+        ],
+        "required_language": "Updated provisions addressing electronic communications, social media use, digital storage security, and modern communication technologies in relation to confidential information handling.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:38:29.931999+00:00"
+}

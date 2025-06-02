@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6184: Continuation Education
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Coordination Plan Requirements (Confidence: 85%)
+Missing from: BOTH
+The Board Policy references establishing a plan to coordinate instruction and training but fails to specify the required components. The regulation does not address the coordination plan at all, missing critical elements required by law including coordination with home, employment, and other agencies.
+
+Legal Basis:
+- 5 CCR 11003: The governing board of each school district maintaining continuation education classes shall establish a plan to coordinate the instruction and training in the school with the home, employment, and other agencies serving minors subject to compulsory continuation education.
+
+Required Language:
+The coordination plan shall specify procedures for coordinating instruction and training with: (1) the student's home environment and family circumstances, (2) current or potential employment opportunities, and (3) other agencies serving minors in continuation education. The plan shall include methods for regular communication and collaboration among these entities to support student success.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Coordinator Designation and Duties (Confidence: 90%)
+Missing from: BOTH
+While the Board Policy mentions designating coordinators as required by 5 CCR 11003, neither document specifies the duties and responsibilities of these coordinators. The regulation mentions a "director of continuation education" but doesn't clearly establish this as the required coordinator position.
+
+Legal Basis:
+- 5 CCR 11003: The governing board shall designate one or more persons as coordinators to implement the coordination plan.
+
+Required Language:
+The Board shall designate one or more persons as coordinators responsible for implementing the coordination plan. Coordinator duties shall include: facilitating communication between school, home, employers, and other agencies; monitoring student progress across all environments; and ensuring coordinated support services are provided to each student.
+
+Recommended Placement: AR
+
+----------------------------------------
+

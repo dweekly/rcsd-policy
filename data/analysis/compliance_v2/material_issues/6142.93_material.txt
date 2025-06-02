@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6142.93: Science Instruction
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Science Content Standards Implementation (Confidence: 95%)
+Missing from: BOTH
+California requires districts to implement state-adopted science content standards. The policy lacks any reference to California's science content standards or their implementation, which is mandatory for all districts.
+
+Legal Basis:
+- Education Code Section 60605: The governing board of each school district shall ensure that the adopted course of study is implemented in the schools within the district.
+
+Required Language:
+Science instruction shall be aligned with and implement the state-adopted California Science Standards and Next Generation Science Standards (NGSS) as applicable to each grade level.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Science Instructional Materials Adoption Requirements (Confidence: 90%)
+Missing from: BOTH
+Districts must adopt instructional materials from the state-approved list or through local adoption processes that meet state criteria. No reference to instructional materials adoption is present.
+
+Legal Basis:
+- Education Code Section 60200-60206: The governing board of a school district shall adopt instructional materials for use in the schools of the district.
+
+Required Language:
+The district shall adopt science instructional materials that are aligned with state content standards and approved through the state adoption process or local adoption procedures that meet state requirements.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Laboratory Safety Requirements (Confidence: 80%)
+Missing from: BOTH
+Science instruction involving laboratory work requires specific safety protocols and procedures to protect students, but no safety requirements are addressed in either document.
+
+Legal Basis:
+- Education Code Section 32020: Every employee of a school district shall be alert to conditions which might result in accident or injury to pupils under his supervision and shall make reasonable effort to protect the health and safety of the pupils.
+
+Required Language:
+Science laboratory instruction shall include appropriate safety protocols, equipment, and training to ensure student and staff safety during hands-on science activities.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,84 @@
+{
+  "code": "5131.2",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5131.2",
+    "title": "Bullying",
+    "type": "Policy",
+    "last_reviewed": "11/06/2019",
+    "file_path": "data/extracted/policies/5131.2.txt"
+  },
+  "regulation": {
+    "code": "5131.2",
+    "title": "Bullying",
+    "type": "Regulation",
+    "last_reviewed": "11/06/2019",
+    "file_path": "data/extracted/regulations/5131.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Definition of \"Bullying\" in Board Policy",
+        "description": "Education Code 48900(r) requires districts to define bullying in their policies. While the AR contains a comprehensive definition, the BP lacks any definition of what constitutes bullying, which is problematic since the BP is the governing document that establishes district direction.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48900(r)",
+            "text": "\"Bullying\" means any severe or pervasive physical or verbal act or conduct, including communications made in writing or by means of an electronic act, and including one or more acts committed by a student or group of students which would be deemed hate violence or harassment, threats, or intimidation, which are directed toward one or more students that has or can be reasonably predicted to have the effect of one or more of the following: (1) Placing a reasonable student (A) in fear of harm to that student's person or property. (B) Causing a reasonable student to experience a substantially detrimental effect on his or her physical or mental health. (2) Causing a reasonable student to experience substantial interference with his or her academic performance. (3) Causing a reasonable student to experience substantial interference with his or her ability to participate in or benefit from the services, activities, or privileges provided by the school."
+          }
+        ],
+        "required_language": "The district defines bullying as any severe or pervasive physical or verbal act or conduct, including communications made in writing or by means of an electronic act, directed toward one or more students that has or can reasonably be predicted to have the effect of placing a reasonable student in fear of harm, causing substantial detrimental effect on physical or mental health, or causing substantial interference with academic performance or ability to participate in school services, activities, or privileges.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Annual Staff Notification Requirement",
+        "description": "Education Code 234.1 requires annual notification to employees about their duty to intervene when witnessing bullying. While the AR mentions this requirement in the prevention measures section, there is no clear statement that this notification will occur annually as mandated.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 234.1",
+            "text": "Each school district, county office of education, and charter school shall annually make available the online training module developed by the department pursuant to Section 32283.5 to certificated schoolsite employees and all other schoolsite employees who have regular interaction with children."
+          }
+        ],
+        "required_language": "The district shall annually notify all employees of their duty to immediately intervene when it is safe to do so if they witness an act of bullying, and shall annually make available online training modules on bullying dynamics to all certificated staff and other employees who have regular interaction with students.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Reference to Specific Protected Classes",
+        "description": "While the BP references Education Code sections 200 and 220, it should explicitly state that bullying based on protected characteristics constitutes discrimination. The connection between bullying and discrimination based on protected classes needs to be clearer in the policy framework.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 234.1(b)",
+            "text": "Bullying includes bullying committed by or against students with disabilities and bullying based on actual or perceived sexual orientation, gender identity, and gender expression."
+          }
+        ],
+        "required_language": "Bullying includes acts committed against students with disabilities and bullying based on actual or perceived sexual orientation, gender identity, gender expression, race, ethnicity, nationality, religion, or any other protected characteristic identified in Education Code sections 200 and 220.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Investigation Timeline Not Specified",
+        "description": "While the AR establishes reporting timelines, it does not specify timelines for completing investigations of bullying complaints, which is a best practice for ensuring prompt resolution.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 4631",
+            "text": "The investigation shall be completed within 60 calendar days from the date the district receives the complaint, unless the complainant agrees in writing to extend the timeline."
+          }
+        ],
+        "required_language": "Investigations of bullying complaints shall be completed within 60 calendar days of receipt of the complaint, unless extended by written agreement with the complainant.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:21:48.336094+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "1160",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1160",
+    "title": "Political Processes",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1160.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Political Activities Implementation",
+        "description": "Education Code 7055 requires districts to establish regulations regarding political activities by board members and employees during working hours and on district premises. While the Board Policy acknowledges this requirement, no Administrative Regulation exists to provide the specific procedures, restrictions, and implementation details required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 7055",
+            "text": "The governing board of a school district may adopt reasonable regulations restricting the political activities of school district employees during working hours or on school district premises."
+          }
+        ],
+        "required_language": "Administrative regulations must specify: (1) Restrictions on political activities during working hours, (2) Limitations on use of district premises for political activities, (3) Guidelines for employee political expression and campaigning, (4) Procedures for enforcement and consequences for violations, (5) Clarification of what constitutes prohibited political activity versus protected speech, (6) Process for reporting violations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Procedures for Fair and Impartial Information Distribution",
+        "description": "Education Code 7054 allows districts to provide fair and impartial information about ballot measures, but requires specific safeguards to ensure neutrality. The policy mentions this right but lacks implementing procedures to ensure compliance with the \"totality of circumstances\" test and prevent inadvertent advocacy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 7054",
+            "text": "Nothing in this section shall prohibit the use of public resources to provide fair and impartial information to the public regarding a ballot measure, if the totality of the circumstances indicates that the information is not being used to urge the support or defeat of the ballot measure."
+          }
+        ],
+        "required_language": "Administrative procedures must establish: (1) Review process for all informational materials before distribution, (2) Criteria for determining \"fair and impartial\" content, (3) Guidelines for language, style, tenor and timing of communications, (4) Approval authority for informational materials, (5) Documentation requirements for compliance, (6) Training requirements for staff involved in preparing such materials.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Procedures for Political Forum Management",
+        "description": "Education Code 7058 permits political forums in district facilities but requires equitable access for all sides. The policy states this requirement but lacks implementing procedures to ensure equitable treatment and proper facility use protocols.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 7058",
+            "text": "School districts may make their facilities available for political purposes, provided that the facilities are made available to all parties and candidates on an equitable basis."
+          }
+        ],
+        "required_language": "Administrative procedures must specify: (1) Application process for political forum requests, (2) Criteria for determining equitable access and treatment, (3) Fee structures and facility use requirements, (4) Timeline requirements for providing equal access to opposing viewpoints, (5) Staff responsibilities during political forums, (6) Security and conduct requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009, over 14 years ago. While not legally required, regular policy review ensures continued compliance with evolving legal requirements and best practices in political activity regulation.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "General Legal Principle",
+            "text": "Regular policy review is recommended to ensure continued legal compliance and effectiveness."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and best practices, with regular review cycles established.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:20:48.003241+00:00"
+}

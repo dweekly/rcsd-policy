@@ -1,0 +1,99 @@
+{
+  "code": "6164.5",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6164.5",
+    "title": "Student Success Teams",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6164.5.txt"
+  },
+  "regulation": {
+    "code": "6164.5",
+    "title": "Student Success Teams",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6164.5.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Documentation and Record-Keeping Requirements",
+        "description": "California law requires that student success team meetings and interventions be properly documented, with records maintained and accessible to parents. Neither the policy nor regulation specifies documentation requirements, record-keeping procedures, or parent access to SST records.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49069",
+            "text": "Parents have the right to inspect and review any and all student records related to their children that are maintained by school districts, and school districts must maintain proper documentation of interventions and meetings."
+          }
+        ],
+        "required_language": "The district shall maintain written documentation of all student success team meetings, including participants, interventions discussed, decisions made, and timelines established. Parents/guardians shall have access to all SST records and documentation. Records shall be maintained in accordance with district record retention policies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Parent Notification and Consent Procedures",
+        "description": "While the policy mentions parent collaboration and the regulation includes parents as team members, neither document specifies required procedures for notifying parents of SST referrals, obtaining consent for participation, or ensuring meaningful parent participation rights.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51101",
+            "text": "Parents have the right to be notified in a timely manner if their child is identified as being at risk of retention and to participate in the development of a remediation plan."
+          }
+        ],
+        "required_language": "Parents/guardians shall be notified in writing when their child is referred to a student success team. The notification shall include the reason for referral, the SST process, parent rights, and meeting scheduling. Parents/guardians have the right to participate in all SST meetings and decisions regarding their child.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Relationship to Special Education Referral Process",
+        "description": "The policy and regulation fail to address the relationship between SST interventions and potential special education referrals, including timelines and procedures for when SST interventions may lead to formal special education evaluation requests.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 56301",
+            "text": "School districts must have procedures for identifying students who may need special education services, and SST processes often serve as part of the pre-referral intervention system."
+          }
+        ],
+        "required_language": "Student success team interventions may be used as part of the pre-referral process for special education. If SST interventions are unsuccessful after a reasonable period of implementation, the team shall consider whether a referral for special education assessment is appropriate. Parents may request special education assessment at any time during the SST process.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Timeline Requirements for SST Process",
+        "description": "While the regulation mentions that follow-up meetings should be \"regularly scheduled,\" neither document specifies timelines for initial SST meetings, implementation periods for interventions, or frequency of progress monitoring.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48985",
+            "text": "Districts must ensure timely intervention for struggling students, which implies reasonable timelines for SST processes."
+          }
+        ],
+        "required_language": "Initial SST meetings shall be held within [X] school days of referral. Interventions shall be implemented for a minimum of [X] weeks before evaluation. Progress monitoring meetings shall occur at least every [X] weeks during intervention implementation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Language Access Requirements",
+        "description": "Neither document addresses language access requirements for non-English speaking parents participating in SST meetings, including interpretation services and translated materials.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48985",
+            "text": "When 15 percent or more of students speak a language other than English, notices and other communications must be provided in the primary language of the parents."
+          }
+        ],
+        "required_language": "SST notices, forms, and meeting communications shall be provided in the primary language of the parents/guardians when required by Education Code Section 48985. Interpretation services shall be provided during SST meetings when needed for meaningful parent participation.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:35:10.633486+00:00"
+}

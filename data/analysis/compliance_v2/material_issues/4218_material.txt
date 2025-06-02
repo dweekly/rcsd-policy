@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4218: Dismissal/Suspension/Disciplinary Action
+Last Reviewed: 12/07/2022
+================================================================================
+
+Missing Compulsory Leave Pay Status Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires specific provisions regarding pay status during compulsory leave of absence for employees charged with certain offenses. The regulation addresses when compulsory leave must be imposed but fails to specify the required pay status distinctions between mandatory and optional leave offenses.
+
+Legal Basis:
+- Education Code 45304: For mandatory leave offenses, the employee shall be placed on leave without pay. For optional leave offenses, the employee may be placed on leave with or without pay at the district's discretion.
+
+Required Language:
+For mandatory leave of absence offenses, the employee shall be placed on compulsory leave without pay. For optional leave of absence offenses, the employee may be placed on compulsory leave with or without pay at the discretion of the Superintendent or designee.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Notice Requirements for Compulsory Leave (Confidence: 90%)
+Missing from: BOTH
+Education Code requires specific notice procedures when placing an employee on compulsory leave of absence, including written notice with specific content requirements. The regulation describes when compulsory leave applies but does not include the mandatory notice procedures.
+
+Legal Basis:
+- Education Code 45304: The governing board shall provide written notice to the employee of the compulsory leave, including the specific charges and the employee's right to a hearing.
+
+Required Language:
+Written notice of compulsory leave shall be served upon the employee either personally or by registered or certified mail. The notice shall include the specific criminal charges, the basis for the compulsory leave, and information regarding the employee's rights during the leave period.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Rehabilitation and Return to Work Provisions (Confidence: 80%)
+Missing from: BOTH
+California law requires districts to address procedures for employee rehabilitation and return to work following disciplinary actions, particularly for substance abuse issues. Neither document addresses these required rehabilitation considerations.
+
+Legal Basis:
+- Education Code 45113: The governing board may require an employee to participate in rehabilitation programs as a condition of continued employment or return to work following disciplinary action.
+
+Required Language:
+As an alternative to dismissal or in conjunction with other disciplinary action, the Board may require an employee to participate in appropriate rehabilitation programs, including but not limited to substance abuse counseling or anger management, as a condition of continued employment.
+
+Recommended Placement: BP
+
+----------------------------------------
+

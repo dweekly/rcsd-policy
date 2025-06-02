@@ -1,0 +1,78 @@
+{
+  "code": "9130",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9130",
+    "title": "Board Committees",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9130.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Committee Composition and Appointment Procedures",
+        "description": "The policy lacks specific procedures for how committee members are appointed, terms of service, and composition requirements. While the policy states the Board \"may establish\" committees and \"shall determine duties,\" it provides no guidance on the appointment process, qualifications, or structural requirements for committee membership.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54952",
+            "text": "Defines legislative body composition and requires clear establishment of committee structure and membership"
+          }
+        ],
+        "required_language": "Procedures for appointing committee members, including: selection criteria, terms of service, number of members, and process for filling vacancies. For committees including non-Board members, establish application and selection procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Brown Act Compliance Procedures",
+        "description": "While the policy references Brown Act requirements, it lacks specific procedural details for ensuring compliance, such as agenda posting procedures, meeting notice requirements, and public comment protocols. The policy mentions these requirements but doesn't establish implementation procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54954.2",
+            "text": "Requires agenda to be posted at least 72 hours before regular meetings and specifies posting location and content requirements"
+          }
+        ],
+        "required_language": "Detailed procedures for: agenda preparation and posting timelines, designated posting locations, meeting notice distribution, public comment procedures, and record-keeping requirements for committee meetings subject to Brown Act.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Committee Reporting and Documentation Requirements",
+        "description": "The policy does not specify how committees should report their activities, recommendations, or findings back to the full Board, nor does it establish documentation and record-keeping requirements for committee work.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54957.5",
+            "text": "Requires public agencies to maintain records of meetings and actions taken"
+          }
+        ],
+        "required_language": "Requirements for committee reporting to the Board, including format and timing of reports, documentation of committee recommendations, and maintenance of committee records and meeting minutes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Committee Dissolution Procedures",
+        "description": "While the policy states that committees \"shall be dissolved\" when duties are completed, it lacks specific procedures for how dissolution occurs, notification requirements, and final reporting obligations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54952",
+            "text": "Requires clear definition of legislative body status and termination procedures"
+          }
+        ],
+        "required_language": "Procedures for committee dissolution, including: Board action required, notification to committee members and public, final report requirements, and transfer of committee records.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:39:15.584673+00:00"
+}

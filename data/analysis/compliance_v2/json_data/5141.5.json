@@ -1,0 +1,93 @@
+{
+  "code": "5141.5",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5141.5",
+    "title": "Mental Health",
+    "type": "Policy",
+    "last_reviewed": "10/25/2023",
+    "file_path": "data/extracted/policies/5141.5.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Mental Health Policy Implementation",
+        "description": "While the Board Policy establishes comprehensive mental health requirements, there is no corresponding Administrative Regulation to provide implementation procedures. This creates a significant gap in operationalizing the policy requirements, particularly for complex mandates like staff training protocols, crisis intervention procedures, notification systems, and referral processes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49428, 49428.5, 49428.15",
+            "text": "These sections require specific implementation procedures for mental health notifications, poster requirements, and staff training that need detailed administrative procedures to ensure compliance."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to establish specific procedures for: implementation of twice-yearly notifications, staff training schedules and content, crisis intervention protocols, referral procedures, poster creation and distribution requirements, and coordination with community mental health services.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Suicide Prevention Policy and Procedures",
+        "description": "California law requires school districts to adopt policies on pupil suicide prevention that include specific procedures for suicide risk assessment, notification protocols, and postvention activities. While the policy mentions training staff to \"identify risk factors and warning signs of suicidal intent,\" it lacks the comprehensive suicide prevention framework required by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 215",
+            "text": "Requires the governing board of a school district that serves pupils in grades 7 to 12, inclusive, to adopt, at a regularly scheduled board meeting, a policy on pupil suicide prevention that specifically addresses the needs of high-risk groups."
+          }
+        ],
+        "required_language": "The district shall adopt a comprehensive suicide prevention policy that includes: procedures for identifying and responding to students at risk of suicide, protocols for notification of parents/guardians and emergency contacts, procedures for re-entry after a suicide attempt, postvention procedures following a suicide death, and training requirements for staff on suicide risk assessment and intervention.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Parental Notification Requirements for Mental Health Services",
+        "description": "The policy does not address the specific requirements for parental notification when mental health services are provided to students, including exceptions and procedures for when parental consent may not be required.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49602.5",
+            "text": "Requires parental notification and consent for mental health services, with specific exceptions for emergency situations and when disclosure would not be in the student's best interest."
+          }
+        ],
+        "required_language": "Before providing mental health services to a student, the district shall notify the parent/guardian and obtain consent, except when: (1) the student is in imminent danger, (2) the student is mature enough to participate in mental health treatment and either would be harmed by parental involvement or is the victim of incest or child abuse by the parent/guardian, or (3) disclosure would not be in the student's best interest.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Crisis Response Procedures",
+        "description": "While the policy mentions that crisis intervention teams \"may\" be established, it lacks specific procedures for crisis response, including roles and responsibilities, emergency protocols, and coordination with law enforcement and emergency services.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49428.15",
+            "text": "Requires training on how to \"safely deescalate crisis situations involving students with a behavioral health disorder\" which implies the need for established crisis response procedures."
+          }
+        ],
+        "required_language": "Detailed procedures should be established for crisis response including: immediate safety protocols, roles of crisis team members, procedures for contacting emergency services, documentation requirements, follow-up procedures, and coordination with parents/guardians and community mental health services.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Confidentiality and Records Management Procedures",
+        "description": "While the policy mentions maintaining \"student privacy and confidentiality,\" it lacks specific procedures for handling mental health records, sharing information among staff, and maintaining confidentiality requirements under FERPA and state law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49076, 49077",
+            "text": "Establishes requirements for confidentiality of student records and specific procedures for sharing mental health information."
+          }
+        ],
+        "required_language": "Procedures should be established for: maintaining confidentiality of mental health records, determining when information may be shared without consent, training staff on confidentiality requirements, and ensuring proper storage and access controls for mental health information.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:25:41.063322+00:00"
+}

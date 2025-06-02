@@ -1,0 +1,63 @@
+{
+  "code": "2140",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "2140",
+    "title": "Evaluation Of The Superintendent",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/2140.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for superintendent evaluation, there is no Administrative Regulation to provide detailed implementation procedures. California law requires that evaluation processes be clearly defined and consistently implemented. Without an AR, there may be inconsistent application of evaluation procedures, unclear timelines, and potential disputes over process.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35031",
+            "text": "The governing board of any school district may delegate to any employee or committee of employees of such district any of the powers and duties imposed upon or vested in the governing board by law, except those powers and duties specifically required by law to be performed by the governing board."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to establish specific procedures including: detailed timeline for evaluation process, specific forms and instruments to be used, procedures for Board member input collection, format requirements for consensus document, procedures for closed session discussion, documentation requirements, and process for goal-setting session.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009, which is over 14 years ago. While not legally mandated, best practices suggest regular policy review to ensure continued compliance with evolving legal requirements and educational standards.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "On and after January 1, 1976, the governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and best practices. Consider adding language about regular policy review cycles.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Evaluation Frequency Requirements",
+        "description": "While the policy states \"annually,\" it doesn't address situations where a superintendent may need more frequent evaluation during probationary periods or performance improvement situations, which may be required under certain employment contracts or legal circumstances.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35031",
+            "text": "The governing board shall have power to fix and order paid the compensation of all employees of the district."
+          }
+        ],
+        "required_language": "Consider adding language addressing evaluation frequency for probationary superintendents or during performance improvement periods, if applicable under the superintendent's contract terms.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:23:47.083232+00:00"
+}

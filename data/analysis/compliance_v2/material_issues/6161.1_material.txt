@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6161.1: Selection And Evaluation Of Instructional Materials
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Public Complaint Process for Instructional Materials (Confidence: 95%)
+Missing from: BOTH
+While the BP mentions that complaints shall be handled "in accordance with law, Board policy, and administrative regulation," neither document provides the specific complaint process required by Education Code 35186. The law mandates specific procedures for complaints about instructional materials sufficiency, including forms, timelines, and resolution processes.
+
+Legal Basis:
+- Education Code 35186: A complaint may be filed with the principal of the school or his or her designee pursuant to the uniform complaint procedures adopted by the school district pursuant to Section 4600 et seq. of Title 5 of the California Code of Regulations. A complaint form shall be available at each school. The complaint and response are public records.
+
+Required Language:
+The district shall establish uniform complaint procedures for complaints regarding instructional materials sufficiency pursuant to Education Code 35186. Complaint forms shall be available at each school site and the district office. Complaints and responses are public records. The complaint process shall include investigation procedures, timelines for response, and appeal rights.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Williams Act Posting Requirements (Confidence: 90%)
+Missing from: BOTH
+Education Code 35186 requires specific posting of information about instructional materials sufficiency and complaint procedures. Neither document addresses the mandatory posting requirements for schools regarding textbook sufficiency and complaint forms.
+
+Legal Basis:
+- Education Code 35186(d): Each school shall post a notice in each classroom in each school stating that there should be sufficient textbooks and instructional materials in each class and that a complaint form may be obtained at the school office.
+
+Required Language:
+Each school shall post a notice in each classroom stating that there should be sufficient textbooks and instructional materials in each class and that a complaint form may be obtained at the school office. The Superintendent or designee shall ensure compliance with all posting requirements under Education Code 35186.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Resolution Timeline for Instructional Materials Complaints (Confidence: 85%)
+Missing from: BOTH
+Education Code 35186 requires specific timelines for resolving complaints about instructional materials. The policy mentions complaints will be handled per law but doesn't specify the required 30-day resolution timeline.
+
+Legal Basis:
+- Education Code 35186(f): A complaint regarding instructional materials may be filed anonymously if the complaint provides evidence or information leading to evidence to support an allegation of noncompliance. A complaint shall be filed no later than one year from the date the alleged violation occurred. A person may file a complaint on behalf of pupils, parents, guardians, or teachers. The complaint shall be investigated and resolved within 30 days of receipt.
+
+Required Language:
+Complaints regarding instructional materials sufficiency shall be investigated and resolved within 30 days of receipt. Complaints may be filed anonymously if they provide evidence supporting the allegation. Complaints must be filed within one year of the alleged violation.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,84 @@
+{
+  "code": "6174",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6174",
+    "title": "Education For English Learners",
+    "type": "Policy",
+    "last_reviewed": "01/22/2020",
+    "file_path": "data/extracted/policies/6174.txt"
+  },
+  "regulation": {
+    "code": "6174",
+    "title": "Education For English Learners",
+    "type": "Regulation",
+    "last_reviewed": "03/11/2020",
+    "file_path": "data/extracted/regulations/6174.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Parental Exception/Waiver Process",
+        "description": "California Education Code allows parents to request that their child be placed in English-only classes or removed from language acquisition programs through a waiver process. Neither the BP nor AR contains procedures for handling parental exception requests or waivers from language acquisition programs, which is a fundamental parental right under California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 311",
+            "text": "On written request by a parent or legal guardian, a child may be transferred to an English language classroom... The school district shall inform parents and legal guardians of their right to request such a transfer and of the availability of such transfers."
+          }
+        ],
+        "required_language": "Parents/guardians have the right to request that their child be transferred to an English-only classroom. Upon written request by a parent or legal guardian, the district shall transfer the student to an English language classroom. The district shall inform parents/guardians of this right and the process for requesting such transfers. The district shall establish procedures for processing and responding to such requests in a timely manner.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Long-Term English Learner Identification and Support Requirements",
+        "description": "While the BP mentions reporting on long-term English learners, neither document contains the required specific identification criteria, timeline, or specialized support services for long-term English learners as mandated by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 313.1",
+            "text": "A pupil who is classified as an English learner may be classified as a long-term English learner if the pupil is enrolled in any of grades 6 to 12, inclusive, has been enrolled in schools in the United States for more than six years, and has remained at the same English language proficiency level for two or more consecutive years..."
+          }
+        ],
+        "required_language": "The district shall identify long-term English learners as students in grades 6-12 who have been enrolled in U.S. schools for more than six years and have remained at the same English proficiency level for two or more consecutive years, or students who have been classified as English learners for six or more years but have not achieved English proficiency. The district shall provide specialized support and interventions for long-term English learners, including individualized learning plans and additional academic support services.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Incomplete Federal Title III Notification Requirements",
+        "description": "While the AR includes some federal notification requirements, it is missing specific elements required under federal Title III regulations, including information about the right to decline enrollment and specific program comparison information.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6312(e)(3)(A)",
+            "text": "Each eligible entity receiving funds under this part shall inform a parent or the parents of a student participating in, or identified for participation in, programs and activities under this part of... the parent's right to have their child immediately removed from such program upon their request."
+          }
+        ],
+        "required_language": "The notification to parents/guardians must explicitly state the parent's right to immediately remove their child from the language instruction program upon request, and must include information designed to assist parents in selecting among available programs if more than one program is offered, including comparative information about program effectiveness and outcomes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Timeline for Initial ELPAC Administration",
+        "description": "The AR states that initial ELPAC should be administered \"promptly\" but does not specify the required 30-day timeline for administration after enrollment as required by state regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 11518.5(d)",
+            "text": "The LEA shall administer the ELPAC initial assessment within 30 calendar days of the student's initial enrollment, but not before receiving parent notification..."
+          }
+        ],
+        "required_language": "The district shall administer the ELPAC initial assessment within 30 calendar days of the student's initial enrollment in a California school, but not before providing required parent notification.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:36:29.025688+00:00"
+}

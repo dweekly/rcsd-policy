@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5141.21: Administering Medication And Monitoring Health Conditions
+Last Reviewed: 08/25/2021
+================================================================================
+
+Missing Required Annual Notification Content (Confidence: 85%)
+Missing from: BOTH
+Education Code 48980 requires specific notification content to be provided to parents/guardians at the beginning of each school year regarding medication administration options. While the AR mentions providing notification of "options available," it does not specify the comprehensive content required by law, including information about epinephrine auto-injectors and opioid antagonists available at schools.
+
+Legal Basis:
+- Education Code 48980(a): At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify the parent or guardian of a minor pupil regarding the availability of emergency epinephrine auto-injectors pursuant to Section 49414 and emergency naloxone hydrochloride or another opioid antagonist pursuant to Section 49414.3.
+
+Required Language:
+The annual notification to parents/guardians shall include information about the availability of emergency epinephrine auto-injectors at each school site for emergency medical aid to persons suffering from anaphylactic reactions, and the availability of naloxone hydrochloride or another opioid antagonist for emergency medical aid to persons suffering from opioid overdose.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Training Standards Reference for Epinephrine Administration (Confidence: 90%)
+Missing from: BOTH
+Education Code 49414 requires that training for epinephrine auto-injector administration be based on standards developed by the Superintendent of Public Instruction. While the AR mentions this requirement, neither document references the specific training standards or ensures compliance with the detailed requirements.
+
+Legal Basis:
+- Education Code 49414(e)(2): Training shall be based on the standards developed by the Superintendent of Public Instruction pursuant to subdivision (i) and shall include, but not necessarily be limited to, techniques for recognizing symptoms of anaphylaxis, standards and procedures for the storage and administration of an epinephrine auto-injector, emergency follow-up procedures, and recommendations on the necessity of calling the emergency 911 telephone number.
+
+Required Language:
+Training for epinephrine auto-injector administration shall be based on standards developed by the Superintendent of Public Instruction and shall include techniques for recognizing symptoms of anaphylaxis, standards and procedures for storage and administration, emergency follow-up procedures, and recommendations on calling 911.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Requirement for Emergency Action Following Epinephrine Administration (Confidence: 80%)
+Missing from: BOTH
+Education Code 49414 requires that emergency services be called immediately when an epinephrine auto-injector is administered. This critical safety requirement is not explicitly stated in either document.
+
+Legal Basis:
+- Education Code 49414(f): If an epinephrine auto-injector is used on a pupil, the school nurse or other employee shall immediately call the emergency 911 telephone number and shall immediately contact, if possible, the pupil's parent and physician.
+
+Required Language:
+When an epinephrine auto-injector is administered to any person, school personnel shall immediately call 911 emergency services and immediately contact, if possible, the person's parent/guardian (if a student) and physician.
+
+Recommended Placement: AR
+
+----------------------------------------
+

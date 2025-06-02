@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5131: Conduct
+Last Reviewed: 05/06/2020
+================================================================================
+
+Missing Specific Due Process Procedures (Confidence: 90%)
+Missing from: BOTH
+While the policy references that students may be subject to discipline, it lacks specific due process procedures required by California law, including notice requirements, hearing procedures, and appeal rights that must be detailed in either policy or regulation.
+
+Legal Basis:
+- Education Code Section 48911: Requires specific notice and hearing procedures before suspension or expulsion
+
+Required Language:
+Must include specific procedures for providing notice to students and parents/guardians, informal conference requirements, formal hearing procedures, and timeline requirements for disciplinary actions.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Progressive Discipline Framework (Confidence: 85%)
+Missing from: BOTH
+California law emphasizes alternatives to suspension and progressive discipline approaches. The policy lacks specific guidance on when different disciplinary measures should be applied and what alternatives must be considered before suspension or expulsion.
+
+Legal Basis:
+- Education Code Section 48900.5: Requires consideration of alternatives to suspension and expulsion, including restorative justice practices
+
+Required Language:
+Must include progressive discipline procedures, alternatives to suspension/expulsion that must be considered, restorative justice options, and criteria for determining appropriate disciplinary responses.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Notification Requirements (Confidence: 80%)
+Missing from: BOTH
+While the policy states that students and parents will be notified of rules, it lacks specific requirements for how, when, and what information must be provided in disciplinary notifications as required by state law.
+
+Legal Basis:
+- Education Code Section 48900.8: Requires specific notification procedures and content for disciplinary actions
+
+Required Language:
+Must specify notification timelines, required content of disciplinary notices, methods of delivery, language translation requirements, and documentation requirements for all notifications.
+
+Recommended Placement: AR
+
+----------------------------------------
+

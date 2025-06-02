@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5145.6: Parent/Guardian Notifications
+Last Reviewed: 11/06/2024
+================================================================================
+
+Missing Specific Content Requirements for Annual Notification (Confidence: 90%)
+Missing from: BOTH
+Education Code 48980 requires notification of parents/guardians regarding specific rights and responsibilities across multiple areas including curriculum, health services, safety, discipline, and educational programs. Neither the BP nor missing AR specify the detailed content areas that must be included in the annual notification.
+
+Legal Basis:
+- Education Code 48980(a): The governing board of each school district shall notify the parent or guardian of a minor pupil regarding the rights or responsibilities of parents or guardians under sections including but not limited to: curriculum, health examinations, administration of medication, confidentiality of pupil records, dress codes, gang-related apparel, sexual harassment policy, nondiscrimination policy, rules on pupil discipline, notification of truancy, comprehensive sexual health education, and numerous other specified areas.
+
+Required Language:
+The annual notification shall include information regarding all rights and responsibilities specified in Education Code 48980, including but not limited to: curriculum content and materials, health examinations and immunizations, administration of medication, confidentiality of student records, dress codes, sexual harassment policies, nondiscrimination policies, student discipline procedures, truancy notifications, comprehensive sexual health education, and all other areas specifically enumerated in Ed Code 48980.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Timeline Requirements (Confidence: 85%)
+Missing from: BOTH
+While the policy mentions "beginning of each academic year," it lacks the specific timing requirements and deadlines for various notifications required under Education Code 48980-48985.
+
+Legal Basis:
+- Education Code 48980: At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify...
+
+Required Language:
+Annual notifications shall be provided at the beginning of the first semester or quarter of the regular school year. Specific timelines shall be established for distribution, translation, alternative format provision, and follow-up procedures to ensure compliance with statutory deadlines.
+
+Recommended Placement: AR
+
+----------------------------------------
+

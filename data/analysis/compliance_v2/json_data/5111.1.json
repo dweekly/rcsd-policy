@@ -1,0 +1,84 @@
+{
+  "code": "5111.1",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5111.1",
+    "title": "District Residency",
+    "type": "Policy",
+    "last_reviewed": "06/27/2018",
+    "file_path": "data/extracted/policies/5111.1.txt"
+  },
+  "regulation": {
+    "code": "5111.1",
+    "title": "District Residency",
+    "type": "Regulation",
+    "last_reviewed": "06/27/2018",
+    "file_path": "data/extracted/regulations/5111.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Military Family Transfer Provisions",
+        "description": "The regulation references military transfers in criterion #9 but fails to include the complete provisions for students whose military parent/guardian has departed California against their will. The regulation mentions this scenario in item #10 but criterion #10 is not actually listed in the \"Criteria for Residency\" section, creating a gap in coverage for military families.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48204.4",
+            "text": "A pupil complies with the residency requirements for school attendance in a school district if the pupil is any of the following: ... A pupil whose parent or legal guardian departed from the state against his or her will and the pupil seeks to return to the school district of previous enrollment."
+          }
+        ],
+        "required_language": "Add to \"Criteria for Residency\" section: \"10. The student's parent/guardian departed from the state against their will and the student seeks to return to the district of previous enrollment. (Education Code 48204.4)\"",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Notification Requirements for Investigation Procedures",
+        "description": "Education Code 48204.1 requires specific notification procedures when initiating residency investigations, including written notice to parents/guardians before beginning an investigation. Neither the policy nor regulation includes these mandatory notification requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48204.1(c)",
+            "text": "Before conducting an investigation pursuant to this section, the school district shall provide written notice to the parent or guardian of the pupil that includes all of the following: (1) A statement that the school district believes the pupil may not meet the residency requirements. (2) A summary of the evidence upon which this belief is based. (3) An opportunity for the parent or guardian to respond and provide evidence of residency."
+          }
+        ],
+        "required_language": "Before conducting a residency investigation, the Superintendent or designee shall provide written notice to the parent/guardian that includes: (1) A statement that the district believes the student may not meet residency requirements, (2) A summary of the evidence upon which this belief is based, and (3) An opportunity for the parent/guardian to respond and provide evidence of residency.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Complaint Process Rights",
+        "description": "Education Code 48204.1 requires districts to inform parents/guardians of their right to file a complaint with the California Department of Education if they believe the district violated residency investigation procedures. This notification requirement is missing from both documents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48204.1(f)",
+            "text": "A school district shall inform the parent or guardian of a pupil of the right to file a complaint with the department pursuant to the uniform complaint procedures if the parent or guardian believes that the school district has violated this section."
+          }
+        ],
+        "required_language": "The district shall inform parents/guardians of their right to file a complaint with the California Department of Education pursuant to the uniform complaint procedures if they believe the district has violated residency investigation requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Documentation Standards",
+        "description": "The regulation provides a good list of acceptable residency documentation but could be enhanced to align with best practices by specifying that documents should be current (typically within 30-60 days) and include additional acceptable forms of documentation commonly accepted by districts.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 432",
+            "text": "The governing board of each school district shall require that the parent or guardian of each pupil provide documentation of the pupil's residency within the attendance boundaries of the school district."
+          }
+        ],
+        "required_language": "Add language specifying that residency documentation should be current (typically within 60 days) and consider adding bank statements, medical records, or school enrollment records as additional acceptable forms of proof.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:18:53.161045+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "code": "4033",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4033",
+    "title": "Lactation Accommodation",
+    "type": "Policy",
+    "last_reviewed": "11/06/2024",
+    "file_path": "data/extracted/policies/4033.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for lactation accommodation, there is no Administrative Regulation to provide detailed implementation procedures. California Labor Code requires specific procedural elements that are typically housed in administrative regulations, including detailed request processes, timelines, and operational procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 1030-1034",
+            "text": "Requires employers to establish procedures for lactation accommodation requests and implementation"
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to establish detailed procedures for: request submission processes, timeline requirements, space designation and maintenance procedures, temporary accommodation protocols, and documentation requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Temporary Space Requirements",
+        "description": "The policy does not address requirements for temporary lactation spaces when permanent spaces are unavailable, which is required under California Labor Code.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 1031(c)",
+            "text": "\"If a lactation location is not available, the employer may use a temporary lactation location that meets the requirements of subdivision (b).\""
+          }
+        ],
+        "required_language": "When a permanent lactation space is not available, the district may provide a temporary lactation location that meets all the requirements specified for permanent lactation spaces.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Specific Timeline for Accommodation Provision",
+        "description": "The policy lacks the specific timeline requirement for providing lactation accommodations after an employee's request, as mandated by California Labor Code.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 1033",
+            "text": "\"An employer shall provide the lactation accommodation as soon as reasonably possible after the employee's request.\""
+          }
+        ],
+        "required_language": "The district shall provide the lactation accommodation as soon as reasonably possible after the employee's request.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Specific Denial Criteria",
+        "description": "While the policy mentions that accommodations may be denied in \"limited circumstances,\" it does not specify the exact criteria from Labor Code that would justify denial.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 1032",
+            "text": "Specifies that accommodations may only be denied if they would cause an undue hardship considering difficulty or expense relative to the employer's size, financial resources, nature, or structure of business."
+          }
+        ],
+        "required_language": "Lactation accommodations may only be denied if providing the accommodation would impose an undue hardship on the district when considered in relation to the difficulty or expense of the accommodation, relative to the size, financial resources, nature, or structure of the district's business.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Multi-User Space Scheduling",
+        "description": "The policy does not address procedures for scheduling when lactation spaces may be shared among multiple employees.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 1031",
+            "text": "Implies need for coordination when spaces are shared among multiple users"
+          }
+        ],
+        "required_language": "When lactation spaces are shared among multiple employees, the district shall establish scheduling procedures to ensure equitable access.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:32:45.471588+00:00"
+}

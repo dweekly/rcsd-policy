@@ -1,0 +1,63 @@
+{
+  "code": "2120",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "2120",
+    "title": "Superintendent Recruitment And Selection",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/2120.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for superintendent recruitment and selection, there is no corresponding Administrative Regulation to provide detailed implementation procedures. Education Code requires districts to have procedures for superintendent selection, and the policy references many processes that need detailed procedural guidance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35035",
+            "text": "The governing board of any school district may prescribe and enforce rules not inconsistent with law or with the rules prescribed by the State Board of Education, for its own government and the government of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to provide detailed procedures for implementing the superintendent recruitment and selection process, including specific timelines, roles and responsibilities, application procedures, screening criteria, interview protocols, reference check procedures, and community involvement processes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date and Lack of Regular Review Schedule",
+        "description": "The policy was last updated in 2009 and shows no evidence of regular review. Best practices and legal requirements for superintendent selection may have evolved since then, and the policy should establish a regular review cycle.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "On and after January 1, 1976, the governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "This policy shall be reviewed every three years or as needed to ensure compliance with current law and best practices in superintendent recruitment and selection.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Incomplete Reference to Equal Opportunity Requirements",
+        "description": "While the policy mentions \"equal opportunity\" obligations, it lacks specific reference to non-discrimination requirements and fair employment practices that must be followed in superintendent recruitment.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12900 et seq. (Fair Employment and Housing Act)",
+            "text": "It shall be an unlawful employment practice for an employer to refuse to hire or employ a person or to refuse to select a person for a training program leading to employment because of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, or military and veteran status."
+          }
+        ],
+        "required_language": "The recruitment and selection process shall comply with all applicable federal and state laws regarding equal employment opportunity and non-discrimination, including but not limited to the Fair Employment and Housing Act.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:23:36.629557+00:00"
+}

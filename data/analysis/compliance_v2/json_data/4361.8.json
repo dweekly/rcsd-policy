@@ -1,0 +1,78 @@
+{
+  "code": "4361.8",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4361.8",
+    "title": "Family Care And Medical Leave",
+    "type": "Regulation",
+    "last_reviewed": "05/19/2021",
+    "file_path": "data/extracted/regulations/4361.8.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) document for Family Care and Medical Leave is completely missing. California school districts are required to have both Board Policy and Administrative Regulation documents to properly address family and medical leave requirements. The Board Policy should contain the district's commitment, employee rights, and high-level directives, while the Administrative Regulation contains implementation procedures.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12945.2",
+            "text": "Requires employers to provide family care and medical leave and establishes employee rights that should be articulated in board policy"
+          }
+        ],
+        "required_language": "The Board recognizes the importance of allowing employees to take leave for family care and medical reasons. The district shall provide eligible employees with family care and medical leave in accordance with the Family and Medical Leave Act (FMLA), California Family Rights Act (CFRA), and Pregnancy Disability Leave (PDL) laws. The district shall not interfere with, restrain, deny, or retaliate against employees for exercising their rights under these laws.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Military Family Leave Provisions",
+        "description": "While the regulation mentions military caregiver leave briefly, it lacks comprehensive coverage of military family leave entitlements, including the extended 26-week leave period for caring for covered servicemembers and specific definitions related to military family leave.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "29 USC 2612(a)(3) and Government Code 12945.2",
+            "text": "Provides for up to 26 workweeks of leave during a single 12-month period to care for a covered servicemember with a serious injury or illness"
+          }
+        ],
+        "required_language": "Military Caregiver Leave: An eligible employee shall be entitled to a total of 26 work weeks of leave during a single 12-month period to care for a covered servicemember with a serious injury or illness if the covered servicemember is the employee's spouse, son, daughter, parent, or next of kin.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Incomplete Notice Requirements to Employees",
+        "description": "The regulation lacks specific requirements for the district to provide written notice to employees about their FMLA/CFRA rights, including posting requirements and individual notice obligations when leave is designated.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "29 CFR 825.300 and 2 CCR 11091",
+            "text": "Requires employers to provide specific written notices to employees regarding their FMLA/CFRA rights and responsibilities"
+          }
+        ],
+        "required_language": "The district shall provide written notice to employees of their rights and responsibilities under FMLA/CFRA, including posting general notice in conspicuous locations and providing individual written notice when leave is requested or designated.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Fitness for Duty Examination Details",
+        "description": "While the regulation mentions certification for return to work, it lacks detailed procedures for fitness-for-duty examinations and the district's right to require such examinations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "29 CFR 825.312",
+            "text": "Allows employers to require fitness-for-duty certification and examination as a condition of restoration to employment"
+          }
+        ],
+        "required_language": "The district may require an employee returning from FMLA/CFRA leave to submit to a fitness-for-duty examination if the district has a uniformly applied policy requiring such examinations for employees in the same position returning from similar leave.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:17:56.533647+00:00"
+}

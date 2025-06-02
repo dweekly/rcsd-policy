@@ -1,0 +1,93 @@
+{
+  "code": "3543",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3543",
+    "title": "Transportation Safety And Emergencies",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3543.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The district has only an Administrative Regulation (AR 3543) but no corresponding Board Policy (BP 3543). California school districts are required to have board policies that establish the governance framework and direction for transportation safety. The AR contains detailed procedures but lacks the policy-level direction, authority delegation, and board oversight requirements that should be established in a BP.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "A Board Policy should be created that includes: (1) Board commitment to student transportation safety; (2) Delegation of authority to Superintendent for transportation safety implementation; (3) Requirements for safety plans, training, and emergency procedures; (4) Board oversight and reporting requirements; (5) Policy review and update procedures.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Emergency Response Procedures",
+        "description": "While the regulation covers safety equipment and general safety procedures, it lacks specific emergency response procedures for various transportation emergencies (accidents, medical emergencies, severe weather, mechanical breakdowns, etc.). California requires districts to have comprehensive emergency response procedures for student transportation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282",
+            "text": "Each school district and county office of education is responsible for the overall development of all comprehensive school safety plans for its schools operating kindergarten or any of grades 1 to 12, inclusive."
+          }
+        ],
+        "required_language": "Procedures for responding to transportation emergencies including: (1) Accident response procedures; (2) Medical emergency protocols; (3) Severe weather response; (4) Mechanical breakdown procedures; (5) Communication protocols with emergency services; (6) Parent notification procedures; (7) Student accountability during emergencies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Driver Training and Certification Requirements",
+        "description": "The regulation mentions informing drivers about passenger restraint procedures but lacks comprehensive driver training, certification, and ongoing professional development requirements mandated by California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 39834",
+            "text": "No person shall drive a school bus transporting pupils unless he or she holds a valid school bus driver's certificate issued by the Department of the California Highway Patrol."
+          }
+        ],
+        "required_language": "Requirements for: (1) Valid school bus driver certification; (2) Initial driver training programs; (3) Annual refresher training; (4) Emergency response training; (5) Student management training; (6) Documentation of training completion; (7) Procedures for driver performance evaluation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Vehicle Maintenance and Inspection Requirements",
+        "description": "The regulation addresses safety equipment but lacks comprehensive vehicle maintenance, inspection, and safety compliance procedures required by California law to ensure ongoing vehicle safety.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Vehicle Code Section 34501.12",
+            "text": "Every school bus shall be inspected at least once every 45 days by a qualified person to determine that it is in safe operating condition."
+          }
+        ],
+        "required_language": "Procedures for: (1) Regular 45-day safety inspections; (2) Daily pre-trip inspections; (3) Preventive maintenance schedules; (4) Documentation of inspections and maintenance; (5) Procedures for removing unsafe vehicles from service; (6) Compliance with CHP terminal inspections.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Regulation Date",
+        "description": "The regulation was last updated in 2009, which is over 14 years ago. Transportation safety laws and best practices have evolved significantly, and regular policy review is recommended to ensure current compliance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "In enacting this section, it is the intent of the Legislature that school districts have the authority to pursue innovative educational programs."
+          }
+        ],
+        "required_language": "Establish regular review cycle (recommended every 3-5 years) to ensure policies and regulations remain current with state law and best practices.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:31:07.387004+00:00"
+}

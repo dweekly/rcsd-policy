@@ -1,0 +1,99 @@
+{
+  "code": "6153",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6153",
+    "title": "School-Sponsored Trips",
+    "type": "Policy",
+    "last_reviewed": "12/11/2024",
+    "file_path": "data/extracted/policies/6153.txt"
+  },
+  "regulation": {
+    "code": "6153",
+    "title": "School-Sponsored Trips",
+    "type": "Regulation",
+    "last_reviewed": "12/11/2024",
+    "file_path": "data/extracted/regulations/6153.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Required Transportation Safety Provisions",
+        "description": "California Education Code requires specific transportation safety measures for school-sponsored trips, including driver qualifications, vehicle safety requirements, and transportation protocols. These critical safety requirements are completely absent from both the policy and regulation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 39831.5",
+            "text": "The governing board of a school district may provide for the transportation of pupils to and from school-sponsored activities by means of school buses or other motor vehicles owned or operated by the district, subject to regulations adopted by the State Board of Education."
+          }
+        ],
+        "required_language": "Transportation for school-sponsored trips shall comply with all applicable state and federal safety requirements. Drivers must possess appropriate licenses and certifications. All vehicles used must meet safety inspection requirements and carry appropriate insurance coverage.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Emergency Procedures and Communication Plan",
+        "description": "Neither document establishes required emergency procedures, communication protocols with parents/district during emergencies, or emergency contact requirements that are essential for student safety during trips.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32020",
+            "text": "Each school district shall establish written procedures to ensure the safety of pupils and staff during emergencies, disasters, and threats of violence."
+          }
+        ],
+        "required_language": "Emergency procedures shall be established for all school-sponsored trips, including communication protocols with the district and parents/guardians, emergency contact information requirements, and procedures for medical emergencies, natural disasters, and other crisis situations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Chaperone Background Check Requirements",
+        "description": "The documents do not address mandatory background check requirements for chaperones and volunteers participating in school-sponsored trips, which is required under California law for individuals having contact with students.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45125.1",
+            "text": "A person shall not be employed or serve as a volunteer aide in a position in which he or she would have supervisory or disciplinary power over pupils or would have, or would likely have, access to pupils outside of the direct supervision of a certificated employee, unless a criminal background investigation has been conducted."
+          }
+        ],
+        "required_language": "All chaperones and volunteers participating in school-sponsored trips must complete required background checks and clearances as mandated by Education Code Section 45125.1 prior to participation in any trip involving student supervision.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Documentation Requirements",
+        "description": "The regulation lacks specific requirements for maintaining trip documentation, including participant lists, medical information, emergency contacts, and trip itineraries that should be maintained for safety and liability purposes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35330",
+            "text": "The governing board of any school district may authorize field trips and excursions in connection with courses of instruction or school-related social, educational, cultural, athletic, or other extracurricular activities."
+          }
+        ],
+        "required_language": "Documentation for each trip shall include: complete participant roster, emergency contact information, medical information and restrictions, detailed itinerary, transportation arrangements, and supervision assignments. Records shall be maintained according to district retention policies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Student Conduct and Disciplinary Procedures",
+        "description": "While the regulation states students are subject to district rules, it lacks specific procedures for addressing student misconduct during trips, including consequences and procedures for early return or removal from activities.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35291",
+            "text": "The governing board of any school district may establish rules and regulations as it may deem necessary for the government and discipline of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "Specific disciplinary procedures for student misconduct during trips shall be established, including consequences, notification procedures for parents/guardians, and protocols for early return or removal from trip activities when necessary for safety or disciplinary reasons.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:32:25.500635+00:00"
+}

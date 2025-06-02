@@ -1,0 +1,63 @@
+{
+  "code": "6145.8",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6145.8",
+    "title": "Assemblies And Special Events",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6145.8.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for assemblies and special events, there is no corresponding Administrative Regulation to provide specific implementation procedures. California school districts typically require detailed procedures for speaker approval processes, scheduling protocols, content review standards, and disciplinary procedures referenced in the policy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to establish specific procedures for: (1) Speaker approval and vetting process; (2) Content review standards and timeline; (3) Scheduling procedures that comply with instructional time requirements; (4) Documentation requirements for speaker agreements; (5) Disciplinary procedures for disruptive students; (6) Emergency procedures during assemblies; (7) Roles and responsibilities of staff during events.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2010, which is over 13 years ago. While not legally mandated, regular policy review is a best practice to ensure continued compliance with evolving legal requirements and educational standards.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "In enacting any rule, regulation, or policy, the governing board of a school district shall follow established policies and procedures."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and best practices. Consider adding review cycle language such as \"This policy shall be reviewed every three years or as needed.\"",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to First Amendment Considerations",
+        "description": "While the policy addresses content restrictions, it lacks explicit reference to First Amendment protections and the balance between educational appropriateness and free speech rights, which is particularly important for public school assemblies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48907",
+            "text": "Students of the public schools shall have the right to exercise freedom of speech and of the press including, but not limited to, the use of bulletin boards, the distribution of printed materials or petitions, the wearing of buttons, badges, and other insignia, and the right of expression in official publications."
+          }
+        ],
+        "required_language": "Add language acknowledging that content restrictions will be applied in a manner consistent with First Amendment protections and that any limitations on speech will be content-neutral and based on legitimate educational concerns.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:31:53.393061+00:00"
+}

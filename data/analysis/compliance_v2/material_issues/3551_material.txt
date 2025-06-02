@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3551: Food Service Operations/Cafeteria Fund
+Last Reviewed: 04/14/2021
+================================================================================
+
+Missing Food Service Director Qualifications Requirements (Confidence: 85%)
+Missing from: BOTH
+While BP 3551 states that food service directors must possess qualifications required by 7 CFR 210.30 and CDE standards, neither the policy nor regulation specifies what these qualifications are or how compliance will be ensured. Federal regulations require specific educational, training, and experience requirements for food service directors.
+
+Legal Basis:
+- 7 CFR 210.30(a): Each school food authority shall employ a food service director who meets minimum qualifications established by the State agency. At a minimum, the food service director shall have education, training, or experience in food service management and business management.
+
+Required Language:
+The food service director shall possess at minimum: (1) A bachelor's degree, or (2) An associate's degree or equivalent coursework, plus school food service experience, or (3) A high school diploma or equivalent, plus school food service experience, plus additional training as specified by the California Department of Education. The food service director must also complete annual continuing education/training hours as required by state and federal regulations.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Professional Standards Training Requirements (Confidence: 90%)
+Missing from: BOTH
+While BP 3551 mentions annual training by CDE, neither document specifies the detailed professional standards training requirements mandated by federal law for food service personnel, including specific hour requirements and training topics.
+
+Legal Basis:
+- 42 USC 1776(a)(1): Not later than July 1, 1999, the Secretary shall establish professional standards for school food service personnel... Such standards shall include minimum training, education, and certification requirements for food service directors and managers.
+
+Required Language:
+Food service directors must complete a minimum of 12 hours of annual continuing education/training. Food service managers must complete a minimum of 10 hours of annual continuing education/training. Training must cover food safety, nutrition, and program administration topics as specified by USDA and CDE requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Wellness Policy Integration Requirements (Confidence: 95%)
+Missing from: BOTH
+Neither the policy nor regulation addresses the requirement to ensure food service operations align with the district's wellness policy, particularly regarding competitive food standards and nutrition education integration.
+
+Legal Basis:
+- 42 USC 1758b: Each local educational agency participating in a program authorized by this Act or the Child Nutrition Act of 1966 shall establish a local school wellness policy... The local wellness policy shall include... guidelines for reimbursable school meals that are not less restrictive than regulations and guidance issued by the Secretary.
+
+Required Language:
+Food service operations shall comply with and support the district's wellness policy, including nutrition standards for all foods and beverages sold or served on campus during the school day. The Superintendent or designee shall ensure coordination between food service operations and wellness policy implementation.
+
+Recommended Placement: BP
+
+----------------------------------------
+

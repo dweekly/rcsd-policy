@@ -1,0 +1,99 @@
+{
+  "code": "5144",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5144",
+    "title": "Discipline",
+    "type": "Policy",
+    "last_reviewed": "05/23/2018",
+    "file_path": "data/extracted/policies/5144.txt"
+  },
+  "regulation": {
+    "code": "5144",
+    "title": "Discipline",
+    "type": "Regulation",
+    "last_reviewed": "05/23/2018",
+    "file_path": "data/extracted/regulations/5144.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Mandatory Reporting Requirements for School Personnel",
+        "description": "California law requires that school personnel report suspected child abuse and neglect. While this may be covered in other policies, discipline policies should reference these mandatory reporting obligations since disciplinary situations may reveal signs of abuse or neglect.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11166",
+            "text": "A mandated reporter who has knowledge of or observes a child whom the mandated reporter knows or reasonably suspects has been the victim of child abuse or neglect shall report the known or suspected instance of child abuse or neglect to a child protective agency immediately or as soon as practically possible by telephone and shall prepare and send a written report thereof within 36 hours of receiving the information concerning the incident."
+          }
+        ],
+        "required_language": "School personnel shall comply with mandatory reporting requirements under Penal Code 11164-11174.3 when disciplinary situations reveal suspected child abuse or neglect. Staff shall immediately report suspected abuse to appropriate authorities and follow established reporting procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Due Process Requirements for Informal Suspensions",
+        "description": "The regulation lacks specific due process procedures that must be followed before any suspension, including informal conferences with students and notification requirements. These are constitutionally required procedural safeguards.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48911",
+            "text": "The principal of the school, the principal's designee, or the superintendent of schools shall immediately suspend any pupil found at the school or at a school activity to be under the influence of, or to be unlawfully possessing or using or to be unlawfully under the influence of, any controlled substance... However, a pupil may not be suspended unless the principal or the principal's designee has granted the pupil an informal conference."
+          }
+        ],
+        "required_language": "Before any suspension, the student shall be granted an informal conference with the principal or designee. During this conference, the student shall be informed of the charges and given an opportunity to present their version of the incident. In emergency situations where the student's presence poses a continuing danger, the conference may be held immediately after the suspension.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Specific Grounds for Suspension and Expulsion",
+        "description": "Neither document lists the specific acts for which students may be suspended or expelled as required by Education Code 48900. While the policy references creating a \"discipline matrix,\" it doesn't include the statutory grounds.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48900",
+            "text": "A pupil shall not be suspended from school or recommended for expulsion, unless the superintendent or the principal of the school in which the pupil is enrolled determines that the pupil has committed an act as defined pursuant to any of subdivisions (a) to (r), inclusive."
+          }
+        ],
+        "required_language": "Students may be suspended or recommended for expulsion only for acts specified in Education Code 48900, including but not limited to: (a) caused, attempted to cause, or threatened physical injury; (b) possessed, sold, or furnished weapons; (c) unlawfully possessed, used, sold, or furnished controlled substances; (d) unlawfully offered, arranged, or negotiated to sell controlled substances; (e) committed or attempted robbery or extortion; and other acts as specified in Education Code 48900.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Limitations on Suspension Length and Procedures",
+        "description": "The regulation does not specify the maximum length of suspensions or the procedures for extended suspensions, which are required by state law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48911",
+            "text": "Except as provided in Section 48912, no pupil shall be suspended for more than five consecutive school days... A pupil suspended for more than three school days shall be provided the opportunity for a conference."
+          }
+        ],
+        "required_language": "No student shall be suspended for more than five consecutive school days unless the suspension is extended pending expulsion proceedings. Students suspended for more than three school days shall be provided the opportunity for a conference with designated personnel to determine if the suspension should be shortened or other disciplinary alternatives implemented.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Uniform Complaint Procedures",
+        "description": "The policy should reference the availability of uniform complaint procedures for discrimination-related disciplinary issues, though this may be adequately covered in the district's uniform complaint policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 4610",
+            "text": "Each local educational agency shall adopt policies and procedures for the investigation and resolution of complaints alleging discrimination, harassment, intimidation, or bullying based on actual or perceived characteristics."
+          }
+        ],
+        "required_language": "Complaints regarding discriminatory disciplinary practices may be filed through the district's Uniform Complaint Procedures as outlined in Board Policy 1312.3.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:26:44.824834+00:00"
+}

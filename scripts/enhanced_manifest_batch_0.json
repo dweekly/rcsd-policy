@@ -1,0 +1,82 @@
+{
+  "batch_number": 0,
+  "generated": "2025-06-01T21:55:20.116148+00:00",
+  "enhanced_commands": [
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1031&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1031 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "1031",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1031_full.json",
+      "context": {
+        "likely_code": "LAB",
+        "description": "Lactation Accommodation Requirements",
+        "note": "This section is likely LAB 1031, not EDC 1031"
+      },
+      "already_cached_as": [
+        "LAB"
+      ]
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1032&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1032 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "1032",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1032_full.json",
+      "context": {
+        "likely_code": "LAB",
+        "description": "Lactation Accommodation - Serious Disruption Exception",
+        "note": "This section is likely LAB 1032, not EDC 1032"
+      },
+      "already_cached_as": [
+        "LAB"
+      ]
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1033&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1033 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "1033",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1033_full.json",
+      "context": {
+        "likely_code": "LAB",
+        "description": "Lactation Accommodation - Enforcement and Penalties",
+        "note": "This section is likely LAB 1033, not EDC 1033"
+      },
+      "already_cached_as": [
+        "LAB"
+      ]
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10525&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 10525 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "10525",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_10525_full.json",
+      "context": {
+        "likely_code": "EDC",
+        "description": "Unknown - verify actual code",
+        "note": "Could be Education Code (EDC) or Government Code (GOV)"
+      },
+      "already_cached_as": []
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1090&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1090 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "1090",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1090_full.json",
+      "context": {
+        "likely_code": "EDC",
+        "description": "Unknown - verify actual code",
+        "note": "Could be Labor Code (LAB) if about employment"
+      },
+      "already_cached_as": []
+    }
+  ]
+}

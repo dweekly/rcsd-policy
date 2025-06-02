@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=45240&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 45240 regarding Merit System Requirements. Include all subdivisions, requirements, and the effective date.",
+    "section": "45240",
+    "law_code": "EDC",
+    "description": "Merit System Requirements"
+  },
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=45122&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 45122 regarding Physical Examination Requirements. Include all subdivisions, requirements, and the effective date.",
+    "section": "45122",
+    "law_code": "EDC",
+    "description": "Physical Examination Requirements"
+  },
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=45113&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 45113 regarding Probationary Period Requirements. Include all subdivisions, requirements, and the effective date.",
+    "section": "45113",
+    "law_code": "EDC",
+    "description": "Probationary Period Requirements"
+  },
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=20113&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 20113 regarding Emergency Purchase Procedures. Include all subdivisions, requirements, and the effective date.",
+    "section": "20113",
+    "law_code": "EDC",
+    "description": "Emergency Purchase Procedures"
+  },
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=49410.5&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 49410.5 regarding Asbestos Management Requirements. Include all subdivisions, requirements, and the effective date.",
+    "section": "49410.5",
+    "law_code": "EDC",
+    "description": "Asbestos Management Requirements"
+  },
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17608&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 17608 regarding Indoor Air Quality Requirements. Include all subdivisions, requirements, and the effective date.",
+    "section": "17608",
+    "law_code": "EDC",
+    "description": "Indoor Air Quality Requirements"
+  },
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13181&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 13181 regarding Integrated Pest Management. Include all subdivisions, requirements, and the effective date.",
+    "section": "13181",
+    "law_code": "EDC",
+    "description": "Integrated Pest Management"
+  },
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32288&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 32288 regarding School Safety Plan Review Requirements. Include all subdivisions, requirements, and the effective date.",
+    "section": "32288",
+    "law_code": "EDC",
+    "description": "School Safety Plan Review Requirements"
+  },
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32281&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 32281 regarding School Safety Planning Committee. Include all subdivisions, requirements, and the effective date.",
+    "section": "32281",
+    "law_code": "EDC",
+    "description": "School Safety Planning Committee"
+  },
+  {
+    "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=56001&lawCode=EDC",
+    "prompt": "Extract the complete text of EDC section 56001 regarding Special Education Intent. Include all subdivisions, requirements, and the effective date.",
+    "section": "56001",
+    "law_code": "EDC",
+    "description": "Special Education Intent"
+  }
+]

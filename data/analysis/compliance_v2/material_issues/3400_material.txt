@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3400: Management Of District Assets/Accounts
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Annual Financial Audit Requirements (Confidence: 85%)
+Missing from: BOTH
+California school districts are required to conduct annual independent financial audits and establish procedures for audit oversight. Neither the policy nor regulation addresses the mandatory annual audit process, audit committee responsibilities, or procedures for responding to audit findings.
+
+Legal Basis:
+- Education Code Section 41020: The governing board of each school district shall provide for an annual audit of the financial and performance of all funds and accounts of the district to be made by a certified public accountant or public accountant.
+
+Required Language:
+The district shall conduct an annual independent financial audit by a certified public accountant. The Board shall establish procedures for audit oversight, review of audit findings, and implementation of corrective actions for any deficiencies identified.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Investment Policy Requirements (Confidence: 90%)
+Missing from: BOTH
+California school districts must establish comprehensive investment policies governing the investment of district funds. While the regulation mentions "investment activities" in the fraud section, neither document contains the required investment policy framework, authorized investments, or investment oversight procedures.
+
+Legal Basis:
+- Government Code Section 53646: The legislative body of a local agency may invest funds that are not required for the immediate necessities of the local agency in accordance with an investment policy adopted by the legislative body.
+
+Required Language:
+The Board shall adopt an investment policy governing the investment of district funds, specifying authorized investments, risk management procedures, and reporting requirements. All investments shall comply with Government Code requirements for local agency investments.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Procurement and Contracting Controls (Confidence: 80%)
+Missing from: BOTH
+Asset management policies must address procurement controls and contracting procedures to ensure proper stewardship of public funds. Neither document establishes the required framework for competitive bidding, vendor selection, or contract approval processes that are essential for asset management compliance.
+
+Legal Basis:
+- Public Contract Code Section 20111: Except as otherwise provided, all contracts for supplies, materials, or equipment shall be let to the lowest responsible bidder meeting specifications after competitive bidding.
+
+Required Language:
+The district shall establish procurement procedures ensuring competitive bidding for purchases exceeding statutory thresholds, vendor qualification processes, and appropriate authorization levels for contract approval to protect district assets.
+
+Recommended Placement: AR
+
+----------------------------------------
+

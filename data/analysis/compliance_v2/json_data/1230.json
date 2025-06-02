@@ -1,0 +1,84 @@
+{
+  "code": "1230",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "1230",
+    "title": "School-Connected Organizations",
+    "type": "Policy",
+    "last_reviewed": "06/15/2022",
+    "file_path": "data/extracted/policies/1230.txt"
+  },
+  "regulation": {
+    "code": "1230",
+    "title": "School-Connected Organizations",
+    "type": "Regulation",
+    "last_reviewed": "06/15/2022",
+    "file_path": "data/extracted/regulations/1230.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Prohibition on Political Activities",
+        "description": "California law requires that school-connected organizations be prohibited from engaging in political activities on school premises or using school resources. This is a fundamental requirement to maintain the separation between educational activities and political advocacy, and to protect the district's tax-exempt status.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 7054",
+            "text": "No school district funds, services, supplies, or equipment shall be used for the purpose of urging the support or defeat of any ballot measure or candidate, including, but not limited to, any candidate for election to the governing board of the district."
+          }
+        ],
+        "required_language": "School-connected organizations shall not engage in political activities on school premises or use school resources for political purposes, including urging support or defeat of any ballot measure or candidate for public office.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Conflict of Interest Requirements",
+        "description": "The regulation requires disclosure of officers but lacks specific conflict of interest provisions required when school-connected organizations interact with district employees or board members. This is essential to prevent improper influence and ensure transparency in decision-making.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 1090",
+            "text": "Members of the Legislature, state, county, district, judicial district, and city officers or employees shall not be financially interested in any contract made by them in their official capacity."
+          }
+        ],
+        "required_language": "School-connected organization officers and members must disclose any potential conflicts of interest involving district employees, board members, or district contracts. Organizations shall not enter into contracts or arrangements that would create conflicts of interest for district personnel.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Incomplete Nondiscrimination Requirements",
+        "description": "While the AR mentions an agreement not to engage in \"unlawful discrimination,\" it lacks the comprehensive nondiscrimination language required by California law, including specific protected categories and compliance with state civil rights laws.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 220",
+            "text": "No person shall be subjected to discrimination on the basis of disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes in Section 422.55 of the Penal Code in any program or activity conducted by an educational institution that receives, or benefits from, state financial assistance or enrolls pupils who receive state student financial aid."
+          }
+        ],
+        "required_language": "School-connected organizations shall not discriminate against any person on the basis of actual or perceived disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic protected by law in their membership, activities, or services.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Record Retention Requirements",
+        "description": "While the AR mentions that organizations are responsible for \"retention of records,\" it does not specify the minimum retention periods required by law for financial and organizational records, which could lead to compliance issues during audits.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 34090",
+            "text": "Legislative bodies shall maintain records in accordance with retention schedules approved by the governing body and consistent with applicable law."
+          }
+        ],
+        "required_language": "School-connected organizations shall maintain financial records, meeting minutes, and organizational documents for a minimum of seven years or as otherwise required by law.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:21:10.751479+00:00"
+}

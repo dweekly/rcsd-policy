@@ -1,0 +1,50 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5142: Safety
+Last Reviewed: 05/24/2023
+================================================================================
+
+Missing Student ID Card Safety Information Requirements (Confidence: 95%)
+Missing from: BOTH
+The Board Policy mentions that student ID cards for grades 7-8 shall include safety information including National Suicide Prevention Lifeline and National Domestic Violence Hotline, but the policy is incomplete and cuts off mid-sentence. The Administrative Regulation contains no implementation procedures for this requirement. This is a specific statutory mandate that must be fully addressed.
+
+Legal Basis:
+- Education Code Section 215.5: Pupil identification cards issued by public and private schools serving pupils in any of grades 7 to 12, inclusive, shall have printed on either side the telephone number for a national suicide prevention hotline, and may also have printed on either side the telephone numbers for one or more local suicide prevention hotlines or the Crisis Text Line.
+- Education Code Section 217: Pupil identification cards issued by public and private schools serving pupils in any of grades 7 to 12, inclusive, shall have printed on either side the telephone number for the National Domestic Violence Hotline.
+
+Required Language:
+Complete the policy language and add AR procedures: Student identification cards for grades 7-8 shall have printed on them: (1) The National Suicide Prevention Lifeline telephone number (988) and may include Crisis Text Line and/or local suicide prevention hotline numbers; (2) The National Domestic Violence Hotline telephone number (1-800-799-7233). The AR should specify implementation procedures including card design, printing requirements, and distribution processes.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Comprehensive Emergency Procedures and Drills (Confidence: 90%)
+Missing from: BOTH
+While the AR mentions that principals shall establish emergency procedures, there are no specific requirements for mandatory emergency drills (fire, earthquake, lockdown) or comprehensive emergency response plans as required by state law. This is a critical safety compliance gap.
+
+Legal Basis:
+- Education Code Section 32001: The governing board of every school district shall cause all buildings and grounds under its jurisdiction to be inspected for safety by July 1 of each year by persons competent to detect hazardous or unsafe conditions and shall cause such conditions to be corrected immediately or shall close any building in which such conditions exist and which cannot be immediately corrected.
+- Education Code Section 35295-35297: Requires school districts to develop comprehensive school safety plans and conduct emergency drills including fire drills and earthquake emergency procedure drills.
+
+Required Language:
+Add to AR: Emergency drill requirements including monthly fire drills, earthquake drills at least once per quarter, and lockdown drills as appropriate. Specify procedures for comprehensive school safety plan development, annual safety inspections, and emergency response protocols.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Mandated Reporter Training Requirements (Confidence: 85%)
+Missing from: BOTH
+While the AR mentions training for staff on reporting potential homicidal acts, there is no mention of mandated reporter training requirements for child abuse reporting, which is required for all school personnel.
+
+Legal Basis:
+- Penal Code Section 11165.7: Training regarding the mandated reporting requirements shall be provided to persons who are mandated reporters as a condition of employment.
+- Education Code Section 44691: Requires training for school personnel on child abuse identification and reporting.
+
+Required Language:
+Add to AR: All school personnel shall receive mandated reporter training regarding child abuse identification and reporting requirements as a condition of employment and periodically thereafter. Training shall be documented and records maintained.
+
+Recommended Placement: AR
+
+----------------------------------------
+

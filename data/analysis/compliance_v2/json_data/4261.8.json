@@ -1,0 +1,93 @@
+{
+  "code": "4261.8",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4261.8",
+    "title": "Family Care And Medical Leave",
+    "type": "Regulation",
+    "last_reviewed": "05/19/2021",
+    "file_path": "data/extracted/regulations/4261.8.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) 4261.8 document is completely missing. California school districts are required to have both Board Policy and Administrative Regulation documents to properly address family care and medical leave requirements. The Board Policy should contain the district's commitment, employee rights, and high-level directives, while the Administrative Regulation contains implementation procedures.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 12945, 12945.2",
+            "text": "Requires employers to provide family care and medical leave and prohibits interference, restraint, denial, discharge, discrimination, or retaliation against employees exercising these rights."
+          }
+        ],
+        "required_language": "The Board Policy should include: (1) District commitment to comply with FMLA, CFRA, and PDL requirements; (2) Statement of employee rights to leave without retaliation; (3) Prohibition against interference or discrimination; (4) Authorization for Superintendent to develop implementing procedures; (5) Reference to applicable state and federal laws.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing New Parent Leave Provisions",
+        "description": "Neither document addresses the California New Parent Leave Act (NPLA) requirements that became effective January 1, 2018. This law provides job-protected leave for employees of employers with 20-49 employees for bonding with a new child, which may apply to smaller school districts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 12945.6",
+            "text": "Employers with 20 to 49 employees must provide up to 12 weeks of unpaid parental leave for bonding with a new child within one year of birth, adoption, or foster care placement."
+          }
+        ],
+        "required_language": "If the district employs 20-49 employees, provisions must be added addressing New Parent Leave Act requirements, including eligibility criteria, leave duration, job protection, and benefit continuation requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Kin Care Provisions",
+        "description": "The regulation does not address California's Kin Care law, which allows employees to use accrued sick leave to care for family members. This is a separate requirement from CFRA that applies to all California employers.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code 233",
+            "text": "Employees may use accrued sick leave to attend to illness of child, parent, spouse, registered domestic partner, grandparent, grandchild, or sibling."
+          }
+        ],
+        "required_language": "Provisions allowing employees to use accrued sick leave for family care purposes, including definition of eligible family members (child, parent, spouse, registered domestic partner, grandparent, grandchild, sibling) and procedures for requesting such leave.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Military Family Leave Provisions",
+        "description": "While the regulation mentions qualifying exigency leave for military families, it lacks detailed procedures and definitions required under federal law, such as specific qualifying exigencies and documentation requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "29 CFR 825.126",
+            "text": "Federal regulations require specific definitions of qualifying exigencies including short-notice deployment, military events, childcare and school activities, financial and legal arrangements, counseling, rest and recuperation, and post-deployment activities."
+          }
+        ],
+        "required_language": "Detailed definitions of qualifying exigencies, documentation requirements for military family leave, and specific procedures for requesting and approving such leave.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Bereavement Leave Cross-Reference",
+        "description": "The regulation does not reference California's bereavement leave requirements that became effective January 1, 2023, which may interact with or supplement CFRA leave for family care purposes.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code 2066.1",
+            "text": "Employers with 5 or more employees must provide up to 5 days of bereavement leave for death of family member, which may run concurrently with CFRA leave in some circumstances."
+          }
+        ],
+        "required_language": "Cross-reference to bereavement leave provisions and clarification of how bereavement leave interacts with CFRA leave when both may apply to the same situation.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:16:12.795067+00:00"
+}

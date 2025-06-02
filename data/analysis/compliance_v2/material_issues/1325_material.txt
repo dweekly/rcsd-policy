@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1325: Advertising And Promotion
+Last Reviewed: 09/11/2013
+================================================================================
+
+Missing Commercial Speech Constitutional Protections (Confidence: 85%)
+Missing from: BOTH
+The policy lacks acknowledgment that commercial speech receives First Amendment protection and that content-based restrictions must be reasonable and viewpoint-neutral. This is required when districts regulate commercial advertising and promotional materials.
+
+Legal Basis:
+- Education Code Section 35160: The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established.
+
+Required Language:
+The district recognizes that commercial speech receives constitutional protection and that any content-based restrictions on advertising and promotional materials must be reasonable, viewpoint-neutral, and serve legitimate educational interests.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Appeal Process for Denied Materials (Confidence: 90%)
+Missing from: BOTH
+California law requires districts to provide due process when restricting speech or promotional materials. The policy lacks any appeal mechanism for organizations whose materials are rejected.
+
+Legal Basis:
+- Education Code Section 48907: Students of the public schools shall have the right to exercise freedom of speech and of the press... subject to reasonable time, place, and manner restrictions.
+
+Required Language:
+Organizations whose promotional materials are denied may appeal the decision to the Superintendent within 10 business days. The Superintendent's decision may be appealed to the Board of Trustees within 10 business days of the Superintendent's decision.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Insufficient Public Forum Analysis (Confidence: 80%)
+Missing from: BOTH
+The policy does not clearly define what type of forum (if any) the district's communication channels represent, which is necessary to determine the appropriate level of First Amendment protection and permissible restrictions.
+
+Legal Basis:
+- Education Code Section 35160.5: It is the intent of the Legislature that school districts not restrict the use of school facilities for specified purposes based on religious, political, or other discriminatory reasons.
+
+Required Language:
+District communication channels for promotional materials constitute a limited public forum. Restrictions must be reasonable in light of the purpose served by the forum and must be applied in a viewpoint-neutral manner.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1114: District-Sponsored Social Media
+Last Reviewed: 02/15/2017
+================================================================================
+
+Missing Public Records Act Disclosure Requirements (Confidence: 85%)
+Missing from: BOTH
+While the policy mentions that information may be considered a public record subject to disclosure under the Public Records Act, neither document provides the required specific disclosure language or procedures for handling public records requests for social media content, which is mandated for government entities.
+
+Legal Basis:
+- Government Code Section 6250-6270 (California Public Records Act): Public records are open to inspection at all times during the office hours of the state or local agency and every person has a right to inspect any public record, except as hereafter provided.
+
+Required Language:
+All content posted on official district social media platforms may constitute public records subject to disclosure under the California Public Records Act. The district shall establish procedures for responding to public records requests for social media content, including preservation of records and timely response requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Records Retention Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither document addresses mandatory records retention schedules for social media content, which is required for public agencies under California law. This creates compliance risk for document preservation and legal discovery.
+
+Legal Basis:
+- Government Code Section 60200-60203 (Records Management): The head of each agency of state and local government shall establish and maintain an active, continuing program for the economical and efficient management of the records of the agency.
+
+Required Language:
+Social media content shall be retained in accordance with the district's records retention schedule and applicable legal requirements. The Superintendent or designee shall establish procedures for archiving, storing, and disposing of social media records consistent with legal requirements and potential litigation holds.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing FERPA Compliance Provisions (Confidence: 95%)
+Missing from: BOTH
+While privacy is mentioned generally, neither document specifically addresses Family Educational Rights and Privacy Act (FERPA) requirements for protecting student educational records in social media contexts, which is mandatory for educational institutions receiving federal funding.
+
+Legal Basis:
+- 20 USC 1232g (FERPA) and Education Code Section 49060-49079: Educational agencies and institutions shall protect the privacy of student education records and obtain written consent before disclosing personally identifiable information from student records.
+
+Required Language:
+Use of official district social media platforms shall comply with the Family Educational Rights and Privacy Act (FERPA) and state privacy laws. Student educational records and personally identifiable information shall not be disclosed through social media without proper written consent or unless disclosure falls within a permitted exception under FERPA.
+
+Recommended Placement: BP
+
+----------------------------------------
+

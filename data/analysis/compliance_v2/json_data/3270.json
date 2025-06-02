@@ -1,0 +1,84 @@
+{
+  "code": "3270",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3270",
+    "title": "Sale And Disposal Of Books, Equipment And Supplies",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3270.txt"
+  },
+  "regulation": {
+    "code": "3270",
+    "title": "Sale And Disposal Of Books, Equipment And Supplies",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3270.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Board Authorization Requirement for Property Disposal",
+        "description": "Education Code 17545 requires that the Board of Education authorize the disposal of personal property by resolution or motion at a public meeting. While the policy mentions \"Board approval,\" neither document explicitly states that disposal must be authorized by formal Board action (resolution or motion) at a public meeting as required by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17545",
+            "text": "\"The governing board of any school district may, by resolution or motion adopted at a public meeting, authorize the sale of personal property belonging to the district...\""
+          }
+        ],
+        "required_language": "The Board of Education shall authorize the disposal of district personal property by resolution or motion adopted at a public meeting.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Competitive Bidding Threshold Requirements",
+        "description": "Education Code 17545.5 establishes specific dollar thresholds that trigger competitive bidding requirements for disposal of personal property. The regulation mentions the $2,500 threshold for unanimous Board designation but fails to address the $15,000 threshold above which competitive bidding is mandatory.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17545.5",
+            "text": "\"Personal property having a value of fifteen thousand dollars ($15,000) or more shall be sold by competitive bidding unless sold to another governmental agency.\""
+          }
+        ],
+        "required_language": "Personal property having a value of $15,000 or more shall be sold by competitive bidding unless sold to another governmental agency as specified in Education Code 17540 or 17542.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Required Certification for Instructional Materials Recipients",
+        "description": "While the regulation mentions that recipients must certify they will use materials for educational purposes, it does not include the complete certification requirements specified in Education Code 60511, including the requirement to make materials available for inspection.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60511",
+            "text": "\"Any organization, agency, or institution receiving obsolete instructional materials...shall certify to the governing board that it agrees to use the materials for educational purposes, make no charge to any persons to whom the materials are given or lent, and make the materials available for inspection by the governing board.\""
+          }
+        ],
+        "required_language": "Recipients shall certify that they agree to use materials for educational purposes, make no charge to persons to whom materials are given or lent, and make the materials available for inspection by the Board.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Dollar Threshold",
+        "description": "The regulation references a $2,500 threshold for unanimous Board designation, but this amount may need verification against current Education Code provisions to ensure it reflects any legislative updates since 2009.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17546",
+            "text": "Current threshold amounts should be verified for accuracy."
+          }
+        ],
+        "required_language": "Verify current dollar threshold in Education Code 17546 and update accordingly.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:24:54.112029+00:00"
+}

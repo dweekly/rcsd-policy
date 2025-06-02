@@ -1,0 +1,63 @@
+{
+  "code": "4231",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4231",
+    "title": "Staff Development",
+    "type": "Policy",
+    "last_reviewed": "03/14/2018",
+    "file_path": "data/extracted/policies/4231.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Staff Development Implementation",
+        "description": "Education Code 45391 requires districts to provide staff development opportunities for classified employees, but there is no Administrative Regulation to establish the implementation procedures, funding mechanisms, evaluation criteria, or operational details for the staff development program outlined in the Board Policy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45391",
+            "text": "The governing board of a school district may provide staff development opportunities for classified employees... The governing board shall involve classified staff, site and district administrators, and others, as appropriate, in the development of the district's staff development program."
+          }
+        ],
+        "required_language": "Administrative procedures detailing: (1) Process for identifying staff development needs; (2) Procedures for classified staff input in program development; (3) Methods for delivering training; (4) Evaluation criteria and processes; (5) Funding allocation procedures; (6) Documentation and record-keeping requirements; (7) Timeline for program implementation and review.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Policy Content - Missing Evaluation and Reporting Procedures",
+        "description": "The Board Policy references that the Superintendent shall \"regularly report to the Board regarding the effectiveness of the staff\" but the sentence is incomplete and cuts off mid-thought. This creates ambiguity about reporting requirements and evaluation standards.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45391(b)",
+            "text": "The governing board shall involve classified staff, site and district administrators, and others, as appropriate, in the development of the district's staff development program."
+          }
+        ],
+        "required_language": "Complete the sentence to specify: \"...shall regularly report to the Board regarding the effectiveness of the staff development program, including participation rates, outcomes achieved, and recommendations for program improvement.\"",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Paraprofessional Federal Requirements",
+        "description": "While the policy mentions paraprofessionals assisting teachers, it does not reference federal Every Student Succeeds Act (ESSA) requirements for paraprofessional qualifications and training, which may be relevant for Title I schools.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45344.2",
+            "text": "Instructional paraprofessionals employed by school districts shall meet federal qualification requirements under the Every Student Succeeds Act."
+          }
+        ],
+        "required_language": "Staff development for paraprofessionals shall ensure compliance with federal qualification requirements under the Every Student Succeeds Act, particularly for those working in Title I schools.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:15:21.942567+00:00"
+}

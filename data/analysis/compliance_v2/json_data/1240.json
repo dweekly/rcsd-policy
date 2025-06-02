@@ -1,0 +1,99 @@
+{
+  "code": "1240",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "1240",
+    "title": "Volunteer Assistance",
+    "type": "Policy",
+    "last_reviewed": "02/09/2022",
+    "file_path": "data/extracted/policies/1240.txt"
+  },
+  "regulation": {
+    "code": "1240",
+    "title": "Volunteer Assistance",
+    "type": "Regulation",
+    "last_reviewed": "02/09/2022",
+    "file_path": "data/extracted/regulations/1240.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Criminal Background Check Requirements",
+        "description": "California law requires criminal background checks for volunteers who have frequent or prolonged contact with students. While the policy mentions screening and the regulation addresses sex offender verification, neither document establishes the required criminal background check process for volunteers with frequent/prolonged student contact.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45125.1",
+            "text": "Requires criminal background checks for volunteers who have frequent or prolonged contact with students, including DOJ and FBI fingerprinting requirements."
+          }
+        ],
+        "required_language": "Volunteers who will have frequent or prolonged contact with students shall submit to criminal background investigation including fingerprinting through the California Department of Justice and Federal Bureau of Investigation. The Superintendent or designee shall determine which volunteer positions require such background checks based on the nature and frequency of student contact.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Mandated Reporter Training Requirements",
+        "description": "Volunteers who have frequent contact with students may be considered mandated reporters under California law and must receive appropriate training on child abuse reporting requirements. Neither document addresses this training requirement.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code 11165.7, 11166.5",
+            "text": "Defines mandated reporters to include school volunteers and requires training on child abuse identification and reporting procedures."
+          }
+        ],
+        "required_language": "Volunteers who have frequent contact with students shall receive training on mandated reporting requirements, including identification of signs of child abuse and neglect and procedures for reporting suspected abuse to appropriate authorities.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Volunteer Application and Approval Process",
+        "description": "While the policy mentions screening procedures, neither document establishes a formal application and approval process that documents volunteer qualifications, assigns specific duties, and ensures proper authorization before volunteers begin service.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35021, 45344",
+            "text": "Requires governing boards to establish procedures for volunteer service and ensure volunteers meet qualifications for their assigned duties."
+          }
+        ],
+        "required_language": "All volunteers must complete a district application form and receive written approval from the Superintendent or designee before beginning service. The application shall document the volunteer's qualifications, proposed duties, and completion of required screening and training.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Confidentiality Requirements",
+        "description": "Volunteers may have access to confidential student information and should be required to maintain confidentiality and sign appropriate agreements. This requirement is not addressed in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49073-49079 (Student Records)",
+            "text": "Requires protection of confidential student information and appropriate agreements for non-employees who may access such information."
+          }
+        ],
+        "required_language": "Volunteers shall maintain confidentiality of all student information and sign a confidentiality agreement before beginning service. Volunteers shall not access, use, or disclose student information except as necessary for their assigned duties.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Emergency Procedures Training",
+        "description": "Volunteers who supervise students should be trained on emergency procedures to ensure student safety. While the policy mentions orientation and training, specific emergency procedures training is not required.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32280-32289 (School Safety Plans)",
+            "text": "Requires schools to maintain comprehensive safety plans and ensure all persons supervising students understand emergency procedures."
+          }
+        ],
+        "required_language": "Volunteers who supervise students shall receive training on school emergency procedures, including evacuation routes, lockdown procedures, and emergency communication protocols.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:21:27.849268+00:00"
+}

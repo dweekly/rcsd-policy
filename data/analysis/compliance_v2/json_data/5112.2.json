@@ -1,0 +1,93 @@
+{
+  "code": "5112.2",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "5112.2",
+    "title": "Exclusions From Attendance",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5112.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) 5112.2 document is entirely missing. California Education Code requires that exclusion policies be formally adopted by the governing board. While the Administrative Regulation provides implementation procedures, there must be a corresponding board policy that establishes the district's official position on student exclusions, delegates authority to the superintendent, and provides the policy framework for exclusions.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "A Board Policy should be created that includes: (1) Board's commitment to maintaining safe and healthy learning environments, (2) Delegation of authority to the Superintendent to exclude students when legally required, (3) Statement that exclusions will be implemented in accordance with applicable state and federal laws, (4) Reference to the administrative regulation for implementation procedures, and (5) Board's commitment to due process rights for affected students and families.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Homeless Student Protections",
+        "description": "Both documents fail to address protections for homeless students under the McKinney-Vento Act. Homeless students cannot be excluded from attendance due to lack of immunization records, school records, or proof of residency if such documents are unavailable due to their homeless status.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48852.7",
+            "text": "A homeless child or youth shall not be required to attend a separate school for homeless children or youth... A homeless child or youth shall be immediately enrolled in the school of origin or the school where enrollment is sought, even if the child or youth is unable to produce records normally required for enrollment."
+          }
+        ],
+        "required_language": "Students experiencing homelessness shall not be excluded from attendance due to inability to provide immunization records, school records, or proof of residency if such documents are unavailable due to their homeless status. The district shall immediately enroll homeless students and work with families to obtain required documentation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Foster Youth Protections",
+        "description": "The regulation does not address special protections for foster youth regarding immunization and health screening requirements. Foster youth may face delays in obtaining health records due to placement changes and should receive accommodations similar to homeless students.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48853.5",
+            "text": "The educational placement of a foster child shall be based on the best interests of the child and shall be in the least restrictive educational program, and shall, to the extent feasible, be in the school in which the child was enrolled prior to the placement or the school in which the child was last enrolled."
+          }
+        ],
+        "required_language": "Foster youth shall receive reasonable accommodations regarding immunization and health screening requirements when documentation is delayed due to placement changes. The district shall work expeditiously with child welfare agencies and healthcare providers to obtain necessary records while maintaining the student's enrollment.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Incomplete Immunization Exemption Process",
+        "description": "While the regulation mentions religious and medical exemptions for immunizations, it lacks specific procedures for processing these exemptions and fails to reference current requirements under SB 277 (2015) which eliminated personal belief exemptions except for medical exemptions.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 120335",
+            "text": "Immunization shall not be required for a pupil's admission to school if he or she submits a letter or affidavit signed by a licensed physician to the effect that the physical condition of the child is such, or medical circumstances relating to the child are such, that immunization is not considered safe."
+          }
+        ],
+        "required_language": "Medical exemptions from immunization requirements must be supported by a written statement from a licensed physician indicating that immunization is medically contraindicated for the specific student. The district shall establish procedures for reviewing and maintaining medical exemption documentation in accordance with current state law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Last Review Date",
+        "description": "The regulation was last reviewed in 2010, which predates significant changes in California law regarding immunizations (SB 277 in 2015), homeless students, and foster youth protections. Regular review ensures compliance with current legal requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "In enacting any rule or regulation, the governing board of a school district shall follow the prescribed procedures and give the prescribed notices."
+          }
+        ],
+        "required_language": "The regulation should be updated to reflect current legal requirements and reviewed regularly to ensure ongoing compliance with state and federal law.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:19:51.466453+00:00"
+}

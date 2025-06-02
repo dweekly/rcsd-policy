@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5143: Insurance
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Minimum Insurance Coverage Amounts for Athletic Teams (Confidence: 95%)
+Missing from: BOTH
+Education Code 32221 requires specific minimum insurance coverage amounts for athletic team participants, but these amounts are not specified in the policy. The policy references "amounts specified in law and administrative regulation" but no administrative regulation exists, and the specific amounts are not stated in the policy itself.
+
+Legal Basis:
+- Education Code 32221(a): Each pupil participating on a school athletic team shall have insurance protection in the amount of at least ten thousand dollars ($10,000) for medical expenses and at least ten thousand dollars ($10,000) for hospital expenses resulting from accidental bodily injury incurred while participating as a member of such athletic team.
+
+Required Language:
+Each student participating on a school athletic team shall have insurance protection of at least $10,000 for medical expenses and at least $10,000 for hospital expenses resulting from accidental bodily injury incurred while participating as a member of such athletic team.
+
+Recommended Placement: BP
+
+----------------------------------------
+

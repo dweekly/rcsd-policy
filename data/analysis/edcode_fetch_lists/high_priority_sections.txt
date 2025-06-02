@@ -1,0 +1,9 @@
+# High Priority Ed Code Sections (10+ citations)
+# Format: section_number | citation_count | url
+
+35160 | 51 | https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35160&lawCode=EDC
+44050 | 20 | https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44050&lawCode=EDC
+35160.5 | 13 | https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35160.5&lawCode=EDC
+35186 | 12 | https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35186&lawCode=EDC
+48980 | 12 | https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=48980&lawCode=EDC
+48900 | 11 | https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=48900&lawCode=EDC

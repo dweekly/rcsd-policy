@@ -1,0 +1,93 @@
+{
+  "code": "3541.1",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3541.1",
+    "title": "Transportation For School-Related Trips",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3541.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) 3541.1 document is entirely missing. California Education Code requires that transportation policies be established by the governing board. While the Administrative Regulation exists, the foundational policy document that should contain board direction, authority delegation, and policy framework is absent.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "A complete Board Policy 3541.1 should be created that includes: board's philosophy on transportation for school-related trips, delegation of authority to the Superintendent, general parameters for trip approval, and reference to the implementing administrative regulation.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Driver Background Check Requirements",
+        "description": "Neither the BP nor AR addresses background check requirements for private vehicle drivers transporting students. California law requires background checks for individuals who have contact with students in school-sponsored activities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45125.1",
+            "text": "Requires criminal background checks for individuals who have contact with pupils in a school-sponsored activity away from school grounds."
+          }
+        ],
+        "required_language": "All drivers of private vehicles transporting students must complete criminal background checks, including DOJ and FBI clearances, prior to approval for student transportation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Emergency Procedures and Communication Plan",
+        "description": "The regulation mentions that drivers shall receive \"safety and emergency instructions\" but does not specify what these must include or establish emergency communication protocols required for student safety during transportation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32221",
+            "text": "School districts must establish procedures for emergency situations involving students."
+          }
+        ],
+        "required_language": "Emergency procedures must include: communication protocols with school administration, procedures for accidents or breakdowns, emergency contact information for all passengers, first aid requirements, and procedures for severe weather or other emergencies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Commercial Transportation Standards",
+        "description": "The regulation does not address requirements when using commercial transportation services (buses, charter services) including driver qualifications, vehicle safety standards, and insurance requirements for contracted services.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 39831",
+            "text": "Establishes requirements for pupil transportation safety and vehicle standards."
+          }
+        ],
+        "required_language": "When using commercial transportation services, the district shall verify that drivers meet all state certification requirements, vehicles meet safety standards, and carriers maintain appropriate insurance coverage and safety records.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Legal References",
+        "description": "The regulation was last updated in 2009 and may contain outdated legal references or miss recent legislative changes affecting student transportation requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Various Education Code and Vehicle Code sections",
+            "text": "Transportation laws are frequently updated and require regular policy review to ensure compliance."
+          }
+        ],
+        "required_language": "All legal references should be reviewed and updated to reflect current law, and the policy should be reviewed at least every three years.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:30:30.860173+00:00"
+}

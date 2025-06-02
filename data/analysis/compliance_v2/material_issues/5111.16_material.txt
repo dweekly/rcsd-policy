@@ -1,0 +1,75 @@
+MATERIAL COMPLIANCE ISSUES
+AR 5111.16: Residency For Homeless Children
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing School of Origin Rights (Confidence: 90%)
+Missing from: BOTH
+Neither document addresses the fundamental right of homeless students to remain in their school of origin or enroll in the school where they are currently staying. This is a core requirement of both federal McKinney-Vento Act and California law.
+
+Legal Basis:
+- Education Code Section 48852.7: Each homeless child or youth shall have the right to either remain in his or her school of origin for the duration of homelessness, or enroll in any public school that nonhomeless students who live in the attendance area in which the child or youth is actually living are eligible to attend
+
+Required Language:
+Homeless students have the right to: (1) remain in their school of origin for the duration of their homelessness, or (2) enroll in the school where they are currently staying. Transportation shall be provided to the school of origin upon request.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Homeless Liaison Designation (Confidence: 95%)
+Missing from: BOTH
+Neither document identifies the district's homeless education liaison or their responsibilities. Federal and state law require districts to designate a liaison to ensure proper implementation of homeless student rights.
+
+Legal Basis:
+- Education Code Section 48852.5(a): Each school district shall designate a staff person as a liaison for homeless children
+
+Required Language:
+The Superintendent or designee shall appoint a district liaison for homeless students who shall ensure that homeless children and youth are identified, enrolled in school, and have equal opportunity to succeed academically.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Immediate Enrollment Requirements (Confidence: 85%)
+Missing from: BOTH
+While the AR lists acceptable documentation, it doesn't clearly state that homeless students must be enrolled immediately even without typical enrollment documentation. This immediate enrollment right is fundamental under McKinney-Vento.
+
+Legal Basis:
+- Education Code Section 48852.7: The school selected shall immediately enroll the homeless child or youth, even if the child or youth is unable to produce records normally required for enrollment
+
+Required Language:
+Homeless students shall be enrolled immediately, even without normally required documents such as proof of residency, immunization records, birth certificates, or previous school records. Missing documents shall be obtained after enrollment.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Dispute Resolution Process (Confidence: 90%)
+Missing from: BOTH
+Neither document provides a process for resolving disputes about school selection, enrollment, or services for homeless students. This is required by both federal and state law.
+
+Legal Basis:
+- Education Code Section 48852.7: If a dispute arises over school selection or enrollment, the child or youth shall be immediately enrolled in the school in which enrollment is sought, pending resolution of the dispute
+
+Required Language:
+If a dispute arises regarding school selection or enrollment, the student shall be immediately enrolled in the requested school pending dispute resolution. The district shall provide a written explanation of decisions and inform parents/students of their right to appeal.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Transportation Requirements (Confidence: 80%)
+Missing from: BOTH
+Neither document addresses the district's obligation to provide transportation for homeless students to their school of origin when requested.
+
+Legal Basis:
+- Education Code Section 48852.7: If the homeless child or youth continues to live in the area served by the school district in which the school of origin is located, that school district shall provide or arrange for the provision of transportation to the school of origin
+
+Required Language:
+The district shall provide transportation to the school of origin for homeless students upon request, including when the student moves outside the district's boundaries during the school year.
+
+Recommended Placement: AR
+
+----------------------------------------
+

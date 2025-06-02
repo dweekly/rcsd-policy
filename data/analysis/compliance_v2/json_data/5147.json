@@ -1,0 +1,93 @@
+{
+  "code": "5147",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5147",
+    "title": "Dropout Prevention",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5147.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 52890 requires specific implementation procedures for dropout prevention programs, but no Administrative Regulation exists to provide the \"how\" for implementing the Board Policy directives. The policy establishes requirements but lacks procedural guidance for identification processes, intervention strategies, and program implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52890",
+            "text": "Requires districts to establish procedures for identifying at-risk students and implementing dropout prevention strategies"
+          }
+        ],
+        "required_language": "Administrative procedures detailing: student identification criteria and processes, intervention timelines, staff responsibilities, data collection and monitoring procedures, parent notification requirements, and coordination with community agencies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Student Success Team (SST) Process Requirements",
+        "description": "California requires districts to establish Student Success Team processes for at-risk students as part of dropout prevention efforts. Neither the policy nor regulation addresses SST procedures, referral processes, or intervention planning requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48321",
+            "text": "Districts shall establish procedures for identifying students at risk of retention and provide appropriate intervention through student success teams"
+          }
+        ],
+        "required_language": "Procedures for Student Success Team referrals, composition, meeting requirements, intervention planning, and follow-up monitoring for students identified as at-risk of dropping out.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Parent/Guardian Notification Requirements",
+        "description": "State law requires specific parent notification procedures when students are identified as at-risk of dropping out. Neither document addresses mandatory parent communication, notification timelines, or involvement in intervention planning.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48260.5",
+            "text": "Parents/guardians must be notified when students are identified as at-risk and involved in intervention planning"
+          }
+        ],
+        "required_language": "Requirements for timely parent/guardian notification when students are identified as at-risk of dropping out, including notification methods, timelines, and procedures for involving parents in intervention planning and monitoring.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Data Collection and Reporting Requirements",
+        "description": "Districts must collect and report specific data on dropout prevention efforts and outcomes. Neither document addresses data collection procedures, reporting requirements, or program evaluation metrics required by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52052",
+            "text": "Districts must collect and report data on student outcomes including dropout rates and intervention effectiveness as part of LCAP requirements"
+          }
+        ],
+        "required_language": "Procedures for collecting, analyzing, and reporting data on at-risk student identification, intervention implementation, and program effectiveness, including annual reporting requirements and program evaluation metrics.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date and Review Cycle",
+        "description": "The policy was last updated in 2010 and has not been reviewed since adoption. Given significant changes in state dropout prevention requirements and LCAP implementation since 2010, the policy should be reviewed and updated to reflect current legal requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52060",
+            "text": "LCAP requirements implemented after 2013 significantly changed dropout prevention and student support requirements"
+          }
+        ],
+        "required_language": "Updated policy language reflecting current state requirements including LCAP alignment, MTSS frameworks, and current dropout prevention best practices.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:28:35.316962+00:00"
+}

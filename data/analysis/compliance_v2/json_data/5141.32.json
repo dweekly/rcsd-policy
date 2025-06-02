@@ -1,0 +1,78 @@
+{
+  "code": "5141.32",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "5141.32",
+    "title": "Health Screening For School Entry",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5141.32.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) 5141.32 document is entirely missing. California Education Code requires school districts to adopt board policies establishing the framework and authority for health screening requirements. While the Administrative Regulation provides detailed procedures, there must be a corresponding board policy that establishes the district's commitment to health screening compliance and delegates authority to the superintendent.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program or activity or may otherwise act in any manner which is not in conflict with or inconsistent with or preempted by any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The Board of Education recognizes that early identification of health problems is essential for student success and mandates compliance with all state health screening requirements for school entry. The Board directs the Superintendent or designee to establish procedures ensuring compliance with comprehensive health screening requirements for grades K-1 and oral health assessment requirements, including proper notification of parents/guardians, maintenance of records, and reporting as required by law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Vision, Hearing, and Scoliosis Screening Requirements",
+        "description": "California Education Code mandates specific vision, hearing, and scoliosis screening requirements for various grade levels that are not addressed in either document. These are separate from the comprehensive health screening and oral health assessment currently covered.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49451",
+            "text": "The governing board of each school district shall provide for the testing of the sight and hearing of each pupil enrolled in the school district. Each pupil shall be tested at least once in kindergarten or grade 1, grade 2, grade 5, grade 8, and grade 10, and upon enrollment if the pupil is a transfer student who has not been previously tested."
+          }
+        ],
+        "required_language": "Vision and hearing screening shall be conducted for students in kindergarten or grade 1, grade 2, grade 5, grade 8, and grade 10, and for transfer students who have not been previously tested. Scoliosis screening shall be provided for students in grade 7. Parents/guardians shall be notified of screening results and referred for follow-up care when indicated.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Confidentiality and Records Management Provisions",
+        "description": "While the regulation mentions maintaining records in health files, it lacks comprehensive provisions for confidentiality, access rights, and records management as required by state and federal privacy laws.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49076",
+            "text": "Each school district shall inform the parent or guardian of a minor pupil and adult pupils currently in attendance of the categories of directory information which it has designated with respect to each pupil and of the right of the parent or guardian of a minor pupil and adult pupil to refuse to permit the designation of any or all categories of directory information with respect to the pupil."
+          }
+        ],
+        "required_language": "All health screening records shall be maintained confidentially in accordance with state and federal privacy laws. Parents/guardians have the right to inspect and review their child's health records. Health information shall not be disclosed without written parental consent except as permitted by law. Access to health records shall be limited to authorized personnel with legitimate educational interest.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Last Review Date",
+        "description": "The regulation was last reviewed in 2010, which is over 13 years ago. California law and best practices recommend regular review of policies and regulations to ensure continued compliance with evolving legal requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "The governing board of a school district shall review and update the policy regarding pupil discipline, including suspension and expulsion, at least every four years."
+          }
+        ],
+        "required_language": "This policy and regulation should be reviewed and updated regularly to ensure continued compliance with state law and current best practices.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:25:08.499429+00:00"
+}

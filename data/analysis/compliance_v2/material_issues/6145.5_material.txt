@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6145.5: Student Organizations And Equal Access
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Equal Access Act Notice Requirements (Confidence: 95%)
+Missing from: BOTH
+Federal law requires that schools provide written notice to students and parents about the limited open forum policy and equal access rights. This notification requirement is missing from both the policy and regulation.
+
+Legal Basis:
+- 20 USC 4071(f): Schools shall provide written notice to students and parents of the school's limited open forum policy and the equal access rights afforded to student groups under the Equal Access Act.
+
+Required Language:
+The district shall provide annual written notice to students and parents regarding the school's limited open forum policy and the equal access rights of student groups under federal law. This notice shall be included in student handbooks and other appropriate communications.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Inconsistent Forum Status Declaration (Confidence: 90%)
+Missing from: BOTH
+The policy establishes a "limited open forum" while the regulation states the intent to "maintain a closed forum." This creates a fundamental contradiction that could lead to legal challenges and unclear implementation.
+
+Legal Basis:
+- 20 USC 4071(b): A public secondary school has a limited open forum whenever such school grants an offering to or opportunity for one or more noncurriculum related student groups to meet on school premises during noninstructional time.
+
+Required Language:
+The district must clearly establish whether it maintains a closed forum (all groups curriculum-related) or a limited open forum (allowing noncurriculum-related groups). If maintaining a limited open forum, all provisions must be consistently applied throughout both documents.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Appeal Process for Denied Groups (Confidence: 85%)
+Missing from: BOTH
+The regulation allows denial of groups but provides no appeal mechanism, which is required under due process and equal access principles. Students must have a way to challenge denials of their requests to form groups.
+
+Legal Basis:
+- 20 USC 4071(c)(4): Schools cannot deny equal access or fair opportunity to meet based on content of speech, and must provide due process for any denials of student group requests.
+
+Required Language:
+Students whose requests to form groups are denied shall have the right to appeal such decisions through a formal process that includes written reasons for denial and opportunity for review by the superintendent or designee.
+
+Recommended Placement: AR
+
+----------------------------------------
+

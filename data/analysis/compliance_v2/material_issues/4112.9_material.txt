@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4112.9: Employee Notifications
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Mandated Reporter Training Notification (Confidence: 90%)
+Missing from: BOTH
+While child abuse reporting obligation is listed, there is no mention of the mandatory training requirement notification. California law requires districts to notify employees about mandated reporter training requirements and maintain records of completion.
+
+Legal Basis:
+- Education Code Section 44691: The training shall be provided to employees who are mandated reporters at least once every two years and to new employees within the first six weeks of each school year or within six weeks of employment.
+
+Required Language:
+Notification of mandatory reporter training requirements, including initial training deadlines and biennial renewal requirements as specified in Education Code Section 44691.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Workers' Compensation Notification (Confidence: 85%)
+Missing from: BOTH
+California Labor Code requires employers to notify employees about workers' compensation benefits and procedures. This mandatory notification is not included in either document.
+
+Legal Basis:
+- Labor Code Section 3551: Every employer shall keep posted in a conspicuous location frequented by employees during the hours of the working day a notice concerning workers' compensation, in a form prescribed by the administrative director.
+
+Required Language:
+Workers' compensation benefits information and claim procedures as required by Labor Code Section 3551.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Tuberculosis Examination Notification (Confidence: 80%)
+Missing from: BOTH
+Education Code requires notification to employees about tuberculosis examination requirements for school personnel. This health-related notification requirement is absent from both documents.
+
+Legal Basis:
+- Education Code Section 49406: Each person employed in a school district in a certificated or classified position shall furnish evidence that he or she is free of active tuberculosis.
+
+Required Language:
+Tuberculosis examination requirements and compliance deadlines for all certificated and classified employees as specified in Education Code Section 49406.
+
+Recommended Placement: AR
+
+----------------------------------------
+

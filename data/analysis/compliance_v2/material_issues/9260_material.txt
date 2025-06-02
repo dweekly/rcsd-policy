@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9260: Legal Protection
+Last Reviewed: 01/28/2009
+================================================================================
+
+Missing Employee Legal Protection Provisions (Confidence: 95%)
+Missing from: BOTH
+The policy references providing legal protection for both Board members and employees under Education Code 35208, but only details liability protection for Board members. Employees are entitled to the same legal protections and liability coverage when acting within the scope of their employment, but these protections are not specified in either document.
+
+Legal Basis:
+- Education Code Section 35208: The governing board of any school district may provide for insurance against liability of the district and the members of the governing board and employees of the district for injury to persons or damage to property.
+
+Required Language:
+Employees shall receive the same liability protection as Board members when acting within the scope of their employment. No employee shall be liable for harm caused by his/her act or omission when acting within the scope of district responsibilities, subject to the same conditions and exceptions that apply to Board members.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Legal Defense and Indemnification Procedures (Confidence: 90%)
+Missing from: BOTH
+Education Code 35208 allows districts to provide legal defense and indemnification for Board members and employees. The policy mentions insurance but lacks specific procedures for when and how the district will provide legal defense, retain counsel, or indemnify Board members and employees facing legal action while acting within their official capacity.
+
+Legal Basis:
+- Education Code Section 35208: The governing board of any school district may provide for insurance against liability of the district and the members of the governing board and employees of the district for injury to persons or damage to property.
+
+Required Language:
+The district shall provide legal defense and may provide indemnification for Board members and employees when they are named as defendants in legal proceedings arising from acts or omissions occurring within the scope of their official duties, unless such acts fall within the specified exceptions to liability protection.
+
+Recommended Placement: AR
+
+----------------------------------------
+

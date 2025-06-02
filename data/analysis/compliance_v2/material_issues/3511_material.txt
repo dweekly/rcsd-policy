@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3511: Energy And Water Management
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Energy Efficiency Standards for New Construction (Confidence: 85%)
+Missing from: BOTH
+California requires school districts to comply with Title 24 energy efficiency standards and consider life-cycle cost analysis for new construction and major renovations. While the policy mentions new construction in the resource management program, it lacks specific requirements for energy efficiency compliance and cost analysis procedures.
+
+Legal Basis:
+- Education Code Section 17070.35: The board of a school district shall not approve any plans for the construction of a new school building or the alteration of any existing school building unless the plans provide for compliance with the energy efficiency standards contained in the State Building Standards Code.
+
+Required Language:
+All new construction and major renovations shall comply with Title 24 energy efficiency standards as contained in the State Building Standards Code. The district shall conduct life-cycle cost analysis for energy systems and building components as required by law.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Proposition 39 Energy Efficiency Program Compliance (Confidence: 90%)
+Missing from: BOTH
+California's Proposition 39 Clean Energy Jobs Act requires school districts to report energy expenditure information and participate in energy efficiency programs. The policy lacks specific provisions for Proposition 39 compliance, reporting requirements, and fund utilization procedures.
+
+Legal Basis:
+- Education Code Section 39620-39626: School districts shall report energy expenditure information and may apply for Proposition 39 funds for energy efficiency improvements that reduce energy consumption and create jobs.
+
+Required Language:
+The district shall comply with Proposition 39 Clean Energy Jobs Act requirements, including annual reporting of energy expenditure information and consideration of energy efficiency projects eligible for state funding.
+
+Recommended Placement: BP
+
+----------------------------------------
+

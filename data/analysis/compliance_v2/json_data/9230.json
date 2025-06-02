@@ -1,0 +1,78 @@
+{
+  "code": "9230",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9230",
+    "title": "Orientation",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9230.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Ethics Training Requirements",
+        "description": "California law requires local agency officials, including school board members, to receive ethics training within specified timeframes. The policy lacks any mention of mandatory ethics training requirements for new board members.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 53235",
+            "text": "Each local agency official shall receive at least two hours of training in general ethics principles and ethics laws relevant to public service every two years. A local agency official who serves in the first year of his or her term of office shall receive the training required by this section within one year of taking office."
+          }
+        ],
+        "required_language": "New board members shall complete at least two hours of ethics training within one year of taking office, as required by Government Code Section 53235. The training shall cover general ethics principles and ethics laws relevant to public service.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Sexual Harassment Prevention Training",
+        "description": "California law mandates sexual harassment prevention training for local agency officials. The policy does not address this mandatory training requirement for board members.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 53237",
+            "text": "Each local agency official shall receive at least two hours of training on the prevention of sexual harassment every two years. A local agency official who serves in the first year of his or her term of office shall receive the training required by this section within one year of taking office."
+          }
+        ],
+        "required_language": "New board members shall complete at least two hours of sexual harassment prevention training within one year of taking office, as required by Government Code Section 53237.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Community College Board Training Requirements",
+        "description": "If this is a community college district, specific training requirements under Education Code Section 72024.5 would apply. The policy should clarify applicability or include these requirements if relevant.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 72024.5",
+            "text": "Each person elected or appointed to serve as a member of the governing board of a community college district shall, within one year of assuming office, attend and complete a course of training and orientation prescribed by the board of governors."
+          }
+        ],
+        "required_language": "If applicable to community college districts: New board members shall complete training and orientation prescribed by the Board of Governors within one year of assuming office, as required by Education Code Section 72024.5.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Administrative Regulation",
+        "description": "The policy references various orientation activities and procedures but lacks a corresponding administrative regulation to detail implementation procedures, timelines, and responsible parties.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "General Best Practice",
+            "text": "Administrative regulations should provide specific procedures for implementing board policies to ensure consistent and effective implementation."
+          }
+        ],
+        "required_language": "An administrative regulation should be developed to specify: timelines for orientation activities, responsible staff members, specific materials to be provided, documentation requirements, and procedures for tracking completion of mandatory training requirements.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:40:07.146237+00:00"
+}

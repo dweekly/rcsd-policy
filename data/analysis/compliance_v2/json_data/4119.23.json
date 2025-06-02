@@ -1,0 +1,78 @@
+{
+  "code": "4119.23",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4119.23",
+    "title": "Unauthorized Release Of Confidential/Privileged Information",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4119.23.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy establishes the framework for confidentiality requirements but lacks corresponding Administrative Regulation detailing specific implementation procedures, training requirements, reporting mechanisms, and disciplinary processes. This creates a gap in operational guidance for staff and administrators.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54963",
+            "text": "Requires that employees receive \"training or notice\" regarding confidentiality requirements before disciplinary action can be taken for violations."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: (1) Specific procedures for training employees on confidentiality requirements; (2) Process for documenting training completion; (3) Procedures for investigating alleged violations; (4) Progressive disciplinary measures; (5) Reporting and documentation requirements for inadvertent disclosures; (6) Process for determining what constitutes confidential information in various contexts.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Student Records Confidentiality Requirements",
+        "description": "The policy lacks specific provisions addressing confidentiality of student records and educational information, which are subject to strict federal and state privacy laws. This is a significant gap given that school employees regularly handle sensitive student information.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49076",
+            "text": "Prohibits disclosure of student records except as specifically authorized, and requires districts to establish policies protecting student privacy."
+          }
+        ],
+        "required_language": "Policy must address: (1) Prohibition on unauthorized disclosure of student records and educational information; (2) Reference to FERPA and state student privacy laws; (3) Consequences for violations of student privacy; (4) Requirements for staff training on student records confidentiality.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Personnel Records Confidentiality Provisions",
+        "description": "The policy does not specifically address confidentiality requirements for personnel records and employee information, which are subject to specific legal protections and disclosure limitations under California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 6254(c)",
+            "text": "Establishes specific confidentiality protections for personnel records and limits on disclosure of employee information."
+          }
+        ],
+        "required_language": "Policy should include: (1) Prohibition on unauthorized access to or disclosure of personnel records; (2) Limitations on sharing employee personal information; (3) Requirements for secure handling of personnel files; (4) Disciplinary consequences for violations of personnel records confidentiality.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Requires Review and Updates",
+        "description": "The policy was last updated in 2009 and may not reflect current legal requirements, technology considerations, or best practices for information security and confidentiality in the digital age.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "Requires school boards to establish policies necessary for district operation and to keep policies current with legal requirements."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to address: (1) Electronic information and cybersecurity considerations; (2) Social media and digital communication confidentiality; (3) Current legal citations and requirements; (4) Remote work and technology-related confidentiality issues.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:10:36.426406+00:00"
+}

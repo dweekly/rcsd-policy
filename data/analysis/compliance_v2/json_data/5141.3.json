@@ -1,0 +1,84 @@
+{
+  "code": "5141.3",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5141.3",
+    "title": "Health Examinations",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5141.3.txt"
+  },
+  "regulation": {
+    "code": "5141.3",
+    "title": "Health Examinations",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5141.3.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Hearing Test Requirements and Procedures",
+        "description": "While the AR mentions that students shall have hearing tested by qualified personnel, it fails to specify the mandatory timing, frequency, and grade-level requirements for hearing tests as required by Education Code 49454. The regulation only provides detailed procedures for vision testing but omits the specific hearing test implementation requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49454",
+            "text": "The governing board of any school district maintaining kindergarten or any of grades 1 to 12, inclusive, shall provide for testing the hearing of students enrolled in the district... The hearing of pupils shall be tested when the pupil is enrolled in kindergarten or grade 1, grade 2, grade 5, grade 8, grade 10, and grade 11, or any grade in a special education program."
+          }
+        ],
+        "required_language": "Students shall be tested for hearing when enrolled in kindergarten or grade 1, grade 2, grade 5, grade 8, grade 10, and grade 11, or any grade in a special education program. Hearing tests shall be conducted by qualified personnel authorized by the district. Parents/guardians shall be notified of any hearing defects discovered, with recommendations for appropriate follow-up care.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Oral Health Assessment Requirements",
+        "description": "Neither the BP nor AR addresses the mandatory oral health assessment requirements for kindergarten and first grade students, despite the BP mentioning \"oral health examinations\" in general terms. The specific implementation procedures and notification requirements are completely absent.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49452.8",
+            "text": "Commencing with the 2006-07 school year, a pupil, while in kindergarten or while in first grade if the pupil was not previously enrolled in kindergarten in a public school, shall have an oral health assessment completed by a dental professional... The governing board of a school district shall notify the parent or guardian of each pupil of the oral health assessment requirement."
+          }
+        ],
+        "required_language": "Students in kindergarten or first grade (if not previously enrolled in kindergarten in a public school) shall have an oral health assessment completed by a dental professional. Parents/guardians shall be notified of this requirement. The assessment may be waived if it creates an undue burden or if the student lacks insurance and is unable to pay for the assessment.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Type 2 Diabetes Information Requirements",
+        "description": "The policy and regulation fail to address the mandatory requirement to provide Type 2 diabetes information to parents/guardians of students in grades 7-12, which is a specific health-related notification requirement that should be included in health examination policies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49452.7",
+            "text": "The governing board of a school district that serves pupils in any of grades 7 to 12, inclusive, shall provide information about type 2 diabetes to the parent or guardian of incoming 7th grade pupils... The information shall include, but not be limited to, all of the following: (a) A description of type 2 diabetes. (b) A description of the risk factors and warning signs associated with type 2 diabetes. (c) A recommendation that pupils displaying or possibly suffering from risk factors or warning signs associated with type 2 diabetes should be screened for type 2 diabetes. (d) A description of treatments and prevention of type 2 diabetes. (e) A description of the different types of diabetes screening tests available."
+          }
+        ],
+        "required_language": "The district shall provide information about Type 2 diabetes to parents/guardians of incoming 7th grade students. This information shall include a description of Type 2 diabetes, risk factors and warning signs, screening recommendations, treatments and prevention methods, and available screening tests.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Physical Fitness Testing Reference",
+        "description": "While not strictly a health examination, the policy/regulation set lacks reference to physical fitness testing requirements that are often administered in conjunction with health screenings and are part of comprehensive student health assessment programs.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 60800",
+            "text": "The State Department of Education, in consultation with the State Department of Public Health, shall develop and distribute to each school district maintaining any of grades 5, 7, and 9 a physical performance test designed to test pupils for physical fitness."
+          }
+        ],
+        "required_language": "Students in grades 5, 7, and 9 shall participate in the state-required physical fitness test as part of the comprehensive health assessment program.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:24:48.751759+00:00"
+}

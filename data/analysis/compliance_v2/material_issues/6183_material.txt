@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 6183: Home And Hospital Instruction
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Application Process and Procedures (Confidence: 90%)
+Missing from: BOTH
+Neither the BP nor AR contains specific procedures for how parents/guardians can request home and hospital instruction services. Education Code 48206.3 requires districts to provide these services, but the regulation lacks clear application procedures, timelines for district response, and required documentation from medical professionals.
+
+Legal Basis:
+- Education Code Section 48206.3: Individual instruction shall be provided to pupils with a temporary disability which makes attendance in the regular day classes or the alternative education program in which the pupil is enrolled impossible or inadvisable.
+
+Required Language:
+Parents/guardians requesting home and hospital instruction shall submit a written request along with medical verification from a licensed physician stating that the student's condition makes school attendance impossible or inadvisable and the anticipated duration of the disability. The district shall respond to complete requests within [specified timeframe] and begin services within [specified timeframe] of approval.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Minimum Duration Requirements (Confidence: 85%)
+Missing from: BOTH
+The regulation does not specify the minimum duration a student must be unable to attend school to qualify for home and hospital instruction. Education Code 48206.3 and related guidance typically require a minimum period (often 2-4 weeks) to distinguish temporary disabilities from short-term absences.
+
+Legal Basis:
+- Education Code Section 48206.3: Individual instruction shall be provided to pupils with a temporary disability which makes attendance in the regular day classes or the alternative education program in which the pupil is enrolled impossible or inadvisable.
+
+Required Language:
+Home and hospital instruction shall be provided when a student's temporary disability is expected to prevent school attendance for a minimum of [specify duration, typically 2-4 weeks or as determined by district policy].
+
+Recommended Placement: AR
+
+----------------------------------------
+

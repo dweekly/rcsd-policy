@@ -1,0 +1,99 @@
+{
+  "code": "7160",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "7160",
+    "title": "Charter School Facilities",
+    "type": "Policy",
+    "last_reviewed": "05/23/2018",
+    "file_path": "data/extracted/policies/7160.txt"
+  },
+  "regulation": {
+    "code": "7160",
+    "title": "Charter School Facilities",
+    "type": "Regulation",
+    "last_reviewed": "05/23/2018",
+    "file_path": "data/extracted/regulations/7160.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Charter School Facilities Funding Program Requirements",
+        "description": "The policy mentions assistance with state facilities funding applications but lacks required procedures for the Charter School Facilities Program (CSFP) established under Education Code 17078.52-17078.66. Districts must have specific procedures for processing and supporting charter school applications for state facilities funding, including technical assistance requirements and coordination with the Office of Public School Construction.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17078.52-17078.66",
+            "text": "Establishes the Charter School Facilities Program requiring specific procedures for application processing, technical assistance, and coordination between districts and charter schools for state facilities funding."
+          }
+        ],
+        "required_language": "The district shall provide technical assistance to eligible charter schools applying for Charter School Facilities Program funding, including assistance with application preparation, site identification, and coordination with the Office of Public School Construction. The Superintendent or designee shall establish procedures for reviewing and supporting charter school applications for state facilities funding under Education Code 17078.52-17078.66.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Field Act Compliance Procedures",
+        "description": "While the policy references Field Act requirements (Education Code 17280-17317 and 17365-17374), neither document contains specific procedures for ensuring charter school facilities comply with Field Act requirements, including inspection procedures, certification requirements, and coordination with the Division of the State Architect.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17280-17317, 17365-17374",
+            "text": "Requires specific procedures for Field Act compliance including inspections, certifications, and coordination with state agencies for school construction and safety."
+          }
+        ],
+        "required_language": "Charter school facilities subject to the Field Act shall comply with all inspection, certification, and approval requirements. The district shall coordinate with the Division of the State Architect to ensure proper Field Act compliance for charter school facilities, including required inspections during construction and occupancy certifications.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Emergency Procedures and Safety Requirements",
+        "description": "The documents lack specific emergency procedures, evacuation plans, and safety coordination requirements between the district and charter schools using district facilities. This is required under Education Code 32020 et seq. and Government Code 8607 for all schools using public facilities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32020 et seq., Government Code 8607",
+            "text": "Requires comprehensive emergency procedures, evacuation plans, and safety coordination for all schools, including charter schools using district facilities."
+          }
+        ],
+        "required_language": "Charter schools using district facilities shall coordinate with district emergency procedures and maintain comprehensive safety plans including evacuation procedures, emergency communication protocols, and coordination with local emergency services. The charter school shall participate in district-wide emergency drills and safety training as applicable to shared facilities.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Accessibility Compliance Procedures",
+        "description": "While general building code compliance is mentioned, specific procedures for ensuring Americans with Disabilities Act (ADA) and Section 504 compliance for charter school facilities are not detailed. This includes accommodation procedures and accessibility modifications.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 11135, Education Code 67300 et seq.",
+            "text": "Requires specific procedures for ensuring accessibility compliance and reasonable accommodations in educational facilities."
+          }
+        ],
+        "required_language": "Charter school facilities shall comply with all accessibility requirements under the Americans with Disabilities Act and Section 504. The district shall ensure facilities provided to charter schools meet accessibility standards and shall coordinate any necessary accessibility modifications or accommodations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Technology Infrastructure Standards",
+        "description": "While technology infrastructure condition is mentioned as a factor in determining reasonable equivalency, specific standards and requirements for technology infrastructure in charter school facilities are not established.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 11969.3",
+            "text": "Requires consideration of technology infrastructure availability and condition in determining reasonable equivalency of facilities."
+          }
+        ],
+        "required_language": "Technology infrastructure provided to charter schools shall include reasonable equivalency in internet connectivity, network access, and basic technology support systems comparable to district schools in the comparison group. Specific technology standards and support procedures shall be detailed in facility agreements.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:37:55.298240+00:00"
+}

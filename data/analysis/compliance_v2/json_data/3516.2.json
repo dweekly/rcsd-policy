@@ -1,0 +1,78 @@
+{
+  "code": "3516.2",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3516.2",
+    "title": "Bomb Threats",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3516.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The district has only an Administrative Regulation (AR) but no corresponding Board Policy (BP) for bomb threats. California school districts are required to have board policies that establish the district's position and authority on critical safety matters like bomb threats. The AR provides procedures but lacks the foundational policy framework, board direction, and statement of district commitment to safety that should be contained in a BP.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program or activity or may otherwise act in any manner which is not in conflict with or inconsistent with or preempted by any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The Board recognizes that bomb threats pose a serious risk to student and staff safety and disrupt the educational environment. The district shall maintain procedures for responding to bomb threats that prioritize safety, ensure coordination with law enforcement, and provide for appropriate disciplinary action. The Superintendent or designee shall establish administrative regulations to implement this policy.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Notification Requirements to Parents/Community",
+        "description": "Neither the BP (which doesn't exist) nor AR addresses required notifications to parents, guardians, and the community following bomb threats. California law requires districts to notify parents of incidents that affect student safety and may require notification to various agencies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48902",
+            "text": "The principal of a school or the principal's designee shall notify the appropriate law enforcement authorities of the county or city in which the school is situated of any acts which may violate Education Code Section 48900 and which result in the injury of any person or involve the possession or sale of narcotics or of a controlled substance or involve the possession or use of firearms, explosives, or other dangerous objects."
+          }
+        ],
+        "required_language": "The Superintendent or designee shall notify parents/guardians and may notify the community when a bomb threat has occurred, in accordance with applicable law and district communication protocols. Notifications shall be made in a timely manner while considering ongoing safety and law enforcement concerns.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Documentation and Reporting Requirements",
+        "description": "The regulation lacks specific requirements for documenting bomb threat incidents and reporting to appropriate agencies beyond the initial 911 call. Proper documentation is essential for legal compliance and pattern analysis.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48902",
+            "text": "The principal of a school or the principal's designee shall notify the appropriate law enforcement authorities of the county or city in which the school is situated of any acts which may violate Education Code Section 48900 and which result in the injury of any person or involve the possession or sale of narcotics or of a controlled substance or involve the possession or use of firearms, explosives, or other dangerous objects."
+          }
+        ],
+        "required_language": "The principal or designee shall document all bomb threat incidents including: date, time, method of threat delivery, actions taken, agencies notified, and resolution. A written report shall be submitted to the Superintendent and may be required to be filed with appropriate county or state agencies as required by law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date",
+        "description": "The regulation was last updated in 2009, which is over 14 years ago. Best practices recommend regular review of emergency procedures to ensure they reflect current law enforcement protocols, technology, and legal requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "In enacting a policy pursuant to Section 35160, the governing board of a school district shall follow the process specified in this section."
+          }
+        ],
+        "required_language": "This policy and regulation should be reviewed and updated to reflect current emergency response protocols, technology, and legal requirements.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:29:42.817725+00:00"
+}

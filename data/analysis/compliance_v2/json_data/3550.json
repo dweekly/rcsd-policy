@@ -1,0 +1,114 @@
+{
+  "code": "3550",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3550",
+    "title": "Food Service/Child Nutrition Program",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3550.txt"
+  },
+  "regulation": {
+    "code": "3550",
+    "title": "Food Service/Child Nutrition Program",
+    "type": "Regulation",
+    "last_reviewed": "09/16/2019",
+    "file_path": "data/extracted/regulations/3550.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Free and Reduced-Price Meal Program Application and Eligibility Procedures",
+        "description": "California law requires districts to establish procedures for determining student eligibility for free and reduced-price meals, including application processes, income verification, and confidentiality protections. Neither the policy nor regulation addresses these mandatory procedural requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49510-49520",
+            "text": "The governing board of each school district shall provide for the determination of the eligibility of pupils for free or reduced-price meals... The governing board shall establish procedures for the receipt and processing of applications for free and reduced-price meals."
+          }
+        ],
+        "required_language": "The district shall establish procedures for determining student eligibility for free and reduced-price meals, including application processes, income verification standards, appeal procedures, and confidentiality protections in accordance with federal and state requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Meal Charge and Debt Collection Policy",
+        "description": "California law requires districts to adopt policies regarding meal charges when students cannot pay and debt collection procedures. This includes provisions for alternative meals and prohibitions on meal shaming practices.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49557.5",
+            "text": "A school district, county office of education, or charter school that participates in the National School Lunch Program... shall not publicly identify or stigmatize any pupil who cannot pay for a meal or who owes a school meal debt."
+          }
+        ],
+        "required_language": "The district shall not publicly identify or stigmatize students who cannot pay for meals or owe meal debt. Procedures shall be established for handling unpaid meal charges that protect student dignity and ensure continued access to nutrition.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Competitive Food Sales Time Restrictions",
+        "description": "While the regulation addresses nutritional standards for competitive foods, it lacks specific time restrictions required by California law regarding when competitive foods may be sold in relation to meal service periods.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49431.9",
+            "text": "Competitive food sales shall be prohibited during the meal service period in the food service area... except for the sale of food items that meet the nutritional standards specified in this article."
+          }
+        ],
+        "required_language": "Competitive food sales shall be prohibited during meal service periods in food service areas, except for foods meeting specified nutritional standards. Specific time restrictions and location limitations shall be established for each school site.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 75,
+        "title": "Missing Wellness Policy Integration Requirements",
+        "description": "Federal law requires that food service operations align with the district's wellness policy. Neither document references this integration requirement or addresses how nutrition education connects to food service.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "42 USC 1758b (Child Nutrition Act)",
+            "text": "Local educational agencies shall establish a local school wellness policy that includes nutrition guidelines for all foods available on school campus during the school day with the objectives of promoting student health and reducing childhood obesity."
+          }
+        ],
+        "required_language": "The district's food service program shall align with and support the district's wellness policy. Food service operations shall coordinate with nutrition education programs to promote consistent health messages.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated SHAPE Program Reference",
+        "description": "The regulation references the SHAPE (Shaping Health as Partners in Education) program which has been superseded by updated federal meal pattern requirements. This creates potential confusion about current standards.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "7 CFR 210.10 (Federal Meal Pattern Requirements)",
+            "text": "Schools must follow current federal meal pattern requirements as established by USDA, which have been updated since the SHAPE program era."
+          }
+        ],
+        "required_language": "Remove references to SHAPE program and update to reflect current federal meal pattern requirements under 7 CFR 210.10 and 220.8.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 65,
+        "title": "Missing Professional Development Requirements",
+        "description": "While HACCP training is addressed, the regulation lacks broader professional development requirements for food service staff regarding nutrition, customer service, and program administration.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "7 CFR 210.30",
+            "text": "School food authorities shall ensure that food service personnel receive training in food service operations."
+          }
+        ],
+        "required_language": "Food service staff shall receive ongoing professional development in areas including nutrition, food safety, customer service, and program administration as required by federal regulations.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:31:23.066859+00:00"
+}

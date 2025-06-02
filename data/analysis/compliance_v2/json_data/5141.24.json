@@ -1,0 +1,78 @@
+{
+  "code": "5141.24",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "5141.24",
+    "title": "Specialized Health Care Services",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5141.24.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy for Specialized Health Care Services",
+        "description": "The district has only an Administrative Regulation but no corresponding Board Policy for specialized health care services. California law requires districts to adopt policies establishing the framework for providing specialized health care services to students with disabilities. The Board Policy should contain the district's commitment, general principles, and authorization for specialized health care services, while the AR contains the implementation procedures.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49423.5",
+            "text": "The governing board of a school district may authorize individuals to assist pupils with specialized physical health care services during the school day as specified in this section."
+          }
+        ],
+        "required_language": "The Board recognizes that some students with disabilities require specialized physical health care services during the school day in order to attend school. The Board authorizes the provision of such services in accordance with students' individualized education programs (IEPs) and applicable law. The district shall ensure that qualified personnel provide these services under appropriate supervision to maintain student health and safety while preserving student dignity and privacy.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Emergency Response Procedures",
+        "description": "Neither the BP nor AR contains specific procedures for medical emergencies related to specialized health care services. California regulations require districts to establish emergency response protocols for students receiving specialized health care services.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 3051.12(c)",
+            "text": "Emergency care procedures shall be established for each student."
+          }
+        ],
+        "required_language": "Emergency care procedures shall be established for each student receiving specialized health care services. These procedures shall be developed in consultation with the student's physician, included in the student's health care plan, and communicated to all relevant school personnel.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Training Requirements and Certification",
+        "description": "While the AR mentions that designated school personnel must be \"trained,\" it lacks specific requirements for training content, duration, certification, and ongoing competency verification as required by California regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 3051.12(b)",
+            "text": "Training shall include but not be limited to: demonstration of competence in cardiopulmonary resuscitation, knowledge of community emergency medical resources, and skill in the use of equipment and performance of techniques necessary to provide specialized physical health care services."
+          }
+        ],
+        "required_language": "Training for designated school personnel shall include: competence in cardiopulmonary resuscitation, current knowledge of community emergency medical resources, skill in equipment use and technique performance, and demonstration of competency to the satisfaction of the supervising credentialed nurse or physician. Annual recertification may be required. Documentation of training completion shall be maintained in personnel files.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Legal References",
+        "description": "The regulation references Education Code sections that may have been updated since 2010. The policy should be reviewed to ensure all legal citations are current.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49423.5",
+            "text": "Current version may contain updated requirements or cross-references that differ from the 2010 version."
+          }
+        ],
+        "required_language": "Review and update all Education Code and CCR citations to reflect current law as of the policy revision date.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:24:21.580502+00:00"
+}

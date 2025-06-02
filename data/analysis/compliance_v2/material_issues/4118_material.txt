@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4118: Dismissal/Suspension/Disciplinary Action
+Last Reviewed: 12/07/2022
+================================================================================
+
+Missing Mandatory Reporting to CTC for Arrests (Confidence: 95%)
+Missing from: BOTH
+The regulation only addresses reporting to the Commission on Teacher Credentialing (CTC) when employment status changes due to misconduct or while misconduct allegations are pending. However, Education Code requires reporting of arrests for certain offenses within 24 hours, regardless of employment action.
+
+Legal Basis:
+- Education Code 44030.5(b): The employing agency shall report to the commission, by telephone within 24 hours and in writing within 48 hours, whenever any of the following occurs: (1) A certificated employee is arrested for, charged with, or convicted of any offense set forth in Section 44010 or 44011.
+
+Required Language:
+The Superintendent or designee shall report to the Commission on Teacher Credentialing by telephone within 24 hours and in writing within 48 hours whenever a certificated employee is arrested for, charged with, or convicted of any offense set forth in Education Code 44010 or 44011.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Child Abuse Reporting Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither document addresses the specific requirement to report to CTC when a certificated employee is dismissed, non-reelected, suspended, placed on leave, or resigns due to allegations of child abuse.
+
+Legal Basis:
+- Education Code 44030.5(a)(2): The employing agency shall report to the commission whenever...a certificated employee is dismissed, non-reelected, suspended for more than 10 days, placed on administrative leave for more than 10 days, or resigns or otherwise leaves employment while allegations of misconduct are pending when the allegation involves...child abuse or neglect as defined in Section 11165.6 of the Penal Code.
+
+Required Language:
+The Superintendent or designee shall report to the Commission on Teacher Credentialing whenever a certificated employee is dismissed, non-reelected, suspended for more than 10 days, placed on administrative leave for more than 10 days, or resigns or otherwise leaves employment while allegations of misconduct are pending when the allegation involves child abuse or neglect as defined in Penal Code 11165.6.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Sexual Misconduct Reporting Requirements (Confidence: 85%)
+Missing from: BOTH
+The documents do not specifically address reporting requirements when employment actions are taken due to sexual misconduct allegations, which have specific CTC reporting mandates.
+
+Legal Basis:
+- Education Code 44030.5(a)(1): The employing agency shall report to the commission whenever...a certificated employee is dismissed, non-reelected, suspended for more than 10 days, placed on administrative leave for more than 10 days, or resigns or otherwise leaves employment while allegations of misconduct are pending when the allegation involves...sex offenses as defined in Section 44010.
+
+Required Language:
+The Superintendent or designee shall report to the Commission on Teacher Credentialing whenever a certificated employee is dismissed, non-reelected, suspended for more than 10 days, placed on administrative leave for more than 10 days, or resigns or otherwise leaves employment while allegations of misconduct are pending when the allegation involves sex offenses as defined in Education Code 44010.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Controlled Substance Offense Reporting (Confidence: 80%)
+Missing from: BOTH
+While the regulation mentions controlled substance offenses in the context of compulsory leave, it does not address the specific CTC reporting requirements for employment actions related to controlled substance allegations.
+
+Legal Basis:
+- Education Code 44030.5(a)(3): The employing agency shall report to the commission whenever...a certificated employee is dismissed, non-reelected, suspended for more than 10 days, placed on administrative leave for more than 10 days, or resigns or otherwise leaves employment while allegations of misconduct are pending when the allegation involves...controlled substance offenses as defined in Section 44011.
+
+Required Language:
+The Superintendent or designee shall report to the Commission on Teacher Credentialing whenever a certificated employee is dismissed, non-reelected, suspended for more than 10 days, placed on administrative leave for more than 10 days, or resigns or otherwise leaves employment while allegations of misconduct are pending when the allegation involves controlled substance offenses as defined in Education Code 44011.
+
+Recommended Placement: AR
+
+----------------------------------------
+

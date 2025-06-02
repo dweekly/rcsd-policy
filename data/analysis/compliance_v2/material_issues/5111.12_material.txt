@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 5111.12: Residency Based On Parent/Guardian Employment
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Appeal Process (Confidence: 90%)
+Missing from: BOTH
+Neither the BP (which doesn't exist) nor the AR provides students/parents with information about their right to appeal denial decisions or the process for doing so. California law requires that students have due process rights in enrollment decisions, and districts must provide clear procedures for challenging adverse determinations.
+
+Legal Basis:
+- Education Code Section 48204(b): The governing board of a school district may prohibit the transfer of a pupil under this section if it makes a written finding that the transfer would negatively impact the court-ordered or voluntary desegregation plan of the school district.
+
+Required Language:
+Parents/guardians may appeal the Board's decision to deny enrollment based on parent/guardian employment by filing a written appeal with the Superintendent within [X] days of receiving the denial notice. The appeal shall be heard by the Board or designated hearing officer within [X] days of receipt. The parent/guardian shall have the right to present evidence and testimony in support of the appeal.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Percentage Limits and Calculation Method (Confidence: 85%)
+Missing from: BOTH
+The AR references "limits prescribed in Education Code 48204" for the percentage of students that may transfer out based on parent/guardian employment but does not specify what those limits are or how they are calculated. This creates ambiguity in implementation and potential inconsistent application.
+
+Legal Basis:
+- Education Code Section 48204(a): A pupil complies with the residency requirements for school attendance in a school district if the pupil is any of the following: [...] (7) A pupil whose parent or legal guardian is physically employed within the boundaries of that school district for a minimum of 10 hours during the school week.
+
+Required Language:
+The district shall track and maintain records of the percentage of students admitted to other districts based on parent/guardian employment. This percentage shall not exceed the percentage of students from other districts admitted to this district on the same basis, as calculated annually based on enrollment data from the prior school year.
+
+Recommended Placement: AR
+
+----------------------------------------
+

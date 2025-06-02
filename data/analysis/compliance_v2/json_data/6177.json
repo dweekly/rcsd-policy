@@ -1,0 +1,63 @@
+{
+  "code": "6177",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6177",
+    "title": "Summer Learning Programs",
+    "type": "Policy",
+    "last_reviewed": "10/25/2023",
+    "file_path": "data/extracted/policies/6177.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 46120 requires districts to establish procedures for summer school programs, but no Administrative Regulation exists to provide implementation details for the summer learning programs policy. The Board Policy establishes the framework but lacks the procedural \"how-to\" elements typically found in administrative regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 46120",
+            "text": "The governing board of any school district may establish summer school classes for pupils enrolled in any of the schools of the district."
+          }
+        ],
+        "required_language": "Administrative procedures should include: enrollment procedures and timelines, staff assignment and qualification requirements, curriculum standards alignment, assessment and grading procedures, attendance tracking and makeup work policies, transportation arrangements (if provided), meal program coordination, safety and supervision protocols, and evaluation metrics for program effectiveness.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Priority Student Selection Criteria",
+        "description": "The policy begins listing priority criteria for summer school enrollment but appears to have formatting issues. Item 1 states \"Demonstrate academic deficiencies in core curriculum areas\" but the sentence structure suggests missing context about which students should receive priority.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 46120",
+            "text": "Summer school programs must be established with clear enrollment criteria and procedures."
+          }
+        ],
+        "required_language": "Priority for summer school enrollment shall be given to students who: 1. Demonstrate academic deficiencies in core curriculum areas, 2. Are in targeted student groups identified in the district's LCAP as needing increased or improved services, 3. Are in grades TK-6 and require access to Expanded Learning Opportunities Programs pursuant to Education Code 46120.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference Section",
+        "description": "The policy contains an incomplete references section that cuts off mid-sentence with \"These references are not intended to be part of the policy itself, nor do they indicate the basis or authority for the Governing Board to enact this policy. Instead, they are provided as additional resources for those interested in the subject matter of the policy.\" This appears to be template language without actual legal references.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "School district policies should include appropriate legal references for transparency and compliance verification."
+          }
+        ],
+        "required_language": "Legal References should include: Education Code sections 46120, 46300-46307, 48200, 51210-51213; Government Code section 54950 et seq.; and relevant federal laws such as Every Student Succeeds Act.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:36:39.771984+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "code": "4116",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4116",
+    "title": "Probationary/Permanent Status",
+    "type": "Policy",
+    "last_reviewed": "12/09/2020",
+    "file_path": "data/extracted/policies/4116.txt"
+  },
+  "regulation": {
+    "code": "4116",
+    "title": "Probationary/Permanent Status",
+    "type": "Regulation",
+    "last_reviewed": "12/09/2020",
+    "file_path": "data/extracted/regulations/4116.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Notice Requirements for First-Year Probationary Employees",
+        "description": "The policy states that notice of non-reelection can be given \"at any time\" during the first year, but fails to specify the mandatory deadline of March 15 for first-year probationary employees. Education Code requires specific timing for all non-reelection notices.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44929.21(b)",
+            "text": "The governing board of a school district may, on or before March 15, give written notice to a probationary employee that the employee will not be reelected for the ensuing year."
+          }
+        ],
+        "required_language": "At any time during a probationary employee's first year of employment in the district, but no later than March 15, the Board may give written notice to the employee of the Board's decision not to reelect the employee for a second school year.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Hearing Rights for Probationary Employees",
+        "description": "Neither the policy nor regulation addresses the right of probationary employees to request a hearing before the governing board when they receive notice of non-reelection, which is a mandatory procedural right under Education Code.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44929.21(c)",
+            "text": "A probationary employee who has been given notice pursuant to subdivision (b) may request a hearing before the governing board to determine if there is cause for not reelecting the employee."
+          }
+        ],
+        "required_language": "A probationary employee who has received written notice of non-reelection may request a hearing before the governing board to determine if there is cause for not reelecting the employee. The request for hearing must be made within a reasonable time after receiving the notice.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Skelly Rights for Mid-Year Dismissal",
+        "description": "The policy mentions that probationary employees may be dismissed \"for cause\" during the school year but fails to include required pre-disciplinary due process procedures (Skelly rights) that must be provided before dismissal.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44948.3",
+            "text": "A probationary employee may be dismissed during the school year for cause, but only after being given written notice of the charges and an opportunity to be heard."
+          }
+        ],
+        "required_language": "Before dismissing a probationary employee during the school year for cause, the employee shall be provided with written notice of the specific charges and given an opportunity to respond to those charges before an appropriate administrator.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Service Credit Exclusions",
+        "description": "The regulation lists exclusions for computing probationary service but may be missing some categories of service that don't count toward permanent status eligibility under current Education Code provisions.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44909",
+            "text": "Service as a substitute teacher shall not be included in computing the service required as a prerequisite to classification as a permanent employee."
+          }
+        ],
+        "required_language": "5. Service as a substitute teacher (Education Code 44909)",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:35:10.495853+00:00"
+}

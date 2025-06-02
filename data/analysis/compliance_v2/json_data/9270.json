@@ -1,0 +1,78 @@
+{
+  "code": "9270",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9270",
+    "title": "Conflict Of Interest",
+    "type": "Policy",
+    "last_reviewed": "03/11/2020",
+    "file_path": "data/extracted/policies/9270.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Government Code 87300 requires districts to adopt a conflict of interest code, but there is no Administrative Regulation providing the specific implementation procedures, designated positions list, disclosure categories, filing procedures, training requirements, or enforcement mechanisms. While the Board Policy establishes the framework and requirements, the detailed \"how-to\" procedures that staff need to implement the conflict of interest program are completely absent.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 87300",
+            "text": "Each agency shall adopt and promulgate a conflict of interest code pursuant to the Political Reform Act. The code shall contain the names of designated positions and disclosure categories for each position."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: (1) Specific list of designated positions by job title; (2) Disclosure categories for each position specifying what financial interests must be disclosed; (3) Filing procedures and deadlines for Form 700; (4) Training requirements and schedule; (5) Review and approval procedures for the conflict of interest code; (6) Enforcement and violation procedures; (7) Procedures for determining when conflicts exist and recusal requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Designated Positions and Disclosure Categories",
+        "description": "Government Code 87302 requires the conflict of interest code to specify designated positions and their corresponding disclosure categories. The Board Policy references that these will be specified in the district's conflict of interest code but does not include them. Without specific positions and categories, employees cannot know their disclosure obligations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 87302",
+            "text": "The code shall contain the names of designated positions and disclosure categories for each position. Disclosure categories shall be stated in terms sufficiently specific to give reasonable notice to persons holding designated positions of the financial interests which must be disclosed."
+          }
+        ],
+        "required_language": "A comprehensive list of designated positions (e.g., Superintendent, Assistant Superintendents, Principals, Business Manager, Purchasing Agent, etc.) with specific disclosure categories for each position detailing what types of financial interests (investments, real property, business positions, income sources) must be disclosed based on the position's decision-making authority.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Training Requirements",
+        "description": "Government Code 87300 and best practices require that designated employees receive training on conflict of interest requirements. Neither the Board Policy nor Administrative Regulation (which doesn't exist) addresses mandatory training for board members and designated employees on conflict of interest laws, recognition of conflicts, and proper procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 87300",
+            "text": "Each agency shall adopt and promulgate a conflict of interest code. Training is implied as necessary for proper implementation and compliance."
+          }
+        ],
+        "required_language": "All board members and designated employees shall receive training on conflict of interest requirements within [specified timeframe] of assuming their position and every [specified period] thereafter. Training shall cover Political Reform Act requirements, Government Code 1090, recognition of conflicts, disclosure requirements, and recusal procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Code Reviewing Body",
+        "description": "While the Board Policy mentions submission to the \"code reviewing body,\" it does not specifically identify that for school districts, this is typically the county board of education or county superintendent of schools. This could cause confusion about where to submit the conflict of interest code for approval.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 87303",
+            "text": "Each agency's conflict of interest code shall be submitted to the code reviewing body of such agency for approval."
+          }
+        ],
+        "required_language": "For school districts, the code reviewing body is the county superintendent of schools or county board of education as designated by the county.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:40:30.552792+00:00"
+}

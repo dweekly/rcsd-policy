@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4313.2: Demotion/Reassignment
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Specific Notice and Timeline Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the BP nor AR specify the mandatory notice periods and procedural timelines required by Education Code for administrative demotions. The policy's general reference to "statutory deadlines" is insufficient without specific implementation details.
+
+Legal Basis:
+- Education Code Section 44951(a): Requires written notice at least 30 days before the effective date of demotion for certificated administrative employees
+
+Required Language:
+Written notice of demotion shall be given at least 30 days before the effective date. Notice shall include specific reasons for the action and inform the employee of their right to request a hearing before the governing board.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Hearing Rights and Due Process Procedures (Confidence: 80%)
+Missing from: BOTH
+The documents lack specific provisions for employee hearing rights and due process procedures required when demoting administrative employees. While the BP mentions "due process procedures" generally, it doesn't specify the actual procedural protections.
+
+Legal Basis:
+- Education Code Section 44951(b): Provides that demoted employees may request a hearing before the governing board within 30 days of receiving notice
+
+Required Language:
+An employee subject to demotion may request a hearing before the governing board within 30 days of receiving written notice. The hearing shall provide the employee opportunity to be heard and present evidence regarding the proposed demotion.
+
+Recommended Placement: AR
+
+----------------------------------------
+

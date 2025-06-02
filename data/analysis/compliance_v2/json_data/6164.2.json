@@ -1,0 +1,108 @@
+{
+  "code": "6164.2",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6164.2",
+    "title": "Guidance/Counseling Services",
+    "type": "Policy",
+    "last_reviewed": "03/08/2023",
+    "file_path": "data/extracted/policies/6164.2.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes comprehensive guidance for counseling services, there is no corresponding Administrative Regulation to provide specific implementation procedures, timelines, documentation requirements, and operational details required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49600-49602",
+            "text": "Requires specific procedures for confidentiality, record-keeping, and disclosure of student information in counseling contexts"
+          }
+        ],
+        "required_language": "Administrative procedures detailing implementation of counseling services, including confidentiality protocols, documentation requirements, referral procedures, and staff training requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Procedures for Confidentiality and Record-Keeping",
+        "description": "While BP mentions confidentiality requirements under Ed Code 49602, neither document provides specific procedures for handling, storing, and disclosing confidential counseling information, which is required for compliance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49602",
+            "text": "Information of a personal nature disclosed by a student 12 years or older is confidential and shall not become part of the student record without written consent, with specific exceptions for disclosure"
+          }
+        ],
+        "required_language": "Specific procedures for: (1) Securing and storing confidential counseling information separately from student records; (2) Obtaining written consent for disclosure; (3) Documenting exceptions to confidentiality; (4) Training staff on confidentiality requirements; (5) Procedures for when disclosure is required by law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mandatory Reporting Procedures",
+        "description": "Neither document addresses mandatory reporting requirements for counselors when they become aware of child abuse, neglect, or threats of harm, which are legally required procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code 11164-11174.3 (Child Abuse and Neglect Reporting Act)",
+            "text": "School counselors are mandated reporters and must report suspected child abuse or neglect within specified timeframes"
+          }
+        ],
+        "required_language": "Procedures for mandatory reporting including: (1) Recognition of signs of abuse/neglect; (2) Immediate reporting requirements and timelines; (3) Documentation procedures; (4) Follow-up requirements; (5) Training for counseling staff on mandatory reporting obligations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Specific Consent Procedures for Mental Health Services",
+        "description": "While BP mentions written parent consent is required for mental health services, neither document provides specific procedures for obtaining, documenting, and maintaining such consent, or exceptions when students can self-consent.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Family Code 6920-6929",
+            "text": "Specifies when minors can consent to mental health treatment without parental consent"
+          }
+        ],
+        "required_language": "Detailed procedures for: (1) Obtaining written parental consent for mental health services; (2) Determining when students age 12+ can self-consent; (3) Documentation and record-keeping of consent; (4) Procedures when consent is refused; (5) Emergency mental health intervention procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Timeline for Career Counseling Notice",
+        "description": "BP states parents must receive notice \"at least once\" before career counseling beginning in grade 7, but doesn't specify timing requirements for adequate parent participation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 221.5",
+            "text": "Requires general notice to parents before career counseling and course selection so they may participate in counseling sessions and decisions"
+          }
+        ],
+        "required_language": "Specific timeline for providing notice to parents (e.g., \"at least 10 school days before scheduled career counseling sessions\") to ensure meaningful opportunity for participation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Procedures for Student Access to Counseling Services",
+        "description": "Neither document specifies how students can access counseling services, scheduling procedures, or response timeframes for different types of counseling needs.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49602",
+            "text": "Implies students must have access to counseling services that generate confidential information"
+          }
+        ],
+        "required_language": "Procedures for: (1) How students request counseling services; (2) Scheduling and prioritization protocols; (3) Response timeframes for crisis vs. routine counseling; (4) Documentation of services provided; (5) Referral procedures to external agencies.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:34:43.404198+00:00"
+}

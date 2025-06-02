@@ -1,0 +1,99 @@
+{
+  "code": "3511",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3511",
+    "title": "Energy And Water Management",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3511.txt"
+  },
+  "regulation": {
+    "code": "3511",
+    "title": "Energy And Water Management",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3511.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Energy Efficiency Standards for New Construction",
+        "description": "California requires school districts to comply with Title 24 energy efficiency standards and consider life-cycle cost analysis for new construction and major renovations. While the policy mentions new construction in the resource management program, it lacks specific requirements for energy efficiency compliance and cost analysis procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17070.35",
+            "text": "The board of a school district shall not approve any plans for the construction of a new school building or the alteration of any existing school building unless the plans provide for compliance with the energy efficiency standards contained in the State Building Standards Code."
+          }
+        ],
+        "required_language": "All new construction and major renovations shall comply with Title 24 energy efficiency standards as contained in the State Building Standards Code. The district shall conduct life-cycle cost analysis for energy systems and building components as required by law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Proposition 39 Energy Efficiency Program Compliance",
+        "description": "California's Proposition 39 Clean Energy Jobs Act requires school districts to report energy expenditure information and participate in energy efficiency programs. The policy lacks specific provisions for Proposition 39 compliance, reporting requirements, and fund utilization procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 39620-39626",
+            "text": "School districts shall report energy expenditure information and may apply for Proposition 39 funds for energy efficiency improvements that reduce energy consumption and create jobs."
+          }
+        ],
+        "required_language": "The district shall comply with Proposition 39 Clean Energy Jobs Act requirements, including annual reporting of energy expenditure information and consideration of energy efficiency projects eligible for state funding.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing NPDES Permit Requirements and Enforcement Procedures",
+        "description": "While the policy addresses storm water management generally, it lacks specific procedures for NPDES permit compliance, violation reporting, and enforcement actions. The regulation should include detailed implementation procedures for permit compliance monitoring and corrective actions.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Water Code Section 13377",
+            "text": "Any person who violates waste discharge requirements shall be liable civilly and may be subject to cleanup and abatement orders. Permittees must comply with all terms and conditions of NPDES permits."
+          }
+        ],
+        "required_language": "The district shall establish procedures for NPDES permit compliance monitoring, violation reporting to appropriate agencies within required timeframes, and implementation of corrective actions. Staff responsible for storm water management shall receive appropriate training on permit requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Water Conservation Reporting Requirements",
+        "description": "California requires public agencies to report water conservation efforts during drought conditions. The policy should include provisions for water use reporting and conservation measures during declared water emergencies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Water Code Section 10632",
+            "text": "Public agencies shall implement water conservation measures and may be required to report water use during drought emergencies declared by the Governor."
+          }
+        ],
+        "required_language": "During declared drought emergencies, the district shall implement required water conservation measures and submit water use reports as directed by state or local water agencies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Green Building Standards Reference",
+        "description": "California's CALGreen building standards (Title 24, Part 11) establish mandatory green building requirements for public buildings. The policy should reference compliance with CALGreen standards for applicable projects.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 18930-18947",
+            "text": "The California Green Building Standards Code establishes mandatory green building standards for public buildings to promote building practices that reduce environmental impact."
+          }
+        ],
+        "required_language": "New construction and major renovations shall comply with California Green Building Standards Code (CALGreen) requirements as applicable to public school facilities.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:27:32.429999+00:00"
+}

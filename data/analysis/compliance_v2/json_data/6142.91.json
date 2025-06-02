@@ -1,0 +1,93 @@
+{
+  "code": "6142.91",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6142.91",
+    "title": "Reading/Language Arts Instruction",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6142.91.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes comprehensive direction for reading/language arts instruction, there is no corresponding Administrative Regulation to provide implementation procedures, assessment protocols, intervention strategies, and operational details required for effective program delivery.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51210",
+            "text": "The adopted course of study for grades 1 to 6, inclusive, shall include English, including knowledge of, and appreciation for literature and the language, as well as the skills of speaking, reading, listening, spelling, handwriting, and composition."
+          }
+        ],
+        "required_language": "Administrative procedures detailing implementation of reading/language arts instruction including: assessment schedules and protocols, intervention identification and placement procedures, professional development requirements, instructional material selection criteria, progress monitoring systems, and reporting mechanisms to the Board.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing English Learner Instructional Requirements",
+        "description": "Neither the policy nor regulation addresses specific instructional requirements for English Learners in reading/language arts, which is mandated by state law for districts serving EL students.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 306(c)",
+            "text": "It is the policy of the state to ensure the mastery of English by all pupils in the schools; provided that bilingual education or special instruction is permitted in those situations when such instruction is educationally advantageous to the pupils."
+          }
+        ],
+        "required_language": "Provisions for English Learners shall include designated and integrated English Language Development instruction, appropriate instructional materials and strategies for EL students at varying proficiency levels, and coordination between ELD and core reading/language arts instruction.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Special Education Integration Requirements",
+        "description": "The policy lacks required provisions for students with disabilities in reading/language arts instruction, including IEP implementation and specialized instruction requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 56000",
+            "text": "It is the intent of the Legislature to ensure that all individuals with exceptional needs have access to the services and supports they need to be prepared for and to participate in integrated employment and independent living."
+          }
+        ],
+        "required_language": "Reading/language arts instruction for students with disabilities shall be provided in accordance with each student's Individualized Education Program (IEP) or Section 504 plan, including specialized academic instruction, accommodations, modifications, and assistive technology as appropriate.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Parent Notification Requirements",
+        "description": "The policy does not address required parent notifications regarding reading deficiencies, intervention placements, or progress reporting as mandated by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48070.5",
+            "text": "The parent or guardian of a pupil has the right to receive information concerning the academic performance of the pupil's class and the school that the pupil attends."
+          }
+        ],
+        "required_language": "Parents/guardians shall be notified when students are identified as at-risk in reading, when students are placed in intervention programs, and shall receive regular progress reports on their child's reading development and achievement.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated State Standards Reference",
+        "description": "The policy references state standards and frameworks generally but may not reflect current California Common Core State Standards adoption and implementation requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60605.8",
+            "text": "The state board shall adopt English language arts content standards for kindergarten and grades 1 to 12, inclusive, pursuant to recommendations developed by the commission."
+          }
+        ],
+        "required_language": "Academic standards shall align with the California Common Core State Standards for English Language Arts and the current state-adopted English Language Arts/English Language Development Framework.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:31:14.494577+00:00"
+}

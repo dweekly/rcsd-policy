@@ -1,0 +1,269 @@
+{
+  "problematic_citations": [
+    {
+      "policy": "1221.4",
+      "title": "Citizens' Bond Oversight Committees",
+      "issue": "Cites 15278 for term requirements (should be 15282)",
+      "citation_text": "The members of the citizens' oversight committee shall serve terms of two years and may be reappoint..."
+    }
+  ],
+  "citation_frequency": [
+    [
+      "35160",
+      51
+    ],
+    [
+      "44050",
+      20
+    ],
+    [
+      "35160.5",
+      13
+    ],
+    [
+      "35186",
+      12
+    ],
+    [
+      "48980",
+      12
+    ],
+    [
+      "48900",
+      11
+    ],
+    [
+      "47607",
+      8
+    ],
+    [
+      "11165.7",
+      8
+    ],
+    [
+      "45125.1",
+      8
+    ],
+    [
+      "51210",
+      8
+    ],
+    [
+      "37252.2",
+      8
+    ],
+    [
+      "49414",
+      8
+    ],
+    [
+      "87100",
+      7
+    ],
+    [
+      "17592.72",
+      7
+    ],
+    [
+      "35291",
+      7
+    ],
+    [
+      "5193",
+      7
+    ],
+    [
+      "45113",
+      7
+    ],
+    [
+      "35143",
+      7
+    ],
+    [
+      "52052",
+      6
+    ],
+    [
+      "52852",
+      6
+    ],
+    [
+      "32282",
+      6
+    ],
+    [
+      "44031",
+      6
+    ],
+    [
+      "44030.5",
+      6
+    ],
+    [
+      "1126",
+      6
+    ],
+    [
+      "46600",
+      6
+    ],
+    [
+      "48911",
+      6
+    ],
+    [
+      "51220",
+      6
+    ],
+    [
+      "60119",
+      6
+    ],
+    [
+      "52060",
+      5
+    ],
+    [
+      "54950",
+      5
+    ],
+    [
+      "1090",
+      5
+    ],
+    [
+      "51520",
+      5
+    ],
+    [
+      "48907",
+      5
+    ],
+    [
+      "35031",
+      5
+    ],
+    [
+      "6318",
+      5
+    ],
+    [
+      "48933",
+      5
+    ],
+    [
+      "48915",
+      5
+    ],
+    [
+      "48902",
+      5
+    ],
+    [
+      "12940",
+      5
+    ],
+    [
+      "60605",
+      5
+    ],
+    [
+      "49069",
+      5
+    ],
+    [
+      "48852.7",
+      5
+    ],
+    [
+      "48000",
+      5
+    ],
+    [
+      "48206.3",
+      5
+    ],
+    [
+      "32280",
+      4
+    ],
+    [
+      "35256",
+      4
+    ],
+    [
+      "6311",
+      4
+    ],
+    [
+      "1232",
+      4
+    ],
+    [
+      "7054",
+      4
+    ],
+    [
+      "15278",
+      4
+    ]
+  ],
+  "known_ed_codes": {
+    "15278": {
+      "title": "Citizens' Oversight Committee - Establishment and Purpose",
+      "key_requirements": [
+        "Establish committee within 60 days of election results",
+        "Committee purpose: inform public about bond expenditures",
+        "Review and report on taxpayer money spending",
+        "Ensure bond revenues used only for approved purposes"
+      ],
+      "does_NOT_contain": [
+        "Term length requirements",
+        "Number of consecutive terms",
+        "Committee composition requirements"
+      ]
+    },
+    "15280": {
+      "title": "Citizens' Oversight Committee - Support and Proceedings",
+      "key_requirements": [
+        "District must provide technical/administrative assistance",
+        "Proceedings must be open to public",
+        "Must issue regular reports, at least annually",
+        "Documents must be publicly available on website"
+      ],
+      "does_NOT_contain": [
+        "Specific publication deadlines beyond 'annually'"
+      ]
+    },
+    "15282": {
+      "title": "Citizens' Oversight Committee - Membership",
+      "key_requirements": [
+        "Minimum 7 members",
+        "Minimum term of two years",
+        "No more than three consecutive terms",
+        "Specific membership categories (business, senior, taxpayer, parent)",
+        "No district employees, vendors, or contractors"
+      ],
+      "does_NOT_contain": [
+        "Maximum term length (only minimum specified)"
+      ]
+    },
+    "35160": {
+      "title": "Powers of Governing Boards",
+      "key_requirements": [
+        "Board may initiate any program/activity not in conflict with law",
+        "Actions must not conflict with purposes of school districts"
+      ],
+      "does_NOT_contain": [
+        "Specific program requirements",
+        "Mandatory actions"
+      ]
+    }
+  },
+  "recommendations": [
+    "Review all 15278 citations for accuracy",
+    "Build comprehensive Ed Code database",
+    "Add citation verification to compliance process"
+  ]
+}

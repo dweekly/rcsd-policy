@@ -1,0 +1,78 @@
+{
+  "code": "5141.33",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5141.33",
+    "title": "Head Lice",
+    "type": "Policy",
+    "last_reviewed": "09/11/2013",
+    "file_path": "data/extracted/policies/5141.33.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Head Lice Management",
+        "description": "The Board Policy references procedures that should be implemented by the Superintendent or designee, including screening programs, examination protocols, treatment information, and privacy maintenance, but lacks the detailed administrative regulation that would specify how these procedures are to be carried out. California Education Code requires districts to have comprehensive procedures for communicable disease control.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49403",
+            "text": "The governing board of any school district may exclude from school any pupil whose presence would constitute a clear and present danger to the life, safety, or health of a pupil or school personnel."
+          }
+        ],
+        "required_language": "Administrative regulation should include: specific screening procedures, examination protocols, criteria for exclusion and readmission, treatment verification requirements, notification procedures for parents and health officials, record-keeping requirements, staff training protocols, and confidentiality procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Health Department Notification Requirements",
+        "description": "Neither the policy nor regulation addresses mandatory reporting requirements to local health departments for communicable conditions, which may include head lice infestations depending on local health department requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 120325",
+            "text": "Each health officer shall take measures as may be necessary to prevent the spread of the disease and shall report to the department in the manner and at the times required by departmental regulations."
+          }
+        ],
+        "required_language": "The district shall comply with local health department notification requirements regarding communicable conditions, including head lice infestations when required by local health authorities.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Record-Keeping Requirements",
+        "description": "The policy mentions maintaining privacy but does not specify record-keeping requirements for head lice cases, including documentation of examinations, treatments, and follow-up checks, which are important for tracking and preventing spread.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49069",
+            "text": "Each school district shall maintain the confidentiality of pupil records in accordance with applicable state and federal laws."
+          }
+        ],
+        "required_language": "Records of head lice examinations, treatments, and follow-up shall be maintained confidentially in accordance with applicable privacy laws and may be disclosed only as permitted by law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Staff Training Requirements",
+        "description": "The policy does not address training requirements for staff who may be involved in identifying or managing head lice cases, which is important for proper implementation of the head lice management program.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44237",
+            "text": "The governing board of a school district shall provide for the training of school personnel in health, safety, and emergency procedures."
+          }
+        ],
+        "required_language": "Staff involved in head lice identification and management shall receive appropriate training on identification, examination procedures, privacy requirements, and district protocols.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:25:03.936114+00:00"
+}

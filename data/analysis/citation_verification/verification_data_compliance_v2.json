@@ -1,0 +1,32 @@
+{
+  "generated": "2025-06-01T18:16:47.013978+00:00",
+  "compliance_version": "compliance_v2",
+  "citations_by_policy": {
+    "1221.4": [
+      "15278",
+      "15280"
+    ]
+  },
+  "fetched_codes": {
+    "15278": {
+      "section": "15278",
+      "content": "15278.",
+      "title": null,
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15278&lawCode=EDC",
+      "fetched": "2025-06-01T18:16:45.642699+00:00"
+    },
+    "15280": {
+      "section": "15280",
+      "content": "15280.",
+      "title": null,
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15280&lawCode=EDC",
+      "fetched": "2025-06-01T18:16:47.012587+00:00"
+    }
+  },
+  "summary": {
+    "total_policies": 1,
+    "total_citations": 2,
+    "unique_citations": 2,
+    "verified_citations": 2
+  }
+}

@@ -1,0 +1,2033 @@
+{
+  "generated": "2025-06-01T19:26:44.928472+00:00",
+  "summary": {
+    "total_policies": 355,
+    "total_issues": 612,
+    "verified": 2,
+    "unverified": 29,
+    "not_cached": 506
+  },
+  "problematic_findings": [
+    {
+      "code": "4200",
+      "title": "Classified Personnel",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Merit System Requirements",
+          "problems": [
+            {
+              "section": "45240",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of each school district shall establish a merit system of personnel administrati"
+            }
+          ]
+        },
+        {
+          "title": "Missing Physical Examination Requirements",
+          "problems": [
+            {
+              "section": "45122",
+              "status": "NOT_CACHED",
+              "claim": "No person shall be employed in a classified position in any school district unless he has been exami"
+            }
+          ]
+        },
+        {
+          "title": "Missing Fingerprinting Requirements",
+          "problems": [
+            {
+              "section": "45125",
+              "status": "NOT_CACHED",
+              "claim": "No person shall be employed in a classified position by any school district unless he has had his fi"
+            }
+          ]
+        },
+        {
+          "title": "Missing Tuberculosis Testing Requirements",
+          "problems": [
+            {
+              "section": "49406",
+              "status": "NOT_CACHED",
+              "claim": "Each person employed by a school district in a classified or certificated position shall have, prior"
+            }
+          ]
+        },
+        {
+          "title": "Missing Probationary Period Specifications",
+          "problems": [
+            {
+              "section": "45113",
+              "status": "NOT_CACHED",
+              "claim": "The probationary period for a classified employee shall be six months of actual service, except that"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5111.16",
+      "title": "Residency For Homeless Children",
+      "type": "AR",
+      "issues": [
+        {
+          "title": "Missing School of Origin Rights",
+          "problems": [
+            {
+              "section": "48852.7",
+              "status": "NOT_CACHED",
+              "claim": "Each homeless child or youth shall have the right to either remain in his or her school of origin fo"
+            }
+          ]
+        },
+        {
+          "title": "Missing Homeless Liaison Designation",
+          "problems": [
+            {
+              "section": "48852.5",
+              "status": "NOT_CACHED",
+              "claim": "Each school district shall designate a staff person as a liaison for homeless children"
+            }
+          ]
+        },
+        {
+          "title": "Missing Immediate Enrollment Requirements",
+          "problems": [
+            {
+              "section": "48852.7",
+              "status": "NOT_CACHED",
+              "claim": "The school selected shall immediately enroll the homeless child or youth, even if the child or youth"
+            }
+          ]
+        },
+        {
+          "title": "Missing Dispute Resolution Process",
+          "problems": [
+            {
+              "section": "48852.7",
+              "status": "NOT_CACHED",
+              "claim": "If a dispute arises over school selection or enrollment, the child or youth shall be immediately enr"
+            }
+          ]
+        },
+        {
+          "title": "Missing Transportation Requirements",
+          "problems": [
+            {
+              "section": "48852.7",
+              "status": "NOT_CACHED",
+              "claim": "If the homeless child or youth continues to live in the area served by the school district in which "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3300",
+      "title": "Expenditures And Purchases",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Competitive Bidding Requirements",
+          "problems": [
+            {
+              "section": "20111",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of any school district may purchase materials, supplies, and equipment by compet"
+            }
+          ]
+        },
+        {
+          "title": "Missing Public Contract Code Bid Thresholds",
+          "problems": [
+            {
+              "section": "20111",
+              "status": "NOT_CACHED",
+              "claim": "Contracts for materials, supplies, or equipment in excess of the amount specified shall be let to th"
+            }
+          ]
+        },
+        {
+          "title": "Missing Emergency Purchase Procedures",
+          "problems": [
+            {
+              "section": "20113",
+              "status": "NOT_CACHED",
+              "claim": "In case of emergency when repair or replacements are necessary, the governing board may proceed with"
+            }
+          ]
+        },
+        {
+          "title": "Missing Conflict of Interest Provisions",
+          "problems": [
+            {
+              "section": "1090",
+              "status": "NOT_CACHED",
+              "claim": "Members of the Legislature, state, county, district, judicial district, and city officers or employe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3514.1",
+      "title": "Hazardous Substances",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Asbestos Management Requirements",
+          "problems": [
+            {
+              "section": "49410.5",
+              "status": "NOT_CACHED",
+              "claim": "Each school district shall maintain an asbestos management plan for each school site and shall make "
+            }
+          ]
+        },
+        {
+          "title": "Missing Lead-Based Paint Requirements",
+          "problems": [
+            {
+              "section": "10525",
+              "status": "NOT_CACHED",
+              "claim": "Public agencies shall comply with lead-based paint requirements including testing, notification, and"
+            }
+          ]
+        },
+        {
+          "title": "Missing Indoor Air Quality Requirements",
+          "problems": [
+            {
+              "section": "17608",
+              "status": "NOT_CACHED",
+              "claim": "School districts shall maintain indoor air quality that supports a healthy learning environment and "
+            }
+          ]
+        },
+        {
+          "title": "Missing Integrated Pest Management Requirements",
+          "problems": [
+            {
+              "section": "13181",
+              "status": "NOT_CACHED",
+              "claim": "School districts shall implement integrated pest management programs and provide advance notificatio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3515",
+      "title": "Campus Security",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Comprehensive School Safety Plan Requirements",
+          "problems": [
+            {
+              "section": "32282",
+              "status": "NOT_CACHED",
+              "claim": "The comprehensive school safety plan shall include, but not be limited to, all of the following: (a)"
+            }
+          ]
+        },
+        {
+          "title": "Missing School Safety Plan Review and Update Requirements",
+          "problems": [
+            {
+              "section": "32288",
+              "status": "NOT_CACHED",
+              "claim": "The school site council or school safety planning committee shall review and update the school safet"
+            }
+          ]
+        },
+        {
+          "title": "Missing School Safety Planning Committee Requirements",
+          "problems": [
+            {
+              "section": "32281",
+              "status": "NOT_CACHED",
+              "claim": "Each school shall establish a school safety planning committee consisting of the following members: "
+            }
+          ]
+        },
+        {
+          "title": "Missing Emergency Response Procedures",
+          "problems": [
+            {
+              "section": "32282",
+              "status": "NOT_CACHED",
+              "claim": "Disaster procedures, routine and emergency, including adaptations for pupils with disabilities in ac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3541.2",
+      "title": "Transportation For Students With Disabilities",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Safety and Emergency Procedures for Students with Disabilities",
+          "problems": [
+            {
+              "section": "39831.5",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of any school district maintaining any school bus shall establish emergency evac"
+            }
+          ]
+        },
+        {
+          "title": "Missing Driver and Aide Training Requirements",
+          "problems": [
+            {
+              "section": "56001",
+              "status": "NOT_CACHED",
+              "claim": "It is the intent of the Legislature that all individuals with exceptional needs have access to the p"
+            }
+          ]
+        },
+        {
+          "title": "Missing Transportation Safety Equipment Requirements",
+          "problems": [
+            {
+              "section": "39831.3",
+              "status": "NOT_CACHED",
+              "claim": "Pupils who use wheelchairs and who are transported in school buses shall be secured by wheelchair se"
+            }
+          ]
+        },
+        {
+          "title": "Missing Parent Notification and Consent Procedures",
+          "problems": [
+            {
+              "section": "56341.1",
+              "status": "NOT_CACHED",
+              "claim": "The individualized education program team shall consider... whether the child requires assistive tec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3542",
+      "title": "School Bus Drivers",
+      "type": "AR",
+      "issues": [
+        {
+          "title": "Missing Criminal Background Check Requirements",
+          "problems": [
+            {
+              "section": "45125.1",
+              "status": "NOT_CACHED",
+              "claim": "Each person employed by a school district in a position requiring contact with pupils shall be requi"
+            }
+          ]
+        },
+        {
+          "title": "Missing Medical Examination Requirements",
+          "problems": [
+            {
+              "section": "12517.2",
+              "status": "NOT_CACHED",
+              "claim": "The department shall require each applicant for an original school bus driver certificate to submit "
+            }
+          ]
+        },
+        {
+          "title": "Missing Specific Training Hour Requirements",
+          "problems": [
+            {
+              "section": "12523",
+              "status": "NOT_CACHED",
+              "claim": "No school bus driver certificate shall be issued until the applicant has satisfactorily completed no"
+            }
+          ]
+        },
+        {
+          "title": "Missing Student Discipline and Suspension Procedures",
+          "problems": [
+            {
+              "section": "35291",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of any school district may exclude from the privilege of riding on school buses "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4118",
+      "title": "Dismissal/Suspension/Disciplinary Action",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Mandatory Reporting to CTC for Arrests",
+          "problems": [
+            {
+              "section": "44030.5",
+              "status": "NOT_CACHED",
+              "claim": "The employing agency shall report to the commission, by telephone within 24 hours and in writing wit"
+            }
+          ]
+        },
+        {
+          "title": "Missing Child Abuse Reporting Requirements",
+          "problems": [
+            {
+              "section": "44030.5",
+              "status": "NOT_CACHED",
+              "claim": "The employing agency shall report to the commission whenever...a certificated employee is dismissed,"
+            }
+          ]
+        },
+        {
+          "title": "Missing Sexual Misconduct Reporting Requirements",
+          "problems": [
+            {
+              "section": "44030.5",
+              "status": "NOT_CACHED",
+              "claim": "The employing agency shall report to the commission whenever...a certificated employee is dismissed,"
+            }
+          ]
+        },
+        {
+          "title": "Missing Controlled Substance Offense Reporting",
+          "problems": [
+            {
+              "section": "44030.5",
+              "status": "NOT_CACHED",
+              "claim": "The employing agency shall report to the commission whenever...a certificated employee is dismissed,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4119.43",
+      "title": "Universal Precautions",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Exposure Control Plan Requirements",
+          "problems": [
+            {
+              "section": "5193",
+              "status": "NOT_CACHED",
+              "claim": "Each employer having an employee with occupational exposure shall establish a written Exposure Contr"
+            }
+          ]
+        },
+        {
+          "title": "Missing Hepatitis B Vaccination Program Requirements",
+          "problems": [
+            {
+              "section": "5193",
+              "status": "NOT_CACHED",
+              "claim": "The employer shall make available the hepatitis B vaccine and vaccination series to all employees wh"
+            }
+          ]
+        },
+        {
+          "title": "Missing Training Program Requirements",
+          "problems": [
+            {
+              "section": "5193",
+              "status": "NOT_CACHED",
+              "claim": "The employer shall ensure that all employees with occupational exposure participate in a training pr"
+            }
+          ]
+        },
+        {
+          "title": "Missing Medical Recordkeeping Requirements",
+          "problems": [
+            {
+              "section": "5193",
+              "status": "NOT_CACHED",
+              "claim": "The employer shall establish and maintain an accurate record for each employee with occupational exp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4139",
+      "title": "Peer Assistance and Review",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Collective Bargaining Agreement Requirement",
+          "problems": [
+            {
+              "section": "44500",
+              "status": "NOT_CACHED",
+              "claim": "\"A school district may establish a peer assistance and review program for certificated employees pur"
+            }
+          ]
+        },
+        {
+          "title": "Missing Due Process and Appeal Rights",
+          "problems": [
+            {
+              "section": "44500",
+              "status": "NOT_CACHED",
+              "claim": "Peer assistance and review programs must include \"due process protections for participating teachers"
+            }
+          ]
+        },
+        {
+          "title": "Missing Confidentiality Requirements",
+          "problems": [
+            {
+              "section": "44503",
+              "status": "NOT_CACHED",
+              "claim": "\"All proceedings of the peer review panel shall be confidential. Information obtained through the pe"
+            }
+          ]
+        },
+        {
+          "title": "Missing Consulting Teacher Release Time and Compensation",
+          "problems": [
+            {
+              "section": "44501",
+              "status": "NOT_CACHED",
+              "claim": "\"Consulting teachers shall be provided with adequate release time to perform their duties and shall "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5142",
+      "title": "Safety",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Comprehensive Emergency Procedures and Drills",
+          "problems": [
+            {
+              "section": "32001",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of every school district shall cause all buildings and grounds under its jurisdi"
+            },
+            {
+              "section": "35295",
+              "status": "NOT_CACHED",
+              "claim": "Requires school districts to develop comprehensive school safety plans and conduct emergency drills "
+            }
+          ]
+        },
+        {
+          "title": "Missing Mandated Reporter Training Requirements",
+          "problems": [
+            {
+              "section": "11165.7",
+              "status": "NOT_CACHED",
+              "claim": "Training regarding the mandated reporting requirements shall be provided to persons who are mandated"
+            },
+            {
+              "section": "44691",
+              "status": "NOT_CACHED",
+              "claim": "Requires training for school personnel on child abuse identification and reporting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5145.12",
+      "title": "Search And Seizure",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Locker and Property Search Provisions",
+          "problems": [
+            {
+              "section": "49050",
+              "status": "NOT_CACHED",
+              "claim": "No school employee shall conduct a search that involves removing or arranging any or all of the clot"
+            }
+          ]
+        },
+        {
+          "title": "Missing Documentation and Record-Keeping Requirements",
+          "problems": [
+            {
+              "section": "48900",
+              "status": "NOT_VERIFIED",
+              "claim": "Requires documentation of disciplinary actions and evidence collection for violations of school rule"
+            }
+          ]
+        },
+        {
+          "title": "Missing Law Enforcement Coordination Procedures",
+          "problems": [
+            {
+              "section": "48902",
+              "status": "NOT_CACHED",
+              "claim": "Addresses coordination between school officials and law enforcement regarding student discipline and"
+            }
+          ]
+        },
+        {
+          "title": "Missing Emergency/Exigent Circumstances Provisions",
+          "problems": [
+            {
+              "section": "44807",
+              "status": "NOT_CACHED",
+              "claim": "School employees have authority to take immediate action to protect student safety and welfare."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6142.8",
+      "title": "Comprehensive Health Education",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Parent Notification Requirements for Comprehensive Sexual Health Education",
+          "problems": [
+            {
+              "section": "51937",
+              "status": "NOT_CACHED",
+              "claim": "A school district may provide comprehensive sexual health education, consisting of age-appropriate i"
+            }
+          ]
+        },
+        {
+          "title": "Missing Instructional Materials Inspection Rights",
+          "problems": [
+            {
+              "section": "51938",
+              "status": "NOT_CACHED",
+              "claim": "A parent or guardian of a pupil has the right to inspect the written and audiovisual educational mat"
+            }
+          ]
+        },
+        {
+          "title": "Missing Minimum Instructional Time Requirements",
+          "problems": [
+            {
+              "section": "51210",
+              "status": "NOT_CACHED",
+              "claim": "Health, including instruction in the principles and practices of individual, family, and community h"
+            }
+          ]
+        },
+        {
+          "title": "Missing Comprehensive Sexual Health Education Content Standards",
+          "problems": [
+            {
+              "section": "51934",
+              "status": "NOT_CACHED",
+              "claim": "If a school district elects to offer comprehensive sexual health education or HIV prevention educati"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6157",
+      "title": "Distance Learning",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Attendance Tracking Procedures",
+          "problems": [
+            {
+              "section": "51747.5",
+              "status": "NOT_CACHED",
+              "claim": "Requires that attendance for distance learning be based on evidence of participation in online activ"
+            }
+          ]
+        },
+        {
+          "title": "Missing Teacher Certification Requirements",
+          "problems": [
+            {
+              "section": "51747.5",
+              "status": "NOT_CACHED",
+              "claim": "Requires that distance learning courses be taught by teachers who hold appropriate California teachi"
+            }
+          ]
+        },
+        {
+          "title": "Missing Instructional Time Requirements",
+          "problems": [
+            {
+              "section": "47612.5",
+              "status": "NOT_CACHED",
+              "claim": "Distance learning instructional time shall be calculated based on time value of assignments as deter"
+            }
+          ]
+        },
+        {
+          "title": "Missing Student-Teacher Interaction Requirements",
+          "problems": [
+            {
+              "section": "43503",
+              "status": "NOT_CACHED",
+              "claim": "Distance learning must include daily live interaction between students and certificated employees an"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6171",
+      "title": "Title I Programs",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing School-Level Parent and Family Engagement Policy Requirements",
+          "problems": [
+            {
+              "section": "6318",
+              "status": "NOT_CACHED",
+              "claim": "Each school served under this part shall jointly develop with, and distribute to, parents and family"
+            }
+          ]
+        },
+        {
+          "title": "Missing School-Parent Compact Requirements",
+          "problems": [
+            {
+              "section": "6318",
+              "status": "NOT_CACHED",
+              "claim": "Each school served under this part shall jointly develop with parents for all children served under "
+            }
+          ]
+        },
+        {
+          "title": "Missing Supplement Not Supplant Requirements",
+          "problems": [
+            {
+              "section": "6321",
+              "status": "NOT_CACHED",
+              "claim": "A local educational agency may receive funds under this part only if State and local funds will be u"
+            }
+          ]
+        },
+        {
+          "title": "Missing Targeted Assistance Program Requirements",
+          "problems": [
+            {
+              "section": "6315",
+              "status": "NOT_CACHED",
+              "claim": "A local educational agency may use funds received under this part to provide services under this par"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "0420.4",
+      "title": "Charter School Authorization",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Charter Renewal Procedures",
+          "problems": [
+            {
+              "section": "47607",
+              "status": "NOT_CACHED",
+              "claim": "A charter may be renewed by the chartering authority for successive five-year terms. A charter schoo"
+            }
+          ]
+        },
+        {
+          "title": "Missing Charter Revocation Procedures",
+          "problems": [
+            {
+              "section": "47607",
+              "status": "NOT_CACHED",
+              "claim": "A chartering authority may revoke a charter for material violation of the conditions, standards, or "
+            }
+          ]
+        },
+        {
+          "title": "Missing Material Revision Procedures",
+          "problems": [
+            {
+              "section": "47607",
+              "status": "NOT_CACHED",
+              "claim": "A material revision of the provisions of a charter may be made only with the approval of the charter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "0460",
+      "title": "Local Control And Accountability Plan",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing IDEA Addendum Development Process",
+          "problems": [
+            {
+              "section": "52064.3",
+              "status": "NOT_CACHED",
+              "claim": "The IDEA addendum shall be developed, reviewed, and approved in conjunction with and in the same man"
+            }
+          ]
+        },
+        {
+          "title": "Missing LCFF Budget Overview Development Process",
+          "problems": [
+            {
+              "section": "52064.1",
+              "status": "NOT_CACHED",
+              "claim": "The budget overview shall be adopted, reviewed, and approved in the same manner as the LCAP and the "
+            }
+          ]
+        },
+        {
+          "title": "Incomplete Student Advisory Committee Requirements",
+          "problems": [
+            {
+              "section": "52063",
+              "status": "NOT_CACHED",
+              "claim": "Student members of the parent advisory committee or the student advisory committee shall represent t"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "0520.1",
+      "title": "Comprehensive And Targeted School Improvement",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Stakeholder Engagement Requirements",
+          "problems": [
+            {
+              "section": "6311",
+              "status": "NOT_CACHED",
+              "claim": "School improvement plans shall be developed with timely and meaningful consultation with parents, co"
+            }
+          ]
+        },
+        {
+          "title": "Missing Public Availability and Translation Requirements",
+          "problems": [
+            {
+              "section": "6311",
+              "status": "NOT_CACHED",
+              "claim": "School improvement plans shall be made publicly available and provided in an understandable and unif"
+            }
+          ]
+        },
+        {
+          "title": "Missing Annual Review and Revision Requirements",
+          "problems": [
+            {
+              "section": "6311",
+              "status": "NOT_CACHED",
+              "claim": "School improvement plans shall be reviewed and revised, as appropriate, based on student needs and p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1114",
+      "title": "District-Sponsored Social Media",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Public Records Act Disclosure Requirements",
+          "problems": [
+            {
+              "section": "6250",
+              "status": "NOT_CACHED",
+              "claim": "Public records are open to inspection at all times during the office hours of the state or local age"
+            }
+          ]
+        },
+        {
+          "title": "Missing Records Retention Requirements",
+          "problems": [
+            {
+              "section": "60200",
+              "status": "NOT_CACHED",
+              "claim": "The head of each agency of state and local government shall establish and maintain an active, contin"
+            }
+          ]
+        },
+        {
+          "title": "Missing FERPA Compliance Provisions",
+          "problems": [
+            {
+              "section": "1232",
+              "status": "NOT_CACHED",
+              "claim": "Educational agencies and institutions shall protect the privacy of student education records and obt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1240",
+      "title": "Volunteer Assistance",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Criminal Background Check Requirements",
+          "problems": [
+            {
+              "section": "45125.1",
+              "status": "NOT_CACHED",
+              "claim": "Requires criminal background checks for volunteers who have frequent or prolonged contact with stude"
+            }
+          ]
+        },
+        {
+          "title": "Missing Mandated Reporter Training Requirements",
+          "problems": [
+            {
+              "section": "11165.7",
+              "status": "NOT_CACHED",
+              "claim": "Defines mandated reporters to include school volunteers and requires training on child abuse identif"
+            }
+          ]
+        },
+        {
+          "title": "Missing Volunteer Application and Approval Process",
+          "problems": [
+            {
+              "section": "35021",
+              "status": "NOT_CACHED",
+              "claim": "Requires governing boards to establish procedures for volunteer service and ensure volunteers meet q"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1325",
+      "title": "Advertising And Promotion",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Commercial Speech Constitutional Protections",
+          "problems": [
+            {
+              "section": "35160",
+              "status": "NOT_VERIFIED",
+              "claim": "The governing board of a school district may initiate and carry on any program, activity, or may oth"
+            }
+          ]
+        },
+        {
+          "title": "Missing Appeal Process for Denied Materials",
+          "problems": [
+            {
+              "section": "48907",
+              "status": "NOT_CACHED",
+              "claim": "Students of the public schools shall have the right to exercise freedom of speech and of the press.."
+            }
+          ]
+        },
+        {
+          "title": "Insufficient Public Forum Analysis",
+          "problems": [
+            {
+              "section": "35160.5",
+              "status": "NOT_VERIFIED",
+              "claim": "It is the intent of the Legislature that school districts not restrict the use of school facilities "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "1340",
+      "title": "Access To District Records",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Response Timeline for Immediate Disclosure Determination",
+          "problems": [
+            {
+              "section": "6253",
+              "status": "NOT_CACHED",
+              "claim": "\"Public records are open to inspection at all times during the office hours of the state or local ag"
+            }
+          ]
+        },
+        {
+          "title": "Missing Required Notice Language for Denials",
+          "problems": [
+            {
+              "section": "6253",
+              "status": "NOT_CACHED",
+              "claim": "\"Nothing in this chapter shall be construed to permit an agency to delay or obstruct the inspection "
+            }
+          ]
+        },
+        {
+          "title": "Incomplete Electronic Records Production Requirements",
+          "problems": [
+            {
+              "section": "6253.9",
+              "status": "NOT_CACHED",
+              "claim": "\"Any agency that has information that constitutes an identifiable public record not exempt from disc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2111",
+      "title": "Superintendent Governance Standards",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Superintendent Evaluation Process and Criteria",
+          "problems": [
+            {
+              "section": "35031",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of a school district shall evaluate the performance of the superintendent at lea"
+            }
+          ]
+        },
+        {
+          "title": "Missing Professional Development Requirements",
+          "problems": [
+            {
+              "section": "44279.1",
+              "status": "NOT_CACHED",
+              "claim": "Each person employed in a position requiring an administrative services credential shall complete 40"
+            }
+          ]
+        },
+        {
+          "title": "Missing Conflict of Interest and Ethics Compliance",
+          "problems": [
+            {
+              "section": "53235",
+              "status": "NOT_CACHED",
+              "claim": "Each local agency official shall receive at least two hours of training in ethics laws and requireme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2230",
+      "title": "Representative And Deliberative Groups",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing School Site Council Requirements",
+          "problems": [
+            {
+              "section": "52852",
+              "status": "NOT_CACHED",
+              "claim": "The school site council shall be composed of the principal and representatives of: parents or guardi"
+            }
+          ]
+        },
+        {
+          "title": "Missing District English Learner Advisory Committee (DELAC) Requirements",
+          "problems": [
+            {
+              "section": "52176",
+              "status": "NOT_CACHED",
+              "claim": "In any school district in which the number of pupils who are English learners is 15 percent or more "
+            }
+          ]
+        },
+        {
+          "title": "Missing Parent Advisory Committee Requirements for Title I",
+          "problems": [
+            {
+              "section": "6318",
+              "status": "NOT_CACHED",
+              "claim": "Districts receiving Title I funds shall establish procedures for meaningful consultation with parent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3000",
+      "title": "Concepts And Roles",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Specific Public Input Requirements for Budget Process",
+          "problems": [
+            {
+              "section": "42103",
+              "status": "NOT_CACHED",
+              "claim": "The governing board shall hold a public hearing on the proposed budget prior to adoption. Notice of "
+            }
+          ]
+        },
+        {
+          "title": "Missing Budget Adoption Timeline Requirements",
+          "problems": [
+            {
+              "section": "42127",
+              "status": "NOT_CACHED",
+              "claim": "On or before July 1, the governing board of each school district shall hold a public hearing on and "
+            }
+          ]
+        },
+        {
+          "title": "Missing Independent Audit Requirements Detail",
+          "problems": [
+            {
+              "section": "41020",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of each school district shall provide for an annual independent audit of the fin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3100",
+      "title": "Budget",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Budget Transparency Requirements",
+          "problems": [
+            {
+              "section": "53087.8",
+              "status": "NOT_CACHED",
+              "claim": "Local agencies shall make available on their Internet Web sites their current budget and the prior y"
+            }
+          ]
+        },
+        {
+          "title": "Missing Interim Financial Reporting Requirements",
+          "problems": [
+            {
+              "section": "42130",
+              "status": "NOT_CACHED",
+              "claim": "The governing board shall file interim financial reports with the county superintendent of schools t"
+            }
+          ]
+        },
+        {
+          "title": "Missing Unaudited Actuals Reporting Requirement",
+          "problems": [
+            {
+              "section": "42100",
+              "status": "NOT_CACHED",
+              "claim": "On or before September 15, the governing board of each school district shall file with the county su"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3250",
+      "title": "Transportation Fees",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Notice and Hearing Requirements for Transportation Fee Adoption",
+          "problems": [
+            {
+              "section": "39807.5",
+              "status": "NOT_CACHED",
+              "claim": "Before adopting a resolution to charge fees pursuant to this section, the governing board of a schoo"
+            }
+          ]
+        },
+        {
+          "title": "Missing Annual Resolution Requirement",
+          "problems": [
+            {
+              "section": "39807.5",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of a school district may adopt a resolution to charge fees for home-to-school tr"
+            }
+          ]
+        },
+        {
+          "title": "Missing Hardship Waiver Process",
+          "problems": [
+            {
+              "section": "39807.5",
+              "status": "NOT_CACHED",
+              "claim": "The governing board may waive the fee for any pupil for whom the fee would be a financial hardship."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3260",
+      "title": "Fees And Charges",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Prohibition on Fees for Educational Activities",
+          "problems": [
+            {
+              "section": "49011",
+              "status": "NOT_CACHED",
+              "claim": "A pupil enrolled in a school shall not be required to pay any fee, deposit, or other charge for his "
+            }
+          ]
+        },
+        {
+          "title": "Missing Complaint Process for Illegal Fees",
+          "problems": [
+            {
+              "section": "4630",
+              "status": "NOT_CACHED",
+              "claim": "Pupil fees complaints may be filed pursuant to the district's uniform complaint procedures... The di"
+            }
+          ]
+        },
+        {
+          "title": "Missing Annual Notification Requirement",
+          "problems": [
+            {
+              "section": "4622",
+              "status": "NOT_CACHED",
+              "claim": "Each school district shall annually provide written notification to pupils, parents, and guardians o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3280",
+      "title": "Sale Or Lease Of District-Owned Real Property",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Priority Notification Requirements for Surplus Land Act",
+          "problems": [
+            {
+              "section": "54222",
+              "status": "NOT_CACHED",
+              "claim": "Before disposing of surplus land, a local agency shall send written notice by certified mail, return"
+            }
+          ]
+        },
+        {
+          "title": "Missing Good Faith Negotiation Requirements",
+          "problems": [
+            {
+              "section": "54227",
+              "status": "NOT_CACHED",
+              "claim": "If a local agency receives a notice of interest from an entity with priority rights, the agency shal"
+            }
+          ]
+        },
+        {
+          "title": "Missing Affordable Housing Compliance Requirements",
+          "problems": [
+            {
+              "section": "54233",
+              "status": "NOT_CACHED",
+              "claim": "When disposing of surplus land to an entity other than a housing sponsor for affordable housing, the"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3400",
+      "title": "Management Of District Assets/Accounts",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Annual Financial Audit Requirements",
+          "problems": [
+            {
+              "section": "41020",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of each school district shall provide for an annual audit of the financial and p"
+            }
+          ]
+        },
+        {
+          "title": "Missing Investment Policy Requirements",
+          "problems": [
+            {
+              "section": "53646",
+              "status": "NOT_CACHED",
+              "claim": "The legislative body of a local agency may invest funds that are not required for the immediate nece"
+            }
+          ]
+        },
+        {
+          "title": "Missing Procurement and Contracting Controls",
+          "problems": [
+            {
+              "section": "20111",
+              "status": "NOT_CACHED",
+              "claim": "Except as otherwise provided, all contracts for supplies, materials, or equipment shall be let to th"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3452",
+      "title": "Student Activity Funds",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Specific Disbursement Procedures",
+          "problems": [
+            {
+              "section": "48933",
+              "status": "NOT_CACHED",
+              "claim": "No funds so raised shall be expended except upon the approval of the certificated employee who is th"
+            }
+          ]
+        },
+        {
+          "title": "Missing Cash Handling and Deposit Procedures",
+          "problems": [
+            {
+              "section": "48933",
+              "status": "NOT_CACHED",
+              "claim": "Proper standards of business procedure shall be followed in the raising and expending of such funds."
+            }
+          ]
+        },
+        {
+          "title": "Missing Record Retention Requirements",
+          "problems": [
+            {
+              "section": "60201",
+              "status": "NOT_CACHED",
+              "claim": "Public records shall be retained in accordance with approved records retention schedules."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3511.1",
+      "title": "Integrated Waste Management",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Mandatory Integrated Waste Management Plan Requirements",
+          "problems": [
+            {
+              "section": "42920",
+              "status": "NOT_CACHED",
+              "claim": "Each public agency shall adopt an integrated waste management plan that includes specific waste redu"
+            }
+          ]
+        },
+        {
+          "title": "Missing Source Reduction Requirements",
+          "problems": [
+            {
+              "section": "40051",
+              "status": "NOT_CACHED",
+              "claim": "Source reduction shall be given the highest priority in integrated waste management, followed by rec"
+            }
+          ]
+        },
+        {
+          "title": "Missing Mandatory Reporting Requirements",
+          "problems": [
+            {
+              "section": "42926",
+              "status": "NOT_CACHED",
+              "claim": "Public agencies shall submit annual reports on their integrated waste management activities and prog"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3516",
+      "title": "Emergencies And Disaster Preparedness Plan",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Annual Review and Update Requirement",
+          "problems": [
+            {
+              "section": "32286",
+              "status": "NOT_CACHED",
+              "claim": "The comprehensive school safety plan shall be reviewed and updated by March 1 of every year by the s"
+            }
+          ]
+        },
+        {
+          "title": "Missing School Site Council/Safety Planning Committee Involvement",
+          "problems": [
+            {
+              "section": "32288",
+              "status": "NOT_CACHED",
+              "claim": "The comprehensive school safety plan shall be developed by the school site council or a school safet"
+            }
+          ]
+        },
+        {
+          "title": "Missing Public Meeting and Adoption Requirements",
+          "problems": [
+            {
+              "section": "32288",
+              "status": "NOT_CACHED",
+              "claim": "The comprehensive school safety plan shall be adopted by the school district governing board at a pu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3517",
+      "title": "Facilities Inspection",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Annual Inspection Requirement and Timeline",
+          "problems": [
+            {
+              "section": "17592.72",
+              "status": "NOT_CACHED",
+              "claim": "The governing board shall ensure that an inspection to determine the conditions specified in the ins"
+            }
+          ]
+        },
+        {
+          "title": "Missing Public Reporting Requirements",
+          "problems": [
+            {
+              "section": "17592.72",
+              "status": "NOT_CACHED",
+              "claim": "The results of the inspection shall be available at the district office and at the school, and shall"
+            }
+          ]
+        },
+        {
+          "title": "Missing Record Retention Requirements",
+          "problems": [
+            {
+              "section": "17592.72",
+              "status": "NOT_CACHED",
+              "claim": "The governing board shall maintain records of the inspection and any corrective action taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3541.1",
+      "title": "Transportation For School-Related Trips",
+      "type": "AR",
+      "issues": [
+        {
+          "title": "Missing Driver Background Check Requirements",
+          "problems": [
+            {
+              "section": "45125.1",
+              "status": "NOT_CACHED",
+              "claim": "Requires criminal background checks for individuals who have contact with pupils in a school-sponsor"
+            }
+          ]
+        },
+        {
+          "title": "Missing Emergency Procedures and Communication Plan",
+          "problems": [
+            {
+              "section": "32221",
+              "status": "NOT_CACHED",
+              "claim": "School districts must establish procedures for emergency situations involving students."
+            }
+          ]
+        },
+        {
+          "title": "Missing Commercial Transportation Standards",
+          "problems": [
+            {
+              "section": "39831",
+              "status": "NOT_CACHED",
+              "claim": "Establishes requirements for pupil transportation safety and vehicle standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3543",
+      "title": "Transportation Safety And Emergencies",
+      "type": "AR",
+      "issues": [
+        {
+          "title": "Missing Emergency Response Procedures",
+          "problems": [
+            {
+              "section": "32282",
+              "status": "NOT_CACHED",
+              "claim": "Each school district and county office of education is responsible for the overall development of al"
+            }
+          ]
+        },
+        {
+          "title": "Missing Driver Training and Certification Requirements",
+          "problems": [
+            {
+              "section": "39834",
+              "status": "NOT_CACHED",
+              "claim": "No person shall drive a school bus transporting pupils unless he or she holds a valid school bus dri"
+            }
+          ]
+        },
+        {
+          "title": "Missing Vehicle Maintenance and Inspection Requirements",
+          "problems": [
+            {
+              "section": "34501.12",
+              "status": "NOT_CACHED",
+              "claim": "Every school bus shall be inspected at least once every 45 days by a qualified person to determine t"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3550",
+      "title": "Food Service/Child Nutrition Program",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Free and Reduced-Price Meal Program Application and Eligibility Procedures",
+          "problems": [
+            {
+              "section": "49510",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of each school district shall provide for the determination of the eligibility o"
+            }
+          ]
+        },
+        {
+          "title": "Missing Meal Charge and Debt Collection Policy",
+          "problems": [
+            {
+              "section": "49557.5",
+              "status": "NOT_CACHED",
+              "claim": "A school district, county office of education, or charter school that participates in the National S"
+            }
+          ]
+        },
+        {
+          "title": "Missing Wellness Policy Integration Requirements",
+          "problems": [
+            {
+              "section": "1758",
+              "status": "NOT_CACHED",
+              "claim": "Local educational agencies shall establish a local school wellness policy that includes nutrition gu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4030",
+      "title": "Nondiscrimination In Employment",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Federal Civil Rights Laws and Compliance Statement",
+          "problems": [
+            {
+              "section": "4960",
+              "status": "NOT_CACHED",
+              "claim": "Requires districts to adopt policies that comply with applicable federal and state laws prohibiting "
+            }
+          ]
+        },
+        {
+          "title": "Missing Notification to Applicants and Employees of Rights",
+          "problems": [
+            {
+              "section": "4960",
+              "status": "NOT_CACHED",
+              "claim": "Districts shall notify applicants for employment and employees of their rights under federal and sta"
+            }
+          ]
+        },
+        {
+          "title": "Missing Requirement for Supervisor Training on Reporting Obligations",
+          "problems": [
+            {
+              "section": "12950.1",
+              "status": "NOT_CACHED",
+              "claim": "Requires employers to provide training to supervisory employees regarding their obligations to repor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4033",
+      "title": "Lactation Accommodation",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Temporary Space Requirements",
+          "problems": [
+            {
+              "section": "1031",
+              "status": "NOT_CACHED",
+              "claim": "\"If a lactation location is not available, the employer may use a temporary lactation location that "
+            }
+          ]
+        },
+        {
+          "title": "Missing Specific Timeline for Accommodation Provision",
+          "problems": [
+            {
+              "section": "1033",
+              "status": "NOT_CACHED",
+              "claim": "\"An employer shall provide the lactation accommodation as soon as reasonably possible after the empl"
+            }
+          ]
+        },
+        {
+          "title": "Missing Specific Denial Criteria",
+          "problems": [
+            {
+              "section": "1032",
+              "status": "NOT_CACHED",
+              "claim": "Specifies that accommodations may only be denied if they would cause an undue hardship considering d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4112.21",
+      "title": "Interns",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Criminal Background Check and Fingerprinting Requirements",
+          "problems": [
+            {
+              "section": "44830.1",
+              "status": "NOT_CACHED",
+              "claim": "A school district shall not employ a person as a district intern until that person has been cleared "
+            }
+          ]
+        },
+        {
+          "title": "Missing Specific Preservice Training Requirements",
+          "problems": [
+            {
+              "section": "44830.3",
+              "status": "NOT_CACHED",
+              "claim": "Preservice preparation of not less than 120 clock hours of training and coursework that addresses th"
+            }
+          ]
+        },
+        {
+          "title": "Missing Support Provider Qualification Requirements",
+          "problems": [
+            {
+              "section": "44830.3",
+              "status": "NOT_CACHED",
+              "claim": "Each district intern shall be provided support by a support provider who has completed a commission-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4112.5",
+      "title": "Criminal Record Check",
+      "type": "AR",
+      "issues": [
+        {
+          "title": "Missing Coverage for Classified Employees",
+          "problems": [
+            {
+              "section": "45125.1",
+              "status": "NOT_CACHED",
+              "claim": "Prohibits employment of classified employees convicted of violent or serious felonies, with similar "
+            }
+          ]
+        },
+        {
+          "title": "Missing Volunteer Background Check Requirements",
+          "problems": [
+            {
+              "section": "45125.1",
+              "status": "NOT_CACHED",
+              "claim": "Requires background checks for volunteers who will have frequent or prolonged contact with students"
+            }
+          ]
+        },
+        {
+          "title": "Missing DOJ Clearance Timeline Requirements",
+          "problems": [
+            {
+              "section": "44830.1",
+              "status": "NOT_CACHED",
+              "claim": "Requires that no person may be employed until DOJ clearance is received, with limited exceptions for"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4112.61",
+      "title": "Employment References",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Mandatory Reference Disclosure Requirements",
+          "problems": [
+            {
+              "section": "44031",
+              "status": "NOT_CACHED",
+              "claim": "When a school district provides a reference for a certificated employee, the district shall disclose"
+            }
+          ]
+        },
+        {
+          "title": "Missing Immunity Protection Provisions",
+          "problems": [
+            {
+              "section": "44031",
+              "status": "NOT_CACHED",
+              "claim": "A school district, or an employee of a school district acting within the scope of his or her employm"
+            }
+          ]
+        },
+        {
+          "title": "Missing Record Retention Requirements",
+          "problems": [
+            {
+              "section": "44031",
+              "status": "NOT_CACHED",
+              "claim": "A school district shall maintain a record of any information disclosed pursuant to this section."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4112.9",
+      "title": "Employee Notifications",
+      "type": "AR",
+      "issues": [
+        {
+          "title": "Missing Mandated Reporter Training Notification",
+          "problems": [
+            {
+              "section": "44691",
+              "status": "NOT_CACHED",
+              "claim": "The training shall be provided to employees who are mandated reporters at least once every two years"
+            }
+          ]
+        },
+        {
+          "title": "Missing Workers' Compensation Notification",
+          "problems": [
+            {
+              "section": "3551",
+              "status": "NOT_CACHED",
+              "claim": "Every employer shall keep posted in a conspicuous location frequented by employees during the hours "
+            }
+          ]
+        },
+        {
+          "title": "Missing Tuberculosis Examination Notification",
+          "problems": [
+            {
+              "section": "49406",
+              "status": "NOT_CACHED",
+              "claim": "Each person employed in a school district in a certificated or classified position shall furnish evi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4117.2",
+      "title": "Resignation",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Certificated Employee Resignation Notice Requirements",
+          "problems": [
+            {
+              "section": "44932",
+              "status": "NOT_CACHED",
+              "claim": "\"If a certificated employee resigns his or her position to take effect during a school year, he or s"
+            }
+          ]
+        },
+        {
+          "title": "Missing Classified Employee Resignation Notice Requirements",
+          "problems": [
+            {
+              "section": "45202",
+              "status": "NOT_CACHED",
+              "claim": "\"A classified employee may resign his or her position by filing a written resignation with the perso"
+            }
+          ]
+        },
+        {
+          "title": "Incomplete Reference to Resignation Timing Restrictions",
+          "problems": [
+            {
+              "section": "44930",
+              "status": "NOT_CACHED",
+              "claim": "These sections establish different resignation procedures and notice requirements for certificated v"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4121",
+      "title": "Temporary/Substitute Personnel",
+      "type": "AR",
+      "issues": [
+        {
+          "title": "Missing Criminal Background Check Requirements",
+          "problems": [
+            {
+              "section": "45125.1",
+              "status": "NOT_CACHED",
+              "claim": "No person shall be employed by a school district in a position requiring contact with pupils until t"
+            }
+          ]
+        },
+        {
+          "title": "Missing Tuberculosis Testing Requirements",
+          "problems": [
+            {
+              "section": "49406",
+              "status": "NOT_CACHED",
+              "claim": "Each person employed by a school district in a certificated or classified position shall have an exa"
+            }
+          ]
+        },
+        {
+          "title": "Missing Mandated Reporter Training Requirements",
+          "problems": [
+            {
+              "section": "11165.7",
+              "status": "NOT_CACHED",
+              "claim": "On or before January 1, 2021, school districts shall provide training on the mandated reporting requ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4131",
+      "title": "Staff Development",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Beginning Teacher Support and Assessment (BTSA) Program Requirements",
+          "problems": [
+            {
+              "section": "44279.2",
+              "status": "NOT_CACHED",
+              "claim": "Each school district shall provide each beginning teacher with a two-year program of intensive suppo"
+            }
+          ]
+        },
+        {
+          "title": "Missing Professional Learning Community (PLC) Time Requirements",
+          "problems": [
+            {
+              "section": "44277",
+              "status": "NOT_CACHED",
+              "claim": "Professional development activities shall... provide time for teachers to work with other teachers a"
+            }
+          ]
+        },
+        {
+          "title": "Missing Annual Professional Development Hour Requirements",
+          "problems": [
+            {
+              "section": "44277",
+              "status": "NOT_CACHED",
+              "claim": "Professional development activities shall be ongoing and include training, education, and other acti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4157.1",
+      "title": "Work-Related Injuries",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Specific Reporting Timeframe Requirements",
+          "problems": [
+            {
+              "section": "5401",
+              "status": "NOT_CACHED",
+              "claim": "Requires that work-related injuries be reported within specific timeframes to preserve workers' comp"
+            }
+          ]
+        },
+        {
+          "title": "Missing Required Workers' Compensation Notice Content",
+          "problems": [
+            {
+              "section": "3550",
+              "status": "NOT_CACHED",
+              "claim": "Requires employers to post specific workers' compensation notices and provide employees with informa"
+            }
+          ]
+        },
+        {
+          "title": "Missing Return-to-Work Program Requirements",
+          "problems": [
+            {
+              "section": "4658.7",
+              "status": "NOT_CACHED",
+              "claim": "Provides for supplemental job displacement benefits and encourages return-to-work programs for injur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4157",
+      "title": "Employee Safety",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Workplace Violence Prevention Plan Requirements",
+          "problems": [
+            {
+              "section": "6401.9",
+              "status": "NOT_CACHED",
+              "claim": "Every employer shall establish, implement, and maintain an effective workplace violence prevention p"
+            }
+          ]
+        },
+        {
+          "title": "Missing Cal/OSHA Reporting Requirements",
+          "problems": [
+            {
+              "section": "6409.1",
+              "status": "NOT_CACHED",
+              "claim": "Every employer shall report immediately by telephone or telegraph to the nearest District Office of "
+            }
+          ]
+        },
+        {
+          "title": "Missing Hazard Communication Program Requirements",
+          "problems": [
+            {
+              "section": "5194",
+              "status": "NOT_CACHED",
+              "claim": "Employers shall develop, implement, and maintain at each workplace, a written hazard communication p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4161",
+      "title": "Leaves",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Sick Leave Verification Procedures",
+          "problems": [
+            {
+              "section": "44043.5",
+              "status": "NOT_CACHED",
+              "claim": "The governing board of each school district shall adopt rules and regulations for the administration"
+            }
+          ]
+        },
+        {
+          "title": "Missing Family and Medical Leave Act (FMLA) Integration",
+          "problems": [
+            {
+              "section": "12945.2",
+              "status": "NOT_CACHED",
+              "claim": "Employers must provide leave in accordance with the California Family Rights Act, which parallels fe"
+            }
+          ]
+        },
+        {
+          "title": "Missing Differential Pay During Industrial Accident Leave",
+          "problems": [
+            {
+              "section": "44984",
+              "status": "NOT_CACHED",
+              "claim": "Certificated employees shall be entitled to industrial accident and illness leave, with the district"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4218",
+      "title": "Dismissal/Suspension/Disciplinary Action",
+      "type": "BP",
+      "issues": [
+        {
+          "title": "Missing Compulsory Leave Pay Status Requirements",
+          "problems": [
+            {
+              "section": "45304",
+              "status": "NOT_CACHED",
+              "claim": "For mandatory leave offenses, the employee shall be placed on leave without pay. For optional leave "
+            }
+          ]
+        },
+        {
+          "title": "Missing Notice Requirements for Compulsory Leave",
+          "problems": [
+            {
+              "section": "45304",
+              "status": "NOT_CACHED",
+              "claim": "The governing board shall provide written notice to the employee of the compulsory leave, including "
+            }
+          ]
+        },
+        {
+          "title": "Missing Rehabilitation and Return to Work Provisions",
+          "problems": [
+            {
+              "section": "45113",
+              "status": "NOT_CACHED",
+              "claim": "The governing board may require an employee to participate in rehabilitation programs as a condition"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cached_sections": [
+    "15278",
+    "15282",
+    "35186",
+    "48900",
+    "35160",
+    "35160.5",
+    "48980",
+    "44050",
+    "15280"
+  ]
+}

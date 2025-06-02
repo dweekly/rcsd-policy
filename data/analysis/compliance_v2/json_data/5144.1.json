@@ -1,0 +1,99 @@
+{
+  "code": "5144.1",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5144.1",
+    "title": "Suspension And Expulsion/Due Process",
+    "type": "Policy",
+    "last_reviewed": "12/08/2021",
+    "file_path": "data/extracted/policies/5144.1.txt"
+  },
+  "regulation": {
+    "code": "5144.1",
+    "title": "Suspension And Expulsion/Due Process",
+    "type": "Regulation",
+    "last_reviewed": "12/08/2021",
+    "file_path": "data/extracted/regulations/5144.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Foster Youth and Homeless Student Notification Requirements for Expulsion Proceedings",
+        "description": "California law requires specific notification procedures for foster youth and homeless students during expulsion proceedings. While the AR mentions these requirements for suspension extensions, neither the BP nor AR adequately addresses the mandatory notifications and participation rights for expulsion hearings.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48918.1",
+            "text": "If the student is a foster child or youth or a homeless child or youth, the superintendent of the school district or the superintendent's designee shall notify the district liaison for foster youth or homeless students, respectively, who shall have the right to attend any meeting, hearing, or proceeding related to the disciplinary action."
+          }
+        ],
+        "required_language": "If the student subject to expulsion is a foster youth, the Superintendent or designee shall notify the district liaison for foster youth, who has the right to attend any meeting, hearing, or proceeding related to the expulsion. If the student is a homeless child or youth, the Superintendent or designee shall notify the district liaison for homeless students, who has the right to attend any meeting, hearing, or proceeding related to the expulsion.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Alternative Educational Placement Requirements During Expulsion",
+        "description": "California law requires districts to ensure that expelled students are provided with educational services and information about alternative educational placements. Neither document adequately addresses these mandatory requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48916",
+            "text": "Upon ordering the expulsion of any student, the governing board of a school district shall refer the pupil to a program of study which meets all of the conditions specified in subdivision (a) and is operated by the county superintendent of schools."
+          }
+        ],
+        "required_language": "Upon expulsion, the district shall refer the student to alternative educational programs operated by the county superintendent of schools or other appropriate educational placements. The district shall provide information about available educational options and ensure continuing educational services during the expulsion period.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Specific Timelines for Expulsion Hearing Procedures",
+        "description": "The documents lack specific timelines required by law for expulsion proceedings, including notice periods and hearing scheduling requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48918(b)",
+            "text": "Written notice of the hearing shall be forwarded to the student and the student's parent or guardian at least 10 calendar days before the date of the hearing."
+          }
+        ],
+        "required_language": "Written notice of the expulsion hearing shall be provided to the student and parent/guardian at least 10 calendar days before the hearing date. The hearing shall be held within 30 school days after the student is removed from school, unless the student requests in writing that the hearing be postponed.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Content Requirements for Expulsion Hearing Notice",
+        "description": "While the documents reference due process procedures, they lack the specific content requirements mandated by law for expulsion hearing notices.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48918(b)",
+            "text": "The notice shall include: (1) The date and place of the hearing. (2) A statement of the specific facts, charges, and offenses upon which the proposed expulsion is based. (3) A copy of the disciplinary rules which relate to the alleged violation."
+          }
+        ],
+        "required_language": "The expulsion hearing notice shall include: (1) The date, time, and place of the hearing; (2) A statement of the specific facts, charges, and offenses upon which the proposed expulsion is based; (3) A copy of the disciplinary rules relating to the alleged violation; (4) The student's right to be represented by counsel or an advocate; (5) The right to inspect and obtain copies of documents to be used at the hearing.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Rehabilitation Plan Requirements",
+        "description": "The documents do not address the requirement for rehabilitation plans when readmitting expelled students.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48916(e)",
+            "text": "The governing board shall readmit the pupil during the term of expulsion only if the governing board, in consultation with district and school site personnel, determines that the pupil has successfully completed the rehabilitation plan."
+          }
+        ],
+        "required_language": "Prior to readmission of an expelled student, the Board shall determine that the student has successfully completed a rehabilitation plan developed in consultation with district and school site personnel. The rehabilitation plan shall include specific goals and requirements for the student's return.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:26:48.134734+00:00"
+}

@@ -1,0 +1,48 @@
+{
+  "code": "0100",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "0100",
+    "title": "Philosophy",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/0100.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Administrative Regulation for Philosophy Implementation",
+        "description": "While not legally mandated, many districts create administrative regulations to specify how the board's philosophy will be implemented, communicated, and integrated into district operations. The policy establishes that the philosophy should be \"incorporated in all district programs and activities\" but provides no procedural guidance on how this will be accomplished.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Consider developing an administrative regulation that outlines procedures for:\n1. Regular review and updating of the district philosophy\n2. Communication of the philosophy to staff, students, families, and community\n3. Integration of philosophical principles into curriculum development, staff training, and program evaluation\n4. Methods for assessing alignment between district practices and stated philosophy",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 60,
+        "title": "No Specified Review Timeline",
+        "description": "The policy states the Board \"shall develop and regularly review\" the philosophy but does not specify the frequency or process for this review. While not legally required, establishing a regular review cycle would strengthen governance practices.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "Board authority to establish policies for district governance and operations includes establishing review procedures for foundational documents."
+          }
+        ],
+        "required_language": "Consider adding language such as: \"The Board shall review this philosophy at least every [3-5] years or as needed to ensure continued relevance and alignment with district goals and community values.\"",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:17:47.460178+00:00"
+}

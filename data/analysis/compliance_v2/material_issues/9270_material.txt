@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9270: Conflict Of Interest
+Last Reviewed: 03/11/2020
+================================================================================
+
+Missing Specific Designated Positions and Disclosure Categories (Confidence: 90%)
+Missing from: BOTH
+Government Code 87302 requires the conflict of interest code to specify designated positions and their corresponding disclosure categories. The Board Policy references that these will be specified in the district's conflict of interest code but does not include them. Without specific positions and categories, employees cannot know their disclosure obligations.
+
+Legal Basis:
+- Government Code 87302: The code shall contain the names of designated positions and disclosure categories for each position. Disclosure categories shall be stated in terms sufficiently specific to give reasonable notice to persons holding designated positions of the financial interests which must be disclosed.
+
+Required Language:
+A comprehensive list of designated positions (e.g., Superintendent, Assistant Superintendents, Principals, Business Manager, Purchasing Agent, etc.) with specific disclosure categories for each position detailing what types of financial interests (investments, real property, business positions, income sources) must be disclosed based on the position's decision-making authority.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Training Requirements (Confidence: 85%)
+Missing from: BOTH
+Government Code 87300 and best practices require that designated employees receive training on conflict of interest requirements. Neither the Board Policy nor Administrative Regulation (which doesn't exist) addresses mandatory training for board members and designated employees on conflict of interest laws, recognition of conflicts, and proper procedures.
+
+Legal Basis:
+- Government Code 87300: Each agency shall adopt and promulgate a conflict of interest code. Training is implied as necessary for proper implementation and compliance.
+
+Required Language:
+All board members and designated employees shall receive training on conflict of interest requirements within [specified timeframe] of assuming their position and every [specified period] thereafter. Training shall cover Political Reform Act requirements, Government Code 1090, recognition of conflicts, disclosure requirements, and recusal procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+

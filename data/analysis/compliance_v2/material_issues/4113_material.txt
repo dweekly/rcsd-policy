@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4113: Assignment
+Last Reviewed: 12/11/2024
+================================================================================
+
+Missing Notification Requirements for Out-of-Authorization Assignments (Confidence: 85%)
+Missing from: BOTH
+Education Code 44258.3 requires specific notification procedures when teachers are assigned to departmentalized classes outside their credential authorization. While the AR mentions notification to the exclusive representative, both documents are missing the required notification to the County Superintendent and the Commission on Teacher Credentialing.
+
+Legal Basis:
+- Education Code 44258.3(c): The employing agency shall notify the county superintendent of schools and the commission of any assignment made pursuant to this section.
+
+Required Language:
+When a teacher is assigned to teach departmentalized classes outside their credential authorization pursuant to Education Code 44258.3, the Superintendent or designee shall notify the County Superintendent of Schools and the Commission on Teacher Credentialing of such assignment.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Written Consent Requirement (Confidence: 95%)
+Missing from: BOTH
+Education Code requires written consent from teachers for out-of-authorization assignments. While the BP mentions "with the teacher's consent," neither document specifies that this consent must be in writing or includes procedures for obtaining and documenting such consent.
+
+Legal Basis:
+- Education Code 44258.3(a): Assignment pursuant to this section shall be made only with the written consent of the employee
+
+Required Language:
+Before assigning a teacher to teach departmentalized classes outside their credential authorization, the Superintendent or designee shall obtain the teacher's written consent. The written consent shall be maintained in the teacher's personnel file and shall specify the assignment, duration, and legal authorization.
+
+Recommended Placement: AR
+
+----------------------------------------
+

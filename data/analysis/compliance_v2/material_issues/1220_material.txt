@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1220: Citizen Advisory Committees
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Conflict of Interest Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires that advisory committee members file conflict of interest statements (Form 700) when they may make or participate in decisions that could affect their economic interests. The policy and regulation lack any reference to conflict of interest requirements, disclosure obligations, or procedures for handling potential conflicts.
+
+Legal Basis:
+- Government Code Section 87100: No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest.
+
+Required Language:
+Advisory committee members shall comply with conflict of interest requirements under the Political Reform Act. Members may be required to file statements of economic interests (Form 700) if they participate in decisions that may affect their financial interests. Members must disqualify themselves from participating in decisions where they have a financial conflict of interest.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Committee Appointment and Selection Procedures (Confidence: 90%)
+Missing from: BOTH
+While the regulation mentions "procedure to be used in the selection of the committee chairperson," neither document establishes procedures for appointing committee members themselves, including application processes, selection criteria, term limits, or removal procedures. This is essential for transparent and fair committee operations.
+
+Legal Basis:
+- Education Code Section 35160: The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established.
+
+Required Language:
+The Superintendent or designee shall establish procedures for committee member appointment including: application processes, selection criteria, term lengths, procedures for filling vacancies, and grounds and procedures for removal of members. Selection procedures shall ensure fair representation and comply with applicable anti-discrimination laws.
+
+Recommended Placement: AR
+
+----------------------------------------
+

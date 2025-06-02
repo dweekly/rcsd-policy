@@ -1,0 +1,78 @@
+{
+  "code": "6161.2",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6161.2",
+    "title": "Damaged Or Lost Instructional Materials",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6161.2.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for damaged/lost instructional materials, there is no Administrative Regulation to provide specific implementation procedures. This creates a significant gap in how staff should actually carry out the policy directives, particularly regarding assessment of damage, determination of charges, and the process for withholding grades/transcripts.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60119",
+            "text": "Requires districts to have procedures for ensuring students have access to instructional materials and handling of damaged materials"
+          }
+        ],
+        "required_language": "Administrative Regulation should include: procedures for assessing damage vs. normal wear; process for determining replacement costs; timeline for payment; procedures for demonstrating \"reasonable precautions\"; appeal process; specific procedures for withholding grades/transcripts including due process requirements; and staff responsibilities.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Due Process Protections for Withholding Academic Records",
+        "description": "The policy allows withholding of grades, diploma, and transcripts but fails to specify required due process protections. California law requires specific procedural safeguards before academic records can be withheld, including notice and opportunity to be heard.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48904.3",
+            "text": "Requires due process procedures including written notice and opportunity for hearing before withholding grades or transcripts for unpaid fees or charges"
+          }
+        ],
+        "required_language": "Before withholding any academic records, the district shall provide written notice to the student and parent/guardian of the intent to withhold records, the reason for withholding, and the right to a hearing. The student/parent shall have the right to challenge the charges and present evidence regarding the condition of materials.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Financial Hardship Provisions",
+        "description": "The policy lacks provisions for students who cannot afford to pay for damaged or lost materials due to financial hardship. California law requires consideration of a student's ability to pay and alternative arrangements for economically disadvantaged students.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49013",
+            "text": "Prohibits requiring payment of fees that would prevent a student's participation in educational activities, with provisions for financial hardship"
+          }
+        ],
+        "required_language": "The district shall consider the financial circumstances of the student and family. For students who qualify for free or reduced-price meals or demonstrate financial hardship, the district may waive charges, establish payment plans, or provide alternative arrangements such as community service in lieu of payment.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2010 and may not reflect current legal requirements or best practices. Regular review and updates are recommended to ensure continued compliance with evolving legal standards.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "Requires school boards to adopt policies necessary for district operation and ensure they remain current and legally compliant"
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and include a regular review schedule.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:33:20.189457+00:00"
+}

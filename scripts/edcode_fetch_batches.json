@@ -1,0 +1,756 @@
+{
+  "generated": "2025-06-01T21:58:32.772744+00:00",
+  "total_sections": 89,
+  "batch_size": 5,
+  "num_batches": 18,
+  "batches": [
+    [
+      {
+        "section": "10525",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10525&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 10525 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_10525_full.json"
+      },
+      {
+        "section": "1090",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1090&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 1090 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_1090_full.json"
+      },
+      {
+        "section": "1232",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1232&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 1232 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_1232_full.json"
+      },
+      {
+        "section": "1758",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1758&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 1758 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_1758_full.json"
+      },
+      {
+        "section": "32221",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32221&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 32221 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_32221_full.json"
+      }
+    ],
+    [
+      {
+        "section": "32286",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32286&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 32286 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_32286_full.json"
+      },
+      {
+        "section": "32288",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32288&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 32288 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_32288_full.json"
+      },
+      {
+        "section": "34501.12",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34501.12&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 34501.12 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_34501_12_full.json"
+      },
+      {
+        "section": "35021",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35021&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 35021 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_35021_full.json"
+      },
+      {
+        "section": "35031",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35031&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 35031 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_35031_full.json"
+      }
+    ],
+    [
+      {
+        "section": "35291",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35291&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 35291 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_35291_full.json"
+      },
+      {
+        "section": "35295",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35295&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 35295 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_35295_full.json"
+      },
+      {
+        "section": "3550",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3550&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 3550 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_3550_full.json"
+      },
+      {
+        "section": "3551",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3551&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 3551 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_3551_full.json"
+      },
+      {
+        "section": "39807.5",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39807.5&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 39807.5 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_39807_5_full.json"
+      }
+    ],
+    [
+      {
+        "section": "39831",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39831&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 39831 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_39831_full.json"
+      },
+      {
+        "section": "39831.3",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39831.3&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 39831.3 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_39831_3_full.json"
+      },
+      {
+        "section": "39834",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39834&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 39834 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_39834_full.json"
+      },
+      {
+        "section": "40051",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40051&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 40051 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_40051_full.json"
+      },
+      {
+        "section": "41020",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=41020&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 41020 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_41020_full.json"
+      }
+    ],
+    [
+      {
+        "section": "42100",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42100&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 42100 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_42100_full.json"
+      },
+      {
+        "section": "42103",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42103&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 42103 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_42103_full.json"
+      },
+      {
+        "section": "42127",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42127&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 42127 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_42127_full.json"
+      },
+      {
+        "section": "42130",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42130&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 42130 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_42130_full.json"
+      },
+      {
+        "section": "42920",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42920&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 42920 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_42920_full.json"
+      }
+    ],
+    [
+      {
+        "section": "42926",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42926&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 42926 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_42926_full.json"
+      },
+      {
+        "section": "43503",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=43503&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 43503 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_43503_full.json"
+      },
+      {
+        "section": "44031",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44031&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44031 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44031_full.json"
+      },
+      {
+        "section": "44043.5",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44043.5&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44043.5 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44043_5_full.json"
+      },
+      {
+        "section": "44277",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44277&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44277 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44277_full.json"
+      }
+    ],
+    [
+      {
+        "section": "44279.1",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44279.1&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44279.1 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44279_1_full.json"
+      },
+      {
+        "section": "44279.2",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44279.2&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44279.2 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44279_2_full.json"
+      },
+      {
+        "section": "44501",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44501&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44501 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44501_full.json"
+      },
+      {
+        "section": "44503",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44503&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44503 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44503_full.json"
+      },
+      {
+        "section": "44691",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44691&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44691 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44691_full.json"
+      }
+    ],
+    [
+      {
+        "section": "44807",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44807&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44807 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44807_full.json"
+      },
+      {
+        "section": "44830.1",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44830.1&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44830.1 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44830_1_full.json"
+      },
+      {
+        "section": "44830.3",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44830.3&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44830.3 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44830_3_full.json"
+      },
+      {
+        "section": "44930",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44930&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44930 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44930_full.json"
+      },
+      {
+        "section": "44932",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44932&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44932 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44932_full.json"
+      }
+    ],
+    [
+      {
+        "section": "44984",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=44984&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 44984 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_44984_full.json"
+      },
+      {
+        "section": "45113",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=45113&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 45113 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_45113_full.json"
+      },
+      {
+        "section": "45122",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=45122&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 45122 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_45122_full.json"
+      },
+      {
+        "section": "45202",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=45202&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 45202 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_45202_full.json"
+      },
+      {
+        "section": "45240",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=45240&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 45240 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_45240_full.json"
+      }
+    ],
+    [
+      {
+        "section": "45304",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=45304&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 45304 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_45304_full.json"
+      },
+      {
+        "section": "4622",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4622&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 4622 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_4622_full.json"
+      },
+      {
+        "section": "4630",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4630&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 4630 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_4630_full.json"
+      },
+      {
+        "section": "4658.7",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4658.7&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 4658.7 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_4658_7_full.json"
+      },
+      {
+        "section": "47607",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=47607&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 47607 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_47607_full.json"
+      }
+    ],
+    [
+      {
+        "section": "47612.5",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=47612.5&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 47612.5 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_47612_5_full.json"
+      },
+      {
+        "section": "48902",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=48902&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 48902 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_48902_full.json"
+      },
+      {
+        "section": "48907",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=48907&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 48907 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_48907_full.json"
+      },
+      {
+        "section": "48933",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=48933&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 48933 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_48933_full.json"
+      },
+      {
+        "section": "49011",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=49011&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 49011 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_49011_full.json"
+      }
+    ],
+    [
+      {
+        "section": "49050",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=49050&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 49050 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_49050_full.json"
+      },
+      {
+        "section": "49410.5",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=49410.5&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 49410.5 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_49410_5_full.json"
+      },
+      {
+        "section": "49510",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=49510&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 49510 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_49510_full.json"
+      },
+      {
+        "section": "49557.5",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=49557.5&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 49557.5 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_49557_5_full.json"
+      },
+      {
+        "section": "4960",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4960&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 4960 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_4960_full.json"
+      }
+    ],
+    [
+      {
+        "section": "51210",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=51210&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 51210 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_51210_full.json"
+      },
+      {
+        "section": "5193",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5193&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 5193 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_5193_full.json"
+      },
+      {
+        "section": "51934",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=51934&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 51934 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_51934_full.json"
+      },
+      {
+        "section": "5194",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5194&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 5194 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_5194_full.json"
+      },
+      {
+        "section": "52063",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=52063&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 52063 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_52063_full.json"
+      }
+    ],
+    [
+      {
+        "section": "52064.1",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=52064.1&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 52064.1 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_52064_1_full.json"
+      },
+      {
+        "section": "52064.3",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=52064.3&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 52064.3 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_52064_3_full.json"
+      },
+      {
+        "section": "52176",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=52176&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 52176 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_52176_full.json"
+      },
+      {
+        "section": "52852",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=52852&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 52852 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_52852_full.json"
+      },
+      {
+        "section": "53087.8",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=53087.8&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 53087.8 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_53087_8_full.json"
+      }
+    ],
+    [
+      {
+        "section": "53235",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=53235&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 53235 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_53235_full.json"
+      },
+      {
+        "section": "53646",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=53646&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 53646 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_53646_full.json"
+      },
+      {
+        "section": "5401",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5401&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 5401 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_5401_full.json"
+      },
+      {
+        "section": "54222",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=54222&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 54222 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_54222_full.json"
+      },
+      {
+        "section": "54227",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=54227&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 54227 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_54227_full.json"
+      }
+    ],
+    [
+      {
+        "section": "54233",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=54233&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 54233 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_54233_full.json"
+      },
+      {
+        "section": "56001",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=56001&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 56001 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_56001_full.json"
+      },
+      {
+        "section": "56341.1",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=56341.1&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 56341.1 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_56341_1_full.json"
+      },
+      {
+        "section": "60200",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=60200&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 60200 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_60200_full.json"
+      },
+      {
+        "section": "60201",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=60201&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 60201 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_60201_full.json"
+      }
+    ],
+    [
+      {
+        "section": "6250",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6250&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 6250 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_6250_full.json"
+      },
+      {
+        "section": "6253",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6253&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 6253 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_6253_full.json"
+      },
+      {
+        "section": "6253.9",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6253.9&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 6253.9 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_6253_9_full.json"
+      },
+      {
+        "section": "6311",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6311&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 6311 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_6311_full.json"
+      },
+      {
+        "section": "6315",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6315&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 6315 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_6315_full.json"
+      }
+    ],
+    [
+      {
+        "section": "6318",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6318&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 6318 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_6318_full.json"
+      },
+      {
+        "section": "6321",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6321&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 6321 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_6321_full.json"
+      },
+      {
+        "section": "6401.9",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6401.9&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 6401.9 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_6401_9_full.json"
+      },
+      {
+        "section": "6409.1",
+        "law_code": "EDC",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6409.1&lawCode=EDC",
+        "prompt": "Extract the complete text of EDC section 6409.1 regarding . Include all subdivisions, requirements, and the effective date.",
+        "description": "",
+        "output_file": "data/cache/edcode/edc_6409_1_full.json"
+      }
+    ]
+  ]
+}

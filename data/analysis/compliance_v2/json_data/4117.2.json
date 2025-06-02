@@ -1,0 +1,78 @@
+{
+  "code": "4117.2",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4117.2",
+    "title": "Resignation",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4117.2.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Certificated Employee Resignation Notice Requirements",
+        "description": "California Education Code requires specific advance notice periods for certificated employees resigning during the school year. The policy lacks the mandatory 30-day notice requirement for resignations effective during the school year and the associated financial penalty provisions.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44932",
+            "text": "\"If a certificated employee resigns his or her position to take effect during a school year, he or she shall give at least 30 days' written notice of the resignation to the governing board of the school district... If the employee fails to give the required notice, the governing board may deduct from any money due the employee an amount equal to the cost to the district of securing a substitute for the number of days less than 30 days that notice was given.\""
+          }
+        ],
+        "required_language": "Certificated employees who resign to take effect during a school year must provide at least 30 days' written notice. If a certificated employee fails to provide the required 30-day notice, the district may deduct from any money due to the employee an amount equal to the cost of securing a substitute for the number of days less than 30 that notice was given.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Classified Employee Resignation Notice Requirements",
+        "description": "California Education Code establishes specific notice requirements for classified employees that differ from certificated employees. The policy fails to address the two-week notice requirement for classified employees.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45202",
+            "text": "\"A classified employee may resign his or her position by filing a written resignation with the personnel commission or governing board... The resignation shall specify the effective date, which shall be at least two weeks from the date the resignation is filed, unless the personnel commission or governing board consents to an earlier date.\""
+          }
+        ],
+        "required_language": "Classified employees must provide at least two weeks' written notice of resignation, unless the governing board consents to an earlier effective date. The resignation must specify the effective date.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While not legally required, best practice suggests having an Administrative Regulation to outline specific procedures for processing resignations, including forms, notification processes, and administrative steps.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Sections 44930-44932, 45201-45202",
+            "text": "Various sections establish resignation requirements that benefit from detailed procedural implementation guidance."
+          }
+        ],
+        "required_language": "Administrative procedures should address: resignation form requirements, processing timelines, notification to relevant departments (HR, payroll, benefits), return of district property, and final pay procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Incomplete Reference to Resignation Timing Restrictions",
+        "description": "The policy references Education Code sections but fails to fully implement the specific timing and notice requirements contained within those statutes, particularly the distinction between certificated and classified employee requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Sections 44930, 44932, 45201, 45202",
+            "text": "These sections establish different resignation procedures and notice requirements for certificated versus classified employees, which must be clearly delineated in district policy."
+          }
+        ],
+        "required_language": "The policy must clearly distinguish between certificated and classified employee resignation requirements, including specific notice periods and consequences for insufficient notice.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:09:36.378939+00:00"
+}

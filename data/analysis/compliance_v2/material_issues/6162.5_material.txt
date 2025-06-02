@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6162.5: Student Assessment
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing State Assessment Requirements (Confidence: 95%)
+Missing from: BOTH
+California requires districts to administer state-mandated assessments including CAASPP (California Assessment of Student Performance and Progress). The policy lacks any reference to required state testing programs, administration procedures, or compliance obligations.
+
+Legal Basis:
+- Education Code Section 60640: The Superintendent shall develop a statewide pupil assessment program... Each school district shall administer the assessments pursuant to this article to pupils enrolled in the school district.
+
+Required Language:
+The district shall administer all state-mandated assessments including the California Assessment of Student Performance and Progress (CAASPP) and any other assessments required by the State Board of Education in accordance with state timelines and procedures.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Parent Notification Requirements (Confidence: 90%)
+Missing from: BOTH
+State law requires specific parent notifications regarding student assessments, including rights to review tests and receive results. The policy mentions providing supplementary information but lacks required formal notification procedures.
+
+Legal Basis:
+- Education Code Section 60615: Parents or guardians of pupils have the right to inspect any test or testing material used in their child's classroom... The governing board shall provide written notification to parents or guardians of their rights.
+
+Required Language:
+Parents/guardians shall be notified in writing of their rights to inspect testing materials, receive assessment results, and understand how results will be used. The district shall provide annual notification of assessment schedules and parent rights.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Accommodations for Students with Disabilities and English Learners (Confidence: 80%)
+Missing from: BOTH
+Federal and state law requires districts to provide appropriate testing accommodations for students with disabilities and English learners. The policy contains no reference to accommodation requirements or procedures.
+
+Legal Basis:
+- Education Code Section 60640(d): Appropriate accommodations shall be provided for pupils with disabilities and English learners as specified in federal and state law and regulations.
+
+Required Language:
+The district shall provide appropriate testing accommodations for students with disabilities in accordance with their IEPs or Section 504 plans, and for English learners as specified in state guidelines, to ensure equitable access to assessments.
+
+Recommended Placement: BP
+
+----------------------------------------
+

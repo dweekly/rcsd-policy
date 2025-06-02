@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1221.4: Citizens' Bond Oversight Committees
+Last Reviewed: 06/07/2016
+================================================================================
+
+Missing Committee Term Length Specification (Confidence: 95%)
+Missing from: BOTH
+Education Code Section 15278(b) requires that committee members serve two-year terms. While the AR mentions "two (2) or three (3) -year term" in one section, it does not clearly establish the standard term length as required by law.
+
+Legal Basis:
+- Education Code Section 15278(b): The members of the citizens' oversight committee shall serve terms of two years and may be reappointed for additional terms at the discretion of the governing board of the school district.
+
+Required Language:
+Committee members shall serve two-year terms and may be reappointed for additional terms at the discretion of the Board.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Annual Report Publication Requirement (Confidence: 90%)
+Missing from: BOTH
+Education Code Section 15280 requires that the committee's annual report be presented at a public meeting and made available to the public. The AR mentions preparing reports but does not specify the requirement for public presentation at a Board meeting.
+
+Legal Basis:
+- Education Code Section 15280: The citizens' oversight committee shall issue regular reports on the results of its activities. Any report issued by the citizens' oversight committee shall be presented at a public meeting of the governing board of the school district.
+
+Required Language:
+All reports issued by the Committee shall be presented at a public meeting of the Board and made available to the public.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+AR 3542: School Bus Drivers
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Criminal Background Check Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the BP nor AR explicitly addresses the mandatory criminal background check and fingerprinting requirements for school bus drivers. While the AR mentions electronic fingerprinting may be used, it fails to establish this as a mandatory requirement for all drivers.
+
+Legal Basis:
+- Education Code Section 45125.1: Each person employed by a school district in a position requiring contact with pupils shall be required to submit two sets of fingerprints to the Department of Justice for the purpose of obtaining criminal history record information regarding such person.
+
+Required Language:
+All school bus drivers must submit fingerprints for criminal background checks through the Department of Justice and FBI prior to employment. No person may operate a school bus until clearance is received and they are determined to be suitable for employment involving contact with minors.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Medical Examination Requirements (Confidence: 85%)
+Missing from: BOTH
+The documents do not address the mandatory medical examination and certification requirements for school bus drivers as required by federal and state law.
+
+Legal Basis:
+- Vehicle Code Section 12517.2: The department shall require each applicant for an original school bus driver certificate to submit a report of medical examination on a form approved by the department.
+
+Required Language:
+All school bus drivers must obtain and maintain a valid medical examiner's certificate demonstrating physical qualification to operate a commercial motor vehicle. Medical examinations must be conducted by certified medical examiners and renewed as required by law.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Training Hour Requirements (Confidence: 88%)
+Missing from: BOTH
+While the AR mentions training topics, it fails to specify the minimum required training hours for school bus drivers as mandated by California law.
+
+Legal Basis:
+- Vehicle Code Section 12523: No school bus driver certificate shall be issued until the applicant has satisfactorily completed not less than 20 hours of classroom instruction and not less than 20 hours of behind-the-wheel instruction.
+
+Required Language:
+All school bus drivers must complete a minimum of 20 hours of classroom instruction and 20 hours of behind-the-wheel instruction before receiving certification. Annual refresher training requirements must also be met as specified by law.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Student Discipline and Suspension Procedures (Confidence: 92%)
+Missing from: BOTH
+The documents lack specific procedures for handling student discipline issues on buses, including when and how students may be suspended from bus transportation services.
+
+Legal Basis:
+- Education Code Section 35291: The governing board of any school district may exclude from the privilege of riding on school buses any pupil whose conduct while riding on, getting on, or getting off the bus is such as to unreasonably interfere with the operation of the bus or the safety of other passengers.
+
+Required Language:
+Procedures must be established for progressive discipline of students on buses, including warnings, conferences, and suspension from transportation services. Due process requirements, parent notification, and appeal procedures must be specified when excluding students from bus transportation.
+
+Recommended Placement: AR
+
+----------------------------------------
+

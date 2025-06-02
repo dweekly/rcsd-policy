@@ -1,0 +1,93 @@
+{
+  "code": "5117",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5117",
+    "title": "Interdistrict Attendance",
+    "type": "Policy",
+    "last_reviewed": "02/16/2022",
+    "file_path": "data/extracted/policies/5117.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 46600 requires districts to establish procedures for processing interdistrict attendance requests, but no Administrative Regulation exists to detail the implementation procedures, application processes, timelines, or criteria for approval/denial.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46600",
+            "text": "The governing board of a school district may enter into an agreement with the governing board of any other school district for the interdistrict attendance of pupils who are residents of the districts..."
+          }
+        ],
+        "required_language": "Administrative procedures detailing: application process, required documentation, review timelines, approval/denial criteria, appeal procedures, and notification requirements for interdistrict transfers.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Appeal Process for Denied Applications",
+        "description": "California law requires districts to provide an appeal process for denied interdistrict transfer applications, but neither the policy nor regulation specifies appeal procedures or timelines.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46601",
+            "text": "If the governing board of a school district denies a request for interdistrict attendance, the parent or guardian may appeal the decision to the county board of education..."
+          }
+        ],
+        "required_language": "Parents/guardians may appeal denied interdistrict transfer decisions to the San Mateo County Board of Education within 30 days of the denial. The district shall provide written notice of appeal rights with any denial.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mandatory Transfer Categories",
+        "description": "Education Code requires districts to approve certain categories of interdistrict transfers, but the policy does not specify these mandatory approval categories, potentially leading to improper denials.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46600(b)",
+            "text": "An agreement for the interdistrict attendance of pupils may contain standards for the approval of applications for interdistrict attendance based on the capacity of the district or school..."
+          }
+        ],
+        "required_language": "The district shall approve interdistrict transfers for students who meet specific criteria including: children of employees, students completing their final year, students avoiding harassment, and other categories as specified in interdistrict agreements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Application Deadlines and Processing Timelines",
+        "description": "The policy lacks specific deadlines for submitting applications and timelines for district response, which are necessary for proper administration and parent planning.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46600",
+            "text": "Districts must establish reasonable procedures and timelines for processing interdistrict attendance requests."
+          }
+        ],
+        "required_language": "Applications for interdistrict transfers must be submitted by [specific date] for the following school year. The district will respond to complete applications within 30 days of receipt or by [specific date], whichever is later.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Inconsistent Transportation Language",
+        "description": "The policy references Education Code 46600 for transportation twice but contains slightly different language that could cause confusion in implementation.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46600(d)",
+            "text": "Transportation may be provided to students who qualify for free and reduced-price meals and are children of active duty military personnel or victims of bullying."
+          }
+        ],
+        "required_language": "Clarify and consolidate transportation provisions to ensure consistent application and remove redundant references.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:20:29.624263+00:00"
+}

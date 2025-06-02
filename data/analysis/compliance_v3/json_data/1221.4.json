@@ -1,0 +1,41 @@
+{
+  "code": "1221.4",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "1221.4",
+    "title": "Citizens' Bond Oversight Committees",
+    "type": "Policy",
+    "last_reviewed": "06/07/2016",
+    "file_path": "data/extracted/policies/1221.4.txt"
+  },
+  "regulation": {
+    "code": "1221.4",
+    "title": "Citizens' Bond Oversight Committees",
+    "type": "Regulation",
+    "last_reviewed": "06/07/2016",
+    "file_path": "data/extracted/regulations/1221.4.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MINOR",
+        "confidence": 0,
+        "title": "No Verified Compliance Issues Found",
+        "description": "All potential issues identified were based on Education Code sections 15278, 15280, and 15282, which could not be verified in the actual statute text. Without verified statutory requirements, no compliance deficiencies can be confirmed.",
+        "missing_from": "N/A",
+        "legal_citations": [
+          {
+            "citation": "N/A",
+            "text": "No verified Education Code sections available to support compliance requirements",
+            "verified": false
+          }
+        ],
+        "required_language": "No specific language requirements can be determined without verified statutory text",
+        "recommended_placement": "N/A",
+        "verified": false
+      }
+    ]
+  },
+  "check_date": "2025-06-01T16:55:09.526979+00:00"
+}

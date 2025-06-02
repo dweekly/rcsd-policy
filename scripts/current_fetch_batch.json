@@ -1,0 +1,85 @@
+{
+  "sections": [
+    {
+      "section": "10525",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10525&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 10525 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_10525_full.json"
+    },
+    {
+      "section": "1232",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1232&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1232 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1232_full.json"
+    },
+    {
+      "section": "1758",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1758&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1758 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1758_full.json"
+    },
+    {
+      "section": "34501.12",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34501.12&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 34501.12 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_34501_12_full.json"
+    },
+    {
+      "section": "35031",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35031&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 35031 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_35031_full.json"
+    },
+    {
+      "section": "3550",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3550&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 3550 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_3550_full.json"
+    },
+    {
+      "section": "3551",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3551&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 3551 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_3551_full.json"
+    },
+    {
+      "section": "39807.5",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39807.5&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 39807.5 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_39807_5_full.json"
+    },
+    {
+      "section": "39831",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39831&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 39831 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_39831_full.json"
+    },
+    {
+      "section": "39834",
+      "law_code": "EDC",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39834&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 39834 regarding . Include all subdivisions, requirements, and the effective date.",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_39834_full.json"
+    }
+  ],
+  "count": 10
+}

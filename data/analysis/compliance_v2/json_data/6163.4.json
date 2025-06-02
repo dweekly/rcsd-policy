@@ -1,0 +1,84 @@
+{
+  "code": "6163.4",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6163.4",
+    "title": "Student Use Of Technology",
+    "type": "Policy",
+    "last_reviewed": "02/15/2017",
+    "file_path": "data/extracted/policies/6163.4.txt"
+  },
+  "regulation": {
+    "code": "6163.4",
+    "title": "Student Use Of Technology",
+    "type": "Regulation",
+    "last_reviewed": "02/15/2017",
+    "file_path": "data/extracted/regulations/6163.4.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Required Annual Notification to Parents/Guardians",
+        "description": "California Education Code requires districts to annually notify parents/guardians about the district's Internet safety policy and their right to request that their child not have access to the Internet. While the policy mentions notification about authorized uses and consequences, it does not specifically address the required annual notification about Internet safety policy and parental opt-out rights.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51006(b)",
+            "text": "Each school district shall notify parents and guardians of pupils of the availability of the Internet safety policy and shall provide a copy upon request. Each school district shall notify parents and guardians of pupils that they have the right to request that their child not have access to the Internet."
+          }
+        ],
+        "required_language": "The district shall annually notify parents/guardians of the availability of the Internet safety policy and shall provide a copy upon request. Parents/guardians shall be notified of their right to request that their child not have access to the Internet.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Requirement for Supervision of Minors' Online Activities",
+        "description": "The Children's Internet Protection Act requires that districts certify they are enforcing a policy of Internet safety that includes monitoring the online activities of minors. While the policy mentions monitoring rights, it does not specifically address the required supervision/monitoring of minors' online activities as mandated by CIPA.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "47 USC 254(h)(5)(B)(i) and 47 CFR 54.520(c)(1)(i)",
+            "text": "An Internet safety policy that includes monitoring the online activities of minors and the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are obscene, child pornography, or harmful to minors."
+          }
+        ],
+        "required_language": "The district shall monitor the online activities of minors when using district technology with Internet access to ensure compliance with the Internet safety policy and applicable laws.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Required Disabling Provision for Adults and Bona Fide Research",
+        "description": "CIPA requires that technology protection measures may be disabled for adults or enabled to permit access for bona fide research or other lawful purposes. The policy mentions technology protection measures but does not address the required disabling provisions.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "47 USC 254(h)(5)(D) and 47 CFR 54.520(d)",
+            "text": "An administrator, supervisor, or other person authorized by the certifying authority may disable the technology protection measure concerned to enable access for bona fide research or other lawful purposes."
+          }
+        ],
+        "required_language": "An administrator, supervisor, or other authorized person may disable the technology protection measure to enable access for bona fide research or other lawful purposes by adults or to enable access for minors for bona fide research or other lawful purposes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Reference to Educating Minors About Appropriate Online Behavior",
+        "description": "CIPA requires education of minors about appropriate online behavior, including cyberbullying awareness and response. While the policy mentions age-appropriate instruction about safe behavior, it could be more explicit about the comprehensive education requirements under CIPA.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "47 USC 254(h)(5)(B)(iii) and 47 CFR 54.520(c)(1)(iii)",
+            "text": "Educating minors about appropriate online behavior, including interacting with other individuals on social networking websites and in chat rooms and cyberbullying awareness and response."
+          }
+        ],
+        "required_language": "Students shall receive education about appropriate online behavior, including instruction on interacting with other individuals on social networking websites and in chat rooms, and cyberbullying awareness and response.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:34:33.346155+00:00"
+}

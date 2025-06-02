@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4119.24: Maintaining Appropriate Adult-Student Interactions
+Last Reviewed: 11/20/2019
+================================================================================
+
+Missing Specific Complaint Investigation Procedures (Confidence: 90%)
+Missing from: BOTH
+Education Code 44050 specifically requires procedures for receiving and investigating complaints. While the BP mentions reporting to the Superintendent, it lacks detailed procedural requirements for how complaints will be processed, investigated, and resolved.
+
+Legal Basis:
+- Education Code Section 44050(b): The policy shall include procedures for receiving and investigating complaints alleging violations of the policy.
+
+Required Language:
+Specific procedures must be established for: (1) How complaints are received and documented; (2) Who conducts investigations; (3) Investigation timelines; (4) Rights of complainants and accused parties; (5) Evidence gathering procedures; (6) Decision-making process; (7) Appeal procedures; (8) Documentation requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Training Requirements (Confidence: 85%)
+Missing from: BOTH
+While the policy references providing the employee code of conduct to parents, there are no specific training requirements for employees, contractors, and volunteers on appropriate adult-student interactions, which is essential for effective implementation.
+
+Legal Basis:
+- Education Code Section 44050: The governing board shall establish a policy on interactions between district employees and pupils that promotes appropriate relationships and boundaries.
+
+Required Language:
+Requirements for mandatory training on appropriate adult-student interactions for all employees, contractors, and volunteers, including: (1) Initial training upon hire/assignment; (2) Annual refresher training; (3) Training content requirements; (4) Documentation of training completion; (5) Consequences for failure to complete required training.
+
+Recommended Placement: AR
+
+----------------------------------------
+

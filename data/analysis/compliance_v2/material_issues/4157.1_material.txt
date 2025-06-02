@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4157.1: Work-Related Injuries
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Specific Reporting Timeframe Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy states employees should report injuries "as soon as practicable" but does not specify the required timeframes under California workers' compensation law. Labor Code Section 5401 requires specific timing for injury reporting.
+
+Legal Basis:
+- Labor Code Section 5401: Requires that work-related injuries be reported within specific timeframes to preserve workers' compensation rights
+
+Required Language:
+Employees must report work-related injuries immediately or as soon as practical, but no later than 30 days after the injury occurs or the employee becomes aware that the injury is work-related.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Required Workers' Compensation Notice Content (Confidence: 85%)
+Missing from: BOTH
+While the policy mentions that notifications must be posted "in accordance with law," it does not specify the required content of workers' compensation notices or reference the specific notices required by California Labor Code.
+
+Legal Basis:
+- Labor Code Section 3550: Requires employers to post specific workers' compensation notices and provide employees with information about their rights
+
+Required Language:
+The district shall post the official "Workers' Compensation - Rights and Benefits" notice (Form DWC-7) and provide employees with information about their right to select a treating physician, claim procedures, and disability benefits as required by Labor Code Section 3550.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Return-to-Work Program Requirements (Confidence: 80%)
+Missing from: BOTH
+California Labor Code encourages employers to establish return-to-work programs, and Education Code requires districts to have procedures for accommodating injured employees. Neither the policy nor regulation addresses return-to-work procedures.
+
+Legal Basis:
+- Labor Code Section 4658.7: Provides for supplemental job displacement benefits and encourages return-to-work programs for injured employees
+
+Required Language:
+The district shall establish procedures for facilitating the return to work of employees who have sustained work-related injuries, including modified duty assignments when appropriate and coordination with medical providers regarding work restrictions.
+
+Recommended Placement: AR
+
+----------------------------------------
+

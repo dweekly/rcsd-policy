@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4141.6: Concerted Action/Work Stoppage
+Last Reviewed: 06/15/2022
+================================================================================
+
+Missing Specific Public Notification Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy mentions notifying various parties but lacks specific timing requirements for public notification. California law requires "reasonable notice" to the public, but the policy doesn't specify what constitutes reasonable notice or the minimum timeframes for different types of notifications.
+
+Legal Basis:
+- Education Code Section 3543.1: Public school employers shall provide reasonable notice to the public of a pending strike by an employee organization.
+
+Required Language:
+The district shall provide reasonable notice to the public of a pending strike, typically no less than 10 days before the anticipated work stoppage, unless circumstances make such notice impracticable. Notice shall include the nature of the dispute, anticipated duration, and measures taken to maintain educational services.
+
+Recommended Placement: AR
+
+----------------------------------------
+

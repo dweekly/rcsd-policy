@@ -1,0 +1,69 @@
+{
+  "code": "5126",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5126",
+    "title": "Awards For Achievement",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5126.txt"
+  },
+  "regulation": {
+    "code": "5126",
+    "title": "Awards For Achievement",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5126.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Golden State Seal Merit Diploma Subject Area Requirements",
+        "description": "The regulation references demonstrating mastery of \"at least six subject areas\" but Education Code 51451 was amended to require mastery of at least eight subject areas, with four core areas (mathematics, English language arts, science, and United States history) plus four additional areas selected by the student. The current regulation only mentions six total areas.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51451",
+            "text": "To be eligible to receive the Golden State Seal Merit Diploma, a pupil shall complete all requirements for graduation from high school and shall demonstrate mastery of at least eight subject matter areas, four of which shall be mathematics, English language arts, science, and United States history, with the remaining four subject matter areas selected by the pupil."
+          }
+        ],
+        "required_language": "To be eligible to receive the Golden State Seal Merit Diploma upon graduation, students shall complete all requirements for a high school diploma and shall demonstrate a mastery of at least eight subject areas, four of which shall be mathematics, English language arts, science and United States history, with the remaining four subject areas selected by the student.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated California Code of Regulations Citation",
+        "description": "The regulation cites \"5 CCR 876\" for achievement standards, but this citation should be verified as regulations may have been renumbered or updated since 2010. The policy was last updated in 2010 and may reference outdated regulatory citations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51452",
+            "text": "To demonstrate mastery of subject matter areas pursuant to Section 51451, a pupil shall achieve the standards or achievement levels established by the State Board of Education."
+          }
+        ],
+        "required_language": "Reference to current California Code of Regulations section governing achievement standards for Golden State Seal Merit Diploma, or remove specific CCR citation and reference only Education Code 51452.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Anti-Discrimination Language Completeness",
+        "description": "While the regulation includes some anti-discrimination language for scholarship eligibility (\"race, creed, or country of origin\"), it may not reflect current comprehensive anti-discrimination requirements that typically include additional protected categories such as gender, sexual orientation, disability, etc.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35316",
+            "text": "Eligibility for a scholarship or loan award shall not be limited on account of race, creed, or country of origin."
+          }
+        ],
+        "required_language": "The current language in Education Code 35316 is accurately reflected, but districts may want to consider broader anti-discrimination language consistent with other district policies to ensure comprehensive protection.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:21:22.277308+00:00"
+}

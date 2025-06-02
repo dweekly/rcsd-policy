@@ -1,0 +1,63 @@
+{
+  "code": "4361.5",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4361.5",
+    "title": "Military Leave",
+    "type": "Regulation",
+    "last_reviewed": "12/07/2022",
+    "file_path": "data/extracted/regulations/4361.5.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The district has only an Administrative Regulation (AR 4361.5) but no corresponding Board Policy (BP 4361.5) for military leave. California school districts typically require both policy and regulation documents to provide complete governance structure - the policy establishes board direction and employee rights, while the regulation provides implementation procedures.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44800",
+            "text": "Requires districts to establish policies regarding military leave for employees"
+          }
+        ],
+        "required_language": "A Board Policy should be created that establishes the district's commitment to providing military leave in accordance with state and federal law, affirms employee rights to military leave without discrimination or retaliation, and delegates implementation authority to the Superintendent.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "USERRA Notice Posting Location Not Specified",
+        "description": "While the regulation mentions that USERRA notice requirements \"may be met by posting the notice where the district customarily places notices for employees,\" it does not specify the actual locations where notices will be posted (e.g., employee break rooms, main office, district website).",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "38 USC 4334",
+            "text": "Requires employers to provide notice of rights, benefits, and obligations under USERRA"
+          }
+        ],
+        "required_language": "The regulation should specify the actual locations where USERRA notices will be posted, such as \"employee break rooms, main administrative offices, district website, and other locations where employee notices are customarily posted.\"",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Contact Information for Military Leave Requests",
+        "description": "The regulation requires employees to provide advance notice to \"the Superintendent or designee\" but does not specify how employees should submit requests or provide contact information for the designated personnel who handle military leave requests.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "38 USC 4312",
+            "text": "Requires advance notice of military service unless precluded by military necessity"
+          }
+        ],
+        "required_language": "The regulation should specify the process for submitting military leave requests, including contact information for the Human Resources department or designated personnel responsible for processing such requests.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:17:48.402244+00:00"
+}

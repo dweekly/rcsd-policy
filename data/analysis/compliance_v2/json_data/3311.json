@@ -1,0 +1,99 @@
+{
+  "code": "3311",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3311",
+    "title": "Bids",
+    "type": "Policy",
+    "last_reviewed": "03/09/2022",
+    "file_path": "data/extracted/policies/3311.txt"
+  },
+  "regulation": {
+    "code": "3311",
+    "title": "Bids",
+    "type": "Regulation",
+    "last_reviewed": "03/09/2022",
+    "file_path": "data/extracted/regulations/3311.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Prequalification Procedures",
+        "description": "The Board Policy references that prequalification procedures may be required \"as allowed by law and specified in administrative regulation,\" but the Administrative Regulation does not contain any prequalification procedures or criteria. This creates an incomplete framework for contractor prequalification.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Public Contract Code Section 20101",
+            "text": "The governing board of any school district may require prequalification of prospective bidders by requiring the submission of a completed questionnaire and financial statement."
+          }
+        ],
+        "required_language": "Prequalification procedures including: (1) criteria for prequalification, (2) questionnaire requirements, (3) financial statement requirements, (4) evaluation process, (5) appeals process for prequalification denials, and (6) maintenance of prequalified bidder lists.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Piggyback Contract Procedures",
+        "description": "The Board Policy states the Board may piggyback onto contracts of other public agencies \"to the extent authorized by law,\" but neither document specifies the legal requirements or procedures for piggyback contracts, creating compliance risk.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 53060",
+            "text": "Notwithstanding any other provision of law, the governing body of any local agency may contract with any person, firm, or corporation for the furnishing of supplies, equipment, materials, or services to such local agency if the governing body of another local agency has contracted with such person for the furnishing of the same type of supplies, equipment, materials, or services under specified conditions."
+          }
+        ],
+        "required_language": "Procedures for piggyback contracts including: (1) verification that the original contract was competitively bid, (2) confirmation that the district's needs match the original contract scope, (3) approval requirements, and (4) documentation requirements for piggyback contract utilization.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Best Value Contracting Procedures",
+        "description": "California law allows school districts to use best value contracting for certain projects, but neither document addresses this procurement method, limiting the district's procurement options.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Public Contract Code Section 20111.6",
+            "text": "Notwithstanding any other provision of law, the governing board of a school district may use a best value procurement process to award contracts for the procurement of goods and services."
+          }
+        ],
+        "required_language": "Authorization and procedures for best value procurement including evaluation criteria, scoring methodology, and award procedures when price is not the sole determining factor.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Outdated Bid Threshold Reference",
+        "description": "The Administrative Regulation references a specific bid threshold of $72,400 for equipment/supplies, but this amount is subject to annual adjustment. The regulation should reference the current threshold or provide for automatic updates.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Public Contract Code Section 20111(a)",
+            "text": "The amount specified in this subdivision shall be adjusted annually by the Superintendent of Public Instruction for inflation as measured by the California Consumer Price Index."
+          }
+        ],
+        "required_language": "Reference to current bid threshold as annually adjusted by the Superintendent of Public Instruction, rather than a specific dollar amount, or establish procedures for annual updates to the regulation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Electronic Bidding Procedures",
+        "description": "While the regulation mentions accepting electronic bids, it lacks detailed procedures for electronic bid submission, security, and authentication requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Public Contract Code Section 20112",
+            "text": "The district may accept a bid that has been submitted electronically or on paper, provided that the electronic bid submission process ensures bid security and authenticity."
+          }
+        ],
+        "required_language": "Detailed procedures for electronic bid submission including security requirements, authentication methods, time-stamping procedures, and technical requirements for electronic bid platforms.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:25:35.849796+00:00"
+}

@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3300: Expenditures And Purchases
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Competitive Bidding Requirements (Confidence: 95%)
+Missing from: BOTH
+California Education Code requires specific competitive bidding procedures for purchases exceeding statutory thresholds. The policy lacks any mention of bidding requirements, thresholds, or procedures for formal bidding processes that are mandatory for public school districts.
+
+Legal Basis:
+- Education Code 20111: The governing board of any school district may purchase materials, supplies, and equipment by competitive bidding. When the cost of materials, supplies, or equipment exceeds the bid limit specified in the Public Contract Code, the governing board shall purchase by competitive bidding.
+
+Required Language:
+The district shall follow competitive bidding procedures as required by Education Code 20111 and Public Contract Code when purchases exceed statutory thresholds. Formal bidding procedures, including advertisement requirements, bid opening procedures, and award criteria shall be established.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Public Contract Code Bid Thresholds (Confidence: 90%)
+Missing from: BOTH
+The policy does not specify the monetary thresholds that trigger formal bidding requirements under the Public Contract Code. Districts must establish clear thresholds and procedures for different purchase amounts.
+
+Legal Basis:
+- Public Contract Code 20111: Contracts for materials, supplies, or equipment in excess of the amount specified shall be let to the lowest responsible bidder after notice published once a week for two weeks in a newspaper of general circulation published in the district.
+
+Required Language:
+Purchases exceeding the bid limits established in Public Contract Code Section 20111 shall require formal competitive bidding with public advertisement. Current thresholds and procedures for informal bidding, formal bidding, and emergency purchases shall be clearly defined.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Emergency Purchase Procedures (Confidence: 85%)
+Missing from: BOTH
+The policy lacks provisions for emergency purchases that may bypass normal competitive bidding requirements. Education Code allows for emergency purchases under specific circumstances that must be defined.
+
+Legal Basis:
+- Public Contract Code 20113: In case of emergency when repair or replacements are necessary, the governing board may proceed with the replacement or repair without advertising for or inviting bids.
+
+Required Language:
+Emergency purchases may be made without competitive bidding when immediate action is necessary to protect life, property, or essential district operations. Emergency purchases shall be reported to the Board at the next regular meeting with justification for the emergency action.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Conflict of Interest Provisions (Confidence: 80%)
+Missing from: BOTH
+The policy does not address conflict of interest requirements for purchasing decisions, which are required under the Government Code to ensure ethical procurement practices.
+
+Legal Basis:
+- Government Code 1090: Members of the Legislature, state, county, district, judicial district, and city officers or employees shall not be financially interested in any contract made by them in their official capacity.
+
+Required Language:
+All purchasing decisions shall comply with conflict of interest requirements under Government Code 1090. District employees and Board members shall not have financial interests in contracts or purchases made by the district.
+
+Recommended Placement: BP
+
+----------------------------------------
+

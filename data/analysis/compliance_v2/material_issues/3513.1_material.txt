@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3513.1: Cellular Phone Reimbursement
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing IRS Taxable Income Treatment Requirements (Confidence: 85%)
+Missing from: BOTH
+While the regulation mentions CFR requirements for personal use reimbursement, it lacks comprehensive treatment of when cellular phone benefits constitute taxable income under IRS regulations. The policy must address that allowances exceeding the business use portion are taxable income to employees, and establish procedures for proper tax reporting.
+
+Legal Basis:
+- 26 CFR 1.132-5(r): The value of employer-provided cell phone service is excludable from an employee's gross income as a working condition fringe benefit only to the extent the service is provided primarily for noncompensatory business purposes. Any personal use must be treated as taxable income unless it is de minimis.
+
+Required Language:
+The district shall treat cellular phone allowances and reimbursements in accordance with IRS regulations. Allowances that exceed documented business use shall be reported as taxable income to the employee. The district shall establish procedures to ensure proper tax reporting and withholding for any personal use benefits that are not de minimis incidental personal use.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Public Records Act Compliance for Communication Records (Confidence: 90%)
+Missing from: BOTH
+The policy lacks provisions addressing that communications conducted on district-provided or reimbursed devices may be subject to California Public Records Act requirements. This is critical for legal compliance and transparency obligations.
+
+Legal Basis:
+- Government Code Section 6252(e): Public records include any writing containing information relating to the conduct of the public's business prepared, owned, used, or retained by any state or local agency regardless of physical form or characteristics.
+
+Required Language:
+Employees shall be notified that communications conducted on district-provided devices or devices for which reimbursement is provided may constitute public records subject to disclosure under the California Public Records Act. The district shall establish procedures for retention and potential disclosure of such communications in accordance with legal requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+

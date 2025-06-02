@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9123: Clerk
+Last Reviewed: 01/28/2009
+================================================================================
+
+Missing Clerk Election Process and Term Requirements (Confidence: 95%)
+Missing from: BOTH
+Education Code 35143 requires specific procedures for clerk election including timing, term length, and succession. The policy mentions election at the annual organizational meeting but lacks required details about the clerk's term of office and election procedures.
+
+Legal Basis:
+- Education Code 35143: The governing board of each school district shall annually elect from its members a president, a clerk, and such other officers as it deems necessary. The term of office of each officer shall be one year or until a successor is elected.
+
+Required Language:
+The clerk shall serve a term of one year or until a successor is elected. The clerk shall be elected annually at the organizational meeting by majority vote of the board members.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Clerk Vacancy Procedures (Confidence: 90%)
+Missing from: BOTH
+The policy does not address what happens when the clerk position becomes vacant during the term, which is required for proper board governance and continuity of operations.
+
+Legal Basis:
+- Education Code 35143: The governing board of each school district shall annually elect from its members a president, a clerk, and such other officers as it deems necessary.
+
+Required Language:
+In the event of a vacancy in the office of clerk, the board shall elect a replacement clerk from its membership at the next regular board meeting.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4121: Temporary/Substitute Personnel
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Criminal Background Check Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation addresses mandatory criminal background check requirements for substitute and temporary personnel. California law requires fingerprinting and background checks for all school employees, including substitutes and temporary staff, before they begin work.
+
+Legal Basis:
+- Education Code Section 45125.1: No person shall be employed by a school district in a position requiring contact with pupils until the person has had a background investigation conducted pursuant to this section.
+
+Required Language:
+All substitute and temporary personnel must complete fingerprinting and criminal background check clearance through the Department of Justice and FBI before beginning employment. No substitute or temporary employee may have contact with students until clearance is received.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Tuberculosis Testing Requirements (Confidence: 85%)
+Missing from: BOTH
+The regulation does not address mandatory tuberculosis testing requirements for substitute and temporary personnel. California law requires TB testing for all school employees before they begin work with students.
+
+Legal Basis:
+- Education Code Section 49406: Each person employed by a school district in a certificated or classified position shall have an examination to determine whether the person is free from active tuberculosis.
+
+Required Language:
+All substitute and temporary personnel must provide proof of tuberculosis testing showing freedom from active tuberculosis before beginning employment. The examination must be conducted within 60 days before the beginning of employment.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Mandated Reporter Training Requirements (Confidence: 80%)
+Missing from: BOTH
+The regulation does not address mandatory child abuse reporting training requirements for substitute and temporary personnel. California law requires all school employees to receive mandated reporter training.
+
+Legal Basis:
+- Penal Code Section 11165.7: On or before January 1, 2021, school districts shall provide training on the mandated reporting requirements to employees who are mandated reporters.
+
+Required Language:
+All substitute and temporary personnel must complete mandated reporter training regarding child abuse reporting requirements before beginning employment or within the first six weeks of employment.
+
+Recommended Placement: AR
+
+----------------------------------------
+

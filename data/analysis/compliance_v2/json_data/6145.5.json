@@ -1,0 +1,99 @@
+{
+  "code": "6145.5",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6145.5",
+    "title": "Student Organizations And Equal Access",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6145.5.txt"
+  },
+  "regulation": {
+    "code": "6145.5",
+    "title": "Student Organizations And Equal Access",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6145.5.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Equal Access Act Notice Requirements",
+        "description": "Federal law requires that schools provide written notice to students and parents about the limited open forum policy and equal access rights. This notification requirement is missing from both the policy and regulation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 4071(f)",
+            "text": "Schools shall provide written notice to students and parents of the school's limited open forum policy and the equal access rights afforded to student groups under the Equal Access Act."
+          }
+        ],
+        "required_language": "The district shall provide annual written notice to students and parents regarding the school's limited open forum policy and the equal access rights of student groups under federal law. This notice shall be included in student handbooks and other appropriate communications.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Inconsistent Forum Status Declaration",
+        "description": "The policy establishes a \"limited open forum\" while the regulation states the intent to \"maintain a closed forum.\" This creates a fundamental contradiction that could lead to legal challenges and unclear implementation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 4071(b)",
+            "text": "A public secondary school has a limited open forum whenever such school grants an offering to or opportunity for one or more noncurriculum related student groups to meet on school premises during noninstructional time."
+          }
+        ],
+        "required_language": "The district must clearly establish whether it maintains a closed forum (all groups curriculum-related) or a limited open forum (allowing noncurriculum-related groups). If maintaining a limited open forum, all provisions must be consistently applied throughout both documents.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Appeal Process for Denied Groups",
+        "description": "The regulation allows denial of groups but provides no appeal mechanism, which is required under due process and equal access principles. Students must have a way to challenge denials of their requests to form groups.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 4071(c)(4)",
+            "text": "Schools cannot deny equal access or fair opportunity to meet based on content of speech, and must provide due process for any denials of student group requests."
+          }
+        ],
+        "required_language": "Students whose requests to form groups are denied shall have the right to appeal such decisions through a formal process that includes written reasons for denial and opportunity for review by the superintendent or designee.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Hazing Definition",
+        "description": "The regulation references Education Code 48900 for hazing definition, but this code section was amended to include additional prohibited behaviors. The current definition may not reflect the complete legal requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32051",
+            "text": "Hazing includes any method of initiation or pre-initiation into a student organization that causes or is likely to cause bodily danger, physical harm, or personal degradation or disgrace resulting in physical or mental harm."
+          }
+        ],
+        "required_language": "Reference should be updated to Education Code 32051 and include the complete definition of prohibited hazing activities, including those that cause bodily danger in addition to serious bodily injury.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Time Limits for Group Authorization",
+        "description": "The regulation requires authorization requests but does not specify timeframes for administrative response, which could lead to indefinite delays and potential equal access violations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "20 USC 4071(a)",
+            "text": "Equal access requires fair opportunity to meet, which includes timely processing of requests to form student groups."
+          }
+        ],
+        "required_language": "The principal or designee shall respond to student group authorization requests within [10] school days of receipt of a complete application. If additional information is needed, the timeline shall be extended accordingly with written notice to students.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:31:57.557707+00:00"
+}

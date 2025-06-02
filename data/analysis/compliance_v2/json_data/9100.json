@@ -1,0 +1,78 @@
+{
+  "code": "9100",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9100",
+    "title": "Organization",
+    "type": "Policy",
+    "last_reviewed": "12/07/2022",
+    "file_path": "data/extracted/policies/9100.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Oath of Office Administration Requirements",
+        "description": "California Education Code requires that newly elected or appointed board members take an oath of office before assuming their duties. The policy lacks any reference to oath administration procedures, timing, or requirements for the organizational meeting.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35141",
+            "text": "Each member of a governing board of a school district, before entering upon the duties of his or her office, shall take and subscribe the oath of office prescribed by the Constitution."
+          }
+        ],
+        "required_language": "Before entering upon their duties, newly elected or appointed Board members shall take and subscribe to the oath of office as prescribed by the California Constitution. The oath shall be administered at or before the organizational meeting.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Quorum Requirements for Organizational Meeting",
+        "description": "The policy does not specify quorum requirements for conducting the organizational meeting, which is essential for ensuring the meeting can legally proceed and conduct official business including officer selection.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35145",
+            "text": "A majority of the members of the governing board of a school district constitutes a quorum for the transaction of business."
+          }
+        ],
+        "required_language": "A majority of Board members shall constitute a quorum for conducting the organizational meeting and transacting business.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Incomplete Brown Act Compliance for Meeting Notice",
+        "description": "While the policy addresses notification to board members, it does not address public notice requirements under the Brown Act for the organizational meeting, which is a public meeting subject to open meeting laws.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 54954.2",
+            "text": "At least 72 hours before a regular meeting, the legislative body of the local agency, or its designee, shall post an agenda containing a brief general description of each item of business to be transacted or discussed at the meeting."
+          }
+        ],
+        "required_language": "The organizational meeting shall comply with all Brown Act requirements including proper public notice and agenda posting at least 72 hours in advance of the meeting.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The policy would benefit from a corresponding administrative regulation that details the specific procedures for conducting the organizational meeting, including logistics, documentation requirements, and step-by-step processes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35143",
+            "text": "The governing board of each school district shall hold an annual organizational meeting for the purpose of electing a president and a clerk and for the transaction of such other business as may come before the meeting."
+          }
+        ],
+        "required_language": "Administrative procedures should detail the specific steps for conducting the organizational meeting, including preparation of materials, documentation of officer assignments, signature authorization processes, and record-keeping requirements.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:38:37.773719+00:00"
+}

@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5145.7: Sex Discrimination and Sex-Based Harassment
+Last Reviewed: 04/27/2022
+================================================================================
+
+Missing Definition of Sex Discrimination (Confidence: 85%)
+Missing from: BOTH
+California law requires districts to address both sex discrimination and sexual harassment, but the policy and regulation only define sexual harassment. The definition of sex discrimination must be included to ensure comprehensive coverage of prohibited conduct.
+
+Legal Basis:
+- Education Code Section 230: "Sex discrimination" means any act that unreasonably has a disproportionate adverse impact on persons of a particular sex.
+
+Required Language:
+Sex discrimination means any act that unreasonably has a disproportionate adverse impact on persons of a particular sex.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Interim Measures/Emergency Removal Authority (Confidence: 90%)
+Missing from: BOTH
+The policy mentions supportive measures but lacks specific authority for interim measures and emergency removal procedures required under Title IX, which are critical for ensuring student safety during investigations.
+
+Legal Basis:
+- 34 CFR 106.44(a): A recipient must treat complainants and respondents equitably by offering supportive measures to a complainant, and by following a grievance process that complies with this section before the imposition of any disciplinary sanctions or other actions that are not supportive measures against a respondent.
+
+Required Language:
+The district may remove a respondent from the district's education program or activity on an emergency basis, provided that the district undertakes an individualized safety and risk analysis, determines that an immediate threat to the physical health or safety of any student or other individual arising from the allegations of sexual harassment justifies removal, and provides the respondent with notice and an opportunity to challenge the decision immediately following the removal.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Complaint Filing Timeframes (Confidence: 95%)
+Missing from: BOTH
+While the policy states that complaints will be addressed regardless of timeline compliance, it lacks the specific statutory timeframes required under the Uniform Complaint Procedures, which could lead to procedural violations.
+
+Legal Basis:
+- 5 CCR 4630: A complaint alleging unlawful discrimination, harassment, intimidation, or bullying shall be initiated no later than six months from the date when the alleged discrimination, harassment, intimidation, or bullying occurred, or six months from the date when the complainant first obtained knowledge of the facts of the alleged discrimination, harassment, intimidation, or bullying.
+
+Required Language:
+A complaint alleging sex discrimination or sexual harassment shall be filed no later than six months from the date of the alleged conduct or six months from the date the complainant first obtained knowledge of the facts. The district may extend this timeline for good cause.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Standard of Evidence Statement (Confidence: 88%)
+Missing from: BOTH
+California law specifically requires districts to include the preponderance of evidence standard in their discrimination and harassment policies, but this is not explicitly stated in either document.
+
+Legal Basis:
+- Education Code Section 231.5(b): The policy shall include a requirement that, in the investigation of a complaint of discrimination or harassment, the standard of evidence used to determine whether discrimination or harassment occurred shall be the preponderance of the evidence standard.
+
+Required Language:
+In investigating complaints of sex discrimination or sexual harassment, the district shall use the preponderance of the evidence standard to determine whether the prohibited conduct occurred.
+
+Recommended Placement: AR
+
+----------------------------------------
+

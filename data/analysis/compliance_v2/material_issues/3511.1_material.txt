@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3511.1: Integrated Waste Management
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Mandatory Integrated Waste Management Plan Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires school districts to adopt an integrated waste management plan with specific mandatory components including waste reduction goals, implementation timelines, and progress measurement methods. The current policy and regulation lack these specific required elements and structured planning components.
+
+Legal Basis:
+- Public Resources Code Section 42920-42928: Each public agency shall adopt an integrated waste management plan that includes specific waste reduction goals, implementation schedules, and methods for measuring progress toward achieving waste reduction objectives.
+
+Required Language:
+The district shall adopt a comprehensive integrated waste management plan that includes: (1) specific waste reduction goals and targets, (2) implementation timelines and schedules, (3) methods for measuring and reporting progress, (4) designation of responsible personnel, and (5) regular review and update procedures.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Source Reduction Requirements (Confidence: 90%)
+Missing from: BOTH
+California law mandates that integrated waste management plans prioritize source reduction as the first priority in the waste management hierarchy. The current documents mention waste reduction generally but do not establish source reduction as the primary strategy or include specific source reduction targets.
+
+Legal Basis:
+- Public Resources Code Section 40051: Source reduction shall be given the highest priority in integrated waste management, followed by recycling and composting, with transformation and land disposal as the lowest priorities.
+
+Required Language:
+The district's integrated waste management program shall prioritize source reduction as the primary waste management strategy, followed by recycling and composting, with disposal as the last resort. Specific source reduction targets and strategies shall be established and implemented.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Mandatory Reporting Requirements (Confidence: 80%)
+Missing from: BOTH
+School districts are required to report their waste management activities and progress to appropriate state and local agencies. Neither the policy nor regulation addresses these mandatory reporting obligations or establishes procedures for compliance.
+
+Legal Basis:
+- Public Resources Code Section 42926: Public agencies shall submit annual reports on their integrated waste management activities and progress toward achieving waste reduction goals to the appropriate regional agency and the California Integrated Waste Management Board.
+
+Required Language:
+The Superintendent or designee shall ensure annual reporting of the district's waste management activities, progress toward goals, and compliance status to appropriate state and regional agencies as required by law.
+
+Recommended Placement: AR
+
+----------------------------------------
+

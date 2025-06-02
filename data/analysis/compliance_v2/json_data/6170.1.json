@@ -1,0 +1,108 @@
+{
+  "code": "6170.1",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6170.1",
+    "title": "Transitional Kindergarten",
+    "type": "Policy",
+    "last_reviewed": "03/12/2025",
+    "file_path": "data/extracted/policies/6170.1.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes comprehensive direction for the Transitional Kindergarten program, there is no corresponding Administrative Regulation to provide detailed implementation procedures. Given the complexity of TK requirements including eligibility determination, enrollment processes, curriculum implementation, staffing requirements, and assessment procedures, an AR is essential for consistent program administration.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48000",
+            "text": "Requires districts to establish specific procedures for TK program implementation, eligibility determination, and enrollment processes"
+          }
+        ],
+        "required_language": "Administrative Regulation 6170.1 should be developed to include detailed procedures for: eligibility verification and documentation requirements; enrollment and registration processes; curriculum implementation guidelines; assessment administration and reporting; staffing assignment procedures; parent notification processes; and program evaluation methods.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Procedures for Early Enrollment Child Requirements",
+        "description": "The policy mentions requirements for early enrollment children (4-year-olds) including classroom size limits (20 students max) and adult-to-student ratios (1:10), but lacks detailed implementation procedures for monitoring and maintaining these requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48000.15",
+            "text": "Districts enrolling early enrollment children must maintain classroom enrollment not exceeding 20 students and adult-to-student ratio of at least one adult to every 10 students"
+          }
+        ],
+        "required_language": "Procedures must be established for monitoring and maintaining the 20-student maximum enrollment and 1:10 adult-to-student ratio in classrooms with early enrollment children, including ongoing monitoring and adjustment procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Procedures for CSPP Concurrent Enrollment Requirement",
+        "description": "The policy states that districts must concurrently offer CSPP enrollment to early enrollment children but provides no implementation procedures for this requirement.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48000.15",
+            "text": "If an early enrollment child is enrolled in TK, the district shall concurrently offer enrollment to the child in the district's California State Preschool Program, subject to available space"
+          }
+        ],
+        "required_language": "Procedures must be established for offering concurrent CSPP enrollment to early enrollment children, including notification processes, space availability determination, and coordination between programs.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 92,
+        "title": "Missing Procedures for Teacher Qualification Verification",
+        "description": "While the policy establishes teacher qualification requirements (24 units in ECE/child development by August 1, 2025), there are no procedures for verifying, tracking, and ensuring compliance with these requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48000",
+            "text": "Credentialed teachers first assigned to TK after July 1, 2015, must have at least 24 units in early childhood education and/or child development by August 1, 2025"
+          }
+        ],
+        "required_language": "Procedures must be established for verifying teacher qualifications, tracking compliance with the 24-unit requirement, maintaining documentation, and ensuring all TK teachers meet requirements by the August 1, 2025 deadline.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Procedures for Adult-to-Student Ratio Compliance",
+        "description": "The policy establishes adult-to-student ratios (1:12 currently, 1:10 starting 2025-26) but lacks implementation procedures for monitoring and maintaining these ratios.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48000",
+            "text": "Districts must maintain an average of at least one adult for every 12 students for TK classrooms and one adult for every 10 students commencing with the 2025-26 school year"
+          }
+        ],
+        "required_language": "Procedures must be established for calculating, monitoring, and maintaining required adult-to-student ratios, including staffing adjustments and documentation requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Enrollment Documentation Procedures",
+        "description": "While the policy establishes eligibility criteria, there are no detailed procedures for documenting eligibility, maintaining enrollment records, or processing enrollment applications.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48000",
+            "text": "Districts must establish enrollment procedures and maintain appropriate documentation for TK eligibility"
+          }
+        ],
+        "required_language": "Detailed enrollment procedures should include required documentation, verification processes, record-keeping requirements, and timelines for enrollment decisions.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:35:29.847484+00:00"
+}

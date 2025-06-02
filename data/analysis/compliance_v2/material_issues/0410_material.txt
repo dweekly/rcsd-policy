@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 0410: Nondiscrimination In District Programs And Activities
+Last Reviewed: 06/27/2018
+================================================================================
+
+Missing Title IX Coordinator Designation (Confidence: 90%)
+Missing from: BOTH
+While the policy designates an ADA coordinator, it fails to specifically designate a Title IX coordinator as required by federal law. The policy only references "the individual identified in AR 1312.3" without specifically naming Title IX coordination responsibilities.
+
+Legal Basis:
+- 34 CFR 106.8(a): Each recipient must designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under this part, including any investigation of any complaint communicated to such recipient alleging its noncompliance with this part or alleging any actions which would be prohibited by this part (Title IX Coordinator).
+
+Required Language:
+The district designates the following individual as its Title IX Coordinator to coordinate compliance with Title IX requirements: [Name, Title, Address, Phone, Email]. The Title IX Coordinator is responsible for coordinating the district's compliance with Title IX and investigating complaints of sex discrimination.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Section 504 Coordinator Designation (Confidence: 85%)
+Missing from: BOTH
+The policy designates an ADA coordinator but does not specifically designate a Section 504 coordinator as required by federal regulations. Section 504 and ADA have different scopes and requirements that may need separate coordination.
+
+Legal Basis:
+- 34 CFR 104.7(a): A recipient that employs fifteen or more persons shall designate at least one person to coordinate its efforts to comply with this section.
+
+Required Language:
+The district designates the following individual as its Section 504 Coordinator to coordinate compliance with Section 504 requirements: [Name, Title, Address, Phone, Email]. The Section 504 Coordinator is responsible for coordinating the district's compliance with Section 504 and investigating complaints of disability discrimination.
+
+Recommended Placement: BP
+
+----------------------------------------
+

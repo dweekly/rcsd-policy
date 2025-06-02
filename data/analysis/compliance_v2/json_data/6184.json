@@ -1,0 +1,84 @@
+{
+  "code": "6184",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6184",
+    "title": "Continuation Education",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6184.txt"
+  },
+  "regulation": {
+    "code": "6184",
+    "title": "Continuation Education",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6184.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Coordination Plan Requirements",
+        "description": "The Board Policy references establishing a plan to coordinate instruction and training but fails to specify the required components. The regulation does not address the coordination plan at all, missing critical elements required by law including coordination with home, employment, and other agencies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 11003",
+            "text": "The governing board of each school district maintaining continuation education classes shall establish a plan to coordinate the instruction and training in the school with the home, employment, and other agencies serving minors subject to compulsory continuation education."
+          }
+        ],
+        "required_language": "The coordination plan shall specify procedures for coordinating instruction and training with: (1) the student's home environment and family circumstances, (2) current or potential employment opportunities, and (3) other agencies serving minors in continuation education. The plan shall include methods for regular communication and collaboration among these entities to support student success.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Coordinator Designation and Duties",
+        "description": "While the Board Policy mentions designating coordinators as required by 5 CCR 11003, neither document specifies the duties and responsibilities of these coordinators. The regulation mentions a \"director of continuation education\" but doesn't clearly establish this as the required coordinator position.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 11003",
+            "text": "The governing board shall designate one or more persons as coordinators to implement the coordination plan."
+          }
+        ],
+        "required_language": "The Board shall designate one or more persons as coordinators responsible for implementing the coordination plan. Coordinator duties shall include: facilitating communication between school, home, employers, and other agencies; monitoring student progress across all environments; and ensuring coordinated support services are provided to each student.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Exit Examination Reference",
+        "description": "The regulation references the high school exit examination requirement, but this requirement was suspended and later eliminated. The policy should be updated to reflect current graduation assessment requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 60850",
+            "text": "The high school exit examination requirement was suspended by AB 2121 (2015) and later eliminated."
+          }
+        ],
+        "required_language": "Students in continuation education must meet all state and local graduation requirements, including any state-mandated assessments currently in effect.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Appeal Process for Involuntary Transfer",
+        "description": "The regulation provides detailed procedures for involuntary transfer meetings but does not specify an appeal process beyond the initial meeting, which may be required for due process compliance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48432.5",
+            "text": "Due process requirements for involuntary transfers should include appeal procedures to ensure student rights are protected."
+          }
+        ],
+        "required_language": "Students and parents/guardians may appeal involuntary transfer decisions to the Board of Education within 10 school days of receiving the written decision. The appeal shall be heard at the next regularly scheduled board meeting.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:37:21.555639+00:00"
+}

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4116: Probationary/Permanent Status
+Last Reviewed: 12/09/2020
+================================================================================
+
+Missing Hearing Rights for Probationary Employees (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation addresses the right of probationary employees to request a hearing before the governing board when they receive notice of non-reelection, which is a mandatory procedural right under Education Code.
+
+Legal Basis:
+- Education Code Section 44929.21(c): A probationary employee who has been given notice pursuant to subdivision (b) may request a hearing before the governing board to determine if there is cause for not reelecting the employee.
+
+Required Language:
+A probationary employee who has received written notice of non-reelection may request a hearing before the governing board to determine if there is cause for not reelecting the employee. The request for hearing must be made within a reasonable time after receiving the notice.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Skelly Rights for Mid-Year Dismissal (Confidence: 95%)
+Missing from: BOTH
+The policy mentions that probationary employees may be dismissed "for cause" during the school year but fails to include required pre-disciplinary due process procedures (Skelly rights) that must be provided before dismissal.
+
+Legal Basis:
+- Education Code Section 44948.3: A probationary employee may be dismissed during the school year for cause, but only after being given written notice of the charges and an opportunity to be heard.
+
+Required Language:
+Before dismissing a probationary employee during the school year for cause, the employee shall be provided with written notice of the specific charges and given an opportunity to respond to those charges before an appropriate administrator.
+
+Recommended Placement: AR
+
+----------------------------------------
+

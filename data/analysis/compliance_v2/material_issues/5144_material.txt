@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5144: Discipline
+Last Reviewed: 05/23/2018
+================================================================================
+
+Missing Mandatory Reporting Requirements for School Personnel (Confidence: 95%)
+Missing from: BOTH
+California law requires that school personnel report suspected child abuse and neglect. While this may be covered in other policies, discipline policies should reference these mandatory reporting obligations since disciplinary situations may reveal signs of abuse or neglect.
+
+Legal Basis:
+- Penal Code Section 11166: A mandated reporter who has knowledge of or observes a child whom the mandated reporter knows or reasonably suspects has been the victim of child abuse or neglect shall report the known or suspected instance of child abuse or neglect to a child protective agency immediately or as soon as practically possible by telephone and shall prepare and send a written report thereof within 36 hours of receiving the information concerning the incident.
+
+Required Language:
+School personnel shall comply with mandatory reporting requirements under Penal Code 11164-11174.3 when disciplinary situations reveal suspected child abuse or neglect. Staff shall immediately report suspected abuse to appropriate authorities and follow established reporting procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Grounds for Suspension and Expulsion (Confidence: 85%)
+Missing from: BOTH
+Neither document lists the specific acts for which students may be suspended or expelled as required by Education Code 48900. While the policy references creating a "discipline matrix," it doesn't include the statutory grounds.
+
+Legal Basis:
+- Education Code Section 48900: A pupil shall not be suspended from school or recommended for expulsion, unless the superintendent or the principal of the school in which the pupil is enrolled determines that the pupil has committed an act as defined pursuant to any of subdivisions (a) to (r), inclusive.
+
+Required Language:
+Students may be suspended or recommended for expulsion only for acts specified in Education Code 48900, including but not limited to: (a) caused, attempted to cause, or threatened physical injury; (b) possessed, sold, or furnished weapons; (c) unlawfully possessed, used, sold, or furnished controlled substances; (d) unlawfully offered, arranged, or negotiated to sell controlled substances; (e) committed or attempted robbery or extortion; and other acts as specified in Education Code 48900.
+
+Recommended Placement: AR
+
+----------------------------------------
+

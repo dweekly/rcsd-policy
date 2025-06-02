@@ -1,0 +1,63 @@
+{
+  "code": "7310",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "7310",
+    "title": "Naming Of Facility",
+    "type": "Policy",
+    "last_reviewed": "11/06/2019",
+    "file_path": "data/extracted/policies/7310.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes comprehensive naming procedures, there is no corresponding Administrative Regulation to provide detailed implementation procedures, forms, timelines, and operational guidance. This creates a gap in how staff should execute the policy requirements in practice.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to include: specific timelines for each step of the naming process, standardized forms for committee recommendations, notification procedures for public hearings, criteria for evaluating naming proposals, documentation requirements for naming rights agreements, and procedures for maintaining records of facility names and changes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Public Hearing Notice Requirements",
+        "description": "The policy requires public hearings before adopting facility names but does not specify notice requirements, timing, or publication methods. While the policy mentions the requirement, implementation details are missing from both documents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 54950 et seq. (Brown Act)",
+            "text": "All meetings of the legislative body of a local agency shall be open and public, and all persons shall be permitted to attend any meeting of the legislative body of a local agency, except as otherwise provided in this chapter."
+          }
+        ],
+        "required_language": "Public hearing notices shall be posted at least 72 hours in advance in accordance with the Brown Act, published on the district website, and include the proposed facility name(s) and location of the facility to be named.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Timeline Specifications",
+        "description": "The policy establishes multi-step processes for naming facilities but does not specify timeframes for committee deliberations, superintendent review, or board consideration. This could lead to indefinite delays in the naming process.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "Governing boards have authority to establish reasonable procedures and timelines for district operations to ensure efficient administration."
+          }
+        ],
+        "required_language": "Specific timelines should be established: citizen advisory committees shall complete their work within 60 days of appointment, superintendent recommendations shall be made within 30 days of receiving committee input, and board consideration shall occur within 60 days of superintendent recommendation.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:38:04.482704+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "code": "1221.4",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "1221.4",
+    "title": "Citizens' Bond Oversight Committees",
+    "type": "Policy",
+    "last_reviewed": "06/07/2016",
+    "file_path": "data/extracted/policies/1221.4.txt"
+  },
+  "regulation": {
+    "code": "1221.4",
+    "title": "Citizens' Bond Oversight Committees",
+    "type": "Regulation",
+    "last_reviewed": "06/07/2016",
+    "file_path": "data/extracted/regulations/1221.4.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Committee Term Length Specification",
+        "description": "Education Code Section 15278(b) requires that committee members serve two-year terms. While the AR mentions \"two (2) or three (3) -year term\" in one section, it does not clearly establish the standard term length as required by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 15278(b)",
+            "text": "The members of the citizens' oversight committee shall serve terms of two years and may be reappointed for additional terms at the discretion of the governing board of the school district."
+          }
+        ],
+        "required_language": "Committee members shall serve two-year terms and may be reappointed for additional terms at the discretion of the Board.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Annual Report Publication Requirement",
+        "description": "Education Code Section 15280 requires that the committee's annual report be presented at a public meeting and made available to the public. The AR mentions preparing reports but does not specify the requirement for public presentation at a Board meeting.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 15280",
+            "text": "The citizens' oversight committee shall issue regular reports on the results of its activities. Any report issued by the citizens' oversight committee shall be presented at a public meeting of the governing board of the school district."
+          }
+        ],
+        "required_language": "All reports issued by the Committee shall be presented at a public meeting of the Board and made available to the public.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Incomplete Committee Composition Requirements",
+        "description": "Education Code Section 15278(a) requires at least 7 members with specific representation. The AR lists only 5 required categories but states the committee must have \"at least seven (7) members\" without specifying how the additional 2+ members should be selected or what they should represent.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 15278(a)",
+            "text": "The citizens' oversight committee shall consist of at least 7 members appointed by the governing board of the school district, and the composition of the committee shall be as follows..."
+          }
+        ],
+        "required_language": "Additional members beyond the five required categories shall be selected to represent the community at large and ensure broad community representation on the Committee.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Education Code Section 15278",
+        "description": "While the documents reference constitutional requirements, they do not cite the specific Education Code sections that govern citizens' oversight committees, which would provide clearer legal foundation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Sections 15278-15282",
+            "text": "These sections establish the comprehensive legal framework for citizens' oversight committees."
+          }
+        ],
+        "required_language": "This policy and regulation are established pursuant to Education Code Sections 15278-15282 and Article 13A, Section 1 of the California Constitution.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Unclear Meeting Frequency Requirements",
+        "description": "The AR states the committee shall meet \"no more than quarterly\" in the first year and \"at least once per year\" thereafter, but Education Code Section 15279 suggests more regular oversight activity may be expected.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 15279",
+            "text": "The citizens' oversight committee shall actively review and report on the expenditure of taxpayer money for school construction."
+          }
+        ],
+        "required_language": "The Committee shall meet regularly as necessary to actively review bond expenditures, but no less than annually after the first year.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:21:05.585409+00:00"
+}

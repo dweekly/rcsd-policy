@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5141.26: Tuberculosis Testing
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Mandatory TB Testing Requirements for School Entry (Confidence: 85%)
+Missing from: BOTH
+California law requires specific tuberculosis testing for students entering school for the first time, including kindergarten and transfer students. The policy mentions county requirements but lacks the specific mandatory testing requirements and procedures mandated by state law.
+
+Legal Basis:
+- Health and Safety Code Section 121525: Every person entering a public or private elementary or secondary school in this state for the first time shall be required to have a tuberculin skin test or chest X-ray examination for tuberculosis within 60 days prior to, or 90 days after, enrollment.
+
+Required Language:
+Students entering school for the first time in California, including kindergarten students and transfer students from out-of-state or out-of-country, shall be required to have tuberculosis testing (tuberculin skin test or chest X-ray) within 60 days prior to or 90 days after enrollment, unless exempted by law.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing TB Testing Exemption Provisions (Confidence: 90%)
+Missing from: BOTH
+State law provides specific exemptions from TB testing requirements that must be recognized by school districts. The policy and regulation do not address these mandatory exemptions.
+
+Legal Basis:
+- Health and Safety Code Section 121530: The tuberculin skin test or chest X-ray examination shall not be required if the parent or guardian files with the governing authority a written statement by a licensed physician to the effect that the physical condition of the child is such that the test or examination is not considered safe.
+
+Required Language:
+TB testing shall not be required if the parent/guardian provides a written statement from a licensed physician indicating that the child's physical condition makes the test unsafe, or if the parent/guardian objects on personal beliefs grounds as permitted by law.
+
+Recommended Placement: AR
+
+----------------------------------------
+

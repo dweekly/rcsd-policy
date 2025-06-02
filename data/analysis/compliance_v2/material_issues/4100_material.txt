@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4100: Certificated Personnel
+Last Reviewed: 11/04/2009
+================================================================================
+
+Lack of Specific Evaluation Requirements and Procedures (Confidence: 90%)
+Missing from: BOTH
+While the policy mentions that certificated staff "shall undergo regular performance evaluations in accordance with law and negotiated agreements," it fails to specify the required evaluation procedures, timelines, criteria, or documentation requirements mandated by California Education Code. This omission could lead to non-compliance with state evaluation requirements.
+
+Legal Basis:
+- Education Code Section 44664: The performance of each certificated employee shall be evaluated and assessed as it reasonably relates to: (a) The progress of pupils toward the standards established pursuant to Section 60605, and other measures of pupil progress that may be established by the governing board, (b) The instructional techniques and strategies used by the employee, (c) The employee's adherence to curricular objectives, (d) The establishment and maintenance of a suitable learning environment.
+
+Required Language:
+Evaluation procedures must address the four statutory criteria: student progress toward established standards, instructional techniques and strategies, adherence to curricular objectives, and establishment of suitable learning environment. Specific timelines, evaluation instruments, and documentation requirements should be established consistent with Education Code requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Professional Development and Continuing Education Requirements (Confidence: 85%)
+Missing from: BOTH
+The policy encourages professional development but does not address mandatory continuing education requirements for maintaining teaching credentials or other certificated positions. California law requires specific professional development for credential renewal and maintenance.
+
+Legal Basis:
+- Education Code Section 44277: Each person employed in a position requiring certification qualifications shall complete the continuing education or professional growth requirements prescribed by the Commission on Teacher Credentialing as a condition of employment.
+
+Required Language:
+Certificated personnel must complete continuing education and professional growth requirements as prescribed by the Commission on Teacher Credentialing. The district shall provide information and support for meeting these requirements and shall monitor compliance as a condition of continued employment.
+
+Recommended Placement: AR
+
+----------------------------------------
+

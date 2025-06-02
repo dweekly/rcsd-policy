@@ -1,0 +1,63 @@
+{
+  "code": "4119.22",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4119.22",
+    "title": "Dress And Grooming",
+    "type": "Policy",
+    "last_reviewed": "11/20/2019",
+    "file_path": "data/extracted/policies/4119.22.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for employee dress and grooming standards, there is no Administrative Regulation to provide specific implementation procedures, guidelines for supervisors, or processes for addressing violations. This creates a gap in how the policy will be consistently applied across the district.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to include: (1) Specific examples of appropriate professional dress standards; (2) Guidelines for supervisors on how to address dress code concerns; (3) Process for requesting modified dress requirements based on job assignment; (4) Procedures for handling complaints related to discrimination in dress and grooming; (5) Documentation requirements for any dress-related disciplinary actions; (6) Training requirements for supervisors on non-discriminatory enforcement.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Government Code 12926 Hair Discrimination Provisions",
+        "description": "The policy references Government Code 12926 regarding hair texture and protective hairstyles but does not include the complete scope of the CROWN Act protections, which also covers natural hair and hair worn in its uncut or untrimmed state.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12926(v)(2)",
+            "text": "\"Protective hairstyle\" includes, but is not limited to, such hairstyles as braids, locks, and twists... \"Race\" is inclusive of traits historically associated with race, including, but not limited to, hair texture and protective hairstyles."
+          }
+        ],
+        "required_language": "The policy should be expanded to state: \"The district shall not discriminate against employees based on hair texture, natural hair, and protective hairstyles, including, but not limited to, braids, locks, twists, and hair worn in its uncut or untrimmed state.\"",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Accommodation Process for Religious Dress and Grooming",
+        "description": "While the policy prohibits discrimination based on religious dress and grooming practices, it does not establish a clear process for employees to request religious accommodations or how such requests will be evaluated.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12940(l)",
+            "text": "It shall be an unlawful employment practice... to fail to make reasonable accommodation for the known physical or mental disability of an applicant or employee... unless the employer can demonstrate that the accommodation would produce undue hardship."
+          }
+        ],
+        "required_language": "Include language establishing that employees may request reasonable accommodations for religious dress and grooming practices, and that such requests will be evaluated in accordance with applicable law and district procedures for reasonable accommodation.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:10:25.386477+00:00"
+}

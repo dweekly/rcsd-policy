@@ -1,0 +1,108 @@
+{
+  "code": "3542",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3542",
+    "title": "School Bus Drivers",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3542.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP 3542) document is entirely missing. California law requires school districts to adopt board policies that establish the framework and authority for school bus driver requirements. Without a board policy, the district lacks the foundational governance structure required by law, and the administrative regulation operates without proper board authorization.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "A comprehensive Board Policy 3542 must be created that establishes the district's commitment to safe student transportation, delegates authority to the Superintendent for implementation, addresses driver qualifications and training requirements, and provides the policy framework that supports the administrative regulation.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Criminal Background Check Requirements",
+        "description": "Neither the BP nor AR explicitly addresses the mandatory criminal background check and fingerprinting requirements for school bus drivers. While the AR mentions electronic fingerprinting may be used, it fails to establish this as a mandatory requirement for all drivers.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45125.1",
+            "text": "Each person employed by a school district in a position requiring contact with pupils shall be required to submit two sets of fingerprints to the Department of Justice for the purpose of obtaining criminal history record information regarding such person."
+          }
+        ],
+        "required_language": "All school bus drivers must submit fingerprints for criminal background checks through the Department of Justice and FBI prior to employment. No person may operate a school bus until clearance is received and they are determined to be suitable for employment involving contact with minors.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Medical Examination Requirements",
+        "description": "The documents do not address the mandatory medical examination and certification requirements for school bus drivers as required by federal and state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Vehicle Code Section 12517.2",
+            "text": "The department shall require each applicant for an original school bus driver certificate to submit a report of medical examination on a form approved by the department."
+          }
+        ],
+        "required_language": "All school bus drivers must obtain and maintain a valid medical examiner's certificate demonstrating physical qualification to operate a commercial motor vehicle. Medical examinations must be conducted by certified medical examiners and renewed as required by law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Specific Training Hour Requirements",
+        "description": "While the AR mentions training topics, it fails to specify the minimum required training hours for school bus drivers as mandated by California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Vehicle Code Section 12523",
+            "text": "No school bus driver certificate shall be issued until the applicant has satisfactorily completed not less than 20 hours of classroom instruction and not less than 20 hours of behind-the-wheel instruction."
+          }
+        ],
+        "required_language": "All school bus drivers must complete a minimum of 20 hours of classroom instruction and 20 hours of behind-the-wheel instruction before receiving certification. Annual refresher training requirements must also be met as specified by law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 92,
+        "title": "Missing Student Discipline and Suspension Procedures",
+        "description": "The documents lack specific procedures for handling student discipline issues on buses, including when and how students may be suspended from bus transportation services.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35291",
+            "text": "The governing board of any school district may exclude from the privilege of riding on school buses any pupil whose conduct while riding on, getting on, or getting off the bus is such as to unreasonably interfere with the operation of the bus or the safety of other passengers."
+          }
+        ],
+        "required_language": "Procedures must be established for progressive discipline of students on buses, including warnings, conferences, and suspension from transportation services. Due process requirements, parent notification, and appeal procedures must be specified when excluding students from bus transportation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Transportation Safety Plan",
+        "description": "While the AR references following procedures in the district's transportation safety plan, neither document establishes the requirement to maintain such a plan or references its development and approval process.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 39831.5",
+            "text": "Each school district that provides pupil transportation services shall develop a transportation safety plan."
+          }
+        ],
+        "required_language": "The district shall develop, maintain, and regularly update a comprehensive transportation safety plan that includes emergency procedures, route planning, and safety protocols. This plan shall be reviewed annually and approved by the governing board.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:31:02.770718+00:00"
+}

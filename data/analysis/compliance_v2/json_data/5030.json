@@ -1,0 +1,93 @@
+{
+  "code": "5030",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5030",
+    "title": "Student Wellness",
+    "type": "Policy",
+    "last_reviewed": "06/26/2019",
+    "file_path": "data/extracted/policies/5030.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Student Wellness Policy Implementation",
+        "description": "California Education Code 49432 requires districts to adopt both policies AND regulations for student wellness. While the Board Policy exists, there is no corresponding Administrative Regulation to provide implementation procedures, specific standards, and operational details required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49432",
+            "text": "The governing board of a school district shall adopt policies and regulations that promote student wellness in a manner that the governing board determines appropriate for the school district."
+          }
+        ],
+        "required_language": "A comprehensive Administrative Regulation must be developed that includes specific implementation procedures, nutritional standards, physical activity requirements, monitoring procedures, and operational details for all wellness policy components.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Nutritional Standards for Foods and Beverages",
+        "description": "While the policy references that nutrition guidelines shall be consistent with federal regulations, it does not specify the actual nutritional standards required by California Education Code 49431.2 for competitive foods sold on campus.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49431.2",
+            "text": "Requires specific nutritional standards for all food sold to students during school hours, including limits on calories, sodium, fat, and sugar content."
+          }
+        ],
+        "required_language": "Specific nutritional standards must be included detailing calorie limits, sodium content, fat percentages, and sugar limits for all competitive foods and beverages sold on campus during school hours, consistent with state and federal Smart Snacks standards.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Physical Education Minutes Requirements",
+        "description": "The policy mentions physical activity opportunities but does not specify the minimum instructional minutes for physical education required by California Education Code 51210 and 51222.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Sections 51210, 51222",
+            "text": "Elementary schools must provide 200 minutes of physical education every 10 school days, and middle schools must provide 400 minutes every 10 school days."
+          }
+        ],
+        "required_language": "The district shall provide physical education for a minimum of 200 minutes every 10 school days in elementary grades and 400 minutes every 10 school days in middle school grades, as required by Education Code sections 51210 and 51222.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Triennial Assessment Public Notification Requirements",
+        "description": "While the policy mentions informing the public about the triennial assessment, it lacks specific procedures for how and when the public will be notified and how they can access the assessment results.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "42 USC 1758b; 7 CFR 210.30",
+            "text": "Requires districts to make the triennial assessment available to the public and inform the public of its availability."
+          }
+        ],
+        "required_language": "The district shall notify the public of the availability of the triennial wellness policy assessment through district website posting, newsletter announcements, and board meeting notifications. The assessment shall remain publicly accessible for the duration of the three-year cycle.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Wellness Committee Meeting Requirements",
+        "description": "The policy establishes a District Wellness Committee but does not specify meeting frequency, quorum requirements, or reporting procedures that would ensure effective oversight and compliance monitoring.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "42 USC 1758b",
+            "text": "Requires districts to establish procedures for ongoing wellness policy implementation and monitoring."
+          }
+        ],
+        "required_language": "The District Wellness Committee shall meet at least quarterly, maintain meeting minutes, and provide annual reports to the Board of Education on wellness policy implementation and compliance status.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:18:41.459101+00:00"
+}

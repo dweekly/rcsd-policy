@@ -1,0 +1,84 @@
+{
+  "code": "5141.52",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5141.52",
+    "title": "Suicide Prevention",
+    "type": "Policy",
+    "last_reviewed": "03/11/2020",
+    "file_path": "data/extracted/policies/5141.52.txt"
+  },
+  "regulation": {
+    "code": "5141.52",
+    "title": "Suicide Prevention",
+    "type": "Regulation",
+    "last_reviewed": "03/11/2020",
+    "file_path": "data/extracted/regulations/5141.52.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Annual Training Requirement for All Staff",
+        "description": "Education Code 215 requires that suicide prevention training be provided annually to all staff. While the AR mentions training shall be provided and lists comprehensive training topics, it does not explicitly state that this training must occur annually as mandated by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 215(c)(1)",
+            "text": "The governing board of a school district that serves pupils in grades 7 to 12, inclusive, shall, before the beginning of the 2017\u201318 school year, and before the beginning of each school year thereafter, provide suicide prevention training to teachers, counselors, and other school site employees who interact with pupils in grades 7 to 12, inclusive."
+          }
+        ],
+        "required_language": "Suicide prevention training shall be provided annually, before the beginning of each school year, to all teachers, counselors, and other school site employees who interact with students in grades 7 to 12.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Training Duration Requirement",
+        "description": "Education Code 215 requires that suicide prevention training be at least one hour in duration. Neither the BP nor AR specifies the minimum duration requirement for the training.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 215(c)(2)",
+            "text": "The training required by paragraph (1) shall be at least one hour and shall include training on how to identify the warning signs of suicidal behavior in adolescents and teens and how to respond appropriately to students who may be contemplating suicide."
+          }
+        ],
+        "required_language": "The suicide prevention training shall be at least one hour in duration.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Crisis Text Line Number on Student ID Cards",
+        "description": "Education Code 215.5 requires both the National Suicide Prevention Lifeline and Crisis Text Line numbers on student ID cards. The AR only mentions that the Crisis Text Line \"may\" be included, but the statute requires both numbers.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 215.5(a)",
+            "text": "If a public school serving pupils in grades 7 to 12, inclusive, issues pupil identification cards, the identification card shall have printed on either side the telephone number for the National Suicide Prevention Lifeline and the Crisis Text Line."
+          }
+        ],
+        "required_language": "Student identification cards shall include both the National Suicide Prevention Lifeline telephone number and the Crisis Text Line number.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Model Policy",
+        "description": "Education Code 215 encourages districts to use the model policy developed by the California Department of Education. While not strictly required, referencing the model policy demonstrates compliance with best practices and legislative intent.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 215(a)",
+            "text": "The department shall develop and maintain a model policy that may be used by local educational agencies to help identify and refer at-risk pupils to appropriate mental health services."
+          }
+        ],
+        "required_language": "This policy is developed in consideration of the model policy maintained by the California Department of Education pursuant to Education Code Section 215.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:25:32.501726+00:00"
+}

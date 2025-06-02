@@ -1,0 +1,84 @@
+{
+  "code": "5111",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5111",
+    "title": "Admission",
+    "type": "Policy",
+    "last_reviewed": "06/27/2018",
+    "file_path": "data/extracted/policies/5111.txt"
+  },
+  "regulation": {
+    "code": "5111",
+    "title": "Admission",
+    "type": "Regulation",
+    "last_reviewed": "06/27/2018",
+    "file_path": "data/extracted/regulations/5111.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Residency Verification Requirements and Procedures",
+        "description": "While the BP mentions that residency must be verified before enrollment, neither document specifies what constitutes acceptable proof of residency or the procedures for residency verification. Education Code requires districts to establish specific procedures for determining residency and what documentation is acceptable.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48204",
+            "text": "A pupil complies with the residency requirements for school attendance in a school district if the pupil is any of the following: (a) A pupil whose parent or legal guardian is a resident of the school district... The governing board of a school district shall accept various forms of documentation from a parent or legal guardian as proof of residency."
+          }
+        ],
+        "required_language": "Acceptable documentation of residency may include utility bills, lease agreements, mortgage statements, property tax records, or other official documents showing the family's address within district boundaries. The district shall accept various forms of documentation and shall not require specific types of documentation that may be difficult for some families to obtain.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Immunization Requirements and Procedures",
+        "description": "While the BP mentions that immunization must be verified before enrollment, neither document specifies the required immunizations, exemption procedures, or conditional enrollment provisions required by California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49403",
+            "text": "Any pupil who, prior to his or her first admission to any private or public elementary or secondary school, has not been immunized properly may not be unconditionally admitted to the school. A pupil may be conditionally admitted pending immunization."
+          }
+        ],
+        "required_language": "Students must provide proof of required immunizations as specified by the California Department of Public Health before unconditional admission. Students may be conditionally enrolled for up to 30 days pending completion of required immunizations. Medical exemptions may be granted only with proper documentation from a licensed physician.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Transitional Kindergarten Age Requirements",
+        "description": "The AR mentions TK for children with birthdays September 2 through December 2, but fails to include the expanded TK eligibility that phases in younger children through 2025-26, as required by recent legislative changes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48000(c)",
+            "text": "A child who will have attained the age of 4 years on or before September 1st, and who will have attained the age of 5 years on or before February 2nd of the following calendar year, may be admitted to a transitional kindergarten program."
+          }
+        ],
+        "required_language": "Beginning with the 2022-23 school year, transitional kindergarten eligibility expands annually: children turning 5 between September 2 and February 2 (2022-23), between September 2 and April 2 (2023-24), between September 2 and June 2 (2024-25), and all 4-year-olds by 2025-26.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Notification Requirements for Admission Denials",
+        "description": "Neither document specifies the required procedures for notifying parents when admission is denied and their right to appeal, which is required for due process.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48204.3",
+            "text": "If a school district determines that a pupil is not a resident of the school district, the school district shall notify the parent or legal guardian of the pupil, in writing, that the pupil is not eligible for enrollment."
+          }
+        ],
+        "required_language": "When admission is denied, the district shall provide written notification to the parent/guardian stating the reason for denial and informing them of their right to appeal the decision to the Board of Education within a specified timeframe.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:18:45.753597+00:00"
+}

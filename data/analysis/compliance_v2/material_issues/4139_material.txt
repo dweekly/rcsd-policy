@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4139: Peer Assistance and Review
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Collective Bargaining Agreement Requirement (Confidence: 85%)
+Missing from: BOTH
+California law requires that peer assistance and review programs be established through collective bargaining agreements with the exclusive representative of certificated employees. Neither the policy nor regulation acknowledges this fundamental legal requirement for program establishment.
+
+Legal Basis:
+- Education Code Section 44500(a): "A school district may establish a peer assistance and review program for certificated employees pursuant to a collective bargaining agreement with the exclusive representative of certificated employees in the district."
+
+Required Language:
+The peer assistance and review program shall be established pursuant to a collective bargaining agreement with the exclusive representative of certificated employees in the district, in accordance with Education Code Section 44500.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Due Process and Appeal Rights (Confidence: 90%)
+Missing from: BOTH
+The policy and regulation fail to address due process protections and appeal rights for participating teachers, which are essential components required by law to protect employee rights in peer review programs.
+
+Legal Basis:
+- Education Code Section 44500(b)(6): Peer assistance and review programs must include "due process protections for participating teachers, including the right to appeal decisions of the review panel."
+
+Required Language:
+The program shall include due process protections for participating teachers, including the right to appeal decisions of the review panel through established grievance procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Confidentiality Requirements (Confidence: 80%)
+Missing from: BOTH
+Neither document addresses the confidentiality requirements for peer assistance and review proceedings, which are mandated by law to protect participating teachers and maintain program integrity.
+
+Legal Basis:
+- Education Code Section 44503: "All proceedings of the peer review panel shall be confidential. Information obtained through the peer assistance and review process shall not be used in any disciplinary action against a participating teacher."
+
+Required Language:
+All proceedings of the peer review panel shall be confidential. Information obtained through the peer assistance and review process shall not be used in any disciplinary action against a participating teacher, except as specifically provided by law.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Consulting Teacher Release Time and Compensation (Confidence: 75%)
+Missing from: BOTH
+The regulation does not address the required provisions for consulting teacher release time and compensation, which are mandatory elements under California law for peer assistance and review programs.
+
+Legal Basis:
+- Education Code Section 44501(c): "Consulting teachers shall be provided with adequate release time to perform their duties and shall receive appropriate compensation for their services as specified in the collective bargaining agreement."
+
+Required Language:
+Consulting teachers shall be provided with adequate release time to perform their duties and shall receive appropriate compensation for their services as specified in the collective bargaining agreement.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 3451: Petty Cash Funds
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Audit and Internal Control Requirements (Confidence: 90%)
+Missing from: BOTH
+California Government Code requires specific internal controls and audit procedures for cash funds. The current regulation lacks provisions for periodic audits, segregation of duties, and formal internal control procedures that are mandated for public agencies handling cash.
+
+Legal Basis:
+- Government Code Section 26909: Public agencies must maintain adequate internal controls over cash handling and provide for periodic audits of cash funds.
+
+Required Language:
+Petty cash funds shall be subject to periodic unannounced audits by district personnel. Internal controls shall include segregation of duties where feasible, dual authorization for fund establishment, and mandatory reporting of discrepancies. All funds shall be audited at least annually as part of the district's financial audit.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Prohibited Use Restrictions (Confidence: 85%)
+Missing from: BOTH
+Public fund management requires explicit restrictions on prohibited uses of petty cash to prevent misuse of public funds. The regulation lacks specific prohibitions required under California public finance law.
+
+Legal Basis:
+- Government Code Section 1090: Public funds must be used only for authorized public purposes, and agencies must establish clear restrictions on prohibited uses.
+
+Required Language:
+Petty cash funds shall not be used for: personal expenses, loans to employees, cash advances, alcoholic beverages, gifts or donations, or any expenses that could constitute a conflict of interest or violation of public trust.
+
+Recommended Placement: AR
+
+----------------------------------------
+

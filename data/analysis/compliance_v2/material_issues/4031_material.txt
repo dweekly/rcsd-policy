@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4031: Complaints Concerning Discrimination In Employment
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Coordinator Designation (Confidence: 90%)
+Missing from: BOTH
+Neither document clearly designates who serves as the discrimination complaint coordinator. The AR references "the coordinator" and mentions a "designee designated by the Board of Education in BP 4030," but does not specifically identify the coordinator for employment discrimination complaints as required by law.
+
+Legal Basis:
+- Education Code Section 262.3: The governing board shall designate the employee responsible for coordinating the district's response to complaints and for complying with state and federal civil rights laws.
+
+Required Language:
+The Superintendent or designee shall designate a specific employee to serve as the coordinator for employment discrimination complaints. The coordinator's name, position, address, and telephone number shall be publicized.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Retaliation Protection (Confidence: 85%)
+Missing from: BOTH
+Neither the BP (missing) nor AR contains explicit language prohibiting retaliation against individuals who file discrimination complaints or participate in complaint investigations. This protection is required by state and federal law.
+
+Legal Basis:
+- Government Code Section 12940(h): It shall be an unlawful employment practice for any person to discharge, expel, or otherwise discriminate against any person because the person has opposed any practices forbidden under this part or because the person has filed a complaint, testified, or assisted in any proceeding under this part.
+
+Required Language:
+The district prohibits retaliation against anyone who files a complaint, participates in the complaint process, or otherwise opposes discrimination. Retaliatory action will be subject to disciplinary measures.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Incomplete Notice Requirements (Confidence: 80%)
+Missing from: BOTH
+While the AR mentions that information about civil remedies "shall be published with the district's nondiscrimination complaint procedures," it lacks specific requirements for annual notification and posting of the complaint procedures as required by law.
+
+Legal Basis:
+- Education Code Section 262.3: The district shall ensure that employees and job applicants are notified of the district's policy against discrimination and the complaint procedures.
+
+Required Language:
+The district shall annually notify employees and job applicants of the complaint procedures through employee handbooks, posting in employee areas, and other appropriate means. The notice shall include the coordinator's contact information and available remedies.
+
+Recommended Placement: BP
+
+----------------------------------------
+

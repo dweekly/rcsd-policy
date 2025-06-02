@@ -1,0 +1,51 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5020: Parent Rights And Responsibilities
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Specific Parent Rights Under Education Code 51101 (Confidence: 95%)
+Missing from: BOTH
+Several mandatory parent rights enumerated in Education Code 51101 are missing from both the policy and regulation, including rights related to transfers due to dangerous conditions, notification of teacher qualifications, and participation in complaint processes.
+
+Legal Basis:
+- Education Code 51101(a): The rights of parents and guardians of pupils enrolled in public schools include, but are not limited to, all of the following: [...] (21) To have their child transferred to another classroom or school if their child becomes the victim of an act of violence committed by another student. (22) To receive information about the professional qualifications of their child's teachers and paraprofessionals. (23) To participate in the complaint process established pursuant to Section 35186.
+
+Required Language:
+21. To have their child transferred to another classroom or school if their child becomes the victim of an act of violence committed by another student (Education Code 51101)
+
+22. To receive information about the professional qualifications of their child's teachers and paraprofessionals (Education Code 51101)
+
+23. To participate in the complaint process established pursuant to Education Code 35186 regarding instructional materials, emergency or urgent facilities conditions, and teacher vacancy or misassignment issues (Education Code 51101)
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Parent Rights Under Education Code 48982 (Confidence: 90%)
+Missing from: BOTH
+The regulation fails to include parent rights related to excusing students from comprehensive sexual health education and HIV prevention education as required by Education Code 48982.
+
+Legal Basis:
+- Education Code 48982: A parent or guardian of a pupil has the right to excuse their child from all or part of comprehensive sexual health education, HIV prevention education, and assessments related to that education through a passive consent ("opt-out") process.
+
+Required Language:
+To excuse their child from all or part of comprehensive sexual health education, HIV prevention education, and related assessments (Education Code 48982)
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Parent Rights Under Education Code 46010.1 (Confidence: 85%)
+Missing from: BOTH
+The documents do not include parent rights related to requesting alternative means of transportation when regular transportation poses a safety threat to their child.
+
+Legal Basis:
+- Education Code 46010.1: A parent or guardian may request that the school district provide alternative means of transportation for their child if the parent or guardian provides documentation that their child would be subject to harassment, intimidation, or bullying on the regular means of transportation provided by the district.
+
+Required Language:
+To request alternative means of transportation if their child would be subject to harassment, intimidation, or bullying on regular district transportation, upon providing appropriate documentation (Education Code 46010.1)
+
+Recommended Placement: AR
+
+----------------------------------------
+

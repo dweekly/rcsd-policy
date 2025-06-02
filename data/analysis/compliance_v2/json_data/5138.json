@@ -1,0 +1,78 @@
+{
+  "code": "5138",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5138",
+    "title": "Conflict Resolution/Peer Mediation",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5138.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework and requirements for conflict resolution/peer mediation programs, there is no corresponding Administrative Regulation to provide specific implementation procedures. The policy outlines 12 areas that school-site teams \"shall address\" but provides no procedural guidance on how these requirements will be implemented, monitored, or evaluated at the district level.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32280-32289 (Safe Place to Learn Act)",
+            "text": "Requires districts to have policies and procedures for addressing conflicts and maintaining safe school environments, with specific implementation mechanisms."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to establish procedures for: implementation timelines, staff responsibilities, training requirements, program oversight, documentation requirements, evaluation criteria, and reporting mechanisms for the conflict resolution/peer mediation programs outlined in the Board Policy.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Mandatory Reporting and Safety Limitations",
+        "description": "The policy states that participation \"shall be kept confidential by all parties involved\" but fails to specify mandatory reporting exceptions when child abuse, threats of violence, or other serious safety concerns arise during mediation sessions. This creates potential liability and conflicts with mandatory reporting requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11166 (Child Abuse and Neglect Reporting Act)",
+            "text": "Mandated reporters, including school personnel, must report suspected child abuse regardless of confidentiality agreements or mediation processes."
+          }
+        ],
+        "required_language": "Confidentiality in peer mediation is subject to mandatory reporting requirements under state law, including but not limited to suspected child abuse, threats of violence, or other safety concerns that require immediate intervention by school authorities or law enforcement.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Parental Notification and Consent Procedures",
+        "description": "While the policy mentions \"appropriate involvement of parents/guardians,\" it lacks specific requirements for parental notification when students participate in peer mediation, especially for conflicts involving potential disciplinary consequences or safety concerns.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48900.1 and 48911",
+            "text": "Parents have rights to be informed about disciplinary matters and alternative resolution processes involving their children."
+          }
+        ],
+        "required_language": "Parents/guardians shall be notified when their student participates in peer mediation for conflicts that could result in disciplinary action or involve safety concerns. Procedures shall specify when parental consent is required versus notification only.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2010, which is over 13 years ago. California law and best practices for conflict resolution have evolved significantly, particularly regarding restorative justice practices and trauma-informed approaches.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "School boards have authority and responsibility to ensure policies remain current and effective for student welfare and safety."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and best practices in conflict resolution and restorative justice.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:23:34.295854+00:00"
+}

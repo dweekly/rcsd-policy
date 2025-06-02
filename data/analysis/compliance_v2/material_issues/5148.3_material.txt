@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5148.3: Preschool/Early Childhood Education
+Last Reviewed: 04/04/2018
+================================================================================
+
+Missing Mandated Reporter Training Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires all preschool staff to receive mandated reporter training regarding child abuse and neglect reporting. While the policy mentions staff qualifications and professional development, neither document specifically addresses the mandatory training requirements for identifying and reporting suspected child abuse.
+
+Legal Basis:
+- Penal Code Section 11165.7: Any person who enters into employment on or after January 1, 1985, and is a mandated reporter shall sign a statement on a form prescribed by the Department of Justice stating that he or she has knowledge of the reporting requirements and will comply with those provisions.
+
+Required Language:
+All preschool staff shall receive training on mandated reporting requirements for child abuse and neglect, including initial training upon employment and periodic refresher training. Staff shall sign acknowledgment forms confirming their understanding of reporting obligations.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Health and Safety Requirements (Confidence: 90%)
+Missing from: BOTH
+The regulation lacks specific health and safety requirements mandated for preschool programs, including emergency procedures, health screening requirements, and safety protocols that are required by California Code of Regulations.
+
+Legal Basis:
+- 5 CCR 18275: Each program shall have written policies and procedures for health and safety, including but not limited to emergency procedures, health screening, medication administration, and injury reporting.
+
+Required Language:
+The preschool program shall maintain written health and safety policies including: emergency evacuation procedures, health screening protocols, medication administration procedures, injury reporting requirements, and infectious disease control measures.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Parent Grievance Procedures (Confidence: 80%)
+Missing from: BOTH
+Neither document establishes a formal grievance procedure for parents/guardians to appeal decisions regarding enrollment, services, or other program matters, which is required for state-funded preschool programs.
+
+Legal Basis:
+- 5 CCR 18096: Each contractor shall establish a grievance procedure to resolve complaints by parents regarding the provision of services. The procedure shall include timelines and appeal processes.
+
+Required Language:
+The district shall establish a grievance procedure allowing parents/guardians to appeal decisions regarding enrollment, fees, services, or program policies. The procedure shall include specific timelines, steps for resolution, and appeal rights.
+
+Recommended Placement: AR
+
+----------------------------------------
+

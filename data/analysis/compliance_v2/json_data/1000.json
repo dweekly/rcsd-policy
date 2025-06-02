@@ -1,0 +1,78 @@
+{
+  "code": "1000",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1000",
+    "title": "Concepts And Roles",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1000.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Community Advisory Committee Requirements",
+        "description": "California Education Code requires districts to establish community advisory committees for certain programs and populations. The policy mentions community collaboration but lacks specific requirements for mandated advisory committees such as those for English Learners, Special Education, and other federally funded programs.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 52176",
+            "text": "The governing board of each school district that receives funds pursuant to this article shall establish a school site council or other school-level advisory group..."
+          }
+        ],
+        "required_language": "The district shall establish advisory committees as required by state and federal law, including but not limited to English Learner Advisory Committees, Special Education Community Advisory Committees, and other program-specific advisory groups as mandated.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Complaint Process Reference",
+        "description": "Community relations policies must reference the district's complaint procedures to ensure community members know how to address concerns. This is required under the Uniform Complaint Procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 4622",
+            "text": "Each local educational agency shall adopt policies and procedures for the investigation and resolution of complaints..."
+          }
+        ],
+        "required_language": "The district shall inform community members of complaint procedures available for addressing concerns about district programs, services, or compliance with state and federal requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Implementation Procedures",
+        "description": "The policy establishes broad community engagement goals but lacks corresponding administrative regulation detailing specific implementation procedures, timelines, and responsibilities for community outreach and engagement activities.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Ed Code Section 35160",
+            "text": "On and after January 1, 1976, the governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative regulation should specify: methods for community outreach, frequency of community engagement activities, roles and responsibilities of staff, procedures for community input on policies, and evaluation methods for community relations effectiveness.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2009 and may not reflect current legal requirements or best practices for community engagement, particularly regarding digital communication and accessibility requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Gov Code Section 11135",
+            "text": "No person in the State of California shall, on the basis of sex, race, color, religion, ancestry, national origin, ethnic group identification, age, mental disability, physical disability, medical condition, genetic information, marital status, or sexual orientation, be unlawfully denied full and equal access to the benefits of, or be unlawfully subjected to discrimination under, any program or activity that is conducted, operated, or administered by the state or by any state agency..."
+          }
+        ],
+        "required_language": "Community engagement activities shall be accessible to all community members regardless of language, disability, or other protected characteristics, and shall utilize multiple communication methods including digital platforms where appropriate.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:19:44.058454+00:00"
+}

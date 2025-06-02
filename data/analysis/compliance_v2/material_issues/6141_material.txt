@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6141: Curriculum Development And Evaluation
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing State Standards Alignment Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation explicitly requires curriculum alignment with California State Standards. While the policy mentions "state model curriculum standards," it does not specifically reference current California State Standards or Common Core requirements.
+
+Legal Basis:
+- Education Code Section 60605.8: The state board shall adopt curriculum frameworks that are aligned with the state academic content standards.
+
+Required Language:
+District curriculum shall be aligned with California State Standards, including Common Core State Standards, Next Generation Science Standards, and other state-adopted academic content standards.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing English Learner Curriculum Requirements (Confidence: 85%)
+Missing from: BOTH
+The policy lacks specific provisions for English Learner curriculum development and evaluation requirements mandated by state law.
+
+Legal Basis:
+- Education Code Section 306(c): It is the policy of the state to ensure the mastery of English by all pupils in the schools... All pupils shall be taught English by being taught in English.
+
+Required Language:
+Curriculum development shall include specific provisions for English Learners, including English Language Development standards and appropriate instructional strategies for students acquiring English proficiency.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Special Education Curriculum Considerations (Confidence: 80%)
+Missing from: BOTH
+The policy mentions "special programs and categories of students" but does not specifically address special education curriculum requirements and Individual Education Program (IEP) considerations.
+
+Legal Basis:
+- Education Code Section 56345: The individualized education program shall include... a statement of the special education and related services and supplementary aids and services... to be provided to the child.
+
+Required Language:
+Curriculum development shall ensure access to grade-level curriculum for students with disabilities and alignment with Individual Education Program requirements while maintaining high expectations for all students.
+
+Recommended Placement: BP
+
+----------------------------------------
+

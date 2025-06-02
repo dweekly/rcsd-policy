@@ -1,0 +1,84 @@
+{
+  "code": "4030",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4030",
+    "title": "Nondiscrimination In Employment",
+    "type": "Policy",
+    "last_reviewed": "05/24/2023",
+    "file_path": "data/extracted/policies/4030.txt"
+  },
+  "regulation": {
+    "code": "4030",
+    "title": "Nondiscrimination In Employment",
+    "type": "Regulation",
+    "last_reviewed": "05/24/2023",
+    "file_path": "data/extracted/regulations/4030.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Federal Civil Rights Laws and Compliance Statement",
+        "description": "The policy lacks explicit reference to federal civil rights laws (Title VII, ADA, ADEA, etc.) and a comprehensive compliance statement. While the policy covers protected characteristics, it should explicitly state compliance with major federal employment discrimination statutes to demonstrate full legal compliance and provide clear legal foundation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 4960",
+            "text": "Requires districts to adopt policies that comply with applicable federal and state laws prohibiting discrimination"
+          }
+        ],
+        "required_language": "The district complies with applicable federal and state laws and regulations prohibiting discrimination in employment, including but not limited to Title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act, the Age Discrimination in Employment Act, Section 504 of the Rehabilitation Act of 1973, the Fair Employment and Housing Act, and Education Code sections relating to employment discrimination.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Notification to Applicants and Employees of Rights",
+        "description": "Neither document explicitly requires notification to job applicants and employees of their rights under nondiscrimination laws or how to file complaints with external agencies. While the AR mentions DFEH/EEOC filing procedures, there's no requirement to proactively notify individuals of these rights.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 4960",
+            "text": "Districts shall notify applicants for employment and employees of their rights under federal and state nondiscrimination laws"
+          }
+        ],
+        "required_language": "The district shall notify job applicants and employees of their rights under federal and state nondiscrimination laws and their right to file complaints with the California Civil Rights Department and/or the Equal Employment Opportunity Commission.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Requirement for Supervisor Training on Reporting Obligations",
+        "description": "While the policy states supervisors must report incidents they observe, neither document requires specific training for supervisors on their mandatory reporting obligations and legal requirements under California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 12950.1",
+            "text": "Requires employers to provide training to supervisory employees regarding their obligations to report harassment and discrimination"
+          }
+        ],
+        "required_language": "All supervisory employees shall receive training on their legal obligations to report incidents of discrimination, harassment, and retaliation, including the procedures for making such reports and the prohibition against retaliation for reporting.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Reference to DFEH",
+        "description": "The administrative regulation refers to the \"Department of Fair Employment and Housing (DFEH)\" which was renamed to the \"California Civil Rights Department (CRD)\" in 2022. While this doesn't affect legal compliance, it should be updated for accuracy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 12900",
+            "text": "The Department of Fair Employment and Housing was renamed the California Civil Rights Department effective July 1, 2022"
+          }
+        ],
+        "required_language": "Update all references from \"Department of Fair Employment and Housing (DFEH)\" to \"California Civil Rights Department (CRD)\"",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:32:20.518707+00:00"
+}

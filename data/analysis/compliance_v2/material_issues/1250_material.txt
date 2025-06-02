@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1250: Visitors/Outsiders
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Criminal Background Check Requirements for Volunteers (Confidence: 85%)
+Missing from: BOTH
+California law requires criminal background checks for volunteers who will have frequent or prolonged contact with students. The policy and regulation lack procedures for conducting these required background checks and determining volunteer eligibility based on results.
+
+Legal Basis:
+- Education Code Section 45125.1: Requires criminal background checks for volunteers who have frequent or prolonged contact with pupils, including fingerprinting and DOJ/FBI clearance.
+
+Required Language:
+Volunteers who will have frequent or prolonged contact with students must complete criminal background checks, including fingerprinting and clearance from the Department of Justice and Federal Bureau of Investigation, prior to beginning volunteer activities. The district shall establish procedures for determining volunteer eligibility based on background check results.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Tuberculosis Testing Requirements (Confidence: 80%)
+Missing from: BOTH
+California requires tuberculosis risk assessment and testing for volunteers and visitors who will have frequent or prolonged contact with students. This health screening requirement is not addressed in either document.
+
+Legal Basis:
+- Education Code Section 49406: Requires tuberculosis risk assessment and testing for persons who will have frequent or prolonged contact with pupils.
+
+Required Language:
+Volunteers and visitors who will have frequent or prolonged contact with students must complete tuberculosis risk assessment and, if indicated, tuberculosis testing prior to beginning activities involving student contact.
+
+Recommended Placement: AR
+
+----------------------------------------
+

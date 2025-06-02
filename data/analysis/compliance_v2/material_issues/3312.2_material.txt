@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3312.2: Educational Travel Program Contracts
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Financial Security Requirements (Confidence: 95%)
+Missing from: BOTH
+California law requires educational travel organizations to maintain financial security (bond, trust account, or insurance) of at least $50,000 to protect against financial default. The contract must include verification of this financial security, but neither the policy nor regulation addresses this mandatory requirement.
+
+Legal Basis:
+- Business and Professions Code Section 17554(a)(3): The contract shall include... A statement as to whether or not the educational travel organization maintains financial security pursuant to Section 17555 and, if so, the type and amount of the financial security and the name and telephone number of the person or organization which is able to verify the financial security.
+
+Required Language:
+A statement as to whether or not the educational travel organization maintains financial security pursuant to Business and Professions Code Section 17555 and, if so, the type and amount of the financial security and the name and telephone number of the person or organization which is able to verify the financial security.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Contract Cancellation and Refund Policy Requirements (Confidence: 90%)
+Missing from: BOTH
+State law mandates that contracts must include the educational travel organization's cancellation and refund policy. This protects students and families by ensuring clear understanding of financial obligations if travel plans change. This requirement is absent from both documents.
+
+Legal Basis:
+- Business and Professions Code Section 17554(a)(8): The contract shall include... The educational travel organization's cancellation and refund policy.
+
+Required Language:
+The educational travel organization's cancellation and refund policy.
+
+Recommended Placement: AR
+
+----------------------------------------
+

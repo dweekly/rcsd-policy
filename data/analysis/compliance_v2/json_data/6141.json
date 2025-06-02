@@ -1,0 +1,93 @@
+{
+  "code": "6141",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6141",
+    "title": "Curriculum Development And Evaluation",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6141.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Curriculum Development Procedures",
+        "description": "The Board Policy delegates implementation procedures to the Superintendent but no Administrative Regulation exists to define these procedures. California Education Code requires specific procedural elements for curriculum development that must be documented in district regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51226",
+            "text": "The governing board of each school district maintaining any of grades 9 to 12, inclusive, shall adopt a course of study for grades 9 to 12, inclusive, pursuant to Section 51225.3."
+          }
+        ],
+        "required_language": "Administrative Regulation 6141 must be created to establish specific procedures for curriculum development and evaluation, including timelines, review processes, stakeholder input mechanisms, and evaluation criteria.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing State Standards Alignment Requirements",
+        "description": "Neither the policy nor regulation explicitly requires curriculum alignment with California State Standards. While the policy mentions \"state model curriculum standards,\" it does not specifically reference current California State Standards or Common Core requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60605.8",
+            "text": "The state board shall adopt curriculum frameworks that are aligned with the state academic content standards."
+          }
+        ],
+        "required_language": "District curriculum shall be aligned with California State Standards, including Common Core State Standards, Next Generation Science Standards, and other state-adopted academic content standards.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing English Learner Curriculum Requirements",
+        "description": "The policy lacks specific provisions for English Learner curriculum development and evaluation requirements mandated by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 306(c)",
+            "text": "It is the policy of the state to ensure the mastery of English by all pupils in the schools... All pupils shall be taught English by being taught in English."
+          }
+        ],
+        "required_language": "Curriculum development shall include specific provisions for English Learners, including English Language Development standards and appropriate instructional strategies for students acquiring English proficiency.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Special Education Curriculum Considerations",
+        "description": "The policy mentions \"special programs and categories of students\" but does not specifically address special education curriculum requirements and Individual Education Program (IEP) considerations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 56345",
+            "text": "The individualized education program shall include... a statement of the special education and related services and supplementary aids and services... to be provided to the child."
+          }
+        ],
+        "required_language": "Curriculum development shall ensure access to grade-level curriculum for students with disabilities and alignment with Individual Education Program requirements while maintaining high expectations for all students.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Reference to \"State Model Curriculum Standards\"",
+        "description": "The policy references \"state model curriculum standards\" which is outdated terminology. Current law refers to \"state academic content standards.\"",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60605",
+            "text": "The state board shall adopt academic content standards for pupils in kindergarten and grades 1 to 12, inclusive."
+          }
+        ],
+        "required_language": "Replace \"state model curriculum standards\" with \"state academic content standards\" to reflect current legal terminology.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:29:57.987261+00:00"
+}

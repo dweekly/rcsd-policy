@@ -1,0 +1,84 @@
+{
+  "code": "1250",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "1250",
+    "title": "Visitors/Outsiders",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1250.txt"
+  },
+  "regulation": {
+    "code": "1250",
+    "title": "Visitors/Outsiders",
+    "type": "Regulation",
+    "last_reviewed": "02/15/2017",
+    "file_path": "data/extracted/regulations/1250.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Criminal Background Check Requirements for Volunteers",
+        "description": "California law requires criminal background checks for volunteers who will have frequent or prolonged contact with students. The policy and regulation lack procedures for conducting these required background checks and determining volunteer eligibility based on results.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45125.1",
+            "text": "Requires criminal background checks for volunteers who have frequent or prolonged contact with pupils, including fingerprinting and DOJ/FBI clearance."
+          }
+        ],
+        "required_language": "Volunteers who will have frequent or prolonged contact with students must complete criminal background checks, including fingerprinting and clearance from the Department of Justice and Federal Bureau of Investigation, prior to beginning volunteer activities. The district shall establish procedures for determining volunteer eligibility based on background check results.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Sex Offender Campus Access Procedures",
+        "description": "While the policy addresses sex offender registration requirements, it lacks mandatory procedures for supervision and specific conditions that must be included in written permission, as required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 626.81",
+            "text": "Requires that any written permission granted to registered sex offenders include specific conditions and supervision requirements while on campus."
+          }
+        ],
+        "required_language": "Written permission for registered sex offenders must specify: (1) the purpose and duration of the visit, (2) requirement for continuous supervision by designated school personnel, (3) specific areas of campus that may be accessed, and (4) any other conditions deemed necessary for student safety.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Tuberculosis Testing Requirements",
+        "description": "California requires tuberculosis risk assessment and testing for volunteers and visitors who will have frequent or prolonged contact with students. This health screening requirement is not addressed in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49406",
+            "text": "Requires tuberculosis risk assessment and testing for persons who will have frequent or prolonged contact with pupils."
+          }
+        ],
+        "required_language": "Volunteers and visitors who will have frequent or prolonged contact with students must complete tuberculosis risk assessment and, if indicated, tuberculosis testing prior to beginning activities involving student contact.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Reference to Penal Code Section",
+        "description": "The policy references Penal Code 626.7 for removal of disruptive individuals, but this should reference the more comprehensive Penal Code 627.7 which is already cited in the regulation.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 627.7",
+            "text": "Provides comprehensive authority for removing disruptive visitors and the process for doing so, including notification requirements."
+          }
+        ],
+        "required_language": "In accordance with Penal Code 627.7, the principal or designee may request that any individual who is causing a disruption leave school grounds immediately.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:21:27.229081+00:00"
+}

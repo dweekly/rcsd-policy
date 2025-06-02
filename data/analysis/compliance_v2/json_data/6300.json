@@ -1,0 +1,93 @@
+{
+  "code": "6300",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6300",
+    "title": "Preschool/Early Childhood Education",
+    "type": "Policy",
+    "last_reviewed": "01/23/2013",
+    "file_path": "data/extracted/policies/6300.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code Section 8235 requires specific operational procedures for state preschool programs that are not addressed in the Board Policy. The policy provides general direction but lacks the detailed implementation procedures required by law, including enrollment procedures, program standards, staff qualifications details, and evaluation methods.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 8235",
+            "text": "The Superintendent of Public Instruction shall adopt regulations for the administration of state preschool programs, including but not limited to program standards, staff qualifications, and evaluation procedures."
+          }
+        ],
+        "required_language": "Administrative procedures must be established covering: enrollment procedures and eligibility criteria, daily program operations and schedules, specific staff qualification requirements, health and safety procedures, parent involvement protocols, assessment and evaluation methods, and reporting requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Staff Qualification Requirements",
+        "description": "Education Code Section 8244 requires specific qualification standards for preschool staff that go beyond the general reference to credentials in the policy. Detailed requirements for teachers, aides, and administrators must be specified.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 8244",
+            "text": "Teachers in state preschool programs shall hold a valid teaching credential with specialization in early childhood education or child development, and meet additional experience requirements as specified."
+          }
+        ],
+        "required_language": "Preschool teachers must hold: (1) A valid California teaching credential with early childhood education or child development specialization, or (2) A child development teacher permit, plus specified units in child development and supervised experience with preschool-age children. Aides must meet minimum qualification requirements including child development coursework.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Health and Safety Requirements",
+        "description": "Title 5 CCR Section 18275 mandates specific health and safety standards for preschool programs that are not adequately addressed in the current policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Title 5 CCR Section 18275",
+            "text": "State preschool programs shall comply with health and safety requirements including immunization verification, health screening, emergency procedures, and facility safety standards."
+          }
+        ],
+        "required_language": "Preschool programs must establish procedures for: verification of required immunizations, health and developmental screenings, emergency evacuation procedures, accident reporting, medication administration, and compliance with facility licensing requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Parent Rights and Notification Requirements",
+        "description": "Education Code Section 8482.3 requires specific parent notification and rights provisions for preschool programs that are not included in the current policy.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 8482.3",
+            "text": "Parents of children enrolled in state preschool programs have the right to observe their child's classroom and receive regular reports on their child's progress and development."
+          }
+        ],
+        "required_language": "Parents/guardians have the right to: observe their child in the classroom setting, receive regular developmental progress reports, participate in program planning and evaluation, and receive advance notice of any significant program changes.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Regulatory Reference",
+        "description": "The policy references 5 CCR 18279 for evaluation requirements, but this section has been updated and renumbered. Current compliance requires reference to updated regulations.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Title 5 CCR Section 18278",
+            "text": "Current regulation governing evaluation requirements for state preschool programs (formerly 18279)."
+          }
+        ],
+        "required_language": "Update regulatory reference from \"5 CCR 18279\" to current \"Title 5 CCR Section 18278\" for evaluation requirements.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:37:47.309539+00:00"
+}

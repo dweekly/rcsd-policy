@@ -1,0 +1,63 @@
+{
+  "code": "5141.7",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5141.7",
+    "title": "Sun Safety",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5141.7.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for sun safety measures, there is no Administrative Regulation to provide specific implementation procedures, staff responsibilities, and operational details required to effectively carry out the policy directives.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35183.5",
+            "text": "Requires districts to allow students to wear sun-protective clothing and use sunscreen, but implementation details and staff procedures are needed to ensure compliance."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: specific procedures for curriculum implementation, staff training requirements, facility evaluation protocols, communication procedures with parents/guardians, monitoring and evaluation processes, and clear delineation of staff responsibilities for supporting student sun safety practices.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2010 (14 years ago), which may not reflect current best practices, updated health guidelines, or recent legislative changes. Regular policy review ensures continued effectiveness and legal compliance.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "Districts have authority and responsibility to maintain current policies that serve the educational program and ensure student health and safety."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current health guidelines, best practices, and any legislative changes since 2010. Consider establishing a regular review cycle (e.g., every 3-5 years).",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Lack of Specific UV Index Action Thresholds",
+        "description": "While the policy mentions monitoring the UV Index and modifying activities, it doesn't specify action thresholds or specific modifications to be taken at different UV Index levels, which could lead to inconsistent implementation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49403",
+            "text": "Districts must provide for the health and safety of students, which includes establishing clear protocols for environmental health hazards."
+          }
+        ],
+        "required_language": "Establish specific UV Index thresholds and corresponding actions (e.g., UV Index 6-7: encourage sun protection; UV Index 8+: modify outdoor activities, provide additional shade, etc.).",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:25:50.110191+00:00"
+}

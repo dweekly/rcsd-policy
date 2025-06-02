@@ -1,0 +1,78 @@
+{
+  "code": "6141.6",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6141.6",
+    "title": "Multicultural Education",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6141.6.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation",
+        "description": "While the Board Policy establishes the district's commitment to multicultural education, there is no corresponding Administrative Regulation to provide implementation procedures, staff responsibilities, curriculum review processes, or assessment methods. This creates a gap between policy intent and practical implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51204.5",
+            "text": "Instruction in social sciences shall include the early history of California and a study of the role and contributions of both men and women, Native Americans, African Americans, Mexican Americans, Asian Americans, Pacific Islanders, European Americans, lesbian, gay, bisexual, and transgender Americans, persons with disabilities, and members of other ethnic and cultural groups, to the economic, political, and social development of California and the United States of America."
+          }
+        ],
+        "required_language": "Administrative procedures should include: (1) Curriculum review and adoption processes to ensure multicultural perspectives are integrated; (2) Staff development requirements and resources; (3) Assessment methods for program effectiveness; (4) Procedures for community input and involvement; (5) Resource allocation and materials selection criteria; (6) Timeline for implementation and review cycles.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Protected Group Requirements",
+        "description": "California Education Code mandates specific inclusion of certain groups in social science instruction. The policy mentions \"various cultural, ethnic, racial and social groups\" generally but does not specifically reference all legally required groups, particularly LGBTQ+ Americans, persons with disabilities, and other statutorily protected groups.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51204.5",
+            "text": "Instruction in social sciences shall include... the role and contributions of... lesbian, gay, bisexual, and transgender Americans, persons with disabilities, and members of other ethnic and cultural groups, to the economic, political, and social development of California and the United States of America."
+          }
+        ],
+        "required_language": "Multicultural education shall specifically include the role and contributions of Native Americans, African Americans, Mexican Americans, Asian Americans, Pacific Islanders, European Americans, lesbian, gay, bisexual, and transgender Americans, persons with disabilities, and members of other ethnic and cultural groups to the economic, political, and social development of California and the United States.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Fair, Accurate, Inclusive and Respectful (FAIR) Education Act Compliance",
+        "description": "The policy does not address requirements under the FAIR Education Act regarding instructional materials adoption and the prohibition of discriminatory content. This is particularly important given the 2010 adoption date coincides with the FAIR Act passage.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51501",
+            "text": "When adopting instructional materials for use in the schools, governing boards shall include only instructional materials which, in their determination, accurately portray the cultural and racial diversity of our society, including... the role and contributions of... lesbian, gay, bisexual, and transgender Americans... and which are free of any content that reflects adversely upon persons because of their race, sex, color, creed, handicap, national origin, or ancestry."
+          }
+        ],
+        "required_language": "When adopting instructional materials, the district shall ensure materials accurately portray cultural and racial diversity and are free of content that reflects adversely upon persons because of their race, sex, color, creed, handicap, national origin, ancestry, or sexual orientation. Materials shall not contain any matter reflecting adversely upon persons on the basis of these protected characteristics.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2010, the same year it was adopted. Given significant changes in California education law regarding multicultural education since 2010, including updates to the FAIR Education Act implementation, the policy should be reviewed more regularly.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "This policy should be reviewed at least every five years or when significant changes occur in state law regarding multicultural education requirements.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:30:11.309319+00:00"
+}

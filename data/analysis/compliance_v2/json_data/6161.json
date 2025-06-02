@@ -1,0 +1,93 @@
+{
+  "code": "6161",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6161",
+    "title": "Equipment, Books and Materials",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6161.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy references that \"The Superintendent or designee shall develop procedures\" but no Administrative Regulation exists to specify these required procedures. California law requires districts to have detailed procedures for instructional material sufficiency, adoption processes, and compliance monitoring.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60119",
+            "text": "The governing board of each school district shall annually determine whether each pupil in each school in the school district has sufficient textbooks or instructional materials, or both, that are aligned to the academic content standards."
+          }
+        ],
+        "required_language": "Administrative procedures must be established detailing the annual sufficiency determination process, including timelines, evaluation criteria, and reporting requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Annual Sufficiency Determination Requirement",
+        "description": "Neither the BP nor AR addresses the mandatory annual determination of instructional material sufficiency required by state law. This is a critical compliance requirement that must be completed and reported annually.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60119",
+            "text": "The governing board of each school district shall annually determine whether each pupil in each school in the school district has sufficient textbooks or instructional materials, or both, that are aligned to the academic content standards."
+          }
+        ],
+        "required_language": "The Board shall annually determine whether each student has sufficient standards-aligned textbooks and instructional materials in mathematics, science, history-social science, and English/language arts.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Public Hearing and Resolution Requirements",
+        "description": "State law requires specific public hearing and resolution procedures when there is insufficient instructional material. Neither document addresses these mandatory compliance procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60119(c)",
+            "text": "If the governing board determines that there are insufficient textbooks or instructional materials, the governing board shall provide information to classroom teachers and to the public which details the shortage and the reasons for the shortage and shall provide a timeline by which the shortage will be remedied."
+          }
+        ],
+        "required_language": "When insufficient materials are identified, the Board shall hold a public hearing, adopt a resolution detailing the shortage and remediation timeline, and provide required notifications to teachers and the public.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Standards Alignment Requirement",
+        "description": "While the policy mentions \"standards-based materials,\" it does not explicitly require that all instructional materials be aligned to state academic content standards as mandated by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60119(a)",
+            "text": "Sufficient textbooks or instructional materials means that each pupil, including English learners, has a textbook or instructional materials, or both, to use in class and to take home to complete required homework assignments, that are aligned to the academic content standards."
+          }
+        ],
+        "required_language": "All textbooks and instructional materials shall be aligned to state academic content standards and available for each student to use in class and take home for homework assignments.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing English Learner Considerations",
+        "description": "The policy does not specifically address instructional material needs for English learners, though state law explicitly includes them in sufficiency requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60119(a)",
+            "text": "Sufficient textbooks or instructional materials means that each pupil, including English learners, has a textbook or instructional materials, or both, to use in class and to take home to complete required homework assignments."
+          }
+        ],
+        "required_language": "Instructional material sufficiency determinations shall specifically consider the needs of English learners and ensure appropriate materials are available.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:32:49.977018+00:00"
+}

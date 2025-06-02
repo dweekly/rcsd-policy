@@ -1,0 +1,63 @@
+{
+  "code": "4112.8",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4112.8",
+    "title": "Employment Of Relatives",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4112.8.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the prohibition against nepotism and conflict of interest requirements, there is no Administrative Regulation to provide implementation procedures. California school districts typically need detailed procedures for handling nepotism situations, including application review processes, conflict resolution, and enforcement mechanisms.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative procedures should include: (1) Pre-employment screening procedures to identify potential nepotism conflicts; (2) Process for reviewing and approving exceptions or transfers when conflicts arise; (3) Procedures for handling violations and enforcement; (4) Documentation and record-keeping requirements; (5) Appeal process for affected employees.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Lack of Specific Reference to Government Code Section 1126",
+        "description": "While the policy addresses nepotism generally, it does not specifically reference California Government Code Section 1126, which prohibits public officials from appointing relatives to positions. Including this reference would strengthen the legal foundation of the policy.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 1126",
+            "text": "No person shall be appointed to any office by any officer of this state, or of any county, city and county, city, or other municipal corporation, or political subdivision of this state, when the person appointed is related by blood or marriage to the appointing power within the fourth degree."
+          }
+        ],
+        "required_language": "Reference to Government Code Section 1126 prohibition against appointment of relatives within the fourth degree of blood or marriage should be included in the policy's legal references or content.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 60,
+        "title": "Missing Procedures for Existing Employee Relationship Disclosure",
+        "description": "While the policy requires notification within 30 days of changes in circumstances, there are no specific procedures outlined for how existing employees should initially disclose potential conflicts or relationships that may already exist.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "School districts have authority to establish policies and procedures necessary for effective governance and administration."
+          }
+        ],
+        "required_language": "Procedures should be established requiring existing employees to disclose potential conflicts of interest involving relatives or personal relationships, and specify the process for initial disclosure upon policy implementation.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:34:42.527733+00:00"
+}

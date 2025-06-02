@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4157: Employee Safety
+Last Reviewed: 12/11/2024
+================================================================================
+
+Missing Workplace Violence Prevention Plan Requirements (Confidence: 95%)
+Missing from: BOTH
+While BP 4157 references that the injury and illness prevention program must include a workplace violence prevention plan, neither the policy nor regulation contains the specific required elements of such a plan as mandated by Labor Code 6401.9. The workplace violence prevention plan must include specific procedures, training requirements, and incident response protocols that are distinct from general safety measures.
+
+Legal Basis:
+- Labor Code 6401.9: Every employer shall establish, implement, and maintain an effective workplace violence prevention plan... The plan shall include: (1) The names or job titles of the persons responsible for implementation; (2) Procedures for employee involvement; (3) Procedures to obtain the active involvement of employees and their representatives in developing and implementing the plan; (4) Procedures for reporting workplace violence hazards; (5) Procedures to respond to actual or potential workplace violence emergencies; (6) Training requirements; (7) Incident investigation procedures; (8) Hazard correction procedures.
+
+Required Language:
+The workplace violence prevention plan shall include: (1) Names or job titles of persons responsible for implementation; (2) Procedures for employee involvement in plan development and implementation; (3) Procedures for reporting workplace violence hazards without fear of reprisal; (4) Emergency response procedures for actual or potential workplace violence incidents; (5) Training requirements for all employees on workplace violence prevention; (6) Procedures for investigating workplace violence incidents; (7) Procedures for correcting workplace violence hazards; (8) Procedures for post-incident response and investigation.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Cal/OSHA Reporting Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation addresses the mandatory reporting requirements to Cal/OSHA for serious injuries, illnesses, or fatalities. Districts must report serious workplace injuries within specific timeframes and maintain detailed records.
+
+Legal Basis:
+- Labor Code 6409.1; 8 CCR 342: Every employer shall report immediately by telephone or telegraph to the nearest District Office of the Division of Occupational Safety and Health any serious injury or illness, or death, of an employee occurring in a place of employment or in connection with any employment. Within 24 hours after the occurrence of a serious injury or illness, or death, a written report shall be filed with the Division.
+
+Required Language:
+The Superintendent or designee shall immediately report to Cal/OSHA any serious injury, illness, or death of an employee occurring in the workplace or in connection with employment. A written report shall be filed within 24 hours of the occurrence. The district shall maintain records of all workplace injuries and illnesses as required by Cal/OSHA regulations.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Hazard Communication Program Requirements (Confidence: 85%)
+Missing from: BOTH
+The regulation lacks specific requirements for a hazard communication program, including safety data sheets, chemical labeling, and employee training on hazardous chemicals as required for workplaces where employees may be exposed to hazardous chemicals.
+
+Legal Basis:
+- 8 CCR 5194: Employers shall develop, implement, and maintain at each workplace, a written hazard communication program which at least describes how the criteria specified in this section for safety data sheets, labels and other forms of warning, and employee information and training will be met.
+
+Required Language:
+The district shall maintain a written hazard communication program that includes: (1) A list of hazardous chemicals in each workplace; (2) Safety data sheets for all hazardous chemicals; (3) Procedures for labeling hazardous chemical containers; (4) Training for employees who may be exposed to hazardous chemicals; (5) Methods to inform employees of hazards associated with non-routine tasks and hazardous chemicals in unlabeled pipes.
+
+Recommended Placement: AR
+
+----------------------------------------
+

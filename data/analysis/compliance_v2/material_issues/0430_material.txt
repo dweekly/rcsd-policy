@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 0430: Comprehensive Local Plan For Special Education
+Last Reviewed: 04/15/2021
+================================================================================
+
+Missing Community Advisory Committee (CAC) Requirements (Confidence: 95%)
+Missing from: BOTH
+California law requires specific provisions for establishing and operating a Community Advisory Committee for special education. While the policy mentions CAC participation in plan updates, neither document addresses the mandatory establishment, composition, duties, and operational requirements of the CAC.
+
+Legal Basis:
+- Education Code 56190-56194: Each special education local plan area shall establish a community advisory committee... The community advisory committee shall be composed of parents of individuals with exceptional needs... The committee shall assist in parent education and in recruiting parents and other volunteers who may contribute to the implementation of the plan.
+
+Required Language:
+The district shall participate in establishing and maintaining a Community Advisory Committee (CAC) as required by Education Code 56190-56194. The CAC shall be composed of a majority of parents of individuals with exceptional needs, and shall advise the SELPA on the development and implementation of coordinated services for individuals with exceptional needs.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Personnel Standards and Credentialing Requirements (Confidence: 85%)
+Missing from: BOTH
+While the regulation mentions personnel qualifications in the local plan elements, neither document establishes the district's commitment to employing appropriately credentialed special education staff as required by state law.
+
+Legal Basis:
+- Education Code 56058, 56070: Services for individuals with exceptional needs shall be provided by personnel who meet credential, licensing, and training requirements... No person shall serve individuals with exceptional needs in any capacity unless he or she holds a credential, certificate, permit, or other document equivalent to that which staff in other public agencies are required to hold in the same or similar positions.
+
+Required Language:
+All personnel providing special education and related services shall hold appropriate credentials, certificates, permits, or other documents as required by Education Code 56058 and 56070. The district shall ensure that special education staff meet all state qualification requirements and receive appropriate professional development.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,78 @@
+{
+  "code": "5116",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5116",
+    "title": "School Attendance Boundaries",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5116.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Public Notice and Hearing Requirements for Boundary Changes",
+        "description": "California Education Code requires specific public notice and hearing procedures when school attendance boundaries are changed. The policy lacks required notification timelines, hearing procedures, and public participation requirements that are mandated by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5(b)",
+            "text": "Before adopting a policy to close a school site or to change the attendance boundaries of school sites, the governing board of a school district shall, at a regularly scheduled meeting, take public testimony from parents, teachers, and other interested parties."
+          }
+        ],
+        "required_language": "Before adopting any changes to school attendance boundaries, the Board shall hold a public hearing at a regularly scheduled Board meeting to receive testimony from parents, teachers, and other interested parties. Notice of the proposed boundary changes and public hearing shall be provided in accordance with applicable law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The policy establishes factors for boundary review but lacks detailed administrative procedures for how boundary studies are conducted, timelines for review, notification procedures, and appeal processes. These implementation details should be specified in an Administrative Regulation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "On and after January 1, 1976, the governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative procedures should specify: timeline for boundary reviews, data collection methods, community notification procedures, public input processes, criteria for emergency boundary adjustments, and appeal procedures for affected families.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Notification Timeline Requirements",
+        "description": "While the policy mentions that parents/guardians shall be notified \"as soon as possible\" when students are placed outside their attendance area, it lacks specific timeline requirements that provide adequate notice for families to plan.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48980",
+            "text": "At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify the parent or guardian of a minor pupil regarding the rights and responsibilities of parents and guardians."
+          }
+        ],
+        "required_language": "Parents/guardians shall be provided written notice of school assignment changes at least 30 days prior to the effective date when practicable, or as soon as possible in emergency situations, but in no case less than 10 days before the change takes effect.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Intradistrict Transfer Options",
+        "description": "The policy does not reference the relationship between attendance boundaries and intradistrict transfer policies, which could provide clarity for families seeking alternatives to their assigned school.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 46600",
+            "text": "The governing board of a school district may authorize the attendance of a pupil in a school in the district other than the one the pupil would otherwise be required to attend based on his or her place of residence."
+          }
+        ],
+        "required_language": "Students assigned to schools outside their residential attendance area due to capacity issues may be given priority consideration for intradistrict transfers in accordance with Board Policy on Student Transfers.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:20:05.571121+00:00"
+}

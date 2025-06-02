@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4117.14: Postretirement Employment
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing 180-Day Break in Service Requirement (Confidence: 90%)
+Missing from: BOTH
+Neither the BP (which doesn't exist) nor the AR addresses the mandatory 180-day break in service requirement before a retired STRS member can return to work for a STRS-covered employer. This is a critical compliance requirement that affects the validity of postretirement employment arrangements.
+
+Legal Basis:
+- Education Code Section 24214(a): A retired member shall not serve in any capacity in the public school system during the first 180 days after his or her retirement allowance effective date.
+
+Required Language:
+A retired STRS member shall not be employed by the district in any capacity during the first 180 days after his or her retirement allowance effective date. The district shall verify that the 180-day break in service requirement has been satisfied before employing any retired STRS member.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Current Compensation Limits and Annual Updates (Confidence: 85%)
+Missing from: BOTH
+The regulation references "compensation limitation specified by law" but does not include the specific dollar amounts or a mechanism for annual updates. STRS compensation limits change annually and must be clearly communicated and tracked.
+
+Legal Basis:
+- Education Code Section 24214(b): The compensation paid to a retired member for the performance of services during a school year shall not exceed the amount established annually by the Teachers' Retirement Board.
+
+Required Language:
+The annual compensation limit for retired STRS members shall be the amount established by the Teachers' Retirement Board for each fiscal year. The district shall obtain and implement the current year's compensation limit and ensure all retired employees are informed of and comply with this limit. The district shall track compensation to ensure limits are not exceeded.
+
+Recommended Placement: AR
+
+----------------------------------------
+

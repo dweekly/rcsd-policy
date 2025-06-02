@@ -1,0 +1,93 @@
+{
+  "code": "4261",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4261",
+    "title": "Leaves",
+    "type": "Policy",
+    "last_reviewed": "12/11/2024",
+    "file_path": "data/extracted/policies/4261.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Leave Implementation Procedures",
+        "description": "California Education Code requires school districts to establish detailed procedures for leave administration. The Board Policy provides the framework but lacks the specific implementation procedures that should be contained in an Administrative Regulation, including application processes, approval procedures, documentation requirements, and return-to-work protocols.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44043.5",
+            "text": "The governing board of each school district shall adopt rules and regulations for the administration of leaves of absence for certificated employees."
+          }
+        ],
+        "required_language": "Administrative procedures detailing: application processes for each type of leave, required documentation, approval timelines, notification requirements, coordination with payroll and benefits, return-to-work procedures, and record-keeping requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific FMLA/CFRA Integration Requirements",
+        "description": "While the policy mentions \"family care and medical leave,\" it lacks specific language about coordination between district leave policies and federal Family and Medical Leave Act (FMLA) and California Family Rights Act (CFRA) requirements, including concurrent vs. consecutive leave usage and employee notification rights.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12945.2",
+            "text": "Employers shall provide employees with notice of their rights under CFRA and coordinate leave entitlements under various state and federal laws."
+          }
+        ],
+        "required_language": "Procedures for coordinating district leave policies with FMLA/CFRA requirements, including notice to employees of their rights under federal and state family leave laws, and clarification of when leaves run concurrently versus consecutively.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Reproductive Loss Leave Specific Requirements",
+        "description": "While reproductive loss leave is mentioned in the policy, specific implementation requirements under California law are missing, including the amount of leave available and documentation requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12945.7",
+            "text": "Employers shall provide up to 20 days of reproductive loss leave and establish procedures for requesting and documenting such leave."
+          }
+        ],
+        "required_language": "Procedures specifying that eligible employees are entitled to up to 20 days of reproductive loss leave, documentation requirements, and coordination with other available leave benefits.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Industrial Accident Leave Specific Procedures",
+        "description": "The policy mentions industrial accident leave but lacks the specific 60-day entitlement and procedures required by Education Code for certificated employees, and similar requirements for classified employees.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44984",
+            "text": "Certificated employees shall be entitled to industrial accident or illness leave of absence for up to 60 days in any one fiscal year for the same accident."
+          }
+        ],
+        "required_language": "Specific procedures for industrial accident leave including the 60-day entitlement for certificated employees, coordination with workers' compensation, required medical documentation, and return-to-work procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Sabbatical Leave Detailed Criteria",
+        "description": "The policy mentions sabbatical leave but lacks specific eligibility criteria, application deadlines, and evaluation procedures that should be established in administrative regulation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44922",
+            "text": "Governing boards may grant sabbatical leave to certificated employees for study, travel, or other purposes deemed beneficial to the schools."
+          }
+        ],
+        "required_language": "Detailed procedures for sabbatical leave applications including eligibility requirements, application deadlines, evaluation criteria, and post-sabbatical service obligations.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:15:47.569737+00:00"
+}

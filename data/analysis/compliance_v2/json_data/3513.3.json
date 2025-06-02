@@ -1,0 +1,69 @@
+{
+  "code": "3513.3",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3513.3",
+    "title": "Tobacco-Free Schools",
+    "type": "Policy",
+    "last_reviewed": "02/15/2017",
+    "file_path": "data/extracted/policies/3513.3.txt"
+  },
+  "regulation": {
+    "code": "3513.3",
+    "title": "Tobacco-Free Schools",
+    "type": "Regulation",
+    "last_reviewed": "09/16/2019",
+    "file_path": "data/extracted/regulations/3513.3.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mandatory Reporting to Law Enforcement",
+        "description": "California law requires that any employee who observes tobacco use on school grounds must report violations to local law enforcement. This mandatory reporting requirement is completely absent from both the policy and regulation documents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 104420(b)",
+            "text": "\"Any employee of a school district who observes a violation of this section occurring in an area under the jurisdiction of the school district shall report the violation to local law enforcement.\""
+          }
+        ],
+        "required_language": "Any district employee who observes a violation of the tobacco-free schools policy occurring on district property shall report the violation to local law enforcement as required by law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Criminal Penalties Notification",
+        "description": "The policy and regulation fail to inform the community that tobacco use violations on school property constitute a criminal infraction punishable by fine. This notification is required to ensure proper understanding of legal consequences.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 104420(c)",
+            "text": "\"A violation of this section is an infraction punishable by a fine of not less than fifty dollars ($50) nor more than seventy-five dollars ($75) for a first violation, and a fine of not less than seventy-five dollars ($75) nor more than one hundred dollars ($100) for each subsequent violation.\""
+          }
+        ],
+        "required_language": "Violation of the tobacco-free schools policy constitutes a criminal infraction punishable by a fine of $50-$75 for first violations and $75-$100 for subsequent violations.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Definition of School Property",
+        "description": "While the policy mentions \"district property,\" it should explicitly clarify that this includes all areas under district jurisdiction, including leased facilities and areas used for school activities, to align with statutory language.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code Section 104420(a)",
+            "text": "\"No person shall smoke any tobacco product on the grounds of, or in, any public or private school providing instruction in kindergarten or any of grades 1 to 12, inclusive, or in any area under the jurisdiction of the governing board of a school district.\""
+          }
+        ],
+        "required_language": "This prohibition applies to all areas under the jurisdiction of the district's governing board, including but not limited to district-owned or leased buildings, property, vehicles, and any location where district activities are conducted.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:27:56.354542+00:00"
+}

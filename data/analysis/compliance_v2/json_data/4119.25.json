@@ -1,0 +1,84 @@
+{
+  "code": "4119.25",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4119.25",
+    "title": "Political Activities Of Employees",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4119.25.txt"
+  },
+  "regulation": {
+    "code": "4119.25",
+    "title": "Political Activities Of Employees",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4119.25.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Hatch Act Compliance for Federally Funded Employees",
+        "description": "The policy and regulation fail to address federal Hatch Act requirements that apply to school district employees whose salaries are paid in whole or part with federal funds. This is a significant compliance gap as many school employees receive federal funding through Title I, IDEA, and other federal programs.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 U.S.C. \u00a7 1502-1508 (Hatch Act)",
+            "text": "Federal employees and state/local employees whose principal employment is in connection with an activity financed in whole or part by federal loans or grants are subject to political activity restrictions under the Hatch Act."
+          }
+        ],
+        "required_language": "Employees whose salaries are paid in whole or in part with federal funds shall comply with the federal Hatch Act, which restricts certain political activities including: running for partisan political office, engaging in political activity while on duty or in a government office, soliciting or receiving political contributions, and using official authority to influence elections.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Government Code 3206 Prohibition",
+        "description": "The regulation fails to include the specific prohibition from Government Code 3206 regarding the use of public resources for campaign purposes, which provides more comprehensive coverage than Education Code 7054 alone.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 3206",
+            "text": "It is unlawful for any person to expend or authorize the expenditure of any public moneys for purposes of urging the passage or defeat of any ballot measure or candidate for public office."
+          }
+        ],
+        "required_language": "Employees shall not expend or authorize the expenditure of any public moneys, including district funds, time, facilities, equipment, or services, for purposes of urging the passage or defeat of any ballot measure or candidate for public office. (Government Code 3206)",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Education Code 51520",
+        "description": "While the regulation addresses classroom presentation of political viewpoints, it doesn't specifically reference Education Code 51520 which governs instruction concerning controversial issues and requires balanced presentation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 51520",
+            "text": "When controversial issues are presented for study in the schools, teachers shall present them in a balanced manner and shall not advocate partisan positions."
+          }
+        ],
+        "required_language": "When presenting controversial political issues for instructional purposes, teachers shall present them in a balanced manner and shall not advocate partisan positions. (Education Code 51520)",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reporting Mechanism for Violations",
+        "description": "The policy mentions disciplinary action for violations but doesn't specify how violations should be reported or investigated, which is important for enforcement.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160 (General Authority)",
+            "text": "School districts have authority to establish procedures for enforcement of board policies and regulations."
+          }
+        ],
+        "required_language": "Suspected violations of this policy should be reported to the employee's immediate supervisor or the Superintendent. All reports will be investigated promptly and appropriate disciplinary action will be taken when violations are substantiated.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:10:48.002555+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "1020",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1020",
+    "title": "Youth Services",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1020.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Youth Services Implementation",
+        "description": "While the Board Policy establishes the district's commitment to youth services and collaboration, there is no corresponding Administrative Regulation to provide implementation procedures. California Education Code requires districts to have procedures for coordinating services and establishing collaborative agreements with community agencies.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 8760-8768",
+            "text": "Districts shall establish procedures for coordinating services and developing collaborative agreements with community-based organizations and agencies to provide comprehensive services to students and families."
+          }
+        ],
+        "required_language": "Administrative procedures should include: (1) Process for identifying and contacting community agencies; (2) Procedures for establishing formal agreements or MOUs; (3) Methods for coordinating service delivery; (4) Evaluation criteria for collaborative programs; (5) Staff responsibilities and reporting requirements; (6) Budget allocation procedures for collaborative efforts.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Mandated Reporter Training Requirements",
+        "description": "Youth services often involve identifying at-risk children. Both policy and regulation lack specific requirements for mandated reporter training for staff involved in youth services coordination, which is required when district personnel interact with community agencies serving children.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11165.7",
+            "text": "Any person who enters into an employment or volunteer relationship with a mandated reporter employer on or after January 1, 2021, shall sign a statement on a form prescribed by the Department of Justice acknowledging that the person has knowledge of the reporting requirements under this article and will comply with those requirements."
+          }
+        ],
+        "required_language": "Staff involved in youth services coordination shall receive mandated reporter training and sign acknowledgment forms as required by Penal Code Section 11165.7. Training shall be provided before staff begin coordinating with external agencies serving minors.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Student Privacy and Information Sharing Protocols",
+        "description": "The policy mentions cooperation with agencies but lacks required protections for student privacy and procedures for sharing student information with external agencies, as required by FERPA and California privacy laws.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49076",
+            "text": "A school district may disclose directory information or may permit access to or release other pupil records without the written consent of the parent only under specific circumstances and with proper safeguards."
+          }
+        ],
+        "required_language": "Before sharing any student information with community agencies or collaborative partners, the district shall: (1) Obtain written parental consent unless disclosure is specifically authorized by law; (2) Ensure agencies have legitimate educational interest; (3) Require agencies to maintain confidentiality; (4) Document all information sharing through written agreements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Community Notification Requirements",
+        "description": "The policy lacks provisions for notifying the community about available youth services and collaborative programs, which enhances transparency and community engagement.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35186",
+            "text": "School districts should provide notice to parents and community members about available services and programs that support student success."
+          }
+        ],
+        "required_language": "The district shall annually notify parents/guardians and community members about available youth services, collaborative programs, and community partnerships through district communications, website postings, and community meetings.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:19:48.645368+00:00"
+}

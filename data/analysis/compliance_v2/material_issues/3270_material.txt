@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3270: Sale And Disposal Of Books, Equipment And Supplies
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Board Authorization Requirement for Property Disposal (Confidence: 85%)
+Missing from: BOTH
+Education Code 17545 requires that the Board of Education authorize the disposal of personal property by resolution or motion at a public meeting. While the policy mentions "Board approval," neither document explicitly states that disposal must be authorized by formal Board action (resolution or motion) at a public meeting as required by law.
+
+Legal Basis:
+- Education Code Section 17545: "The governing board of any school district may, by resolution or motion adopted at a public meeting, authorize the sale of personal property belonging to the district..."
+
+Required Language:
+The Board of Education shall authorize the disposal of district personal property by resolution or motion adopted at a public meeting.
+
+Recommended Placement: BP
+
+----------------------------------------
+

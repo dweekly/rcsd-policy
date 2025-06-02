@@ -1,0 +1,84 @@
+{
+  "code": "5157",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5157",
+    "title": "Gender Identity and Access",
+    "type": "Policy",
+    "last_reviewed": "12/12/2018",
+    "file_path": "data/extracted/policies/5157.txt"
+  },
+  "regulation": {
+    "code": "5157",
+    "title": "Gender Identity and Access",
+    "type": "Regulation",
+    "last_reviewed": "12/12/2018",
+    "file_path": "data/extracted/regulations/5157.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Compliance Officer Contact Information",
+        "description": "The regulation references a \"Compliance Officer for Nondiscrimination\" but fails to provide the actual name, title, address, and telephone number of this designated officer. California law requires districts to designate a specific compliance officer and provide their complete contact information to students, parents, and staff.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 234.1(b)(1)",
+            "text": "Each local educational agency shall designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under Section 200, including any investigation of complaints alleging noncompliance with Section 200 or alleging discrimination, harassment, intimidation, or bullying based on any of the characteristics set forth in Section 422.55 of the Penal Code and Section 220. The coordinator shall be knowledgeable about these laws and programs."
+          }
+        ],
+        "required_language": "The following position is designated Compliance Officer for Nondiscrimination: [Name], [Title], [Address], [Telephone Number]. This officer is responsible for handling complaints regarding unlawful discrimination, including discriminatory harassment, intimidation, retaliation or bullying and to answer inquiries regarding the district's nondiscrimination policies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Annual Notification Requirements",
+        "description": "Neither the policy nor regulation addresses the required annual notification to students, parents, employees, and the public about the district's nondiscrimination policy and complaint procedures. This notification must include information about protected characteristics and how to file complaints.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 234.1(b)(2)",
+            "text": "Each local educational agency shall prominently and conspicuously post information on the local educational agency's Internet Web site, in every school and administrative building, and in every school publication that includes a statement of nondiscrimination, that includes information about filing a complaint pursuant to Section 262.3."
+          }
+        ],
+        "required_language": "The district shall annually notify students, parents/guardians, employees, and the general public of its nondiscrimination policy. The notification shall include information about protected characteristics, how to file complaints, and contact information for the compliance officer. This information shall be prominently posted on the district website, in every school and administrative building, and included in relevant school publications.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Title IX Coordinator Designation",
+        "description": "While the documents reference a general compliance officer, they do not specifically designate a Title IX coordinator as required by federal law. Gender identity discrimination often falls under Title IX jurisdiction, requiring specific coordinator designation and contact information.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 106.8(a)",
+            "text": "Each recipient shall designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under this part, including any investigation of any complaint communicated to such recipient alleging its noncompliance with this part or alleging any actions which would be prohibited by this part."
+          }
+        ],
+        "required_language": "The district designates the following employee as Title IX Coordinator: [Name], [Title], [Address], [Telephone Number], [Email]. The Title IX Coordinator is responsible for coordinating the district's compliance with Title IX, including investigating complaints of sex-based discrimination and harassment.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Education Code Section 221.5",
+        "description": "The documents do not specifically reference Education Code Section 221.5, which explicitly prohibits discrimination based on gender identity and expression in educational programs and activities. Including this reference would strengthen the legal foundation of the policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 221.5",
+            "text": "No person shall be subjected to discrimination on the basis of disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes set forth in Section 422.55 of the Penal Code, including immigration status, in any program or activity conducted by an educational institution that receives, or benefits from, state financial assistance, or enrolls pupils who receive state student financial aid."
+          }
+        ],
+        "required_language": "The district's nondiscrimination policy is based on Education Code Sections 200, 220, 221.5, and 234.1, which prohibit discrimination based on actual or perceived gender identity, gender expression, and sexual orientation.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:29:06.980396+00:00"
+}

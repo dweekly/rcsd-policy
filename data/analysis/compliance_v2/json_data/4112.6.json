@@ -1,0 +1,78 @@
+{
+  "code": "4112.6",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4112.6",
+    "title": "Personnel Files",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4112.6.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP 4112.6) document is entirely missing. California school districts are required to have board policies that establish the governance framework and direction for personnel file management. Without a BP, there is no board-level authorization or policy framework for the administrative procedures outlined in the AR.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "A Board Policy should be created that establishes the board's commitment to maintaining confidential personnel files, delegates authority to the Superintendent for file management, and provides policy-level direction on employee rights and access procedures.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Retention Schedule Requirements",
+        "description": "Neither the BP nor AR specifies retention periods for personnel files and records. California law requires specific retention schedules for different types of personnel documents, and districts must establish clear procedures for record retention and destruction.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 60201",
+            "text": "Public records are the property of the people and, unless otherwise provided by law, may be inspected by any person at any time during office hours."
+          }
+        ],
+        "required_language": "Personnel files and records shall be retained in accordance with applicable state law and district retention schedules. Different categories of personnel documents may have different retention requirements as specified in law and administrative procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Incomplete Public Records Act Compliance",
+        "description": "The regulation does not address how personnel files will be handled under the California Public Records Act (CPRA). While personnel files are generally confidential, certain information may be subject to public disclosure, and the district needs procedures for handling such requests.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 6254(c)",
+            "text": "Personnel, medical, or similar files, the disclosure of which would constitute an unwarranted invasion of personal privacy, are exempt from disclosure."
+          }
+        ],
+        "required_language": "Personnel files are confidential and generally exempt from disclosure under the California Public Records Act. However, certain information such as salary, benefits, and position title may be subject to public disclosure. All public records requests for personnel information shall be processed in accordance with applicable law and district procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Electronic Records Procedures",
+        "description": "The regulation does not specifically address the management of electronic personnel records, including security measures, backup procedures, and access controls for digital files. Modern personnel management increasingly relies on electronic systems.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44031",
+            "text": "Information of a derogatory nature shall not be entered in any personnel file of any employee unless and until the employee is given notice and an opportunity to review and comment upon such information."
+          }
+        ],
+        "required_language": "Electronic personnel records shall be maintained with appropriate security measures and access controls. The same confidentiality, access, and review procedures that apply to physical records shall apply to electronic records.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:34:16.355329+00:00"
+}

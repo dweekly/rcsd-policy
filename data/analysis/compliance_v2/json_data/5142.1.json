@@ -1,0 +1,84 @@
+{
+  "code": "5142.1",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5142.1",
+    "title": "Identification And Reporting Of Missing Children",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5142.1.txt"
+  },
+  "regulation": {
+    "code": "5142.1",
+    "title": "Identification And Reporting Of Missing Children",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5142.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mandatory Notification Requirements for Fingerprinting Program",
+        "description": "Education Code 32390 requires specific notifications to parents/guardians about the fingerprinting program, including information about the program's purpose, voluntary nature, and data handling. The current documents lack the comprehensive notification requirements mandated by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32390(b)",
+            "text": "The governing board of a school district shall notify the parent or guardian of each pupil of the availability of the program and shall request that the parent or guardian indicate in writing whether the parent or guardian consents to the pupil's participation in the program."
+          }
+        ],
+        "required_language": "The district shall provide written notification to parents/guardians that includes: (1) the purpose of the fingerprinting program is to facilitate location and identification of missing children, (2) participation is entirely voluntary, (3) fingerprints will not be retained by the district or shared with any other entity, (4) parents may change their decision at any time in writing, and (5) there is no penalty for non-participation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Record Flagging Procedures for Missing Children",
+        "description": "While the AR addresses notification procedures when a child is reported missing, it lacks comprehensive procedures for flagging records and handling subsequent requests as required by Education Code 49068.6.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49068.6",
+            "text": "Upon receipt of a written request for the transfer of a pupil's records from a school district in which the pupil is enrolled or was previously enrolled, a school district shall transfer a copy of the pupil's permanent record to the requesting district within 10 school days of the request."
+          }
+        ],
+        "required_language": "When transferring records of a student who has been reported missing, the receiving district must be immediately notified of the missing child status, and law enforcement authorities who originally reported the missing status must be contacted before any record transfer occurs.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Fee Structure Details",
+        "description": "The AR mentions that parents may be charged a fee for fingerprinting services but lacks specific details about fee calculation, payment procedures, and provisions for fee waivers that may be required under Education Code 32390.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32390(c)",
+            "text": "The governing board may charge the parent or guardian of each pupil who participates in the program a fee in an amount calculated to reimburse the school district only for the actual costs associated with the program."
+          }
+        ],
+        "required_language": "Fee calculations shall include only direct costs such as materials, processing, and administrative time. The district shall establish procedures for fee collection and may consider fee waivers for families demonstrating financial hardship.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Current Legal Standards",
+        "description": "The regulation references \"standards developed by the California Department of Education\" but should specify current applicable standards and procedures for compliance verification.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 641",
+            "text": "Fingerprinting services shall be provided in accordance with standards developed by the State Department of Education."
+          }
+        ],
+        "required_language": "Fingerprinting services shall comply with current California Department of Education standards and any applicable federal privacy requirements. The district shall periodically review compliance with updated standards.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:26:13.698621+00:00"
+}

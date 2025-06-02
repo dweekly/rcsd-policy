@@ -1,0 +1,78 @@
+{
+  "code": "6183",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "6183",
+    "title": "Home And Hospital Instruction",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6183.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP 6183) document is entirely missing. California Education Code requires school districts to have board policies that establish the district's commitment to providing home and hospital instruction services. The administrative regulation alone cannot fulfill the governance requirement for board-level policy direction on this mandated educational service.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48206.3",
+            "text": "Individual instruction shall be provided to pupils with a temporary disability which makes attendance in the regular day classes or the alternative education program in which the pupil is enrolled impossible or inadvisable."
+          }
+        ],
+        "required_language": "The Board recognizes its responsibility to provide individual instruction to students with temporary disabilities that make school attendance impossible or inadvisable. The district shall provide home and hospital instruction services in accordance with Education Code requirements to ensure educational continuity for temporarily disabled students.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Application Process and Procedures",
+        "description": "Neither the BP nor AR contains specific procedures for how parents/guardians can request home and hospital instruction services. Education Code 48206.3 requires districts to provide these services, but the regulation lacks clear application procedures, timelines for district response, and required documentation from medical professionals.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48206.3",
+            "text": "Individual instruction shall be provided to pupils with a temporary disability which makes attendance in the regular day classes or the alternative education program in which the pupil is enrolled impossible or inadvisable."
+          }
+        ],
+        "required_language": "Parents/guardians requesting home and hospital instruction shall submit a written request along with medical verification from a licensed physician stating that the student's condition makes school attendance impossible or inadvisable and the anticipated duration of the disability. The district shall respond to complete requests within [specified timeframe] and begin services within [specified timeframe] of approval.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Minimum Duration Requirements",
+        "description": "The regulation does not specify the minimum duration a student must be unable to attend school to qualify for home and hospital instruction. Education Code 48206.3 and related guidance typically require a minimum period (often 2-4 weeks) to distinguish temporary disabilities from short-term absences.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48206.3",
+            "text": "Individual instruction shall be provided to pupils with a temporary disability which makes attendance in the regular day classes or the alternative education program in which the pupil is enrolled impossible or inadvisable."
+          }
+        ],
+        "required_language": "Home and hospital instruction shall be provided when a student's temporary disability is expected to prevent school attendance for a minimum of [specify duration, typically 2-4 weeks or as determined by district policy].",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Students with Disabilities",
+        "description": "While the regulation correctly excludes students identified under Education Code 56026 (special education), it should clarify the relationship between home/hospital instruction and IEP/504 plan requirements for students who may have both temporary and permanent disabilities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48206.3",
+            "text": "This section does not apply to pupils identified as individuals with exceptional needs pursuant to Section 56026."
+          }
+        ],
+        "required_language": "For students with existing IEPs or 504 plans who develop temporary disabilities, the district shall coordinate home and hospital instruction with the student's special education or accommodation services as appropriate.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:37:21.594215+00:00"
+}

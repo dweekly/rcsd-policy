@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 3516.2: Bomb Threats
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Notification Requirements to Parents/Community (Confidence: 90%)
+Missing from: BOTH
+Neither the BP (which doesn't exist) nor AR addresses required notifications to parents, guardians, and the community following bomb threats. California law requires districts to notify parents of incidents that affect student safety and may require notification to various agencies.
+
+Legal Basis:
+- Education Code Section 48902: The principal of a school or the principal's designee shall notify the appropriate law enforcement authorities of the county or city in which the school is situated of any acts which may violate Education Code Section 48900 and which result in the injury of any person or involve the possession or sale of narcotics or of a controlled substance or involve the possession or use of firearms, explosives, or other dangerous objects.
+
+Required Language:
+The Superintendent or designee shall notify parents/guardians and may notify the community when a bomb threat has occurred, in accordance with applicable law and district communication protocols. Notifications shall be made in a timely manner while considering ongoing safety and law enforcement concerns.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Documentation and Reporting Requirements (Confidence: 85%)
+Missing from: BOTH
+The regulation lacks specific requirements for documenting bomb threat incidents and reporting to appropriate agencies beyond the initial 911 call. Proper documentation is essential for legal compliance and pattern analysis.
+
+Legal Basis:
+- Education Code Section 48902: The principal of a school or the principal's designee shall notify the appropriate law enforcement authorities of the county or city in which the school is situated of any acts which may violate Education Code Section 48900 and which result in the injury of any person or involve the possession or sale of narcotics or of a controlled substance or involve the possession or use of firearms, explosives, or other dangerous objects.
+
+Required Language:
+The principal or designee shall document all bomb threat incidents including: date, time, method of threat delivery, actions taken, agencies notified, and resolution. A written report shall be submitted to the Superintendent and may be required to be filed with appropriate county or state agencies as required by law.
+
+Recommended Placement: AR
+
+----------------------------------------
+

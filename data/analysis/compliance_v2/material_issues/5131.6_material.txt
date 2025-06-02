@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5131.6: Alcohol And Other Drugs
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Mandatory Reporting Requirements for Drug Offenses (Confidence: 95%)
+Missing from: BOTH
+California law requires school officials to notify law enforcement within one school day when a student commits specified drug offenses on school grounds. Neither the BP nor AR contains the mandatory reporting requirements or the specific list of reportable drug offenses.
+
+Legal Basis:
+- Education Code 48902(a): The principal of a school or the principal's designee shall, prior to the suspension or expulsion of any pupil, notify the appropriate law enforcement authorities of the county or city in which the school is situated of any acts of the pupil which may violate Section 245 of the Penal Code... or any acts which may involve the possession or sale of narcotics or of a controlled substance or of any other illegal act.
+
+Required Language:
+The principal or designee shall notify appropriate law enforcement authorities within one school day of any acts involving the possession, use, or sale of controlled substances, alcohol, or intoxicants of any kind on school premises or during school-sponsored activities, as required by Education Code 48902.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Search and Seizure Procedures (Confidence: 90%)
+Missing from: BOTH
+When dealing with suspected drug violations, school officials need clear guidance on their authority to search students, lockers, and property. Neither document provides procedures for conducting searches related to drug violations, which is essential for proper enforcement while protecting student rights.
+
+Legal Basis:
+- Education Code 49050: No school employee shall conduct a search that involves removing or requiring a pupil to remove his or her clothing, except in an emergency threatening the immediate health or safety of the pupil or others.
+
+Required Language:
+Searches of students suspected of drug violations shall be conducted in accordance with Education Code 49050 and constitutional requirements. Strip searches are prohibited except in emergencies threatening immediate health or safety. All searches must be reasonable in scope and based on reasonable suspicion.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Disciplinary Consequences (Confidence: 85%)
+Missing from: BOTH
+While the BP mentions suspension/expulsion may result from drug violations, neither document specifies the mandatory disciplinary actions required by Education Code for different types of drug offenses, particularly the mandatory recommendation for expulsion for certain drug sales.
+
+Legal Basis:
+- Education Code 48915(c)(1): The principal or the superintendent of schools shall recommend the expulsion of a pupil for any of the following acts committed at school or at a school activity off school grounds... Possessing, selling, or otherwise furnishing a firearm, knife, explosive, or other dangerous object, or unlawfully possessing, using, selling, or otherwise furnishing, or being under the influence of, a controlled substance, alcoholic beverage, or intoxicant of any kind.
+
+Required Language:
+Students who unlawfully possess, use, sell, or furnish controlled substances, alcoholic beverages, or intoxicants, or who are under the influence of such substances on school grounds or at school activities shall be subject to suspension and may be recommended for expulsion as required by Education Code 48915.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1312.1: Complaints Concerning District Employees
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Uniform Complaint Procedures Cross-Reference (Confidence: 85%)
+Missing from: BOTH
+The policy and regulation fail to clarify the relationship between employee complaints and the Uniform Complaint Procedures (UCP). Some complaints about employees may fall under UCP jurisdiction (discrimination, harassment, instructional materials, etc.), and the documents should provide guidance on when UCP applies versus this employee complaint process.
+
+Legal Basis:
+- 5 CCR 4600-4687: California Code of Regulations requires districts to have uniform complaint procedures for specific categories of complaints, including discrimination and harassment complaints against employees.
+
+Required Language:
+The district shall determine whether a complaint concerning an employee should be processed under these procedures or under the district's Uniform Complaint Procedures. Complaints alleging discrimination, harassment, intimidation, or bullying by employees shall be processed under the Uniform Complaint Procedures in accordance with Board Policy 1312.3.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Mandated Reporter Training Reference (Confidence: 90%)
+Missing from: BOTH
+While the regulation mentions reporting child abuse/neglect, it lacks reference to mandated reporter requirements and training obligations for district employees, which is a critical compliance element for employee-related policies.
+
+Legal Basis:
+- Education Code 44691: Requires school districts to provide mandated reporter training to employees and maintain records of such training.
+
+Required Language:
+All district employees shall receive mandated reporter training as required by law. The Superintendent or designee shall ensure that employees understand their legal obligations regarding reporting suspected child abuse or neglect.
+
+Recommended Placement: BP
+
+----------------------------------------
+

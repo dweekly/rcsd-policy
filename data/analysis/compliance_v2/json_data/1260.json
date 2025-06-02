@@ -1,0 +1,78 @@
+{
+  "code": "1260",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1260",
+    "title": "Educational Foundation",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1260.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Educational Foundation Operations",
+        "description": "California Education Code requires school districts to establish procedures for oversight and accountability when working with educational foundations. The policy establishes the framework but lacks implementing procedures for foundation relationships, fund usage approval, reporting requirements, and operational guidelines.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative procedures should include: (1) Process for Superintendent approval of foundation fund usage; (2) Requirements for foundation reporting to the Board; (3) Procedures for approving use of district/school names and logos; (4) Guidelines for providing parent information to foundations; (5) Criteria for ensuring equitable allocation across district schools; (6) Conflict of interest provisions; (7) Documentation and record-keeping requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Conflict of Interest Provisions",
+        "description": "The policy lacks provisions addressing potential conflicts of interest between district personnel and foundation board members or activities, which is required under California's conflict of interest laws for public agencies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 1090",
+            "text": "Members of the Legislature, state, county, district, judicial district, and city officers or employees shall not be financially interested in any contract made by them in their official capacity."
+          }
+        ],
+        "required_language": "District employees and Board members must disclose any financial interest or board service with the educational foundation. No district employee or Board member may participate in decisions involving foundation contracts or agreements in which they have a financial interest.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Gift and Donation Acceptance Procedures",
+        "description": "The policy references foundation funds but lacks procedures for accepting gifts and donations, including restrictions on types of acceptable donations and approval processes, as required under Education Code provisions governing public school funding.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "A school district may accept gifts, grants, and donations from private sources, including, but not limited to, gifts, grants, and donations for the purpose of establishing a scholarship fund."
+          }
+        ],
+        "required_language": "The district may accept gifts and donations from the educational foundation provided they: (1) Support the educational mission of the district; (2) Do not create ongoing financial obligations for the district; (3) Are approved by the Superintendent or designee; (4) Comply with all applicable laws and Board policies.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy has not been reviewed since 2009, which may not reflect current legal requirements and best practices for educational foundation relationships.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "Governing boards should regularly review policies to ensure compliance with current law and effective governance practices."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and best practices, with regular review cycle established.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:21:32.580488+00:00"
+}

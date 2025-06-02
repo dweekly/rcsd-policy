@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9224: Oath Or Affirmation
+Last Reviewed: 01/28/2009
+================================================================================
+
+Missing Specific Oath Language (Confidence: 95%)
+Missing from: BOTH
+The policy references that board members must take "the oath or affirmation required by law" but does not include the actual text of the constitutional oath that must be administered. California law requires the specific oath language from the California Constitution to be available for administration.
+
+Legal Basis:
+- California Constitution Article 20, Section 3: "Members of the Legislature, and all public officers and employees, executive, legislative, and judicial, except such inferior officers and employees as may be by law exempted, shall, before they enter upon the duties of their respective offices, take and subscribe the following oath or affirmation: 'I, (name), do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and the Constitution of the State of California against all enemies, foreign and domestic; that I will bear true faith and allegiance to the Constitution of the United States and the Constitution of the State of California; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties upon which I am about to enter.'"
+
+Required Language:
+The oath or affirmation shall be as follows: "I, (name), do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and the Constitution of the State of California against all enemies, foreign and domestic; that I will bear true faith and allegiance to the Constitution of the United States and the Constitution of the State of California; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties upon which I am about to enter."
+
+Recommended Placement: BP
+
+----------------------------------------
+

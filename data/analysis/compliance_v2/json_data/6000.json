@@ -1,0 +1,78 @@
+{
+  "code": "6000",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6000",
+    "title": "Concepts And Roles",
+    "type": "Policy",
+    "last_reviewed": "11/06/2024",
+    "file_path": "data/extracted/policies/6000.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Policy Implementation",
+        "description": "Board Policy 6000 establishes broad concepts and roles for curriculum and instruction but lacks corresponding Administrative Regulation detailing implementation procedures. California school districts are required to have procedures that operationalize board policies, particularly for core educational functions like curriculum development, adoption processes, and instructional program management.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program or activity or may otherwise act in any manner which is not in conflict with or inconsistent with or preempted by any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation 6000 should include specific procedures for: curriculum development and review processes, timelines for curriculum adoption, roles and responsibilities of curriculum committees, procedures for textbook and instructional material selection, professional development implementation procedures, and evaluation processes for educational programs.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Curriculum Adoption Procedures",
+        "description": "While BP 6000 states the board will \"adopt the district curriculum and courses of study,\" there are no detailed procedures for how curriculum adoption will occur, including public review requirements, timelines, or stakeholder input processes required by state law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51226",
+            "text": "The governing board of each school district shall adopt course of study for grades 1 to 12, inclusive, of the schools of the district."
+          }
+        ],
+        "required_language": "Procedures shall specify the process for curriculum adoption including: formation of curriculum committees, timeline for review and adoption, public notification requirements, stakeholder input opportunities, and board approval processes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Instructional Materials Adoption Procedures",
+        "description": "BP 6000 mentions adopting textbooks and instructional materials but lacks the detailed procedures required by state law for instructional material selection, review, and adoption processes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60200",
+            "text": "The governing board of each school district shall adopt instructional materials for use in the schools of the district."
+          }
+        ],
+        "required_language": "Administrative procedures shall detail the process for instructional materials adoption including: selection criteria, review committees, public review periods, complaint procedures, and board adoption timelines consistent with state requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Text in Superintendent Responsibilities",
+        "description": "BP 6000 contains incomplete text in item 6 under Superintendent responsibilities: \"Recommend instructional materials to the Board and direct the purchase of approved =\" - this appears to be a formatting or editing error that should be corrected.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.1",
+            "text": "School district policies should be clear and complete to provide proper governance direction."
+          }
+        ],
+        "required_language": "Complete the sentence to read: \"Recommend instructional materials to the Board and direct the purchase of approved materials\"",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:29:14.928171+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "9122",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9122",
+    "title": "Secretary",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9122.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Oath of Office Requirement for Board Secretary",
+        "description": "California Education Code requires that the secretary of the governing board take an oath of office before entering upon duties. This fundamental legal requirement is completely absent from both the policy and regulation documents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35143",
+            "text": "\"The secretary of the governing board of a school district shall, before entering upon the duties of his office, take and subscribe the oath of office prescribed by the Constitution.\""
+          }
+        ],
+        "required_language": "The secretary of the governing board shall, before entering upon the duties of office, take and subscribe the oath of office prescribed by the Constitution.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Record Retention Requirements",
+        "description": "While the policy mentions maintaining records generally, it lacks specific requirements for retention periods and handling of official board documents as mandated by the Government Code and Education Code.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 54957.5",
+            "text": "Requires specific retention and public access procedures for board meeting records and documents."
+          }
+        ],
+        "required_language": "Board records shall be retained in accordance with applicable retention schedules and made available for public inspection as required by law. Meeting recordings, if any, shall be retained for at least 30 days after approval of minutes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Public Records Act Compliance Procedures",
+        "description": "The secretary typically serves as custodian of records and must comply with Public Records Act requirements, but no procedures are established for handling public records requests.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 6250 et seq.",
+            "text": "California Public Records Act requires public agencies to provide access to public records and establishes procedures for responding to requests."
+          }
+        ],
+        "required_language": "The secretary shall respond to public records requests in accordance with the California Public Records Act, including timely acknowledgment and production of responsive documents or appropriate exemption notices.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Brown Act Posting Requirements",
+        "description": "The policy mentions preparing and distributing agendas but doesn't specify the legal posting requirements under the Brown Act.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 54954.2",
+            "text": "Requires specific timing and location requirements for posting board meeting agendas."
+          }
+        ],
+        "required_language": "Board agendas shall be posted at least 72 hours before regular meetings and 24 hours before special meetings in locations freely accessible to the public, and shall include brief descriptions of each item of business to be transacted.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:38:56.476613+00:00"
+}

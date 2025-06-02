@@ -1,0 +1,78 @@
+{
+  "code": "4154",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4154",
+    "title": "Health And Welfare Benefits",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4154.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Health and Welfare Benefits Implementation",
+        "description": "The Board Policy references administrative regulation for specifying benefits for non-bargaining unit employees, but no Administrative Regulation exists. This creates a gap in implementation guidance for a key employee group and fails to provide the procedural framework needed to operationalize the policy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45192",
+            "text": "The governing board of any school district may provide for group life, accident, and health insurance for the employees of the district and their dependents."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to specify: (1) health and welfare benefits available to employees not in bargaining units; (2) eligibility requirements; (3) enrollment procedures; (4) benefit levels and coverage options; (5) employee contribution requirements; (6) procedures for benefit changes and appeals.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing COBRA Continuation Coverage Requirements",
+        "description": "Federal law requires specific COBRA notification and continuation coverage procedures for group health plans. Neither the policy nor regulation addresses these mandatory requirements for qualifying events, notification timelines, and continuation coverage options.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "29 USC 1161-1168 (COBRA); Government Code Section 22892",
+            "text": "COBRA requires group health plans to offer continuation coverage to qualified beneficiaries who lose coverage due to qualifying events. California Government Code 22892 provides similar continuation rights for public employees."
+          }
+        ],
+        "required_language": "The district shall provide COBRA continuation coverage as required by federal law, including proper notification of qualifying events, election periods, and premium payment requirements. Eligible employees and dependents may continue group health coverage for specified periods following qualifying events such as termination, reduction in hours, or other covered circumstances.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Health Records Confidentiality Procedures",
+        "description": "While the policy states that health records confidentiality will be maintained \"in accordance with law,\" it lacks specific procedures for handling, storing, and accessing confidential health information as required by HIPAA and state privacy laws.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "45 CFR 164 (HIPAA Privacy Rule); Civil Code Section 56 et seq.",
+            "text": "HIPAA and California's Confidentiality of Medical Information Act require specific safeguards for protected health information, including administrative, physical, and technical safeguards."
+          }
+        ],
+        "required_language": "Administrative procedures shall establish: (1) access controls for health records; (2) secure storage requirements; (3) authorized personnel who may access health information; (4) employee training on confidentiality requirements; (5) procedures for responding to requests for health information; (6) breach notification protocols.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Domestic Partner Reference",
+        "description": "The policy references Family Code 297 regarding domestic partner registration, but this section has been significantly amended since 2009. The reference should be updated to reflect current law and may need to address marriage equality changes.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Family Code Section 297 et seq.",
+            "text": "Domestic partner registration requirements and benefits have been modified by subsequent legislation, including changes related to marriage equality."
+          }
+        ],
+        "required_language": "Update the domestic partner reference to current Family Code provisions and ensure compliance with current state and federal requirements regarding spousal and domestic partner benefits.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:12:41.306362+00:00"
+}

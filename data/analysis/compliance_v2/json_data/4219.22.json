@@ -1,0 +1,63 @@
+{
+  "code": "4219.22",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4219.22",
+    "title": "Dress And Grooming",
+    "type": "Policy",
+    "last_reviewed": "11/20/2019",
+    "file_path": "data/extracted/policies/4219.22.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation",
+        "description": "While the Board Policy establishes the framework for employee dress and grooming standards, there is no Administrative Regulation to provide specific implementation procedures, examples of appropriate/inappropriate dress, enforcement mechanisms, or guidance for supervisors on how to address violations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to include: (1) Specific examples of appropriate professional dress for different job classifications; (2) Examples of inappropriate dress that would violate the policy; (3) Procedures for addressing dress code violations; (4) Process for requesting accommodations for religious dress/grooming practices; (5) Guidelines for supervisors on enforcement; (6) Appeal process for employees who disagree with dress code determinations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Lack of Specific Safety Requirements",
+        "description": "While the policy mentions not endangering health or safety, it lacks specific safety-related dress requirements for employees in positions where safety equipment or specific attire may be mandated (e.g., maintenance, food service, science labs).",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 6401",
+            "text": "Every employer shall furnish and use safety devices and safeguards, and shall adopt and use practices, means, methods, operations, and processes which are reasonably adequate to render such employment and place of employment safe and healthful."
+          }
+        ],
+        "required_language": "Employees in positions requiring specific safety attire or equipment shall comply with applicable safety standards and regulations. This may include, but is not limited to, closed-toe shoes in laboratories, hair restraints in food service areas, and appropriate protective equipment as determined by job requirements and safety regulations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Accommodation Process",
+        "description": "While the policy prohibits discrimination based on religious dress and grooming practices, it does not specify the process for employees to request religious accommodations or how such requests will be evaluated.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12940(l)",
+            "text": "It shall be an unlawful employment practice, unless based upon a bona fide occupational qualification, or, except where based upon applicable security regulations established by the United States or the State of California... For an employer... to fail to make reasonable accommodation for the known physical or mental disability of an applicant or employee... For purposes of this subdivision... \"religious belief or observance\" includes, but is not limited to, observance of a Sabbath or other religious holy day or days, and reasonable time necessary for travel prior and subsequent to a religious observance."
+          }
+        ],
+        "required_language": "Employees seeking accommodation for religious dress or grooming practices should submit a written request to their supervisor or Human Resources. The district will engage in an interactive process to determine reasonable accommodations that do not create undue hardship or compromise safety requirements.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:15:16.696232+00:00"
+}

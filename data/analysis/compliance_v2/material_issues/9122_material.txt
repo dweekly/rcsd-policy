@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9122: Secretary
+Last Reviewed: 01/28/2009
+================================================================================
+
+Missing Oath of Office Requirement for Board Secretary (Confidence: 95%)
+Missing from: BOTH
+California Education Code requires that the secretary of the governing board take an oath of office before entering upon duties. This fundamental legal requirement is completely absent from both the policy and regulation documents.
+
+Legal Basis:
+- Education Code Section 35143: "The secretary of the governing board of a school district shall, before entering upon the duties of his office, take and subscribe the oath of office prescribed by the Constitution."
+
+Required Language:
+The secretary of the governing board shall, before entering upon the duties of office, take and subscribe the oath of office prescribed by the Constitution.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Specific Record Retention Requirements (Confidence: 90%)
+Missing from: BOTH
+While the policy mentions maintaining records generally, it lacks specific requirements for retention periods and handling of official board documents as mandated by the Government Code and Education Code.
+
+Legal Basis:
+- Government Code Section 54957.5: Requires specific retention and public access procedures for board meeting records and documents.
+
+Required Language:
+Board records shall be retained in accordance with applicable retention schedules and made available for public inspection as required by law. Meeting recordings, if any, shall be retained for at least 30 days after approval of minutes.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Public Records Act Compliance Procedures (Confidence: 85%)
+Missing from: BOTH
+The secretary typically serves as custodian of records and must comply with Public Records Act requirements, but no procedures are established for handling public records requests.
+
+Legal Basis:
+- Government Code Section 6250 et seq.: California Public Records Act requires public agencies to provide access to public records and establishes procedures for responding to requests.
+
+Required Language:
+The secretary shall respond to public records requests in accordance with the California Public Records Act, including timely acknowledgment and production of responsive documents or appropriate exemption notices.
+
+Recommended Placement: AR
+
+----------------------------------------
+

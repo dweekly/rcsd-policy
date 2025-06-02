@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3513.3: Tobacco-Free Schools
+Last Reviewed: 02/15/2017
+================================================================================
+
+Missing Mandatory Reporting to Law Enforcement (Confidence: 85%)
+Missing from: BOTH
+California law requires that any employee who observes tobacco use on school grounds must report violations to local law enforcement. This mandatory reporting requirement is completely absent from both the policy and regulation documents.
+
+Legal Basis:
+- Health and Safety Code Section 104420(b): "Any employee of a school district who observes a violation of this section occurring in an area under the jurisdiction of the school district shall report the violation to local law enforcement."
+
+Required Language:
+Any district employee who observes a violation of the tobacco-free schools policy occurring on district property shall report the violation to local law enforcement as required by law.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Criminal Penalties Notification (Confidence: 90%)
+Missing from: BOTH
+The policy and regulation fail to inform the community that tobacco use violations on school property constitute a criminal infraction punishable by fine. This notification is required to ensure proper understanding of legal consequences.
+
+Legal Basis:
+- Health and Safety Code Section 104420(c): "A violation of this section is an infraction punishable by a fine of not less than fifty dollars ($50) nor more than seventy-five dollars ($75) for a first violation, and a fine of not less than seventy-five dollars ($75) nor more than one hundred dollars ($100) for each subsequent violation."
+
+Required Language:
+Violation of the tobacco-free schools policy constitutes a criminal infraction punishable by a fine of $50-$75 for first violations and $75-$100 for subsequent violations.
+
+Recommended Placement: BP
+
+----------------------------------------
+

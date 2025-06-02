@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1700: Relations Between Private Industry And The Schools
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Conflict of Interest Safeguards (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation addresses conflict of interest requirements when district employees or board members have relationships with businesses seeking partnerships. The Political Reform Act requires public agencies to have procedures preventing conflicts of interest in business relationships.
+
+Legal Basis:
+- Government Code Section 87100: No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest.
+
+Required Language:
+District employees and board members must disclose any financial interest in businesses seeking partnerships with the district. Procedures must be established for reviewing and managing potential conflicts of interest in accordance with the Political Reform Act.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Student Data Privacy Protections (Confidence: 75%)
+Missing from: BOTH
+The policy allows business involvement in educational programs but lacks protections for student data privacy when businesses access student information. FERPA and California student privacy laws require specific safeguards when third parties have access to student data.
+
+Legal Basis:
+- Education Code Section 49073.6: A school service or school service provider shall not use any information in a student's educational record for any purpose other than those required or specifically permitted by the contract with the local educational agency.
+
+Required Language:
+When business partnerships involve access to student information, the district must ensure compliance with FERPA and state privacy laws, including written agreements specifying permitted uses of student data and prohibiting unauthorized disclosure or commercial use.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,93 @@
+{
+  "code": "3517",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3517",
+    "title": "Facilities Inspection",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3517.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 17592.72 requires specific implementation procedures for facilities inspection programs, including detailed processes for conducting inspections, documentation requirements, timelines, and reporting procedures. While the Board Policy establishes the framework and requirements, there is no Administrative Regulation to provide the \"how\" of implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17592.72",
+            "text": "The governing board of a school district shall ensure that each of its school facilities is maintained in good repair... and shall develop a facilities inspection and maintenance program that includes specific procedures for conducting inspections and maintaining records."
+          }
+        ],
+        "required_language": "Administrative Regulation 3517 should include: (1) Specific procedures for conducting facility inspections, (2) Documentation and record-keeping requirements, (3) Timeline for completing inspections, (4) Process for prioritizing and scheduling repairs, (5) Reporting procedures to the Board, (6) Staff responsibilities and training requirements, (7) Emergency response procedures for immediate safety hazards.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Annual Inspection Requirement and Timeline",
+        "description": "Education Code 17592.72 requires that facility inspections be conducted annually. The Board Policy does not specify the frequency or timeline for conducting these inspections, which is essential for compliance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17592.72(c)(1)",
+            "text": "The governing board shall ensure that an inspection to determine the conditions specified in the inspection and evaluation instrument is completed for each school facility at least once each year."
+          }
+        ],
+        "required_language": "Facility inspections shall be conducted annually for each school site, with inspections completed by [specific date] each year to ensure compliance with Education Code requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Public Reporting Requirements",
+        "description": "Education Code 17592.72 requires that inspection results be made available to the public and reported through the School Accountability Report Card (SARC). Neither document addresses these public transparency requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17592.72(c)(3)",
+            "text": "The results of the inspection shall be available at the district office and at the school, and shall be posted on the school's Internet Web site, if the school operates an Internet Web site."
+          }
+        ],
+        "required_language": "Inspection results shall be made available to the public at the district office and each school site, posted on school websites where available, and included in the annual School Accountability Report Card as required by law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Record Retention Requirements",
+        "description": "Government Code and Education Code require specific record retention periods for facility inspection documentation. Neither document specifies how long inspection records must be maintained.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17592.72(c)(2)",
+            "text": "The governing board shall maintain records of the inspection and any corrective action taken."
+          }
+        ],
+        "required_language": "Records of facility inspections and corrective actions shall be maintained for a minimum of three years and made available for public inspection upon request.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Specific Inspection Instrument",
+        "description": "While the policy references \"the inspection and evaluation instrument,\" it does not specify that this refers to the state-mandated Facility Inspection Tool (FIT) or equivalent instrument approved by the State Board of Education.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17592.72(a)",
+            "text": "The inspection and evaluation instrument developed by the State Board of Education pursuant to Section 17592.71."
+          }
+        ],
+        "required_language": "Inspections shall utilize the Facility Inspection Tool (FIT) or other inspection instrument approved by the State Board of Education.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:30:05.983963+00:00"
+}

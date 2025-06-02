@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5113.1: Chronic Absence And Truancy
+Last Reviewed: 03/26/2025
+================================================================================
+
+Missing School Attendance Review Board (SARB) Establishment Authority (Confidence: 90%)
+Missing from: BOTH
+California law requires districts to either establish their own SARB or participate in a joint SARB. The policy and regulation reference SARB programs but do not establish the district's authority to create or participate in SARB, which is a fundamental requirement for truancy intervention.
+
+Legal Basis:
+- Education Code 48320: The governing board of any school district may establish a school attendance review board or may contract with the county superintendent of schools, the probation department, or other school districts to establish a school attendance review board.
+
+Required Language:
+The Board may establish a school attendance review board (SARB) or may contract with the county superintendent of schools, probation department, or other school districts to establish a joint SARB to address chronic absence and truancy issues in accordance with Education Code 48320 et seq.
+
+Recommended Placement: BP
+
+----------------------------------------
+

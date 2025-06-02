@@ -1,0 +1,84 @@
+{
+  "code": "1312.1",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "1312.1",
+    "title": "Complaints Concerning District Employees",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1312.1.txt"
+  },
+  "regulation": {
+    "code": "1312.1",
+    "title": "Complaints Concerning District Employees",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/1312.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Uniform Complaint Procedures Cross-Reference",
+        "description": "The policy and regulation fail to clarify the relationship between employee complaints and the Uniform Complaint Procedures (UCP). Some complaints about employees may fall under UCP jurisdiction (discrimination, harassment, instructional materials, etc.), and the documents should provide guidance on when UCP applies versus this employee complaint process.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 4600-4687",
+            "text": "California Code of Regulations requires districts to have uniform complaint procedures for specific categories of complaints, including discrimination and harassment complaints against employees."
+          }
+        ],
+        "required_language": "The district shall determine whether a complaint concerning an employee should be processed under these procedures or under the district's Uniform Complaint Procedures. Complaints alleging discrimination, harassment, intimidation, or bullying by employees shall be processed under the Uniform Complaint Procedures in accordance with Board Policy 1312.3.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Mandated Reporter Training Reference",
+        "description": "While the regulation mentions reporting child abuse/neglect, it lacks reference to mandated reporter requirements and training obligations for district employees, which is a critical compliance element for employee-related policies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44691",
+            "text": "Requires school districts to provide mandated reporter training to employees and maintain records of such training."
+          }
+        ],
+        "required_language": "All district employees shall receive mandated reporter training as required by law. The Superintendent or designee shall ensure that employees understand their legal obligations regarding reporting suspected child abuse or neglect.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Confidentiality Protections",
+        "description": "While the policy mentions discretionary confidentiality, it doesn't address the legal requirements for maintaining confidentiality of personnel records and investigation materials, particularly regarding disclosure limitations under Government Code.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 6254(c)",
+            "text": "Personnel records are generally confidential and exempt from disclosure under the Public Records Act, with specific exceptions."
+          }
+        ],
+        "required_language": "Investigation records and personnel information shall be maintained confidentially in accordance with applicable law. Access to such records shall be limited to authorized personnel with a legitimate need to know.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Due Process Protections Reference",
+        "description": "The regulation lacks explicit reference to due process rights for employees, particularly regarding notice and opportunity to respond, which are fundamental constitutional protections for public employees.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44932-44944",
+            "text": "Provides due process protections for certificated employees, including rights to notice and hearing in disciplinary matters."
+          }
+        ],
+        "required_language": "All complaint investigations shall be conducted in accordance with applicable due process requirements and collective bargaining agreements. Employees shall be provided appropriate notice and opportunity to respond to complaints.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:21:49.114652+00:00"
+}

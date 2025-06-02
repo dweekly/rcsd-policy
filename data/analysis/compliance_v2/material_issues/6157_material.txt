@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6157: Distance Learning
+Last Reviewed: 09/23/2020
+================================================================================
+
+Missing Attendance Tracking Procedures (Confidence: 90%)
+Missing from: BOTH
+Distance learning programs must have specific procedures for tracking and documenting student attendance and participation. Neither the policy nor regulation addresses how attendance will be measured and recorded for distance learning students.
+
+Legal Basis:
+- Ed Code Section 51747.5: Requires that attendance for distance learning be based on evidence of participation in online activities, completion of assignments, or other measures of student engagement.
+
+Required Language:
+Procedures for measuring and documenting student attendance in distance learning programs, including specific criteria for determining daily participation and engagement.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Teacher Certification Requirements (Confidence: 85%)
+Missing from: BOTH
+Distance learning programs must specify that teachers hold appropriate California teaching credentials. While the policy mentions teacher training, it does not address the fundamental requirement for proper certification.
+
+Legal Basis:
+- Ed Code Section 51747.5(a): Requires that distance learning courses be taught by teachers who hold appropriate California teaching credentials for the subject area and grade level.
+
+Required Language:
+All distance learning instruction shall be provided by teachers who hold appropriate California teaching credentials for the subject area and grade level being taught.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Instructional Time Requirements (Confidence: 88%)
+Missing from: BOTH
+Distance learning programs must meet minimum instructional time requirements equivalent to in-person instruction. Neither document addresses how instructional minutes will be calculated and documented for distance learning.
+
+Legal Basis:
+- Ed Code Section 47612.5: Distance learning instructional time shall be calculated based on time value of assignments as determined by the certificated employee.
+
+Required Language:
+Distance learning programs shall meet minimum instructional time requirements, with instructional time calculated based on the time value of assignments as determined by certificated staff.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Student-Teacher Interaction Requirements (Confidence: 92%)
+Missing from: BOTH
+California law requires specific minimum levels of synchronous and asynchronous interaction between teachers and students in distance learning programs. The policy mentions interaction but does not specify required frequencies or types.
+
+Legal Basis:
+- Ed Code Section 43503(b)(2): Distance learning must include daily live interaction between students and certificated employees and peers for purposes of instruction, progress monitoring, and maintaining school connectedness.
+
+Required Language:
+Distance learning programs shall include daily live interaction between students and certificated employees, and regular interaction with peers, for purposes of instruction, progress monitoring, and maintaining school connectedness.
+
+Recommended Placement: AR
+
+----------------------------------------
+

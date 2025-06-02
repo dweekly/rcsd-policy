@@ -1,0 +1,78 @@
+{
+  "code": "4331",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4331",
+    "title": "Staff Development",
+    "type": "Policy",
+    "last_reviewed": "03/14/2018",
+    "file_path": "data/extracted/policies/4331.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Staff Development Implementation",
+        "description": "California Education Code requires districts to have procedures for implementing staff development programs. While the Board Policy establishes the framework and topics for staff development, there is no Administrative Regulation to specify the implementation procedures, evaluation methods, funding allocation, or operational details required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44259",
+            "text": "The governing board of each school district shall adopt policies for the professional development of its certificated employees that include procedures for identifying professional development needs and evaluating the effectiveness of professional development activities."
+          }
+        ],
+        "required_language": "Administrative procedures must include: (1) Methods for identifying professional development needs through systematic assessment; (2) Procedures for evaluating the effectiveness of professional development activities; (3) Process for allocating resources and funding for staff development; (4) Timeline and scheduling procedures for professional development activities; (5) Documentation and record-keeping requirements; (6) Procedures for mandatory vs. voluntary participation; (7) Methods for measuring impact on student achievement and staff performance.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Beginning Teacher Support Requirements",
+        "description": "California law requires specific provisions for beginning teacher support and mentoring programs. Neither the policy nor regulation addresses the mandatory Beginning Teacher Support and Assessment (BTSA) program requirements or induction programs for new teachers.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44279.2",
+            "text": "Each school district shall provide each teacher who holds a preliminary teaching credential with an induction program that meets the requirements established by the commission and is approved by the commission."
+          }
+        ],
+        "required_language": "The district shall provide induction programs for teachers holding preliminary teaching credentials as required by Education Code Section 44279.2. The program shall meet Commission on Teacher Credentialing requirements and include mentoring, support, and assessment components to assist beginning teachers in developing effective teaching practices.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Paraprofessional Development Requirements",
+        "description": "The policy focuses only on administrative staff development but fails to address federally mandated professional development requirements for paraprofessionals working in Title I programs, which is required under ESSA.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45344.5",
+            "text": "Instructional paraprofessionals employed in programs supported with federal Title I funds shall meet federal qualification requirements and receive appropriate professional development."
+          }
+        ],
+        "required_language": "The district shall provide professional development for paraprofessionals, particularly those working in Title I programs, to ensure they meet federal qualification requirements and can effectively support student learning under the supervision of qualified teachers.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Collective Bargaining Agreements",
+        "description": "The policy does not acknowledge that staff development activities may be subject to collective bargaining agreements, which could create implementation conflicts with negotiated contract terms regarding professional development requirements, compensation, and scheduling.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 3543.2",
+            "text": "The scope of representation shall include matters relating to wages, hours of employment, and other terms and conditions of employment."
+          }
+        ],
+        "required_language": "Staff development activities shall be implemented in accordance with applicable collective bargaining agreements and meet-and-confer requirements where appropriate.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:17:36.194725+00:00"
+}

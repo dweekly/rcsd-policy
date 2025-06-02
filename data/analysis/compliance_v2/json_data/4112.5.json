@@ -1,0 +1,93 @@
+{
+  "code": "4112.5",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4112.5",
+    "title": "Criminal Record Check",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4112.5.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) 4112.5 document is entirely missing. California Education Code requires school districts to have board policies establishing the framework and authority for criminal background check procedures. Without a BP, there is no board-level direction on criminal record check requirements, employee rights, or district authority to conduct such checks.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44830.1",
+            "text": "Requires districts to conduct criminal background checks and establishes procedures for handling convictions"
+          }
+        ],
+        "required_language": "Board Policy should establish: (1) District authority and responsibility to conduct criminal background checks; (2) Scope of positions requiring background checks; (3) Employee notification requirements; (4) Appeal and due process rights; (5) Confidentiality requirements; (6) Reference to applicable laws and regulations",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Coverage for Classified Employees",
+        "description": "The regulation only addresses certificated employees for conviction-related termination procedures, but Education Code requires criminal background checks for all employees. The regulation lacks procedures for handling classified employees with disqualifying convictions.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45125.1",
+            "text": "Prohibits employment of classified employees convicted of violent or serious felonies, with similar procedures as certificated staff"
+          }
+        ],
+        "required_language": "Procedures for classified employees parallel to those for certificated employees, including immediate placement on unpaid leave upon conviction notification and termination procedures unless employee has certificate of rehabilitation and pardon",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Volunteer Background Check Requirements",
+        "description": "The regulation does not address criminal background check requirements for volunteers who have frequent or prolonged contact with students, which is required by California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 45125.1",
+            "text": "Requires background checks for volunteers who will have frequent or prolonged contact with students"
+          }
+        ],
+        "required_language": "Procedures for conducting criminal background checks on volunteers who will have frequent or prolonged contact with students, including fingerprinting requirements and disqualification criteria",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing DOJ Clearance Timeline Requirements",
+        "description": "The regulation does not specify the required timeline for receiving DOJ clearance before employment begins, which is mandated by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44830.1, 45125.1",
+            "text": "Requires that no person may be employed until DOJ clearance is received, with limited exceptions for emergency situations"
+          }
+        ],
+        "required_language": "No person shall be employed until DOJ clearance is received. Emergency employment procedures may be used only when specific conditions are met and for limited time periods as specified in law",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Confidentiality Provisions",
+        "description": "The regulation lacks specific language about maintaining confidentiality of criminal background check information and limiting access to authorized personnel only.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code 11105",
+            "text": "Requires that criminal history information be kept confidential and used only for authorized purposes"
+          }
+        ],
+        "required_language": "Criminal background check information shall be kept confidential and accessed only by authorized personnel for employment decision purposes. Information shall be stored securely and disposed of properly when no longer needed",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:34:00.901109+00:00"
+}

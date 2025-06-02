@@ -1,0 +1,78 @@
+{
+  "code": "4117.14",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4117.14",
+    "title": "Postretirement Employment",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4117.14.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The district has only an Administrative Regulation (AR) but no corresponding Board Policy (BP) for postretirement employment. California school districts are required to have board policies that establish the board's direction and authority for significant personnel matters like postretirement employment. The AR contains detailed procedures but lacks the foundational policy framework that should be established by the governing board.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The Board recognizes that retired certificated employees may possess unique knowledge and experience that can benefit the district through specialized work of limited duration. The Board authorizes the Superintendent to establish procedures for the employment of retired certificated personnel in compliance with State Teachers' Retirement System requirements and applicable compensation limitations. All postretirement employment shall comply with Education Code requirements and STRS regulations.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing 180-Day Break in Service Requirement",
+        "description": "Neither the BP (which doesn't exist) nor the AR addresses the mandatory 180-day break in service requirement before a retired STRS member can return to work for a STRS-covered employer. This is a critical compliance requirement that affects the validity of postretirement employment arrangements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 24214(a)",
+            "text": "A retired member shall not serve in any capacity in the public school system during the first 180 days after his or her retirement allowance effective date."
+          }
+        ],
+        "required_language": "A retired STRS member shall not be employed by the district in any capacity during the first 180 days after his or her retirement allowance effective date. The district shall verify that the 180-day break in service requirement has been satisfied before employing any retired STRS member.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Current Compensation Limits and Annual Updates",
+        "description": "The regulation references \"compensation limitation specified by law\" but does not include the specific dollar amounts or a mechanism for annual updates. STRS compensation limits change annually and must be clearly communicated and tracked.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 24214(b)",
+            "text": "The compensation paid to a retired member for the performance of services during a school year shall not exceed the amount established annually by the Teachers' Retirement Board."
+          }
+        ],
+        "required_language": "The annual compensation limit for retired STRS members shall be the amount established by the Teachers' Retirement Board for each fiscal year. The district shall obtain and implement the current year's compensation limit and ensure all retired employees are informed of and comply with this limit. The district shall track compensation to ensure limits are not exceeded.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Outdated Exemption Provisions",
+        "description": "The regulation contains time-limited exemptions that expired on June 30, 2009, and references to retired individuals with effective retirement dates \"on or before January 1, 2006.\" These provisions are now obsolete and should be updated or removed to avoid confusion.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 24216",
+            "text": "Various exemption provisions have been modified or expired since the regulation's 2009 adoption date."
+          }
+        ],
+        "required_language": "Remove expired exemption language and update with current exemption provisions as specified in current Education Code sections 24216, 24216.5, and 24216.6.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:09:34.286797+00:00"
+}

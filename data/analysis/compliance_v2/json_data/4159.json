@@ -1,0 +1,63 @@
+{
+  "code": "4159",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4159",
+    "title": "Employee Assistance Programs",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4159.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Employee Assistance Program Implementation",
+        "description": "While the Board Policy establishes the framework for employee assistance programs, there is no corresponding Administrative Regulation to provide implementation procedures. California school districts are expected to have detailed procedures for how employee assistance programs operate, including referral processes, confidentiality protections, and coordination with supervisory staff.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44031",
+            "text": "The governing board of each school district shall establish rules and regulations for the governance of the schools under its jurisdiction."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: (1) Procedures for employee self-referral and supervisory referral to assistance programs; (2) Specific confidentiality protections and limitations; (3) Documentation and record-keeping requirements; (4) Training requirements for supervisory staff; (5) Coordination with disciplinary processes; (6) Available resources and contact information; (7) Procedures for program evaluation and effectiveness monitoring.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009, which is over 14 years ago. While not legally mandated, regular policy review is considered best practice for school districts to ensure continued relevance and compliance with evolving legal requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The Board should establish a regular review cycle for this policy, typically every 3-5 years, to ensure continued effectiveness and legal compliance.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Limited Scope of Covered Individuals",
+        "description": "The policy mentions \"spouses and dependents\" but does not address domestic partners or other family configurations that may be legally recognized. California's inclusive approach to family definitions suggests broader language would be more appropriate.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Family Code Section 297",
+            "text": "Domestic partners shall have the same rights, protections, and benefits, and shall be subject to the same responsibilities, obligations, and duties under law as are granted to and imposed upon spouses."
+          }
+        ],
+        "required_language": "Expand coverage language to include \"employees and their spouses, domestic partners, dependents, and immediate family members\" to ensure inclusive access to assistance programs.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:13:24.454057+00:00"
+}

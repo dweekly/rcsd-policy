@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5131.8: Mobile Communication Devices
+Last Reviewed: 01/13/2021
+================================================================================
+
+Missing Parent Notification Requirements (Confidence: 85%)
+Missing from: BOTH
+When mobile devices are confiscated from students, parents have a right to be notified. The policy does not address when and how parents will be informed of confiscation, which could violate due process requirements and create liability issues.
+
+Legal Basis:
+- Education Code Section 48900.5: Suspension, including supervised suspension, or expulsion may be imposed only when other means of correction fail to bring about proper conduct.
+
+Required Language:
+Parents/guardians must be notified within [specific timeframe] when a student's mobile communication device is confiscated. Notification shall include the reason for confiscation, duration of confiscation, and procedures for return.
+
+Recommended Placement: AR
+
+----------------------------------------
+

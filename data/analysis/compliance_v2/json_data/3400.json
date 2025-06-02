@@ -1,0 +1,99 @@
+{
+  "code": "3400",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3400",
+    "title": "Management Of District Assets/Accounts",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3400.txt"
+  },
+  "regulation": {
+    "code": "3400",
+    "title": "Management Of District Assets/Accounts",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3400.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Annual Financial Audit Requirements",
+        "description": "California school districts are required to conduct annual independent financial audits and establish procedures for audit oversight. Neither the policy nor regulation addresses the mandatory annual audit process, audit committee responsibilities, or procedures for responding to audit findings.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 41020",
+            "text": "The governing board of each school district shall provide for an annual audit of the financial and performance of all funds and accounts of the district to be made by a certified public accountant or public accountant."
+          }
+        ],
+        "required_language": "The district shall conduct an annual independent financial audit by a certified public accountant. The Board shall establish procedures for audit oversight, review of audit findings, and implementation of corrective actions for any deficiencies identified.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Investment Policy Requirements",
+        "description": "California school districts must establish comprehensive investment policies governing the investment of district funds. While the regulation mentions \"investment activities\" in the fraud section, neither document contains the required investment policy framework, authorized investments, or investment oversight procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 53646",
+            "text": "The legislative body of a local agency may invest funds that are not required for the immediate necessities of the local agency in accordance with an investment policy adopted by the legislative body."
+          }
+        ],
+        "required_language": "The Board shall adopt an investment policy governing the investment of district funds, specifying authorized investments, risk management procedures, and reporting requirements. All investments shall comply with Government Code requirements for local agency investments.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Procurement and Contracting Controls",
+        "description": "Asset management policies must address procurement controls and contracting procedures to ensure proper stewardship of public funds. Neither document establishes the required framework for competitive bidding, vendor selection, or contract approval processes that are essential for asset management compliance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Public Contract Code Section 20111",
+            "text": "Except as otherwise provided, all contracts for supplies, materials, or equipment shall be let to the lowest responsible bidder meeting specifications after competitive bidding."
+          }
+        ],
+        "required_language": "The district shall establish procurement procedures ensuring competitive bidding for purchases exceeding statutory thresholds, vendor qualification processes, and appropriate authorization levels for contract approval to protect district assets.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Whistleblower Protection Procedures",
+        "description": "While the policy mentions establishing anonymous reporting methods, it lacks specific whistleblower protection procedures required for comprehensive fraud prevention programs. The regulation addresses investigation confidentiality but not protection of reporting parties.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 8547.10",
+            "text": "Public agencies should establish procedures to protect employees who report waste, fraud, abuse of authority, or violation of law from retaliation."
+          }
+        ],
+        "required_language": "The district shall establish procedures to protect employees and other parties who report suspected fraud or irregularities from retaliation, including confidential reporting mechanisms and anti-retaliation safeguards.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Asset Disposal Procedures",
+        "description": "The policy addresses capital asset identification and valuation but lacks procedures for asset disposal, which is a critical component of comprehensive asset management. This gap exists in both documents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17545",
+            "text": "The governing board may dispose of personal property belonging to the district when such property is no longer required for school purposes."
+          }
+        ],
+        "required_language": "The district shall establish procedures for the disposal of surplus or obsolete assets, including authorization requirements, disposal methods, and documentation of asset disposition to maintain proper accountability.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:26:26.307776+00:00"
+}

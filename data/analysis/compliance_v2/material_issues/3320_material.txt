@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3320: Claims And Actions Against The District
+Last Reviewed: 11/09/2022
+================================================================================
+
+Missing Required Notice Language for Claim Rejection (Confidence: 85%)
+Missing from: BOTH
+Government Code 913 requires specific statutory language to be included in rejection notices, including information about the claimant's right to file suit and time limitations. The AR references that notices "shall be in the form set forth in Government Code 913" but does not include the actual required language that must be provided to claimants.
+
+Legal Basis:
+- Government Code Section 913: The notice required by Section 912.4 shall be in substantially the following form: "Your claim for damages against [name of public entity] filed on [date] has been [rejected or allowed in the amount of $____]. If you disagree with this action, you may file suit in the appropriate court within six months of the date this notice was personally delivered or deposited in the mail."
+
+Required Language:
+Notice of rejection or action on claims shall be in substantially the following form: "Your claim for damages against [name of school district] filed on [date] has been [rejected or allowed in the amount of $____]. If you disagree with this action, you may file suit in the appropriate court within six months of the date this notice was personally delivered or deposited in the mail."
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Required Notice Language for Late Claim Denial (Confidence: 90%)
+Missing from: BOTH
+The AR references that denial notices for late claims shall be "in substantially the same form set forth in Government Code 911.8" but does not include the actual required statutory language that must be provided to claimants when their application to file a late claim is denied.
+
+Legal Basis:
+- Government Code Section 911.8: If the application is denied, the board shall give the applicant written notice of the denial. The notice shall be in substantially the following form: "Your application to file a late claim with [name of public entity] was denied on [date]. You have six months from the date this notice was personally delivered or deposited in the mail to file a court petition requesting that the court allow you to file your late claim."
+
+Required Language:
+Notice of denial of application to file late claim shall be in substantially the following form: "Your application to file a late claim with [name of school district] was denied on [date]. You have six months from the date this notice was personally delivered or deposited in the mail to file a court petition requesting that the court allow you to file your late claim."
+
+Recommended Placement: AR
+
+----------------------------------------
+

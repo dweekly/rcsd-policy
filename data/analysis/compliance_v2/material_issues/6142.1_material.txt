@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6142.1: Sexual Health And HIV/AIDS Prevention Instruction
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Passive Consent Notification Requirements (Confidence: 95%)
+Missing from: BOTH
+The policy requires parents to "opt-out" their children but fails to include the mandatory passive consent notification language that must be provided to parents. The notification must explicitly state that if no response is received, the student will participate in the instruction.
+
+Legal Basis:
+- Education Code 51938(a): A pupil may not attend any class in comprehensive sexual health education or HIV/AIDS prevention education, or participate in any anonymous, voluntary, and confidential test, questionnaire, or survey on pupil health behaviors and risks, if the pupil's parent or guardian submits a written request that the pupil not attend the class or participate in the test, questionnaire, or survey.
+
+Required Language:
+The notification shall clearly state that if no written request to excuse the student is received, the student will participate in the comprehensive sexual health education and HIV/AIDS prevention instruction.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing School Health Advisory Committee Requirements (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions an advisory committee may be appointed, it fails to include the mandatory requirements for school health advisory committees when comprehensive sexual health education is provided.
+
+Legal Basis:
+- Education Code 51933(c): A school district that elects to offer comprehensive sexual health education shall ensure that all pupils in grades 7 to 12, inclusive, receive comprehensive sexual health education at least once in junior high or middle school and at least once in high school.
+
+Required Language:
+The district shall establish a school health advisory committee that includes parents, community members, and school personnel to review and recommend comprehensive sexual health education curricula and materials.
+
+Recommended Placement: BP
+
+----------------------------------------
+

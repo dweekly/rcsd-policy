@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4136: Nonschool Employment
+Last Reviewed: 06/15/2022
+================================================================================
+
+Missing Political Reform Act Compliance Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy lacks reference to Political Reform Act requirements for disclosure of economic interests and potential conflicts of interest that may arise from outside employment, particularly for designated employees.
+
+Legal Basis:
+- Government Code Section 87100: No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest
+
+Required Language:
+Outside employment must comply with Political Reform Act requirements. Designated employees must disclose potential conflicts of interest arising from outside employment on Form 700 statements.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Incompatible Activities Prohibition (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions activities that are "inconsistent, incompatible, or inimical," it doesn't explicitly reference the Government Code prohibition on incompatible activities for public employees.
+
+Legal Basis:
+- Government Code Section 1126: Officers and employees shall not engage in any employment or activity that is inconsistent, incompatible, in conflict with, or inimical to his or her duties as an officer or employee of the agency
+
+Required Language:
+This policy is established in compliance with Government Code Section 1126 regarding incompatible activities for public employees.
+
+Recommended Placement: BP
+
+----------------------------------------
+

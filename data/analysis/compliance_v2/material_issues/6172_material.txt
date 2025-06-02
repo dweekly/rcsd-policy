@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 6172: Gifted And Talented Student Program
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Program Standards and Evaluation Requirements (Confidence: 90%)
+Missing from: BOTH
+While the AR references that the program plan shall be "designed in accordance with state program standards," it does not specify the actual program standards required by 5 CCR 3832 or include provisions for program evaluation and reporting as required by state regulations.
+
+Legal Basis:
+- 5 CCR 3832: Programs for gifted and talented pupils shall be designed to meet program standards including: differentiated curriculum and instruction, ongoing assessment, professional development, and program evaluation.
+
+Required Language:
+The district's gifted and talented program shall meet state program standards including: (1) differentiated curriculum and instruction appropriate to students' needs, (2) ongoing assessment of student progress, (3) professional development for staff, and (4) regular program evaluation. The Superintendent shall annually evaluate program effectiveness and report to the Board.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Appeal Process for Identification Decisions (Confidence: 85%)
+Missing from: BOTH
+The regulation describes the identification process but does not include an appeal or review process for parents who disagree with identification decisions, which is a standard requirement for special programs and due process protections.
+
+Legal Basis:
+- 5 CCR 3825: Districts shall establish procedures for reviewing identification decisions and resolving disagreements regarding student eligibility for gifted and talented programs.
+
+Required Language:
+Parents/guardians may request review of identification decisions. The Superintendent or designee shall establish procedures for reviewing eligibility determinations and resolving disagreements, including timelines for review and notification of decisions.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,78 @@
+{
+  "code": "3471",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3471",
+    "title": "Parcel Taxes",
+    "type": "Policy",
+    "last_reviewed": "06/23/2021",
+    "file_path": "data/extracted/policies/3471.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Procedures for Parcel Tax Implementation",
+        "description": "While the Board Policy establishes the framework for parcel taxes, there is no Administrative Regulation to provide detailed procedures for implementation, including exemption application processes, accountability reporting procedures, and tax collection coordination with the county. The policy references several procedural requirements that need detailed implementation guidance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 50079",
+            "text": "Requires specific procedures for exemption applications and annual coordination with county tax collector regarding exemption information and applications"
+          }
+        ],
+        "required_language": "Administrative procedures should include: (1) Detailed exemption application process and forms, (2) Annual reporting procedures per Government Code 50075.3, (3) Coordination procedures with county tax collector, (4) Public hearing notice requirements, (5) Separate account management procedures for tax proceeds",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Public Hearing Notice Requirements",
+        "description": "The policy mentions \"noticed public hearing\" but does not specify the notice requirements mandated by law, including timing, content, and publication requirements for parcel tax hearings.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 50077",
+            "text": "Requires specific notice procedures for public hearings on parcel tax proposals, including timing and publication requirements"
+          }
+        ],
+        "required_language": "Public hearing notice shall be published at least 10 days prior to the hearing in a newspaper of general circulation within the district, and shall include the time, date, and location of the hearing, the purpose of the proposed tax, and the proposed tax rate.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Annual Reporting Requirements Detail",
+        "description": "While the policy references Government Code 50075.3 annual reporting requirements, it does not specify the detailed content, timing, and publication requirements for these mandatory accountability reports.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 50075.3",
+            "text": "Requires annual report to be filed with the county auditor and made available to the public, detailing the amount of funds collected and expended, and the status of any project required or authorized to be funded"
+          }
+        ],
+        "required_language": "The district shall file an annual report with the county auditor by January 1 of each year, detailing: (1) Amount of funds collected and expended, (2) Status of projects funded by the tax, (3) Any remaining unspent funds. The report shall be made available to the public on the district website.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Federal Poverty Guideline Reference",
+        "description": "The policy references \"2012 federal poverty guideline\" for disability exemption income limits, but this should reference current guidelines or include a mechanism for annual updates.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 50079",
+            "text": "References federal poverty guidelines for income eligibility, which are updated annually"
+          }
+        ],
+        "required_language": "Change \"2012 federal poverty guideline\" to \"current federal poverty guideline\" or \"most recent federal poverty guideline issued by the U.S. Department of Health and Human Services\"",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:27:18.796207+00:00"
+}

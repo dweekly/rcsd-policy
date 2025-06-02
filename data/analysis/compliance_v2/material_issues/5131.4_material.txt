@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5131.4: Student Disturbances
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Mandatory Suspension/Expulsion Requirements for Specific Disturbance Activities (Confidence: 85%)
+Missing from: BOTH
+California Education Code requires specific disciplinary consequences for certain disturbance-related activities. While the policy mentions general disciplinary action and the regulation lists prohibited activities, neither document explicitly addresses the mandatory suspension/expulsion requirements for activities like causing physical injury during a disturbance, possession of weapons during disturbances, or other serious misconduct that may occur during student disturbances.
+
+Legal Basis:
+- Education Code Section 48915: Principal, superintendent of schools, or designee shall recommend expulsion for enumerated offenses including but not limited to causing serious physical injury, possession of weapons, or other violent acts that may occur during disturbances.
+
+Required Language:
+Students who engage in activities during disturbances that fall under Education Code 48900-48900.7 and 48915 shall be subject to suspension and/or expulsion as required by law, including mandatory recommendation for expulsion for serious offenses as specified in Education Code 48915.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Due Process Procedures for Disciplinary Actions (Confidence: 90%)
+Missing from: BOTH
+While both documents reference disciplinary action for students involved in disturbances, neither specifies the due process procedures required before imposing discipline. California law mandates specific procedural safeguards including notice, hearing rights, and appeal processes.
+
+Legal Basis:
+- Education Code Sections 48911, 48918: Students subject to suspension or expulsion are entitled to due process including written notice of charges, right to hearing, right to present evidence and witnesses, and right to appeal.
+
+Required Language:
+Before imposing disciplinary action for participation in student disturbances, students shall be afforded due process rights as specified in Education Code sections 48911 and 48918, including written notice of charges, opportunity for hearing, and right to appeal as outlined in the district's suspension and expulsion policies.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Parent/Guardian Notification Requirements (Confidence: 80%)
+Missing from: BOTH
+Neither document addresses the mandatory requirement to notify parents/guardians when students are involved in disturbances that may result in disciplinary action, particularly when law enforcement is contacted or when suspension/expulsion proceedings may be initiated.
+
+Legal Basis:
+- Education Code Section 48911: Parent or guardian shall be notified in person or by telephone as soon as possible when student is suspended, and written notice shall be provided.
+
+Required Language:
+Parents/guardians shall be notified immediately when their student is involved in a campus disturbance, particularly when law enforcement assistance is requested or disciplinary action may be taken. Notification procedures shall comply with Education Code section 48911 requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3554: Other Food Sales
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Federal Smart Snacks Standards (Confidence: 95%)
+Missing from: BOTH
+The policy and regulation reference outdated California nutritional standards but fail to address federal Smart Snacks in School standards that have been required since 2014. These federal standards apply to all competitive foods sold during the school day and take precedence over state standards where they conflict.
+
+Legal Basis:
+- 7 CFR 210.11(a)(2): All competitive food sold to students on the school campus during the school day must comply with the nutrition standards and portion size requirements set forth in 7 CFR 210.11(a)(2)-(4).
+
+Required Language:
+All competitive foods sold to students on school premises during the school day must comply with the Smart Snacks in School nutrition standards established in 7 CFR 210.11, including general nutrition standards for snack items and entrée items, and beverage standards by grade level.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Wellness Policy Integration Requirement (Confidence: 90%)
+Missing from: BOTH
+Federal law requires that policies on competitive foods be consistent with the district's wellness policy. The documents do not reference or ensure alignment with the local wellness policy as mandated.
+
+Legal Basis:
+- 42 USC 1758b(b)(2)(A): Local educational agencies shall establish a local school wellness policy that includes nutrition guidelines for all foods available on school campus during the school day with the objectives of promoting student health and reducing childhood obesity.
+
+Required Language:
+All food and beverage sales outside the district's food service program shall be consistent with the district's local wellness policy established pursuant to federal law.
+
+Recommended Placement: BP
+
+----------------------------------------
+

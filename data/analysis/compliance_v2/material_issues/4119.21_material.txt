@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4119.21: Professional Standards
+Last Reviewed: 11/20/2019
+================================================================================
+
+Missing Mandatory Reporting Training Requirements (Confidence: 90%)
+Missing from: BOTH
+California law requires specific training on mandatory reporting obligations, but neither the policy nor regulation (which doesn't exist) addresses the required training components, frequency, or documentation requirements for employees regarding their mandatory reporting duties.
+
+Legal Basis:
+- Penal Code Section 11165.7: On or before January 1, 2021, school districts... shall provide training on the mandated reporting requirements... to employees who are mandated reporters.
+
+Required Language:
+All employees who are mandated reporters shall receive training on mandatory reporting requirements within six weeks of initial employment and at least once every two years thereafter. Training shall include identification of child abuse and neglect, reporting procedures, and legal obligations. Documentation of completed training shall be maintained in personnel files.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Commission on Teacher Credentialing Reporting Procedures (Confidence: 85%)
+Missing from: BOTH
+While the policy mentions that certificated employees "may be subject to a report to the Commission on Teacher Credentialing," it lacks the mandatory reporting requirements and specific procedures required by law for certain types of misconduct.
+
+Legal Basis:
+- Education Code Section 44030.5: The governing board of a school district shall report to the Commission on Teacher Credentialing... any change in the employment status of a certificated employee... as a result of an allegation of misconduct.
+
+Required Language:
+The district shall report to the Commission on Teacher Credentialing within 30 days any change in employment status of a certificated employee that results from allegations of misconduct, including resignation, dismissal, non-reelection, or suspension without pay for more than 10 days. Reports shall include all required documentation and follow CTC reporting procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+

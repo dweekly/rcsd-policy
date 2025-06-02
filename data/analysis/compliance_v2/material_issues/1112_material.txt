@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1112: Media Relations
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing FERPA Compliance Language (Confidence: 90%)
+Missing from: BOTH
+The policy lacks specific reference to FERPA (Family Educational Rights and Privacy Act) requirements for protecting student educational records and directory information. While the policy mentions not releasing "private or confidential" information, it doesn't specifically cite FERPA protections or procedures for handling directory information requests from media.
+
+Legal Basis:
+- 20 USC 1232g (FERPA) and Education Code Section 49073: Educational agencies and institutions shall protect the privacy of education records and may disclose directory information only in accordance with FERPA requirements and after providing proper notice to parents.
+
+Required Language:
+All media access to student information shall comply with the Family Educational Rights and Privacy Act (FERPA) and Education Code Section 49073. Directory information may only be released in accordance with the district's annual FERPA notice and opt-out procedures. No personally identifiable information from education records may be disclosed without prior written consent except as permitted by FERPA.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Brown Act Compliance for Media Access to Board Meetings (Confidence: 80%)
+Missing from: BOTH
+While the policy states that media representatives are welcome at Board meetings and shall receive agendas upon request, it lacks specific reference to Brown Act requirements for public meeting access and doesn't address timing requirements for agenda distribution or media accommodation procedures.
+
+Legal Basis:
+- Government Code Section 54950 et seq. (Brown Act): All meetings of a legislative body of a local agency shall be open and public, and all persons shall be permitted to attend unless a closed session is authorized. Agendas must be posted at least 72 hours in advance of regular meetings.
+
+Required Language:
+Media access to Board meetings shall comply with the Ralph M. Brown Act (Government Code Section 54950 et seq.). Meeting agendas shall be provided to media representatives in accordance with Brown Act timing requirements. The district shall reasonably accommodate media representatives consistent with Brown Act provisions for public meeting access.
+
+Recommended Placement: BP
+
+----------------------------------------
+

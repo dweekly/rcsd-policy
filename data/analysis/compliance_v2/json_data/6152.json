@@ -1,0 +1,78 @@
+{
+  "code": "6152",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6152",
+    "title": "Class Assignment",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6152.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Class Assignment Implementation",
+        "description": "California Education Code requires districts to establish procedures for class assignments, but no Administrative Regulation exists to implement the Board Policy. The policy establishes criteria but lacks procedural details for implementation, parent notification processes, and complaint procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: (1) Specific procedures for implementing class assignment criteria; (2) Timeline for class assignments and changes; (3) Process for accepting and considering parent input; (4) Documentation requirements; (5) Appeal/complaint procedures; (6) Staff responsibilities and authority levels.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Nondiscrimination Statement in Class Assignment",
+        "description": "Class assignment policies must include explicit nondiscrimination language to ensure compliance with state and federal civil rights requirements. The current policy lacks any reference to prohibited discrimination in class assignments.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 220",
+            "text": "No person shall be subjected to discrimination on the basis of disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, or any other characteristic that is contained in the definition of hate crimes set forth in Section 422.55 of the Penal Code, including immigration status, in any program or activity conducted by an educational institution that receives, or benefits from, state financial assistance, or enrolls pupils who receive state student financial aid."
+          }
+        ],
+        "required_language": "Class assignments shall be made without regard to the student's actual or perceived disability, gender, gender identity, gender expression, nationality, race or ethnicity, religion, sexual orientation, immigration status, or association with a person or group with one or more of these actual or perceived characteristics.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Reference to Special Education Requirements",
+        "description": "Class assignment policies must address requirements for students with disabilities, including IEP and 504 plan considerations, least restrictive environment principles, and appropriate accommodations in class placement decisions.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 56040.1",
+            "text": "It is the intent of the Legislature that special education programs be designed to meet the unique educational needs of individuals with exceptional needs and that such programs be of sufficient size, scope, and quality to meet the educational needs of such individuals."
+          }
+        ],
+        "required_language": "Class assignments for students with disabilities shall be made in accordance with the student's individualized education program (IEP) or Section 504 plan, ensuring placement in the least restrictive environment appropriate to meet the student's needs.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to English Learner Considerations",
+        "description": "While not explicitly required, best practice and equity considerations suggest that class assignment policies should address the needs of English learners to ensure appropriate placement and support.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 306",
+            "text": "English learner means a child who does not speak English or whose native language is not English and who is not currently able to perform ordinary classroom work in English."
+          }
+        ],
+        "required_language": "Class assignments for English learners shall consider the student's English language proficiency level and ensure access to appropriate instructional support and services.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:32:15.203375+00:00"
+}

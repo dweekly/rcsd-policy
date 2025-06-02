@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 0200: Goals For The School District
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Local Control and Accountability Plan (LCAP) Goals Integration (Confidence: 85%)
+Missing from: BOTH
+California requires school districts to adopt goals that align with their Local Control and Accountability Plan (LCAP). The policy contains general district goals but lacks specific reference to LCAP alignment and the eight state priority areas required for goal-setting.
+
+Legal Basis:
+- Education Code Section 52060: The governing board of a school district shall adopt a local control and accountability plan using a template adopted by the state board... The local control and accountability plan shall include... annual goals, for all pupils and each subgroup of pupils identified pursuant to Section 52052, to be achieved for each of the state priorities.
+
+Required Language:
+District goals shall align with and support the Local Control and Accountability Plan (LCAP) and address the eight state priority areas: basic services, implementation of state standards, parent engagement, student achievement, student engagement, school climate, course access, and other student outcomes.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Outdated Goal Timeline (Confidence: 90%)
+Missing from: BOTH
+The policy contains specific goals with a 2013 deadline that has long passed (policy last updated 2009). This creates compliance issues as the district appears to lack current, measurable goals with realistic timelines.
+
+Legal Basis:
+- Education Code Section 52060(a)(4): The local control and accountability plan shall include... annual goals, for all pupils and each subgroup of pupils... to be achieved for each of the state priorities.
+
+Required Language:
+Goals shall be updated regularly to reflect current timelines and shall include annual measurable outcomes. Specific goal timelines and targets shall be established through the LCAP process and updated annually.
+
+Recommended Placement: BP
+
+----------------------------------------
+

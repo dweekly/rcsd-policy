@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3470: Debt Issuance And Management
+Last Reviewed: 02/14/2018
+================================================================================
+
+Missing Specific Debt Capacity Analysis Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy lacks specific requirements for regular debt capacity analysis and monitoring procedures, which are essential for maintaining fiscal health and compliance with constitutional debt limits.
+
+Legal Basis:
+- California Constitution Article 16, Section 18: No county, city, town, township, board of education, or school district, shall incur any indebtedness or liability in any manner or for any purpose exceeding in any year the income and revenue provided for such year, without the assent of two-thirds of the voters thereof voting at an election to be held for that purpose.
+
+Required Language:
+The district shall conduct annual debt capacity analysis including: assessment of current debt-to-assessed valuation ratios, projected debt service coverage ratios, analysis of remaining legal debt capacity, and evaluation of impact on taxpayers. This analysis shall be presented to the Board annually and used in debt issuance planning.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Arbitrage Compliance Procedures (Confidence: 95%)
+Missing from: BOTH
+The policy does not address federal tax law arbitrage compliance requirements, which are mandatory for tax-exempt debt issuances and can result in significant penalties if not properly managed.
+
+Legal Basis:
+- Internal Revenue Code Section 148: Federal tax law requires issuers of tax-exempt bonds to comply with arbitrage restrictions and rebate requirements to maintain tax-exempt status.
+
+Required Language:
+The district shall establish procedures to ensure compliance with federal arbitrage restrictions including: tracking of bond proceeds and investments, calculation of arbitrage rebate payments when required, filing of required federal tax forms, and engagement of qualified professionals to perform arbitrage calculations and compliance monitoring.
+
+Recommended Placement: AR
+
+----------------------------------------
+

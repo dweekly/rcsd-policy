@@ -1,0 +1,63 @@
+{
+  "code": "4319.22",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4319.22",
+    "title": "Dress And Grooming",
+    "type": "Policy",
+    "last_reviewed": "11/20/2019",
+    "file_path": "data/extracted/policies/4319.22.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for employee dress and grooming standards, there is no Administrative Regulation to provide specific implementation procedures, enforcement mechanisms, or detailed guidelines. This creates a gap in how the policy will be consistently applied across the district.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to include: (1) Specific examples of appropriate professional dress standards; (2) Process for addressing dress code violations; (3) Procedures for requesting accommodations for religious dress/grooming practices; (4) Guidelines for supervisors regarding modified dress approvals; (5) Process for employee notification and training on dress standards; (6) Appeal procedures for dress-related disciplinary actions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Government Code 12926 Hair Discrimination Provisions",
+        "description": "The policy references Government Code 12926 regarding hair texture and protective hairstyles but does not include the complete scope of the CROWN Act protections, which also covers natural hair and traits historically associated with race.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12926(a)(2)",
+            "text": "\"Race\" is inclusive of traits historically associated with race, including, but not limited to, hair texture and protective hairstyles."
+          }
+        ],
+        "required_language": "The district shall not discriminate against employees based on natural hair, hair texture, and protective hairstyles, including traits historically associated with race such as braids, locks, and twists.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Specific Reference to Title VII Accommodation Requirements",
+        "description": "While the policy mentions religious dress and grooming practices under Government Code sections, it lacks explicit reference to federal Title VII requirements for reasonable religious accommodations, which may provide additional protections.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12940(l)",
+            "text": "For an employer or other entity covered by this part to fail to make reasonable accommodation for the known physical or mental disability of an applicant or employee... unless the employer can demonstrate that the accommodation would impose an undue hardship."
+          }
+        ],
+        "required_language": "The district shall provide reasonable accommodations for employees' religious dress and grooming practices unless such accommodation would impose an undue hardship on the district's operations.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:17:08.537682+00:00"
+}

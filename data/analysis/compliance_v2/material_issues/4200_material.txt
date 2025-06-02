@@ -1,0 +1,75 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4200: Classified Personnel
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Merit System Requirements (Confidence: 95%)
+Missing from: BOTH
+California Education Code requires school districts to establish a merit system for classified personnel including competitive selection procedures, probationary periods, and disciplinary procedures. The policy and regulation lack these fundamental merit system components.
+
+Legal Basis:
+- Education Code Section 45240-45320: The governing board of each school district shall establish a merit system of personnel administration for classified employees... The merit system shall include provisions for competitive selection, probationary periods, performance evaluation, disciplinary procedures, and appeals.
+
+Required Language:
+The district shall establish and maintain a merit system for classified personnel that includes competitive selection procedures, probationary periods, performance evaluations, disciplinary procedures, and appeal processes in accordance with Education Code sections 45240-45320.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Physical Examination Requirements (Confidence: 90%)
+Missing from: BOTH
+Education Code requires physical examinations for classified employees. While AR mentions this obligation exists for exempt employees, neither document establishes the requirement for regular classified employees.
+
+Legal Basis:
+- Education Code Section 45122: No person shall be employed in a classified position in any school district unless he has been examined by a physician and surgeon... and found to be free from any contagious or infectious disease and physically and mentally competent to perform his duties.
+
+Required Language:
+All classified employees shall undergo physical examination by a physician and surgeon and be found free from contagious or infectious disease and physically and mentally competent to perform assigned duties prior to employment.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Fingerprinting Requirements (Confidence: 90%)
+Missing from: BOTH
+Education Code mandates fingerprinting for classified employees. While AR references this requirement for exempt employees, it's not established for regular classified personnel.
+
+Legal Basis:
+- Education Code Section 45125: No person shall be employed in a classified position by any school district unless he has had his fingerprints taken and has been cleared by the Department of Justice.
+
+Required Language:
+All classified employees shall submit fingerprints and receive clearance from the Department of Justice prior to employment as required by Education Code section 45125.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Tuberculosis Testing Requirements (Confidence: 85%)
+Missing from: BOTH
+Education Code requires tuberculosis testing for school employees. While AR mentions this for exempt employees, the requirement is not established for regular classified personnel.
+
+Legal Basis:
+- Education Code Section 49406: Each person employed by a school district in a classified or certificated position shall have, prior to the commencement of service, an examination to determine that such person is free of active tuberculosis.
+
+Required Language:
+All classified employees shall undergo tuberculosis examination and be found free of active tuberculosis prior to commencement of service as required by Education Code section 49406.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Probationary Period Specifications (Confidence: 80%)
+Missing from: BOTH
+Education Code requires specific probationary periods for classified employees, but neither document establishes these requirements.
+
+Legal Basis:
+- Education Code Section 45113: The probationary period for a classified employee shall be six months of actual service, except that the probationary period for a classified employee in a supervisory or management position shall be 12 months of actual service.
+
+Required Language:
+Classified employees shall serve a probationary period of six months of actual service, except supervisory or management positions which require 12 months of actual service, during which time performance shall be evaluated and permanent status may be granted.
+
+Recommended Placement: AR
+
+----------------------------------------
+

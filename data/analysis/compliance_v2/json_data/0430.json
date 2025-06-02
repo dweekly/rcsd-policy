@@ -1,0 +1,84 @@
+{
+  "code": "0430",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "0430",
+    "title": "Comprehensive Local Plan For Special Education",
+    "type": "Policy",
+    "last_reviewed": "04/15/2021",
+    "file_path": "data/extracted/policies/0430.txt"
+  },
+  "regulation": {
+    "code": "0430",
+    "title": "Comprehensive Local Plan For Special Education",
+    "type": "Regulation",
+    "last_reviewed": "04/14/2021",
+    "file_path": "data/extracted/regulations/0430.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Community Advisory Committee (CAC) Requirements",
+        "description": "California law requires specific provisions for establishing and operating a Community Advisory Committee for special education. While the policy mentions CAC participation in plan updates, neither document addresses the mandatory establishment, composition, duties, and operational requirements of the CAC.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 56190-56194",
+            "text": "Each special education local plan area shall establish a community advisory committee... The community advisory committee shall be composed of parents of individuals with exceptional needs... The committee shall assist in parent education and in recruiting parents and other volunteers who may contribute to the implementation of the plan."
+          }
+        ],
+        "required_language": "The district shall participate in establishing and maintaining a Community Advisory Committee (CAC) as required by Education Code 56190-56194. The CAC shall be composed of a majority of parents of individuals with exceptional needs, and shall advise the SELPA on the development and implementation of coordinated services for individuals with exceptional needs.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Age Range and Residency Requirements",
+        "description": "While the policy mentions ages 3-21, California law requires specific provisions for individuals from birth through age 21, and clear residency requirements. The regulation mentions \"birth through five years\" but doesn't establish the full birth-21 obligation.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 56026, 56040",
+            "text": "Free appropriate public education means special education and related services... available to all individuals with exceptional needs between the ages of birth to 21 years, inclusive... Each individual with exceptional needs shall have access to services and instruction appropriate to his or her age and needs."
+          }
+        ],
+        "required_language": "The district recognizes its obligation to provide a free appropriate public education to all individuals with disabilities from birth through 21 years of age who reside within the district boundaries, including those in public or private institutions or other care facilities within the district.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Personnel Standards and Credentialing Requirements",
+        "description": "While the regulation mentions personnel qualifications in the local plan elements, neither document establishes the district's commitment to employing appropriately credentialed special education staff as required by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 56058, 56070",
+            "text": "Services for individuals with exceptional needs shall be provided by personnel who meet credential, licensing, and training requirements... No person shall serve individuals with exceptional needs in any capacity unless he or she holds a credential, certificate, permit, or other document equivalent to that which staff in other public agencies are required to hold in the same or similar positions."
+          }
+        ],
+        "required_language": "All personnel providing special education and related services shall hold appropriate credentials, certificates, permits, or other documents as required by Education Code 56058 and 56070. The district shall ensure that special education staff meet all state qualification requirements and receive appropriate professional development.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Timeline for Plan Submission",
+        "description": "The policy states the plan shall be submitted to the Superintendent of Public Instruction but doesn't specify the required timeline. The regulation is more detailed about content but lacks submission deadlines.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 56205",
+            "text": "The local plan shall be submitted to the Superintendent of Public Instruction on or before July 1 of each year in which the plan is adopted or revised."
+          }
+        ],
+        "required_language": "The local plan shall be submitted to the Superintendent of Public Instruction on or before July 1 of each year in which the plan is adopted or revised.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:19:04.534958+00:00"
+}

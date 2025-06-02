@@ -1,0 +1,78 @@
+{
+  "code": "5021",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5021",
+    "title": "Noncustodial Parents",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5021.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the framework for noncustodial parent rights, there is no Administrative Regulation providing specific procedures for staff implementation. This creates a significant gap in how staff should handle day-to-day situations involving noncustodial parents, verification of court orders, and emergency procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49069",
+            "text": "The parent of a pupil has the right to examine any and all pupil records related to his or her child which are maintained by school districts... This section applies to each parent unless a court order, state law, or other legally binding instrument provides to the contrary."
+          }
+        ],
+        "required_language": "Administrative procedures should include: (1) Process for verifying and documenting court orders; (2) Staff training requirements on noncustodial parent rights; (3) Procedures for handling disputes between parents; (4) Emergency contact protocols; (5) Record access procedures; (6) Documentation requirements for restricting access.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Student Records Access Procedures",
+        "description": "Education Code Section 49069 requires specific procedures for noncustodial parent access to student records, including timelines and verification processes. The policy mentions this right generally but lacks implementation details required by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49069(a)(2)",
+            "text": "Access to pupil records shall be granted to the parent within five days of the request... The school district may require reasonable identification of any person requesting to examine pupil records."
+          }
+        ],
+        "required_language": "Noncustodial parents shall be granted access to student records within five (5) days of request, subject to reasonable identification requirements and unless restricted by court order. Procedures for verification of identity and processing requests must be established.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Family Educational Rights and Privacy Act (FERPA) Compliance Language",
+        "description": "Federal FERPA requirements regarding noncustodial parent rights to educational records are not addressed. FERPA provides specific rights to noncustodial parents unless terminated by court order or state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 1232g (FERPA) and Education Code Section 49061",
+            "text": "Parents have the right to inspect and review their child's education records maintained by the school, unless the parent's rights have been legally terminated or a court order specifically revokes these rights."
+          }
+        ],
+        "required_language": "In accordance with FERPA and state law, noncustodial parents retain rights to access educational records unless specifically terminated by court order or state statute. The district shall not require custodial parent consent for noncustodial parent record access unless legally restricted.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Domestic Violence Considerations",
+        "description": "The policy lacks specific guidance on handling situations involving domestic violence or restraining orders, which require special consideration in school settings for student and staff safety.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48906 and Family Code Section 6380",
+            "text": "Schools must consider student safety when restraining orders or domestic violence situations affect school access and must comply with protective orders."
+          }
+        ],
+        "required_language": "When restraining orders or domestic violence situations are involved, the district shall prioritize student safety and strictly comply with all protective orders while maintaining appropriate confidentiality.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:18:20.294546+00:00"
+}

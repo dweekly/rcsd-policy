@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3100: Budget
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Budget Transparency Requirements (Confidence: 85%)
+Missing from: BOTH
+California requires specific budget transparency measures including posting budget documents online and providing detailed financial information in accessible formats. The policy and regulation lack requirements for online posting, website accessibility, and standardized financial reporting formats required for public transparency.
+
+Legal Basis:
+- Government Code 53087.8: Local agencies shall make available on their Internet Web sites their current budget and the prior year's budget, and shall present budget information in a format that allows the public to easily identify and understand the agency's budget priorities.
+
+Required Language:
+The district shall post its current adopted budget and the prior year's budget on the district's website in a format that allows the public to easily identify and understand the district's budget priorities. Budget documents shall remain accessible online throughout the fiscal year.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Interim Financial Reporting Requirements (Confidence: 90%)
+Missing from: BOTH
+Education Code requires districts to file interim financial reports with specific certification levels. The policy mentions budget amendments but lacks the mandatory interim reporting requirements and certification procedures required by state law.
+
+Legal Basis:
+- Education Code 42130-42131: The governing board shall file interim financial reports with the county superintendent of schools that show the district's financial position and that include a certification by the district's chief business official and superintendent regarding the district's ability to meet its financial obligations.
+
+Required Language:
+The Superintendent or designee shall prepare and file interim financial reports as of October 31 and January 31 with the County Superintendent of Schools. Each report shall include certification by the district's chief business official and superintendent regarding the district's ability to meet its financial obligations for the remainder of the fiscal year and the subsequent fiscal year.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Unaudited Actuals Reporting Requirement (Confidence: 95%)
+Missing from: BOTH
+Districts are required by law to file unaudited actual financial reports by specific deadlines. This critical reporting requirement is completely absent from both the policy and regulation.
+
+Legal Basis:
+- Education Code 42100: On or before September 15, the governing board of each school district shall file with the county superintendent of schools a report of the unaudited actual receipts and expenditures of the district for the preceding fiscal year.
+
+Required Language:
+The Superintendent or designee shall prepare and file with the County Superintendent of Schools a report of unaudited actual receipts and expenditures for the preceding fiscal year no later than September 15.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,84 @@
+{
+  "code": "5131.62",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5131.62",
+    "title": "Tobacco",
+    "type": "Policy",
+    "last_reviewed": "02/15/2017",
+    "file_path": "data/extracted/policies/5131.62.txt"
+  },
+  "regulation": {
+    "code": "5131.62",
+    "title": "Tobacco",
+    "type": "Regulation",
+    "last_reviewed": "02/15/2017",
+    "file_path": "data/extracted/regulations/5131.62.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Employee Tobacco Prohibition",
+        "description": "California Education Code requires districts to prohibit tobacco use by employees and other persons on school property and at school-sponsored events. The current policy only addresses student tobacco use but fails to include the mandatory prohibition for employees and other persons on school grounds.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48901(a)",
+            "text": "\"No person shall use tobacco products at any time in a building, structure, or vehicle owned, leased, or rented by, or under the control of, a public school district, county office of education, or charter school.\""
+          }
+        ],
+        "required_language": "No person, including employees, students, visitors, and contractors, shall use tobacco products at any time in any building, structure, or vehicle owned, leased, rented by, or under the control of the district, or at any school-sponsored event or activity.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Enforcement and Disciplinary Procedures",
+        "description": "The policy mentions \"consistent enforcement\" but neither document provides specific procedures for enforcement, disciplinary actions, or consequences for violations by students, employees, or other persons. This is required for effective implementation of the tobacco-free policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48900(h)",
+            "text": "A pupil may be suspended or expelled for possessing or using tobacco or products containing tobacco or nicotine products."
+          }
+        ],
+        "required_language": "Students who violate this policy may be subject to disciplinary action including suspension or expulsion as provided in Education Code 48900(h). Employees who violate this policy shall be subject to disciplinary action up to and including termination. Visitors and contractors who violate this policy may be asked to leave district property.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Signage Requirements",
+        "description": "California law requires school districts to post appropriate signage indicating tobacco-free zones. Neither the policy nor regulation addresses the mandatory posting of no-smoking/tobacco-free signs on school property.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48901(c)",
+            "text": "Each public school district, county office of education, and charter school shall prominently display signs at all entrances to school buildings stating that smoking and the use of tobacco products are prohibited."
+          }
+        ],
+        "required_language": "The district shall prominently display signs at all entrances to school buildings and on school grounds stating that smoking and the use of tobacco products are prohibited. Signs shall include information about applicable penalties for violations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Legal References",
+        "description": "The policy references Business and Professions Code 22950.5 for definitions, but this section has been updated since 2017. The definitions should be verified against current law to ensure they remain comprehensive and accurate.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Business and Professions Code Section 22950.5",
+            "text": "Definitions of smoking and tobacco products have been expanded to include additional electronic devices and products."
+          }
+        ],
+        "required_language": "Review and update definitions to align with current Business and Professions Code Section 22950.5 and Education Code Section 48901 as amended.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:22:38.718561+00:00"
+}

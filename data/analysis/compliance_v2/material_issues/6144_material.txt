@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6144: Controversial Issues
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Parent Notification Requirements (Confidence: 85%)
+Missing from: BOTH
+California Education Code requires districts to establish procedures for notifying parents when controversial issues will be discussed in class. Neither the BP nor AR contains any provision for parent notification, which is a statutory requirement that protects parental rights in education.
+
+Legal Basis:
+- Education Code Section 51513: No teacher shall give instruction and no school district shall sponsor any activity which reflects adversely upon persons because of their race, sex, color, creed, handicap, national origin, or ancestry. However, this section shall not restrict the presentation of the facts of history or the discussion of controversial issues which may have political, economic, or social significance if such instruction or activities do not reflect adversely upon persons because of their race, sex, color, creed, handicap, national origin, or ancestry, and if such presentations are made in a balanced manner.
+
+Required Language:
+The district shall establish procedures to notify parents/guardians in advance when controversial issues will be discussed in their child's classroom, providing reasonable opportunity for parents to review materials and request alternative assignments if desired.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Complaint Process (Confidence: 90%)
+Missing from: BOTH
+The policy lacks a clear process for handling complaints or concerns from parents, students, or community members regarding the presentation of controversial issues. This is essential for due process and accountability.
+
+Legal Basis:
+- Education Code Section 35146: The governing board of any school district shall prescribe and enforce rules not inconsistent with law or with the rules prescribed by the State Board of Education, for its own government and the government of the schools under its jurisdiction.
+
+Required Language:
+Any complaint regarding the presentation of controversial issues shall be addressed through the district's uniform complaint procedures as outlined in BP/AR 1312.3. Parents, students, or community members may file complaints with the principal or superintendent regarding alleged violations of this policy.
+
+Recommended Placement: AR
+
+----------------------------------------
+

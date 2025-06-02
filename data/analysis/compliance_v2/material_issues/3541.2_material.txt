@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3541.2: Transportation For Students With Disabilities
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Safety and Emergency Procedures for Students with Disabilities (Confidence: 85%)
+Missing from: BOTH
+California law requires specific safety protocols and emergency evacuation procedures for students with disabilities during transportation. Neither the BP nor AR addresses safety requirements, emergency procedures, or staff training for transporting students with disabilities.
+
+Legal Basis:
+- Education Code Section 39831.5: The governing board of any school district maintaining any school bus shall establish emergency evacuation procedures for pupils who are transported and who may need assistance in the event of an emergency, including, but not limited to, pupils with disabilities.
+
+Required Language:
+The district shall establish emergency evacuation procedures for students with disabilities who are transported and who may need assistance in the event of an emergency. These procedures shall address the specific needs of students with various types of disabilities and ensure appropriate staff training.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Driver and Aide Training Requirements (Confidence: 90%)
+Missing from: BOTH
+Federal and state law requires specific training for personnel transporting students with disabilities. Neither document addresses mandatory training requirements for drivers and aides working with students with disabilities.
+
+Legal Basis:
+- Education Code Section 56001(a): It is the intent of the Legislature that all individuals with exceptional needs have access to the programs and services necessary to meet their educational needs... including appropriate training of personnel.
+
+Required Language:
+All drivers and aides transporting students with disabilities shall receive appropriate training regarding the specific needs of students with disabilities, proper use of safety equipment, emergency procedures, and behavior management techniques. Training shall be provided before assignment and updated regularly.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Transportation Safety Equipment Requirements (Confidence: 80%)
+Missing from: BOTH
+State law requires specific safety equipment and securement systems for students with disabilities. While the BP mentions "compatibility between mobile seating devices and bus securement systems," neither document provides comprehensive safety equipment requirements.
+
+Legal Basis:
+- Education Code Section 39831.3: Pupils who use wheelchairs and who are transported in school buses shall be secured by wheelchair securement systems and occupant restraint systems that meet federal standards.
+
+Required Language:
+Students who use wheelchairs and are transported in school buses shall be secured by wheelchair securement systems and occupant restraint systems that meet applicable federal standards. All safety equipment shall be regularly inspected and maintained according to manufacturer specifications and applicable regulations.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Parent Notification and Consent Procedures (Confidence: 75%)
+Missing from: BOTH
+Neither document addresses required parent notification procedures regarding transportation services, changes to transportation, or consent requirements for certain transportation arrangements for students with disabilities.
+
+Legal Basis:
+- Education Code Section 56341.1(f)(1): The individualized education program team shall consider... whether the child requires assistive technology devices and services... [and] in the case of a child whose behavior impedes his or her learning or that of others, consider, when appropriate, strategies, including positive behavioral interventions, strategies, and supports to address that behavior.
+
+Required Language:
+Parents/guardians shall be notified of transportation arrangements and any changes to transportation services. Written consent may be required for certain specialized transportation arrangements. Parents/guardians shall be informed of their rights regarding transportation services and dispute resolution procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+

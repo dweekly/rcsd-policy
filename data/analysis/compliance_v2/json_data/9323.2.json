@@ -1,0 +1,63 @@
+{
+  "code": "9323.2",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9323.2",
+    "title": "Actions By The Board",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9323.2.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Board Actions Implementation",
+        "description": "While the Board Policy establishes the framework for board actions, there is no corresponding Administrative Regulation to provide implementation procedures. Given the complexity of board action requirements, procedural guidance is essential for proper compliance with Brown Act and Education Code requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35164, Government Code 54950 et seq.",
+            "text": "Board actions must comply with specific procedural requirements under the Brown Act and Education Code, requiring clear implementation procedures."
+          }
+        ],
+        "required_language": "Administrative procedures should include: vote counting and recording procedures, emergency action protocols, agenda item identification processes, meeting minute documentation standards, and cure and correct demand processing procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009, which is over 14 years ago. While not legally mandated, regular policy review ensures continued compliance with evolving legal requirements and best practices.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "Boards have authority to establish policies and should ensure they remain current and effective."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and best practices, with regular review schedule established.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Remote Participation Options",
+        "description": "The policy does not address remote participation by board members, which has become increasingly relevant. While not required for all districts, clarification of remote participation policies helps ensure compliance when utilized.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54953(b)(3)",
+            "text": "Provides conditions under which board members may participate remotely in meetings while maintaining compliance with Brown Act requirements."
+          }
+        ],
+        "required_language": "If the district allows remote participation, policy should specify conditions and procedures consistent with Government Code 54953(b)(3) requirements for teleconferencing and remote participation.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:41:03.477471+00:00"
+}

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 1312.4: Williams Uniform Complaint Procedures
+Last Reviewed: 01/22/2020
+================================================================================
+
+Missing Board Authority and Responsibility Statement (Confidence: 90%)
+Missing from: BOTH
+Neither document contains the required board-level policy statement establishing the governing board's authority and responsibility for ensuring compliance with Williams Act requirements. This foundational policy direction is required to be established at the board level.
+
+Legal Basis:
+- Education Code 35186(a): It is the intent of the Legislature that the governing board of each school district take all actions necessary to ensure that each pupil in each school has sufficient textbooks and instructional materials that are aligned to the academic content standards.
+
+Required Language:
+The Board of Education is committed to ensuring that each student has sufficient textbooks and instructional materials aligned to academic content standards, is taught by appropriately credentialed teachers, and attends school in facilities that are clean, safe, and functional as required by Education Code 35186.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Annual Board Notification Requirement (Confidence: 85%)
+Missing from: BOTH
+Neither document addresses the required annual notification to the board regarding Williams complaint procedures and the board's ongoing responsibilities. This is a board-level policy requirement that should be established in the BP.
+
+Legal Basis:
+- Education Code 35186(d): The governing board shall annually review the sufficiency of instructional materials and the condition of school facilities.
+
+Required Language:
+The Board shall annually review the sufficiency of instructional materials and the condition of school facilities. The Superintendent shall provide an annual report to the Board regarding Williams complaints received and resolved during the previous year.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,78 @@
+{
+  "code": "1321",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1321",
+    "title": "Solicitation Of Funds From And By Students",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1321.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 51520 requires specific procedures for charitable solicitations, but no Administrative Regulation exists to provide implementation details. The Board Policy establishes the framework but lacks the procedural \"how-to\" requirements mandated by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 51520",
+            "text": "The governing board of each school district shall adopt rules and regulations governing solicitations by charitable organizations in the schools of the district."
+          }
+        ],
+        "required_language": "Administrative procedures detailing: application process for charitable organizations, approval criteria, documentation requirements, supervision procedures during solicitations, and complaint procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Required Application and Documentation Procedures",
+        "description": "Education Code 51520 requires specific application procedures for charitable organizations seeking to solicit students, but neither the BP nor AR contains these procedural requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 51520(b)",
+            "text": "Any organization desiring to make solicitations shall make application to the governing board or its designee and shall furnish evidence of the charitable nature and financial responsibility of the organization."
+          }
+        ],
+        "required_language": "Procedures requiring charitable organizations to: (1) submit formal applications to the Superintendent or designee, (2) provide evidence of charitable nature and financial responsibility, (3) submit required documentation before approval.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Supervision Requirements During Solicitations",
+        "description": "Education Code requires that solicitations be conducted under school supervision, but neither document specifies supervision procedures or requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 51520(c)",
+            "text": "All solicitations shall be made under the supervision of the school authorities."
+          }
+        ],
+        "required_language": "Procedures requiring that all charitable solicitations be conducted under direct supervision of designated school personnel, including specification of supervision responsibilities and oversight requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Approval Criteria",
+        "description": "While the policy requires prior approval, it lacks specific criteria for evaluating charitable organizations, which would help ensure consistent application and legal compliance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 51520(b)",
+            "text": "shall furnish evidence of the charitable nature and financial responsibility of the organization"
+          }
+        ],
+        "required_language": "Specific criteria for evaluating applications including: verification of nonprofit status, assessment of financial responsibility, review of charitable purposes, and alignment with educational objectives.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:22:11.427908+00:00"
+}

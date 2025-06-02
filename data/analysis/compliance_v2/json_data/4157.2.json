@@ -1,0 +1,63 @@
+{
+  "code": "4157.2",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4157.2",
+    "title": "Ergonomics",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4157.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy for Ergonomics Program",
+        "description": "California requires school districts to have an ergonomics program when specific conditions are met. While the Administrative Regulation contains detailed implementation procedures, there is no corresponding Board Policy establishing the district's commitment to ergonomics and employee safety. Board policies typically establish the \"what\" and \"why\" - the district's position on protecting employees from repetitive motion injuries and the authority for implementing such programs.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "8 CCR 5110",
+            "text": "Requires employers to implement ergonomics programs to minimize repetitive motion injuries when specified conditions are met, including worksite evaluation, control of exposures, and training components."
+          }
+        ],
+        "required_language": "The Board recognizes its responsibility to provide a safe working environment for all employees and is committed to minimizing the risk of repetitive motion injuries (RMIs). The district shall implement an ergonomics program as required by law when conditions warrant such implementation. The Superintendent or designee is authorized to develop and maintain procedures for ergonomics program implementation, worksite evaluation, exposure control, and employee training in accordance with applicable regulations.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Outdated Regulatory Reference Date",
+        "description": "The Administrative Regulation references a specific start date of July 3, 1997, for the 12-month period calculation. This appears to be the original effective date of the regulation but may cause confusion in ongoing implementation. Current practice should reference a rolling 12-month period from any given date rather than a fixed historical date.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "8 CCR 5110",
+            "text": "Requires implementation of ergonomics program when two or more RMIs from identical work activity have been reported within a 12-month period, but does not specify a fixed start date for ongoing compliance."
+          }
+        ],
+        "required_language": "The 12-month period should be clarified as \"within any 12-month period\" rather than referencing the specific date of July 3, 1997, to ensure ongoing compliance monitoring.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Record Keeping and Documentation Requirements",
+        "description": "While the regulation addresses the core components of an ergonomics program, it lacks specific provisions for record keeping, documentation of injuries, program evaluation, and reporting requirements that would typically be expected for comprehensive compliance with workplace safety regulations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "8 CCR 5110",
+            "text": "Ergonomics program requirements imply the need for documentation and record keeping to track RMIs, evaluate program effectiveness, and demonstrate compliance."
+          }
+        ],
+        "required_language": "The district shall maintain records of all reported repetitive motion injuries, document worksite evaluations, track corrective actions taken, and maintain training records. The program shall be periodically reviewed and updated as necessary to ensure continued effectiveness.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:13:07.438989+00:00"
+}

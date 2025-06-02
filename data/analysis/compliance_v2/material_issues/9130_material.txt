@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 9130: Board Committees
+Last Reviewed: 01/28/2009
+================================================================================
+
+Missing Committee Composition and Appointment Procedures (Confidence: 85%)
+Missing from: BOTH
+The policy lacks specific procedures for how committee members are appointed, terms of service, and composition requirements. While the policy states the Board "may establish" committees and "shall determine duties," it provides no guidance on the appointment process, qualifications, or structural requirements for committee membership.
+
+Legal Basis:
+- Government Code 54952: Defines legislative body composition and requires clear establishment of committee structure and membership
+
+Required Language:
+Procedures for appointing committee members, including: selection criteria, terms of service, number of members, and process for filling vacancies. For committees including non-Board members, establish application and selection procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+

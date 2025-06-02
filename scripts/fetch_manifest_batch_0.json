@@ -1,0 +1,51 @@
+{
+  "batch_number": 0,
+  "generated": "2025-06-01T21:54:06.419930+00:00",
+  "commands": [
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1031&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1031 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "1031",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1031_full.json"
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1032&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1032 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "1032",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1032_full.json"
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1033&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1033 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "1033",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1033_full.json"
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10525&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 10525 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "10525",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_10525_full.json"
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1090&lawCode=EDC",
+      "prompt": "Extract the complete text of EDC section 1090 regarding . Include all subdivisions, requirements, and the effective date.",
+      "section": "1090",
+      "law_code": "EDC",
+      "description": "",
+      "output_file": "data/cache/edcode/edc_1090_full.json"
+    }
+  ],
+  "instructions": [
+    "Use WebFetch to retrieve each section",
+    "Save the content to the specified output_file",
+    "Use the standard JSON format with section, content, title, law_code, url, fetched, verified_by fields"
+  ]
+}

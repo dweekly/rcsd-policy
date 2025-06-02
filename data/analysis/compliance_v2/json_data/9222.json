@@ -1,0 +1,63 @@
+{
+  "code": "9222",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9222",
+    "title": "Resignation",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9222.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Vacancy Filling Procedures",
+        "description": "While the policy addresses the resignation process itself, it lacks guidance on the procedures for filling the vacancy created by resignation. Education Code 5091 requires specific procedures for appointing replacements or calling special elections when board member vacancies occur.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 5091",
+            "text": "The governing board may appoint a person to fill the vacancy. The appointment shall be made at a meeting of the governing board. If the governing board fails to make an appointment within 60 days of the date the position becomes vacant, or within 60 days of the effective date of the resignation if the resignation specifies a deferred effective date, the county superintendent of schools shall make the appointment."
+          }
+        ],
+        "required_language": "When a vacancy occurs due to resignation, the Board may appoint a qualified person to fill the vacancy within 60 days. If the Board fails to make an appointment within this timeframe, the County Superintendent of Schools shall make the appointment. The appointed member shall serve until the next regular board election.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Notification Procedures",
+        "description": "The policy does not specify internal notification procedures when a resignation is received, such as notifying other board members, staff, or the public. While not legally mandated, this is a common administrative practice that ensures proper communication.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35145",
+            "text": "The governing board of each school district shall provide for public notice and comment at board meetings as required by the Ralph M. Brown Act."
+          }
+        ],
+        "required_language": "Upon receipt of a resignation, the Board secretary shall notify all board members and the superintendent. The resignation shall be announced at the next regular board meeting in accordance with Brown Act requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Qualification Requirements for Appointees",
+        "description": "The policy does not reference the qualification requirements that must be met by any person appointed to fill a vacancy created by resignation, though these requirements exist in Education Code.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35107",
+            "text": "Each person elected or appointed as a member of the governing board of a school district shall meet the qualifications required of such members by law at the time he or she takes the oath of office."
+          }
+        ],
+        "required_language": "Any person appointed to fill a vacancy must meet all qualification requirements specified in Education Code 35107, including residency requirements and any other legal qualifications for board membership.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:39:45.383707+00:00"
+}

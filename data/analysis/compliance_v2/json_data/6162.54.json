@@ -1,0 +1,93 @@
+{
+  "code": "6162.54",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6162.54",
+    "title": "Test Integrity/Test Preparation",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6162.54.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Test Integrity Implementation",
+        "description": "The Board Policy establishes requirements for test integrity but lacks a corresponding Administrative Regulation to provide detailed implementation procedures. California law requires specific procedures for investigating testing irregularities, reporting protocols, disciplinary processes, and staff training requirements that are typically detailed in administrative regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60615",
+            "text": "The governing board of each school district shall adopt policies and procedures to ensure test security and to address testing irregularities."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: detailed investigation procedures for testing irregularities, specific reporting timelines and protocols to CDE, staff training requirements on test security, documentation requirements for testing violations, and specific disciplinary procedures for different types of violations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Investigation Timeline Requirements",
+        "description": "While the policy states investigations shall be conducted \"immediately\" and \"with due diligence,\" it lacks specific timelines required by state regulations for reporting testing irregularities to the California Department of Education.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 850",
+            "text": "Testing irregularities must be reported to the state within specific timeframes to ensure proper investigation and remediation."
+          }
+        ],
+        "required_language": "Testing irregularities on state assessments must be reported to the California Department of Education within [specific timeframe as required by current CDE guidelines], and initial investigation must commence within 24 hours of discovery.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Staff Training Requirements",
+        "description": "The policy lacks requirements for mandatory staff training on test security and integrity procedures, which is essential for preventing violations and ensuring compliance with state testing requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60615",
+            "text": "School districts must ensure all staff involved in test administration receive appropriate training on test security procedures."
+          }
+        ],
+        "required_language": "All staff involved in test administration shall receive annual training on test security procedures, appropriate test preparation methods, and consequences of testing irregularities. Training records shall be maintained and available for audit.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Documentation and Record-Keeping Requirements",
+        "description": "The policy does not specify requirements for documenting testing irregularities, maintaining investigation records, or preserving evidence, which are necessary for proper accountability and potential legal proceedings.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 850",
+            "text": "Districts must maintain proper documentation of all testing irregularities and investigations for audit and compliance purposes."
+          }
+        ],
+        "required_language": "All testing irregularities and investigations shall be documented in writing, including dates, individuals involved, evidence collected, actions taken, and outcomes. Records shall be maintained for a minimum of three years and made available to state auditors upon request.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Assessment Program References",
+        "description": "The policy references outdated assessment programs including \"Standardized Testing and Reporting program\" and \"California High School Exit Examination\" which have been replaced by current state assessment systems.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60640",
+            "text": "Current state assessment system includes California Assessment of Student Performance and Progress (CAASPP) and other state-mandated assessments."
+          }
+        ],
+        "required_language": "References should be updated to reflect current state assessment programs including the California Assessment of Student Performance and Progress (CAASPP), California Science Test (CAST), and other state-mandated assessments.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:33:40.820579+00:00"
+}

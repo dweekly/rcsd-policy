@@ -1,0 +1,63 @@
+{
+  "code": "5127",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5127",
+    "title": "Graduation Ceremonies And Activities",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5127.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy establishes the framework for graduation ceremonies but lacks corresponding Administrative Regulation detailing implementation procedures. California school districts typically require AR to specify operational details such as ceremony planning, venue requirements, student eligibility verification processes, appeals procedures for denied participation, and coordination of honors/awards programs.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51225.3",
+            "text": "Requires districts to establish procedures for determining graduation requirements and student completion"
+          }
+        ],
+        "required_language": "Administrative Regulation should include: procedures for verifying student completion of graduation requirements; timeline for ceremony planning; appeals process for students denied participation; coordination procedures for honors and awards; and venue/logistics requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Due Process Procedures for Denial of Participation",
+        "description": "While the policy mentions that students must be given notice and opportunity to respond before being denied participation in graduation ceremonies, it lacks specific procedural requirements for due process, including timelines, hearing procedures, and appeal rights that meet constitutional standards.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48900 et seq.",
+            "text": "Establishes due process requirements for disciplinary actions affecting student privileges"
+          }
+        ],
+        "required_language": "Specific procedures must include: written notice at least 5 days prior to ceremony; specific grounds for denial; opportunity for informal hearing; right to representation; timeline for appeals; and designation of appeal authority.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Diploma Withholding vs. Ceremony Participation",
+        "description": "The policy does not clearly distinguish between withholding a diploma (which requires meeting academic requirements) and denying participation in graduation ceremonies (which may be based on disciplinary reasons). This distinction is important for legal clarity.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51225.3",
+            "text": "Specifies requirements for earning a diploma based on academic completion"
+          }
+        ],
+        "required_language": "Policy should clarify that denial of ceremony participation does not affect the student's right to receive their diploma if academic requirements are met, and that diploma withholding is governed by separate academic standards.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:21:20.407557+00:00"
+}

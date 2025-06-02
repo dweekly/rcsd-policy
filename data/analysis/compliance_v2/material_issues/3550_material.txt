@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3550: Food Service/Child Nutrition Program
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Free and Reduced-Price Meal Program Application and Eligibility Procedures (Confidence: 85%)
+Missing from: BOTH
+California law requires districts to establish procedures for determining student eligibility for free and reduced-price meals, including application processes, income verification, and confidentiality protections. Neither the policy nor regulation addresses these mandatory procedural requirements.
+
+Legal Basis:
+- Education Code Section 49510-49520: The governing board of each school district shall provide for the determination of the eligibility of pupils for free or reduced-price meals... The governing board shall establish procedures for the receipt and processing of applications for free and reduced-price meals.
+
+Required Language:
+The district shall establish procedures for determining student eligibility for free and reduced-price meals, including application processes, income verification standards, appeal procedures, and confidentiality protections in accordance with federal and state requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Meal Charge and Debt Collection Policy (Confidence: 90%)
+Missing from: BOTH
+California law requires districts to adopt policies regarding meal charges when students cannot pay and debt collection procedures. This includes provisions for alternative meals and prohibitions on meal shaming practices.
+
+Legal Basis:
+- Education Code Section 49557.5: A school district, county office of education, or charter school that participates in the National School Lunch Program... shall not publicly identify or stigmatize any pupil who cannot pay for a meal or who owes a school meal debt.
+
+Required Language:
+The district shall not publicly identify or stigmatize students who cannot pay for meals or owe meal debt. Procedures shall be established for handling unpaid meal charges that protect student dignity and ensure continued access to nutrition.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Wellness Policy Integration Requirements (Confidence: 75%)
+Missing from: BOTH
+Federal law requires that food service operations align with the district's wellness policy. Neither document references this integration requirement or addresses how nutrition education connects to food service.
+
+Legal Basis:
+- 42 USC 1758b (Child Nutrition Act): Local educational agencies shall establish a local school wellness policy that includes nutrition guidelines for all foods available on school campus during the school day with the objectives of promoting student health and reducing childhood obesity.
+
+Required Language:
+The district's food service program shall align with and support the district's wellness policy. Food service operations shall coordinate with nutrition education programs to promote consistent health messages.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,63 @@
+{
+  "code": "9321.1",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9321.1",
+    "title": "Closed Session Actions And Reports",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9321.1.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes what closed session actions must be reported and the legal requirements, there is no Administrative Regulation providing specific procedures for how staff should implement these reporting requirements. This creates a gap in operational guidance for ensuring consistent compliance with complex Government Code requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54957.1, 54957.7",
+            "text": "These sections establish detailed procedural requirements for closed session reporting that require specific implementation procedures to ensure compliance."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: procedures for preparing closed session reports, timing requirements for disclosures, staff responsibilities for tracking actions requiring reports, templates or formats for different types of reports, and procedures for handling inquiries about finalized agreements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Government Code 54963 - Audio Recording Requirements",
+        "description": "The policy does not address the requirement that closed sessions be audio recorded and the procedures for maintaining and potentially disclosing these recordings under specific circumstances.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54963",
+            "text": "Requires legislative bodies to make audio recordings of closed sessions and establishes procedures for their retention and potential disclosure."
+          }
+        ],
+        "required_language": "Closed sessions shall be audio recorded as required by Government Code 54963. The recordings shall be retained and may be subject to disclosure under the circumstances specified in that section.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Legal Citation Format",
+        "description": "The policy references \"20 USC 1232\" which appears to be an incomplete citation. The current federal student privacy law is typically cited as 20 USC 1232g (FERPA).",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "20 USC 1232g",
+            "text": "Family Educational Rights and Privacy Act (FERPA) governs student privacy rights and should be properly cited."
+          }
+        ],
+        "required_language": "Change citation from \"20 USC 1232)\" to \"20 USC 1232g\" and remove the extra closing parenthesis.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:40:47.923900+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "code": "6142.92",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6142.92",
+    "title": "Mathematics Instruction",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6142.92.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing California Mathematics Content Standards Adoption",
+        "description": "California law requires school districts to adopt the state-adopted mathematics content standards. The policy mentions establishing \"specific content and performance standards\" but does not explicitly reference adoption of California's state mathematics standards as required by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60605",
+            "text": "The governing board of each school district shall adopt the state board adopted content standards in mathematics, English language arts, history-social science, and science."
+          }
+        ],
+        "required_language": "The Board adopts the state-adopted content standards in mathematics as established by the State Board of Education.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Administrative Regulation Document",
+        "description": "The policy establishes broad mathematics instruction requirements but lacks an accompanying administrative regulation to specify implementation procedures. Given the complexity of mathematics instruction requirements, procedural guidance is essential for compliance and effective implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51220",
+            "text": "The adopted course of study for grades 1 to 6, inclusive, shall include mathematics, including instruction designed to develop mathematical understandings, operational skills, and insight into problem-solving procedures."
+          }
+        ],
+        "required_language": "Administrative regulation should include: procedures for curriculum implementation, assessment methods, intervention strategies for struggling students, professional development requirements, and instructional material selection criteria.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mathematics Instructional Minutes Requirements",
+        "description": "California requires specific minimum instructional minutes for mathematics instruction, but the policy does not address time allocation requirements to ensure compliance with state mandates.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51210",
+            "text": "The adopted course of study for grades 1 to 6, inclusive, shall include mathematics. The instruction shall be designed to develop mathematical understandings, operational skills, and insight into problem-solving procedures."
+          }
+        ],
+        "required_language": "Mathematics instruction shall meet or exceed the minimum instructional minutes required by state law and shall be allocated sufficient time to ensure mastery of content standards.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Assessment and Progress Monitoring Procedures",
+        "description": "While the policy mentions students at risk of failing to meet performance standards shall receive assistance, it lacks specific requirements for assessment, progress monitoring, and data-driven instruction as required for effective mathematics programs.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60640",
+            "text": "Pupils shall be assessed in mathematics using assessments aligned with the content standards adopted pursuant to Section 60605."
+          }
+        ],
+        "required_language": "Student progress in mathematics shall be regularly assessed using standards-aligned assessments, with results used to inform instruction and identify students needing additional support or intervention.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2010, which predates significant changes to California mathematics standards including the adoption of Common Core State Standards and the California Mathematics Framework updates. While not legally non-compliant, the age suggests potential gaps in current requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60605.8",
+            "text": "The state board shall adopt mathematics content standards that are rigorous, internationally benchmarked, and aligned with college and career readiness standards."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current state mathematics standards and framework requirements.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:31:11.665355+00:00"
+}

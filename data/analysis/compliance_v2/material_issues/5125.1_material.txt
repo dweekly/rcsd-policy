@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5125.1: Release Of Directory Information
+Last Reviewed: 11/20/2019
+================================================================================
+
+Missing Annual Notification Timeline Requirements (Confidence: 85%)
+Missing from: BOTH
+Federal regulations require that the annual notification to parents about directory information must be given at the beginning of each school year AND must specify a reasonable period of time for parents to notify the district if they object to disclosure. While the AR mentions notification "at the beginning of each school year" and references "the period of time within which a parent/guardian must notify the district," it fails to specify what constitutes a reasonable timeframe for parent response.
+
+Legal Basis:
+- 34 CFR 99.37(a)(2): The notice must specify a reasonable period of time, not to exceed ten school days, within which a parent or eligible student may inform the agency or institution that any or all of the information designated should not be disclosed without the parent's or eligible student's prior written consent.
+
+Required Language:
+Parents/guardians shall have ten (10) school days from the date of notification to inform the district in writing that they do not want any or all categories of directory information disclosed without their prior written consent.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Record-Keeping Requirements for Directory Information Disclosures (Confidence: 95%)
+Missing from: BOTH
+Neither the policy nor regulation addresses the requirement to maintain records of directory information disclosures to certain entities. Federal law requires educational agencies to maintain records of disclosures for certain types of releases.
+
+Legal Basis:
+- 34 CFR 99.32(a): An educational agency or institution must maintain a record of each request for access to and each disclosure of personally identifiable information from the education records of each student.
+
+Required Language:
+The district shall maintain a record of directory information disclosures that includes: the name of the requesting party, the date of disclosure, the specific information disclosed, and the legitimate educational interest or other basis for the disclosure.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,84 @@
+{
+  "code": "4115",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4115",
+    "title": "Evaluation/Supervision",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4115.txt"
+  },
+  "regulation": {
+    "code": "4115",
+    "title": "Evaluation/Supervision",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4115.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Peer Assistance and Review Program Requirements",
+        "description": "The regulation mentions that employees with unsatisfactory ratings must participate in the peer assistance and review program, but fails to include the mandatory establishment and operational requirements for such programs. Districts must either establish their own PAR program or participate in a joint program, with specific governance, funding, and procedural requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44500-44508",
+            "text": "Every school district shall establish a peer assistance and review program for certificated employees or participate in a peer assistance and review program operated jointly by multiple employers... The program shall include specific procedures for the selection of consulting teachers, training requirements, and evaluation processes."
+          }
+        ],
+        "required_language": "The district shall establish and maintain a peer assistance and review program in accordance with Education Code 44500-44508, including procedures for selecting consulting teachers, training requirements, program governance through a joint panel of teachers and administrators, and funding mechanisms. The program shall provide assistance to participating teachers and conduct evaluations as required by law.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Evaluation Timeline for Probationary Teachers",
+        "description": "While the regulation states probationary teachers must be evaluated annually, it fails to specify the mandatory timeline requirements for when these evaluations must be completed and communicated, which differs from permanent employees.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44664",
+            "text": "The performance of each probationary employee shall be evaluated and assessed at least once each school year... The evaluation shall be completed and a copy provided to the employee by March 15 for employees whose contracts would otherwise be renewed for the subsequent school year."
+          }
+        ],
+        "required_language": "Probationary certificated employees shall receive a written copy of their evaluation by March 15 for employees whose contracts would otherwise be renewed for the subsequent school year. A meeting to discuss the evaluation must occur before the evaluation is filed.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Notice Requirements for Unsatisfactory Performance",
+        "description": "The regulation lacks specific procedural requirements for providing notice of unsatisfactory performance, including timing, content requirements, and employee rights during the improvement process.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44938, 44664",
+            "text": "Before dismissing a permanent employee for unsatisfactory performance, the employee must be given written notice of specific instances of unsatisfactory performance and provided reasonable time to correct deficiencies. The notice must include specific recommendations for improvement and offer of assistance."
+          }
+        ],
+        "required_language": "Written notice of unsatisfactory performance shall include: (1) specific instances of unsatisfactory performance with dates and details, (2) specific standards or expectations not being met, (3) specific recommendations for improvement, (4) offer of assistance and resources available, (5) timeline for improvement, and (6) consequences of failure to improve. The employee shall have the right to respond to such notices and to representation during improvement conferences.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Collective Bargaining Agreement Integration",
+        "description": "While the policy mentions negotiated contracts, it should more clearly establish how collective bargaining agreements integrate with or modify evaluation procedures.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44664, Government Code 3543.2",
+            "text": "Evaluation procedures are subject to collective bargaining, and districts must negotiate in good faith regarding evaluation criteria and procedures that are within the scope of representation."
+          }
+        ],
+        "required_language": "Evaluation procedures shall be implemented in accordance with applicable collective bargaining agreements. Where conflicts exist between this policy and negotiated agreements, the collective bargaining agreement shall prevail to the extent permitted by law.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:34:49.149012+00:00"
+}

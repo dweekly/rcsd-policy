@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3250: Transportation Fees
+Last Reviewed: 05/24/2023
+================================================================================
+
+Missing Notice and Hearing Requirements for Transportation Fee Adoption (Confidence: 85%)
+Missing from: BOTH
+California law requires specific public notice and hearing procedures before adopting transportation fees. The district must provide notice to parents/guardians and hold a public hearing before the governing board can approve transportation fees. Neither the policy nor regulation addresses these mandatory procedural requirements.
+
+Legal Basis:
+- Education Code Section 39807.5(b): Before adopting a resolution to charge fees pursuant to this section, the governing board of a school district shall hold a public hearing on the proposed fees. Notice of the time and place of the hearing shall be posted in three public places within the district not less than 72 hours before the time of the hearing and shall also be given by any other means of notification the governing board deems appropriate.
+
+Required Language:
+Before adopting transportation fees, the Board shall hold a public hearing on the proposed fees. Notice of the time and place of the hearing shall be posted in three public places within the district not less than 72 hours before the hearing and shall be given by any other means of notification the Board deems appropriate.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Annual Resolution Requirement (Confidence: 90%)
+Missing from: BOTH
+Education Code requires the governing board to adopt an annual resolution when charging transportation fees. This is a mandatory procedural requirement that must be completed each year fees are charged. Neither document mentions this required annual resolution process.
+
+Legal Basis:
+- Education Code Section 39807.5(a): The governing board of a school district may adopt a resolution to charge fees for home-to-school transportation of pupils...
+
+Required Language:
+The Board shall annually adopt a resolution to charge transportation fees, following the required public hearing process.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Hardship Waiver Process (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions that fees shall be waived for eligible students and allows Board discretionary waivers, there is no process for individual hardship determinations or appeals. California law contemplates additional hardship considerations beyond the mandatory categorical waivers.
+
+Legal Basis:
+- Education Code Section 39807.5(c): The governing board may waive the fee for any pupil for whom the fee would be a financial hardship.
+
+Required Language:
+The Superintendent or designee shall establish procedures for parents/guardians to request a waiver of transportation fees based on financial hardship, including an appeals process for denied requests.
+
+Recommended Placement: AR
+
+----------------------------------------
+

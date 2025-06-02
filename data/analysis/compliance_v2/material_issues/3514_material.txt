@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3514: Environmental Safety
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Integrated Pest Management (IPM) Annual Notification Requirements (Confidence: 95%)
+Missing from: BOTH
+California law requires school districts to provide annual written notification to parents/guardians about pesticide use and IPM practices. While the policy mentions "least toxic pest management practices" and the regulation references IPM procedures, neither document includes the mandatory annual notification requirements or the process for maintaining notification lists.
+
+Legal Basis:
+- Food and Agricultural Code Section 13184: Each school district shall provide written notification to all parents and guardians of pupils enrolled at the school of the integrated pest management policy and of their rights under this article. The notification shall be provided at the beginning of each school year.
+
+Required Language:
+The district shall provide annual written notification to parents/guardians of all enrolled students regarding the district's integrated pest management policy and their rights to receive advance notification of pesticide applications. Parents/guardians may request to be notified at least 72 hours before pesticide applications at their child's school.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Lead Testing Requirements for Drinking Water (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions "minimizing exposure to lead in drinking water," neither document addresses the mandatory lead testing requirements for school drinking water systems established by California law, including testing schedules, remediation procedures, and notification requirements.
+
+Legal Basis:
+- Education Code Section 17213.1: A school district shall test for lead in the potable water of school buildings constructed before January 1, 2010, and shall remediate lead contamination that exceeds specified levels.
+
+Required Language:
+The district shall test drinking water sources at schools constructed before January 1, 2010, for lead contamination according to state-specified schedules and procedures. When lead levels exceed state standards, the district shall immediately discontinue use of affected sources and implement remediation measures.
+
+Recommended Placement: AR
+
+----------------------------------------
+

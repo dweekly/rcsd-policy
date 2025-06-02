@@ -1,0 +1,93 @@
+{
+  "code": "4121",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4121",
+    "title": "Temporary/Substitute Personnel",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4121.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP 4121) document is entirely missing. California Education Code requires that school districts maintain both board policies and administrative regulations. The policy should contain the board's direction on temporary/substitute personnel employment, while the regulation contains implementation procedures. Without the policy component, the district lacks proper governance structure and board oversight for this critical area.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "A comprehensive Board Policy 4121 should be created that includes: board's philosophy on temporary/substitute personnel, delegation of authority to the superintendent, commitment to legal compliance, and general parameters for employment of temporary/substitute staff.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Criminal Background Check Requirements",
+        "description": "Neither the policy nor regulation addresses mandatory criminal background check requirements for substitute and temporary personnel. California law requires fingerprinting and background checks for all school employees, including substitutes and temporary staff, before they begin work.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 45125.1",
+            "text": "No person shall be employed by a school district in a position requiring contact with pupils until the person has had a background investigation conducted pursuant to this section."
+          }
+        ],
+        "required_language": "All substitute and temporary personnel must complete fingerprinting and criminal background check clearance through the Department of Justice and FBI before beginning employment. No substitute or temporary employee may have contact with students until clearance is received.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Tuberculosis Testing Requirements",
+        "description": "The regulation does not address mandatory tuberculosis testing requirements for substitute and temporary personnel. California law requires TB testing for all school employees before they begin work with students.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49406",
+            "text": "Each person employed by a school district in a certificated or classified position shall have an examination to determine whether the person is free from active tuberculosis."
+          }
+        ],
+        "required_language": "All substitute and temporary personnel must provide proof of tuberculosis testing showing freedom from active tuberculosis before beginning employment. The examination must be conducted within 60 days before the beginning of employment.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Mandated Reporter Training Requirements",
+        "description": "The regulation does not address mandatory child abuse reporting training requirements for substitute and temporary personnel. California law requires all school employees to receive mandated reporter training.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11165.7",
+            "text": "On or before January 1, 2021, school districts shall provide training on the mandated reporting requirements to employees who are mandated reporters."
+          }
+        ],
+        "required_language": "All substitute and temporary personnel must complete mandated reporter training regarding child abuse reporting requirements before beginning employment or within the first six weeks of employment.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Document - Needs Review",
+        "description": "The administrative regulation was last updated in 2009, over 14 years ago. Given the numerous changes in California education law since 2009, this document should be comprehensively reviewed and updated to ensure current legal compliance.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "The governing board of a school district shall review and update policies as necessary to ensure compliance with current law."
+          }
+        ],
+        "required_language": "The regulation should be comprehensively reviewed and updated to reflect current California education law and best practices.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:11:30.905387+00:00"
+}

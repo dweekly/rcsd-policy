@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3452: Student Activity Funds
+Last Reviewed: 06/23/2021
+================================================================================
+
+Missing Specific Disbursement Procedures (Confidence: 90%)
+Missing from: BOTH
+While BP 3452 references that disbursements must be approved by designated parties per Education Code 48933, neither the BP nor AR (which doesn't exist) contains the specific procedures for how disbursements are processed, documented, and controlled.
+
+Legal Basis:
+- Education Code 48933: No funds so raised shall be expended except upon the approval of the certificated employee who is the designated student body advisor and of a student body representative and of a board-designated employee or official.
+
+Required Language:
+Detailed procedures specifying the disbursement approval process, required documentation, signature requirements, spending limits, emergency procedures, and the specific roles and responsibilities of the board-designated employee, certificated advisor, and student representative in the approval process.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Cash Handling and Deposit Procedures (Confidence: 85%)
+Missing from: BOTH
+Neither document contains specific procedures for handling cash from fundraising activities, deposit requirements, or safeguarding of funds - critical elements for preventing fraud and ensuring proper fiduciary responsibility.
+
+Legal Basis:
+- Education Code 48933: Proper standards of business procedure shall be followed in the raising and expending of such funds.
+
+Required Language:
+Specific procedures for cash collection, counting, verification, deposit timelines, dual custody requirements, receipt documentation, and secure storage of funds pending deposit.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Record Retention Requirements (Confidence: 80%)
+Missing from: BOTH
+Neither document specifies how long student activity fund records must be retained, which is essential for audit compliance and legal requirements.
+
+Legal Basis:
+- Government Code 60201: Public records shall be retained in accordance with approved records retention schedules.
+
+Required Language:
+Specific record retention periods for student activity fund documents including receipts, disbursement records, bank statements, audit reports, and supporting documentation, in accordance with applicable state retention schedules.
+
+Recommended Placement: AR
+
+----------------------------------------
+

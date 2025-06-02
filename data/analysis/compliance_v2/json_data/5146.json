@@ -1,0 +1,99 @@
+{
+  "code": "5146",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5146",
+    "title": "Married/Pregnant/Parenting Students",
+    "type": "Policy",
+    "last_reviewed": "11/06/2019",
+    "file_path": "data/extracted/policies/5146.txt"
+  },
+  "regulation": {
+    "code": "5146",
+    "title": "Married/Pregnant/Parenting Students",
+    "type": "Regulation",
+    "last_reviewed": "11/06/2019",
+    "file_path": "data/extracted/regulations/5146.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Title IX Nondiscrimination Statement",
+        "description": "Federal Title IX requires explicit statement that the district does not discriminate against students based on pregnancy, childbirth, false pregnancy, termination of pregnancy, or recovery therefrom. This fundamental nondiscrimination principle must be clearly stated.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 106.40(a)",
+            "text": "A recipient shall not discriminate against any student, or exclude any student from its education program or activity, including any class or extracurricular activity, on the basis of such student's pregnancy, childbirth, false pregnancy, termination of pregnancy, or recovery therefrom."
+          }
+        ],
+        "required_language": "The district does not discriminate against any student on the basis of pregnancy, childbirth, false pregnancy, termination of pregnancy, or recovery therefrom. No student shall be excluded from any educational program or extracurricular activity based on pregnancy or related conditions.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Excused Absence Requirements",
+        "description": "California law requires specific provisions for excused absences due to pregnancy and parental leave, including protection of academic standing. While the AR mentions leave of absence, it lacks the comprehensive excused absence framework required by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46010.1",
+            "text": "Notwithstanding any other law, absences of a pupil from school shall be excused for the purposes of this section if the absence is due to the pupil's pregnancy, childbirth, recovery from childbirth, or related medical appointments."
+          }
+        ],
+        "required_language": "Absences due to pregnancy, childbirth, recovery from childbirth, or related medical appointments shall be excused. Students shall not be penalized academically for such excused absences and shall be provided the opportunity to make up missed work and receive full credit.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Lactation Accommodation Requirements",
+        "description": "California law requires reasonable accommodations for lactating students, including time and appropriate private space for expressing breast milk. This is a specific accommodation requirement that must be addressed.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 222",
+            "text": "A school operated by a school district or county office of education shall provide reasonable accommodations to a lactating pupil on a school campus to express breast milk, breastfeed an infant child, or address other needs related to breastfeeding."
+          }
+        ],
+        "required_language": "The district shall provide reasonable accommodations to lactating students, including time and appropriate private space for expressing breast milk or breastfeeding. Such accommodations shall be provided in a location other than a restroom that is private, clean, and reasonably accessible.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Complaint Process Information",
+        "description": "Students must be informed of their right to file complaints regarding discrimination or failure to provide required accommodations. This procedural protection is essential for enforcement of rights.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 4610",
+            "text": "Each local educational agency shall adopt policies and procedures for the investigation and resolution of complaints alleging discrimination, harassment, intimidation, or bullying based on actual or perceived characteristics."
+          }
+        ],
+        "required_language": "Students who believe they have been subjected to discrimination or denied required accommodations may file a complaint through the district's uniform complaint procedures. Information about the complaint process is available from the district office.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Parental Leave Duration Specifications",
+        "description": "While the AR mentions medically necessary leave, it should specify the minimum duration requirements under Title IX to ensure consistency with federal requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 106.40(b)(4)",
+            "text": "In the case of a recipient that does not maintain a leave policy for its students, or in the case of a student who does not otherwise qualify for leave under such a policy, a recipient shall treat pregnancy, childbirth, false pregnancy, termination of pregnancy and recovery therefrom as a justification for a leave of absence for so long a period of time as is deemed medically necessary by the student's physician."
+          }
+        ],
+        "required_language": "The duration of leave shall be determined by the student's physician and may include a reasonable period before and after childbirth. The district may require medical certification of the need for leave only to the same extent required for other temporary disabilities.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:28:40.224670+00:00"
+}

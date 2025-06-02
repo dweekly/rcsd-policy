@@ -104,6 +104,8 @@ python scripts/compliance_check_batch.py --max 100
 5. **Using chmod +x on Python scripts** - NEVER use chmod +x on Python scripts. Always run with `python script.py`
    - Python scripts should NOT have executable bits set in git
    - This is standard Python practice and avoids platform-specific issues
+   - DO NOT modify file permissions with chmod when creating new Python scripts
+   - Just create the file with normal permissions and run it with `python script.py`
 
 ### Key Technical Decisions
 

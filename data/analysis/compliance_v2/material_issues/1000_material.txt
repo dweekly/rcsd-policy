@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1000: Concepts And Roles
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Community Advisory Committee Requirements (Confidence: 85%)
+Missing from: BOTH
+California Education Code requires districts to establish community advisory committees for certain programs and populations. The policy mentions community collaboration but lacks specific requirements for mandated advisory committees such as those for English Learners, Special Education, and other federally funded programs.
+
+Legal Basis:
+- Ed Code Section 52176: The governing board of each school district that receives funds pursuant to this article shall establish a school site council or other school-level advisory group...
+
+Required Language:
+The district shall establish advisory committees as required by state and federal law, including but not limited to English Learner Advisory Committees, Special Education Community Advisory Committees, and other program-specific advisory groups as mandated.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Complaint Process Reference (Confidence: 90%)
+Missing from: BOTH
+Community relations policies must reference the district's complaint procedures to ensure community members know how to address concerns. This is required under the Uniform Complaint Procedures.
+
+Legal Basis:
+- 5 CCR Section 4622: Each local educational agency shall adopt policies and procedures for the investigation and resolution of complaints...
+
+Required Language:
+The district shall inform community members of complaint procedures available for addressing concerns about district programs, services, or compliance with state and federal requirements.
+
+Recommended Placement: BP
+
+----------------------------------------
+

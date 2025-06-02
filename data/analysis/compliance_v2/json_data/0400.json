@@ -1,0 +1,78 @@
+{
+  "code": "0400",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "0400",
+    "title": "Comprehensive Plans",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/0400.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code Section 52852 requires districts to have detailed procedures for developing, implementing, and monitoring comprehensive plans. The Board Policy establishes the framework but lacks the specific procedural requirements mandated by law, and there is no Administrative Regulation to provide implementation details.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52852",
+            "text": "The governing board of each school district shall adopt procedures for the development, adoption, implementation, and periodic review and revision of a comprehensive safety plan for each of its schools and for the development of any other comprehensive plans required by law."
+          }
+        ],
+        "required_language": "Administrative procedures shall be established detailing the specific steps for: (1) Plan development timelines and methodology, (2) Stakeholder engagement processes, (3) Data collection and analysis requirements, (4) Plan approval workflows, (5) Implementation monitoring procedures, (6) Periodic review schedules and criteria, (7) Plan revision processes, and (8) Public notification and availability requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Legal Plan Requirements",
+        "description": "California law mandates specific comprehensive plans (such as Local Control and Accountability Plans under Ed Code 52060, School Safety Plans under Ed Code 32280, etc.) but the policy does not reference these statutory requirements or ensure compliance with their specific mandates.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Sections 52060, 32280, 64001",
+            "text": "Various sections require specific comprehensive plans including Local Control and Accountability Plans, Comprehensive School Safety Plans, and other statutorily mandated planning documents with specific content and procedural requirements."
+          }
+        ],
+        "required_language": "The district shall develop and maintain all comprehensive plans required by state and federal law, including but not limited to: Local Control and Accountability Plans (Ed Code 52060), Comprehensive School Safety Plans (Ed Code 32280), and other plans as mandated by law. Each plan shall comply with all applicable legal requirements for content, development process, approval, and review.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Public Participation and Notification Requirements",
+        "description": "While the policy mentions \"broad participation,\" it lacks the specific public participation, notification, and hearing requirements mandated by various Education Code sections for comprehensive planning processes.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52062",
+            "text": "The governing board shall hold at least one public hearing to solicit the recommendations and comments of members of the public regarding the specific actions and expenditures proposed to be included in the local control and accountability plan."
+          }
+        ],
+        "required_language": "Public participation in comprehensive plan development shall include appropriate public notice, opportunities for public input, and public hearings as required by law. The district shall provide adequate notice of planning meetings and opportunities for community participation, and shall conduct required public hearings before plan adoption or significant revision.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Policy Date",
+        "description": "The policy was last updated in 2009 and has not been reviewed since adoption. Given significant changes in California education law regarding comprehensive planning (particularly LCAP requirements implemented in 2013), the policy should be updated to reflect current legal requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Policy should be updated to reflect current legal requirements and best practices in comprehensive planning, with regular review cycles established.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:17:57.819349+00:00"
+}

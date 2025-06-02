@@ -1,0 +1,78 @@
+{
+  "code": "9110",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9110",
+    "title": "Terms Of Office",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9110.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Oath of Office Requirements",
+        "description": "The policy references that successors must be \"qualified by taking the oath of office\" but does not specify the required oath language, timing requirements, or administration procedures mandated by California law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "California Constitution Article XX, Section 3",
+            "text": "Members of the Legislature, and all public officers and employees, executive, legislative, and judicial, except such inferior officers and employees as may be by law exempted, shall, before they enter upon the duties of their respective offices, take and subscribe the following oath or affirmation..."
+          }
+        ],
+        "required_language": "Board members shall take the oath of office as prescribed by the California Constitution Article XX, Section 3, before entering upon the duties of office. The oath shall be administered by any officer authorized to administer oaths and shall be filed with the county superintendent of schools.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Vacancy Provisions",
+        "description": "The policy does not address how vacancies in office are filled, the duration of appointments to fill vacancies, or the procedures for handling mid-term vacancies as required by Education Code.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 5091",
+            "text": "Whenever a vacancy occurs in the office of any member of a governing board of a school district, the remaining members of the governing board shall, within 60 days of the occurrence of the vacancy, either order an election or make a provisional appointment to fill the vacancy."
+          }
+        ],
+        "required_language": "When a vacancy occurs on the Board, the remaining Board members shall within 60 days either order an election or make a provisional appointment to fill the vacancy. If a provisional appointment is made, the appointee shall serve until the next regularly scheduled election for that office.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Holdover Provision",
+        "description": "While the policy mentions that expired-term members continue until successors are qualified, it lacks clarity about the scope and limitations of this holdover authority.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 1302",
+            "text": "Every person who has an office, the term of which is not fixed by the Constitution, holds it until the appointment and qualification of his successor."
+          }
+        ],
+        "required_language": "Board members whose terms have expired shall continue to discharge all duties of office with full authority until their successors have been elected, have taken the oath of office, and are qualified to serve.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Term Limit Clarification",
+        "description": "The policy does not clarify that there are no term limits for school board members in California, which may be helpful for transparency and candidate information.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 5000 et seq.",
+            "text": "California Education Code does not impose term limits on school board members, allowing for unlimited re-election to four-year terms."
+          }
+        ],
+        "required_language": "There are no limits on the number of terms a Board member may serve.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:38:40.189601+00:00"
+}

@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3280: Sale Or Lease Of District-Owned Real Property
+Last Reviewed: 03/26/2025
+================================================================================
+
+Missing Priority Notification Requirements for Surplus Land Act (Confidence: 95%)
+Missing from: BOTH
+The Surplus Land Act requires specific written notifications to housing sponsors, park and recreation agencies, and other entities with priority rights before disposing of surplus land. Neither the policy nor regulation includes the mandatory notification procedures or timelines required under Government Code 54222.
+
+Legal Basis:
+- Government Code 54222: Before disposing of surplus land, a local agency shall send written notice by certified mail, return receipt requested, or by electronic mail with delivery receipt requested, to specified entities including housing sponsors, park and recreation agencies, and other public agencies with priority rights. The notice must include specific information about the property and provide at least 60 days for responses.
+
+Required Language:
+Before disposing of surplus land, the district shall send written notice by certified mail, return receipt requested, or by electronic mail with delivery receipt requested, to all entities specified in Government Code 54222, including housing sponsors, park and recreation agencies, and other public agencies with priority rights. The notice shall include the location, a description of the property, and the district's proposed use or disposition. Entities have at least 60 days from receipt to respond with interest in purchasing or leasing the property.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Good Faith Negotiation Requirements (Confidence: 90%)
+Missing from: BOTH
+When entities express interest in surplus land under the Surplus Land Act, districts must engage in good faith negotiations for at least 90 days. This mandatory negotiation period and process is not addressed in either document.
+
+Legal Basis:
+- Government Code 54227: If a local agency receives a notice of interest from an entity with priority rights, the agency shall engage in good faith negotiations with that entity for at least 90 days. The negotiations shall be for the sale, lease, or other disposition of the surplus land at fair market value.
+
+Required Language:
+If the district receives a notice of interest from an entity with priority rights under Government Code 54222, the district shall engage in good faith negotiations with that entity for at least 90 days. Negotiations shall be for the sale, lease, or other disposition of the surplus land at fair market value as determined by an appraisal.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Affordable Housing Compliance Requirements (Confidence: 85%)
+Missing from: BOTH
+The Surplus Land Act requires specific procedures when disposing of surplus land that could be used for affordable housing, including compliance with inclusionary housing requirements or in-lieu fees. These requirements are not addressed in either document.
+
+Legal Basis:
+- Government Code 54233: When disposing of surplus land to an entity other than a housing sponsor for affordable housing, the disposing agency must ensure compliance with any applicable inclusionary housing ordinance or payment of in-lieu fees, unless the land is exempt surplus land.
+
+Required Language:
+When disposing of surplus land to an entity other than a housing sponsor for affordable housing development, the district shall ensure compliance with any applicable local inclusionary housing ordinance or require payment of applicable in-lieu fees, unless the land qualifies as exempt surplus land under Government Code 54221.
+
+Recommended Placement: AR
+
+----------------------------------------
+

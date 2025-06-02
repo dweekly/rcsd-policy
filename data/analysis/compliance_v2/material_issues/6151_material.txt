@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6151: Class Size
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Class Size Penalty Provisions (Confidence: 85%)
+Missing from: BOTH
+California law requires districts to establish penalties when class size limits are exceeded. The policy mentions establishing "upper and lower class size limits" but neither the BP nor AR specify what happens when these limits are exceeded, which is required for compliance with state class size reduction funding requirements.
+
+Legal Basis:
+- Education Code Section 52122: A school district that receives an apportionment pursuant to this article shall not enroll more than 20 pupils in any class in any of the grade levels for which the apportionment is received.
+
+Required Language:
+The district shall establish procedures to ensure compliance with class size limits. When class size limits are exceeded, the district shall take immediate corrective action, which may include reassigning students, hiring additional teachers, or other measures to bring classes into compliance. Failure to maintain required class sizes may result in loss of state funding.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Reporting Requirements to State (Confidence: 90%)
+Missing from: BOTH
+While the policy requires reports to the Board, it lacks the mandatory reporting requirements to the California Department of Education regarding class size reduction program compliance and student enrollment data.
+
+Legal Basis:
+- Education Code Section 52125: Each school district shall report to the department, in the manner prescribed by the department, information regarding pupil enrollment and certificated employee assignments in classes for which an apportionment is received pursuant to this article.
+
+Required Language:
+The Superintendent or designee shall submit required reports to the California Department of Education regarding pupil enrollment and certificated employee assignments in classes participating in the class size reduction program, in the manner and timeline prescribed by the department.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Teacher Credential Requirements (Confidence: 80%)
+Missing from: BOTH
+The documents address teacher training but fail to specify the credential requirements for teachers in class size reduction programs, which is mandated by state law for funding eligibility.
+
+Legal Basis:
+- Education Code Section 52123: Each teacher providing direct instructional services to pupils in classes for which an apportionment is received pursuant to this article shall hold a valid teaching credential authorizing the teacher to teach the pupils to whom he or she is providing direct instructional services.
+
+Required Language:
+All teachers providing direct instructional services in classes participating in the class size reduction program shall hold a valid teaching credential authorizing them to teach the grade level and subject matter to which they are assigned.
+
+Recommended Placement: AR
+
+----------------------------------------
+

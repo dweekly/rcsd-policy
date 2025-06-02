@@ -1,0 +1,99 @@
+{
+  "code": "1330",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "1330",
+    "title": "Use Of School Facilities",
+    "type": "Policy",
+    "last_reviewed": "08/24/2011",
+    "file_path": "data/extracted/policies/1330.txt"
+  },
+  "regulation": {
+    "code": "1330",
+    "title": "Use Of School Facilities",
+    "type": "Regulation",
+    "last_reviewed": "08/24/2011",
+    "file_path": "data/extracted/regulations/1330.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Insurance Requirements",
+        "description": "Education Code 38134 requires districts to establish insurance requirements for facility users, but neither the policy nor regulation specifies the minimum insurance coverage amounts or types required from users.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 38134(b)",
+            "text": "The governing board may require any person or organization using the school facilities or grounds to provide or pay for a policy of insurance in such amounts as the governing board deems advisable to protect the school district against liability for property damage or bodily injury."
+          }
+        ],
+        "required_language": "The district may require users to provide comprehensive general liability insurance in amounts determined by the Superintendent or designee, naming the district as additional insured, and to provide certificates of insurance prior to facility use.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Application and Approval Process",
+        "description": "Education Code 38133 requires districts to maintain procedures for facility use, but neither document establishes a clear application process, approval criteria, or timeline for processing requests.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 38133",
+            "text": "The governing board shall adopt rules and regulations for the use of school facilities which shall aid, encourage, and assist groups desiring to use school facilities for approved activities."
+          }
+        ],
+        "required_language": "Users must submit written applications for facility use at least [X] days in advance. Applications shall include the purpose, dates, times, expected attendance, and insurance information. The Superintendent or designee shall approve or deny applications within [X] business days.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Priority Use Categories",
+        "description": "Education Code 38133.5 establishes specific priority categories for facility use that are not fully addressed in the current policy, which only mentions school activities and City of Redwood City having priority.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 38133.5",
+            "text": "The use of school facilities shall be granted in the following order of priority: (a) School activities, (b) Activities of other public agencies, (c) Nonprofit organizations, clubs, or associations organized to promote youth and school activities, (d) Other nonprofit organizations, clubs, or associations, (e) Other organizations or groups."
+          }
+        ],
+        "required_language": "Facility use shall be granted in the following order of priority: (1) School activities, (2) Activities of other public agencies, (3) Nonprofit organizations promoting youth and school activities, (4) Other nonprofit organizations, and (5) Other organizations or groups.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Direct Supervision Requirements",
+        "description": "Education Code 38133 requires districts to preserve order and protect facilities, but the regulation lacks specific requirements for when direct supervision by district personnel is required.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 38133(b)",
+            "text": "Rules and regulations shall preserve order in school buildings and on school grounds and protect school property from damage or abuse, designating a person to supervise this task, if necessary."
+          }
+        ],
+        "required_language": "The district may require direct supervision by district personnel for certain activities. When required, users shall pay the actual cost of supervision. The Superintendent or designee shall determine when supervision is necessary based on the type of activity, facility used, and risk assessment.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Prohibited Uses",
+        "description": "While the policy mentions compliance with board policies, neither document specifically lists prohibited uses or activities that would be inconsistent with educational purposes.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 38133(c)",
+            "text": "Rules and regulations shall ensure that the use of school facilities or grounds is consistent with their use for school purposes and does not interfere with the regular conduct of school work."
+          }
+        ],
+        "required_language": "Prohibited uses include but are not limited to: activities inconsistent with educational purposes, partisan political activities (except as permitted by law), commercial activities for private profit, and activities that may damage facilities or create safety hazards.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:22:35.727768+00:00"
+}

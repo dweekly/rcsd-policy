@@ -1,0 +1,63 @@
+{
+  "code": "9322",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9322",
+    "title": "Agenda/Meeting Materials",
+    "type": "Policy",
+    "last_reviewed": "06/15/2022",
+    "file_path": "data/extracted/policies/9322.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes comprehensive requirements for agenda preparation and dissemination, there is no Administrative Regulation to provide detailed implementation procedures. This creates a gap in operational guidance for staff responsible for executing these requirements, particularly around specific timelines, responsible parties, and step-by-step processes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54954.2, 54957.5",
+            "text": "These sections require specific procedural compliance for agenda posting, document distribution, and public access that benefit from detailed administrative procedures to ensure consistent implementation."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to establish specific procedures for: agenda preparation timelines and responsibilities, document posting procedures, public request processing, fee collection methods, disability accommodation request procedures, and staff roles in agenda management.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Incomplete Special Meeting Notice Requirements",
+        "description": "The policy mentions that Board members receive 24-hour notice for special meetings but does not address the public posting requirements for special meeting agendas, which have different timing requirements than regular meetings.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54956",
+            "text": "Special meetings require at least 24 hours advance notice to be posted at a location freely accessible to the public, and notice must be given to each local newspaper of general circulation and radio or television station that has requested notice."
+          }
+        ],
+        "required_language": "For special meetings, the agenda shall be posted at least 24 hours in advance at locations freely accessible to the public, and notice shall be provided to local media outlets that have requested such notice.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Emergency Meeting Procedures Not Addressed",
+        "description": "The policy does not address emergency meeting procedures, which have different notice and agenda requirements under the Brown Act.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54956.5",
+            "text": "Emergency meetings may be called with one-hour notice to local media and posting, but only for emergency situations that require immediate action."
+          }
+        ],
+        "required_language": "Emergency meetings may be called when an emergency situation exists requiring immediate action. At least one hour before the meeting, notice must be given to local media that have requested notice and the agenda must be posted in locations freely accessible to the public.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:40:49.848040+00:00"
+}

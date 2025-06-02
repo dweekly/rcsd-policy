@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 0510: School Accountability Report Card
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Language Accessibility Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation addresses requirements for providing SARCs in languages other than English for communities with significant non-English speaking populations, which is required under federal and state accessibility laws.
+
+Legal Basis:
+- Education Code Section 35256(d): School districts must ensure meaningful access to school information for parents with limited English proficiency, which includes translation of SARCs when required by federal civil rights laws.
+
+Required Language:
+The district shall provide SARCs in languages other than English when required by federal civil rights laws, including when the district serves a significant number of parents who speak a language other than English. Translation requirements shall be determined based on district demographics and federal guidance.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Content Requirements (Confidence: 85%)
+Missing from: BOTH
+The policy references using the state template but does not specify the mandatory content elements required by Education Code, creating risk of non-compliance with specific reporting requirements.
+
+Legal Basis:
+- Education Code Section 35256(b): Specifies mandatory content including student achievement data, school conditions, teacher qualifications, curriculum information, and other required elements that must be included in every SARC.
+
+Required Language:
+Each SARC shall include all content required by Education Code Section 35256, including but not limited to: student achievement data by grade and subject; school safety and climate information; teacher and staff qualification data; curriculum and instructional materials information; school facilities conditions; and other elements specified in current state requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+

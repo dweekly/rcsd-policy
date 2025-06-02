@@ -1,0 +1,99 @@
+{
+  "code": "1340",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "1340",
+    "title": "Access To District Records",
+    "type": "Policy",
+    "last_reviewed": "03/10/2021",
+    "file_path": "data/extracted/policies/1340.txt"
+  },
+  "regulation": {
+    "code": "1340",
+    "title": "Access To District Records",
+    "type": "Regulation",
+    "last_reviewed": "03/10/2021",
+    "file_path": "data/extracted/regulations/1340.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Response Timeline for Immediate Disclosure Determination",
+        "description": "The California Public Records Act requires agencies to determine whether to comply with a request for immediate disclosure \"immediately\" or as soon as reasonably possible, separate from the 10-day timeline for written determinations. The current policy only addresses the 10-day written response requirement but lacks the immediate disclosure provision.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 6253(c)",
+            "text": "\"Public records are open to inspection at all times during the office hours of the state or local agency and every person has a right to inspect any public record, except as hereafter provided. Any reasonably segregable portion of a record shall be made available for inspection by any person requesting the record after deletion of the portions that are exempted by law.\""
+          }
+        ],
+        "required_language": "Upon receipt of a request for immediate disclosure of public records during business hours, the Superintendent or designee shall immediately determine whether to comply with the request and shall notify the requester of the determination and the reasons therefor.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Required Notice Language for Denials",
+        "description": "When denying access to records, agencies must provide specific notice language informing requesters of their right to petition for writ of mandate. This required notice language is completely absent from both documents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 6253(d)",
+            "text": "\"Nothing in this chapter shall be construed to permit an agency to delay or obstruct the inspection or copying of public records. The notification of denial of any request for records required under this section shall set forth the names and titles or positions of each person responsible for the denial. Any person may institute proceedings for injunctive or declarative relief or writ of mandate in any court of competent jurisdiction to enforce his or her right to inspect or to receive a copy of any public record or class of public records under this chapter.\""
+          }
+        ],
+        "required_language": "Any notification denying a request for public records shall inform the requester that they may institute proceedings for injunctive or declarative relief or writ of mandate in any court of competent jurisdiction to enforce their right to inspect or receive copies of public records.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Incomplete Electronic Records Production Requirements",
+        "description": "While the AR addresses electronic format requests, it lacks specific requirements for metadata preservation and native format production when requested, which are required under current interpretations of the Public Records Act.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 6253.9(a)",
+            "text": "\"Any agency that has information that constitutes an identifiable public record not exempt from disclosure and is in an electronic format shall make that information available in an electronic format when requested by any person and, when applicable, shall comply with the following: (1) The agency may inform the requester that the public record is available in an electronic format. (2) The agency shall make the information available in any electronic format in which it holds the information.\""
+          }
+        ],
+        "required_language": "When providing electronic records, the district shall preserve metadata and provide records in their native electronic format when specifically requested, unless conversion is necessary to protect confidential information or the integrity of district systems.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Reference to Government Code 6250 et seq.",
+        "description": "Best practice requires explicit reference to the California Public Records Act (Government Code 6250 et seq.) to establish the legal foundation for the policy, though this is not strictly required for compliance.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 6250",
+            "text": "\"In enacting this chapter, the Legislature, mindful of the right of individuals to privacy, finds and declares that access to information concerning the conduct of the people's business is a fundamental and necessary right of every person in this state.\""
+          }
+        ],
+        "required_language": "The district shall comply with the California Public Records Act (Government Code 6250 et seq.) in providing access to public records.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Specific Timeline for Record Production After Approval",
+        "description": "While the regulation addresses determination timelines, it lacks specific language about when approved records will actually be made available for inspection or copying after the determination is made.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 6253(b)",
+            "text": "\"Except with respect to public records exempt from disclosure by express provisions of law, each state or local agency, upon a request for a copy of records, shall, within 10 days from receipt of the request, determine whether the request, in whole or in part, seeks copies of disclosable public records in the possession of the agency and shall promptly notify the person making the request of the determination and the reasons therefor.\""
+          }
+        ],
+        "required_language": "Records determined to be disclosable shall be made available for inspection immediately during business hours or copies shall be provided within a reasonable time after payment of applicable fees.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:22:42.211701+00:00"
+}

@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3260: Fees And Charges
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Prohibition on Fees for Educational Activities (Confidence: 95%)
+Missing from: BOTH
+California Education Code explicitly prohibits charging fees for educational activities that are an integral fundamental part of the district's educational program. The policy and regulation focus on permissible fees but fail to clearly state the fundamental prohibition against charging fees for required educational activities, materials, and supplies.
+
+Legal Basis:
+- Education Code Section 49011: A pupil enrolled in a school shall not be required to pay any fee, deposit, or other charge for his or her participation in an educational activity that constitutes an integral fundamental part of elementary and secondary education, including curricular and extracurricular activities.
+
+Required Language:
+The district shall not require students to pay any fee, deposit, or other charge for participation in educational activities that constitute an integral fundamental part of elementary and secondary education, including curricular and extracurricular activities, or for materials, supplies, equipment, or uniforms associated with such activities.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Complaint Process for Illegal Fees (Confidence: 85%)
+Missing from: BOTH
+The policy and regulation do not include information about the complaint process available to parents and students when they believe illegal fees are being charged, as required by the Uniform Complaint Procedures.
+
+Legal Basis:
+- 5 CCR Section 4630: Pupil fees complaints may be filed pursuant to the district's uniform complaint procedures... The district shall post a standardized notice of the uniform complaint procedures.
+
+Required Language:
+Complaints regarding alleged violations of laws relating to pupil fees may be filed under the district's Uniform Complaint Procedures. Information about the complaint process is available at school sites and the district office.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Annual Notification Requirement (Confidence: 88%)
+Missing from: BOTH
+The district must provide annual notification to parents about pupil fee policies and complaint procedures, but this requirement is not addressed in either document.
+
+Legal Basis:
+- 5 CCR Section 4622: Each school district shall annually provide written notification to pupils, parents, and guardians of pupils enrolled in the district of pupil fees that may and may not be charged.
+
+Required Language:
+The district shall annually notify students, parents, and guardians in writing of: 1) Pupil fees that may and may not be charged; 2) Procedures for filing complaints regarding pupil fees; 3) Available fee waivers and financial assistance.
+
+Recommended Placement: AR
+
+----------------------------------------
+

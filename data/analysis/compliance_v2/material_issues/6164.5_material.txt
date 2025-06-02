@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6164.5: Student Success Teams
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Documentation and Record-Keeping Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires that student success team meetings and interventions be properly documented, with records maintained and accessible to parents. Neither the policy nor regulation specifies documentation requirements, record-keeping procedures, or parent access to SST records.
+
+Legal Basis:
+- Education Code Section 49069: Parents have the right to inspect and review any and all student records related to their children that are maintained by school districts, and school districts must maintain proper documentation of interventions and meetings.
+
+Required Language:
+The district shall maintain written documentation of all student success team meetings, including participants, interventions discussed, decisions made, and timelines established. Parents/guardians shall have access to all SST records and documentation. Records shall be maintained in accordance with district record retention policies.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Parent Notification and Consent Procedures (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions parent collaboration and the regulation includes parents as team members, neither document specifies required procedures for notifying parents of SST referrals, obtaining consent for participation, or ensuring meaningful parent participation rights.
+
+Legal Basis:
+- Education Code Section 51101: Parents have the right to be notified in a timely manner if their child is identified as being at risk of retention and to participate in the development of a remediation plan.
+
+Required Language:
+Parents/guardians shall be notified in writing when their child is referred to a student success team. The notification shall include the reason for referral, the SST process, parent rights, and meeting scheduling. Parents/guardians have the right to participate in all SST meetings and decisions regarding their child.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Relationship to Special Education Referral Process (Confidence: 90%)
+Missing from: BOTH
+The policy and regulation fail to address the relationship between SST interventions and potential special education referrals, including timelines and procedures for when SST interventions may lead to formal special education evaluation requests.
+
+Legal Basis:
+- Education Code Section 56301: School districts must have procedures for identifying students who may need special education services, and SST processes often serve as part of the pre-referral intervention system.
+
+Required Language:
+Student success team interventions may be used as part of the pre-referral process for special education. If SST interventions are unsuccessful after a reasonable period of implementation, the team shall consider whether a referral for special education assessment is appropriate. Parents may request special education assessment at any time during the SST process.
+
+Recommended Placement: AR
+
+----------------------------------------
+

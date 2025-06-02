@@ -1,0 +1,63 @@
+{
+  "code": "3512",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3512",
+    "title": "Equipment",
+    "type": "Regulation",
+    "last_reviewed": "03/11/2020",
+    "file_path": "data/extracted/regulations/3512.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy for Equipment",
+        "description": "California school districts are required to have Board Policy establishing governance and oversight for district equipment. The district only has an Administrative Regulation but lacks the foundational Board Policy that should establish the board's direction on equipment acquisition, use, and disposal. Board policies typically contain the \"what\" and \"why\" including board direction, rights, and notifications, while regulations contain implementation procedures.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The Board recognizes that appropriate equipment is essential for effective educational programs and efficient district operations. The Board delegates to the Superintendent or designee the responsibility for establishing procedures for equipment acquisition, inventory, use, transfer, and disposal in accordance with applicable laws and regulations. District equipment shall be used primarily for educational purposes and to conduct district business.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Federal Equipment Management Requirements",
+        "description": "The regulation lacks comprehensive federal equipment management requirements for equipment purchased with federal funds, including required disposition procedures, fair market value determinations, and federal agency notification requirements when equipment is no longer needed.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "2 CFR 200.313(e)",
+            "text": "When original or replacement equipment acquired under a Federal award is no longer needed for the original project or program or for other activities currently or previously supported by a Federal agency, the recipient or subrecipient must request disposition instructions from the Federal agency or pass-through entity."
+          }
+        ],
+        "required_language": "When federally-funded equipment is no longer needed for the original project or other federally-supported activities, the district shall request disposition instructions from the federal agency or pass-through entity. If the equipment has a current fair market value of $5,000 or less, it may be retained, sold, or otherwise disposed of with no further obligation to the federal agency. For equipment with fair market value exceeding $5,000, disposition shall be in accordance with federal agency instructions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Incomplete Inventory Management Procedures",
+        "description": "While the regulation mentions maintaining inventory for equipment valued over $500, it lacks specific procedures for inventory tracking, periodic verification, and reporting of lost or stolen equipment as recommended for comprehensive equipment management.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35168",
+            "text": "The governing board of any school district may provide for the establishment and maintenance of inventories of supplies, materials, and equipment."
+          }
+        ],
+        "required_language": "The district shall conduct periodic physical inventories to verify the location and condition of equipment. Any lost, stolen, or damaged equipment shall be promptly reported and documented. The inventory system shall track equipment location, condition, and custodial responsibility.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:27:38.283890+00:00"
+}

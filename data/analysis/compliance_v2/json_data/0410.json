@@ -1,0 +1,78 @@
+{
+  "code": "0410",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "0410",
+    "title": "Nondiscrimination In District Programs And Activities",
+    "type": "Policy",
+    "last_reviewed": "06/27/2018",
+    "file_path": "data/extracted/policies/0410.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy references AR 1312.3 for complaint procedures but lacks its own administrative regulation to specify implementation procedures for nondiscrimination requirements. Without an AR, there are no detailed procedures for how staff should implement the nondiscrimination policy, conduct the required annual reviews, handle accommodation requests, or ensure compliance monitoring.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 104.7, 34 CFR 106.8",
+            "text": "Recipients must adopt and publish grievance procedures providing for prompt and equitable resolution of complaints and must designate at least one person to coordinate compliance efforts."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to establish specific procedures for: (1) conducting annual program reviews, (2) processing accommodation requests, (3) staff training on nondiscrimination requirements, (4) monitoring compliance, and (5) coordinating with the designated compliance officer.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Title IX Coordinator Designation",
+        "description": "While the policy designates an ADA coordinator, it fails to specifically designate a Title IX coordinator as required by federal law. The policy only references \"the individual identified in AR 1312.3\" without specifically naming Title IX coordination responsibilities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 106.8(a)",
+            "text": "Each recipient must designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under this part, including any investigation of any complaint communicated to such recipient alleging its noncompliance with this part or alleging any actions which would be prohibited by this part (Title IX Coordinator)."
+          }
+        ],
+        "required_language": "The district designates the following individual as its Title IX Coordinator to coordinate compliance with Title IX requirements: [Name, Title, Address, Phone, Email]. The Title IX Coordinator is responsible for coordinating the district's compliance with Title IX and investigating complaints of sex discrimination.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Section 504 Coordinator Designation",
+        "description": "The policy designates an ADA coordinator but does not specifically designate a Section 504 coordinator as required by federal regulations. Section 504 and ADA have different scopes and requirements that may need separate coordination.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 104.7(a)",
+            "text": "A recipient that employs fifteen or more persons shall designate at least one person to coordinate its efforts to comply with this section."
+          }
+        ],
+        "required_language": "The district designates the following individual as its Section 504 Coordinator to coordinate compliance with Section 504 requirements: [Name, Title, Address, Phone, Email]. The Section 504 Coordinator is responsible for coordinating the district's compliance with Section 504 and investigating complaints of disability discrimination.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Reference to Government Code 11135",
+        "description": "The policy covers the required protected categories but does not specifically cite California Government Code 11135, which is the primary state nondiscrimination law for programs receiving state funding.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 11135",
+            "text": "No person in the State of California shall, on the basis of sex, race, color, religion, ancestry, national origin, ethnic group identification, age, mental disability, physical disability, medical condition, genetic information, marital status, or sexual orientation, be unlawfully denied full and equal access to the benefits of, or be unlawfully subjected to discrimination under, any program or activity that is conducted, operated, or administered by the state or by any state agency."
+          }
+        ],
+        "required_language": "Add reference: \"This policy is established in compliance with federal laws including Title VI, Title VII, Title IX, Section 504, and the Americans with Disabilities Act, and state laws including Government Code 11135 and Education Code provisions prohibiting discrimination.\"",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:18:14.514848+00:00"
+}

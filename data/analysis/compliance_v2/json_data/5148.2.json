@@ -1,0 +1,69 @@
+{
+  "code": "5148.2",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5148.2",
+    "title": "Before/After School Programs",
+    "type": "Policy",
+    "last_reviewed": "04/04/2018",
+    "file_path": "data/extracted/policies/5148.2.txt"
+  },
+  "regulation": {
+    "code": "5148.2",
+    "title": "Before/After School Programs",
+    "type": "Regulation",
+    "last_reviewed": "04/04/2018",
+    "file_path": "data/extracted/regulations/5148.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Required Annual Academic Performance Reporting",
+        "description": "California law requires districts to annually submit academic performance data for participating students to the California Department of Education. While the AR mentions \"outcome-based data\" reporting requirements, it fails to specifically include the mandatory academic performance component that must be reported annually.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 8427",
+            "text": "The grantee shall annually submit to the department outcome-based data, including, but not limited to... academic performance of participating students on an annual basis."
+          }
+        ],
+        "required_language": "3. Academic performance of participating students on an annual basis",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Required Program Quality Standards Reference",
+        "description": "The regulation mentions that the quality improvement process should be \"based on CDE program quality standards\" but fails to specify that these are the specific standards established under Education Code 8427. This creates ambiguity about which standards apply and is required for compliance with state reporting requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 8427",
+            "text": "Evidence of a program quality improvement process that is data driven and based on program quality standards established by the department pursuant to this section."
+          }
+        ],
+        "required_language": "Evidence of a program quality improvement process that is data driven and based on program quality standards established by the California Department of Education pursuant to Education Code 8427",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Nutrition Standards",
+        "description": "The AR references Education Code sections 49430-49436 for nutrition standards but does not include the complete range of applicable sections. Education Code 49431.2 contains specific requirements for after-school program snacks that should be explicitly referenced.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49431.2",
+            "text": "Snacks served in after school programs shall meet nutrition standards specified in this section."
+          }
+        ],
+        "required_language": "If snacks or meals are made available in the program, they shall conform to state nutrition standards specified in Education Code 49430-49436, including 49431.2 for after-school program snacks, or 42 USC 1766 as applicable.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:28:29.013230+00:00"
+}

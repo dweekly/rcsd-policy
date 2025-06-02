@@ -1,0 +1,93 @@
+{
+  "code": "3470",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3470",
+    "title": "Debt Issuance And Management",
+    "type": "Policy",
+    "last_reviewed": "02/14/2018",
+    "file_path": "data/extracted/policies/3470.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy provides comprehensive framework and goals for debt issuance and management, there is no corresponding Administrative Regulation to establish specific implementation procedures, detailed processes, and operational guidelines required to execute the policy directives.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: specific procedures for debt issuance approval processes, detailed steps for financial advisor selection and contracting, implementation timelines, staff responsibilities and authorization levels, specific compliance monitoring procedures, detailed record-keeping requirements, and step-by-step processes for reporting to CDIAC and other entities.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Debt Capacity Analysis Requirements",
+        "description": "The policy lacks specific requirements for regular debt capacity analysis and monitoring procedures, which are essential for maintaining fiscal health and compliance with constitutional debt limits.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "California Constitution Article 16, Section 18",
+            "text": "No county, city, town, township, board of education, or school district, shall incur any indebtedness or liability in any manner or for any purpose exceeding in any year the income and revenue provided for such year, without the assent of two-thirds of the voters thereof voting at an election to be held for that purpose."
+          }
+        ],
+        "required_language": "The district shall conduct annual debt capacity analysis including: assessment of current debt-to-assessed valuation ratios, projected debt service coverage ratios, analysis of remaining legal debt capacity, and evaluation of impact on taxpayers. This analysis shall be presented to the Board annually and used in debt issuance planning.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Arbitrage Compliance Procedures",
+        "description": "The policy does not address federal tax law arbitrage compliance requirements, which are mandatory for tax-exempt debt issuances and can result in significant penalties if not properly managed.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Internal Revenue Code Section 148",
+            "text": "Federal tax law requires issuers of tax-exempt bonds to comply with arbitrage restrictions and rebate requirements to maintain tax-exempt status."
+          }
+        ],
+        "required_language": "The district shall establish procedures to ensure compliance with federal arbitrage restrictions including: tracking of bond proceeds and investments, calculation of arbitrage rebate payments when required, filing of required federal tax forms, and engagement of qualified professionals to perform arbitrage calculations and compliance monitoring.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Continuing Disclosure Compliance Procedures",
+        "description": "While the policy mentions disclosure requirements, it lacks specific procedures for ongoing continuing disclosure compliance, which is required under federal securities law and essential for maintaining market access.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "17 CFR 240.15c2-12 (SEC Rule 15c2-12)",
+            "text": "Requires ongoing disclosure of material events and annual financial information for municipal securities."
+          }
+        ],
+        "required_language": "Administrative procedures shall establish: specific timelines for annual financial disclosure filings, procedures for identifying and reporting material events, assignment of staff responsibilities for disclosure compliance, systems for tracking disclosure deadlines, and procedures for engaging disclosure counsel when needed.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Investment Policy Cross-Reference",
+        "description": "The policy mentions that investment of bond proceeds should be consistent with the district's investment policy but does not specifically reference the applicable Board Policy number for investments.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Government Code 53600-53609",
+            "text": "Requires school districts to have investment policies governing the investment of public funds."
+          }
+        ],
+        "required_language": "Investment of debt proceeds shall be conducted in accordance with Board Policy [insert BP number for investments] and applicable legal requirements.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:27:18.267765+00:00"
+}

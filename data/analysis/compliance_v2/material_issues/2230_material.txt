@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 2230: Representative And Deliberative Groups
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing School Site Council Requirements (Confidence: 85%)
+Missing from: BOTH
+California Education Code requires specific provisions for School Site Councils, including composition requirements, selection procedures, and responsibilities. These statutory requirements are not addressed in the current policy, which only provides general authority for establishing advisory groups.
+
+Legal Basis:
+- Education Code Section 52852: The school site council shall be composed of the principal and representatives of: parents or guardians of pupils attending the school selected by such parents or guardians; teachers in the school selected by such teachers; other school personnel selected by such personnel; and in secondary schools, pupils selected by pupils attending the school.
+
+Required Language:
+School Site Councils shall be established at each school site receiving categorical funding. The composition, selection procedures, and responsibilities of School Site Councils shall comply with Education Code requirements, including equal representation of school personnel and parents/community members, with student representation at secondary schools.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing District English Learner Advisory Committee (DELAC) Requirements (Confidence: 90%)
+Missing from: BOTH
+Districts with 51 or more English learners must establish a District English Learner Advisory Committee with specific composition and responsibilities. This is a mandatory committee, not optional like the general advisory groups described in the policy.
+
+Legal Basis:
+- Education Code Section 52176: In any school district in which the number of pupils who are English learners is 15 percent or more of the total number of pupils enrolled in the district, there shall be established a district English learner advisory committee.
+
+Required Language:
+A District English Learner Advisory Committee (DELAC) shall be established when required by Education Code Section 52176. The DELAC shall be composed of parents/guardians of English learners and shall advise the district on programs and services for English learners.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Parent Advisory Committee Requirements for Title I (Confidence: 80%)
+Missing from: BOTH
+Districts receiving Title I funds must establish parent advisory committees with specific composition and consultation requirements. The current policy does not address these federally mandated committees.
+
+Legal Basis:
+- 20 USC Section 6318 (Federal); Education Code Section 52852: Districts receiving Title I funds shall establish procedures for meaningful consultation with parents in the planning, implementation, and evaluation of Title I programs.
+
+Required Language:
+Parent advisory committees for Title I programs shall be established as required by federal law, with procedures ensuring meaningful parent participation in program planning, implementation, and evaluation.
+
+Recommended Placement: BP
+
+----------------------------------------
+

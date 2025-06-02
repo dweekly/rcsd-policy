@@ -1,0 +1,99 @@
+{
+  "code": "3514",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3514",
+    "title": "Environmental Safety",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3514.txt"
+  },
+  "regulation": {
+    "code": "3514",
+    "title": "Environmental Safety",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3514.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Integrated Pest Management (IPM) Annual Notification Requirements",
+        "description": "California law requires school districts to provide annual written notification to parents/guardians about pesticide use and IPM practices. While the policy mentions \"least toxic pest management practices\" and the regulation references IPM procedures, neither document includes the mandatory annual notification requirements or the process for maintaining notification lists.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Food and Agricultural Code Section 13184",
+            "text": "Each school district shall provide written notification to all parents and guardians of pupils enrolled at the school of the integrated pest management policy and of their rights under this article. The notification shall be provided at the beginning of each school year."
+          }
+        ],
+        "required_language": "The district shall provide annual written notification to parents/guardians of all enrolled students regarding the district's integrated pest management policy and their rights to receive advance notification of pesticide applications. Parents/guardians may request to be notified at least 72 hours before pesticide applications at their child's school.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Healthy Schools Act Pesticide Application Notification Procedures",
+        "description": "The Healthy Schools Act requires specific procedures for notifying parents, staff, and students before pesticide applications. The regulation mentions IPM procedures but lacks the detailed notification requirements, posting procedures, and emergency application protocols required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Food and Agricultural Code Section 13184.1",
+            "text": "At least 72 hours before the application of a pesticide at a schoolsite, the school district shall provide written notification of the pending pesticide application to employees and parents or guardians of pupils assigned to the treated area who have requested such notification."
+          }
+        ],
+        "required_language": "Before pesticide applications, the district shall: 1) Provide at least 72-hour advance written notice to employees and parents/guardians who have requested notification; 2) Post warning signs at application sites; 3) Maintain a registry of persons requesting notification; 4) Follow emergency application procedures when immediate pesticide use is necessary.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Asbestos Management Plan Annual Notification Language",
+        "description": "While the regulation mentions that parent and employee organizations shall be informed annually of the asbestos management plan's availability, it lacks the specific notification language and timing requirements mandated by federal AHERA regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "40 CFR 763.93(g)(4)",
+            "text": "Each local education agency shall notify parent, teacher, and employee organizations annually of the availability of the management plan and shall provide a copy upon request without charge."
+          }
+        ],
+        "required_language": "The district shall provide annual written notification to parent, teacher, and employee organizations of the availability of the asbestos management plan. The notification shall inform recipients that copies are available upon request at no charge and shall specify the location where the plan may be reviewed during normal business hours.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Lead Testing Requirements for Drinking Water",
+        "description": "While the policy mentions \"minimizing exposure to lead in drinking water,\" neither document addresses the mandatory lead testing requirements for school drinking water systems established by California law, including testing schedules, remediation procedures, and notification requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17213.1",
+            "text": "A school district shall test for lead in the potable water of school buildings constructed before January 1, 2010, and shall remediate lead contamination that exceeds specified levels."
+          }
+        ],
+        "required_language": "The district shall test drinking water sources at schools constructed before January 1, 2010, for lead contamination according to state-specified schedules and procedures. When lead levels exceed state standards, the district shall immediately discontinue use of affected sources and implement remediation measures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Last Review Date",
+        "description": "Both the policy and regulation were last reviewed in 2009, which is significantly outdated given the evolving nature of environmental safety requirements and the need for regular review of compliance with current laws and regulations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "School district governing boards have authority to establish policies and should regularly review them to ensure continued compliance with applicable laws."
+          }
+        ],
+        "required_language": "Regular review and updating of environmental safety policies and regulations to reflect current legal requirements and best practices.",
+        "recommended_placement": "BOTH"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:28:26.775070+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "code": "4161",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4161",
+    "title": "Leaves",
+    "type": "Policy",
+    "last_reviewed": "12/11/2024",
+    "file_path": "data/extracted/policies/4161.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Leave Implementation",
+        "description": "California Education Code requires school districts to establish procedures for implementing leave policies. The Board Policy provides the framework but lacks the detailed procedures required for proper administration of various leave types, application processes, documentation requirements, and return-to-work procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44043.5",
+            "text": "The governing board of each school district shall adopt rules and regulations for the administration of sick leave, including procedures for the verification of illness."
+          }
+        ],
+        "required_language": "Administrative regulation must include: procedures for requesting leaves, required documentation, approval processes, verification requirements for sick leave, return-to-work procedures, coordination with substitute arrangements, and specific timelines for each leave type.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Sick Leave Verification Procedures",
+        "description": "Education Code specifically requires districts to establish procedures for verification of illness for sick leave purposes. Neither the policy nor regulation (which is missing) contains the required verification procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44043.5",
+            "text": "The governing board of each school district shall adopt rules and regulations for the administration of sick leave, including procedures for the verification of illness."
+          }
+        ],
+        "required_language": "Procedures for verification of illness, including when medical certification may be required, acceptable forms of verification, and timeline requirements for submission of verification documentation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Family and Medical Leave Act (FMLA) Integration",
+        "description": "While the policy mentions \"family care and medical leave,\" it lacks specific reference to federal FMLA requirements and how district leave policies coordinate with federal entitlements, which is required for compliance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12945.2 (California Family Rights Act)",
+            "text": "Employers must provide leave in accordance with the California Family Rights Act, which parallels federal FMLA requirements and must be coordinated with other leave entitlements."
+          }
+        ],
+        "required_language": "Specific procedures for coordinating district leave policies with federal Family and Medical Leave Act (FMLA) and California Family Rights Act (CFRA) requirements, including concurrent vs. consecutive leave usage and employee notification requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Differential Pay During Industrial Accident Leave",
+        "description": "Education Code requires specific provisions for industrial accident and illness leave, including differential pay calculations. The policy mentions industrial accident leave but lacks required details about compensation during such leave.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44984",
+            "text": "Certificated employees shall be entitled to industrial accident and illness leave, with the district paying the difference between the employee's regular salary and workers' compensation benefits."
+          }
+        ],
+        "required_language": "Procedures for calculating and providing differential pay during industrial accident and illness leave, including coordination with workers' compensation benefits and duration limitations.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Reference to Kin Care Leave",
+        "description": "California Labor Code provides for kin care leave (use of accrued sick leave for family member care). While this may be covered under \"family care,\" specific reference would provide clarity.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 233",
+            "text": "Employees may use accrued sick leave for the care of family members, including children, parents, spouses, and domestic partners."
+          }
+        ],
+        "required_language": "Specific reference to kin care leave provisions allowing use of accrued sick leave for family member care as defined by Labor Code Section 233.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:13:35.127017+00:00"
+}

@@ -1,0 +1,61 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5146: Married/Pregnant/Parenting Students
+Last Reviewed: 11/06/2019
+================================================================================
+
+Missing Title IX Nondiscrimination Statement (Confidence: 95%)
+Missing from: BOTH
+Federal Title IX requires explicit statement that the district does not discriminate against students based on pregnancy, childbirth, false pregnancy, termination of pregnancy, or recovery therefrom. This fundamental nondiscrimination principle must be clearly stated.
+
+Legal Basis:
+- 34 CFR 106.40(a): A recipient shall not discriminate against any student, or exclude any student from its education program or activity, including any class or extracurricular activity, on the basis of such student's pregnancy, childbirth, false pregnancy, termination of pregnancy, or recovery therefrom.
+
+Required Language:
+The district does not discriminate against any student on the basis of pregnancy, childbirth, false pregnancy, termination of pregnancy, or recovery therefrom. No student shall be excluded from any educational program or extracurricular activity based on pregnancy or related conditions.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Excused Absence Requirements (Confidence: 90%)
+Missing from: BOTH
+California law requires specific provisions for excused absences due to pregnancy and parental leave, including protection of academic standing. While the AR mentions leave of absence, it lacks the comprehensive excused absence framework required by state law.
+
+Legal Basis:
+- Education Code 46010.1: Notwithstanding any other law, absences of a pupil from school shall be excused for the purposes of this section if the absence is due to the pupil's pregnancy, childbirth, recovery from childbirth, or related medical appointments.
+
+Required Language:
+Absences due to pregnancy, childbirth, recovery from childbirth, or related medical appointments shall be excused. Students shall not be penalized academically for such excused absences and shall be provided the opportunity to make up missed work and receive full credit.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Lactation Accommodation Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires reasonable accommodations for lactating students, including time and appropriate private space for expressing breast milk. This is a specific accommodation requirement that must be addressed.
+
+Legal Basis:
+- Education Code 222: A school operated by a school district or county office of education shall provide reasonable accommodations to a lactating pupil on a school campus to express breast milk, breastfeed an infant child, or address other needs related to breastfeeding.
+
+Required Language:
+The district shall provide reasonable accommodations to lactating students, including time and appropriate private space for expressing breast milk or breastfeeding. Such accommodations shall be provided in a location other than a restroom that is private, clean, and reasonably accessible.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Complaint Process Information (Confidence: 80%)
+Missing from: BOTH
+Students must be informed of their right to file complaints regarding discrimination or failure to provide required accommodations. This procedural protection is essential for enforcement of rights.
+
+Legal Basis:
+- 5 CCR 4610: Each local educational agency shall adopt policies and procedures for the investigation and resolution of complaints alleging discrimination, harassment, intimidation, or bullying based on actual or perceived characteristics.
+
+Required Language:
+Students who believe they have been subjected to discrimination or denied required accommodations may file a complaint through the district's uniform complaint procedures. Information about the complaint process is available from the district office.
+
+Recommended Placement: BP
+
+----------------------------------------
+

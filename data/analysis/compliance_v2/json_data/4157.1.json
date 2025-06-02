@@ -1,0 +1,93 @@
+{
+  "code": "4157.1",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4157.1",
+    "title": "Work-Related Injuries",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4157.1.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Work-Related Injuries Implementation",
+        "description": "While the Board Policy establishes the framework for work-related injury reporting and workers' compensation, there is no Administrative Regulation to provide the detailed procedures for implementation. California Education Code requires specific procedural elements that are typically detailed in AR documents, including specific timeframes, forms, investigation procedures, and detailed notification processes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44043",
+            "text": "Requires school districts to establish procedures for handling work-related injuries and workers' compensation claims"
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: specific reporting timeframes, required forms and documentation, investigation procedures, return-to-work processes, recordkeeping requirements, and detailed notification procedures for both employees and supervisors.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Reporting Timeframe Requirements",
+        "description": "The policy states employees should report injuries \"as soon as practicable\" but does not specify the required timeframes under California workers' compensation law. Labor Code Section 5401 requires specific timing for injury reporting.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 5401",
+            "text": "Requires that work-related injuries be reported within specific timeframes to preserve workers' compensation rights"
+          }
+        ],
+        "required_language": "Employees must report work-related injuries immediately or as soon as practical, but no later than 30 days after the injury occurs or the employee becomes aware that the injury is work-related.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Required Workers' Compensation Notice Content",
+        "description": "While the policy mentions that notifications must be posted \"in accordance with law,\" it does not specify the required content of workers' compensation notices or reference the specific notices required by California Labor Code.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 3550",
+            "text": "Requires employers to post specific workers' compensation notices and provide employees with information about their rights"
+          }
+        ],
+        "required_language": "The district shall post the official \"Workers' Compensation - Rights and Benefits\" notice (Form DWC-7) and provide employees with information about their right to select a treating physician, claim procedures, and disability benefits as required by Labor Code Section 3550.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Return-to-Work Program Requirements",
+        "description": "California Labor Code encourages employers to establish return-to-work programs, and Education Code requires districts to have procedures for accommodating injured employees. Neither the policy nor regulation addresses return-to-work procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 4658.7",
+            "text": "Provides for supplemental job displacement benefits and encourages return-to-work programs for injured employees"
+          }
+        ],
+        "required_language": "The district shall establish procedures for facilitating the return to work of employees who have sustained work-related injuries, including modified duty assignments when appropriate and coordination with medical providers regarding work restrictions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Required Forms",
+        "description": "The policy does not reference the specific forms required for workers' compensation claims, such as the DWC-1 claim form that must be provided to injured employees.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 5401",
+            "text": "Requires employers to provide injured employees with a claim form (DWC-1) within one working day of notice of injury"
+          }
+        ],
+        "required_language": "Injured employees shall be provided with a workers' compensation claim form (DWC-1) within one working day of reporting the injury.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:13:05.461213+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "code": "4112.21",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4112.21",
+    "title": "Interns",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4112.21.txt"
+  },
+  "regulation": {
+    "code": "4112.21",
+    "title": "Interns",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4112.21.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Criminal Background Check and Fingerprinting Requirements",
+        "description": "California law requires specific criminal background check and fingerprinting procedures for interns before they can be employed. While the AR mentions \"teacher fitness\" requirements generally, neither document contains the mandatory specific procedures for criminal background checks, fingerprinting, and DOJ/FBI clearance that must be completed before employment.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44830.1(f)",
+            "text": "A school district shall not employ a person as a district intern until that person has been cleared by the Department of Justice pursuant to Section 44237."
+          }
+        ],
+        "required_language": "The district shall not employ any intern until the person has been cleared by the Department of Justice pursuant to Education Code 44237. All interns must complete criminal background checks and fingerprinting requirements before beginning employment.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Preservice Training Requirements",
+        "description": "Education Code requires specific minimum preservice training hours and content areas for district interns. While the AR mentions \"mandatory preservice training,\" it lacks the required specificity regarding the 120-hour minimum and required subject areas mandated by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44830.3(a)(1)",
+            "text": "Preservice preparation of not less than 120 clock hours of training and coursework that addresses the teaching of the adopted academic content standards."
+          }
+        ],
+        "required_language": "District interns shall complete preservice preparation of not less than 120 clock hours of training and coursework that addresses the teaching of the adopted academic content standards, classroom management, and other areas specified in Education Code 44830.3.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Support Provider Qualification Requirements",
+        "description": "The AR mentions support providers but lacks the specific qualification requirements mandated by law, including the requirement for three years of successful teaching experience and completion of training programs.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44830.3(a)(2)",
+            "text": "Each district intern shall be provided support by a support provider who has completed a commission-approved training program and has a minimum of three years of successful teaching experience."
+          }
+        ],
+        "required_language": "Support providers for district interns must have completed a Commission-approved training program and possess a minimum of three years of successful teaching experience. Support providers must hold appropriate certification and complete ongoing professional development as required by the Commission.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Outdated Reference to \"Highly Qualified\" Teacher Requirements",
+        "description": "The policy references federal \"highly qualified\" teacher requirements under NCLB, which have been superseded by ESSA requirements. This creates potential confusion about current federal compliance requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Every Student Succeeds Act (ESSA)",
+            "text": "ESSA replaced NCLB's \"highly qualified\" teacher requirements with new teacher quality provisions focused on state certification and effectiveness."
+          }
+        ],
+        "required_language": "Interns shall meet all applicable state certification requirements and federal teacher quality provisions as required by the Every Student Succeeds Act and state law.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing English Learner Authorization Requirements",
+        "description": "Neither document addresses the specific authorization requirements for interns who will be teaching English learners, which is required given California's EL population.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44253.3",
+            "text": "Teachers of English learners must possess appropriate authorization to provide instruction to English learners."
+          }
+        ],
+        "required_language": "Interns assigned to teach English learners must possess appropriate English learner authorization as part of their internship credential or complete required training as specified by the Commission on Teacher Credentialing.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:33:37.323804+00:00"
+}

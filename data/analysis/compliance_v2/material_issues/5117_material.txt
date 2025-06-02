@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5117: Interdistrict Attendance
+Last Reviewed: 02/16/2022
+================================================================================
+
+Missing Appeal Process for Denied Applications (Confidence: 90%)
+Missing from: BOTH
+California law requires districts to provide an appeal process for denied interdistrict transfer applications, but neither the policy nor regulation specifies appeal procedures or timelines.
+
+Legal Basis:
+- Education Code 46601: If the governing board of a school district denies a request for interdistrict attendance, the parent or guardian may appeal the decision to the county board of education...
+
+Required Language:
+Parents/guardians may appeal denied interdistrict transfer decisions to the San Mateo County Board of Education within 30 days of the denial. The district shall provide written notice of appeal rights with any denial.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Mandatory Transfer Categories (Confidence: 85%)
+Missing from: BOTH
+Education Code requires districts to approve certain categories of interdistrict transfers, but the policy does not specify these mandatory approval categories, potentially leading to improper denials.
+
+Legal Basis:
+- Education Code 46600(b): An agreement for the interdistrict attendance of pupils may contain standards for the approval of applications for interdistrict attendance based on the capacity of the district or school...
+
+Required Language:
+The district shall approve interdistrict transfers for students who meet specific criteria including: children of employees, students completing their final year, students avoiding harassment, and other categories as specified in interdistrict agreements.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Application Deadlines and Processing Timelines (Confidence: 88%)
+Missing from: BOTH
+The policy lacks specific deadlines for submitting applications and timelines for district response, which are necessary for proper administration and parent planning.
+
+Legal Basis:
+- Education Code 46600: Districts must establish reasonable procedures and timelines for processing interdistrict attendance requests.
+
+Required Language:
+Applications for interdistrict transfers must be submitted by [specific date] for the following school year. The district will respond to complete applications within 30 days of receipt or by [specific date], whichever is later.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5157: Gender Identity and Access
+Last Reviewed: 12/12/2018
+================================================================================
+
+Missing Annual Notification Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation addresses the required annual notification to students, parents, employees, and the public about the district's nondiscrimination policy and complaint procedures. This notification must include information about protected characteristics and how to file complaints.
+
+Legal Basis:
+- Education Code Section 234.1(b)(2): Each local educational agency shall prominently and conspicuously post information on the local educational agency's Internet Web site, in every school and administrative building, and in every school publication that includes a statement of nondiscrimination, that includes information about filing a complaint pursuant to Section 262.3.
+
+Required Language:
+The district shall annually notify students, parents/guardians, employees, and the general public of its nondiscrimination policy. The notification shall include information about protected characteristics, how to file complaints, and contact information for the compliance officer. This information shall be prominently posted on the district website, in every school and administrative building, and included in relevant school publications.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Title IX Coordinator Designation (Confidence: 85%)
+Missing from: BOTH
+While the documents reference a general compliance officer, they do not specifically designate a Title IX coordinator as required by federal law. Gender identity discrimination often falls under Title IX jurisdiction, requiring specific coordinator designation and contact information.
+
+Legal Basis:
+- 34 CFR 106.8(a): Each recipient shall designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under this part, including any investigation of any complaint communicated to such recipient alleging its noncompliance with this part or alleging any actions which would be prohibited by this part.
+
+Required Language:
+The district designates the following employee as Title IX Coordinator: [Name], [Title], [Address], [Telephone Number], [Email]. The Title IX Coordinator is responsible for coordinating the district's compliance with Title IX, including investigating complaints of sex-based discrimination and harassment.
+
+Recommended Placement: BP
+
+----------------------------------------
+

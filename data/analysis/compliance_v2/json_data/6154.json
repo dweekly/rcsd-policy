@@ -1,0 +1,78 @@
+{
+  "code": "6154",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6154",
+    "title": "Homework/Makeup Work",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6154.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes homework philosophy and general guidelines, there is no Administrative Regulation to provide specific implementation procedures, timelines, and operational details required for consistent district-wide application. The policy references \"administrative regulations\" but none exist.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48205",
+            "text": "Requires specific procedures for makeup work opportunities for excused absences, including reasonable time periods for completion"
+          }
+        ],
+        "required_language": "Administrative Regulation should include: specific time limits for makeup work completion (e.g., \"Students shall have the same number of days to complete makeup work as they were absent, plus one additional day\"), procedures for requesting makeup assignments, teacher responsibilities for providing equivalent assignments, and specific processes for parent-teacher conferences regarding homework concerns.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Incomplete Makeup Work Procedures for Excused Absences",
+        "description": "While the policy mentions students shall complete makeup work \"within a reasonable period of time,\" it lacks the specific timeframes and procedures required by Education Code. The policy does not specify how many days students have to complete makeup work or the process for obtaining assignments.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48205(a)(1)",
+            "text": "\"...shall be allowed to complete all assignments and tests missed during the absence that can be reasonably provided and, upon satisfactory completion within a reasonable period of time, shall be given full credit therefor.\""
+          }
+        ],
+        "required_language": "Students with excused absences shall have a minimum of [specific number] school days equal to the number of days absent to complete makeup assignments and tests. For absences of one day, students shall have at least two school days to complete makeup work. Teachers must provide makeup assignments within [specific timeframe] of the student's return.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Independent Study Makeup Work Distinction",
+        "description": "The policy mentions \"with the exception of an independent study\" regarding unexcused absences but does not clarify the different procedures or requirements for independent study makeup work, which may cause confusion in implementation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Sections 51745-51749.6",
+            "text": "Independent study programs have specific requirements for student work completion and evaluation that differ from regular makeup work procedures"
+          }
+        ],
+        "required_language": "Independent study makeup work shall follow the procedures established in the district's independent study policy and shall comply with the written agreement between the student, parent, and school as required by Education Code Section 51747.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Lack of Specific Notification Procedures",
+        "description": "While the policy requires principals to inform teachers and parents of the homework policy annually, it lacks specific methods and timing for this notification, which could lead to inconsistent implementation across schools.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48980",
+            "text": "Requires annual notification to parents of various policies and procedures at the beginning of each school year"
+          }
+        ],
+        "required_language": "Notification of homework policy shall be provided to parents through the annual back-to-school information packet, school website posting, and at minimum one additional communication method. Teachers shall be informed of policy requirements during pre-school year professional development or staff meetings.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:32:25.016333+00:00"
+}

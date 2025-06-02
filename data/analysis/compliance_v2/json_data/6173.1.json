@@ -1,0 +1,84 @@
+{
+  "code": "6173.1",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6173.1",
+    "title": "Education For Foster Youth",
+    "type": "Policy",
+    "last_reviewed": "06/27/2018",
+    "file_path": "data/extracted/policies/6173.1.txt"
+  },
+  "regulation": {
+    "code": "6173.1",
+    "title": "Education For Foster Youth",
+    "type": "Regulation",
+    "last_reviewed": "03/11/2020",
+    "file_path": "data/extracted/regulations/6173.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Complaint Process Information for Foster Youth",
+        "description": "The regulation references that information about educational rights of foster youth \"shall be included in the annual uniform complaint procedures notification\" but fails to specify what specific information must be provided to foster youth about their complaint rights. The law requires specific information about complaint procedures to be provided directly to foster youth and their educational rights holders.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48853.5(f)",
+            "text": "The educational liaison shall ensure that foster youth and persons holding the right to make educational decisions for foster youth are informed of the complaint process available pursuant to Section 48853 and how to initiate that process."
+          }
+        ],
+        "required_language": "The district liaison shall ensure that foster youth and persons holding the right to make educational decisions for foster youth are informed of the complaint process available and how to initiate that process. This information shall be provided at the time of enrollment and whenever educational decisions are being made.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Training Requirements for Staff",
+        "description": "While the policy mentions that staff shall receive training on enrollment, placement, and transfer of foster youth, neither document specifies the required content areas for training as mandated by law, including trauma-informed practices and the specific educational rights of foster youth.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48853.5(d)",
+            "text": "The educational liaison shall develop protocols and procedures for creating awareness for district staff of the requirements for the proper enrollment, placement, and transfer of foster youth, including awareness of the specific educational needs of foster youth."
+          }
+        ],
+        "required_language": "Training for staff shall include, but not be limited to: (1) the educational rights of foster youth, (2) trauma-informed educational practices, (3) enrollment procedures and documentation requirements, (4) school of origin determination and best interest factors, (5) credit transfer and graduation requirement exemptions, and (6) confidentiality requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Immediate Enrollment Procedures for Immunization Records",
+        "description": "While the regulation states foster youth shall be immediately enrolled even without immunization records, it does not include the required procedures for handling immunization requirements during the enrollment process, including timelines for obtaining records and temporary enrollment provisions.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48853.5(b)(4)",
+            "text": "If a foster youth is unable to produce immunization records, the school shall immediately enroll the foster youth and shall allow a reasonable time, not to exceed 30 days, for the foster youth to obtain the required immunization records."
+          }
+        ],
+        "required_language": "If a foster youth is unable to produce immunization records at the time of enrollment, the school shall immediately enroll the foster youth and shall allow a reasonable time, not to exceed 30 days, for the foster youth to obtain the required immunization records. During this period, the foster youth shall be allowed to attend classes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Timeline for Best Interest Determination",
+        "description": "The regulation discusses best interest determinations but does not specify the required timeline for making these determinations when a foster youth's placement changes, which could delay enrollment.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48853.5(b)",
+            "text": "The determination of the school of origin shall be made expeditiously, and in no case later than seven calendar days after receiving notification of the need to make such determination."
+          }
+        ],
+        "required_language": "The determination of school of origin and best interest shall be made expeditiously, and in no case later than seven calendar days after receiving notification of a foster youth's placement change or enrollment request.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:36:19.045122+00:00"
+}

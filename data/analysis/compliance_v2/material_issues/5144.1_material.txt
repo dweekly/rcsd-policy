@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5144.1: Suspension And Expulsion/Due Process
+Last Reviewed: 12/08/2021
+================================================================================
+
+Missing Foster Youth and Homeless Student Notification Requirements for Expulsion Proceedings (Confidence: 95%)
+Missing from: BOTH
+California law requires specific notification procedures for foster youth and homeless students during expulsion proceedings. While the AR mentions these requirements for suspension extensions, neither the BP nor AR adequately addresses the mandatory notifications and participation rights for expulsion hearings.
+
+Legal Basis:
+- Education Code 48918.1: If the student is a foster child or youth or a homeless child or youth, the superintendent of the school district or the superintendent's designee shall notify the district liaison for foster youth or homeless students, respectively, who shall have the right to attend any meeting, hearing, or proceeding related to the disciplinary action.
+
+Required Language:
+If the student subject to expulsion is a foster youth, the Superintendent or designee shall notify the district liaison for foster youth, who has the right to attend any meeting, hearing, or proceeding related to the expulsion. If the student is a homeless child or youth, the Superintendent or designee shall notify the district liaison for homeless students, who has the right to attend any meeting, hearing, or proceeding related to the expulsion.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Alternative Educational Placement Requirements During Expulsion (Confidence: 90%)
+Missing from: BOTH
+California law requires districts to ensure that expelled students are provided with educational services and information about alternative educational placements. Neither document adequately addresses these mandatory requirements.
+
+Legal Basis:
+- Education Code 48916: Upon ordering the expulsion of any student, the governing board of a school district shall refer the pupil to a program of study which meets all of the conditions specified in subdivision (a) and is operated by the county superintendent of schools.
+
+Required Language:
+Upon expulsion, the district shall refer the student to alternative educational programs operated by the county superintendent of schools or other appropriate educational placements. The district shall provide information about available educational options and ensure continuing educational services during the expulsion period.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Specific Timelines for Expulsion Hearing Procedures (Confidence: 85%)
+Missing from: BOTH
+The documents lack specific timelines required by law for expulsion proceedings, including notice periods and hearing scheduling requirements.
+
+Legal Basis:
+- Education Code 48918(b): Written notice of the hearing shall be forwarded to the student and the student's parent or guardian at least 10 calendar days before the date of the hearing.
+
+Required Language:
+Written notice of the expulsion hearing shall be provided to the student and parent/guardian at least 10 calendar days before the hearing date. The hearing shall be held within 30 school days after the student is removed from school, unless the student requests in writing that the hearing be postponed.
+
+Recommended Placement: AR
+
+----------------------------------------
+

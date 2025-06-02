@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6153: School-Sponsored Trips
+Last Reviewed: 12/11/2024
+================================================================================
+
+Missing Required Transportation Safety Provisions (Confidence: 95%)
+Missing from: BOTH
+California Education Code requires specific transportation safety measures for school-sponsored trips, including driver qualifications, vehicle safety requirements, and transportation protocols. These critical safety requirements are completely absent from both the policy and regulation.
+
+Legal Basis:
+- Education Code Section 39831.5: The governing board of a school district may provide for the transportation of pupils to and from school-sponsored activities by means of school buses or other motor vehicles owned or operated by the district, subject to regulations adopted by the State Board of Education.
+
+Required Language:
+Transportation for school-sponsored trips shall comply with all applicable state and federal safety requirements. Drivers must possess appropriate licenses and certifications. All vehicles used must meet safety inspection requirements and carry appropriate insurance coverage.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Emergency Procedures and Communication Plan (Confidence: 90%)
+Missing from: BOTH
+Neither document establishes required emergency procedures, communication protocols with parents/district during emergencies, or emergency contact requirements that are essential for student safety during trips.
+
+Legal Basis:
+- Education Code Section 32020: Each school district shall establish written procedures to ensure the safety of pupils and staff during emergencies, disasters, and threats of violence.
+
+Required Language:
+Emergency procedures shall be established for all school-sponsored trips, including communication protocols with the district and parents/guardians, emergency contact information requirements, and procedures for medical emergencies, natural disasters, and other crisis situations.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Chaperone Background Check Requirements (Confidence: 85%)
+Missing from: BOTH
+The documents do not address mandatory background check requirements for chaperones and volunteers participating in school-sponsored trips, which is required under California law for individuals having contact with students.
+
+Legal Basis:
+- Education Code Section 45125.1: A person shall not be employed or serve as a volunteer aide in a position in which he or she would have supervisory or disciplinary power over pupils or would have, or would likely have, access to pupils outside of the direct supervision of a certificated employee, unless a criminal background investigation has been conducted.
+
+Required Language:
+All chaperones and volunteers participating in school-sponsored trips must complete required background checks and clearances as mandated by Education Code Section 45125.1 prior to participation in any trip involving student supervision.
+
+Recommended Placement: AR
+
+----------------------------------------
+

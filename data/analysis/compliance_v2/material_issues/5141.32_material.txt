@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 5141.32: Health Screening For School Entry
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Vision, Hearing, and Scoliosis Screening Requirements (Confidence: 90%)
+Missing from: BOTH
+California Education Code mandates specific vision, hearing, and scoliosis screening requirements for various grade levels that are not addressed in either document. These are separate from the comprehensive health screening and oral health assessment currently covered.
+
+Legal Basis:
+- Education Code Section 49451: The governing board of each school district shall provide for the testing of the sight and hearing of each pupil enrolled in the school district. Each pupil shall be tested at least once in kindergarten or grade 1, grade 2, grade 5, grade 8, and grade 10, and upon enrollment if the pupil is a transfer student who has not been previously tested.
+
+Required Language:
+Vision and hearing screening shall be conducted for students in kindergarten or grade 1, grade 2, grade 5, grade 8, and grade 10, and for transfer students who have not been previously tested. Scoliosis screening shall be provided for students in grade 7. Parents/guardians shall be notified of screening results and referred for follow-up care when indicated.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Confidentiality and Records Management Provisions (Confidence: 85%)
+Missing from: BOTH
+While the regulation mentions maintaining records in health files, it lacks comprehensive provisions for confidentiality, access rights, and records management as required by state and federal privacy laws.
+
+Legal Basis:
+- Education Code Section 49076: Each school district shall inform the parent or guardian of a minor pupil and adult pupils currently in attendance of the categories of directory information which it has designated with respect to each pupil and of the right of the parent or guardian of a minor pupil and adult pupil to refuse to permit the designation of any or all categories of directory information with respect to the pupil.
+
+Required Language:
+All health screening records shall be maintained confidentially in accordance with state and federal privacy laws. Parents/guardians have the right to inspect and review their child's health records. Health information shall not be disclosed without written parental consent except as permitted by law. Access to health records shall be limited to authorized personnel with legitimate educational interest.
+
+Recommended Placement: AR
+
+----------------------------------------
+

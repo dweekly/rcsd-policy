@@ -1,0 +1,63 @@
+{
+  "code": "0420.43",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "0420.43",
+    "title": "Charter School Revocation",
+    "type": "Policy",
+    "last_reviewed": "05/23/2018",
+    "file_path": "data/extracted/policies/0420.43.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Charter School Revocation Procedures",
+        "description": "While the Board Policy establishes the framework and requirements for charter school revocation, there is no corresponding Administrative Regulation to provide detailed implementation procedures. Given the complexity and legal requirements of the revocation process, detailed procedural guidance is essential for proper implementation and compliance with Education Code requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 47607",
+            "text": "Charter may be revoked by the authority that granted the charter under this section if the authority finds, through a showing of substantial evidence, that the charter school did any of the following..."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be created to establish detailed procedures for implementing the charter school revocation process, including specific timelines, documentation requirements, notification procedures, hearing protocols, and staff responsibilities for each step of the revocation process outlined in the Board Policy.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Specific Documentation and Record-Keeping Requirements",
+        "description": "While the policy addresses the substantive requirements for revocation, it lacks specific guidance on documentation standards, record-keeping requirements, and file management procedures that would ensure compliance with legal requirements and facilitate potential appeals or legal challenges.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 11968.5.2",
+            "text": "The notice of violation shall identify all evidence relied upon by the chartering authority in determining that the charter school committed the alleged violations..."
+          }
+        ],
+        "required_language": "Procedures for maintaining comprehensive documentation of all evidence, correspondence, and decisions throughout the revocation process, including requirements for organizing and preserving records that may be needed for appeals or legal proceedings.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Staff Role Assignments and Delegation Procedures",
+        "description": "The policy does not specify which staff members are responsible for various aspects of the revocation process, nor does it establish clear delegation of authority when the Superintendent is unavailable. This could lead to delays or procedural errors in time-sensitive revocation proceedings.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 47607",
+            "text": "The revocation process involves specific timelines and procedural requirements that require clear assignment of responsibilities to ensure compliance."
+          }
+        ],
+        "required_language": "Clear assignment of staff responsibilities for each phase of the revocation process, including designation of primary and backup personnel for time-sensitive actions, and procedures for delegation of authority when key personnel are unavailable.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:18:40.157416+00:00"
+}

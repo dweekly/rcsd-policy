@@ -1,0 +1,84 @@
+{
+  "code": "5141.27",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5141.27",
+    "title": "Food Allergies/Special Dietary Needs",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5141.27.txt"
+  },
+  "regulation": {
+    "code": "5141.27",
+    "title": "Food Allergies/Special Dietary Needs",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5141.27.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Stock Epinephrine Auto-Injector Authorization",
+        "description": "California law requires school districts to authorize trained personnel to use stock epinephrine auto-injectors for students experiencing anaphylaxis, even if the student does not have a known allergy or prescribed auto-injector. This is a critical safety requirement that could be life-saving in emergency situations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49414",
+            "text": "A school district may authorize one or more trained personnel to use epinephrine auto-injectors... for any student who may be experiencing anaphylaxis, regardless of known history."
+          }
+        ],
+        "required_language": "The district may authorize trained personnel to use stock epinephrine auto-injectors for any student experiencing anaphylaxis, regardless of whether the student has a known allergy or prescribed auto-injector. Such authorization shall include procedures for obtaining, storing, and administering stock epinephrine auto-injectors in accordance with Education Code 49414.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Training Requirements for Stock Epinephrine",
+        "description": "The regulation lacks specific training requirements for personnel authorized to administer stock epinephrine auto-injectors, including the required training components and frequency as mandated by state law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49414",
+            "text": "Training shall be conducted by a school nurse or other qualified person designated by an authorizing physician and shall cover... recognition of anaphylaxis symptoms, standards and procedures for storage and administration of an epinephrine auto-injector, emergency follow-up procedures, and proper disposal of used auto-injectors."
+          }
+        ],
+        "required_language": "Personnel authorized to administer stock epinephrine auto-injectors shall receive training conducted by a school nurse or other qualified person designated by an authorizing physician. Training shall include: (1) recognition of anaphylaxis symptoms, (2) standards and procedures for storage and administration of epinephrine auto-injectors, (3) emergency follow-up procedures, and (4) proper disposal of used auto-injectors.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 75,
+        "title": "Missing Liability Protection Statement",
+        "description": "The policy should include the liability protections provided under state law for personnel administering epinephrine auto-injectors in good faith, which is important for staff confidence and legal clarity.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49414",
+            "text": "A person who administers an epinephrine auto-injector... shall not be subject to professional review, be liable in a civil action, or be subject to criminal prosecution for his or her acts or omissions, except for willful acts of misconduct."
+          }
+        ],
+        "required_language": "Personnel who administer epinephrine auto-injectors in accordance with this policy and applicable law shall not be subject to professional review, civil liability, or criminal prosecution for their acts or omissions, except for willful acts of misconduct.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Annual Review Requirement",
+        "description": "Best practice and some legal guidance suggests annual review of individual student allergy management plans, but this is not explicitly required in the current documents.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49423",
+            "text": "Individual health care plans should be reviewed annually or when the student's health status changes."
+          }
+        ],
+        "required_language": "Individual allergy management plans shall be reviewed annually or when the student's health status changes, in consultation with the student's physician, parent/guardian, and school health personnel.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:24:41.538259+00:00"
+}

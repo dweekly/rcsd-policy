@@ -1,0 +1,84 @@
+{
+  "code": "6173",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6173",
+    "title": "Education For Homeless Children",
+    "type": "Policy",
+    "last_reviewed": "06/15/2022",
+    "file_path": "data/extracted/policies/6173.txt"
+  },
+  "regulation": {
+    "code": "6173",
+    "title": "Education For Homeless Children",
+    "type": "Regulation",
+    "last_reviewed": "06/15/2022",
+    "file_path": "data/extracted/regulations/6173.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Website Posting Requirements for Homeless Student Information",
+        "description": "Education Code 48852.6 requires specific information to be posted on district and school websites, including the district liaison's contact information, educational rights of homeless students, and resources available. While the BP mentions this requirement generally, neither document specifies what information must be posted or provides the required detailed content.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48852.6",
+            "text": "Each local educational agency shall post on its Internet Web site, and on the Internet Web site of each school within the local educational agency, information on homelessness, including, but not limited to, information regarding the educational rights and resources available to persons experiencing homelessness, and the contact information for the local educational agency's liaison for homeless children and youths."
+          }
+        ],
+        "required_language": "The district and each school shall post on their websites: (1) Contact information for the district liaison for homeless children and youths; (2) Information regarding the educational rights of homeless students as specified in Education Code 51225.1 and 51225.2; (3) Information regarding resources available to persons experiencing homelessness; and (4) Other information on homelessness as appropriate to assist homeless students and families.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Educational Rights Information Requirements",
+        "description": "Education Code 51225.1 and 51225.2 specify detailed educational rights that must be communicated to homeless students and families. While the documents reference these rights generally, they do not include the specific enumerated rights required by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 51225.1",
+            "text": "The educational rights of homeless children and youths include, but are not limited to, the following: (a) The right to immediate enrollment... (b) The right to educational stability... (c) The right to receive transportation... (d) The right to educational services comparable to those received by other students... (e) The right not to be segregated... (f) The right to receive credit for full or partial coursework... (g) The right to have access to academic and extracurricular activities... (h) The right to receive information about their educational rights."
+          }
+        ],
+        "required_language": "The educational rights of homeless children and youths include: (a) immediate enrollment in school; (b) educational stability and school choice; (c) transportation to school; (d) educational services comparable to other students; (e) protection from segregation and stigmatization; (f) credit for coursework satisfactorily completed; (g) access to academic and extracurricular activities; and (h) information about educational rights and complaint procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Partial Credit Award Requirements",
+        "description": "Education Code 51225.2 requires specific procedures for awarding partial credit to homeless students for coursework completed at previous schools. This important academic protection is not addressed in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 51225.2",
+            "text": "A homeless child or youth who transfers to a new school shall receive credit for all full or partial coursework satisfactorily completed while attending a prior school, and shall not be required to retake a course if the pupil has satisfactorily completed the entire course in a prior school."
+          }
+        ],
+        "required_language": "A homeless student who transfers to a district school shall receive credit for all full or partial coursework satisfactorily completed while attending a prior school and shall not be required to retake a course if the student has satisfactorily completed the entire course in a prior school. The district shall accept and issue credit for partial coursework completed by homeless students even when a full course was not completed.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Specific Timeline for Dispute Resolution Appeals",
+        "description": "While the AR specifies that the Superintendent has five working days to make a determination on appeals, it does not specify timelines for the initial dispute resolution process or for forwarding appeals to the county office, which could delay resolution.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "42 USC 11432(g)(3)(E)",
+            "text": "The local educational agency shall carry out the dispute resolution process as expeditiously as possible after receiving notice of the dispute."
+          }
+        ],
+        "required_language": "The district liaison shall initiate the dispute resolution process immediately upon receiving notice of a dispute and shall make an initial determination within three working days. If appealed to the county office, all documentation shall be forwarded within two working days of the Superintendent's decision.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:36:04.569222+00:00"
+}

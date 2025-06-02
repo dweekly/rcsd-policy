@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4112.5: Criminal Record Check
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Coverage for Classified Employees (Confidence: 90%)
+Missing from: BOTH
+The regulation only addresses certificated employees for conviction-related termination procedures, but Education Code requires criminal background checks for all employees. The regulation lacks procedures for handling classified employees with disqualifying convictions.
+
+Legal Basis:
+- Education Code 45125.1: Prohibits employment of classified employees convicted of violent or serious felonies, with similar procedures as certificated staff
+
+Required Language:
+Procedures for classified employees parallel to those for certificated employees, including immediate placement on unpaid leave upon conviction notification and termination procedures unless employee has certificate of rehabilitation and pardon
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Volunteer Background Check Requirements (Confidence: 85%)
+Missing from: BOTH
+The regulation does not address criminal background check requirements for volunteers who have frequent or prolonged contact with students, which is required by California law.
+
+Legal Basis:
+- Education Code 45125.1: Requires background checks for volunteers who will have frequent or prolonged contact with students
+
+Required Language:
+Procedures for conducting criminal background checks on volunteers who will have frequent or prolonged contact with students, including fingerprinting requirements and disqualification criteria
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing DOJ Clearance Timeline Requirements (Confidence: 80%)
+Missing from: BOTH
+The regulation does not specify the required timeline for receiving DOJ clearance before employment begins, which is mandated by state law.
+
+Legal Basis:
+- Education Code 44830.1, 45125.1: Requires that no person may be employed until DOJ clearance is received, with limited exceptions for emergency situations
+
+Required Language:
+No person shall be employed until DOJ clearance is received. Emergency employment procedures may be used only when specific conditions are met and for limited time periods as specified in law
+
+Recommended Placement: AR
+
+----------------------------------------
+

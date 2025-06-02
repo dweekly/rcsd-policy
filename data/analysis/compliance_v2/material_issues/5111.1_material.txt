@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5111.1: District Residency
+Last Reviewed: 06/27/2018
+================================================================================
+
+Missing Notification Requirements for Investigation Procedures (Confidence: 90%)
+Missing from: BOTH
+Education Code 48204.1 requires specific notification procedures when initiating residency investigations, including written notice to parents/guardians before beginning an investigation. Neither the policy nor regulation includes these mandatory notification requirements.
+
+Legal Basis:
+- Education Code 48204.1(c): Before conducting an investigation pursuant to this section, the school district shall provide written notice to the parent or guardian of the pupil that includes all of the following: (1) A statement that the school district believes the pupil may not meet the residency requirements. (2) A summary of the evidence upon which this belief is based. (3) An opportunity for the parent or guardian to respond and provide evidence of residency.
+
+Required Language:
+Before conducting a residency investigation, the Superintendent or designee shall provide written notice to the parent/guardian that includes: (1) A statement that the district believes the student may not meet residency requirements, (2) A summary of the evidence upon which this belief is based, and (3) An opportunity for the parent/guardian to respond and provide evidence of residency.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Complaint Process Rights (Confidence: 95%)
+Missing from: BOTH
+Education Code 48204.1 requires districts to inform parents/guardians of their right to file a complaint with the California Department of Education if they believe the district violated residency investigation procedures. This notification requirement is missing from both documents.
+
+Legal Basis:
+- Education Code 48204.1(f): A school district shall inform the parent or guardian of a pupil of the right to file a complaint with the department pursuant to the uniform complaint procedures if the parent or guardian believes that the school district has violated this section.
+
+Required Language:
+The district shall inform parents/guardians of their right to file a complaint with the California Department of Education pursuant to the uniform complaint procedures if they believe the district has violated residency investigation requirements.
+
+Recommended Placement: BP
+
+----------------------------------------
+

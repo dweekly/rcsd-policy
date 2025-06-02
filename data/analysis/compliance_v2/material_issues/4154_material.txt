@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4154: Health And Welfare Benefits
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing COBRA Continuation Coverage Requirements (Confidence: 90%)
+Missing from: BOTH
+Federal law requires specific COBRA notification and continuation coverage procedures for group health plans. Neither the policy nor regulation addresses these mandatory requirements for qualifying events, notification timelines, and continuation coverage options.
+
+Legal Basis:
+- 29 USC 1161-1168 (COBRA); Government Code Section 22892: COBRA requires group health plans to offer continuation coverage to qualified beneficiaries who lose coverage due to qualifying events. California Government Code 22892 provides similar continuation rights for public employees.
+
+Required Language:
+The district shall provide COBRA continuation coverage as required by federal law, including proper notification of qualifying events, election periods, and premium payment requirements. Eligible employees and dependents may continue group health coverage for specified periods following qualifying events such as termination, reduction in hours, or other covered circumstances.
+
+Recommended Placement: AR
+
+----------------------------------------
+

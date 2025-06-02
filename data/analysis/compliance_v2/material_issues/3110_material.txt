@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3110: Transfer Of Funds
+Last Reviewed: 06/23/2021
+================================================================================
+
+Complete Mismatch Between Policy Title and Content (Confidence: 95%)
+Missing from: BOTH
+The policy is titled "Transfer of Funds" but contains content about school monitoring and intervention for underperforming schools (CSI, TSI, ATSI). This appears to be a data entry error where content from a different policy was inserted. The policy lacks any content related to fund transfers, which are governed by specific Education Code requirements.
+
+Legal Basis:
+- Education Code Section 42600-42603: Governs transfers between funds and requires board approval for interfund transfers, with specific procedures and limitations on transfers between restricted and unrestricted funds.
+
+Required Language:
+The entire policy content must be replaced with provisions addressing: (1) Board approval requirements for fund transfers, (2) Procedures for interfund transfers, (3) Restrictions on transfers from restricted funds, (4) Documentation and reporting requirements, and (5) Compliance with Education Code sections 42600-42603.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Board Approval Requirements (Confidence: 85%)
+Missing from: BOTH
+The policy fails to address the fundamental requirement that interfund transfers must receive board approval, which is a core legal requirement for fund transfer policies.
+
+Legal Basis:
+- Education Code Section 42600: Requires board approval for transfers between funds, with specific limitations on transfers from restricted to unrestricted funds.
+
+Required Language:
+All interfund transfers shall require prior approval by the Board of Education, except for transfers specifically authorized by law or previously approved by the Board through established procedures.
+
+Recommended Placement: BP
+
+----------------------------------------
+

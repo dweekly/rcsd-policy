@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3530: Risk Management/Insurance
+Last Reviewed: 02/10/2021
+================================================================================
+
+Missing Mandatory Fidelity Bond Coverage Requirements (Confidence: 85%)
+Missing from: BOTH
+Education Code 41021 requires specific fidelity bond coverage amounts and designates which positions must be bonded. The regulation mentions fidelity bonds but lacks the mandatory minimum coverage amounts and specific position requirements mandated by law.
+
+Legal Basis:
+- Education Code Section 41021: The governing board of each school district shall require that each person whose duty it is to receive, account for, or disburse district funds be covered by a fidelity bond in an amount determined by the governing board but not less than the amounts specified in this section... The minimum amount of the fidelity bond shall be: (a) For the superintendent, $50,000. (b) For the chief business official, $50,000. (c) For other employees, an amount determined by the governing board.
+
+Required Language:
+The district shall maintain fidelity bond coverage for employees whose duties include receiving, accounting for, or disbursing district funds. Minimum bond amounts shall be: (1) Superintendent - $50,000, (2) Chief Business Official - $50,000, (3) Other employees handling district funds - amount determined by the Board but adequate to protect district interests.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Liability Insurance Coverage Minimums (Confidence: 80%)
+Missing from: BOTH
+Education Code 35214 establishes minimum liability insurance coverage requirements that must be maintained. The documents reference liability insurance but do not specify the mandatory minimum coverage amounts.
+
+Legal Basis:
+- Education Code Section 35214: The amount of insurance coverage maintained by a school district pursuant to this article shall be not less than the minimum amounts established by the State Board of Education.
+
+Required Language:
+Liability insurance coverage shall meet or exceed minimum amounts established by the State Board of Education and shall provide adequate protection for the district's operations, including general liability, professional liability, and employment practices liability coverage.
+
+Recommended Placement: AR
+
+----------------------------------------
+

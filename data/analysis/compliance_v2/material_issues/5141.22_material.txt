@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5141.22: Infectious Diseases
+Last Reviewed: 11/18/2020
+================================================================================
+
+Missing Specific Exclusion Criteria and Procedures (Confidence: 90%)
+Missing from: BOTH
+Health and Safety Code requires specific procedures for excluding students with communicable diseases. While the BP mentions exclusion "in accordance with law," neither document provides the required specific criteria, timeframes, or readmission procedures mandated by state law.
+
+Legal Basis:
+- Health and Safety Code 120230: Any person in charge of a school shall exclude from the school any pupil who shows symptoms of any communicable disease reportable to the local health officer or any other infection or infestation deemed by the local health officer to be communicable.
+
+Required Language:
+Students shall be excluded from school if they show symptoms of any communicable disease reportable to the local health officer or any other infection deemed communicable by the health officer. Excluded students may return to school only upon recovery or with written permission from the local health officer.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Immunization Requirements Reference (Confidence: 85%)
+Missing from: BOTH
+California Education Code requires schools to maintain policies addressing immunization requirements for attendance. Neither the BP nor AR references the connection between infectious disease control and mandatory immunization requirements.
+
+Legal Basis:
+- Education Code 49403: The governing authority of a school or the person in charge thereof shall not unconditionally admit or advance any pupil to the 7th grade level of any private or public elementary or secondary school for the first time in this state unless the pupil has been immunized for his or her age as required by this section.
+
+Required Language:
+Students must meet all immunization requirements as specified in Education Code 49403 and related regulations as a condition of school attendance, except as otherwise provided by law for medical exemptions.
+
+Recommended Placement: BP
+
+----------------------------------------
+

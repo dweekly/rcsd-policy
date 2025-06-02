@@ -1,0 +1,63 @@
+{
+  "code": "4000",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4000",
+    "title": "Concepts And Roles",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4000.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Personnel Management Framework",
+        "description": "While the Board Policy establishes the conceptual framework for personnel management, there is no corresponding Administrative Regulation to provide the detailed procedures for implementation. Education Code requires districts to have specific procedures for hiring, evaluation, discipline, and other personnel functions referenced in the policy.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35161",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation 4000 should include specific procedures for: (1) Framework for hiring practices implementation, (2) Personnel nomination and recommendation processes, (3) Employee assignment and supervision procedures, (4) Evaluation system implementation, (5) Disciplinary action procedures, (6) Employee suggestion and communication processes, and (7) Collective bargaining support procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009, which is over 14 years ago. While not legally mandated, regular policy review is a best practice to ensure continued compliance with evolving legal requirements and educational standards.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "On or before December 31 of each year, the governing board of each school district shall adopt rules and regulations as it deems necessary and proper for the government and control of the schools of the district."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and best practices in personnel management, with regular review cycles established.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Lack of Specific Reference to Equal Employment Opportunity",
+        "description": "While the policy mentions compliance with state and federal law, it does not explicitly reference equal employment opportunity principles or non-discrimination requirements that are fundamental to personnel policies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 12900 et seq. (Fair Employment and Housing Act)",
+            "text": "It is the public policy of California that the right to seek, obtain, and hold employment without discrimination because of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, or military and veteran status is hereby recognized as and declared to be a civil right."
+          }
+        ],
+        "required_language": "Policy should explicitly state the district's commitment to equal employment opportunity and non-discrimination in all personnel practices, consistent with state and federal civil rights laws.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:32:11.366227+00:00"
+}

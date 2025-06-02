@@ -1,0 +1,84 @@
+{
+  "code": "6170.5",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6170.5",
+    "title": "Transition To Kindergarten",
+    "type": "Policy",
+    "last_reviewed": "01/23/2013",
+    "file_path": "data/extracted/policies/6170.5.txt"
+  },
+  "regulation": {
+    "code": "6170.5",
+    "title": "Transition To Kindergarten",
+    "type": "Regulation",
+    "last_reviewed": "04/30/2013",
+    "file_path": "data/extracted/regulations/6170.5.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Kindergarten Readiness Assessment Requirements",
+        "description": "California Education Code requires districts to conduct kindergarten readiness assessments and report results to the state. Neither the policy nor regulation addresses the mandatory assessment requirements, data collection, or reporting obligations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48000(c)",
+            "text": "Each school district shall assess the readiness of pupils entering kindergarten using a kindergarten readiness assessment instrument and shall report the results to the department in the manner prescribed by the Superintendent of Public Instruction."
+          }
+        ],
+        "required_language": "The district shall conduct kindergarten readiness assessments for all entering kindergarten students using state-approved assessment instruments. Assessment results shall be reported to the California Department of Education as required by law and used to inform instructional planning and support services.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing English Learner Transition Support Requirements",
+        "description": "State law requires specific provisions for English learners transitioning to kindergarten, including language assessment and appropriate instructional support. Neither document addresses these mandatory requirements for EL students.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 313",
+            "text": "Each school district shall take steps to identify pupils whose primary language is other than English and shall assess the English language development of such pupils."
+          }
+        ],
+        "required_language": "The district shall identify incoming kindergarten students whose primary language is other than English and shall conduct appropriate language assessments. Transition activities and materials shall be provided in the family's primary language when feasible, and appropriate English language development support shall be planned.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Special Education Transition Requirements",
+        "description": "Federal and state law require specific transition planning for students with disabilities moving from early intervention services to kindergarten. The documents lack required provisions for IEP transition meetings and coordination with regional centers.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 56426.9",
+            "text": "For each individual with exceptional needs, the individualized education program team shall consider whether the child requires assistive technology devices and services and shall provide a statement of the transition services needs of the child."
+          }
+        ],
+        "required_language": "For students with disabilities transitioning to kindergarten, the district shall coordinate with early intervention providers and conduct transition IEP meetings as required by law. The district shall ensure continuity of special education services and appropriate placement in the least restrictive environment.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Parent Notification Timeline Requirements",
+        "description": "While the regulation mentions orientations and communications, it lacks specific timelines for parent notifications about kindergarten enrollment, which are recommended by state guidance for effective transition planning.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48200",
+            "text": "Each person between the ages of 6 and 18 years not exempted under the provisions of this chapter or Chapter 3 is subject to compulsory full-time education."
+          }
+        ],
+        "required_language": "Parents of age-eligible children shall be notified of kindergarten enrollment opportunities and requirements no later than March 1st of each year, with follow-up communications provided through the summer months.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:35:33.220974+00:00"
+}

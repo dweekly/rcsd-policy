@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 0520.1: Comprehensive And Targeted School Improvement
+Last Reviewed: 06/23/2021
+================================================================================
+
+Missing Stakeholder Engagement Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy mentions developing plans "in partnership with principals, other school leaders, teachers, and parents/guardians" but lacks specific requirements for meaningful stakeholder engagement, including community members and students where appropriate, as required by federal law.
+
+Legal Basis:
+- 20 USC 6311(d)(1)(B): School improvement plans shall be developed with timely and meaningful consultation with parents, community members, school leaders, teachers, and other school personnel.
+
+Required Language:
+Plans shall be developed with timely and meaningful consultation with parents, community members, school leaders, teachers, other school personnel, and where appropriate, students. The district shall establish procedures to ensure meaningful stakeholder engagement throughout the plan development, implementation, and monitoring process.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Public Availability and Translation Requirements (Confidence: 85%)
+Missing from: BOTH
+Federal law requires that school improvement plans be made publicly available and provided in languages that parents can understand. Neither the policy nor regulation addresses these accessibility requirements.
+
+Legal Basis:
+- 20 USC 6311(d)(1)(C): School improvement plans shall be made publicly available and provided in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand.
+
+Required Language:
+School improvement plans shall be made publicly available on the district website and provided in an understandable and uniform format. To the extent practicable, plans shall be provided in a language that parents can understand, consistent with the district's translation and interpretation procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Annual Review and Revision Requirements (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions regular review and monitoring, it does not specifically address the federal requirement for annual review and revision of school improvement plans based on student needs and progress.
+
+Legal Basis:
+- 20 USC 6311(d)(1)(D): School improvement plans shall be reviewed and revised, as appropriate, based on student needs and progress.
+
+Required Language:
+School improvement plans shall be reviewed annually and revised as appropriate based on student needs and progress. The annual review shall include analysis of student outcome data, implementation fidelity, and stakeholder feedback to determine necessary plan modifications.
+
+Recommended Placement: AR
+
+----------------------------------------
+

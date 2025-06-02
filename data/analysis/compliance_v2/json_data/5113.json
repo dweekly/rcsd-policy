@@ -1,0 +1,69 @@
+{
+  "code": "5113",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5113",
+    "title": "Absences And Excuses",
+    "type": "Policy",
+    "last_reviewed": "11/06/2024",
+    "file_path": "data/extracted/policies/5113.txt"
+  },
+  "regulation": {
+    "code": "5113",
+    "title": "Absences And Excuses",
+    "type": "Regulation",
+    "last_reviewed": "11/06/2024",
+    "file_path": "data/extracted/regulations/5113.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Required Board Resolution for Absence Verification Methods",
+        "description": "The Board Policy states that \"The Governing Board shall, by resolution entered into its minutes, approve reasonable methods that may be used to verify student absences due to illness or quarantine.\" However, there is no evidence that such a resolution has been formally adopted and entered into the Board minutes, even though the Administrative Regulation details the verification methods.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 421",
+            "text": "The governing board of each school district shall, by resolution entered in its minutes, approve reasonable methods that may be used to verify student absences due to illness or quarantine."
+          }
+        ],
+        "required_language": "The Board must adopt a formal resolution approving the verification methods detailed in AR 5113 and ensure this resolution is properly entered into the Board meeting minutes. The policy should reference the specific resolution date and number.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Incomplete Reference to Confidential Medical Services Age Range",
+        "description": "The Board Policy mentions confidential medical appointments per Education Code 46010.1 but doesn't specify the grade levels affected. The Administrative Regulation correctly identifies grades 7-8 in the notification section, but the policy should be more specific about the scope of this provision.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 46010.1",
+            "text": "School authorities may excuse from school any pupil in grades 7 to 12, inclusive, for the purpose of obtaining confidential medical services without the consent of the pupil's parent or guardian."
+          }
+        ],
+        "required_language": "Students in grades 7-12 shall not be absent from school without their parents/guardians' knowledge or consent, except in cases of medical emergency or, as authorized pursuant to Education Code 46010.1, for a confidential medical appointment.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Explicit Statement on Academic Credit Protection",
+        "description": "While the policy mentions that students can complete missed work for \"full credit,\" it doesn't explicitly state that grades cannot be reduced or academic credit lost for excused absences, which is a specific requirement for annual notification to parents.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48980(j)",
+            "text": "At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify the parent or guardian of a minor pupil...that a pupil shall not have his or her grade reduced or lose academic credit for any excused absence or absences...if missed assignments and tests that can reasonably be provided are satisfactorily completed within a reasonable period of time."
+          }
+        ],
+        "required_language": "Students shall not have their grades reduced or lose academic credit for any excused absence if missed assignments and tests that can reasonably be provided are satisfactorily completed within a reasonable period of time.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:19:38.722890+00:00"
+}

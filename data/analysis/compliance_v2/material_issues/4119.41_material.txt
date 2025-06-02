@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4119.41: Employees With Infectious Disease
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing ADA Compliance Language (Confidence: 90%)
+Missing from: BOTH
+The policy lacks specific reference to Americans with Disabilities Act (ADA) requirements and interactive process obligations. While it mentions "reasonable accommodation," it doesn't establish the required interactive process or reference federal ADA requirements that apply to school districts as employers.
+
+Legal Basis:
+- Government Code Section 12940: It shall be an unlawful employment practice for an employer to fail to engage in a timely, good faith, interactive process with the employee or applicant to determine effective reasonable accommodations.
+
+Required Language:
+The district shall engage in an interactive process with employees to determine effective reasonable accommodations in compliance with the Americans with Disabilities Act and California Fair Employment and Housing Act. This process shall be conducted in good faith and in a timely manner.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing HIPAA and CMIA Privacy Protections (Confidence: 95%)
+Missing from: BOTH
+While the policy mentions confidentiality generally, it lacks specific reference to Health Insurance Portability and Accountability Act (HIPAA) and California Confidentiality of Medical Information Act (CMIA) requirements for handling protected health information.
+
+Legal Basis:
+- Civil Code Section 56.10: Medical information may not be disclosed by a provider of health care, health care service plan, or contractor without first obtaining an authorization, except in specified circumstances.
+
+Required Language:
+All medical information shall be handled in compliance with the Health Insurance Portability and Accountability Act (HIPAA) and California Confidentiality of Medical Information Act (CMIA). Access to medical information shall be limited to those with a legitimate educational interest and business need to know.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Return-to-Work Procedures (Confidence: 80%)
+Missing from: BOTH
+The policy lacks specific procedures for employees returning to work after treatment or recovery from infectious diseases, including medical clearance requirements and ongoing monitoring procedures.
+
+Legal Basis:
+- Education Code Section 44977: The governing board may require any employee to submit to a physical or mental examination by a physician designated by the governing board when the employee's physical or mental condition appears to be interfering with the performance of duties.
+
+Required Language:
+Employees returning to work following treatment for infectious diseases may be required to provide medical clearance from their treating physician or district-designated physician confirming their ability to perform essential job functions without posing a direct threat to health or safety.
+
+Recommended Placement: AR
+
+----------------------------------------
+

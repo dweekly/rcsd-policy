@@ -1,0 +1,99 @@
+{
+  "code": "6171",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6171",
+    "title": "Title I Programs",
+    "type": "Policy",
+    "last_reviewed": "12/06/2023",
+    "file_path": "data/extracted/policies/6171.txt"
+  },
+  "regulation": {
+    "code": "6171",
+    "title": "Title I Programs",
+    "type": "Regulation",
+    "last_reviewed": "12/06/2023",
+    "file_path": "data/extracted/regulations/6171.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing School-Level Parent and Family Engagement Policy Requirements",
+        "description": "Federal law requires that each Title I school develop its own written parent and family engagement policy jointly with parents. While the district-level parent engagement policy is addressed in the AR, there is no mention of the requirement for individual Title I schools to develop their own policies with specific required components including parent-school compacts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6318(b)",
+            "text": "Each school served under this part shall jointly develop with, and distribute to, parents and family members of participating children a written parent and family engagement policy, agreed on by such parents, that shall describe the means for carrying out the requirements of subsections (c) through (f)."
+          }
+        ],
+        "required_language": "Each Title I school shall jointly develop with parents and family members a written parent and family engagement policy that includes: (1) convening an annual meeting to inform parents of Title I participation and requirements; (2) offering meetings at flexible times; (3) involving parents in planning, review, and improvement of programs; (4) providing timely information about Title I programs; (5) providing reasonable support for parent involvement activities; and (6) developing a school-parent compact outlining shared responsibilities for student achievement.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing School-Parent Compact Requirements",
+        "description": "Federal law specifically requires each Title I school to develop a school-parent compact that outlines how parents, school staff, and students will share responsibility for improved student academic achievement. This compact must describe specific responsibilities and is a distinct requirement from the general parent engagement policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6318(d)",
+            "text": "Each school served under this part shall jointly develop with parents for all children served under this part a school-parent compact that outlines how parents, the entire school staff, and students will share the responsibility for improved student academic achievement."
+          }
+        ],
+        "required_language": "Each Title I school shall jointly develop with parents a school-parent compact that: (1) describes the school's responsibility to provide high-quality curriculum and instruction; (2) describes parents' responsibilities to support their children's learning; (3) addresses the importance of communication between teachers and parents through conferences, reports, and reasonable access to staff; and (4) describes opportunities for parents to volunteer and participate in their child's class.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Supplement Not Supplant Requirements",
+        "description": "Federal Title I law requires that Title I funds be used to supplement, not supplant, state and local educational funds. This is a fundamental requirement for Title I compliance that must be explicitly addressed in district policy or regulation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6321(b)",
+            "text": "A local educational agency may receive funds under this part only if State and local funds will be used in schools served under this part to provide services that, taken as a whole, are at least comparable to services in schools that are not receiving funds under this part."
+          }
+        ],
+        "required_language": "Title I funds shall be used to supplement, not supplant, state and local educational funds. The district shall ensure that Title I services are in addition to, and do not replace, services that would otherwise be provided with state and local funds in the absence of Title I funding.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 75,
+        "title": "Missing Targeted Assistance Program Requirements",
+        "description": "While the AR addresses schoolwide programs, it does not address targeted assistance programs, which are an alternative service delivery model for Title I schools that do not operate schoolwide programs. Schools must choose between these two models, and the requirements for targeted assistance programs are distinct.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6315",
+            "text": "A local educational agency may use funds received under this part to provide services under this part to eligible children in kindergarten through grade 12 in schools that are not operating schoolwide programs."
+          }
+        ],
+        "required_language": "Title I schools not operating schoolwide programs may operate targeted assistance programs to serve eligible students who are failing or at risk of failing to meet state academic standards. Targeted assistance programs shall: (1) use multiple, educationally related selection criteria to identify eligible students; (2) provide services to help students meet challenging state academic standards; (3) coordinate with other school programs; and (4) provide professional development for staff serving eligible students.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Reference to \"Adequate Yearly Progress\"",
+        "description": "The BP references \"adequate yearly progress\" which was replaced by different accountability measures under ESSA. While not a compliance violation, this language should be updated to reflect current federal requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "20 USC 6311",
+            "text": "Every Student Succeeds Act replaced AYP with state accountability systems that include multiple measures of school quality and student success."
+          }
+        ],
+        "required_language": "The Board shall use state assessment results and other available measures or indicators to annually determine whether each participating school is meeting state accountability requirements and making progress toward ensuring all students meet state academic standards.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:36:00.543620+00:00"
+}

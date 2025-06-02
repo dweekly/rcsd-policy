@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 0420.4: Charter School Authorization
+Last Reviewed: 05/23/2018
+================================================================================
+
+Missing Charter Renewal Procedures (Confidence: 95%)
+Missing from: BOTH
+California law requires specific procedures for charter renewal, including timelines for submission and review of renewal petitions. The policy mentions initial charter terms but lacks comprehensive renewal procedures required by Education Code 47607.
+
+Legal Basis:
+- Education Code 47607: A charter may be renewed by the chartering authority for successive five-year terms. A charter school seeking renewal shall submit its petition for renewal no later than 30 days before the expiration of the charter, and the chartering authority shall rule on the renewal petition no later than 30 days before the expiration of the charter.
+
+Required Language:
+Charter schools seeking renewal must submit renewal petitions no later than 30 days before charter expiration. The Board shall rule on renewal petitions no later than 30 days before charter expiration. Renewal may be granted for successive five-year terms based on the school's performance and compliance with charter terms.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Charter Revocation Procedures (Confidence: 90%)
+Missing from: BOTH
+The policy lacks procedures for charter revocation, which is a critical oversight function required by Education Code 47607. This includes grounds for revocation and due process requirements.
+
+Legal Basis:
+- Education Code 47607: A chartering authority may revoke a charter for material violation of the conditions, standards, or procedures set forth in the charter, including violations of generally accepted accounting principles or if the school has failed to meet or make sufficient progress toward the student outcomes identified in the charter.
+
+Required Language:
+The Board may revoke a charter for material violations of charter conditions, standards, or procedures, including violations of generally accepted accounting principles, or failure to meet or make sufficient progress toward student outcomes. Revocation procedures shall include notice, opportunity for hearing, and written findings.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Material Revision Procedures (Confidence: 80%)
+Missing from: BOTH
+The documents lack procedures for handling material revisions to charter petitions, which are required under Education Code 47607 and are essential for ongoing charter management.
+
+Legal Basis:
+- Education Code 47607: A material revision of the provisions of a charter may be made only with the approval of the chartering authority. A material revision shall be governed by the standards and criteria in Section 47605.
+
+Required Language:
+Material revisions to charter provisions require Board approval and shall be evaluated using the same standards and criteria as initial charter petitions under Education Code 47605. The Superintendent or designee shall establish procedures for reviewing and processing material revision requests.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,93 @@
+{
+  "code": "3555",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3555",
+    "title": "Nutrition Program Compliance",
+    "type": "Policy",
+    "last_reviewed": "05/24/2023",
+    "file_path": "data/extracted/policies/3555.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "California law requires school districts to establish administrative regulations that detail the specific procedures for implementing nutrition program compliance requirements. While the Board Policy establishes the framework and responsibilities, detailed implementation procedures must be codified in an Administrative Regulation to ensure consistent application across the district.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49490-49564.5; 5 CCR 15580-15584",
+            "text": "School districts must establish procedures for nutrition program compliance, complaint processing, data collection, staff training implementation, and facility accessibility assessments."
+          }
+        ],
+        "required_language": "Administrative Regulation 3555 must be created to include: detailed procedures for civil rights training implementation, step-by-step complaint investigation processes, data collection methodologies, facility accessibility assessment procedures, translation service protocols, and specific timelines for compliance activities.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Civil Rights Training Implementation Procedures",
+        "description": "While BP 3555 requires annual mandatory civil rights training for frontline staff, there are no detailed procedures for how this training will be conducted, documented, tracked, or evaluated for effectiveness. Implementation procedures are required to ensure compliance with federal civil rights requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "7 CFR 15b.26; Education Code Section 49490",
+            "text": "Recipients must provide training to staff who interact with program applicants and participants, including specific subject matter requirements and documentation of training completion."
+          }
+        ],
+        "required_language": "Procedures must specify training schedule, curriculum content, attendance tracking, competency assessment, make-up training protocols, documentation requirements, and annual training effectiveness evaluation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Data Collection and Reporting Procedures",
+        "description": "The policy mentions developing methods to collect racial and ethnic data but lacks specific procedures for data collection, storage, analysis, and reporting to state and federal agencies as required by civil rights compliance monitoring.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "7 CFR 15b.25; 5 CCR 15580",
+            "text": "Recipients must collect and maintain data on the racial and ethnic composition of persons served by nutrition programs and provide such data to monitoring agencies upon request."
+          }
+        ],
+        "required_language": "Detailed procedures for data collection methods, frequency of collection, data storage and security protocols, analysis procedures, reporting timelines to CDE and USDA, and staff responsibilities for data management.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Facility Accessibility Assessment Procedures",
+        "description": "While the policy states that facilities must be accessible to persons with disabilities, there are no procedures for conducting accessibility assessments, identifying barriers, developing remediation plans, or ensuring ongoing compliance with ADA requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Section 504 of Rehabilitation Act; ADA Title II; Education Code Section 49490",
+            "text": "School districts must ensure program accessibility and may not exclude persons with disabilities from participation due to inaccessible facilities."
+          }
+        ],
+        "required_language": "Procedures for conducting annual facility accessibility assessments, documenting barriers, developing remediation timelines, coordinating with facilities management, and maintaining accessibility compliance records.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Translation Services Implementation Procedures",
+        "description": "The policy requires translation services when significant numbers of persons have limited English proficiency, but lacks specific procedures for determining when translation is needed, what services to provide, and how to ensure quality and availability.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "7 CFR 15b.24; Education Code Section 49490",
+            "text": "Recipients must take reasonable steps to provide meaningful access to persons with limited English proficiency."
+          }
+        ],
+        "required_language": "Procedures for assessing language needs, determining threshold for \"significant number,\" identifying qualified translators/interpreters, ensuring document translation, and evaluating translation service effectiveness.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:31:58.298856+00:00"
+}

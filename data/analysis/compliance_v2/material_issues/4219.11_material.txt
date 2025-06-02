@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4219.11: Sex Discrimination and Sex-Based Harassment
+Last Reviewed: 04/27/2022
+================================================================================
+
+Missing Mandatory Reporting Requirements for Sexual Assault (Confidence: 95%)
+Missing from: BOTH
+California law requires specific procedures for reporting sexual assault incidents to law enforcement. Neither the policy nor regulation addresses the mandatory reporting obligations when sexual harassment involves sexual assault, which is specifically mentioned in the Title IX definition but lacks required reporting procedures.
+
+Legal Basis:
+- Education Code Section 44030.5: School districts must establish procedures for reporting sexual assault incidents involving employees to appropriate law enforcement agencies within 24 hours of discovery.
+
+Required Language:
+When sexual harassment involves sexual assault as defined in Penal Code Section 243.4 or other criminal conduct, the Title IX Coordinator or designee shall immediately report the incident to local law enforcement within 24 hours of discovery, in accordance with Education Code Section 44030.5.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Interim Protective Measures Detail (Confidence: 85%)
+Missing from: BOTH
+While the policy mentions "interim separation" and the regulation references "supportive measures," neither document provides the required detailed procedures for implementing interim protective measures during investigations, as mandated by state law.
+
+Legal Basis:
+- Government Code Section 12950.1: Employers must have procedures for immediate and appropriate corrective action, including interim protective measures during investigations.
+
+Required Language:
+During the investigation process, the Title IX Coordinator may implement interim protective measures including, but not limited to: temporary reassignment, modified work schedules, temporary suspension with pay, or other measures necessary to ensure a safe work environment while maintaining due process rights.
+
+Recommended Placement: AR
+
+----------------------------------------
+

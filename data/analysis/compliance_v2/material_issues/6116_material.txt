@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6116: Classroom Interruptions
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Emergency Communication Procedures (Confidence: 85%)
+Missing from: BOTH
+While the regulation mentions "except in the case of emergencies," it fails to define what constitutes an emergency or establish clear procedures for emergency communications that may interrupt classroom instruction. California law requires districts to have comprehensive emergency procedures that include communication protocols.
+
+Legal Basis:
+- Education Code Section 32280-32289: School districts shall develop comprehensive school safety plans that include emergency procedures and communication protocols during emergencies.
+
+Required Language:
+Emergency interruptions shall be defined as situations involving immediate threats to health, safety, or security. Emergency communication procedures shall be established in accordance with the district's comprehensive school safety plan and may override normal classroom interruption restrictions when necessary to protect students and staff.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5145.8: Refusal To Harm Or Destroy Animals
+Last Reviewed: 01/13/2010
+================================================================================
+
+Incomplete Statutory Exceptions (Confidence: 90%)
+Missing from: BOTH
+The regulation only mentions agricultural education as an exception, but Education Code 32255.1 also excludes veterinary science courses and allows the governing board to determine other course exceptions. The policy and regulation fail to acknowledge these additional statutory exceptions.
+
+Legal Basis:
+- Education Code 32255.1: This section shall not apply to instruction in courses in agriculture, veterinary science, or other courses as determined by the governing board of the school district.
+
+Required Language:
+Add language stating: "This right does not apply to instruction in courses in agriculture, veterinary science, or other courses as determined by the governing board of the school district."
+
+Recommended Placement: BP
+
+----------------------------------------
+

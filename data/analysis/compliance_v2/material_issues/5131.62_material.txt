@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5131.62: Tobacco
+Last Reviewed: 02/15/2017
+================================================================================
+
+Missing Employee Tobacco Prohibition (Confidence: 95%)
+Missing from: BOTH
+California Education Code requires districts to prohibit tobacco use by employees and other persons on school property and at school-sponsored events. The current policy only addresses student tobacco use but fails to include the mandatory prohibition for employees and other persons on school grounds.
+
+Legal Basis:
+- Education Code Section 48901(a): "No person shall use tobacco products at any time in a building, structure, or vehicle owned, leased, or rented by, or under the control of, a public school district, county office of education, or charter school."
+
+Required Language:
+No person, including employees, students, visitors, and contractors, shall use tobacco products at any time in any building, structure, or vehicle owned, leased, rented by, or under the control of the district, or at any school-sponsored event or activity.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Enforcement and Disciplinary Procedures (Confidence: 90%)
+Missing from: BOTH
+The policy mentions "consistent enforcement" but neither document provides specific procedures for enforcement, disciplinary actions, or consequences for violations by students, employees, or other persons. This is required for effective implementation of the tobacco-free policy.
+
+Legal Basis:
+- Education Code Section 48900(h): A pupil may be suspended or expelled for possessing or using tobacco or products containing tobacco or nicotine products.
+
+Required Language:
+Students who violate this policy may be subject to disciplinary action including suspension or expulsion as provided in Education Code 48900(h). Employees who violate this policy shall be subject to disciplinary action up to and including termination. Visitors and contractors who violate this policy may be asked to leave district property.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Signage Requirements (Confidence: 85%)
+Missing from: BOTH
+California law requires school districts to post appropriate signage indicating tobacco-free zones. Neither the policy nor regulation addresses the mandatory posting of no-smoking/tobacco-free signs on school property.
+
+Legal Basis:
+- Education Code Section 48901(c): Each public school district, county office of education, and charter school shall prominently display signs at all entrances to school buildings stating that smoking and the use of tobacco products are prohibited.
+
+Required Language:
+The district shall prominently display signs at all entrances to school buildings and on school grounds stating that smoking and the use of tobacco products are prohibited. Signs shall include information about applicable penalties for violations.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 5112.2: Exclusions From Attendance
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Homeless Student Protections (Confidence: 90%)
+Missing from: BOTH
+Both documents fail to address protections for homeless students under the McKinney-Vento Act. Homeless students cannot be excluded from attendance due to lack of immunization records, school records, or proof of residency if such documents are unavailable due to their homeless status.
+
+Legal Basis:
+- Education Code Section 48852.7: A homeless child or youth shall not be required to attend a separate school for homeless children or youth... A homeless child or youth shall be immediately enrolled in the school of origin or the school where enrollment is sought, even if the child or youth is unable to produce records normally required for enrollment.
+
+Required Language:
+Students experiencing homelessness shall not be excluded from attendance due to inability to provide immunization records, school records, or proof of residency if such documents are unavailable due to their homeless status. The district shall immediately enroll homeless students and work with families to obtain required documentation.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Foster Youth Protections (Confidence: 85%)
+Missing from: BOTH
+The regulation does not address special protections for foster youth regarding immunization and health screening requirements. Foster youth may face delays in obtaining health records due to placement changes and should receive accommodations similar to homeless students.
+
+Legal Basis:
+- Education Code Section 48853.5: The educational placement of a foster child shall be based on the best interests of the child and shall be in the least restrictive educational program, and shall, to the extent feasible, be in the school in which the child was enrolled prior to the placement or the school in which the child was last enrolled.
+
+Required Language:
+Foster youth shall receive reasonable accommodations regarding immunization and health screening requirements when documentation is delayed due to placement changes. The district shall work expeditiously with child welfare agencies and healthcare providers to obtain necessary records while maintaining the student's enrollment.
+
+Recommended Placement: AR
+
+----------------------------------------
+

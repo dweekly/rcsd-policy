@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4131: Staff Development
+Last Reviewed: 12/08/2021
+================================================================================
+
+Missing Beginning Teacher Support and Assessment (BTSA) Program Requirements (Confidence: 85%)
+Missing from: BOTH
+California requires districts to provide or participate in a beginning teacher support program for teachers in their first two years. Neither the policy nor regulation addresses BTSA program requirements, mentor assignment, or support structures for beginning teachers as mandated by state law.
+
+Legal Basis:
+- Education Code Section 44279.2: Each school district shall provide each beginning teacher with a two-year program of intensive support and assistance... The program shall include, but not be limited to, all of the following: (a) Individual guidance and assistance by an experienced teacher who serves as a mentor.
+
+Required Language:
+The district shall provide or participate in a beginning teacher support program for teachers in their first two years of teaching. This program shall include assignment of experienced mentor teachers, individualized support plans, and assessment of teaching performance in accordance with state requirements.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Professional Learning Community (PLC) Time Requirements (Confidence: 90%)
+Missing from: BOTH
+Education Code requires districts to provide dedicated time for teachers to collaborate in professional learning communities. While the policy mentions collaboration generally, it lacks specific provisions for the mandated PLC time and structure.
+
+Legal Basis:
+- Education Code Section 44277(b)(2): Professional development activities shall... provide time for teachers to work with other teachers and be directly related to academic subjects and areas in which the teacher provides instruction or other assigned duties.
+
+Required Language:
+The district shall provide regular, dedicated time during the school year for teachers to participate in professional learning communities (PLCs) to collaborate on curriculum, analyze student data, and improve instructional practices.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Annual Professional Development Hour Requirements (Confidence: 80%)
+Missing from: BOTH
+Neither document specifies minimum annual professional development hours or tracking mechanisms, which are required for maintaining teaching credentials and meeting state professional development mandates.
+
+Legal Basis:
+- Education Code Section 44277: Professional development activities shall be ongoing and include training, education, and other activities that increase the academic knowledge and teaching skills of teachers.
+
+Required Language:
+All certificated staff shall complete a minimum number of professional development hours annually as required for credential maintenance. The district shall maintain records of professional development participation and ensure compliance with state requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+

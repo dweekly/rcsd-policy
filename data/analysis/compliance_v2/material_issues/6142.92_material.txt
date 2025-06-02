@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6142.92: Mathematics Instruction
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing California Mathematics Content Standards Adoption (Confidence: 95%)
+Missing from: BOTH
+California law requires school districts to adopt the state-adopted mathematics content standards. The policy mentions establishing "specific content and performance standards" but does not explicitly reference adoption of California's state mathematics standards as required by law.
+
+Legal Basis:
+- Education Code Section 60605: The governing board of each school district shall adopt the state board adopted content standards in mathematics, English language arts, history-social science, and science.
+
+Required Language:
+The Board adopts the state-adopted content standards in mathematics as established by the State Board of Education.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Mathematics Instructional Minutes Requirements (Confidence: 85%)
+Missing from: BOTH
+California requires specific minimum instructional minutes for mathematics instruction, but the policy does not address time allocation requirements to ensure compliance with state mandates.
+
+Legal Basis:
+- Education Code Section 51210: The adopted course of study for grades 1 to 6, inclusive, shall include mathematics. The instruction shall be designed to develop mathematical understandings, operational skills, and insight into problem-solving procedures.
+
+Required Language:
+Mathematics instruction shall meet or exceed the minimum instructional minutes required by state law and shall be allocated sufficient time to ensure mastery of content standards.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Assessment and Progress Monitoring Procedures (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions students at risk of failing to meet performance standards shall receive assistance, it lacks specific requirements for assessment, progress monitoring, and data-driven instruction as required for effective mathematics programs.
+
+Legal Basis:
+- Education Code Section 60640: Pupils shall be assessed in mathematics using assessments aligned with the content standards adopted pursuant to Section 60605.
+
+Required Language:
+Student progress in mathematics shall be regularly assessed using standards-aligned assessments, with results used to inform instruction and identify students needing additional support or intervention.
+
+Recommended Placement: AR
+
+----------------------------------------
+

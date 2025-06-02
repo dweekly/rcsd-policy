@@ -1,0 +1,63 @@
+{
+  "code": "5125.3",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "5125.3",
+    "title": "Challenging Student Records",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5125.3.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "There is no Board Policy (BP) 5125.3 document found, only an Administrative Regulation (AR). California Education Code requires that districts establish policies regarding student records challenges. While the AR contains detailed procedures, a BP should establish the board's policy direction and commitment to providing due process rights for challenging student records.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49070",
+            "text": "The governing board of each school district shall establish procedures for the correction or removal of a pupil record pursuant to this section."
+          }
+        ],
+        "required_language": "The Board recognizes parents'/guardians' and eligible students' rights to challenge the content of student records. The Board shall establish procedures to ensure due process rights are protected when parents/guardians or eligible students seek to correct or remove information from student records that they believe is inaccurate, misleading, or violates privacy rights.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Definition of \"Eligible Student\"",
+        "description": "While the AR mentions that rights transfer to students at age 18 or when attending postsecondary institutions, it doesn't clearly define \"eligible student\" as commonly used in student records law. This term should be defined for clarity.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49061",
+            "text": "The right of access becomes the right of the pupil and not the parent or guardian whenever the pupil becomes eighteen years of age or is attending an institution of postsecondary education."
+          }
+        ],
+        "required_language": "An \"eligible student\" is a student who is 18 years of age or older or who is attending a postsecondary institution.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Federal FERPA Rights",
+        "description": "While the regulation covers California Education Code requirements comprehensively, it lacks reference to federal FERPA rights regarding challenging educational records, which provides additional protections and may be relevant for students attending postsecondary institutions.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49063",
+            "text": "At the beginning of each school year, each school district shall notify the parent or guardian of all pupils currently in attendance, or pupils, if they are eighteen years of age or older or attend a postsecondary institution, of their rights under this chapter."
+          }
+        ],
+        "required_language": "Parents/guardians and eligible students also have rights under the federal Family Educational Rights and Privacy Act (FERPA) to challenge educational records they believe are inaccurate or misleading.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:21:12.961104+00:00"
+}

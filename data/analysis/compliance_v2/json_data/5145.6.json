@@ -1,0 +1,78 @@
+{
+  "code": "5145.6",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5145.6",
+    "title": "Parent/Guardian Notifications",
+    "type": "Policy",
+    "last_reviewed": "11/06/2024",
+    "file_path": "data/extracted/policies/5145.6.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 48980 requires districts to provide annual notifications covering numerous specific topics and procedures. While the Board Policy establishes the framework and legal requirements, there is no Administrative Regulation to provide the detailed implementation procedures, specific notification content, timelines, and operational processes required to comply with the extensive requirements of Ed Code 48980-48985.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48980",
+            "text": "At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify the parent or guardian of a minor pupil regarding the rights or responsibilities of parents or guardians under any of the following sections..."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: (1) Detailed procedures for annual notification distribution and tracking; (2) Specific content requirements for each notification category under Ed Code 48980; (3) Translation procedures and timelines; (4) Alternative format procedures for disabled individuals; (5) Mid-year enrollment notification procedures; (6) Record-keeping requirements; (7) Staff responsibilities and training requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Content Requirements for Annual Notification",
+        "description": "Education Code 48980 requires notification of parents/guardians regarding specific rights and responsibilities across multiple areas including curriculum, health services, safety, discipline, and educational programs. Neither the BP nor missing AR specify the detailed content areas that must be included in the annual notification.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48980(a)",
+            "text": "The governing board of each school district shall notify the parent or guardian of a minor pupil regarding the rights or responsibilities of parents or guardians under sections including but not limited to: curriculum, health examinations, administration of medication, confidentiality of pupil records, dress codes, gang-related apparel, sexual harassment policy, nondiscrimination policy, rules on pupil discipline, notification of truancy, comprehensive sexual health education, and numerous other specified areas."
+          }
+        ],
+        "required_language": "The annual notification shall include information regarding all rights and responsibilities specified in Education Code 48980, including but not limited to: curriculum content and materials, health examinations and immunizations, administration of medication, confidentiality of student records, dress codes, sexual harassment policies, nondiscrimination policies, student discipline procedures, truancy notifications, comprehensive sexual health education, and all other areas specifically enumerated in Ed Code 48980.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Specific Timeline Requirements",
+        "description": "While the policy mentions \"beginning of each academic year,\" it lacks the specific timing requirements and deadlines for various notifications required under Education Code 48980-48985.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48980",
+            "text": "At the beginning of the first semester or quarter of the regular school year, the governing board of each school district shall notify..."
+          }
+        ],
+        "required_language": "Annual notifications shall be provided at the beginning of the first semester or quarter of the regular school year. Specific timelines shall be established for distribution, translation, alternative format provision, and follow-up procedures to ensure compliance with statutory deadlines.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Record-Keeping Requirements",
+        "description": "The policy does not address the need to maintain records of notification distribution and receipt acknowledgments, which is important for demonstrating compliance with notification requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48982",
+            "text": "The annual notification shall include a request that the parent or guardian sign the notice and return it to the school..."
+          }
+        ],
+        "required_language": "The district shall maintain records of notification distribution and any acknowledgment receipts returned by parents/guardians. Records shall be maintained in accordance with applicable retention schedules.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:27:39.584805+00:00"
+}

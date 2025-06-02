@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5021: Noncustodial Parents
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Specific Student Records Access Procedures (Confidence: 90%)
+Missing from: BOTH
+Education Code Section 49069 requires specific procedures for noncustodial parent access to student records, including timelines and verification processes. The policy mentions this right generally but lacks implementation details required by law.
+
+Legal Basis:
+- Education Code Section 49069(a)(2): Access to pupil records shall be granted to the parent within five days of the request... The school district may require reasonable identification of any person requesting to examine pupil records.
+
+Required Language:
+Noncustodial parents shall be granted access to student records within five (5) days of request, subject to reasonable identification requirements and unless restricted by court order. Procedures for verification of identity and processing requests must be established.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Family Educational Rights and Privacy Act (FERPA) Compliance Language (Confidence: 80%)
+Missing from: BOTH
+Federal FERPA requirements regarding noncustodial parent rights to educational records are not addressed. FERPA provides specific rights to noncustodial parents unless terminated by court order or state law.
+
+Legal Basis:
+- 20 USC 1232g (FERPA) and Education Code Section 49061: Parents have the right to inspect and review their child's education records maintained by the school, unless the parent's rights have been legally terminated or a court order specifically revokes these rights.
+
+Required Language:
+In accordance with FERPA and state law, noncustodial parents retain rights to access educational records unless specifically terminated by court order or state statute. The district shall not require custodial parent consent for noncustodial parent record access unless legally restricted.
+
+Recommended Placement: BP
+
+----------------------------------------
+

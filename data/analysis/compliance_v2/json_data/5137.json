@@ -1,0 +1,93 @@
+{
+  "code": "5137",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5137",
+    "title": "Positive School Climate",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5137.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "While the Board Policy establishes the district's commitment to positive school climate, there is no corresponding Administrative Regulation to provide specific implementation procedures, timelines, responsibilities, and accountability measures required for effective program execution.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32280-32289 (Comprehensive School Safety Plans)",
+            "text": "Schools must develop comprehensive safety plans that include procedures for maintaining a safe and orderly environment conducive to learning, including specific implementation strategies."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: specific procedures for implementing positive climate strategies, staff roles and responsibilities, timeline for professional development, methods for measuring school climate, student voice mechanisms, conflict resolution procedures, and reporting/accountability measures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Anti-Bullying Implementation Procedures",
+        "description": "While the policy mentions prohibitions against bullying and cyberbullying, there are no specific procedures for prevention, reporting, investigation, and response to bullying incidents as required by state law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 234.1",
+            "text": "School districts shall adopt policies that prohibit discrimination, harassment, intimidation, and bullying, and shall adopt a process for receiving and investigating complaints and a process for responding to and reporting on such complaints."
+          }
+        ],
+        "required_language": "Specific procedures for: reporting bullying incidents, investigation timelines and processes, intervention strategies, documentation requirements, notification of parents/guardians, and follow-up procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Student Voice Implementation Mechanisms",
+        "description": "The policy states students shall have opportunities to voice concerns and share responsibility for problem-solving, but no specific mechanisms or procedures are established for how this will be implemented.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35294.2",
+            "text": "School site councils and other advisory committees shall provide opportunities for student participation in school governance and decision-making processes."
+          }
+        ],
+        "required_language": "Specific procedures for: establishing student advisory groups, regular forums for student input, processes for student participation in policy review, and mechanisms for addressing student concerns and suggestions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 75,
+        "title": "Missing Professional Development Implementation Plan",
+        "description": "The policy requires staff professional development but lacks specific implementation procedures, frequency, content requirements, and accountability measures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44259",
+            "text": "School districts shall provide ongoing professional development to certificated employees, including training in classroom management and student discipline techniques."
+          }
+        ],
+        "required_language": "Specific procedures for: mandatory training schedules, professional development content standards, tracking of completion, evaluation of effectiveness, and ongoing support for staff implementation of positive climate strategies.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2010, which is over 13 years ago. Regular policy review ensures compliance with current legal requirements and best practices.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "School district governing boards have authority and responsibility to establish policies for district governance, which should be regularly reviewed and updated."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements, including recent changes to anti-bullying laws, student mental health requirements, and positive behavioral intervention strategies.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:23:30.650867+00:00"
+}

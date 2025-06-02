@@ -1,0 +1,114 @@
+{
+  "code": "3514.1",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3514.1",
+    "title": "Hazardous Substances",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3514.1.txt"
+  },
+  "regulation": {
+    "code": "3514.1",
+    "title": "Hazardous Substances",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3514.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Asbestos Management Requirements",
+        "description": "California requires school districts to maintain an asbestos management plan and conduct periodic inspections. This is a critical health and safety requirement that must be addressed in district policy or regulation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49410.5",
+            "text": "Each school district shall maintain an asbestos management plan for each school site and shall make the plan available for inspection by the public during normal business hours."
+          }
+        ],
+        "required_language": "The district shall maintain an asbestos management plan for each school site in accordance with federal and state requirements. The plan shall be available for public inspection during normal business hours and shall include procedures for periodic surveillance, response actions, and notification requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Lead-Based Paint Requirements",
+        "description": "Districts must address lead-based paint hazards in facilities, particularly regarding renovation and maintenance activities that could disturb lead paint.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Health and Safety Code 105250-105265",
+            "text": "Public agencies shall comply with lead-based paint requirements including testing, notification, and safe work practices when conducting renovation or maintenance activities."
+          }
+        ],
+        "required_language": "The district shall comply with all lead-based paint requirements including testing, notification procedures, and safe work practices for renovation and maintenance activities that may disturb lead-based paint in facilities built before 1978.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Indoor Air Quality Requirements",
+        "description": "California requires districts to address indoor air quality issues and maintain healthy learning environments, including procedures for addressing mold and other air quality concerns.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17608",
+            "text": "School districts shall maintain indoor air quality that supports a healthy learning environment and shall address issues such as mold, chemical contaminants, and ventilation adequacy."
+          }
+        ],
+        "required_language": "The district shall maintain indoor air quality standards that support healthy learning environments, including procedures for identifying, evaluating, and addressing mold, chemical contaminants, and ventilation issues.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Integrated Pest Management Requirements",
+        "description": "California law requires school districts to implement integrated pest management programs and provide specific notifications regarding pesticide use.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Food and Agricultural Code 13181-13186",
+            "text": "School districts shall implement integrated pest management programs and provide advance notification to parents, guardians, and staff regarding pesticide applications on school grounds."
+          }
+        ],
+        "required_language": "The district shall implement an integrated pest management program that emphasizes non-chemical pest control methods. When pesticides must be used, the district shall provide advance notification to parents, guardians, and staff as required by law and maintain a registry of individuals requesting notification.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated MSDS Reference",
+        "description": "The regulation references Material Safety Data Sheets (MSDS), but federal law now requires Safety Data Sheets (SDS) with a standardized 16-section format since 2015.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "8 CCR 5194",
+            "text": "California's Hazard Communication Standard aligns with federal OSHA requirements for Safety Data Sheets (SDS) in standardized format."
+          }
+        ],
+        "required_language": "References to \"Material Safety Data Sheets (MSDS)\" should be updated to \"Safety Data Sheets (SDS)\" to reflect current regulatory requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Emergency Response Coordination",
+        "description": "The policy should reference coordination with emergency response procedures and incident command systems for hazardous substance emergencies.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 32280-32289",
+            "text": "School districts shall coordinate emergency response procedures including those related to hazardous substance incidents as part of comprehensive school safety planning."
+          }
+        ],
+        "required_language": "Hazardous substance emergency procedures shall be coordinated with the district's comprehensive school safety plan and emergency response protocols, including notification of appropriate agencies and implementation of incident command procedures.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:28:26.774572+00:00"
+}

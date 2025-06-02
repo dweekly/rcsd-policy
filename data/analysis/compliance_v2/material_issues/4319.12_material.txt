@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+AR 4319.12: Title IX Sex Discrimination and Sex-Based Harassment Complaint Procedures
+Last Reviewed: 05/19/2021
+================================================================================
+
+Missing Title IX Coordinator Designation and Contact Information (Confidence: 90%)
+Missing from: BOTH
+While the regulation references the Title IX Coordinator and mentions contact information is listed in AR 4119.11/4219.11/4319.11, neither the policy nor regulation actually designates who serves as the Title IX Coordinator or provides the required contact information. This is a fundamental Title IX requirement.
+
+Legal Basis:
+- 34 CFR 106.8(a): Each recipient must designate and authorize at least one employee to coordinate its efforts to comply with its responsibilities under this part, which employee must be referred to as the "Title IX Coordinator." The recipient must notify applicants for admission and employment, students, parents or legal guardians of elementary and secondary school students, employees, and all unions or professional organizations holding collective bargaining or professional agreements with the recipient, of the name or title, office address, electronic mail address, and telephone number of the employee or employees designated as the Title IX Coordinator.
+
+Required Language:
+The Superintendent shall designate at least one employee to serve as the district's Title IX Coordinator. The name, title, office address, email address, and telephone number of the Title IX Coordinator shall be prominently displayed on the district website and included in district publications. Current Title IX Coordinator contact information: [Name, Title, Address, Phone, Email]
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Notice of Nondiscrimination Requirements (Confidence: 85%)
+Missing from: BOTH
+Neither document addresses the required public notice of nondiscrimination that must be published and distributed. This notice must inform the school community of the district's nondiscrimination policy and how to contact the Title IX Coordinator.
+
+Legal Basis:
+- 34 CFR 106.8(b): A recipient must prominently display the contact information required to be listed for the Title IX Coordinator under paragraph (a) of this section and the policy described in paragraph (c) of this section on its website, if any, and in each handbook or catalog that it makes available to persons entitled to a notification under paragraph (a) of this section.
+
+Required Language:
+The district shall provide notice to students, parents/guardians, employees, applicants for admission and employment, and all unions or professional organizations holding collective bargaining agreements with the district that it does not discriminate on the basis of sex in its educational programs or activities, and that it is required by Title IX not to discriminate in such a manner. Such notification shall include the name, title, office address, email address, and telephone number of the Title IX Coordinator.
+
+Recommended Placement: BP
+
+----------------------------------------
+

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4236: Nonschool Employment
+Last Reviewed: 06/15/2022
+================================================================================
+
+Missing Conflict of Interest Disclosure Requirements (Confidence: 90%)
+Missing from: BOTH
+Government Code Section 87100 requires public employees to disclose financial interests that could create conflicts of interest. The policy lacks provisions requiring employees to disclose potential conflicts of interest related to outside employment.
+
+Legal Basis:
+- Government Code Section 87100: No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest.
+
+Required Language:
+Employees must disclose any financial interests or relationships that could create a conflict of interest with their district duties. This includes disclosure of outside employment that involves entities doing business with or seeking to do business with the district.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Annual Disclosure and Reporting Requirements (Confidence: 80%)
+Missing from: BOTH
+Education Code Section 87406.3 and Government Code provisions require ongoing disclosure and monitoring of outside employment. The policy lacks requirements for annual reporting or ongoing disclosure of outside employment activities.
+
+Legal Basis:
+- Education Code Section 87406.3: Community college district employees must file statements of economic interests as required by the Political Reform Act when outside activities could create conflicts with official duties.
+
+Required Language:
+Employees shall annually disclose outside employment and update disclosures when changes occur. The district shall maintain records of approved outside employment and conduct periodic reviews to ensure ongoing compliance.
+
+Recommended Placement: AR
+
+----------------------------------------
+

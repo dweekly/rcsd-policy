@@ -1,0 +1,84 @@
+{
+  "code": "4131",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4131",
+    "title": "Staff Development",
+    "type": "Policy",
+    "last_reviewed": "12/08/2021",
+    "file_path": "data/extracted/policies/4131.txt"
+  },
+  "regulation": {
+    "code": "4131",
+    "title": "Staff Development",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4131.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Beginning Teacher Support and Assessment (BTSA) Program Requirements",
+        "description": "California requires districts to provide or participate in a beginning teacher support program for teachers in their first two years. Neither the policy nor regulation addresses BTSA program requirements, mentor assignment, or support structures for beginning teachers as mandated by state law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44279.2",
+            "text": "Each school district shall provide each beginning teacher with a two-year program of intensive support and assistance... The program shall include, but not be limited to, all of the following: (a) Individual guidance and assistance by an experienced teacher who serves as a mentor."
+          }
+        ],
+        "required_language": "The district shall provide or participate in a beginning teacher support program for teachers in their first two years of teaching. This program shall include assignment of experienced mentor teachers, individualized support plans, and assessment of teaching performance in accordance with state requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Professional Learning Community (PLC) Time Requirements",
+        "description": "Education Code requires districts to provide dedicated time for teachers to collaborate in professional learning communities. While the policy mentions collaboration generally, it lacks specific provisions for the mandated PLC time and structure.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44277(b)(2)",
+            "text": "Professional development activities shall... provide time for teachers to work with other teachers and be directly related to academic subjects and areas in which the teacher provides instruction or other assigned duties."
+          }
+        ],
+        "required_language": "The district shall provide regular, dedicated time during the school year for teachers to participate in professional learning communities (PLCs) to collaborate on curriculum, analyze student data, and improve instructional practices.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Annual Professional Development Hour Requirements",
+        "description": "Neither document specifies minimum annual professional development hours or tracking mechanisms, which are required for maintaining teaching credentials and meeting state professional development mandates.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44277",
+            "text": "Professional development activities shall be ongoing and include training, education, and other activities that increase the academic knowledge and teaching skills of teachers."
+          }
+        ],
+        "required_language": "All certificated staff shall complete a minimum number of professional development hours annually as required for credential maintenance. The district shall maintain records of professional development participation and ensure compliance with state requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Administrative Regulation Review Date",
+        "description": "The Administrative Regulation has not been reviewed since 2009, while the Board Policy was reviewed in 2021. This creates potential inconsistency and suggests the regulation may not reflect current legal requirements or district practices.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law."
+          }
+        ],
+        "required_language": "Administrative regulations should be reviewed and updated regularly to ensure alignment with current board policy and legal requirements.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:11:53.731913+00:00"
+}

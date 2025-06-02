@@ -1,0 +1,99 @@
+{
+  "code": "6141.2",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6141.2",
+    "title": "Recognition Of Religious Beliefs And Customs",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6141.2.txt"
+  },
+  "regulation": {
+    "code": "6141.2",
+    "title": "Recognition Of Religious Beliefs And Customs",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/regulations/6141.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Student Excusal Rights for Religious Observance",
+        "description": "California law requires districts to establish policies allowing students to be excused from school to observe religious holidays and participate in religious exercises. Neither the BP nor AR addresses student excusal procedures, criteria, or notification requirements for religious observances.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 46014",
+            "text": "Students, with the written consent of their parents or guardians, may be excused from school in order to participate in religious exercises or to receive moral and religious instruction at their respective places of worship or at other suitable place or places away from school property designated by the religious group, church, or denomination."
+          }
+        ],
+        "required_language": "Students shall be excused from school, with written parental consent, to participate in religious exercises or receive religious instruction. The district shall establish procedures for requesting such excusals, including advance notice requirements and make-up work policies.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Accommodation for Religious Dress and Grooming",
+        "description": "California law specifically protects students' rights to wear religious dress and maintain religious grooming practices. Neither document addresses how the district will accommodate religious attire, head coverings, or grooming requirements that may conflict with dress codes or safety regulations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 262.5",
+            "text": "A pupil shall have the right to exercise freedom of speech and of the press including, but not limited to, the use of bulletin boards, the distribution of printed materials or petitions, the wearing of buttons, badges, and other insignia, and the right of expression in official publications."
+          }
+        ],
+        "required_language": "Students shall be permitted to wear religious dress, head coverings, jewelry, and maintain grooming practices required by their religious beliefs, provided such practices do not pose a genuine safety concern. Any restrictions must be the least restrictive means necessary to address specific safety requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Complaint and Grievance Procedures",
+        "description": "The policy lacks procedures for students and parents to file complaints or grievances when they believe religious rights have been violated. This is essential for enforcement and due process protection of religious freedom rights.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 262.3",
+            "text": "The governing board of each school district and each county board of education shall adopt rules and regulations for the administration of the rights established under this article."
+          }
+        ],
+        "required_language": "Students and parents may file complaints regarding alleged violations of religious freedom rights through the district's uniform complaint procedures. The district shall investigate such complaints promptly and provide appropriate remedies when violations are substantiated.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Guidance on Religious Content in Curriculum",
+        "description": "While the BP mentions that instruction about religion should not promote particular beliefs, it lacks specific guidance on how to handle religious content in various subject areas (history, literature, science) in an educationally appropriate and legally compliant manner.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51240",
+            "text": "No teacher shall give instruction and no school district shall sponsor any activity which reflects adversely upon persons because of their race, sex, color, creed, handicap, national origin, or ancestry."
+          }
+        ],
+        "required_language": "When religious topics arise in curriculum content, instruction shall be academic in nature, objective in presentation, and shall neither promote nor inhibit religion. Teachers shall present multiple perspectives when discussing religious influences on history, literature, art, and culture.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Staff Training Requirements",
+        "description": "Given the sensitive nature of religious freedom issues, the regulation should specify training requirements for staff on recognizing and respecting religious diversity, legal requirements, and appropriate responses to religious accommodation requests.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44691",
+            "text": "The governing board of each school district shall provide for the training of certificated personnel in the detection of discriminatory bias in instructional materials."
+          }
+        ],
+        "required_language": "Staff shall receive periodic training on religious diversity, constitutional requirements regarding religion in schools, and procedures for handling requests for religious accommodations. Such training shall be provided to new employees and updated regularly for all staff.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:30:10.470009+00:00"
+}

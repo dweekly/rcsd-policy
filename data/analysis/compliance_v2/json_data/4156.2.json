@@ -1,0 +1,48 @@
+{
+  "code": "4156.2",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4156.2",
+    "title": "Awards And Recognition",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4156.2.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Employee Awards Implementation",
+        "description": "The Board Policy explicitly states that \"The Superintendent or designee shall establish regulations governing employee awards\" and references \"administrative regulations\" for implementation procedures. However, no Administrative Regulation 4156.2 exists to provide the required implementation framework, procedures, criteria, and processes for employee awards and recognition.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44015",
+            "text": "The governing board of any school district may authorize awards to employees of the district who perform special acts or services in the public interest or who by their superior accomplishments make exceptional contributions to the efficiency, economy, or other improvement in the operations of the district."
+          }
+        ],
+        "required_language": "Administrative Regulation 4156.2 must be created to include: (1) Specific criteria and standards for determining award eligibility; (2) Application and nomination procedures; (3) Review and evaluation process; (4) Types of awards available (service pins, certificates, plaques, etc.); (5) Timeline for award consideration and presentation; (6) Documentation and record-keeping requirements; (7) Process for receiving and evaluating recommendations from parents and staff; (8) Procedures for Superintendent recommendations to the Board.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009 (over 14 years ago). While not legally mandated, regular policy review ensures continued compliance with current law and best practices. The policy references Education Code 44015 but lacks current procedural guidance.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program or activity or may otherwise act in any manner which is not in conflict with or inconsistent with or preempted by any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to ensure continued alignment with current Education Code provisions and district practices. Consider adding review cycle language such as \"This policy shall be reviewed every three years or as needed.\"",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:12:41.135904+00:00"
+}

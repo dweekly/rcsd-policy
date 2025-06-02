@@ -1,0 +1,63 @@
+{
+  "code": "2000",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "2000",
+    "title": "Concepts And Roles",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/2000.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Superintendent Evaluation Requirements",
+        "description": "Education Code requires specific elements for superintendent evaluation that are not detailed in the policy, including annual evaluation timeline, criteria based on student achievement and district goals, and written evaluation documentation requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35031",
+            "text": "The governing board shall evaluate the performance of the superintendent annually in accordance with the standards and criteria for evaluation established by the governing board."
+          }
+        ],
+        "required_language": "Administrative regulation should specify: (1) Annual evaluation timeline and process, (2) Specific evaluation criteria including student achievement measures and progress toward district goals, (3) Written documentation requirements, (4) Process for board review and approval of evaluation results, (5) Timeline for completion of evaluation process.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Board-Superintendent Governance Protocol Details",
+        "description": "While the policy mentions establishing protocols for governance team operations, no administrative regulation exists to implement the specific procedures for board meeting operations, communication protocols, and decision-making processes required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35010",
+            "text": "The governing board of a school district shall establish policies for the operation of the district."
+          }
+        ],
+        "required_language": "Administrative regulation should detail: (1) Specific communication protocols between board and superintendent, (2) Board meeting preparation and agenda development procedures, (3) Information flow and reporting requirements, (4) Emergency communication procedures, (5) Public communication coordination protocols.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Delegation Authority Documentation",
+        "description": "The policy states the superintendent may delegate duties but lacks procedural guidance on documentation, scope limitations, and accountability measures for such delegations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35035",
+            "text": "The superintendent shall have such powers and duties as may be prescribed by the governing board."
+          }
+        ],
+        "required_language": "Administrative regulation should specify: (1) Process for documenting delegation of authority, (2) Scope and limitations of delegated authority, (3) Accountability and reporting requirements for designees, (4) Review and modification procedures for delegated responsibilities.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:23:10.207611+00:00"
+}

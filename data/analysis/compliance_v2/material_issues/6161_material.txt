@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6161: Equipment, Books and Materials
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Annual Sufficiency Determination Requirement (Confidence: 90%)
+Missing from: BOTH
+Neither the BP nor AR addresses the mandatory annual determination of instructional material sufficiency required by state law. This is a critical compliance requirement that must be completed and reported annually.
+
+Legal Basis:
+- Education Code Section 60119: The governing board of each school district shall annually determine whether each pupil in each school in the school district has sufficient textbooks or instructional materials, or both, that are aligned to the academic content standards.
+
+Required Language:
+The Board shall annually determine whether each student has sufficient standards-aligned textbooks and instructional materials in mathematics, science, history-social science, and English/language arts.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Public Hearing and Resolution Requirements (Confidence: 85%)
+Missing from: BOTH
+State law requires specific public hearing and resolution procedures when there is insufficient instructional material. Neither document addresses these mandatory compliance procedures.
+
+Legal Basis:
+- Education Code Section 60119(c): If the governing board determines that there are insufficient textbooks or instructional materials, the governing board shall provide information to classroom teachers and to the public which details the shortage and the reasons for the shortage and shall provide a timeline by which the shortage will be remedied.
+
+Required Language:
+When insufficient materials are identified, the Board shall hold a public hearing, adopt a resolution detailing the shortage and remediation timeline, and provide required notifications to teachers and the public.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Standards Alignment Requirement (Confidence: 80%)
+Missing from: BOTH
+While the policy mentions "standards-based materials," it does not explicitly require that all instructional materials be aligned to state academic content standards as mandated by law.
+
+Legal Basis:
+- Education Code Section 60119(a): Sufficient textbooks or instructional materials means that each pupil, including English learners, has a textbook or instructional materials, or both, to use in class and to take home to complete required homework assignments, that are aligned to the academic content standards.
+
+Required Language:
+All textbooks and instructional materials shall be aligned to state academic content standards and available for each student to use in class and take home for homework assignments.
+
+Recommended Placement: BP
+
+----------------------------------------
+

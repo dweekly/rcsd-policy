@@ -1,0 +1,63 @@
+{
+  "code": "5125.2",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "5125.2",
+    "title": "Withholding Grades, Diploma Or Transcripts",
+    "type": "Regulation",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/regulations/5125.2.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The district has only an Administrative Regulation (AR) but no corresponding Board Policy (BP) for withholding grades, diploma, or transcripts. California school districts are required to have board policies that establish the legal authority and direction for administrative actions. The AR contains implementation procedures but lacks the foundational policy framework that should be established by the governing board.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The Board Policy should establish the district's authority and intent to withhold grades, diplomas, or transcripts when students have willfully damaged or failed to return school property, and reference the legal basis under Education Code sections 48904 and 48904.3. It should also establish the board's commitment to due process rights and alternative work programs for students unable to pay.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Reference to Graduation Requirements Impact",
+        "description": "While the regulation addresses withholding diplomas, it does not clarify how this action relates to completion of graduation requirements or how students can still demonstrate they have met educational standards even when disciplinary holds are in place.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51225.3",
+            "text": "Pupils shall meet the graduation requirements of the school district in which they are enrolled, and the governing board of the school district shall grant a diploma of graduation from high school to pupils who meet the graduation requirements adopted by the governing board."
+          }
+        ],
+        "required_language": "Clarification that withholding of diplomas does not affect the student's completion of graduation requirements, and procedures for documenting educational achievement separate from diploma issuance when appropriate.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Due Process Procedures",
+        "description": "The regulation references \"due process rights in conformance with Education Code expulsion procedures\" but does not specify the actual due process steps required before withholding grades, diplomas, or transcripts, which is a significant disciplinary action.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48904",
+            "text": "The governing board of a school district may withhold the grades, diploma, or transcripts of a pupil responsible for the willful misconduct until the pupil or the pupil's parent or guardian has paid for the damages, but the pupil shall be afforded due process pursuant to Section 48918."
+          }
+        ],
+        "required_language": "Specific due process procedures including notice requirements, opportunity for hearing, right to representation, and appeal processes consistent with Education Code Section 48918 procedures.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:21:04.146099+00:00"
+}

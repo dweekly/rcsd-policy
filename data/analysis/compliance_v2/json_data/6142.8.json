@@ -1,0 +1,99 @@
+{
+  "code": "6142.8",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "6142.8",
+    "title": "Comprehensive Health Education",
+    "type": "Policy",
+    "last_reviewed": "06/23/2021",
+    "file_path": "data/extracted/policies/6142.8.txt"
+  },
+  "regulation": {
+    "code": "6142.8",
+    "title": "Comprehensive Health Education",
+    "type": "Regulation",
+    "last_reviewed": "06/23/2021",
+    "file_path": "data/extracted/regulations/6142.8.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Parent Notification Requirements for Comprehensive Sexual Health Education",
+        "description": "California law requires specific parent notification procedures for comprehensive sexual health education, including advance written notice and the right to inspect instructional materials. While the AR mentions excusal rights, it lacks the mandatory notification requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51937",
+            "text": "A school district may provide comprehensive sexual health education, consisting of age-appropriate instruction, in any kindergarten to grade 12, inclusive, using instructional materials that are age-appropriate... A pupil may not attend any class in comprehensive sexual health education or HIV prevention education, or participate in any anonymous, voluntary, and confidential test, questionnaire, or survey on pupil health behaviors and risks, unless the school district complies with the notice requirements of Section 51938."
+          }
+        ],
+        "required_language": "Prior to providing comprehensive sexual health education or HIV prevention education, the district shall provide written notice to parents/guardians at the beginning of the school year or at enrollment, informing them that such instruction will be provided during the school year. The notice shall include information about the right to inspect instructional materials, request notification of the specific dates of instruction, and request that their child be excused from participation.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Instructional Materials Inspection Rights",
+        "description": "Parents have the statutory right to inspect instructional materials used in comprehensive sexual health education. This requirement is not addressed in either the policy or regulation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51938(a)",
+            "text": "A parent or guardian of a pupil has the right to inspect the written and audiovisual educational materials used in the comprehensive sexual health education and HIV prevention education."
+          }
+        ],
+        "required_language": "Parents/guardians have the right to inspect written and audiovisual educational materials used in comprehensive sexual health education and HIV prevention education. The district shall make such materials available for inspection upon request.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Minimum Instructional Time Requirements",
+        "description": "California requires specific minimum instructional time for health education. The policy mentions time allotment in reporting but doesn't establish the required minimums.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51210(h)",
+            "text": "Health, including instruction in the principles and practices of individual, family, and community health."
+          }
+        ],
+        "required_language": "The district shall provide health education instruction that meets state minimum time requirements. Health education shall be provided as part of the required course of study for elementary students.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 88,
+        "title": "Missing Comprehensive Sexual Health Education Content Standards",
+        "description": "The regulation lists general health education content areas but doesn't specifically address the required elements for comprehensive sexual health education when provided.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51934",
+            "text": "If a school district elects to offer comprehensive sexual health education or HIV prevention education... instruction and materials shall be age-appropriate and include information about the effectiveness and safety of all FDA-approved contraceptive methods in preventing pregnancy, including, but not limited to, emergency contraception."
+          }
+        ],
+        "required_language": "When comprehensive sexual health education is provided, instruction shall be medically accurate, age-appropriate, and inclusive of all students. Content shall include information about the effectiveness and safety of FDA-approved contraceptive methods, including emergency contraception, and shall be objective and based on scientific research.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Healthy Youth Act Requirements",
+        "description": "The documents don't explicitly reference compliance with the California Healthy Youth Act, which governs comprehensive sexual health education requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51930 et seq.",
+            "text": "This chapter shall be known and may be cited as the \"California Healthy Youth Act.\""
+          }
+        ],
+        "required_language": "The district's comprehensive sexual health education program, when provided, shall comply with the requirements of the California Healthy Youth Act (Education Code Section 51930 et seq.).",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:30:45.359128+00:00"
+}

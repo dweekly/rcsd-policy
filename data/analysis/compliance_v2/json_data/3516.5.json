@@ -1,0 +1,63 @@
+{
+  "code": "3516.5",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3516.5",
+    "title": "Emergency Schedules",
+    "type": "Policy",
+    "last_reviewed": "11/09/2022",
+    "file_path": "data/extracted/policies/3516.5.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Emergency Schedule Implementation",
+        "description": "While the Board Policy establishes the authority and general requirements for emergency schedules, there is no corresponding Administrative Regulation that provides the detailed procedures for implementation. California school districts typically require both policy direction and implementing procedures for emergency operations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed to include: specific procedures for decision-making authority during emergencies, detailed notification protocols and timelines, staff responsibilities and chain of command, coordination with emergency services, documentation requirements, and specific steps for implementing independent study plans during closures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Notification System Details",
+        "description": "The policy mentions establishing a notification system but lacks specific procedures for timing, responsible parties, and backup communication methods. While the policy lists notification methods, it doesn't specify implementation procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282",
+            "text": "Each school district and county office of education is responsible for the overall development of all comprehensive school safety plans for its schools operating kindergarten or any of grades 1 to 12, inclusive."
+          }
+        ],
+        "required_language": "Detailed procedures should specify: timeline for notifications (e.g., within 2 hours of decision), responsible staff positions, backup notification methods, coordination with transportation services, and verification procedures to ensure message delivery.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Lack of Specific Supervision Procedures",
+        "description": "The policy references supervision procedures \"in accordance with the district's emergency and disaster preparedness plan\" but doesn't provide specific guidance for emergency schedule situations where students may arrive unexpectedly.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44807",
+            "text": "Every teacher in the public schools shall hold pupils to a strict account for their conduct on the way to and from school, on the playgrounds, or during recess."
+          }
+        ],
+        "required_language": "Specific procedures should address: minimum staffing requirements during emergency schedule changes, protocols for students who arrive when school is closed or schedule is altered, safe areas for student supervision, parent notification and pickup procedures, and coordination with site emergency plans.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:29:58.122627+00:00"
+}

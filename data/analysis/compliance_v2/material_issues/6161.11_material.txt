@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6161.11: Supplementary Instructional Materials
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Parental Notification and Complaint Procedures (Confidence: 90%)
+Missing from: BOTH
+California law requires districts to establish procedures for parental notification about supplementary materials and provide a process for parents to file complaints or request alternative assignments when they object to materials on religious, moral, or other grounds.
+
+Legal Basis:
+- Education Code Section 51501: No pupil shall be required to believe or maintain any particular interpretations of facts of history or to recite in any form of religious training or belief... whenever any part of the instruction in health, family life education, and sex education conflicts with the religious training and beliefs of the parent or guardian of any pupil, the pupil, on written request of the parent or guardian, shall be excused from the part of the training which conflicts with such religious training and beliefs.
+
+Required Language:
+Procedures for notifying parents about supplementary instructional materials and providing alternative assignments when parents object to materials based on religious, moral, or other grounds. Include complaint procedures and timelines for resolution.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Selection Criteria and Evaluation Standards (Confidence: 95%)
+Missing from: BOTH
+The policy references "criteria developed for the selection and evaluation of other instructional materials" but does not specify what these criteria are. California law requires districts to establish clear, written criteria for material selection that includes educational suitability, accuracy, and appropriateness standards.
+
+Legal Basis:
+- Education Code Section 60002: The governing board of each school district shall establish procedures for the selection of instructional materials.
+
+Required Language:
+Specific written criteria for evaluating supplementary instructional materials including: educational value and curriculum alignment, factual accuracy, age appropriateness, freedom from bias, literary and artistic quality, and physical format quality.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Documentation and Record-Keeping Requirements (Confidence: 80%)
+Missing from: BOTH
+There are no requirements for maintaining records of supplementary materials used, approval documentation, or tracking of parental notifications and complaints, which are necessary for compliance monitoring and accountability.
+
+Legal Basis:
+- Education Code Section 35161: The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established.
+
+Required Language:
+Requirements for maintaining records of supplementary materials used, documentation of approval processes, and tracking of parental notifications and complaints with specified retention periods.
+
+Recommended Placement: AR
+
+----------------------------------------
+

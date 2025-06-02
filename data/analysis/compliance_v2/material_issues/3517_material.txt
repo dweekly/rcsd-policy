@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 3517: Facilities Inspection
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Annual Inspection Requirement and Timeline (Confidence: 90%)
+Missing from: BOTH
+Education Code 17592.72 requires that facility inspections be conducted annually. The Board Policy does not specify the frequency or timeline for conducting these inspections, which is essential for compliance.
+
+Legal Basis:
+- Education Code 17592.72(c)(1): The governing board shall ensure that an inspection to determine the conditions specified in the inspection and evaluation instrument is completed for each school facility at least once each year.
+
+Required Language:
+Facility inspections shall be conducted annually for each school site, with inspections completed by [specific date] each year to ensure compliance with Education Code requirements.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Public Reporting Requirements (Confidence: 85%)
+Missing from: BOTH
+Education Code 17592.72 requires that inspection results be made available to the public and reported through the School Accountability Report Card (SARC). Neither document addresses these public transparency requirements.
+
+Legal Basis:
+- Education Code 17592.72(c)(3): The results of the inspection shall be available at the district office and at the school, and shall be posted on the school's Internet Web site, if the school operates an Internet Web site.
+
+Required Language:
+Inspection results shall be made available to the public at the district office and each school site, posted on school websites where available, and included in the annual School Accountability Report Card as required by law.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Record Retention Requirements (Confidence: 80%)
+Missing from: BOTH
+Government Code and Education Code require specific record retention periods for facility inspection documentation. Neither document specifies how long inspection records must be maintained.
+
+Legal Basis:
+- Education Code 17592.72(c)(2): The governing board shall maintain records of the inspection and any corrective action taken.
+
+Required Language:
+Records of facility inspections and corrective actions shall be maintained for a minimum of three years and made available for public inspection upon request.
+
+Recommended Placement: AR
+
+----------------------------------------
+

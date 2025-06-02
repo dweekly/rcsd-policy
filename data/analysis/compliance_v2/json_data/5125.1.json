@@ -1,0 +1,84 @@
+{
+  "code": "5125.1",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5125.1",
+    "title": "Release Of Directory Information",
+    "type": "Policy",
+    "last_reviewed": "11/20/2019",
+    "file_path": "data/extracted/policies/5125.1.txt"
+  },
+  "regulation": {
+    "code": "5125.1",
+    "title": "Release Of Directory Information",
+    "type": "Regulation",
+    "last_reviewed": "11/20/2019",
+    "file_path": "data/extracted/regulations/5125.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Annual Notification Timeline Requirements",
+        "description": "Federal regulations require that the annual notification to parents about directory information must be given at the beginning of each school year AND must specify a reasonable period of time for parents to notify the district if they object to disclosure. While the AR mentions notification \"at the beginning of each school year\" and references \"the period of time within which a parent/guardian must notify the district,\" it fails to specify what constitutes a reasonable timeframe for parent response.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 99.37(a)(2)",
+            "text": "The notice must specify a reasonable period of time, not to exceed ten school days, within which a parent or eligible student may inform the agency or institution that any or all of the information designated should not be disclosed without the parent's or eligible student's prior written consent."
+          }
+        ],
+        "required_language": "Parents/guardians shall have ten (10) school days from the date of notification to inform the district in writing that they do not want any or all categories of directory information disclosed without their prior written consent.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Procedures for Handling Opt-Out Requests",
+        "description": "The regulation mentions that parents can refuse directory information release and references the timeframe for notification, but fails to establish clear procedures for how the district will process, track, and implement these opt-out requests. This is essential for ensuring compliance with parent wishes and avoiding unauthorized disclosures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49063",
+            "text": "A parent or guardian or pupil may, at any time, request that any or all directory information regarding that pupil not be released without the prior consent of the parent or guardian or the pupil, as appropriate."
+          }
+        ],
+        "required_language": "Upon receipt of a written request to opt out of directory information disclosure, the Superintendent or designee shall: 1) Acknowledge receipt of the request in writing, 2) Update the student's record to reflect the opt-out status, 3) Ensure all relevant staff are notified of the restriction, and 4) Maintain the opt-out status until rescinded in writing by the parent/guardian or eligible student.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Record-Keeping Requirements for Directory Information Disclosures",
+        "description": "Neither the policy nor regulation addresses the requirement to maintain records of directory information disclosures to certain entities. Federal law requires educational agencies to maintain records of disclosures for certain types of releases.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "34 CFR 99.32(a)",
+            "text": "An educational agency or institution must maintain a record of each request for access to and each disclosure of personally identifiable information from the education records of each student."
+          }
+        ],
+        "required_language": "The district shall maintain a record of directory information disclosures that includes: the name of the requesting party, the date of disclosure, the specific information disclosed, and the legitimate educational interest or other basis for the disclosure.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Administrative Regulation in Policy",
+        "description": "The Board Policy repeatedly references \"administrative regulation\" for implementation details but could be more specific about which procedures are detailed in the AR to provide clearer guidance to staff and the public.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The accompanying administrative regulation shall establish procedures for: annual parent notification, processing opt-out requests, maintaining disclosure records, and specific criteria for determining student best interests when limiting disclosures.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:20:54.855571+00:00"
+}

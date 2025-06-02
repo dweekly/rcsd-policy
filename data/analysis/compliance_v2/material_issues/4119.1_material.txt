@@ -1,0 +1,19 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4119.1: Civil And Legal Rights
+Last Reviewed: 12/07/2022
+================================================================================
+
+Missing Complaint Procedures Reference (Confidence: 90%)
+Missing from: BOTH
+The policy references "district's complaint procedures" for whistleblower retaliation complaints but does not specify which complaint procedure applies or provide cross-reference to the applicable policy/regulation.
+
+Legal Basis:
+- Education Code 44114: Requires clear procedures for employees to file complaints regarding retaliation for whistleblower activities
+
+Required Language:
+Specific reference to applicable complaint procedure (e.g., "in accordance with BP/AR 4144 - Complaints" or establishment of specific whistleblower complaint procedure)
+
+Recommended Placement: BP
+
+----------------------------------------
+

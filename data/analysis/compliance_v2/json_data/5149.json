@@ -1,0 +1,78 @@
+{
+  "code": "5149",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "5149",
+    "title": "At-Risk Students",
+    "type": "Policy",
+    "last_reviewed": "01/13/2010",
+    "file_path": "data/extracted/policies/5149.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for At-Risk Students Implementation",
+        "description": "While the Board Policy establishes the framework for serving at-risk students, there is no corresponding Administrative Regulation to provide specific implementation procedures. California Education Code requires districts to have detailed procedures for identifying, assessing, and serving at-risk students, including specific intervention strategies, timelines, and accountability measures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52052",
+            "text": "The governing board of each school district shall adopt policies and procedures to ensure that pupils who are not achieving academic success receive additional and appropriate assistance."
+          }
+        ],
+        "required_language": "An Administrative Regulation should be developed that includes: (1) Specific criteria and procedures for identifying at-risk students; (2) Assessment protocols and timelines; (3) Detailed intervention strategies and implementation procedures; (4) Staff roles and responsibilities; (5) Parent notification and involvement procedures; (6) Progress monitoring and evaluation methods; (7) Referral procedures to appropriate support services; (8) Documentation and record-keeping requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Identification Criteria and Procedures",
+        "description": "The policy mentions using \"district assessments and ongoing classroom evaluations\" but lacks specific criteria, procedures, and timelines for identifying at-risk students. California law requires clear identification procedures to ensure consistent and equitable identification of students needing additional support.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52052(a)",
+            "text": "Each school district shall establish procedures for the early identification of pupils who are at risk of retention, including, but not limited to, pupils who are not meeting grade level standards."
+          }
+        ],
+        "required_language": "Specific procedures shall be established for early identification of at-risk students, including: (1) Multiple measures for identification (academic performance, attendance, behavior indicators); (2) Specific grade-level benchmarks and standards; (3) Timeline for identification (e.g., within first 30 days of enrollment, quarterly reviews); (4) Staff responsible for identification process; (5) Documentation requirements for identification decisions.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Parent Notification Requirements",
+        "description": "The policy mentions \"parent involvement\" but does not specify required notifications to parents when their child is identified as at-risk or placed in intervention programs. California law requires specific parent notification and involvement procedures.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 48070.5",
+            "text": "Parents have the right to be notified if their child is identified as being at risk of retention and to be informed of all available options."
+          }
+        ],
+        "required_language": "Parents/guardians shall be notified in writing within [specific timeframe] when their child is identified as at-risk or recommended for intervention services. Notification shall include: (1) Specific reasons for identification; (2) Available intervention options; (3) Parent rights and opportunities for involvement; (4) Contact information for questions or conferences; (5) Information provided in the parent's primary language when feasible.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to English Learners",
+        "description": "The policy does not specifically address English Learners as a population that may be at-risk, nor does it reference appropriate services and supports for this population. While not explicitly required, this is considered best practice and helps ensure compliance with federal civil rights requirements.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 52052(d)",
+            "text": "School districts shall ensure that English learners have access to appropriate services and are not inappropriately identified as at-risk due to language barriers."
+          }
+        ],
+        "required_language": "Special consideration shall be given to English Learners to ensure that language barriers are not confused with academic deficiencies, and that appropriate language support services are provided in conjunction with at-risk interventions.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:29:00.860983+00:00"
+}

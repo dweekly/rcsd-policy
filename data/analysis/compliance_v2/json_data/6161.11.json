@@ -1,0 +1,93 @@
+{
+  "code": "6161.11",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6161.11",
+    "title": "Supplementary Instructional Materials",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6161.11.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "California Education Code requires districts to establish procedures for the selection and evaluation of supplementary instructional materials. While the Board Policy establishes the framework and criteria, there is no Administrative Regulation providing the detailed implementation procedures, approval processes, complaint procedures, or specific selection criteria that are legally required.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60002",
+            "text": "The governing board of each school district shall establish procedures for the selection of instructional materials."
+          }
+        ],
+        "required_language": "Administrative procedures detailing the selection process, approval workflow, evaluation criteria, and complaint procedures for supplementary instructional materials.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Parental Notification and Complaint Procedures",
+        "description": "California law requires districts to establish procedures for parental notification about supplementary materials and provide a process for parents to file complaints or request alternative assignments when they object to materials on religious, moral, or other grounds.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51501",
+            "text": "No pupil shall be required to believe or maintain any particular interpretations of facts of history or to recite in any form of religious training or belief... whenever any part of the instruction in health, family life education, and sex education conflicts with the religious training and beliefs of the parent or guardian of any pupil, the pupil, on written request of the parent or guardian, shall be excused from the part of the training which conflicts with such religious training and beliefs."
+          }
+        ],
+        "required_language": "Procedures for notifying parents about supplementary instructional materials and providing alternative assignments when parents object to materials based on religious, moral, or other grounds. Include complaint procedures and timelines for resolution.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Selection Criteria and Evaluation Standards",
+        "description": "The policy references \"criteria developed for the selection and evaluation of other instructional materials\" but does not specify what these criteria are. California law requires districts to establish clear, written criteria for material selection that includes educational suitability, accuracy, and appropriateness standards.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60002",
+            "text": "The governing board of each school district shall establish procedures for the selection of instructional materials."
+          }
+        ],
+        "required_language": "Specific written criteria for evaluating supplementary instructional materials including: educational value and curriculum alignment, factual accuracy, age appropriateness, freedom from bias, literary and artistic quality, and physical format quality.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Documentation and Record-Keeping Requirements",
+        "description": "There are no requirements for maintaining records of supplementary materials used, approval documentation, or tracking of parental notifications and complaints, which are necessary for compliance monitoring and accountability.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35161",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Requirements for maintaining records of supplementary materials used, documentation of approval processes, and tracking of parental notifications and complaints with specified retention periods.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Date and Review Cycle",
+        "description": "The policy was last updated in 2010 and lacks a regular review cycle. While not legally required, regular policy review ensures continued compliance with evolving legal requirements and educational standards.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may delegate to any employee or committee of employees of the district any of those functions and duties imposed upon or vested in the board by law, except those functions and duties that are expressly imposed upon the board as a whole."
+          }
+        ],
+        "required_language": "Establish a regular review cycle (recommended every 3-5 years) to ensure policy remains current with legal requirements and educational best practices.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:33:16.835935+00:00"
+}

@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5111: Admission
+Last Reviewed: 06/27/2018
+================================================================================
+
+Missing Residency Verification Requirements and Procedures (Confidence: 85%)
+Missing from: BOTH
+While the BP mentions that residency must be verified before enrollment, neither document specifies what constitutes acceptable proof of residency or the procedures for residency verification. Education Code requires districts to establish specific procedures for determining residency and what documentation is acceptable.
+
+Legal Basis:
+- Education Code 48204: A pupil complies with the residency requirements for school attendance in a school district if the pupil is any of the following: (a) A pupil whose parent or legal guardian is a resident of the school district... The governing board of a school district shall accept various forms of documentation from a parent or legal guardian as proof of residency.
+
+Required Language:
+Acceptable documentation of residency may include utility bills, lease agreements, mortgage statements, property tax records, or other official documents showing the family's address within district boundaries. The district shall accept various forms of documentation and shall not require specific types of documentation that may be difficult for some families to obtain.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Immunization Requirements and Procedures (Confidence: 90%)
+Missing from: BOTH
+While the BP mentions that immunization must be verified before enrollment, neither document specifies the required immunizations, exemption procedures, or conditional enrollment provisions required by California law.
+
+Legal Basis:
+- Education Code 49403: Any pupil who, prior to his or her first admission to any private or public elementary or secondary school, has not been immunized properly may not be unconditionally admitted to the school. A pupil may be conditionally admitted pending immunization.
+
+Required Language:
+Students must provide proof of required immunizations as specified by the California Department of Public Health before unconditional admission. Students may be conditionally enrolled for up to 30 days pending completion of required immunizations. Medical exemptions may be granted only with proper documentation from a licensed physician.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,93 @@
+{
+  "code": "9005",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9005",
+    "title": "Governance Standards",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9005.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Conflict of Interest Requirements",
+        "description": "California law requires school board members to comply with specific conflict of interest provisions under the Political Reform Act. The policy lacks required statements about financial disclosure, disqualification from decisions involving financial interests, and adherence to conflict of interest codes.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 87100",
+            "text": "\"No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest.\""
+          }
+        ],
+        "required_language": "Board members shall comply with conflict of interest requirements under the Political Reform Act, including filing required financial disclosure statements and disqualifying themselves from decisions in which they have a financial interest as defined by law and the district's conflict of interest code.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Brown Act Compliance Requirements",
+        "description": "The Ralph M. Brown Act requires specific governance standards for public meetings, including requirements for open meetings, proper notice, and restrictions on serial meetings. These fundamental governance requirements are not addressed in the policy.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 54950 et seq.",
+            "text": "\"In enacting this chapter, the Legislature finds and declares that the public commissions, boards and councils and the other public agencies in this State exist to aid in the conduct of the people's business. It is the intent of the law that their actions be taken openly and that their deliberations be conducted openly.\""
+          }
+        ],
+        "required_language": "Board members shall comply with the Ralph M. Brown Act requirements for open meetings, including proper notice of meetings, conducting business in public session except as authorized for closed session, and avoiding serial meetings or other communications that circumvent public meeting requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Gift and Honoraria Restrictions",
+        "description": "The Political Reform Act establishes specific limits on gifts and honoraria that public officials may receive. School board governance standards must address these legal restrictions to ensure compliance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 89503",
+            "text": "\"No elected officer of a state or local government agency shall accept any honorarium while that person holds office.\""
+          }
+        ],
+        "required_language": "Board members shall not accept honoraria and shall comply with gift limitations as established under the Political Reform Act and Fair Political Practices Commission regulations.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Reference to Board Code of Ethics",
+        "description": "While not legally required, Education Code encourages school boards to adopt formal codes of ethics. The governance standards policy would benefit from referencing or incorporating ethical standards specific to educational governance.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35010",
+            "text": "\"The governing board of a school district may adopt rules, not inconsistent with law or with the rules prescribed by the State Board of Education, for its own government and the government of the schools under its jurisdiction.\""
+          }
+        ],
+        "required_language": "Board members shall adhere to ethical standards that promote public trust and confidence in educational governance, including avoiding conflicts between personal interests and public duties.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Implementation Procedures",
+        "description": "The policy establishes governance standards but lacks corresponding administrative regulation detailing implementation procedures, monitoring mechanisms, or consequences for non-compliance with stated standards.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "\"On and after January 1, 1976, the governing board of each school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established.\""
+          }
+        ],
+        "required_language": "Procedures for board self-evaluation, professional development requirements, and processes for addressing governance standard violations should be established in administrative regulation.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:38:20.017028+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "4319.24",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4319.24",
+    "title": "Maintaining Appropriate Adult-Student Interactions",
+    "type": "Policy",
+    "last_reviewed": "11/20/2019",
+    "file_path": "data/extracted/policies/4319.24.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "Education Code 44050 requires districts to establish procedures for implementing appropriate adult-student interaction policies. While the Board Policy establishes the framework and expectations, there is no Administrative Regulation providing specific implementation procedures, complaint processes, investigation protocols, or training requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44050",
+            "text": "The governing board of a school district shall establish a policy on interactions between district employees and pupils... The policy shall include procedures for receiving and investigating complaints alleging violations of the policy."
+          }
+        ],
+        "required_language": "Administrative Regulation must include: (1) Specific procedures for receiving complaints alleging violations; (2) Investigation protocols and timelines; (3) Training requirements for employees on appropriate interactions; (4) Monitoring and supervision procedures; (5) Documentation and record-keeping requirements; (6) Notification procedures to parents/guardians and law enforcement when appropriate.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Specific Complaint Procedures",
+        "description": "Education Code 44050 mandates that the policy include specific procedures for receiving and investigating complaints. While the BP mentions reporting to the Superintendent and references \"applicable complaint procedures,\" it does not provide the detailed procedural requirements mandated by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44050(b)",
+            "text": "The policy shall include procedures for receiving and investigating complaints alleging violations of the policy."
+          }
+        ],
+        "required_language": "Specific procedures must detail: how complaints are filed, who receives them, investigation timelines, notification requirements, interim protective measures, documentation standards, and appeal processes for complaint outcomes.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Training Requirements",
+        "description": "Education Code 44050 requires training on appropriate adult-student interactions. Neither the BP nor AR (which doesn't exist) addresses mandatory training requirements for employees, volunteers, and contractors on the policy content and appropriate boundaries.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44050(c)",
+            "text": "The governing board shall provide training to employees on the policy... at least once every two years."
+          }
+        ],
+        "required_language": "Policy/regulation must specify: (1) Mandatory training for all employees at least once every two years; (2) Training content requirements; (3) Training for new employees within specified timeframe; (4) Training documentation and record-keeping; (5) Training for volunteers and contractors who interact with students.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Coverage of Independent Contractors and Volunteers",
+        "description": "While the BP mentions that expectations apply to \"employees, independent contractors, and volunteers,\" it does not specify how the policy will be communicated to or enforced for non-employee adults, particularly regarding training, monitoring, and disciplinary procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44050",
+            "text": "The policy shall apply to interactions between district employees and pupils, but districts have duty of care for all adult-student interactions on campus."
+          }
+        ],
+        "required_language": "Procedures should specify how independent contractors and volunteers will: (1) Receive policy training; (2) Be monitored for compliance; (3) Face consequences for violations; (4) Be screened before interacting with students.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:17:31.776453+00:00"
+}

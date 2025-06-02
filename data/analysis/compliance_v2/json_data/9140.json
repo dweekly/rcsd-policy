@@ -1,0 +1,48 @@
+{
+  "code": "9140",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9140",
+    "title": "Board Representatives",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9140.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MINOR",
+        "confidence": 85,
+        "title": "Missing Reporting Requirements for Board Representatives",
+        "description": "While the policy establishes the framework for appointing board representatives, it lacks provisions for how representatives should report back to the board about their activities and decisions made in their representative capacity. This creates potential accountability gaps and may not provide adequate transparency for board oversight.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35010",
+            "text": "The governing board of a school district shall have jurisdiction over, and be responsible for, the educational activities conducted by or in the name of its district."
+          }
+        ],
+        "required_language": "Board representatives shall provide regular reports to the Board regarding their activities, recommendations, and any commitments or positions taken in their representative capacity. Such reports shall be provided at the next regularly scheduled board meeting following any significant committee activity or as otherwise directed by the Board.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Administrative Regulation",
+        "description": "The policy establishes the framework for board representatives but lacks corresponding administrative procedures for implementation. An administrative regulation would provide helpful procedural details for staff and board members regarding the appointment process, documentation requirements, and ongoing management of representative assignments.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35010",
+            "text": "The governing board of a school district shall have jurisdiction over, and be responsible for, the educational activities conducted by or in the name of its district."
+          }
+        ],
+        "required_language": "Administrative procedures should address: (1) Process for requesting and making representative appointments; (2) Documentation and record-keeping requirements; (3) Procedures for providing nominees to representatives; (4) Timeline and format for representative reports to the board; (5) Process for modifying or terminating representative assignments.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:39:11.971988+00:00"
+}

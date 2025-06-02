@@ -1,0 +1,93 @@
+{
+  "code": "1700",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "1700",
+    "title": "Relations Between Private Industry And The Schools",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/1700.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Implementation Procedures",
+        "description": "The Board Policy establishes the framework for private industry relations but lacks corresponding Administrative Regulation detailing implementation procedures. California Education Code requires districts to have procedures for managing business partnerships, including approval processes, conflict of interest safeguards, and oversight mechanisms.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative Regulation should include: approval procedures for business partnerships, criteria for evaluating partnerships, conflict of interest review processes, oversight and monitoring procedures, and guidelines for acknowledging business support while avoiding commercial endorsement.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Conflict of Interest Safeguards",
+        "description": "Neither the policy nor regulation addresses conflict of interest requirements when district employees or board members have relationships with businesses seeking partnerships. The Political Reform Act requires public agencies to have procedures preventing conflicts of interest in business relationships.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 87100",
+            "text": "No public official at any level of state or local government shall make, participate in making or in any way attempt to use his official position to influence a governmental decision in which he knows or has reason to know he has a financial interest."
+          }
+        ],
+        "required_language": "District employees and board members must disclose any financial interest in businesses seeking partnerships with the district. Procedures must be established for reviewing and managing potential conflicts of interest in accordance with the Political Reform Act.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Gift and Donation Acceptance Procedures",
+        "description": "While the policy mentions businesses may donate funds and materials, there are no procedures for accepting, evaluating, or managing donations. Education Code requires districts to have formal procedures for accepting gifts to ensure they serve educational purposes and comply with legal requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "The governing board of a school district may accept gifts, grants, and bequests of personal property for the use of the district or any school in the district."
+          }
+        ],
+        "required_language": "Procedures for accepting gifts and donations must include: criteria for evaluation, approval authority levels, documentation requirements, acknowledgment procedures, and guidelines ensuring donations serve legitimate educational purposes without creating undue commercial influence.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 75,
+        "title": "Missing Student Data Privacy Protections",
+        "description": "The policy allows business involvement in educational programs but lacks protections for student data privacy when businesses access student information. FERPA and California student privacy laws require specific safeguards when third parties have access to student data.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 49073.6",
+            "text": "A school service or school service provider shall not use any information in a student's educational record for any purpose other than those required or specifically permitted by the contract with the local educational agency."
+          }
+        ],
+        "required_language": "When business partnerships involve access to student information, the district must ensure compliance with FERPA and state privacy laws, including written agreements specifying permitted uses of student data and prohibiting unauthorized disclosure or commercial use.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Advertising Policy Compliance",
+        "description": "The policy mentions businesses may purchase advertisements \"in accordance with law and Board policy\" but doesn't specify which board policy governs advertising. This creates potential confusion about applicable requirements.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "School districts must ensure all activities comply with applicable laws and established policies."
+          }
+        ],
+        "required_language": "Reference to specific board policy governing advertising on school property (typically BP 1325 - Advertising and Promotion).",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:23:20.784306+00:00"
+}

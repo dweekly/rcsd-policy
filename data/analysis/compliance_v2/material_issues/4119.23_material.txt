@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4119.23: Unauthorized Release Of Confidential/Privileged Information
+Last Reviewed: 11/04/2009
+================================================================================
+
+Missing Student Records Confidentiality Requirements (Confidence: 90%)
+Missing from: BOTH
+The policy lacks specific provisions addressing confidentiality of student records and educational information, which are subject to strict federal and state privacy laws. This is a significant gap given that school employees regularly handle sensitive student information.
+
+Legal Basis:
+- Education Code 49076: Prohibits disclosure of student records except as specifically authorized, and requires districts to establish policies protecting student privacy.
+
+Required Language:
+Policy must address: (1) Prohibition on unauthorized disclosure of student records and educational information; (2) Reference to FERPA and state student privacy laws; (3) Consequences for violations of student privacy; (4) Requirements for staff training on student records confidentiality.
+
+Recommended Placement: BP
+
+----------------------------------------
+
+Missing Personnel Records Confidentiality Provisions (Confidence: 80%)
+Missing from: BOTH
+The policy does not specifically address confidentiality requirements for personnel records and employee information, which are subject to specific legal protections and disclosure limitations under California law.
+
+Legal Basis:
+- Government Code 6254(c): Establishes specific confidentiality protections for personnel records and limits on disclosure of employee information.
+
+Required Language:
+Policy should include: (1) Prohibition on unauthorized access to or disclosure of personnel records; (2) Limitations on sharing employee personal information; (3) Requirements for secure handling of personnel files; (4) Disciplinary consequences for violations of personnel records confidentiality.
+
+Recommended Placement: BP
+
+----------------------------------------
+

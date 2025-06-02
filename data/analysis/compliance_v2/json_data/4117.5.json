@@ -1,0 +1,78 @@
+{
+  "code": "4117.5",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "4117.5",
+    "title": "Termination Agreements",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4117.5.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The district has only an Administrative Regulation (AR) but no corresponding Board Policy (BP) for termination agreements. Board policies establish the district's position and authority on significant matters like termination agreements, while regulations provide implementation procedures. Both are typically required for comprehensive governance of employment termination matters.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "A Board Policy should be established that addresses the board's authority and direction regarding termination agreements, including the circumstances under which such agreements may be entered into, the approval process, and the district's commitment to compliance with applicable legal requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Board Approval Requirements",
+        "description": "Neither the BP nor AR specifies the required board approval process for termination agreements. Government Code Section 53260 requires that cash settlement agreements be approved by the governing body in open session.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 53260(a)",
+            "text": "Any cash settlement relating to the termination of an employment contract or agreement of a local agency executive shall be approved by the governing body of the local agency in open session."
+          }
+        ],
+        "required_language": "All cash settlement agreements relating to the termination of employment contracts shall be approved by the governing board in open session prior to execution.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Public Disclosure Timeline",
+        "description": "While the AR mentions that settlement agreements with certain administrators shall be made available to the public upon request, it does not specify the required timeline for disclosure as mandated by Government Code Section 53262.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 53262",
+            "text": "A copy of any agreement described in Section 53260 that involves a superintendent, deputy superintendent, assistant superintendent, associate superintendent, or other similar chief administrative officer or chief executive officer of a local agency shall be available for public inspection and copying within 72 hours after the agreement is final."
+          }
+        ],
+        "required_language": "Copies of settlement agreements with a superintendent, deputy superintendent, assistant superintendent, associate superintendent or other similar chief administrative officer or chief executive officer shall be made available for public inspection and copying within 72 hours after the agreement is final.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Incomplete Definition of \"Local Agency Executive\"",
+        "description": "The AR addresses settlement agreements for certain administrative positions but does not clearly define which positions constitute \"local agency executives\" subject to the cash settlement limitations under Government Code Section 53260.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 53260(c)",
+            "text": "\"Local agency executive\" means a city manager, county administrative officer, chief administrative officer, or other chief executive officer of a local agency."
+          }
+        ],
+        "required_language": "For purposes of this policy/regulation, \"local agency executive\" includes the superintendent and other chief executive officers of the district, as defined in Government Code Section 53260.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:09:37.263185+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "code": "4319.21",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "4319.21",
+    "title": "Professional Standards",
+    "type": "Policy",
+    "last_reviewed": "11/20/2019",
+    "file_path": "data/extracted/policies/4319.21.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Administrative Regulation for Professional Standards Implementation",
+        "description": "Education Code 44050 requires specific procedures for implementing professional standards policies, including investigation procedures, disciplinary processes, notification requirements, and reporting mechanisms. While the Board Policy establishes the framework and standards, there is no Administrative Regulation to provide the detailed implementation procedures required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 44050",
+            "text": "The governing board of each school district shall adopt policies and procedures for the evaluation and discipline of certificated employees, including procedures for the investigation of alleged misconduct and the notification of parents and guardians regarding employee conduct standards."
+          }
+        ],
+        "required_language": "Administrative procedures must include: (1) Detailed investigation procedures for reported misconduct; (2) Step-by-step disciplinary processes; (3) Specific notification procedures to parents/guardians; (4) Documentation and record-keeping requirements; (5) Timeline requirements for investigations and disciplinary actions; (6) Appeal processes; (7) Coordination with law enforcement procedures; (8) Commission on Teacher Credentialing reporting procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Mandatory Reporting Training Requirements",
+        "description": "California law requires specific training requirements for mandatory reporters, including initial training and periodic refresher training. Neither the BP nor AR addresses the required training components for employees regarding their mandatory reporting obligations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Penal Code Section 11165.7",
+            "text": "Training regarding the reporting duties of mandated reporters shall be provided to persons who are mandated reporters. The training shall include training in child abuse identification and training in child abuse reporting."
+          }
+        ],
+        "required_language": "All employees who are mandatory reporters shall receive initial training within six weeks of employment and periodic refresher training as required by law. Training shall include identification of signs of abuse and neglect, reporting procedures, legal obligations, and consequences of failure to report.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Due Process Procedures for Disciplinary Actions",
+        "description": "The policy references disciplinary action but lacks the constitutionally required due process procedures. Government Code and Education Code require specific due process protections for public employees facing disciplinary action.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 3304",
+            "text": "Public safety officers have specific rights during interrogation and disciplinary proceedings, including the right to representation and advance notice of allegations."
+          }
+        ],
+        "required_language": "Before disciplinary action is taken, employees shall be provided: (1) Written notice of specific allegations; (2) Opportunity to respond to allegations; (3) Right to representation during investigative interviews; (4) Access to evidence supporting allegations; (5) Right to appeal disciplinary decisions through established procedures.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Technology Use Monitoring Notice",
+        "description": "While the BP mentions that electronic communications are not private and may be monitored, it lacks the comprehensive notice requirements for employee technology monitoring under California privacy laws.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "California Constitution Article 1, Section 1",
+            "text": "Privacy is an inalienable right of all people. Employers must provide adequate notice of monitoring activities."
+          }
+        ],
+        "required_language": "Employees shall receive written notice that all use of district technology resources, including internet access, email, and electronic devices, may be monitored, recorded, and reviewed at any time without prior notice. This notice shall be provided at the time of employment and annually thereafter.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:17:13.160821+00:00"
+}

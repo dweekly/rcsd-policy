@@ -1,0 +1,99 @@
+{
+  "code": "3280",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3280",
+    "title": "Sale Or Lease Of District-Owned Real Property",
+    "type": "Policy",
+    "last_reviewed": "03/26/2025",
+    "file_path": "data/extracted/policies/3280.txt"
+  },
+  "regulation": {
+    "code": "3280",
+    "title": "Sale Or Lease Of District-Owned Real Property",
+    "type": "Regulation",
+    "last_reviewed": "03/26/2025",
+    "file_path": "data/extracted/regulations/3280.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Priority Notification Requirements for Surplus Land Act",
+        "description": "The Surplus Land Act requires specific written notifications to housing sponsors, park and recreation agencies, and other entities with priority rights before disposing of surplus land. Neither the policy nor regulation includes the mandatory notification procedures or timelines required under Government Code 54222.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54222",
+            "text": "Before disposing of surplus land, a local agency shall send written notice by certified mail, return receipt requested, or by electronic mail with delivery receipt requested, to specified entities including housing sponsors, park and recreation agencies, and other public agencies with priority rights. The notice must include specific information about the property and provide at least 60 days for responses."
+          }
+        ],
+        "required_language": "Before disposing of surplus land, the district shall send written notice by certified mail, return receipt requested, or by electronic mail with delivery receipt requested, to all entities specified in Government Code 54222, including housing sponsors, park and recreation agencies, and other public agencies with priority rights. The notice shall include the location, a description of the property, and the district's proposed use or disposition. Entities have at least 60 days from receipt to respond with interest in purchasing or leasing the property.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Good Faith Negotiation Requirements",
+        "description": "When entities express interest in surplus land under the Surplus Land Act, districts must engage in good faith negotiations for at least 90 days. This mandatory negotiation period and process is not addressed in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54227",
+            "text": "If a local agency receives a notice of interest from an entity with priority rights, the agency shall engage in good faith negotiations with that entity for at least 90 days. The negotiations shall be for the sale, lease, or other disposition of the surplus land at fair market value."
+          }
+        ],
+        "required_language": "If the district receives a notice of interest from an entity with priority rights under Government Code 54222, the district shall engage in good faith negotiations with that entity for at least 90 days. Negotiations shall be for the sale, lease, or other disposition of the surplus land at fair market value as determined by an appraisal.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Affordable Housing Compliance Requirements",
+        "description": "The Surplus Land Act requires specific procedures when disposing of surplus land that could be used for affordable housing, including compliance with inclusionary housing requirements or in-lieu fees. These requirements are not addressed in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54233",
+            "text": "When disposing of surplus land to an entity other than a housing sponsor for affordable housing, the disposing agency must ensure compliance with any applicable inclusionary housing ordinance or payment of in-lieu fees, unless the land is exempt surplus land."
+          }
+        ],
+        "required_language": "When disposing of surplus land to an entity other than a housing sponsor for affordable housing development, the district shall ensure compliance with any applicable local inclusionary housing ordinance or require payment of applicable in-lieu fees, unless the land qualifies as exempt surplus land under Government Code 54221.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing HCD Reporting Timeline Clarification",
+        "description": "While the policy mentions providing HCD with declarations for exempt surplus land \"at least 30 days prior to disposing,\" it doesn't clarify that this is 30 days before the exemption takes effect, not before disposal, which could cause confusion in implementation.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54221(f)(1)(C)",
+            "text": "At least 30 days before the exemption takes effect, the local agency shall provide the Department of Housing and Community Development a copy of the resolution, declaration, and findings."
+          }
+        ],
+        "required_language": "The 30-day notification to HCD for exempt surplus land must occur before the exemption takes effect, not before the actual disposal of the property. The exemption becomes effective after the 30-day notice period, allowing the district to proceed with disposal without Surplus Land Act compliance.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Fair Market Value Determination Process",
+        "description": "The regulation does not specify how fair market value will be determined for surplus land negotiations, which is important for compliance with Surplus Land Act requirements and general disposal procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code 54227, Education Code 17466",
+            "text": "Negotiations under the Surplus Land Act must be at fair market value, and Education Code requires specification of minimum price in resolution of intention."
+          }
+        ],
+        "required_language": "Fair market value for surplus land shall be determined by a qualified real estate appraiser. The appraisal shall be current (not more than 6 months old) and shall consider the highest and best use of the property consistent with applicable zoning and land use restrictions.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:25:07.210328+00:00"
+}

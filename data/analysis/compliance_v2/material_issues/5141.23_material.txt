@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 5141.23: Asthma Management
+Last Reviewed: 01/13/2010
+================================================================================
+
+Missing Self-Administration Authorization Requirements (Confidence: 85%)
+Missing from: BOTH
+While the AR mentions that students may self-administer inhaled asthma medication with proper authorization, it lacks the specific statutory requirements for self-administration authorization, including the mandatory elements that must be included in physician and parent statements, and the district's authority to revoke self-administration privileges.
+
+Legal Basis:
+- Education Code Section 49423.1: Requires specific elements in physician and parent statements for self-administration of inhaled asthma medication, including confirmation that the pupil is able to self-administer the medication, that the medication is necessary during school hours, and procedures for emergency situations.
+
+Required Language:
+The written statement from the physician shall include: (1) confirmation that the student is able to self-administer inhaled asthma medication, (2) that the medication is necessary during school hours or school-sponsored activities, and (3) the name and purpose of the medication, prescribed dosage, and times or circumstances under which it is to be taken. The parent/guardian statement shall acknowledge that the district incurs no liability as a result of any injury arising from the self-administration of medication and that the parent/guardian shall indemnify and hold harmless the district and school personnel against any claims arising out of the self-administration of medication. The district may revoke authorization for self-administration if the student fails to comply with the requirements.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Backup Medication Storage Requirements (Confidence: 90%)
+Missing from: BOTH
+Neither the policy nor regulation addresses the statutory requirement for backup supplies of inhaled asthma medication to be provided to the school and stored in a location immediately accessible to school personnel.
+
+Legal Basis:
+- Education Code Section 49423.1(c): Requires that a backup supply of the student's inhaled asthma medication be provided to the school nurse or other designated school personnel and stored in a location immediately accessible in the event of an asthma emergency.
+
+Required Language:
+Parents/guardians of students authorized to self-administer inhaled asthma medication shall provide the school with backup supplies of the medication. The backup medication shall be stored in a location immediately accessible to the school nurse or other designated school personnel for use in the event of an asthma emergency.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Stock Albuterol Authorization (Confidence: 80%)
+Missing from: BOTH
+The documents do not address the district's authority to maintain and administer stock albuterol inhalers for emergency use, which is permitted under California law and provides important emergency response capabilities.
+
+Legal Basis:
+- Education Code Section 49414.3: Authorizes school districts to provide emergency albuterol inhalers to school nurses and trained personnel for use during respiratory distress emergencies, subject to specific requirements including physician authorization and proper training.
+
+Required Language:
+The district may maintain stock supplies of albuterol inhalers at school sites for emergency use during respiratory distress. Use of stock albuterol shall be pursuant to written protocols established by a physician and surgeon, and may only be administered by school nurses or other personnel who have received appropriate training. Parents/guardians shall be notified immediately following any administration of stock albuterol.
+
+Recommended Placement: AR
+
+----------------------------------------
+

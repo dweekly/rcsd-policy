@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 4319.21: Professional Standards
+Last Reviewed: 11/20/2019
+================================================================================
+
+Missing Mandatory Reporting Training Requirements (Confidence: 90%)
+Missing from: BOTH
+California law requires specific training requirements for mandatory reporters, including initial training and periodic refresher training. Neither the BP nor AR addresses the required training components for employees regarding their mandatory reporting obligations.
+
+Legal Basis:
+- Penal Code Section 11165.7: Training regarding the reporting duties of mandated reporters shall be provided to persons who are mandated reporters. The training shall include training in child abuse identification and training in child abuse reporting.
+
+Required Language:
+All employees who are mandatory reporters shall receive initial training within six weeks of employment and periodic refresher training as required by law. Training shall include identification of signs of abuse and neglect, reporting procedures, legal obligations, and consequences of failure to report.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Due Process Procedures for Disciplinary Actions (Confidence: 85%)
+Missing from: BOTH
+The policy references disciplinary action but lacks the constitutionally required due process procedures. Government Code and Education Code require specific due process protections for public employees facing disciplinary action.
+
+Legal Basis:
+- Government Code Section 3304: Public safety officers have specific rights during interrogation and disciplinary proceedings, including the right to representation and advance notice of allegations.
+
+Required Language:
+Before disciplinary action is taken, employees shall be provided: (1) Written notice of specific allegations; (2) Opportunity to respond to allegations; (3) Right to representation during investigative interviews; (4) Access to evidence supporting allegations; (5) Right to appeal disciplinary decisions through established procedures.
+
+Recommended Placement: AR
+
+----------------------------------------
+

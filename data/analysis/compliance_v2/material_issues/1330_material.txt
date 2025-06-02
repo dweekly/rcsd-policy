@@ -1,0 +1,33 @@
+MATERIAL COMPLIANCE ISSUES
+BP 1330: Use Of School Facilities
+Last Reviewed: 08/24/2011
+================================================================================
+
+Missing Insurance Requirements (Confidence: 95%)
+Missing from: BOTH
+Education Code 38134 requires districts to establish insurance requirements for facility users, but neither the policy nor regulation specifies the minimum insurance coverage amounts or types required from users.
+
+Legal Basis:
+- Education Code 38134(b): The governing board may require any person or organization using the school facilities or grounds to provide or pay for a policy of insurance in such amounts as the governing board deems advisable to protect the school district against liability for property damage or bodily injury.
+
+Required Language:
+The district may require users to provide comprehensive general liability insurance in amounts determined by the Superintendent or designee, naming the district as additional insured, and to provide certificates of insurance prior to facility use.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Application and Approval Process (Confidence: 90%)
+Missing from: BOTH
+Education Code 38133 requires districts to maintain procedures for facility use, but neither document establishes a clear application process, approval criteria, or timeline for processing requests.
+
+Legal Basis:
+- Education Code 38133: The governing board shall adopt rules and regulations for the use of school facilities which shall aid, encourage, and assist groups desiring to use school facilities for approved activities.
+
+Required Language:
+Users must submit written applications for facility use at least [X] days in advance. Applications shall include the purpose, dates, times, expected attendance, and insurance information. The Superintendent or designee shall approve or deny applications within [X] business days.
+
+Recommended Placement: AR
+
+----------------------------------------
+

@@ -1,0 +1,47 @@
+MATERIAL COMPLIANCE ISSUES
+BP 6162.54: Test Integrity/Test Preparation
+Last Reviewed: 06/23/2010
+================================================================================
+
+Missing Specific Investigation Timeline Requirements (Confidence: 90%)
+Missing from: BOTH
+While the policy states investigations shall be conducted "immediately" and "with due diligence," it lacks specific timelines required by state regulations for reporting testing irregularities to the California Department of Education.
+
+Legal Basis:
+- 5 CCR Section 850: Testing irregularities must be reported to the state within specific timeframes to ensure proper investigation and remediation.
+
+Required Language:
+Testing irregularities on state assessments must be reported to the California Department of Education within [specific timeframe as required by current CDE guidelines], and initial investigation must commence within 24 hours of discovery.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Staff Training Requirements (Confidence: 85%)
+Missing from: BOTH
+The policy lacks requirements for mandatory staff training on test security and integrity procedures, which is essential for preventing violations and ensuring compliance with state testing requirements.
+
+Legal Basis:
+- Education Code Section 60615: School districts must ensure all staff involved in test administration receive appropriate training on test security procedures.
+
+Required Language:
+All staff involved in test administration shall receive annual training on test security procedures, appropriate test preparation methods, and consequences of testing irregularities. Training records shall be maintained and available for audit.
+
+Recommended Placement: AR
+
+----------------------------------------
+
+Missing Documentation and Record-Keeping Requirements (Confidence: 80%)
+Missing from: BOTH
+The policy does not specify requirements for documenting testing irregularities, maintaining investigation records, or preserving evidence, which are necessary for proper accountability and potential legal proceedings.
+
+Legal Basis:
+- 5 CCR Section 850: Districts must maintain proper documentation of all testing irregularities and investigations for audit and compliance purposes.
+
+Required Language:
+All testing irregularities and investigations shall be documented in writing, including dates, individuals involved, evidence collected, actions taken, and outcomes. Records shall be maintained for a minimum of three years and made available to state auditors upon request.
+
+Recommended Placement: AR
+
+----------------------------------------
+

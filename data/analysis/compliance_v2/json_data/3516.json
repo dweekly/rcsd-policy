@@ -1,0 +1,99 @@
+{
+  "code": "3516",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3516",
+    "title": "Emergencies And Disaster Preparedness Plan",
+    "type": "Policy",
+    "last_reviewed": "11/09/2022",
+    "file_path": "data/extracted/policies/3516.txt"
+  },
+  "regulation": {
+    "code": "3516",
+    "title": "Emergencies And Disaster Preparedness Plan",
+    "type": "Regulation",
+    "last_reviewed": "04/27/2022",
+    "file_path": "data/extracted/regulations/3516.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Annual Review and Update Requirement",
+        "description": "California Education Code requires that comprehensive school safety plans be reviewed and updated at least annually. While the policy mentions developing and maintaining a disaster preparedness plan, neither the BP nor AR explicitly states the annual review and update requirement for the disaster preparedness components of the comprehensive school safety plan.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32286(a)",
+            "text": "The comprehensive school safety plan shall be reviewed and updated by March 1 of every year by the school site council or school safety planning committee."
+          }
+        ],
+        "required_language": "The disaster preparedness plan components of each school's comprehensive school safety plan shall be reviewed and updated at least annually by March 1 by the school site council or school safety planning committee, as applicable.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing School Site Council/Safety Planning Committee Involvement",
+        "description": "Education Code requires involvement of school site councils or school safety planning committees in developing comprehensive school safety plans. While the policy mentions involving various staff and community members, it does not specifically reference the required involvement of school site councils or school safety planning committees.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32288(a)",
+            "text": "The comprehensive school safety plan shall be developed by the school site council or a school safety planning committee."
+          }
+        ],
+        "required_language": "The disaster preparedness components of the comprehensive school safety plan shall be developed by the school site council or a school safety planning committee, as applicable to each school site.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Public Meeting and Adoption Requirements",
+        "description": "Education Code requires that comprehensive school safety plans be adopted at a public meeting and that the public be given opportunity to attend and express opinions. Neither document addresses these public participation requirements for the disaster preparedness components.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32288(c)",
+            "text": "The comprehensive school safety plan shall be adopted by the school district governing board at a public meeting. Before adopting the comprehensive school safety plan, the governing board shall allow members of the public to review the plan and express opinions about the plan at a regularly scheduled meeting of the governing board."
+          }
+        ],
+        "required_language": "The comprehensive school safety plan, including disaster preparedness components, shall be adopted by the governing board at a public meeting. Before adoption, the board shall allow members of the public to review the plan and express opinions about the plan at a regularly scheduled board meeting.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Reference to Mental Health Professionals in Planning",
+        "description": "While the policy mentions involving \"health and mental health professionals,\" it could be more specific about including school mental health professionals in the planning process, as they play a crucial role in emergency response and recovery.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282(a)(2)(J)",
+            "text": "Procedures to notify teachers of dangerous pupils pursuant to Section 49079."
+          }
+        ],
+        "required_language": "The planning process shall specifically include school mental health professionals, including school social workers and mental health counselors, in addition to school psychologists already mentioned.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Specific Timeline for Plan Updates After Incidents",
+        "description": "While the AR addresses post-disaster steps, it doesn't specify timelines for updating plans based on lessons learned from actual emergencies or drills. This would help ensure continuous improvement of emergency preparedness.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32282",
+            "text": "The governing board of each school district shall adopt a comprehensive school safety plan for each of its schools."
+          }
+        ],
+        "required_language": "Following any actual emergency or significant drill, the disaster preparedness plan shall be reviewed within 30 days and updated as necessary to incorporate lessons learned and improve future response.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:29:21.614165+00:00"
+}

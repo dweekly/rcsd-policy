@@ -1,0 +1,99 @@
+{
+  "code": "5125",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "5125",
+    "title": "Student Records",
+    "type": "Policy",
+    "last_reviewed": "06/27/2018",
+    "file_path": "data/extracted/policies/5125.txt"
+  },
+  "regulation": {
+    "code": "5125",
+    "title": "Student Records",
+    "type": "Regulation",
+    "last_reviewed": "06/27/2018",
+    "file_path": "data/extracted/regulations/5125.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Annual Notification Requirements",
+        "description": "California law requires districts to provide annual written notification to parents/guardians and adult students about their rights under FERPA and state law regarding student records. Neither the policy nor regulation specifies this mandatory annual notification requirement or its required contents.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49063",
+            "text": "The parent or guardian of a pupil, or a pupil who is 18 years of age or older, shall be notified by the school district in writing of the rights accorded them by this chapter. The notification shall include, but not be limited to, the right to inspect and review the pupil's educational records and the procedures for challenging the content of those records."
+          }
+        ],
+        "required_language": "The district shall provide annual written notification to parents/guardians and adult students of their rights under state and federal law regarding student records, including but not limited to: the right to inspect and review educational records, procedures for challenging record content, categories of information designated as directory information, and procedures for requesting that directory information not be released without prior consent.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Directory Information Definition and Opt-Out Procedures",
+        "description": "While the regulation mentions \"directory information\" in exclusions from student records, neither document defines what constitutes directory information or establishes procedures for parents/students to opt out of directory information disclosure, as required by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49073",
+            "text": "Each school district shall inform parents and guardians of pupils in attendance and pupils in attendance who are 18 years of age or older of the categories of directory information which it has designated and of their right to refuse to let the district disclose any or all of such directory information upon written notification to the district."
+          }
+        ],
+        "required_language": "Directory information includes: student's name, address, telephone number, email address, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and most recent previous educational agency or institution attended. Parents/guardians and adult students may refuse disclosure of directory information by providing written notification to the district within 30 days of receiving annual notification.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Record Challenge and Hearing Procedures",
+        "description": "Neither document establishes specific procedures for parents/students to challenge the content of student records or request hearings when they believe records are inaccurate, misleading, or violate privacy rights, as required by state and federal law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 49070",
+            "text": "The parent or guardian of a pupil or former pupil, or the pupil if he is 18 years of age or older, may file a written request with the superintendent of the school district to correct or remove from any pupil record any information concerning the pupil which is alleged to be any of the following: (a) Inaccurate. (b) An unsubstantiated personal conclusion or inference. (c) A conclusion or inference outside of the observer's area of competence. (d) Not based on the personal observation of a named person with the time and place of the observation noted. (e) Misleading. (f) In violation of the privacy or other rights of the pupil."
+          }
+        ],
+        "required_language": "Parents/guardians and adult students may request correction or removal of student record information by filing a written request with the Superintendent. If the district refuses the request, the parent/guardian or adult student may request a hearing before a hearing panel. The hearing panel shall consist of persons who do not have a direct interest in the outcome of the hearing. Specific procedures for requesting hearings, notice requirements, and appeal processes shall be established and communicated to parents/students.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Record Retention and Destruction Schedule",
+        "description": "While the regulation defines mandatory permanent, mandatory interim, and permitted records, neither document specifies the required retention periods or destruction procedures for different categories of student records as mandated by California regulations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 432",
+            "text": "Mandatory interim pupil records shall be maintained for a minimum period of five years after the pupil completes or withdraws from the educational program, whereupon they shall be destroyed. Permitted pupil records shall be destroyed no later than one year after the pupil completes or withdraws from the educational program."
+          }
+        ],
+        "required_language": "Mandatory permanent records shall be maintained in perpetuity. Mandatory interim records shall be maintained for a minimum of five years after the student completes or withdraws from the educational program, then destroyed. Permitted records shall be destroyed no later than one year after the student completes or withdraws from the educational program. The district shall establish procedures for secure destruction of records and maintain logs of destroyed records.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Specific Contents of Mandatory Records",
+        "description": "The regulation defines categories of mandatory permanent and interim records but does not specify what specific information must be included in each category, as outlined in California regulations.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 431",
+            "text": "Mandatory permanent pupil records shall consist of: legal name of pupil, date and place of birth, method of school entrance and withdrawal, subjects taken during each year of enrollment, marks received in each subject, verification of or exemption from required immunizations, date of graduation or completion of program of study, and log of access persons or agencies who have requested or received information from the record."
+          }
+        ],
+        "required_language": "Mandatory permanent records shall include: legal name, date and place of birth, method of school entrance and withdrawal, subjects taken during each year, marks received, immunization verification or exemption, graduation date, and access log. Mandatory interim records shall include: objective counselor and/or teacher ratings, standardized test results, health information other than immunizations, participation in special programs, disciplinary actions, and other information of clear importance to the educational process.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:21:04.055197+00:00"
+}

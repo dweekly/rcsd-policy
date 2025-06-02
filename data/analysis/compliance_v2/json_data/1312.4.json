@@ -1,0 +1,78 @@
+{
+  "code": "1312.4",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "1312.4",
+    "title": "Williams Uniform Complaint Procedures",
+    "type": "Regulation",
+    "last_reviewed": "01/22/2020",
+    "file_path": "data/extracted/regulations/1312.4.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) 1312.4 document is entirely missing. California law requires both policy and regulatory components for Williams Uniform Complaint Procedures. The policy should establish the board's commitment to providing adequate instructional materials, properly credentialed teachers, and safe school facilities, while delegating implementation authority to administration.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35186",
+            "text": "The governing board of a school district shall adopt policies and procedures for the filing of complaints regarding deficiencies related to instructional materials, teacher vacancy or misassignment, and school facility conditions that pose an emergency or urgent threat to the health or safety of pupils or staff."
+          }
+        ],
+        "required_language": "The Board of Education recognizes its responsibility to ensure that all students have access to standards-aligned instructional materials, properly credentialed teachers, and safe school facilities. The Board shall establish uniform complaint procedures to address deficiencies in these areas as required by Education Code 35186. The Superintendent or designee is authorized to establish administrative procedures to implement these complaint processes.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Board Authority and Responsibility Statement",
+        "description": "Neither document contains the required board-level policy statement establishing the governing board's authority and responsibility for ensuring compliance with Williams Act requirements. This foundational policy direction is required to be established at the board level.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35186(a)",
+            "text": "It is the intent of the Legislature that the governing board of each school district take all actions necessary to ensure that each pupil in each school has sufficient textbooks and instructional materials that are aligned to the academic content standards."
+          }
+        ],
+        "required_language": "The Board of Education is committed to ensuring that each student has sufficient textbooks and instructional materials aligned to academic content standards, is taught by appropriately credentialed teachers, and attends school in facilities that are clean, safe, and functional as required by Education Code 35186.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Annual Board Notification Requirement",
+        "description": "Neither document addresses the required annual notification to the board regarding Williams complaint procedures and the board's ongoing responsibilities. This is a board-level policy requirement that should be established in the BP.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35186(d)",
+            "text": "The governing board shall annually review the sufficiency of instructional materials and the condition of school facilities."
+          }
+        ],
+        "required_language": "The Board shall annually review the sufficiency of instructional materials and the condition of school facilities. The Superintendent shall provide an annual report to the Board regarding Williams complaints received and resolved during the previous year.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 80,
+        "title": "Missing Reference to Board's Role in Complaint Resolution",
+        "description": "While the AR mentions that unsatisfied complainants may describe complaints to the Board, there is no policy-level statement about the Board's role and authority in the complaint resolution process.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "5 CCR 4686",
+            "text": "If a complainant is not satisfied with the resolution of a complaint, the complainant has the right to describe the complaint to the governing board of the school district at a regularly scheduled meeting."
+          }
+        ],
+        "required_language": "Complainants who are not satisfied with the administrative resolution of their Williams complaint may present their concerns to the Board of Education at a regularly scheduled board meeting.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:21:57.191659+00:00"
+}

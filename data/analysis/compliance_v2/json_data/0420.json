@@ -1,0 +1,84 @@
+{
+  "code": "0420",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "0420",
+    "title": "School Plans/Site Councils",
+    "type": "Policy",
+    "last_reviewed": "05/23/2018",
+    "file_path": "data/extracted/policies/0420.txt"
+  },
+  "regulation": {
+    "code": "0420",
+    "title": "School Plans/Site Councils",
+    "type": "Regulation",
+    "last_reviewed": "05/23/2018",
+    "file_path": "data/extracted/regulations/0420.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Specific School Site Council Composition Numbers",
+        "description": "Education Code 52852 requires specific numerical composition for school site councils. While the regulation describes the general composition and proportions, it does not specify the exact numbers required by law for different school sizes.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 52852(a)",
+            "text": "The school site council shall be composed of not fewer than 10 members nor more than 14 members and shall be constituted to ensure parity between (A) the principal, classroom teachers, and other school personnel, and (B) parents of pupils attending the school, and pupils attending the school, as applicable."
+          }
+        ],
+        "required_language": "The school site council shall be composed of not fewer than 10 members nor more than 14 members.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing English Learner Parent Advisory Requirements",
+        "description": "For schools with significant English learner populations, Education Code requires specific provisions for English learner parent participation in the development of the SPSA, which is not addressed in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 64001(j)",
+            "text": "If the school has a significant number of pupils who are English learners, the plan shall be developed, reviewed, and approved with the advice of parents or guardians of English learners and with the advice of teachers with appropriate training to serve English learners."
+          }
+        ],
+        "required_language": "If the school has a significant number of pupils who are English learners, the single plan for student achievement shall be developed, reviewed, and approved with the advice of parents or guardians of English learners and with the advice of teachers with appropriate training to serve English learners.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Annual Training Requirements",
+        "description": "Education Code requires annual training for school site council members on their roles and responsibilities, budget processes, and legal requirements. The policy mentions training generally but lacks the specificity required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 52852(b)(1)",
+            "text": "The governing board of the school district shall provide training to members of school site councils to ensure that the members understand their role and responsibilities."
+          }
+        ],
+        "required_language": "The district shall provide annual training to school site council members covering their roles and responsibilities, legal requirements, budget processes, and plan development procedures. Training shall be provided to new members before they begin their duties and ongoing training shall be available to all members.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Public Notice Requirements Detail",
+        "description": "While the regulation mentions that public notice must be posted for SPSA approval meetings, it lacks specific details about notice timing and content requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code 35147",
+            "text": "The agenda shall be posted at least 72 hours before a regular meeting in a location that is freely accessible to members of the public."
+          }
+        ],
+        "required_language": "Public notice for school site council meetings shall be posted at least 72 hours before the meeting in a location freely accessible to the public, and shall include the meeting agenda.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:18:18.931447+00:00"
+}

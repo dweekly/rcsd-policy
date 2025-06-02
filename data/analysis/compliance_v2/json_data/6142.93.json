@@ -1,0 +1,93 @@
+{
+  "code": "6142.93",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "6142.93",
+    "title": "Science Instruction",
+    "type": "Policy",
+    "last_reviewed": "06/23/2010",
+    "file_path": "data/extracted/policies/6142.93.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Science Content Standards Implementation",
+        "description": "California requires districts to implement state-adopted science content standards. The policy lacks any reference to California's science content standards or their implementation, which is mandatory for all districts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60605",
+            "text": "The governing board of each school district shall ensure that the adopted course of study is implemented in the schools within the district."
+          }
+        ],
+        "required_language": "Science instruction shall be aligned with and implement the state-adopted California Science Standards and Next Generation Science Standards (NGSS) as applicable to each grade level.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Science Instructional Materials Adoption Requirements",
+        "description": "Districts must adopt instructional materials from the state-approved list or through local adoption processes that meet state criteria. No reference to instructional materials adoption is present.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 60200-60206",
+            "text": "The governing board of a school district shall adopt instructional materials for use in the schools of the district."
+          }
+        ],
+        "required_language": "The district shall adopt science instructional materials that are aligned with state content standards and approved through the state adoption process or local adoption procedures that meet state requirements.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation Document",
+        "description": "The complete absence of an Administrative Regulation means there are no implementation procedures for science instruction, including assessment methods, curriculum pacing, teacher qualifications, or laboratory safety requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 51220(d)",
+            "text": "Science, including the physical and biological aspects, with emphasis on basic concepts, scientific reasoning, and the scientific method."
+          }
+        ],
+        "required_language": "A comprehensive Administrative Regulation should address: curriculum implementation procedures, assessment methods, laboratory safety protocols, teacher qualification requirements, and alignment with state testing requirements.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Laboratory Safety Requirements",
+        "description": "Science instruction involving laboratory work requires specific safety protocols and procedures to protect students, but no safety requirements are addressed in either document.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32020",
+            "text": "Every employee of a school district shall be alert to conditions which might result in accident or injury to pupils under his supervision and shall make reasonable effort to protect the health and safety of the pupils."
+          }
+        ],
+        "required_language": "Science laboratory instruction shall include appropriate safety protocols, equipment, and training to ensure student and staff safety during hands-on science activities.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Environmental Education Requirements",
+        "description": "California encourages environmental education integration into science curriculum, but this is not addressed in the policy framework.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 8700-8705",
+            "text": "Environmental education shall be integrated into existing subject areas and shall emphasize the relationship between and interdependence of all components of the natural environment."
+          }
+        ],
+        "required_language": "Science instruction should integrate environmental education concepts that emphasize the relationship and interdependence of natural environment components.",
+        "recommended_placement": "BP"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:31:10.954605+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "code": "9124",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "9124",
+    "title": "Attorney",
+    "type": "Policy",
+    "last_reviewed": "01/28/2009",
+    "file_path": "data/extracted/policies/9124.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Administrative Regulation for Attorney Services",
+        "description": "California Education Code requires school districts to establish procedures for legal services. While the Board Policy establishes the framework for attorney services, there is no corresponding Administrative Regulation to provide implementation procedures, which is required for proper governance structure and compliance with legal service requirements.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of a school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "Administrative procedures should be established covering: authorization processes for legal services, budget approval procedures, documentation requirements for legal consultations, procedures for selecting legal counsel, and protocols for communication between legal counsel and district personnel.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Outdated Policy Review Date",
+        "description": "The policy was last reviewed in 2009, which is over 14 years ago. While not legally mandated, regular policy review is a best practice to ensure continued compliance with evolving legal requirements and district needs.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160.5",
+            "text": "The governing board of a school district shall establish policies for the governance of the school district that are consistent with law."
+          }
+        ],
+        "required_language": "Policy should be reviewed and updated to reflect current legal requirements and district practices, with regular review cycles established.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 60,
+        "title": "Lack of Specific Authorization Procedures",
+        "description": "While the policy mentions that the Board may authorize specific members to confer with legal counsel, it lacks clear procedures for such authorization and doesn't address emergency situations where immediate legal consultation may be needed.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Government Code Section 54956.9",
+            "text": "Nothing in this chapter shall be construed to prevent a legislative body of a local agency, based on advice of its legal counsel, from holding a closed session to confer with, or receive advice from, its legal counsel regarding pending litigation."
+          }
+        ],
+        "required_language": "Procedures should specify the process for Board authorization of individual member consultations with legal counsel, including emergency consultation protocols and documentation requirements.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:39:05.049865+00:00"
+}

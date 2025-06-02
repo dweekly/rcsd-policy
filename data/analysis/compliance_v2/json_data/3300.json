@@ -1,0 +1,108 @@
+{
+  "code": "3300",
+  "has_policy": true,
+  "has_regulation": false,
+  "policy": {
+    "code": "3300",
+    "title": "Expenditures And Purchases",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/3300.txt"
+  },
+  "regulation": null,
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Competitive Bidding Requirements",
+        "description": "California Education Code requires specific competitive bidding procedures for purchases exceeding statutory thresholds. The policy lacks any mention of bidding requirements, thresholds, or procedures for formal bidding processes that are mandatory for public school districts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 20111",
+            "text": "The governing board of any school district may purchase materials, supplies, and equipment by competitive bidding. When the cost of materials, supplies, or equipment exceeds the bid limit specified in the Public Contract Code, the governing board shall purchase by competitive bidding."
+          }
+        ],
+        "required_language": "The district shall follow competitive bidding procedures as required by Education Code 20111 and Public Contract Code when purchases exceed statutory thresholds. Formal bidding procedures, including advertisement requirements, bid opening procedures, and award criteria shall be established.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Public Contract Code Bid Thresholds",
+        "description": "The policy does not specify the monetary thresholds that trigger formal bidding requirements under the Public Contract Code. Districts must establish clear thresholds and procedures for different purchase amounts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Public Contract Code 20111",
+            "text": "Contracts for materials, supplies, or equipment in excess of the amount specified shall be let to the lowest responsible bidder after notice published once a week for two weeks in a newspaper of general circulation published in the district."
+          }
+        ],
+        "required_language": "Purchases exceeding the bid limits established in Public Contract Code Section 20111 shall require formal competitive bidding with public advertisement. Current thresholds and procedures for informal bidding, formal bidding, and emergency purchases shall be clearly defined.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Emergency Purchase Procedures",
+        "description": "The policy lacks provisions for emergency purchases that may bypass normal competitive bidding requirements. Education Code allows for emergency purchases under specific circumstances that must be defined.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Public Contract Code 20113",
+            "text": "In case of emergency when repair or replacements are necessary, the governing board may proceed with the replacement or repair without advertising for or inviting bids."
+          }
+        ],
+        "required_language": "Emergency purchases may be made without competitive bidding when immediate action is necessary to protect life, property, or essential district operations. Emergency purchases shall be reported to the Board at the next regular meeting with justification for the emergency action.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Conflict of Interest Provisions",
+        "description": "The policy does not address conflict of interest requirements for purchasing decisions, which are required under the Government Code to ensure ethical procurement practices.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Government Code 1090",
+            "text": "Members of the Legislature, state, county, district, judicial district, and city officers or employees shall not be financially interested in any contract made by them in their official capacity."
+          }
+        ],
+        "required_language": "All purchasing decisions shall comply with conflict of interest requirements under Government Code 1090. District employees and Board members shall not have financial interests in contracts or purchases made by the district.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Vendor Registration and Qualification Procedures",
+        "description": "The policy lacks procedures for vendor registration, qualification, and maintenance of approved vendor lists, which are best practices for effective procurement management.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 17604",
+            "text": "The governing board may establish procedures for the prequalification of contractors and may limit bidding to prequalified contractors."
+          }
+        ],
+        "required_language": "The district may establish vendor prequalification procedures and maintain lists of qualified vendors. Vendor registration requirements, qualification criteria, and performance standards may be established to ensure contractor competency.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Purchase Card/Petty Cash Procedures",
+        "description": "While the policy mentions blanket purchase orders, it lacks comprehensive procedures for purchase cards, petty cash, and other small purchase mechanisms commonly used by districts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 42631",
+            "text": "The governing board may establish procedures for the use of purchase orders, purchase cards, and other purchasing mechanisms consistent with sound fiscal management."
+          }
+        ],
+        "required_language": "Procedures for purchase cards, petty cash, and other small purchase mechanisms shall be established with appropriate controls, spending limits, documentation requirements, and approval processes.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:25:23.337606+00:00"
+}

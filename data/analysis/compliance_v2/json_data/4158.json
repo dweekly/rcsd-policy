@@ -1,0 +1,84 @@
+{
+  "code": "4158",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "4158",
+    "title": "Employee Security",
+    "type": "Policy",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/policies/4158.txt"
+  },
+  "regulation": {
+    "code": "4158",
+    "title": "Employee Security",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/4158.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mandatory Reporting Requirements for Attacks on School Personnel",
+        "description": "Education Code 44014 requires that when any person willfully disturbs a public school or public school meeting, or commits certain acts against school personnel, the principal or superintendent must report to appropriate law enforcement AND to the county superintendent of schools. The current documents only mention reporting to law enforcement but omit the mandatory reporting to the county superintendent.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44014",
+            "text": "The principal of a school or the superintendent of the school district shall report any instance of assault or battery committed against any school employee to appropriate local law enforcement authorities and to the county superintendent of schools."
+          }
+        ],
+        "required_language": "Both the employee and the principal or other immediate supervisor shall promptly report such instances to the appropriate local law enforcement agency and to the county superintendent of schools.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Workers' Compensation Notification Requirements",
+        "description": "Labor Code 3550 requires employers to notify employees of their rights under workers' compensation, particularly when workplace injuries occur. This is especially critical for employee security policies as they deal with potential workplace violence and injuries.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Labor Code 3550",
+            "text": "Every employer shall secure the payment of compensation in one or more of the following ways: (a) By being insured against liability to pay compensation by one or more insurers duly authorized to write compensation insurance in this state."
+          }
+        ],
+        "required_language": "Employees who suffer work-related injuries, including those resulting from workplace violence or threats, shall be informed of their rights under workers' compensation and assisted in filing appropriate claims.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Incomplete Reference to Injurious Objects Definition",
+        "description": "The policy references \"injurious objects\" but does not clearly define what constitutes such objects or reference the specific Education Code sections that define weapons and dangerous objects. This could lead to inconsistent implementation.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 48915(c)(1)",
+            "text": "Possessing, selling, or otherwise furnishing any firearm, knife, explosive, or other dangerous object of no reasonable use to the pupil unless, in the case of possession of any object of this type, the pupil had obtained written permission to possess the item from a certificated school employee."
+          }
+        ],
+        "required_language": "For purposes of this policy, \"injurious objects\" include but are not limited to firearms, knives, explosives, or other dangerous objects as defined in Education Code 48915, or any object that could reasonably be considered capable of causing bodily harm.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 70,
+        "title": "Missing Reference to Mandated Reporter Training",
+        "description": "While the policy mentions crisis prevention training, it does not specifically address mandated reporter training requirements, which are relevant to employee security when incidents involve students and potential abuse situations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code 44691",
+            "text": "The training shall include training in the duties of mandated reporters under the Child Abuse and Neglect Reporting Act."
+          }
+        ],
+        "required_language": "Employee training shall include mandated reporter requirements as they relate to situations that may arise during security incidents involving students.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T14:13:28.631172+00:00"
+}

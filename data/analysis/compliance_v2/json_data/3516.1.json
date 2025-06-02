@@ -1,0 +1,93 @@
+{
+  "code": "3516.1",
+  "has_policy": false,
+  "has_regulation": true,
+  "policy": null,
+  "regulation": {
+    "code": "3516.1",
+    "title": "Fire Drills And Fires",
+    "type": "Regulation",
+    "last_reviewed": "11/04/2009",
+    "file_path": "data/extracted/regulations/3516.1.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 95,
+        "title": "Missing Board Policy Document",
+        "description": "The Board Policy (BP) 3516.1 document is entirely missing. California school districts are required to have both board policies and administrative regulations to properly govern school operations. The board policy should establish the district's commitment to fire safety, legal compliance requirements, and delegation of authority to administration.",
+        "missing_from": "BP",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35160",
+            "text": "The governing board of any school district may initiate and carry on any program, activity, or may otherwise act in any manner which is not in conflict with or inconsistent with, or preempted by, any law and which is not in conflict with the purposes for which school districts are established."
+          }
+        ],
+        "required_language": "The Board recognizes the importance of fire safety and emergency preparedness in protecting students, staff, and school property. The district shall comply with all applicable fire safety laws and regulations, including conducting regular fire drills and maintaining proper emergency procedures. The Superintendent or designee is authorized to establish administrative regulations to implement this policy.",
+        "recommended_placement": "BP"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Fire Department Notification Requirement",
+        "description": "Neither the BP nor AR addresses the requirement to notify the fire department about fire drill schedules and procedures. California regulations require coordination with local fire authorities.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 550",
+            "text": "Fire drills shall be conducted in cooperation with the local fire department having jurisdiction."
+          }
+        ],
+        "required_language": "Fire drills shall be conducted in cooperation with the local fire department having jurisdiction. The principal or designee shall coordinate with local fire authorities regarding drill procedures and schedules as appropriate.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing High School Fire Drill Requirements",
+        "description": "The AR only specifies fire drill frequency for elementary (monthly) and intermediate (four times per year) levels but omits requirements for high schools, which must also conduct fire drills four times per school year.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32001",
+            "text": "Fire drills shall be conducted at least once each school month in elementary schools and at least four times during each school year in secondary schools."
+          }
+        ],
+        "required_language": "Fire drills shall be held at least once a month at the elementary level and at least four times every school year at the secondary level (intermediate and high school).",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Earthquake Drill Integration",
+        "description": "California law requires that fire drills include earthquake emergency procedures, but neither document addresses this integration requirement.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 32001",
+            "text": "Such fire drills shall include the procedures to be followed in earthquakes."
+          }
+        ],
+        "required_language": "Fire drills shall include procedures to be followed in earthquakes. Staff shall be trained on when to implement earthquake safety procedures (drop, cover, hold) before evacuation and when immediate evacuation is appropriate.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Documentation Retention Requirements",
+        "description": "While the AR requires keeping records of fire drills, it doesn't specify the retention period or what specific information must be documented as required by state regulations.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "5 CCR Section 550",
+            "text": "A record shall be kept of each fire drill conducted, which record shall be available for inspection by the State Fire Marshal."
+          }
+        ],
+        "required_language": "Records of fire drills shall include the date, time, weather conditions, number of students and staff participating, time required for evacuation, and any problems encountered. Records shall be maintained and made available for inspection by the State Fire Marshal.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:29:40.774828+00:00"
+}

@@ -1,0 +1,2824 @@
+{
+  "summary": {
+    "total_policies": 317,
+    "total_citations": 1017,
+    "unique_sections": 426
+  },
+  "most_cited": [
+    [
+      "35160",
+      51
+    ],
+    [
+      "44050",
+      20
+    ],
+    [
+      "35160.5",
+      13
+    ],
+    [
+      "35186",
+      12
+    ],
+    [
+      "48980",
+      12
+    ],
+    [
+      "48900",
+      11
+    ],
+    [
+      "47607",
+      8
+    ],
+    [
+      "11165.7",
+      8
+    ],
+    [
+      "45125.1",
+      8
+    ],
+    [
+      "51210",
+      8
+    ],
+    [
+      "37252.2",
+      8
+    ],
+    [
+      "49414",
+      8
+    ],
+    [
+      "87100",
+      7
+    ],
+    [
+      "17592.72",
+      7
+    ],
+    [
+      "35291",
+      7
+    ],
+    [
+      "5193",
+      7
+    ],
+    [
+      "45113",
+      7
+    ],
+    [
+      "35143",
+      7
+    ],
+    [
+      "52052",
+      6
+    ],
+    [
+      "52852",
+      6
+    ],
+    [
+      "32282",
+      6
+    ],
+    [
+      "44031",
+      6
+    ],
+    [
+      "44030.5",
+      6
+    ],
+    [
+      "1126",
+      6
+    ],
+    [
+      "46600",
+      6
+    ],
+    [
+      "48911",
+      6
+    ],
+    [
+      "51220",
+      6
+    ],
+    [
+      "60119",
+      6
+    ],
+    [
+      "52060",
+      5
+    ],
+    [
+      "54950",
+      5
+    ],
+    [
+      "1090",
+      5
+    ],
+    [
+      "51520",
+      5
+    ],
+    [
+      "48907",
+      5
+    ],
+    [
+      "35031",
+      5
+    ],
+    [
+      "6318",
+      5
+    ],
+    [
+      "48933",
+      5
+    ],
+    [
+      "48915",
+      5
+    ],
+    [
+      "48902",
+      5
+    ],
+    [
+      "12940",
+      5
+    ],
+    [
+      "60605",
+      5
+    ],
+    [
+      "49069",
+      5
+    ],
+    [
+      "48852.7",
+      5
+    ],
+    [
+      "48000",
+      5
+    ],
+    [
+      "48206.3",
+      5
+    ],
+    [
+      "32280",
+      4
+    ],
+    [
+      "35256",
+      4
+    ],
+    [
+      "6311",
+      4
+    ],
+    [
+      "1232",
+      4
+    ],
+    [
+      "7054",
+      4
+    ],
+    [
+      "15278",
+      4
+    ]
+  ],
+  "by_policy": {
+    "0200": {
+      "citations": [
+        "52052",
+        "52060",
+        "52061"
+      ],
+      "material_issues": 3,
+      "title": "Goals For The School District"
+    },
+    "0400": {
+      "citations": [
+        "32280",
+        "52060",
+        "52062",
+        "52852"
+      ],
+      "material_issues": 3,
+      "title": "Comprehensive Plans"
+    },
+    "0415": {
+      "citations": [
+        "52052"
+      ],
+      "material_issues": 3,
+      "title": "Equity"
+    },
+    "0420.4": {
+      "citations": [
+        "47604.32",
+        "47605",
+        "47607"
+      ],
+      "material_issues": 4,
+      "title": "Charter School Authorization"
+    },
+    "0420.42": {
+      "citations": [
+        "47605",
+        "47607"
+      ],
+      "material_issues": 1,
+      "title": "Charter School Renewal"
+    },
+    "0420.43": {
+      "citations": [
+        "47607"
+      ],
+      "material_issues": 1,
+      "title": "Charter School Revocation"
+    },
+    "0420": {
+      "citations": [
+        "52852",
+        "64001"
+      ],
+      "material_issues": 3,
+      "title": "School Plans/Site Councils"
+    },
+    "0430": {
+      "citations": [
+        "56026",
+        "56058",
+        "56190"
+      ],
+      "material_issues": 3,
+      "title": "Comprehensive Local Plan For Special Education"
+    },
+    "0440": {
+      "citations": [
+        "49073.1",
+        "51006",
+        "56040"
+      ],
+      "material_issues": 3,
+      "title": "District Technology Plan"
+    },
+    "0450": {
+      "citations": [
+        "32282",
+        "32286"
+      ],
+      "material_issues": 3,
+      "title": "Comprehensive Safety Plan"
+    },
+    "0460": {
+      "citations": [
+        "52063",
+        "52064.1",
+        "52064.3"
+      ],
+      "material_issues": 3,
+      "title": "Local Control And Accountability Plan"
+    },
+    "0510": {
+      "citations": [
+        "35256"
+      ],
+      "material_issues": 3,
+      "title": "School Accountability Report Card"
+    },
+    "0520.1": {
+      "citations": [
+        "6311"
+      ],
+      "material_issues": 4,
+      "title": "Comprehensive And Targeted School Improvement"
+    },
+    "0520": {
+      "citations": [
+        "52064.5"
+      ],
+      "material_issues": 1,
+      "title": "Intervention In Underperforming Schools"
+    },
+    "1000": {
+      "citations": [
+        "35160",
+        "4622",
+        "52176"
+      ],
+      "material_issues": 3,
+      "title": "Concepts And Roles"
+    },
+    "1020": {
+      "citations": [
+        "11165.7",
+        "49076",
+        "8760"
+      ],
+      "material_issues": 3,
+      "title": "Youth Services"
+    },
+    "1100": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 2,
+      "title": "Communication With The Public"
+    },
+    "1112": {
+      "citations": [
+        "1232",
+        "35160",
+        "54950"
+      ],
+      "material_issues": 3,
+      "title": "Media Relations"
+    },
+    "1113": {
+      "citations": [
+        "35256",
+        "52065"
+      ],
+      "material_issues": 4,
+      "title": "District And School Websites"
+    },
+    "1114": {
+      "citations": [
+        "1232",
+        "60200",
+        "6250"
+      ],
+      "material_issues": 3,
+      "title": "District-Sponsored Social Media"
+    },
+    "1160": {
+      "citations": [
+        "7054",
+        "7055",
+        "7058"
+      ],
+      "material_issues": 3,
+      "title": "Political Processes"
+    },
+    "1220": {
+      "citations": [
+        "35160",
+        "87100"
+      ],
+      "material_issues": 2,
+      "title": "Citizen Advisory Committees"
+    },
+    "1221.4": {
+      "citations": [
+        "15278",
+        "15280"
+      ],
+      "material_issues": 3,
+      "title": "Citizens' Bond Oversight Committees"
+    },
+    "1230": {
+      "citations": [
+        "1090",
+        "7054"
+      ],
+      "material_issues": 3,
+      "title": "School-Connected Organizations"
+    },
+    "1240": {
+      "citations": [
+        "11165.7",
+        "35021",
+        "45125.1"
+      ],
+      "material_issues": 3,
+      "title": "Volunteer Assistance"
+    },
+    "1250": {
+      "citations": [
+        "45125.1",
+        "49406"
+      ],
+      "material_issues": 3,
+      "title": "Visitors/Outsiders"
+    },
+    "1260": {
+      "citations": [
+        "1090",
+        "35160",
+        "35160.5"
+      ],
+      "material_issues": 3,
+      "title": "Educational Foundation"
+    },
+    "1312.1": {
+      "citations": [
+        "44691",
+        "4600"
+      ],
+      "material_issues": 2,
+      "title": "Complaints Concerning District Employees"
+    },
+    "1312.3": {
+      "citations": [
+        "4631",
+        "52164"
+      ],
+      "material_issues": 3,
+      "title": "Uniform Complaint Procedures"
+    },
+    "1312.4": {
+      "citations": [
+        "35186"
+      ],
+      "material_issues": 3,
+      "title": "Williams Uniform Complaint Procedures"
+    },
+    "1313": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Civility"
+    },
+    "1321": {
+      "citations": [
+        "51520"
+      ],
+      "material_issues": 3,
+      "title": "Solicitation Of Funds From And By Students"
+    },
+    "1325": {
+      "citations": [
+        "35160",
+        "35160.5",
+        "48907"
+      ],
+      "material_issues": 3,
+      "title": "Advertising And Promotion"
+    },
+    "1330": {
+      "citations": [
+        "38133",
+        "38133.5",
+        "38134"
+      ],
+      "material_issues": 4,
+      "title": "Use Of School Facilities"
+    },
+    "1340": {
+      "citations": [
+        "6253",
+        "6253.9"
+      ],
+      "material_issues": 3,
+      "title": "Access To District Records"
+    },
+    "1400": {
+      "citations": [
+        "12283"
+      ],
+      "material_issues": 1,
+      "title": "Relations Between Other Governmental Agencies And The Schools"
+    },
+    "1431": {
+      "citations": [
+        "33050"
+      ],
+      "material_issues": 1,
+      "title": "Waivers"
+    },
+    "1700": {
+      "citations": [
+        "35160",
+        "35160.5",
+        "49073.6",
+        "87100"
+      ],
+      "material_issues": 4,
+      "title": "Relations Between Private Industry And The Schools"
+    },
+    "2000": {
+      "citations": [
+        "35010",
+        "35031"
+      ],
+      "material_issues": 2,
+      "title": "Concepts And Roles"
+    },
+    "2110": {
+      "citations": [
+        "35035",
+        "35145",
+        "35160"
+      ],
+      "material_issues": 3,
+      "title": "Superintendent Responsibilities And Duties"
+    },
+    "2111": {
+      "citations": [
+        "35031",
+        "44279.1",
+        "53235"
+      ],
+      "material_issues": 3,
+      "title": "Superintendent Governance Standards"
+    },
+    "2120": {
+      "citations": [
+        "35035"
+      ],
+      "material_issues": 1,
+      "title": "Superintendent Recruitment And Selection"
+    },
+    "2121": {
+      "citations": [
+        "35031",
+        "54954.2"
+      ],
+      "material_issues": 2,
+      "title": "Superintendent's Contract"
+    },
+    "2140": {
+      "citations": [
+        "35031"
+      ],
+      "material_issues": 1,
+      "title": "Evaluation Of The Superintendent"
+    },
+    "2230": {
+      "citations": [
+        "52176",
+        "52852",
+        "6318"
+      ],
+      "material_issues": 3,
+      "title": "Representative And Deliberative Groups"
+    },
+    "3000": {
+      "citations": [
+        "41020",
+        "42103",
+        "42127"
+      ],
+      "material_issues": 4,
+      "title": "Concepts And Roles"
+    },
+    "3100": {
+      "citations": [
+        "42100",
+        "42130",
+        "53087.8"
+      ],
+      "material_issues": 3,
+      "title": "Budget"
+    },
+    "3110": {
+      "citations": [
+        "42600"
+      ],
+      "material_issues": 3,
+      "title": "Transfer Of Funds"
+    },
+    "3250": {
+      "citations": [
+        "39807.5"
+      ],
+      "material_issues": 3,
+      "title": "Transportation Fees"
+    },
+    "3260": {
+      "citations": [
+        "4622",
+        "4630",
+        "49011",
+        "49013"
+      ],
+      "material_issues": 4,
+      "title": "Fees And Charges"
+    },
+    "3270": {
+      "citations": [
+        "17545",
+        "17545.5",
+        "60511"
+      ],
+      "material_issues": 3,
+      "title": "Sale And Disposal Of Books, Equipment And Supplies"
+    },
+    "3280": {
+      "citations": [
+        "54222",
+        "54227",
+        "54233"
+      ],
+      "material_issues": 3,
+      "title": "Sale Or Lease Of District-Owned Real Property"
+    },
+    "3290": {
+      "citations": [
+        "1090",
+        "41030"
+      ],
+      "material_issues": 3,
+      "title": "Gifts, Grants And Bequests"
+    },
+    "3300": {
+      "citations": [
+        "1090",
+        "20111",
+        "20113"
+      ],
+      "material_issues": 4,
+      "title": "Expenditures And Purchases"
+    },
+    "3311": {
+      "citations": [
+        "20101",
+        "20111.6",
+        "53060"
+      ],
+      "material_issues": 3,
+      "title": "Bids"
+    },
+    "3312.2": {
+      "citations": [
+        "17554",
+        "17555"
+      ],
+      "material_issues": 3,
+      "title": "Educational Travel Program Contracts"
+    },
+    "3312": {
+      "citations": [
+        "35160",
+        "35182.5"
+      ],
+      "material_issues": 3,
+      "title": "Contracts"
+    },
+    "3314.2": {
+      "citations": [
+        "42800",
+        "42801",
+        "42810"
+      ],
+      "material_issues": 3,
+      "title": "Revolving Funds"
+    },
+    "3350": {
+      "citations": [
+        "44033"
+      ],
+      "material_issues": 2,
+      "title": "Travel Expenses"
+    },
+    "3400": {
+      "citations": [
+        "20111",
+        "41020",
+        "53646"
+      ],
+      "material_issues": 3,
+      "title": "Management Of District Assets/Accounts"
+    },
+    "3440": {
+      "citations": [
+        "35168"
+      ],
+      "material_issues": 1,
+      "title": "Inventories"
+    },
+    "3451": {
+      "citations": [
+        "1090",
+        "26909",
+        "42600"
+      ],
+      "material_issues": 3,
+      "title": "Petty Cash Funds"
+    },
+    "3452": {
+      "citations": [
+        "48933",
+        "60201"
+      ],
+      "material_issues": 4,
+      "title": "Student Activity Funds"
+    },
+    "3460": {
+      "citations": [
+        "42100",
+        "42127.6",
+        "42132"
+      ],
+      "material_issues": 3,
+      "title": "Financial Reports And Accountability"
+    },
+    "3470": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 4,
+      "title": "Debt Issuance And Management"
+    },
+    "3471": {
+      "citations": [
+        "50075.3",
+        "50077",
+        "50079"
+      ],
+      "material_issues": 3,
+      "title": "Parcel Taxes"
+    },
+    "3511.1": {
+      "citations": [
+        "40051",
+        "42920",
+        "42926"
+      ],
+      "material_issues": 3,
+      "title": "Integrated Waste Management"
+    },
+    "3511": {
+      "citations": [
+        "13377",
+        "17070.35",
+        "39620"
+      ],
+      "material_issues": 3,
+      "title": "Energy And Water Management"
+    },
+    "3512": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 2,
+      "title": "Equipment"
+    },
+    "3513.1": {
+      "citations": [
+        "35035",
+        "6252"
+      ],
+      "material_issues": 3,
+      "title": "Cellular Phone Reimbursement"
+    },
+    "3513.3": {
+      "citations": [
+        "10442"
+      ],
+      "material_issues": 2,
+      "title": "Tobacco-Free Schools"
+    },
+    "3513.4": {
+      "citations": [
+        "7114"
+      ],
+      "material_issues": 4,
+      "title": "Drug And Alcohol Free Schools"
+    },
+    "3514.1": {
+      "citations": [
+        "10525",
+        "13181",
+        "17608",
+        "49410.5"
+      ],
+      "material_issues": 4,
+      "title": "Hazardous Substances"
+    },
+    "3514.2": {
+      "citations": [
+        "17608",
+        "17612"
+      ],
+      "material_issues": 2,
+      "title": "Integrated Pest Management"
+    },
+    "3514": {
+      "citations": [
+        "13184",
+        "13184.1",
+        "17213.1"
+      ],
+      "material_issues": 4,
+      "title": "Environmental Safety"
+    },
+    "3515.2": {
+      "citations": [
+        "48915"
+      ],
+      "material_issues": 3,
+      "title": "Disruptions"
+    },
+    "3515.4": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Recovery For Property Loss Or Damage"
+    },
+    "3515": {
+      "citations": [
+        "32281",
+        "32282",
+        "32288"
+      ],
+      "material_issues": 4,
+      "title": "Campus Security"
+    },
+    "3516.1": {
+      "citations": [
+        "32001",
+        "35160"
+      ],
+      "material_issues": 4,
+      "title": "Fire Drills And Fires"
+    },
+    "3516.2": {
+      "citations": [
+        "35160",
+        "48900",
+        "48902"
+      ],
+      "material_issues": 3,
+      "title": "Bomb Threats"
+    },
+    "3516.3": {
+      "citations": [
+        "32282"
+      ],
+      "material_issues": 1,
+      "title": "Earthquake Emergency Procedure System"
+    },
+    "3516.5": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Emergency Schedules"
+    },
+    "3516": {
+      "citations": [
+        "32286",
+        "32288"
+      ],
+      "material_issues": 3,
+      "title": "Emergencies And Disaster Preparedness Plan"
+    },
+    "3517": {
+      "citations": [
+        "17592.72"
+      ],
+      "material_issues": 4,
+      "title": "Facilities Inspection"
+    },
+    "3530": {
+      "citations": [
+        "35214",
+        "41021",
+        "5401"
+      ],
+      "material_issues": 3,
+      "title": "Risk Management/Insurance"
+    },
+    "3540": {
+      "citations": [
+        "39800.1",
+        "39831.5",
+        "39879"
+      ],
+      "material_issues": 4,
+      "title": "Transportation"
+    },
+    "3541.1": {
+      "citations": [
+        "32221",
+        "35160",
+        "39831",
+        "45125.1"
+      ],
+      "material_issues": 4,
+      "title": "Transportation For School-Related Trips"
+    },
+    "3541.2": {
+      "citations": [
+        "39831.3",
+        "39831.5",
+        "56001",
+        "56341.1"
+      ],
+      "material_issues": 4,
+      "title": "Transportation For Students With Disabilities"
+    },
+    "3542": {
+      "citations": [
+        "12517.2",
+        "12523",
+        "35160",
+        "35291",
+        "45125.1"
+      ],
+      "material_issues": 5,
+      "title": "School Bus Drivers"
+    },
+    "3543": {
+      "citations": [
+        "32282",
+        "34501.12",
+        "35160",
+        "39834"
+      ],
+      "material_issues": 4,
+      "title": "Transportation Safety And Emergencies"
+    },
+    "3550": {
+      "citations": [
+        "1758",
+        "49431.9",
+        "49510",
+        "49557.5"
+      ],
+      "material_issues": 4,
+      "title": "Food Service/Child Nutrition Program"
+    },
+    "3551": {
+      "citations": [
+        "1758",
+        "1776"
+      ],
+      "material_issues": 3,
+      "title": "Food Service Operations/Cafeteria Fund"
+    },
+    "3554": {
+      "citations": [
+        "1758",
+        "49431.2"
+      ],
+      "material_issues": 3,
+      "title": "Other Food Sales"
+    },
+    "3555": {
+      "citations": [
+        "15580",
+        "49490"
+      ],
+      "material_issues": 4,
+      "title": "Nutrition Program Compliance"
+    },
+    "3580": {
+      "citations": [
+        "16020",
+        "49073",
+        "6253"
+      ],
+      "material_issues": 3,
+      "title": "District Records"
+    },
+    "4000": {
+      "citations": [
+        "35161"
+      ],
+      "material_issues": 1,
+      "title": "Concepts And Roles"
+    },
+    "4020": {
+      "citations": [
+        "8104",
+        "8355"
+      ],
+      "material_issues": 2,
+      "title": "Drug And Alcohol-Free Workplace"
+    },
+    "4030": {
+      "citations": [
+        "12950.1",
+        "4960"
+      ],
+      "material_issues": 3,
+      "title": "Nondiscrimination In Employment"
+    },
+    "4031": {
+      "citations": [
+        "12940"
+      ],
+      "material_issues": 4,
+      "title": "Complaints Concerning Discrimination In Employment"
+    },
+    "4033": {
+      "citations": [
+        "1030",
+        "1031",
+        "1032",
+        "1033"
+      ],
+      "material_issues": 4,
+      "title": "Lactation Accommodation"
+    },
+    "4100": {
+      "citations": [
+        "44277",
+        "44662",
+        "44664",
+        "60605"
+      ],
+      "material_issues": 3,
+      "title": "Certificated Personnel"
+    },
+    "4112.2": {
+      "citations": [
+        "35186",
+        "44258.9"
+      ],
+      "material_issues": 2,
+      "title": "Certification"
+    },
+    "4112.21": {
+      "citations": [
+        "44237",
+        "44830.1",
+        "44830.3"
+      ],
+      "material_issues": 3,
+      "title": "Interns"
+    },
+    "4112.5": {
+      "citations": [
+        "44830.1",
+        "45125.1"
+      ],
+      "material_issues": 4,
+      "title": "Criminal Record Check"
+    },
+    "4112.6": {
+      "citations": [
+        "35160",
+        "60201",
+        "6254"
+      ],
+      "material_issues": 3,
+      "title": "Personnel Files"
+    },
+    "4112.61": {
+      "citations": [
+        "44031"
+      ],
+      "material_issues": 3,
+      "title": "Employment References"
+    },
+    "4112.62": {
+      "citations": [
+        "44830.1"
+      ],
+      "material_issues": 1,
+      "title": "Maintenance of Criminal Offender Records"
+    },
+    "4112.8": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Employment Of Relatives"
+    },
+    "4112.9": {
+      "citations": [
+        "35160",
+        "3551",
+        "44691",
+        "49406"
+      ],
+      "material_issues": 4,
+      "title": "Employee Notifications"
+    },
+    "4113.4": {
+      "citations": [
+        "12940",
+        "44040"
+      ],
+      "material_issues": 3,
+      "title": "Temporary Modified/Light-Duty Assignment"
+    },
+    "4113": {
+      "citations": [
+        "44258.3"
+      ],
+      "material_issues": 3,
+      "title": "Assignment"
+    },
+    "4115": {
+      "citations": [
+        "44500",
+        "44664",
+        "44938"
+      ],
+      "material_issues": 3,
+      "title": "Evaluation/Supervision"
+    },
+    "4116": {
+      "citations": [
+        "44929.21",
+        "44948.3"
+      ],
+      "material_issues": 3,
+      "title": "Probationary/Permanent Status"
+    },
+    "4117.14": {
+      "citations": [
+        "24214",
+        "35160"
+      ],
+      "material_issues": 3,
+      "title": "Postretirement Employment"
+    },
+    "4117.2": {
+      "citations": [
+        "44930",
+        "44932",
+        "45202"
+      ],
+      "material_issues": 3,
+      "title": "Resignation"
+    },
+    "4117.5": {
+      "citations": [
+        "35160",
+        "53260",
+        "53262"
+      ],
+      "material_issues": 3,
+      "title": "Termination Agreements"
+    },
+    "4117.7": {
+      "citations": [
+        "44242.5"
+      ],
+      "material_issues": 1,
+      "title": "Employment Status Reports"
+    },
+    "4118": {
+      "citations": [
+        "11165.6",
+        "44010",
+        "44011",
+        "44030.5"
+      ],
+      "material_issues": 4,
+      "title": "Dismissal/Suspension/Disciplinary Action"
+    },
+    "4119.1": {
+      "citations": [
+        "1102.8",
+        "44112",
+        "44114"
+      ],
+      "material_issues": 3,
+      "title": "Civil And Legal Rights"
+    },
+    "4119.21": {
+      "citations": [
+        "11165.7",
+        "44030.5",
+        "44050"
+      ],
+      "material_issues": 3,
+      "title": "Professional Standards"
+    },
+    "4119.22": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Dress And Grooming"
+    },
+    "4119.23": {
+      "citations": [
+        "49076",
+        "54963",
+        "6254"
+      ],
+      "material_issues": 3,
+      "title": "Unauthorized Release Of Confidential/Privileged Information"
+    },
+    "4119.24": {
+      "citations": [
+        "44050"
+      ],
+      "material_issues": 3,
+      "title": "Maintaining Appropriate Adult-Student Interactions"
+    },
+    "4119.25": {
+      "citations": [
+        "1502",
+        "3206",
+        "7054"
+      ],
+      "material_issues": 2,
+      "title": "Political Activities Of Employees"
+    },
+    "4119.41": {
+      "citations": [
+        "12940",
+        "44839",
+        "44977"
+      ],
+      "material_issues": 4,
+      "title": "Employees With Infectious Disease"
+    },
+    "4119.42": {
+      "citations": [
+        "5193"
+      ],
+      "material_issues": 3,
+      "title": "Exposure Control Plan For Bloodborne Pathogens"
+    },
+    "4119.43": {
+      "citations": [
+        "5193"
+      ],
+      "material_issues": 4,
+      "title": "Universal Precautions"
+    },
+    "4121": {
+      "citations": [
+        "11165.7",
+        "35160",
+        "45125.1",
+        "49406"
+      ],
+      "material_issues": 4,
+      "title": "Temporary/Substitute Personnel"
+    },
+    "4131": {
+      "citations": [
+        "44277",
+        "44279.2"
+      ],
+      "material_issues": 3,
+      "title": "Staff Development"
+    },
+    "4132": {
+      "citations": [
+        "60076"
+      ],
+      "material_issues": 1,
+      "title": "Publication Or Creation Of Materials"
+    },
+    "4135": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Soliciting And Selling"
+    },
+    "4136": {
+      "citations": [
+        "1126",
+        "87100"
+      ],
+      "material_issues": 3,
+      "title": "Nonschool Employment"
+    },
+    "4139": {
+      "citations": [
+        "44500",
+        "44501",
+        "44503"
+      ],
+      "material_issues": 4,
+      "title": "Peer Assistance and Review"
+    },
+    "4140": {
+      "citations": [
+        "3541.3"
+      ],
+      "material_issues": 1,
+      "title": "Bargaining Units"
+    },
+    "4141.6": {
+      "citations": [
+        "3543.1"
+      ],
+      "material_issues": 2,
+      "title": "Concerted Action/Work Stoppage"
+    },
+    "4151": {
+      "citations": [
+        "44918",
+        "45028",
+        "45128"
+      ],
+      "material_issues": 3,
+      "title": "Employee Compensation"
+    },
+    "4154": {
+      "citations": [
+        "1161",
+        "45192"
+      ],
+      "material_issues": 3,
+      "title": "Health And Welfare Benefits"
+    },
+    "4156.2": {
+      "citations": [
+        "44015"
+      ],
+      "material_issues": 1,
+      "title": "Awards And Recognition"
+    },
+    "4156.3": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Employee Property Reimbursement"
+    },
+    "4157.1": {
+      "citations": [
+        "3550",
+        "44043",
+        "4658.7",
+        "5401"
+      ],
+      "material_issues": 4,
+      "title": "Work-Related Injuries"
+    },
+    "4157.2": {
+      "citations": [
+        "5110"
+      ],
+      "material_issues": 1,
+      "title": "Ergonomics"
+    },
+    "4157": {
+      "citations": [
+        "5194",
+        "6401.9",
+        "6409.1"
+      ],
+      "material_issues": 3,
+      "title": "Employee Safety"
+    },
+    "4158": {
+      "citations": [
+        "3550",
+        "44014"
+      ],
+      "material_issues": 2,
+      "title": "Employee Security"
+    },
+    "4159": {
+      "citations": [
+        "44031"
+      ],
+      "material_issues": 1,
+      "title": "Employee Assistance Programs"
+    },
+    "4161.5": {
+      "citations": [
+        "44800"
+      ],
+      "material_issues": 1,
+      "title": "Military Leave"
+    },
+    "4161.8": {
+      "citations": [
+        "11091",
+        "35160"
+      ],
+      "material_issues": 3,
+      "title": "Family Care And Medical Leave"
+    },
+    "4161": {
+      "citations": [
+        "12945.2",
+        "44043.5",
+        "44984"
+      ],
+      "material_issues": 4,
+      "title": "Leaves"
+    },
+    "4200": {
+      "citations": [
+        "45113",
+        "45122",
+        "45125",
+        "45240",
+        "49406"
+      ],
+      "material_issues": 5,
+      "title": "Classified Personnel"
+    },
+    "4213.4": {
+      "citations": [
+        "12900",
+        "12940",
+        "44040"
+      ],
+      "material_issues": 3,
+      "title": "Temporary Modified/Light-Duty Assignment"
+    },
+    "4216": {
+      "citations": [
+        "45113"
+      ],
+      "material_issues": 4,
+      "title": "Probationary/Permanent Status"
+    },
+    "4218": {
+      "citations": [
+        "45113",
+        "45304"
+      ],
+      "material_issues": 3,
+      "title": "Dismissal/Suspension/Disciplinary Action"
+    },
+    "4219.1": {
+      "citations": [
+        "1102.8",
+        "44112"
+      ],
+      "material_issues": 2,
+      "title": "Civil And Legal Rights"
+    },
+    "4219.11": {
+      "citations": [
+        "12950.1",
+        "44030.5"
+      ],
+      "material_issues": 3,
+      "title": "Sex Discrimination and Sex-Based Harassment"
+    },
+    "4219.22": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Dress And Grooming"
+    },
+    "4219.24": {
+      "citations": [
+        "44050"
+      ],
+      "material_issues": 3,
+      "title": "Maintaining Appropriate Adult-Student Interactions"
+    },
+    "4231": {
+      "citations": [
+        "45391"
+      ],
+      "material_issues": 2,
+      "title": "Staff Development"
+    },
+    "4236": {
+      "citations": [
+        "1126",
+        "87100",
+        "87406.3"
+      ],
+      "material_issues": 3,
+      "title": "Nonschool Employment"
+    },
+    "4261.8": {
+      "citations": [
+        "12945",
+        "12945.6"
+      ],
+      "material_issues": 3,
+      "title": "Family Care And Medical Leave"
+    },
+    "4261": {
+      "citations": [
+        "12945.2",
+        "12945.7",
+        "44043.5",
+        "44984"
+      ],
+      "material_issues": 4,
+      "title": "Leaves"
+    },
+    "4300": {
+      "citations": [
+        "35031",
+        "35161",
+        "45104.5"
+      ],
+      "material_issues": 3,
+      "title": "Administrative And Supervisory Personnel"
+    },
+    "4313.2": {
+      "citations": [
+        "44951"
+      ],
+      "material_issues": 3,
+      "title": "Demotion/Reassignment"
+    },
+    "4314": {
+      "citations": [
+        "35160",
+        "3543.2",
+        "44955"
+      ],
+      "material_issues": 4,
+      "title": "Transfers"
+    },
+    "4319.1": {
+      "citations": [
+        "1102.8",
+        "44031",
+        "44112"
+      ],
+      "material_issues": 3,
+      "title": "Civil And Legal Rights"
+    },
+    "4319.11": {
+      "citations": [
+        "11166",
+        "12945"
+      ],
+      "material_issues": 2,
+      "title": "Sex Discrimination and Sex-Based Harassment"
+    },
+    "4319.21": {
+      "citations": [
+        "11165.7",
+        "3304",
+        "44050"
+      ],
+      "material_issues": 3,
+      "title": "Professional Standards"
+    },
+    "4319.22": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Dress And Grooming"
+    },
+    "4319.24": {
+      "citations": [
+        "44050"
+      ],
+      "material_issues": 3,
+      "title": "Maintaining Appropriate Adult-Student Interactions"
+    },
+    "4331": {
+      "citations": [
+        "44259",
+        "44279.2",
+        "45344.5"
+      ],
+      "material_issues": 3,
+      "title": "Staff Development"
+    },
+    "4336": {
+      "citations": [
+        "1126"
+      ],
+      "material_issues": 1,
+      "title": "Nonschool Employment"
+    },
+    "4361.5": {
+      "citations": [
+        "44800"
+      ],
+      "material_issues": 1,
+      "title": "Military Leave"
+    },
+    "4361.8": {
+      "citations": [
+        "11091",
+        "12945.2",
+        "2612"
+      ],
+      "material_issues": 3,
+      "title": "Family Care And Medical Leave"
+    },
+    "5000": {
+      "citations": [
+        "35291",
+        "48918",
+        "48980"
+      ],
+      "material_issues": 4,
+      "title": "Concepts And Roles"
+    },
+    "5020": {
+      "citations": [
+        "35186",
+        "46010.1",
+        "48982",
+        "51101"
+      ],
+      "material_issues": 3,
+      "title": "Parent Rights And Responsibilities"
+    },
+    "5021": {
+      "citations": [
+        "1232",
+        "49069"
+      ],
+      "material_issues": 3,
+      "title": "Noncustodial Parents"
+    },
+    "5022": {
+      "citations": [
+        "1232",
+        "49069",
+        "49073"
+      ],
+      "material_issues": 3,
+      "title": "Student And Family Privacy Rights"
+    },
+    "5030": {
+      "citations": [
+        "1758",
+        "49431.2",
+        "49432",
+        "51210"
+      ],
+      "material_issues": 4,
+      "title": "Student Wellness"
+    },
+    "5111.1": {
+      "citations": [
+        "48204.1",
+        "48204.4"
+      ],
+      "material_issues": 3,
+      "title": "District Residency"
+    },
+    "5111.12": {
+      "citations": [
+        "35160",
+        "48204"
+      ],
+      "material_issues": 3,
+      "title": "Residency Based On Parent/Guardian Employment"
+    },
+    "5111.16": {
+      "citations": [
+        "48852.5",
+        "48852.7"
+      ],
+      "material_issues": 6,
+      "title": "Residency For Homeless Children"
+    },
+    "5111": {
+      "citations": [
+        "48000",
+        "48204",
+        "49403"
+      ],
+      "material_issues": 3,
+      "title": "Admission"
+    },
+    "5112.1": {
+      "citations": [
+        "48200",
+        "48221",
+        "48222",
+        "48400"
+      ],
+      "material_issues": 3,
+      "title": "Exemptions From Attendance"
+    },
+    "5112.2": {
+      "citations": [
+        "12033",
+        "35160",
+        "48852.7",
+        "48853.5"
+      ],
+      "material_issues": 4,
+      "title": "Exclusions From Attendance"
+    },
+    "5113.1": {
+      "citations": [
+        "13202.7",
+        "48240",
+        "48260.5",
+        "48264",
+        "48290",
+        "48320"
+      ],
+      "material_issues": 3,
+      "title": "Chronic Absence And Truancy"
+    },
+    "5116.1": {
+      "citations": [
+        "35160.5",
+        "46600"
+      ],
+      "material_issues": 3,
+      "title": "Intradistrict Open Enrollment"
+    },
+    "5116": {
+      "citations": [
+        "35160",
+        "35160.5",
+        "48980"
+      ],
+      "material_issues": 3,
+      "title": "School Attendance Boundaries"
+    },
+    "5117": {
+      "citations": [
+        "46600",
+        "46601"
+      ],
+      "material_issues": 4,
+      "title": "Interdistrict Attendance"
+    },
+    "5121": {
+      "citations": [
+        "49066",
+        "49069.5"
+      ],
+      "material_issues": 2,
+      "title": "Grades/Evaluation Of Student Achievement"
+    },
+    "5123": {
+      "citations": [
+        "37252.2",
+        "48070.5"
+      ],
+      "material_issues": 3,
+      "title": "Promotion/Acceleration/Retention"
+    },
+    "5125.1": {
+      "citations": [
+        "49063"
+      ],
+      "material_issues": 3,
+      "title": "Release Of Directory Information"
+    },
+    "5125.2": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Withholding Grades, Diploma Or Transcripts"
+    },
+    "5125.3": {
+      "citations": [
+        "49070"
+      ],
+      "material_issues": 1,
+      "title": "Challenging Student Records"
+    },
+    "5125": {
+      "citations": [
+        "49063",
+        "49070",
+        "49073"
+      ],
+      "material_issues": 4,
+      "title": "Student Records"
+    },
+    "5126": {
+      "citations": [
+        "51451"
+      ],
+      "material_issues": 1,
+      "title": "Awards For Achievement"
+    },
+    "5127": {
+      "citations": [
+        "48900",
+        "51225.3"
+      ],
+      "material_issues": 2,
+      "title": "Graduation Ceremonies And Activities"
+    },
+    "5131.1": {
+      "citations": [
+        "14103",
+        "48915.5",
+        "49073.6"
+      ],
+      "material_issues": 3,
+      "title": "Bus Conduct"
+    },
+    "5131.2": {
+      "citations": [
+        "32283.5",
+        "48900"
+      ],
+      "material_issues": 3,
+      "title": "Bullying"
+    },
+    "5131.4": {
+      "citations": [
+        "48911",
+        "48915"
+      ],
+      "material_issues": 3,
+      "title": "Student Disturbances"
+    },
+    "5131.41": {
+      "citations": [
+        "49005",
+        "49005.8"
+      ],
+      "material_issues": 3,
+      "title": "Use Of Seclusion And Restraint"
+    },
+    "5131.6": {
+      "citations": [
+        "48902",
+        "48915",
+        "49050"
+      ],
+      "material_issues": 3,
+      "title": "Alcohol And Other Drugs"
+    },
+    "5131.62": {
+      "citations": [
+        "48900",
+        "48901"
+      ],
+      "material_issues": 3,
+      "title": "Tobacco"
+    },
+    "5131.7": {
+      "citations": [
+        "48902",
+        "48915",
+        "7961"
+      ],
+      "material_issues": 3,
+      "title": "Weapons And Dangerous Instruments"
+    },
+    "5131.8": {
+      "citations": [
+        "35291",
+        "48900.5",
+        "48901"
+      ],
+      "material_issues": 3,
+      "title": "Mobile Communication Devices"
+    },
+    "5131.9": {
+      "citations": [
+        "35291",
+        "48911"
+      ],
+      "material_issues": 3,
+      "title": "Academic Honesty"
+    },
+    "5131": {
+      "citations": [
+        "48900",
+        "48900.5",
+        "48900.8",
+        "48911"
+      ],
+      "material_issues": 4,
+      "title": "Conduct"
+    },
+    "5132": {
+      "citations": [
+        "35183"
+      ],
+      "material_issues": 2,
+      "title": "Dress And Grooming"
+    },
+    "5137": {
+      "citations": [
+        "32280",
+        "35294.2",
+        "44259"
+      ],
+      "material_issues": 4,
+      "title": "Positive School Climate"
+    },
+    "5138": {
+      "citations": [
+        "11166",
+        "32280",
+        "48900.1"
+      ],
+      "material_issues": 3,
+      "title": "Conflict Resolution/Peer Mediation"
+    },
+    "5141.21": {
+      "citations": [
+        "48980",
+        "49414",
+        "49414.3"
+      ],
+      "material_issues": 3,
+      "title": "Administering Medication And Monitoring Health Conditions"
+    },
+    "5141.22": {
+      "citations": [
+        "12023",
+        "2508",
+        "49403"
+      ],
+      "material_issues": 3,
+      "title": "Infectious Diseases"
+    },
+    "5141.23": {
+      "citations": [
+        "49414.3",
+        "49423.1"
+      ],
+      "material_issues": 3,
+      "title": "Asthma Management"
+    },
+    "5141.24": {
+      "citations": [
+        "3051.12",
+        "49423.5"
+      ],
+      "material_issues": 3,
+      "title": "Specialized Health Care Services"
+    },
+    "5141.26": {
+      "citations": [
+        "12152",
+        "12153"
+      ],
+      "material_issues": 3,
+      "title": "Tuberculosis Testing"
+    },
+    "5141.27": {
+      "citations": [
+        "49414"
+      ],
+      "material_issues": 3,
+      "title": "Food Allergies/Special Dietary Needs"
+    },
+    "5141.3": {
+      "citations": [
+        "49452.7",
+        "49452.8",
+        "49454"
+      ],
+      "material_issues": 3,
+      "title": "Health Examinations"
+    },
+    "5141.31": {
+      "citations": [
+        "12032",
+        "12152",
+        "48980"
+      ],
+      "material_issues": 3,
+      "title": "Immunizations"
+    },
+    "5141.32": {
+      "citations": [
+        "35160",
+        "49076",
+        "49451"
+      ],
+      "material_issues": 3,
+      "title": "Health Screening For School Entry"
+    },
+    "5141.33": {
+      "citations": [
+        "12032",
+        "49403"
+      ],
+      "material_issues": 2,
+      "title": "Head Lice"
+    },
+    "5141.4": {
+      "citations": [
+        "11165.7",
+        "44691"
+      ],
+      "material_issues": 2,
+      "title": "Child Abuse Prevention And Reporting"
+    },
+    "5141.5": {
+      "citations": [
+        "49428",
+        "49602.5"
+      ],
+      "material_issues": 3,
+      "title": "Mental Health"
+    },
+    "5141.7": {
+      "citations": [
+        "35183.5"
+      ],
+      "material_issues": 1,
+      "title": "Sun Safety"
+    },
+    "5141": {
+      "citations": [
+        "1797.196"
+      ],
+      "material_issues": 3,
+      "title": "Health Care And Emergencies"
+    },
+    "5142.1": {
+      "citations": [
+        "32390",
+        "49068.6"
+      ],
+      "material_issues": 2,
+      "title": "Identification And Reporting Of Missing Children"
+    },
+    "5142": {
+      "citations": [
+        "11165.7",
+        "32001",
+        "35295",
+        "44691"
+      ],
+      "material_issues": 3,
+      "title": "Safety"
+    },
+    "5143": {
+      "citations": [
+        "32221"
+      ],
+      "material_issues": 2,
+      "title": "Insurance"
+    },
+    "5144.1": {
+      "citations": [
+        "48916",
+        "48918",
+        "48918.1"
+      ],
+      "material_issues": 3,
+      "title": "Suspension And Expulsion/Due Process"
+    },
+    "5144": {
+      "citations": [
+        "11166",
+        "48900",
+        "48911",
+        "48912"
+      ],
+      "material_issues": 4,
+      "title": "Discipline"
+    },
+    "5145.12": {
+      "citations": [
+        "35291",
+        "44807",
+        "48900",
+        "48902",
+        "49050"
+      ],
+      "material_issues": 5,
+      "title": "Search And Seizure"
+    },
+    "5145.2": {
+      "citations": [
+        "48900",
+        "48907"
+      ],
+      "material_issues": 3,
+      "title": "Freedom Of Speech/Expression"
+    },
+    "5145.6": {
+      "citations": [
+        "48980"
+      ],
+      "material_issues": 3,
+      "title": "Parent/Guardian Notifications"
+    },
+    "5145.7": {
+      "citations": [
+        "4630"
+      ],
+      "material_issues": 4,
+      "title": "Sex Discrimination and Sex-Based Harassment"
+    },
+    "5145.8": {
+      "citations": [
+        "32255.1"
+      ],
+      "material_issues": 2,
+      "title": "Refusal To Harm Or Destroy Animals"
+    },
+    "5146": {
+      "citations": [
+        "46010.1",
+        "4610"
+      ],
+      "material_issues": 4,
+      "title": "Married/Pregnant/Parenting Students"
+    },
+    "5147": {
+      "citations": [
+        "48260.5",
+        "48321",
+        "52052",
+        "52890"
+      ],
+      "material_issues": 4,
+      "title": "Dropout Prevention"
+    },
+    "5148.2": {
+      "citations": [
+        "8427"
+      ],
+      "material_issues": 2,
+      "title": "Before/After School Programs"
+    },
+    "5148.3": {
+      "citations": [
+        "11165.7",
+        "18096",
+        "18275"
+      ],
+      "material_issues": 3,
+      "title": "Preschool/Early Childhood Education"
+    },
+    "5149": {
+      "citations": [
+        "48070.5",
+        "52052"
+      ],
+      "material_issues": 3,
+      "title": "At-Risk Students"
+    },
+    "6000": {
+      "citations": [
+        "35160",
+        "51226",
+        "60200"
+      ],
+      "material_issues": 3,
+      "title": "Concepts And Roles"
+    },
+    "6011": {
+      "citations": [
+        "51226",
+        "60605.8"
+      ],
+      "material_issues": 3,
+      "title": "Academic Standards"
+    },
+    "6020": {
+      "citations": [
+        "1111",
+        "6318"
+      ],
+      "material_issues": 2,
+      "title": "Parent Involvement"
+    },
+    "6111": {
+      "citations": [
+        "37223",
+        "46200"
+      ],
+      "material_issues": 3,
+      "title": "School Calendar"
+    },
+    "6116": {
+      "citations": [
+        "32280"
+      ],
+      "material_issues": 1,
+      "title": "Classroom Interruptions"
+    },
+    "6141.2": {
+      "citations": [
+        "46014"
+      ],
+      "material_issues": 3,
+      "title": "Recognition Of Religious Beliefs And Customs"
+    },
+    "6141.6": {
+      "citations": [
+        "51204.5",
+        "51501"
+      ],
+      "material_issues": 3,
+      "title": "Multicultural Education"
+    },
+    "6141": {
+      "citations": [
+        "51225.3",
+        "51226",
+        "56345",
+        "60605.8"
+      ],
+      "material_issues": 4,
+      "title": "Curriculum Development And Evaluation"
+    },
+    "6142.1": {
+      "citations": [
+        "51931",
+        "51933",
+        "51938"
+      ],
+      "material_issues": 4,
+      "title": "Sexual Health And HIV/AIDS Prevention Instruction"
+    },
+    "6142.3": {
+      "citations": [
+        "37221",
+        "51210"
+      ],
+      "material_issues": 3,
+      "title": "Civic Education"
+    },
+    "6142.6": {
+      "citations": [
+        "51210",
+        "60605"
+      ],
+      "material_issues": 3,
+      "title": "Visual And Performing Arts Education"
+    },
+    "6142.8": {
+      "citations": [
+        "51210",
+        "51934",
+        "51937",
+        "51938"
+      ],
+      "material_issues": 4,
+      "title": "Comprehensive Health Education"
+    },
+    "6142.91": {
+      "citations": [
+        "48070.5",
+        "51210",
+        "56000"
+      ],
+      "material_issues": 4,
+      "title": "Reading/Language Arts Instruction"
+    },
+    "6142.92": {
+      "citations": [
+        "51210",
+        "51220",
+        "60605",
+        "60640"
+      ],
+      "material_issues": 4,
+      "title": "Mathematics Instruction"
+    },
+    "6142.93": {
+      "citations": [
+        "32020",
+        "51220",
+        "60200",
+        "60605"
+      ],
+      "material_issues": 4,
+      "title": "Science Instruction"
+    },
+    "6143": {
+      "citations": [
+        "51202",
+        "51220"
+      ],
+      "material_issues": 3,
+      "title": "Courses Of Study"
+    },
+    "6144": {
+      "citations": [
+        "35146",
+        "51513"
+      ],
+      "material_issues": 2,
+      "title": "Controversial Issues"
+    },
+    "6145.5": {
+      "citations": [
+        "4071"
+      ],
+      "material_issues": 3,
+      "title": "Student Organizations And Equal Access"
+    },
+    "6145.8": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Assemblies And Special Events"
+    },
+    "6145": {
+      "citations": [
+        "35160.5"
+      ],
+      "material_issues": 3,
+      "title": "Extracurricular And Cocurricular Activities"
+    },
+    "6151": {
+      "citations": [
+        "52122",
+        "52123",
+        "52125"
+      ],
+      "material_issues": 3,
+      "title": "Class Size"
+    },
+    "6152": {
+      "citations": [
+        "35160",
+        "56040.1"
+      ],
+      "material_issues": 3,
+      "title": "Class Assignment"
+    },
+    "6153": {
+      "citations": [
+        "32020",
+        "39831.5",
+        "45125.1"
+      ],
+      "material_issues": 3,
+      "title": "School-Sponsored Trips"
+    },
+    "6154": {
+      "citations": [
+        "48205"
+      ],
+      "material_issues": 2,
+      "title": "Homework/Makeup Work"
+    },
+    "6157": {
+      "citations": [
+        "43503",
+        "47612.5",
+        "51745",
+        "51747.5"
+      ],
+      "material_issues": 5,
+      "title": "Distance Learning"
+    },
+    "6158": {
+      "citations": [
+        "51747",
+        "51749.5"
+      ],
+      "material_issues": 3,
+      "title": "Independent Study"
+    },
+    "6161.1": {
+      "citations": [
+        "35186",
+        "4600"
+      ],
+      "material_issues": 3,
+      "title": "Selection And Evaluation Of Instructional Materials"
+    },
+    "6161.11": {
+      "citations": [
+        "35161",
+        "51501",
+        "60002"
+      ],
+      "material_issues": 4,
+      "title": "Supplementary Instructional Materials"
+    },
+    "6161.2": {
+      "citations": [
+        "48904.3",
+        "49013",
+        "60119"
+      ],
+      "material_issues": 3,
+      "title": "Damaged Or Lost Instructional Materials"
+    },
+    "6161": {
+      "citations": [
+        "60119"
+      ],
+      "material_issues": 4,
+      "title": "Equipment, Books and Materials"
+    },
+    "6162.5": {
+      "citations": [
+        "60615",
+        "60615.5",
+        "60640"
+      ],
+      "material_issues": 4,
+      "title": "Student Assessment"
+    },
+    "6162.54": {
+      "citations": [
+        "60615"
+      ],
+      "material_issues": 4,
+      "title": "Test Integrity/Test Preparation"
+    },
+    "6162.6": {
+      "citations": [
+        "60119"
+      ],
+      "material_issues": 3,
+      "title": "Use Of Copyrighted Materials"
+    },
+    "6163.1": {
+      "citations": [
+        "16040",
+        "18122",
+        "35160",
+        "35186"
+      ],
+      "material_issues": 4,
+      "title": "Library Media Centers"
+    },
+    "6163.2": {
+      "citations": [
+        "12187",
+        "49001",
+        "49403"
+      ],
+      "material_issues": 4,
+      "title": "Animals At School"
+    },
+    "6163.4": {
+      "citations": [
+        "51006"
+      ],
+      "material_issues": 3,
+      "title": "Student Use Of Technology"
+    },
+    "6164.2": {
+      "citations": [
+        "11164",
+        "49600",
+        "49602",
+        "6920"
+      ],
+      "material_issues": 4,
+      "title": "Guidance/Counseling Services"
+    },
+    "6164.4": {
+      "citations": [
+        "56301",
+        "56321"
+      ],
+      "material_issues": 4,
+      "title": "Identification And Evaluation Of Individuals For Special Education"
+    },
+    "6164.5": {
+      "citations": [
+        "49069",
+        "51101",
+        "56301"
+      ],
+      "material_issues": 3,
+      "title": "Student Success Teams"
+    },
+    "6170.1": {
+      "citations": [
+        "48000",
+        "48000.15"
+      ],
+      "material_issues": 5,
+      "title": "Transitional Kindergarten"
+    },
+    "6170.5": {
+      "citations": [
+        "48000",
+        "56426.9"
+      ],
+      "material_issues": 3,
+      "title": "Transition To Kindergarten"
+    },
+    "6171": {
+      "citations": [
+        "6315",
+        "6318",
+        "6321"
+      ],
+      "material_issues": 4,
+      "title": "Title I Programs"
+    },
+    "6172": {
+      "citations": [
+        "3825",
+        "3832",
+        "52200"
+      ],
+      "material_issues": 3,
+      "title": "Gifted And Talented Student Program"
+    },
+    "6173.1": {
+      "citations": [
+        "48853",
+        "48853.5"
+      ],
+      "material_issues": 3,
+      "title": "Education For Foster Youth"
+    },
+    "6173": {
+      "citations": [
+        "48852.6",
+        "51225.1",
+        "51225.2"
+      ],
+      "material_issues": 3,
+      "title": "Education For Homeless Children"
+    },
+    "6174": {
+      "citations": [
+        "6312"
+      ],
+      "material_issues": 3,
+      "title": "Education For English Learners"
+    },
+    "6175": {
+      "citations": [
+        "6394",
+        "6398"
+      ],
+      "material_issues": 3,
+      "title": "Migrant Education Program"
+    },
+    "6177": {
+      "citations": [
+        "46120"
+      ],
+      "material_issues": 2,
+      "title": "Summer Learning Programs"
+    },
+    "6179": {
+      "citations": [
+        "37252.2",
+        "44258.9"
+      ],
+      "material_issues": 3,
+      "title": "Supplemental Instruction"
+    },
+    "6183": {
+      "citations": [
+        "48206.3"
+      ],
+      "material_issues": 3,
+      "title": "Home And Hospital Instruction"
+    },
+    "6184": {
+      "citations": [
+        "11003"
+      ],
+      "material_issues": 2,
+      "title": "Continuation Education"
+    },
+    "6190": {
+      "citations": [
+        "35160",
+        "52052",
+        "52060"
+      ],
+      "material_issues": 3,
+      "title": "Evaluation Of The Instructional Program"
+    },
+    "6300": {
+      "citations": [
+        "18275",
+        "8235",
+        "8244",
+        "8482.3"
+      ],
+      "material_issues": 4,
+      "title": "Preschool/Early Childhood Education"
+    },
+    "7140": {
+      "citations": [
+        "17302"
+      ],
+      "material_issues": 3,
+      "title": "Architectural And Engineering Services"
+    },
+    "7160": {
+      "citations": [
+        "17078.52",
+        "17280",
+        "32020"
+      ],
+      "material_issues": 3,
+      "title": "Charter School Facilities"
+    },
+    "7310": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Naming Of Facility"
+    },
+    "9000": {
+      "citations": [
+        "35010",
+        "35160",
+        "54950",
+        "87100"
+      ],
+      "material_issues": 3,
+      "title": "Role Of The Board"
+    },
+    "9005": {
+      "citations": [
+        "54950",
+        "87100",
+        "89503"
+      ],
+      "material_issues": 3,
+      "title": "Governance Standards"
+    },
+    "9010": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Public Statements"
+    },
+    "9011": {
+      "citations": [
+        "54950"
+      ],
+      "material_issues": 1,
+      "title": "Disclosure Of Confidential/Privileged Information"
+    },
+    "9100": {
+      "citations": [
+        "35141",
+        "35145",
+        "54954.2"
+      ],
+      "material_issues": 3,
+      "title": "Organization"
+    },
+    "9110": {
+      "citations": [
+        "5091"
+      ],
+      "material_issues": 2,
+      "title": "Terms Of Office"
+    },
+    "9121": {
+      "citations": [
+        "35143"
+      ],
+      "material_issues": 3,
+      "title": "President"
+    },
+    "9122": {
+      "citations": [
+        "35143",
+        "54957.5",
+        "6250"
+      ],
+      "material_issues": 3,
+      "title": "Secretary"
+    },
+    "9123": {
+      "citations": [
+        "35143"
+      ],
+      "material_issues": 2,
+      "title": "Clerk"
+    },
+    "9124": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Attorney"
+    },
+    "9130": {
+      "citations": [
+        "54952",
+        "54954.2"
+      ],
+      "material_issues": 2,
+      "title": "Board Committees"
+    },
+    "9200": {
+      "citations": [
+        "53235",
+        "54952.2",
+        "87200"
+      ],
+      "material_issues": 3,
+      "title": "Limits Of Board Member Authority"
+    },
+    "9220": {
+      "citations": [
+        "35107"
+      ],
+      "material_issues": 1,
+      "title": "Governing Board Elections"
+    },
+    "9223": {
+      "citations": [
+        "5091",
+        "5092"
+      ],
+      "material_issues": 2,
+      "title": "Filling Vacancies"
+    },
+    "9230": {
+      "citations": [
+        "53235",
+        "53237",
+        "72024.5"
+      ],
+      "material_issues": 3,
+      "title": "Orientation"
+    },
+    "9260": {
+      "citations": [
+        "35208"
+      ],
+      "material_issues": 2,
+      "title": "Legal Protection"
+    },
+    "9270": {
+      "citations": [
+        "87300",
+        "87302"
+      ],
+      "material_issues": 3,
+      "title": "Conflict Of Interest"
+    },
+    "9310": {
+      "citations": [
+        "35010",
+        "35160",
+        "35160.5"
+      ],
+      "material_issues": 3,
+      "title": "Board Policies"
+    },
+    "9320": {
+      "citations": [
+        "54950"
+      ],
+      "material_issues": 1,
+      "title": "Meetings And Notices"
+    },
+    "9321.1": {
+      "citations": [
+        "54957.1"
+      ],
+      "material_issues": 1,
+      "title": "Closed Session Actions And Reports"
+    },
+    "9322": {
+      "citations": [
+        "54954.2"
+      ],
+      "material_issues": 1,
+      "title": "Agenda/Meeting Materials"
+    },
+    "9323.2": {
+      "citations": [
+        "35164"
+      ],
+      "material_issues": 1,
+      "title": "Actions By The Board"
+    },
+    "9323": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Meeting Conduct"
+    },
+    "9324": {
+      "citations": [
+        "35145",
+        "54957.2",
+        "54957.5"
+      ],
+      "material_issues": 3,
+      "title": "Minutes And Recordings"
+    },
+    "9400": {
+      "citations": [
+        "35160"
+      ],
+      "material_issues": 1,
+      "title": "Board Self-Evaluation"
+    }
+  }
+}

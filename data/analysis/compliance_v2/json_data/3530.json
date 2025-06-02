@@ -1,0 +1,84 @@
+{
+  "code": "3530",
+  "has_policy": true,
+  "has_regulation": true,
+  "policy": {
+    "code": "3530",
+    "title": "Risk Management/Insurance",
+    "type": "Policy",
+    "last_reviewed": "02/10/2021",
+    "file_path": "data/extracted/policies/3530.txt"
+  },
+  "regulation": {
+    "code": "3530",
+    "title": "Risk Management/Insurance",
+    "type": "Regulation",
+    "last_reviewed": "02/10/2021",
+    "file_path": "data/extracted/regulations/3530.txt"
+  },
+  "compliance": {
+    "issues": [
+      {
+        "priority": "MATERIAL",
+        "confidence": 85,
+        "title": "Missing Mandatory Fidelity Bond Coverage Requirements",
+        "description": "Education Code 41021 requires specific fidelity bond coverage amounts and designates which positions must be bonded. The regulation mentions fidelity bonds but lacks the mandatory minimum coverage amounts and specific position requirements mandated by law.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 41021",
+            "text": "The governing board of each school district shall require that each person whose duty it is to receive, account for, or disburse district funds be covered by a fidelity bond in an amount determined by the governing board but not less than the amounts specified in this section... The minimum amount of the fidelity bond shall be: (a) For the superintendent, $50,000. (b) For the chief business official, $50,000. (c) For other employees, an amount determined by the governing board."
+          }
+        ],
+        "required_language": "The district shall maintain fidelity bond coverage for employees whose duties include receiving, accounting for, or disbursing district funds. Minimum bond amounts shall be: (1) Superintendent - $50,000, (2) Chief Business Official - $50,000, (3) Other employees handling district funds - amount determined by the Board but adequate to protect district interests.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 90,
+        "title": "Missing Workers' Compensation Claims Administration Requirements",
+        "description": "Labor Code requires specific procedures for workers' compensation claims handling, including timely reporting and claims management procedures. While the regulation mentions workers' compensation insurance, it lacks the mandatory claims administration procedures.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Labor Code Section 5401",
+            "text": "Every employer shall establish a procedure to investigate and respond appropriately to all claims of work-related injuries or illnesses, and shall maintain a record of all such claims."
+          }
+        ],
+        "required_language": "The district shall establish procedures for investigating and responding to workers' compensation claims, including: (1) Immediate reporting of workplace injuries, (2) Prompt medical attention for injured employees, (3) Timely filing of required reports with insurance carriers and regulatory agencies, (4) Return-to-work programs when appropriate, (5) Maintenance of injury and illness records.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MATERIAL",
+        "confidence": 80,
+        "title": "Missing Liability Insurance Coverage Minimums",
+        "description": "Education Code 35214 establishes minimum liability insurance coverage requirements that must be maintained. The documents reference liability insurance but do not specify the mandatory minimum coverage amounts.",
+        "missing_from": "BOTH",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 35214",
+            "text": "The amount of insurance coverage maintained by a school district pursuant to this article shall be not less than the minimum amounts established by the State Board of Education."
+          }
+        ],
+        "required_language": "Liability insurance coverage shall meet or exceed minimum amounts established by the State Board of Education and shall provide adequate protection for the district's operations, including general liability, professional liability, and employment practices liability coverage.",
+        "recommended_placement": "AR"
+      },
+      {
+        "priority": "MINOR",
+        "confidence": 75,
+        "title": "Missing Property Insurance Valuation Requirements",
+        "description": "Education Code 17565 requires property insurance to be based on replacement value. The regulation mentions property insurance but doesn't specify the valuation method required by law.",
+        "missing_from": "AR",
+        "legal_citations": [
+          {
+            "citation": "Education Code Section 17565",
+            "text": "Insurance against fire or other hazards may be carried on school buildings, equipment, and supplies at not to exceed the replacement value thereof."
+          }
+        ],
+        "required_language": "Property insurance coverage shall be based on replacement value of district buildings, equipment, and supplies, and shall not exceed such replacement value.",
+        "recommended_placement": "AR"
+      }
+    ]
+  },
+  "check_date": "2025-06-01T13:30:06.639017+00:00"
+}
